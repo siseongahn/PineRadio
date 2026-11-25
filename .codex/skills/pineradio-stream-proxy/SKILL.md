@@ -22,8 +22,7 @@ Files in this repo:
 - `index.html`: `playableUrl()` sends http URLs through the relay when `location.protocol === "https:"`.
 
 ## Current status (last checked 2026-11-25)
-As of commit `990cd25` the server still needs the one-time checkout reset and relay restart listed
-under Troubleshooting ("Push made but the live site doesn't change"); until then check 4 returns 404.
+The checkout reset and relay restart after the history rewrite are done; check 4 returns 302.
 
 Checked from outside with curl:
 
