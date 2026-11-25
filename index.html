@@ -251,10 +251,7 @@ const UI = {
   load_failed:      ["Failed to load: {e}", "加载失败：{e}", "載入失敗：{e}", "Échec du chargement : {e}", "Laden fehlgeschlagen: {e}", "読み込みに失敗しました: {e}", "불러오기 실패: {e}", "Ошибка загрузки: {e}", "Error al cargar: {e}"],
   n_results:        ["{n} results", "{n} 个结果", "{n} 個結果", "{n} résultats", "{n} Ergebnisse", "{n} 件", "{n}개", "Результатов: {n}", "{n} resultados"],
   results_for:      ["results for “{q}”", "“{q}”的搜索结果", "「{q}」的搜尋結果", "résultats pour « {q} »", "Ergebnisse für „{q}“", "「{q}」の検索結果", "\"{q}\" 검색 결과", "результаты по запросу «{q}»", "resultados para «{q}»"],
-  n_stations:       ["{n} stations", "{n} 个电台", "{n} 個電台", "{n} stations", "{n} Sender", "{n} 局", "방송 {n}개", "Станций: {n}", "{n} emisoras"],
-  n_playlists_tracks: ["{p} playlists · {t} tracks", "{p} 个播放列表 · {t} 个音轨", "{p} 個播放清單 · {t} 首曲目", "{p} playlists · {t} pistes", "{p} Playlists · {t} Titel", "プレイリスト {p} · トラック {t}", "플레이리스트 {p}개 · 트랙 {t}개", "Плейлистов: {p} · треков: {t}", "{p} listas · {t} pistas"],
   n_tracks:         ["{n} tracks", "{n} 个音轨", "{n} 首曲目", "{n} pistes", "{n} Titel", "{n} トラック", "{n}트랙", "Треков: {n}", "{n} pistas"],
-  n_items:          ["{n} items", "{n} 项", "{n} 項", "{n} éléments", "{n} Einträge", "{n} 件", "{n}개", "Элементов: {n}", "{n} elementos"],
   global_search:    ["Search everywhere", "全局搜索", "全域搜尋", "Recherche globale", "Überall suchen", "すべてを検索", "전체 검색", "Поиск везде", "Buscar en todo"],
   n_found:          ["{n} found", "找到 {n} 个", "找到 {n} 個", "{n} trouvés", "{n} gefunden", "{n} 件見つかりました", "{n}개 찾음", "Найдено: {n}", "{n} encontrados"],
   searching:        ["searching {d}/{t}", "搜索中 {d}/{t}", "搜尋中 {d}/{t}", "recherche {d}/{t}", "Suche {d}/{t}", "検索中 {d}/{t}", "검색 중 {d}/{t}", "поиск {d}/{t}", "buscando {d}/{t}"],
@@ -561,7 +558,7 @@ async function renderContent() {
 
   if (S.tab === "favorites") {
     S.rows = S.favs.filter(r => matches({ _k: norm(r.name || r.title) + " " + norm(r.url || r.collection) }, q));
-    c.append(crumb(t("tab_favorites"), t("n_items", { n: num(S.rows.length) })));
+    c.append(crumb(t("tab_favorites")));
     return renderRows(c);
   }
 
@@ -575,7 +572,7 @@ async function renderContent() {
     }
     const isAll = S.country === ALL;
     const info = isAll ? allCountriesInfo() : countries[S.country];
-    c.append(crumb(isAll ? t("all_countries") : countryName(S.country), t("n_stations", { n: num(info.count) })));
+    c.append(crumb(isAll ? t("all_countries") : countryName(S.country)));
     const langs = Object.entries(info.languages).sort((a, b) => b[1].count - a[1].count);
     c.append(chipsRow(t("label_language"), langs.map(([l, v]) => [l, langName(l, true), v.count]), S.lang,
       v => { S.lang = v; S.genre = null; S.shown = PAGE; renderContent(); }, 20));
@@ -599,7 +596,7 @@ async function renderContent() {
   // audiobooks
   if (!S.collection || !S.index.audiobooks[S.collection]) S.collection = Object.keys(S.index.audiobooks).sort()[0];
   const info = S.index.audiobooks[S.collection];
-  c.append(crumb(S.collection.replace(/_/g, " "), t("n_playlists_tracks", { p: num(info.playlists), t: num(info.tracks) })));
+  c.append(crumb(S.collection.replace(/_/g, " ")));
   const status = c.appendChild(el("div", "status", t("loading")));
   let rows;
   try { rows = await bookRows(S.collection); } catch (e) { status.textContent = t("load_failed", { e: e.message }); return; }
@@ -682,7 +679,9 @@ async function renderGlobal(c, q, run) {
 }
 
 function crumb(title, meta) {
-  const d = el("div", "crumb"); d.append(el("h2", null, title), el("span", "meta", meta)); return d;
+  const d = el("div", "crumb"); d.append(el("h2", null, title));
+  if (meta) d.append(el("span", "meta", meta));
+  return d;
 }
 const expandedChips = new Set();
 function chipsRow(label, items, current, onPick, limit) {
