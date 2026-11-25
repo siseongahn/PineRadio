@@ -285,6 +285,13 @@ class Proxy:
             range_header = hget(headers, "range")
             for _ in range(MAX_HOPS + 1):
                 status, reason, up_headers, icy, up_reader, upstream_writer = await open_upstream(url, range_header)
+                if range_header and 400 <= status < 500:
+                    # Some servers (e.g. playlist scripts) fail any Range request; Safari always sends
+                    # one ("bytes=0-1") before playing, so retry the same URL without it.
+                    upstream_writer.close()
+                    upstream_writer = None
+                    range_header = None
+                    status, reason, up_headers, icy, up_reader, upstream_writer = await open_upstream(url)
                 location = hget(up_headers, "location")
                 if status in (301, 302, 303, 307, 308) and location:
                     upstream_writer.close()
