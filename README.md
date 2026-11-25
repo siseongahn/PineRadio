@@ -25,7 +25,6 @@ Then open <http://localhost:8000>. Locally the page plays every stream directly,
 ## Features
 
 ### Browsing and search
-- **Header totals:** the header shows the total number of stations and audiobooks, read from `data/index.json`. Hover it to see the track and collection counts.
 - **Radio:** pick a country in the sidebar, then narrow down with language and genre filters.
 - **All countries:** the first sidebar entry lists every station.
   - The filter counts show at once, read from `data/index.json`.
@@ -225,6 +224,8 @@ Install, verification and troubleshooting steps are in the Codex skill
 | `7b49925` | Fugaz One font for the PineRadio name in the header |
 | `65f2f71` | README: header font and change history |
 | `df204c1` | Site renamed to "PinePlayer Radio" (header, page title, media session, web manifest) |
+| `7b432d4` | README: change history for the rename |
+| `0e08a3a` | Removed the station and audiobook totals under the header title |
 
 ## Credits
 
