@@ -316,7 +316,7 @@
      ]
     },
     "classical": {
-     "count": 10,
+     "count": 13,
      "stations": [
       {
        "name": "Asami-Radio",
@@ -389,6 +389,24 @@
         "pop_hits",
         "classical"
        ],
+       "language_inferred": true
+      },
+      {
+       "name": "KBS Classic FM",
+       "url": "http://serpent0.duckdns.org:8088/kbsfm.pls",
+       "tags": [
+        "classical",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "KBS Classic FM",
+       "url": "http://kbs-radio.gscdn.com/tunein_1fm/_definst_/tunein_1fm.stream/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "KBS 클래식FM(Classic FM)-KBS제1FM – 90.3 FM – Masan – Gyeongsangnam-do – Republic of Korea",
+       "url": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Expires=1668267094&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLzFmbV8xOTJfMi5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjY4MjY3MDk0fX19XX0_&Signature",
        "language_inferred": true
       },
       {
@@ -1005,7 +1023,7 @@
      ]
     },
     "news_talk": {
-     "count": 122,
+     "count": 119,
      "stations": [
       {
        "name": "3 Radio KBS",
@@ -1344,19 +1362,6 @@
        "language_inferred": true
       },
       {
-       "name": "KBS Classic FM",
-       "url": "http://serpent0.duckdns.org:8088/kbsfm.pls",
-       "tags": [
-        "classical",
-        "news_talk"
-       ]
-      },
-      {
-       "name": "KBS Classic FM",
-       "url": "http://kbs-radio.gscdn.com/tunein_1fm/_definst_/tunein_1fm.stream/playlist.m3u8",
-       "language_inferred": true
-      },
-      {
        "name": "KBS Cool FM",
        "url": "http://serpent0.duckdns.org:8088/kbs2fm.pls"
       },
@@ -1437,11 +1442,6 @@
       {
        "name": "KBS 쿨FM(CoolFM)-KBS 제 2 FM – Seoul – Republic of Korea",
        "url": "https://2fm.gscdn.kbs.co.kr/2fm_192_3.m3u8?Expires=1668266871&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0uZ3NjZG4ua2JzLmNvLmtyLzJmbV8xOTJfMy5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjY4MjY2ODcxfX19XX0_&Signature",
-       "language_inferred": true
-      },
-      {
-       "name": "KBS 클래식FM(Classic FM)-KBS제1FM – 90.3 FM – Masan – Gyeongsangnam-do – Republic of Korea",
-       "url": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Expires=1668267094&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLzFmbV8xOTJfMi5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjY4MjY3MDk0fX19XX0_&Signature",
        "language_inferred": true
       },
       {

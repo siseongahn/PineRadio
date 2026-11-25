@@ -84,8 +84,10 @@ COMPILED = [(g, re.compile(rx)) for g, rx in GENRE_RULES]
 WEIGHT = defaultdict(lambda: 1.0, {g: 0.5 for g, _ in GENRE_RULES
                                     if g.startswith("decade_") or g in ("various_eclectic", "college_community", "pop_hits")})
 # 방송 이름으로 장르를 강제 지정: (국가, 이름 정규식, 장르). 플레이리스트 태그보다 우선.
+# 위에서부터 먼저 일치하는 규칙 적용.
 GENRE_OVERRIDES = [
-    ("South Korea", re.compile(r"\bKBS\b", re.I), "news_talk"),   # 한국 KBS 방송은 모두 뉴스/토크
+    ("South Korea", re.compile(r"\bKBS\b.*(classic|클래식)", re.I), "classical"),   # KBS 클래식FM
+    ("South Korea", re.compile(r"\bKBS\b", re.I), "news_talk"),                     # 그 밖의 한국 KBS 방송은 뉴스/토크
 ]
 
 
