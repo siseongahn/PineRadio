@@ -40,6 +40,7 @@ Then open <http://localhost:8000>. Locally the page plays every stream directly,
 
 ### Playback
 - **Formats:** plain audio streams and HLS (`.m3u8`, via [hls.js](https://github.com/video-dev/hls.js)).
+- **Reconnect:** a station that has played and then drops (a network blip, e.g. switching 5G cells) is reconnected up to 5 times, 1–15 s apart, before an error shows. A station that never starts fails at once.
 - **Previous/next:** follows the current result list, or the playlist for audiobooks.
 - **Keyboard and media keys:** <kbd>Space</kbd> plays or pauses and <kbd>/</kbd> jumps to the search box. The OS media keys work through the Media Session API.
 - **http stations on https:** on the https site, `http://` streams go through the stream relay (see below). `http://` logos are skipped there, because browsers would block them.

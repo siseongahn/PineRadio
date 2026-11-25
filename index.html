@@ -268,6 +268,7 @@ const UI = {
   pick_station:     ["Select a station to play", "选择要播放的电台", "選擇要播放的電台", "Choisissez une station", "Wähle einen Sender", "再生する局を選んでください", "재생할 방송을 선택하세요", "Выберите станцию", "Elige una emisora"],
   st_connecting:    ["Connecting…", "连接中…", "連線中…", "Connexion…", "Verbinde…", "接続中…", "연결 중…", "Подключение…", "Conectando…"],
   st_playing:       ["Playing", "正在播放", "正在播放", "Lecture", "Läuft", "再生中", "재생 중", "Играет", "Reproduciendo"],
+  st_reconnecting:  ["Reconnecting…", "重新连接中…", "重新連線中…", "Reconnexion…", "Verbinde erneut…", "再接続中…", "다시 연결 중…", "Переподключение…", "Reconectando…"],
   st_buffering:     ["Buffering…", "缓冲中…", "緩衝中…", "Mise en mémoire tampon…", "Puffern…", "バッファリング中…", "버퍼링…", "Буферизация…", "Cargando búfer…"],
   st_paused:        ["Paused", "已暂停", "已暫停", "En pause", "Pausiert", "一時停止", "일시정지", "Пауза", "En pausa"],
   st_ended:         ["Stream ended", "播放结束", "播放結束", "Flux terminé", "Stream beendet", "配信終了", "방송 종료", "Трансляция завершена", "Transmisión finalizada"],
@@ -804,15 +805,16 @@ let hls = null;
 // status is stored as a key (+ error flag) so it can be re-rendered when the language changes
 let nowState = { key: null, err: false };
 const P = {
-  current: null, queue: [], qi: -1,
+  current: null, queue: [], qi: -1, wantPlay: false,
   load(url) {
+    clearRetry(); this.wantPlay = true;
     if (hls) { hls.destroy(); hls = null; }
     audio.removeAttribute("src");
     const isHls = /\.m3u8(\?|$)/i.test(url);   // decided on the original URL, before proxying
     url = playableUrl(url);
     if (isHls && !audio.canPlayType("application/vnd.apple.mpegurl") && window.Hls?.isSupported()) {
       hls = new Hls();
-      hls.on(Hls.Events.ERROR, (_, d) => { if (d.fatal) showErr("err_hls"); });
+      hls.on(Hls.Events.ERROR, (_, d) => { if (d.fatal && !reconnect()) showErr("err_hls"); });
       hls.loadSource(url); hls.attachMedia(audio);
     } else {
       audio.src = url;
@@ -822,6 +824,7 @@ const P = {
   playStation(r, list) {
     this.queue = list.filter(x => x.kind === "radio"); this.qi = this.queue.indexOf(r);
     this.current = { kind: "radio", url: r.url, title: r.name, r };
+    retry.n = 0; retry.played = false;
     this.load(r.url); updateNow("st_connecting"); refreshPlaying();
   },
   playBook(r, i) {
@@ -840,7 +843,7 @@ const P = {
     if (audio.paused) {
       // live streams: reconnect instead of resuming a stale buffer
       if (this.current.kind === "radio") this.load(this.current.url); else audio.play();
-    } else audio.pause();
+    } else { this.wantPlay = false; clearRetry(); audio.pause(); }
   },
 };
 function currentSub() {
@@ -865,7 +868,31 @@ function updateNow(key, err) {
     navigator.mediaSession.metadata = new MediaMetadata({ title: P.current.title, artist: currentSub() || APP_NAME });
   }
 }
-function showErr(key) { audio.pause(); updateNow(key, true); refreshPlaying(); }
+// Live radio drops when the phone's network blips (e.g. switching 5G cells) and the browser then just
+// stops. A station that has already played is reconnected a few times, backing off, before an error
+// shows; reconnecting through the relay also fetches a fresh stream link. Never-played stations fail at once.
+const RETRY_DELAYS = [1000, 2000, 4000, 8000, 15000];
+const STALL_MS = 15000;       // buffering this long counts as a drop
+const STABLE_MS = 30000;      // playing this long resets the retry count
+const retry = { n: 0, played: false, timer: null, stall: null, stable: null };
+function clearRetry() {
+  clearTimeout(retry.timer); clearTimeout(retry.stall); clearTimeout(retry.stable);
+  retry.timer = retry.stall = retry.stable = null;
+}
+function reconnect() {
+  if (P.current?.kind !== "radio" || !P.wantPlay || !retry.played) return false;
+  if (retry.timer) return true;
+  if (retry.n >= RETRY_DELAYS.length) return false;
+  clearRetry();
+  updateNow("st_reconnecting");
+  retry.timer = setTimeout(() => { retry.timer = null; if (P.wantPlay) P.load(P.current.url); }, RETRY_DELAYS[retry.n++]);
+  return true;
+}
+function watchStall() {
+  if (P.current?.kind !== "radio" || !retry.played || retry.stall || retry.timer) return;
+  retry.stall = setTimeout(() => { retry.stall = null; reconnect(); }, STALL_MS);
+}
+function showErr(key) { P.wantPlay = false; clearRetry(); audio.pause(); updateNow(key, true); refreshPlaying(); }
 function refreshPlaying() {
   document.querySelectorAll(".row[data-url]").forEach(row => {
     const on = P.current?.url === row.dataset.url;
@@ -878,11 +905,16 @@ function refreshPlaying() {
     if (open) document.querySelectorAll(".track")[open.tracks.indexOf(P.current.url)]?.classList.add("playing");
   }
 }
-audio.addEventListener("playing", () => { updateNow("st_playing"); refreshPlaying(); });
-audio.addEventListener("waiting", () => updateNow("st_buffering"));
+audio.addEventListener("playing", () => {
+  updateNow("st_playing"); refreshPlaying();
+  retry.played = true; clearTimeout(retry.stall); retry.stall = null;
+  clearTimeout(retry.stable); retry.stable = setTimeout(() => { retry.n = 0; }, STABLE_MS);
+});
+audio.addEventListener("waiting", () => { if (!retry.timer) updateNow("st_buffering"); watchStall(); });
+audio.addEventListener("stalled", watchStall);
 audio.addEventListener("pause", () => { if (!nowState.err) updateNow("st_paused"); refreshPlaying(); });
-audio.addEventListener("error", () => { if (audio.getAttribute("src")) showErr("err_stream"); });
-audio.addEventListener("ended", () => P.current?.kind === "book" ? P.step(1) : updateNow("st_ended"));
+audio.addEventListener("error", () => { if (audio.getAttribute("src") && !reconnect()) showErr("err_stream"); });
+audio.addEventListener("ended", () => P.current?.kind === "book" ? P.step(1) : reconnect() || updateNow("st_ended"));
 audio.addEventListener("loadedmetadata", () => updateNow(audio.paused ? "st_paused" : "st_playing"));
 audio.addEventListener("timeupdate", () => {
   if (P.current?.kind !== "book" || !isFinite(audio.duration)) return;
@@ -901,6 +933,9 @@ vol.oninput = () => { audio.volume = +vol.value; store.set("volume", +vol.value)
 if ("mediaSession" in navigator) {
   navigator.mediaSession.setActionHandler("previoustrack", () => P.step(-1));
   navigator.mediaSession.setActionHandler("nexttrack", () => P.step(1));
+  // lock-screen play/pause go through P.toggle, so a paused station is not auto-reconnected
+  navigator.mediaSession.setActionHandler("play", () => { if (audio.paused) P.toggle(); });
+  navigator.mediaSession.setActionHandler("pause", () => { if (!audio.paused) P.toggle(); });
 }
 document.addEventListener("keydown", e => {
   if (e.target.matches("input, select, textarea")) return;
