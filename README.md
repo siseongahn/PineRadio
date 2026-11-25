@@ -2,7 +2,7 @@
 
 PineRadio is a browser player for about 746,000 internet radio stations and about 106,000 audiobooks (1.27 million tracks).
 
-**Live site:** <https://digipine.com/radio/>
+**Sample site:** <https://digipine.com/radio/> (live demo, updated on every push to `main`)
 
 - **Radio:** stations are deduplicated and grouped by **country › language › genre** (239 countries, 50 genres).
 - **Audiobooks:** the tracks are archive.org files, grouped into 44 collections of playlists.
@@ -12,7 +12,9 @@ PineRadio is a browser player for about 746,000 internet radio stations and abou
 
 ## Quick start
 
-Browsers block `fetch()` on pages opened as `file://`, so serve the folder over HTTP:
+To try it without installing anything, open the sample site: <https://digipine.com/radio/>.
+
+To run it locally: browsers block `fetch()` on pages opened as `file://`, so serve the folder over HTTP:
 
 ```sh
 git clone https://git.digipine.com/simon/PineRadio.git
