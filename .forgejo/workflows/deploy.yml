@@ -1,0 +1,27 @@
+name: Deploy PineRadio
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  deploy:
+    if: github.ref == 'refs/heads/main'
+    runs-on: pineradio-deploy
+    timeout-minutes: 5
+    env:
+      DEPLOY_SHA: ${{ github.sha }}
+    steps:
+      - name: Update the live checkout
+        working-directory: /srv/pineradio
+        run: |
+          test "$(git symbolic-ref --short HEAD)" = main
+          test -z "$(git status --porcelain)"
+          git fetch origin refs/heads/main
+          git merge-base --is-ancestor "$DEPLOY_SHA" FETCH_HEAD
+          git merge --ff-only FETCH_HEAD
+          test "$(git rev-parse HEAD)" = "$(git rev-parse FETCH_HEAD)"
+          git log -1 --oneline
