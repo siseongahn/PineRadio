@@ -64,6 +64,10 @@ aside .filter input { width: 100%; padding: 6px 10px; border: 1px solid var(--li
 .side-item:hover { background: var(--chip); }
 .side-item.on { background: var(--accent-soft); color: var(--accent); font-weight: 600; }
 .side-item .n { color: var(--muted); font-variant-numeric: tabular-nums; font-size: 12px; }
+.side-head {
+  padding: 10px 14px 4px; font-size: 11px; font-weight: 600; letter-spacing: .04em; text-transform: uppercase; color: var(--muted);
+}
+.side-head:not(:first-child) { margin-top: 6px; border-top: 1px solid var(--line); padding-top: 12px; }
 
 #content { overflow-y: auto; min-height: 0; padding: 14px 18px 30px; }
 .crumb { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; margin-bottom: 8px; }
@@ -217,6 +221,8 @@ const UI = {
   scope_all:        ["Everywhere", "全部", "全部", "Partout", "Überall", "すべて", "전체에서", "Везде", "En todo"],
   ui_language:      ["Interface language", "界面语言", "介面語言", "Langue de l'interface", "Sprache der Oberfläche", "表示言語", "화면 언어", "Язык интерфейса", "Idioma de la interfaz"],
   find_country:     ["Find a country", "查找国家", "尋找國家", "Trouver un pays", "Land suchen", "国を探す", "국가 찾기", "Найти страну", "Buscar país"],
+  sec_local:        ["English-speaking countries", "中文国家和地区", "中文國家和地區", "Pays francophones", "Deutschsprachige Länder", "日本語圏", "한국어 사용 국가", "Русскоязычные страны", "Países hispanohablantes"],
+  sec_other:        ["Other countries", "其他国家和地区", "其他國家和地區", "Autres pays", "Weitere Länder", "その他の国・地域", "기타 국가", "Другие страны", "Otros países"],
   find_collection:  ["Find a collection", "查找合集", "尋找合集", "Trouver une collection", "Sammlung suchen", "コレクションを探す", "컬렉션 찾기", "Найти коллекцию", "Buscar colección"],
   unknown_country:  ["Unknown country", "未知国家", "未知國家", "Pays inconnu", "Unbekanntes Land", "国不明", "국가 미상", "Страна неизвестна", "País desconocido"],
   unknown_lang:     ["Unknown language", "未知语言", "未知語言", "Langue inconnue", "Unbekannte Sprache", "言語不明", "언어 미상", "Язык неизвестен", "Idioma desconocido"],
@@ -325,7 +331,22 @@ const GENRES = {
 };
 
 const storeGet = (k, d) => { try { const v = localStorage.getItem("pineradio:" + k); return v == null ? d : JSON.parse(v); } catch { return d; } };
-let LOCALE = LOCALES.includes(storeGet("locale", "en")) ? storeGet("locale", "en") : "en";
+// First visit: pick the UI language from the browser's language list and save it.
+// Later visits: always use the saved choice (changed only via the language menu).
+function detectLocale() {
+  for (const tag of navigator.languages?.length ? navigator.languages : [navigator.language || ""]) {
+    const t = tag.toLowerCase();
+    if (t.startsWith("zh")) return /hant|-tw|-hk|-mo/.test(t) ? "zh-Hant" : "zh-Hans";
+    const base = t.split("-")[0];
+    if (LOCALES.includes(base)) return base;
+  }
+  return "en";
+}
+let LOCALE = storeGet("locale", null);
+if (!LOCALES.includes(LOCALE)) {
+  LOCALE = detectLocale();
+  try { localStorage.setItem("pineradio:locale", JSON.stringify(LOCALE)); } catch {}
+}
 let LI = LOCALES.indexOf(LOCALE);
 let regionNames, languageNames;
 function setLocale(loc) {
@@ -441,20 +462,51 @@ function applyStaticText() {
 }
 
 // ---------- sidebar ----------
+// Countries where each UI language is official or widely spoken (ISO 3166-1 alpha-2).
+// They are listed first in the sidebar, sorted by station count unless `ordered` keeps the given order.
+const LOCALE_COUNTRIES = {
+  "en": { codes: "US GB CA AU IE NZ ZA JM NG GH KE UG ZM ZW TZ RW SS BW NA LS SZ MW SL LR GM CM MT SG PH IN PK "
+               + "TT BS BB BZ GY AG DM GD KN LC VC BM KY VG VI AI MS GI IM JE GG FK GU AS MP FJ PG SB VU WS TO KI TV NR PW MH FM CK NU" },
+  "zh-Hans": { codes: "CN SG TW HK MO", ordered: true },
+  "zh-Hant": { codes: "TW HK MO CN SG", ordered: true },
+  "fr": { codes: "FR BE CH CA LU MC HT SN CI CM CD CG ML BF NE TG BJ GN GA CF TD MG DJ KM BI RW SC MU "
+               + "RE GP MQ GF YT PF NC PM BL MF WF VU" },
+  "de": { codes: "DE AT CH LI LU BE" },
+  "ja": { codes: "JP" },
+  "ko": { codes: "KR KP" },
+  "ru": { codes: "RU BY KZ KG UA MD" },
+  "es": { codes: "ES MX AR CO CL PE VE EC DO GT BO SV UY PY HN CR PA NI CU PR GQ" },
+};
+function countryGroups() {
+  const entries = Object.entries(S.index.radio.countries).sort((a, b) => b[1].count - a[1].count);
+  const conf = LOCALE_COUNTRIES[LOCALE];
+  if (!conf) return { local: [], other: entries };
+  const codes = conf.codes.split(/\s+/);
+  const isLocal = ([, info]) => info.code && codes.includes(info.code);
+  const local = entries.filter(isLocal);
+  if (conf.ordered) local.sort((a, b) => codes.indexOf(a[1].code) - codes.indexOf(b[1].code));
+  return { local, other: entries.filter(e => !isLocal(e)) };
+}
+
 function renderSide() {
   const side = $("#side"); side.textContent = "";
   const f = norm($("#sideFilter").value);
   const frag = document.createDocumentFragment();
   if (S.tab === "radio") {
-    const list = Object.entries(S.index.radio.countries).sort((a, b) => b[1].count - a[1].count);
-    for (const [name, info] of list) {
-      const label = countryName(name);
-      if (f && !norm(label).includes(f) && !norm(name).includes(f)) continue;
-      const b = el("button", "side-item" + (name === S.country ? " on" : ""));
-      b.append(el("span", null, label), el("span", "n", num(info.count)));
-      b.onclick = () => { S.country = name; S.lang = S.genre = null; store.set("country", name); resetAndRender(); };
-      frag.append(b);
-    }
+    const { local, other } = countryGroups();
+    const addGroup = (title, list) => {
+      const items = list.filter(([name]) => !f || norm(countryName(name)).includes(f) || norm(name).includes(f));
+      if (!items.length) return;
+      if (title) frag.append(el("div", "side-head", title));
+      for (const [name, info] of items) {
+        const b = el("button", "side-item" + (name === S.country ? " on" : ""));
+        b.append(el("span", null, countryName(name)), el("span", "n", num(info.count)));
+        b.onclick = () => { S.country = name; S.lang = S.genre = null; store.set("country", name); resetAndRender(); };
+        frag.append(b);
+      }
+    };
+    addGroup(local.length ? t("sec_local") : null, local);
+    addGroup(local.length ? t("sec_other") : null, other);
   } else if (S.tab === "audiobooks") {
     const list = Object.entries(S.index.audiobooks).sort((a, b) => a[0].localeCompare(b[0]));
     for (const [slug, info] of list) {
@@ -492,7 +544,10 @@ async function renderContent() {
 
   if (S.tab === "radio") {
     const countries = S.index.radio.countries;
-    if (!S.country || !countries[S.country]) S.country = "United States" in countries ? "United States" : Object.keys(countries)[0];
+    if (!S.country || !countries[S.country]) {
+      const { local, other } = countryGroups();
+      S.country = (local[0] || other[0])[0];
+    }
     const info = countries[S.country];
     c.append(crumb(countryName(S.country), t("n_stations", { n: num(info.count) })));
     c.append(chipsRow(t("label_language"), Object.entries(info.languages).map(([l, v]) => [l, langName(l, true), v.count]), S.lang,
@@ -772,6 +827,8 @@ LOCALES.forEach((loc, i) => { const o = el("option", null, LOCALE_NAMES[i]); o.v
 uiLang.value = LOCALE;
 uiLang.onchange = () => {
   setLocale(uiLang.value); store.set("locale", uiLang.value);
+  // no country picked by hand yet → follow the new language's first country
+  if (store.get("country", null) == null) { S.country = null; S.lang = S.genre = null; }
   applyStaticText(); updateNow();
   if (S.index) { renderSide(); renderContent(); }
 };
