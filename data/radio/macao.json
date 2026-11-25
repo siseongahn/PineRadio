@@ -1,0 +1,140 @@
+{
+ "country": "Macao",
+ "count": 19,
+ "languages": {
+  "Chinese": {
+   "count": 18,
+   "genres": {
+    "christian_gospel": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "RADIO MARIA MACAU",
+       "url": "http://dreamsiteradiocp2.com:8038/stream",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Green Village Radio FM 99.5 -  澳門",
+       "url": "https://fm995.ddns.net/hls1/fm995.m3u8",
+       "tags": [
+        "news_talk",
+        "folk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Macau Cantonese",
+       "url": "https://live4.tdm.com.mo/live/_definst_/rch2.live/chunklist.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 15,
+     "stations": [
+      {
+       "name": "1vaaluhit",
+       "url": "https://stream.zeno.fm/19637rh9938uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Dj sagaz",
+       "url": "https://stream.zeno.fm/7pdpwp9dpxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Lou Reed",
+       "url": "https://stream.zeno.fm/8ezb97ad1k8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Macau 98.0FM",
+       "url": "https://live4.tdm.com.mo/live/_definst_/rch1.live/chunklist_w1862264572.m3u8",
+       "country_inferred": true
+      },
+      {
+       "name": "RADIO MARIA MACAU",
+       "url": "http://dreamsiteradiocp2.com:8038/"
+      },
+      {
+       "name": "RADIO RZO MACAU",
+       "url": "https://stream.zeno.fm/duesxuxk2p8uv"
+      },
+      {
+       "name": "Radio Vilaverde 綠邨738 AM",
+       "url": "http://59.188.222.12:1935/am738/738/playlist.m3u8"
+      },
+      {
+       "name": "Rádio Macau",
+       "url": "http://live4.tdm.com.mo:80/live/rch1.live/playlist.m3u8"
+      },
+      {
+       "name": "Rádio Macau FM98.0",
+       "url": "https://mo.ufofm.com/live/rch1.live/chunklist_w1881620473.m3u8?audio?n=60f3122862ba40f4d342",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Macau – Macao – Municipality of Macau – Macao",
+       "url": "http://live4.tdm.com.mo:1935/live/rch1.live/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "Song Tayer Ya Hawa Mohammed Rushdi",
+       "url": "https://stream.zeno.fm/fpkzmh3uv4gvv",
+       "language_inferred": true
+      },
+      {
+       "name": "TheXcapeFromReallity",
+       "url": "https://stream.zeno.fm/s22r9raa7zhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Xcapefromreality2.0",
+       "url": "https://stream.zeno.fm/e1mcv74fzxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "澳門電台 FM 100.7",
+       "url": "http://live4.tdm.com.mo:1935/live/_definst_/rch2.live/playlist.m3u8"
+      },
+      {
+       "name": "澳門電台 FM100.7",
+       "url": "https://mo.ufofm.com/live/rch2.live/chunklist_w905210118.m3u8?audio?n=66acb01fd1026a458b26",
+       "language_inferred": true
+      }
+     ]
+    }
+   }
+  },
+  "Portuguese": {
+   "count": 1,
+   "genres": {
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Rádio Macau Portuguese",
+       "url": "https://live4.tdm.com.mo/live/_definst_/rch1.live/chunklist.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      }
+     ]
+    }
+   }
+  }
+ }
+}

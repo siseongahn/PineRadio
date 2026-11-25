@@ -1,0 +1,386 @@
+{
+ "country": "Niger",
+ "count": 51,
+ "languages": {
+  "French": {
+   "count": 47,
+   "genres": {
+    "christian_gospel": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Fortis Radio 9",
+       "url": "http://89.238.166.245:9048/",
+       "tags": [
+        "christian_gospel",
+        "soul_rnb_funk",
+        "news_talk",
+        "sports",
+        "hip_hop_rap"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Moubarak 91.1 Ouallam",
+       "url": "https://stream.zeno.fm/ocexarwh8o8tv"
+      }
+     ]
+    },
+    "college_community": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "nmyigjhjh",
+       "url": "https://stream.zeno.fm/gghb0h6tn0hvv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "comedy": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "bitchassradio",
+       "url": "https://stream.zeno.fm/e532bpepnm0uv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "hip_hop_rap": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "FISHFM",
+       "url": "http://169.54.164.222/listen/83uhgq84x2vtv",
+       "tags": [
+        "news_talk",
+        "hip_hop_rap"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Sahara",
+       "url": "http://www.blog.fr/srv/media/dewplayer.swf?son=http://data7.blog.de/media/533/6384533_eb9e1b0d4f_a.mp3",
+       "tags": [
+        "reggae_ska",
+        "hip_hop_rap"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Sure FM",
+       "url": "https://node-23.zeno.fm/88atge56mceuv.aac?rj-ttl=5&rj-token=AAABbQHO-d-CXuRI0DBCwRzWVo5pbiQ5uOtfBVdNyp9lAwlwzc80xA",
+       "tags": [
+        "alternative_indie",
+        "hip_hop_rap"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Tune3ree Radio",
+       "url": "https://streaming.shoutcast.com/Tune3reeFm?lang=en-US%2cen%3bq%3d0.9",
+       "tags": [
+        "hip_hop_rap",
+        "electronic"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "jazz": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "RFI Musique Afrique",
+       "url": "http://rfi-musiquemonde-64k.scdn.arkena.com/rfimusiquemonde.mp3",
+       "tags": [
+        "jazz",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 9,
+     "stations": [
+      {
+       "name": "Africa N°1",
+       "url": "http://ice4.infomaniak.ch/african1paris-128",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Pidginradio",
+       "url": "http://station.voscast.com/58b72e2e3883e/",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Dallol 92.8 radio",
+       "url": "https://stream.zeno.fm/f6gaurw4eyjvv",
+       "tags": [
+        "news_talk",
+        "sports"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Dallol Balleyara radio",
+       "url": "https://stream.zeno.fm/zknaeueoqdntv",
+       "tags": [
+        "news_talk",
+        "sports"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Farah",
+       "url": "https://stream.zeno.fm/f9zacil8jwgtv",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "RADIO GASKIA ZINDER radio",
+       "url": "https://stream.zeno.fm/wmhdhhdhakhvv",
+       "tags": [
+        "christian_gospel",
+        "news_talk",
+        "sports"
+       ]
+      },
+      {
+       "name": "RFI 1 Afrique",
+       "url": "http://rfi-afrique-96k.scdn.arkena.com/rfiafrique-96k.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "RTT Niger radio",
+       "url": "https://stream.zeno.fm/y1xvpw44hf1tv",
+       "tags": [
+        "news_talk",
+        "sports"
+       ]
+      },
+      {
+       "name": "Wadata Radio 107.4Mhz Niamey",
+       "url": "https://stream.zeno.fm/1y2c3qbgbchvv",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Hit Radio Niger",
+       "url": "https://hr-niger.ice.infomaniak.ch/hr-niger-64.aac"
+      },
+      {
+       "name": "Station Beta Africa, Zourgo Koara radio",
+       "url": "https://stream.zeno.fm/dmhomcqjysnvv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "soul_rnb_funk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio BLAU Leipzig trocken 320kbps",
+       "url": "http://icecast.radioblau.de:8000/blau_320_dry?n=f68b8267ff3ef61ebbdc",
+       "language_inferred": true
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 26,
+     "stations": [
+      {
+       "name": "ACTIVANDO LA SALSA CON  DJ APA",
+       "url": "https://stream.zeno.fm/h2h6qgvbup8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Boy Boy Xx.",
+       "url": "https://stream.zeno.fm/mu0huwgbk1otv",
+       "language_inferred": true
+      },
+      {
+       "name": "Godmen radio",
+       "url": "https://stream.zeno.fm/fcenoijvvoluv",
+       "language_inferred": true
+      },
+      {
+       "name": "Impact com media",
+       "url": "https://stream.zeno.fm/sa7abtgg9hhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Johnny",
+       "url": "https://stream.zeno.fm/sn6ugxra665uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Los Santos Rock Radio",
+       "url": "https://stream.zeno.fm/4wbu38tcqrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "MAAUN CAMPUS FM",
+       "url": "https://stream.zeno.fm/ssc2zf6iscmtv",
+       "language_inferred": true
+      },
+      {
+       "name": "Music for the Brain",
+       "url": "https://stream.zeno.fm/9yg2c4qc04ruv",
+       "language_inferred": true
+      },
+      {
+       "name": "NECybersecurity",
+       "url": "https://stream.zeno.fm/xarhcu5d508uv",
+       "language_inferred": true
+      },
+      {
+       "name": "ORTN La Voix du Sahel – 91.3 FM – NE-8",
+       "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/la_voix_du_sahel/radio_hls/index.m3u8?hdnea=st=1625665106~exp=1625665316~acl=/*~hmac=5b068df5e67d3fb6b1c171a7abbdbeee0e99cf4cfae5835a170e7b05e627c35d",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Al-Ummah – 89.5 FM – NE-8",
+       "url": "http://al-ummah_fm.vestaradio.com/listen.pls",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO DALLO BALLEYARA",
+       "url": "https://stream.zeno.fm/nr3491e0dc2vv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Dallol 92.8 Dogondoutchi",
+       "url": "https://stream.zeno.fm/orv3efzpotytv"
+      },
+      {
+       "name": "Radio et Television Labari",
+       "url": "https://stream.zeno.fm/9uzagvg11uquv"
+      },
+      {
+       "name": "Radio Panafricaine pour le Developpement",
+       "url": "https://stream.zeno.fm/x9v8dk7beq8uv"
+      },
+      {
+       "name": "Radio Zamani Maradi",
+       "url": "https://stream.zeno.fm/avyi72funjftv"
+      },
+      {
+       "name": "Rahama FM",
+       "url": "https://stream.zeno.fm/fvrz0evthxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "RTT NIGER",
+       "url": "https://stream.zeno.fm/w9g4bgjcaicvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Sky-radio",
+       "url": "https://stream.zeno.fm/1r83fqk6z4zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "SLUW2K",
+       "url": "https://stream.zeno.fm/0a8qs5nyag8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Synergy FM",
+       "url": "https://stream.zeno.fm/pxmhydhdpn0tv",
+       "language_inferred": true
+      },
+      {
+       "name": "TOJORO FM",
+       "url": "https://stream.zeno.fm/9rfm7kevwobuv",
+       "language_inferred": true
+      },
+      {
+       "name": "TOJORO FM",
+       "url": "https://stream.zeno.fm/btt7xmk8bxvuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Tzgospel",
+       "url": "https://stream.zeno.fm/pt906es00ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Wadata Radio 107.4 Niamey",
+       "url": "https://stream.zeno.fm/wmtfupcgbchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "WDT Backup",
+       "url": "https://stream.zeno.fm/xy69qpbgbchvv",
+       "language_inferred": true
+      }
+     ]
+    }
+   }
+  },
+  "Hausa": {
+   "count": 3,
+   "genres": {
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Garkuwa 107 Maradi",
+       "url": "https://stream.zeno.fm/x0a1r1qu1nhvv",
+       "tags": [
+        "sports",
+        "news_talk"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Radio Dallo Balleyara",
+       "url": "https://stream.zeno.fm/g8d08ns4oxyuv"
+      },
+      {
+       "name": "RTZ RADIO TELEVISION ZAMANI MARADI",
+       "url": "https://stream.zeno.fm/6vathrqpwxhvv"
+      }
+     ]
+    }
+   }
+  },
+  "Swahili": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Tzgospel (niger)",
+       "url": "https://stream.zeno.fm/4feh3es00ehvv"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

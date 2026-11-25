@@ -1,0 +1,81 @@
+{
+ "country": "Northern Mariana Islands",
+ "count": 7,
+ "languages": {
+  "English": {
+   "count": 7,
+   "genres": {
+    "easy_listening": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "KWAW - Magic 100.3 Fm Listen live",
+       "url": "https://s3.radio.co/s8f738b862/listen",
+       "tags": [
+        "pop_hits",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "KZMI 103.9",
+       "url": "https://streamingv2.shoutcast.com/kzmi-1039",
+       "tags": [
+        "pop_hits",
+        "easy_listening",
+        "alternative_indie"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "KKMP",
+       "url": "https://s2.yesstreaming.net:17208/stream"
+      },
+      {
+       "name": "Station Beta, Garapan Village radio",
+       "url": "https://stream.zeno.fm/liu4uyurnertv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "rock": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Power 99 FM radio",
+       "url": "https://streamdb7web.securenetsystems.net/v5/KPXP",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "world": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "KKMP",
+       "url": "http://s2.yesstreaming.net/proxy/bluecont"
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "KKMP",
+       "url": "https://s2.yesstreaming.net:17208/"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

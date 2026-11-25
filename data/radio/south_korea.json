@@ -1,0 +1,3339 @@
+{
+ "country": "South Korea",
+ "count": 490,
+ "languages": {
+  "Korean": {
+   "count": 464,
+   "genres": {
+    "alternative_indie": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Fantasy Gigs Brit Pop Live",
+       "url": "https://drive.uber.radio/uber/gigsbluroasisthebeatles/icecast.audio",
+       "tags": [
+        "pop_hits",
+        "alternative_indie"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Kiss",
+       "url": "https://mytuner-radio.com/radio/country/south-korea-stations"
+      },
+      {
+       "name": "Radio Kiss Indie Music",
+       "url": "http://124.53.158.172:1156"
+      }
+     ]
+    },
+    "ambient_relax": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "Happyday Newage Radio COOOOL",
+       "url": "http://newage.kr:8888/stream/1"
+      },
+      {
+       "name": "Happyday Newage Radio EZ",
+       "url": "http://newage.kr:8000/stream/1"
+      },
+      {
+       "name": "Kmstudio Classical Radio",
+       "url": "http://c9.inlive.co.kr:1652",
+       "tags": [
+        "ambient_relax",
+        "classical",
+        "easy_listening"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "KMStudio Classical Radio (KCR)",
+       "url": "https://crs.webdesign-flash.ro/?q=mms://AM98.5Mhz.net/&plugin_id=7628&site_id=8520577",
+       "language_inferred": true
+      }
+     ]
+    },
+    "blues": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Fantasy Gigs Blues Rock Live",
+       "url": "https://drive.uber.radio/uber/gigswintergallagherwolf/icecast.audio",
+       "tags": [
+        "blues",
+        "rock"
+       ]
+      }
+     ]
+    },
+    "chillout_lounge": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Blue FM",
+       "url": "http://mainstream.radioagora.pl/bluefm.ogg",
+       "tags": [
+        "various_eclectic",
+        "chillout_lounge",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "KBIC live",
+       "url": "http://kbic.info:8880/&type=mp3",
+       "tags": [
+        "chillout_lounge",
+        "pop_hits",
+        "jpop_kpop_asia"
+       ]
+      },
+      {
+       "name": "Kmfm 24hours Classical Fm",
+       "url": "http://c4.inlive.co.kr:6392/stream/1",
+       "tags": [
+        "ambient_relax",
+        "classical",
+        "chillout_lounge",
+        "easy_listening"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      }
+     ]
+    },
+    "christian_gospel": {
+     "count": 35,
+     "stations": [
+      {
+       "name": "ANBC Radio 미주온누리방송국 live",
+       "url": "https://streams.radio.co/sc8aa12ab9/low"
+      },
+      {
+       "name": "BBS FM 울산불교방송 88.3 FM live",
+       "url": "http://bbslive.goldenday.kr:1935/hls/bbsus_live/playlist.m3u8"
+      },
+      {
+       "name": "CBS JOY4U",
+       "url": "http://aac.cbs.co.kr/cbscmc/_definst_/cbscmc_96k.stream/chunklist.m3u8"
+      },
+      {
+       "name": "CBS Joy4U-CBS 라디오 live",
+       "url": "http://aac.cbs.co.kr:1935/cbscmc/_definst_/cbscmc_96k.stream/playlist.m3u8"
+      },
+      {
+       "name": "CBS Music FM",
+       "url": "http://aac.cbs.co.kr/cbs981/_definst_/cbs981.stream/chunklist.m3u8"
+      },
+      {
+       "name": "CBS Standard FM",
+       "url": "http://aac.cbs.co.kr/cbs939/_definst_/cbs939.stream/chunklist.m3u8"
+      },
+      {
+       "name": "CBS 뮤직 FM",
+       "url": "https://aac.cbs.co.kr/cbs939/_definst_/cbs939.stream/playlist.m3u8",
+       "tags": [
+        "christian_gospel",
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "CCCM Radio",
+       "url": "http://mic.inlive.co.kr:1110"
+      },
+      {
+       "name": "CPBC 가톨릭평화방송 평화신문",
+       "url": "rtsp://49.1.248.31:1935/live/fmlive.stream"
+      },
+      {
+       "name": "HLAD - Febc 대전극동방송 93.3 FM",
+       "url": "http://mlive2.febc.net:1935/live/djlive/playlist.m3u8",
+       "tags": [
+        "christian_gospel",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "HLAD Far East Broadcasting 93.3 FM",
+       "url": "mms://live.febc.net/LiveFm"
+      },
+      {
+       "name": "HLAZ Far East Broadcasting 1566 AM",
+       "url": "http://live.febc.net/jeju_febc"
+      },
+      {
+       "name": "HLDD Far East Broadcasting 98.1 FM",
+       "url": "mms://live.febc.net/changwon_febc"
+      },
+      {
+       "name": "HLDZ Far East Broadcasting 90.3 FM",
+       "url": "mms://live.febc.net/pohang_febc"
+      },
+      {
+       "name": "HLKO - 제주 CBS Radio 93.3 FM",
+       "url": "https://aac.cbs.co.kr/jeju/_definst_/jeju.stream/playlist.m3u8",
+       "tags": [
+        "christian_gospel",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "HLKW Far East Broadcasting 100.5 FM",
+       "url": "mms://live.febc.net/mokpo_febc"
+      },
+      {
+       "name": "HLKX AM Far East Broadcasting 1188",
+       "url": "mms://live.febc.or.kr/liveam"
+      },
+      {
+       "name": "HLKX FM Far East Broadcasting 106.9",
+       "url": "mms://live.febc.or.kr/livefm"
+      },
+      {
+       "name": "HLQQ - FEBC 부산극동방송 93.3 FM",
+       "url": "http://mlive2.febc.net:1935/live/bsfebc/playlist.m3u8",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "HLQR Far East Broadcasting 107.3 FM",
+       "url": "mms://live.febc.net/ulsan_febc"
+      },
+      {
+       "name": "HLYD Far East Broadcasting 90.1 FM",
+       "url": "mms://live.febc.net/yeongdong_febc"
+      },
+      {
+       "name": "Jinli Radio",
+       "url": "https://streamer.radio.co/s014534c05/listen",
+       "tags": [
+        "christian_gospel",
+        "kids",
+        "folk",
+        "world"
+       ]
+      },
+      {
+       "name": "PBC Radio",
+       "url": "http://onair2.cpbc.co.kr:1935/live/Instreamer.stream_aac/playlist.m3u8",
+       "tags": [
+        "christian_gospel",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "PBC 대구평화방송",
+       "url": "http://live.dgpbc.co.kr/cdnlive-hls/dgpbclive/_definst_/liveevent/livestream.m3u8"
+      },
+      {
+       "name": "Semeando o Amor de Deus Listen live",
+       "url": "https://cloud.cdnseguro.com:2497//stream.mp3",
+       "tags": [
+        "christian_gospel",
+        "rock",
+        "latin"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Seongseo 89.1 FM",
+       "url": "http://onair.scnfm.kr:8000/scnfm"
+      },
+      {
+       "name": "WOWCCM - 와우씨씨엠",
+       "url": "http://wowccm.iptime.org:8000/",
+       "tags": [
+        "christian_gospel",
+        "world",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "YAHWEH CHRISTIAN RADIO",
+       "url": "https://s3.radio.co/s22189b87c/low",
+       "tags": [
+        "christian_gospel",
+        "rock",
+        "hip_hop_rap",
+        "soul_rnb_funk",
+        "metal",
+        "country",
+        "drum_and_bass",
+        "world",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Yahweh Christian Radio",
+       "url": "https://s3.radio.co/s22189b87c/listen"
+      },
+      {
+       "name": "광주 CBS FM",
+       "url": "https://aac.cbs.co.kr/gwangju/_definst_/gwangju.stream/playlist.m3u8",
+       "tags": [
+        "christian_gospel",
+        "news_talk",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "광주극동방송 FM",
+       "url": "http://mlive2.febc.net:1935/live/gjlive/playlist.m3u8",
+       "tags": [
+        "christian_gospel",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "대구극동방송 FM",
+       "url": "http://220.73.173.216:1935/live/daegulive/playlist.m3u8",
+       "tags": [
+        "christian_gospel",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "목포극동방송FM",
+       "url": "http://mlive2.febc.net:1935/live/mplive/playlist.m3u8"
+      },
+      {
+       "name": "서울극동방송FM",
+       "url": "https://mlive2.febc.net/live/seoulfm/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "전남동부극동방송 FM",
+       "url": "http://mlive2.febc.net:1935/live/jndblive/playlist.m3u8",
+       "language_inferred": true
+      }
+     ]
+    },
+    "classical": {
+     "count": 12,
+     "stations": [
+      {
+       "name": "Asami-Radio",
+       "url": "http://178.238.225.39:9000/stream/stream/1",
+       "tags": [
+        "classical",
+        "soul_rnb_funk",
+        "rock",
+        "soundtrack",
+        "house",
+        "jpop_kpop_asia",
+        "country",
+        "drum_and_bass",
+        "kids",
+        "world",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Big B Radio Kpop Station The Only Hot Station For Asian Music",
+       "url": "http://50.7.173.162:8076/stream/1",
+       "tags": [
+        "jpop_kpop_asia",
+        "classical",
+        "house",
+        "big_band_swing",
+        "kids"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Big B Radio Kpop The Hot Station For Asian Music",
+       "url": "http://176.31.239.83:8465/stream/1",
+       "tags": [
+        "classical",
+        "house",
+        "big_band_swing",
+        "kids",
+        "jpop_kpop_asia"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Inlive Fm",
+       "url": "http://222.122.178.187:1592/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Japanimradio FM",
+       "url": "http://vps-8ef514a5.vps.ovh.net:8000/stream",
+       "tags": [
+        "classical",
+        "soul_rnb_funk",
+        "rock",
+        "jpop_kpop_asia",
+        "country",
+        "drum_and_bass",
+        "kids",
+        "world",
+        "news_talk",
+        "soundtrack"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Jonghap Top 20",
+       "url": "http://ch01.saycast.com/",
+       "tags": [
+        "pop_hits",
+        "classical"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "KBS Classic FM",
+       "url": "http://serpent0.duckdns.org:8088/kbsfm.pls",
+       "tags": [
+        "classical",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "KBS Classic FM",
+       "url": "http://kbs-radio.gscdn.com/tunein_1fm/_definst_/tunein_1fm.stream/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "KMStudio Classical Radio (KCR)",
+       "url": "http://133.186.160.52:8186/",
+       "tags": [
+        "classical",
+        "ambient_relax"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Marcus EBN Radio",
+       "url": "http://www.ebnradio.com/listen.pls",
+       "tags": [
+        "classical",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Newage Happyday Radio",
+       "url": "http://newage.kr:8080"
+      },
+      {
+       "name": "Sj Music Inspiration Music Of Super Junior",
+       "url": "http://178.32.57.58:8817/stream/1",
+       "tags": [
+        "classical",
+        "house",
+        "jpop_kpop_asia",
+        "kids"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "disco_eurodance": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "2PM Radio",
+       "url": "https://stream.pcradio.ru/two_pm-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Yiruma Radio",
+       "url": "https://stream.pcradio.ru/Yurima-med",
+       "language_inferred": true
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 11,
+     "stations": [
+      {
+       "name": "Blue Fm Easy Listening Instrumental Contemporary Chillout Smooth",
+       "url": "http://zoo.inlive.co.kr:8080/stream/1",
+       "tags": [
+        "easy_listening",
+        "classical",
+        "rock",
+        "smooth_jazz",
+        "chillout_lounge",
+        "christian_gospel"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "BREEZ",
+       "url": "https://stream.zeno.fm/6trddptrsg0uv",
+       "tags": [
+        "easy_listening",
+        "alternative_indie",
+        "various_eclectic",
+        "jazz"
+       ]
+      },
+      {
+       "name": "Dreamcast",
+       "url": "http://dream.saycast.com"
+      },
+      {
+       "name": "Happyday Newage Radio EZ",
+       "url": "http://newage.kr:8000",
+       "tags": [
+        "easy_listening",
+        "ambient_relax",
+        "chillout_lounge",
+        "jazz",
+        "classical",
+        "world",
+        "electronic"
+       ]
+      },
+      {
+       "name": "MBC 4 U FM",
+       "url": "https://ns1.tjmbc.co.kr/live_fm/live_fm.stream/playlist.m3u8"
+      },
+      {
+       "name": "Music FM CBS",
+       "url": "http://aac.cbs.co.kr/cbs939/_definst_/cbs939.stream/chunklist_w1841538109.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "SBS 고릴라디오M - Gorilla M",
+       "url": "https://www.sbs.co.kr/live/S07?div=live_list",
+       "tags": [
+        "pop_hits",
+        "easy_listening",
+        "jpop_kpop_asia"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Scast Ballad Kpop",
+       "url": "http://c79.kr:80/stream/1",
+       "tags": [
+        "easy_listening",
+        "pop_hits",
+        "jpop_kpop_asia"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Sunset Pop",
+       "url": "http://fm105.5Mhz.net",
+       "tags": [
+        "pop_hits",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "TBC Dream FM",
+       "url": "http://192.232.199.108:8012/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "WBS 원음방송",
+       "url": "http://49.247.3.32:8000/wbs-smok",
+       "tags": [
+        "easy_listening",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "electronic": {
+     "count": 10,
+     "stations": [
+      {
+       "name": "CBS 표준FM Listen live",
+       "url": "https://aac.cbs.co.kr/busan981/_definst_/busan981.stream/chunklist_w244656551.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "electronic",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Dimple Euro Dance",
+       "url": "http://222.122.178.187:1700",
+       "tags": [
+        "electronic",
+        "decade_80s"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Happyday Newage Radio COOOOL",
+       "url": "http://newage.kr:8888/",
+       "tags": [
+        "electronic",
+        "ambient_relax",
+        "jazz"
+       ]
+      },
+      {
+       "name": "KBC FM",
+       "url": "http://109.206.96.34:8010",
+       "bitrate": 128,
+       "logo": "http://radio.pervii.com/im/4/1537460974.jpg",
+       "tags": [
+        "electronic",
+        "oldies"
+       ]
+      },
+      {
+       "name": "Radio KMSTUDIO",
+       "url": "http://c9.inlive.co.kr:5140",
+       "tags": [
+        "pop_hits",
+        "electronic",
+        "classical"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Scast Dance Kpop",
+       "url": "http://e79.kr:80/stream/1",
+       "tags": [
+        "electronic",
+        "pop_hits",
+        "jpop_kpop_asia"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Seoul Community Radio",
+       "url": "http://seoulcommunityradio.out.airtime.pro:8000/seoulcommunityradio_a",
+       "tags": [
+        "world",
+        "electronic"
+       ]
+      },
+      {
+       "name": "Seoul Community Radio",
+       "url": "http://188.166.198.223/radio/8000/radio.mp3",
+       "tags": [
+        "electronic",
+        "various_eclectic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Suran Kpop Remix",
+       "url": "http://r7.inlive.co.kr:11050/",
+       "tags": [
+        "electronic",
+        "jpop_kpop_asia"
+       ]
+      },
+      {
+       "name": "대구CBS Listen live",
+       "url": "https://aac.cbs.co.kr/daegu/_definst_/daegu.stream/chunklist_w1279764948.m3u8",
+       "language_inferred": true
+      }
+     ]
+    },
+    "hip_hop_rap": {
+     "count": 5,
+     "stations": [
+      {
+       "name": "AFN 360 - Kunsan",
+       "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_KSN_SC",
+       "tags": [
+        "various_eclectic",
+        "pop_hits",
+        "hip_hop_rap"
+       ]
+      },
+      {
+       "name": "AFN 360 - Osan",
+       "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_OSN_SC",
+       "tags": [
+        "various_eclectic",
+        "pop_hits",
+        "hip_hop_rap"
+       ]
+      },
+      {
+       "name": "delta radio - Top 100 Deutschrap Listen live",
+       "url": "https://delta.hoerradar.de/deltaradio-top100derap-mp3-hq",
+       "tags": [
+        "hip_hop_rap",
+        "reggae_ska",
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Bassak Broadcasting",
+       "url": "http://5.135.178.67:9998/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Republic Of Korea Top Radio Mukulcast Com Kpop",
+       "url": "http://sc16.saycast.com:8038/stream/1",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "hip_hop_rap"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "house": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Suran 24 Korea Club Mix _ B",
+       "url": "http://r8.inlive.co.kr:11050/stream/1",
+       "tags": [
+        "house",
+        "jpop_kpop_asia"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "jazz": {
+     "count": 9,
+     "stations": [
+      {
+       "name": "I Feel Music",
+       "url": "http://c1.inlive.co.kr:5940",
+       "tags": [
+        "electronic",
+        "jazz"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Jazz Break",
+       "url": "http://c8.inlive.co.kr:2790/",
+       "tags": [
+        "jazz",
+        "blues",
+        "rock"
+       ]
+      },
+      {
+       "name": "Jazz Break",
+       "url": "http://jazzbreak2.saycast.com/",
+       "language_inferred": true
+      },
+      {
+       "name": "Jazzheart Radio",
+       "url": "http://104.216.175.19:8022/stream"
+      },
+      {
+       "name": "Jazzheart Radio",
+       "url": "https://onlineradiobox.com/json/kr/jazzheart/play?platform=web",
+       "language_inferred": true
+      },
+      {
+       "name": "Jazzheart Radio",
+       "url": "http://jazzheart.saycast.com/"
+      },
+      {
+       "name": "Radio FallingStars - Jazz",
+       "url": "http://gruv.iptime.org:8200/",
+       "tags": [
+        "jazz",
+        "big_band_swing",
+        "blues"
+       ]
+      },
+      {
+       "name": "Radio FallingStars - Jazz",
+       "url": "http://gruv.iptime.org:8200?disc=thenonstopradio.com"
+      },
+      {
+       "name": "Radio Korea - 라디오코리아 Listen live",
+       "url": "https://onairweb.radiokorea.com/livestream/1",
+       "tags": [
+        "jazz",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "jpop_kpop_asia": {
+     "count": 32,
+     "stations": [
+      {
+       "name": "24h Kpop",
+       "url": "http://222.122.178.187:3512/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "24sky 음악 - 감성적인 일상 뮤직",
+       "url": "http://24sky.saycast.com",
+       "tags": [
+        "pop_hits",
+        "jpop_kpop_asia"
+       ]
+      },
+      {
+       "name": "_ Scast Co Kpop",
+       "url": "http://sc13.saycast.com:8168/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "Aewen Radio (K-Jpop) 생방송",
+       "url": "http://209.58.145.135:8031/",
+       "tags": [
+        "pop_hits",
+        "jpop_kpop_asia"
+       ]
+      },
+      {
+       "name": "Aznvradio Autodj",
+       "url": "http://46.23.68.170:9944/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "BBN 성경방송네트워크",
+       "url": "https://www.bbnradio.org/WindowsMediaDotComASXLinks/wmkorean.asx"
+      },
+      {
+       "name": "Big B Radio - JPOP(인터넷 라디오)",
+       "url": "http://64.71.79.181:8018/",
+       "tags": [
+        "jpop_kpop_asia",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "BOX : K-POP 케이팝",
+       "url": "https://play.streamafrica.net/kpopradio",
+       "tags": [
+        "news_talk",
+        "jpop_kpop_asia",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Cafe Durebak",
+       "url": "http://222.122.178.186:5180/listen.pls"
+      },
+      {
+       "name": "Fansite Radio De Www Fansite Cl Santiago De Chile Fsradio",
+       "url": "http://204.197.246.2:8088/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "Generacion Kpop",
+       "url": "http://aac.zuperdns.net:8700/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "Gugak FM 99.1",
+       "url": "mms://gugakfm.ktics.co.kr/gugakfm",
+       "bitrate": 128,
+       "logo": "http://radio.pervii.com/im/8/1573984018.jpg",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Korea Cyber Broadcasting System",
+       "url": "http://sc15.saycast.com:8236/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "Kpop Mexico",
+       "url": "http://176.31.241.195:8850/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "Ktown Kpop Radio",
+       "url": "http://142.4.217.133:8040/ktown/stream/1",
+       "tags": [
+        "jpop_kpop_asia",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Mdaradio",
+       "url": "http://aac.zuperdns.net:8650/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "Moon Music 4K radio",
+       "url": "https://stream.zenolive.com/nkb20ze9t18uv",
+       "tags": [
+        "pop_hits",
+        "jpop_kpop_asia"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Nang 24 Hrs Non Stop",
+       "url": "http://27.254.46.184:1863/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "Naya Ballad - Soul Kpop",
+       "url": "http://e79.kr:80/ballad",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Naya Oldies - Hit Kpop",
+       "url": "http://e79.kr:80/oldies",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Korea Fans",
+       "url": "http://159.253.37.137:9910/stream.mp3"
+      },
+      {
+       "name": "Radio Rakuen Peru",
+       "url": "http://67.212.165.162:7018/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "SBS 러브 FM-SBS 라디오",
+       "url": "http://slive.ytn.co.kr:1935/live/fmlive_0624_1.sdp/playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "jpop_kpop_asia"
+       ]
+      },
+      {
+       "name": "Scast Naya Kpop",
+       "url": "http://c79.kr:90/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "Scast Trot Kpop",
+       "url": "http://e79.kr:90/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "Seoul.FM",
+       "url": "https://singapore01.play.kpopradio.net/radio/8000/seoulfm",
+       "tags": [
+        "jpop_kpop_asia",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Seoulfm Seoulfm 247 Kpop Radio",
+       "url": "http://66.212.31.170:8000/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "Suran Kpop 리믹스 음악",
+       "url": "http://r7.inlive.co.kr:11120/",
+       "tags": [
+        "jpop_kpop_asia",
+        "world",
+        "electronic",
+        "disco_eurodance",
+        "various_eclectic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "TBS eFM-교통방송 영어전문 라디오",
+       "url": "https://tbs.hscdn.com/tbsradio/efm/playlist.m3u8"
+      },
+      {
+       "name": "UBC 울산방송 울산 FM",
+       "url": "http://59.25.202.81:1935/live/mp3:UBCfmstream/playlist.m3u8"
+      },
+      {
+       "name": "Zozo Radio",
+       "url": "http://122.155.1.172:8064/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "뮤직앤러브24 (Music & Love 24)",
+       "url": "http://musictour1.saycast.com",
+       "tags": [
+        "pop_hits",
+        "jpop_kpop_asia"
+       ]
+      }
+     ]
+    },
+    "latin": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "MCCI Radio 106.1 Listen live",
+       "url": "https://sonicpanel.mediostream.cl/8016/server",
+       "tags": [
+        "latin",
+        "christian_gospel"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "metal": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Fantasy Gigs Metal Live",
+       "url": "https://drive.uber.radio/uber/gigsacdcironmaidenmetallica/icecast.audio",
+       "tags": [
+        "rock",
+        "metal"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Lica's Metal Festival",
+       "url": "http://c1.inlive.co.kr:3240/listen.pls"
+      },
+      {
+       "name": "Powermix Fm Black Channel",
+       "url": "http://85.25.151.137:8020/stream/1",
+       "tags": [
+        "metal",
+        "jpop_kpop_asia"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 106,
+     "stations": [
+      {
+       "name": "3 Radio KBS",
+       "url": "https://onair.kbs.co.kr/index.html?sname=onair\\u0026stype=live\\u0026ch_code=23\\u0026ch_type=radioList",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "AFN The Eagle Osan",
+       "url": "http://17833.live.streamtheworld.com:80/AFNP_OSNAAC_SC",
+       "language_inferred": true
+      },
+      {
+       "name": "AFN The Eagle Yongsan Listen live",
+       "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_YSN.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "latin"
+       ]
+      },
+      {
+       "name": "Arirang FM",
+       "url": "http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/chunklist_b528000_sleng.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "Arirang Radio FM",
+       "url": "http://81.30.54.74:8000/radio4",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Arirang Radio T-DMB",
+       "url": "http://fmlive.arirang.co.kr/arirang/arirangtvfmlive.mp4",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "rock"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Arirang TV",
+       "url": "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "BBS FM radio",
+       "url": "http://bbslive.clouducs.com:1935/bbsradio-mlive/livestream/playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "folk",
+        "christian_gospel",
+        "reggae_ska",
+        "world"
+       ]
+      },
+      {
+       "name": "BBS불교방송 Listen live",
+       "url": "https://bbstv.clouducs.com/bbstv-live/livestream/playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "world",
+        "folk"
+       ]
+      },
+      {
+       "name": "BeFM",
+       "url": "http://befm905.live.smilecdn.com:1935/befm905_live/live/chunklist.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Buddhist Broadcasting System TV",
+       "url": "http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8"
+      },
+      {
+       "name": "Buddhist True Network TV",
+       "url": "http://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8"
+      },
+      {
+       "name": "Bundang 90.7 FM",
+       "url": "http://59.13.215.27:8080/"
+      },
+      {
+       "name": "Busan e-FM",
+       "url": "http://befm905.live.smilecdn.com:1935/befm905_live/live/playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "college_community",
+        "classical"
+       ]
+      },
+      {
+       "name": "CBS Music FM Radio",
+       "url": "http://aac.cbs.co.kr:1935/cbs939/_definst_/cbs939.stream/playlist.m3u8"
+      },
+      {
+       "name": "CBS 표준FM",
+       "url": "https://aac.cbs.co.kr/cbs981/_definst_/cbs981.stream/playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "christian_gospel",
+        "jazz",
+        "pop_hits",
+        "world"
+       ]
+      },
+      {
+       "name": "CPBC TV",
+       "url": "http://onair1.cpbc.co.kr:1935/tv/mp4:live720/playlist.m3u8"
+      },
+      {
+       "name": "EBS",
+       "url": "http://new_iradio.ebs.co.kr/iradio/iradiolive_m4a/playlist.m3u8"
+      },
+      {
+       "name": "ebs tune in",
+       "url": "https://ebsonair.ebs.co.kr/fmradiofamilypc/familypc1m/playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "EBS TV-1",
+       "url": "http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8"
+      },
+      {
+       "name": "EBS TV-2",
+       "url": "http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8"
+      },
+      {
+       "name": "EBS TV-e",
+       "url": "https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8"
+      },
+      {
+       "name": "EBS TV-i",
+       "url": "http://ebsonairios.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8"
+      },
+      {
+       "name": "EBS TV-Kids",
+       "url": "http://ebsonairios.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8"
+      },
+      {
+       "name": "EBS TV-Plus 2",
+       "url": "http://ebsonairios.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8"
+      },
+      {
+       "name": "FM 95.1 TBS fm",
+       "url": "http://58.234.158.60:1935/fmlive/myStream/playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "college_community",
+        "pop_hits",
+        "soul_rnb_funk"
+       ]
+      },
+      {
+       "name": "FRED FILM RADIO",
+       "url": "https://s10.webradio-hosting.com/proxy/fredradioen/stream/https://s10.webradio-hosting.com/proxy/fredradiocz/stream/https://s10.webradio-hosting.com/proxy/fredradioit/stream/https://s10.webradio-hosting.com/proxy/fredradioge/stream/https://s10.webradio-hosting.com/proxy/fredradiosp/stream/https://s10.webradio-hosting.com/proxy/fredfilmfr/stream/https://s10.webradio-hosting.com/proxy/fredradiopt/stream/https://s10.webradio-hosting.com/proxy/fredradioru/stream/https://s10.webradio-hosting."
+      },
+      {
+       "name": "FRED FILM RADIO, Seoul",
+       "url": "https://s10.webradio-hosting.com/proxy/fredradiokr/stream"
+      },
+      {
+       "name": "freefm.lk - Korea South Sinhala Radio",
+       "url": "https://stream.zeno.fm/tghzpiblktzvv",
+       "tags": [
+        "news_talk",
+        "classical",
+        "pop_hits",
+        "jpop_kpop_asia"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "GFN Gwangju English Station radio",
+       "url": "http://www.gfn.or.kr/live.php",
+       "tags": [
+        "news_talk",
+        "folk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Gugak FM",
+       "url": "https://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "world",
+        "pop_hits",
+        "folk",
+        "college_community",
+        "classical"
+       ]
+      },
+      {
+       "name": "GugakFM",
+       "url": "https://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/chunklist_w253831608.m3u8",
+       "country_inferred": true
+      },
+      {
+       "name": "Gugan FM",
+       "url": "http://bbnmedia-lh.akamaihd.net/i/BibleBroadcasting_Englishios@87472/index_48_a-b.m3u8?sd=10&rebase=on",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "classical",
+        "christian_gospel"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Gukak TV",
+       "url": "http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8"
+      },
+      {
+       "name": "Happy Fm",
+       "url": "https://onair.kbs.co.kr/index.html?sname=onair\\u0026stype=live\\u0026ch_code=22",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "HLAZ - FEBC 제주극동방송 1566 AM",
+       "url": "http://mlive2.febc.net:1935/live/jejuam/playlist.m3u8",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "HLAZ-FEBC Jeju Far East Broadcasting 104.7 AM",
+       "url": "http://mlive2.febc.net:1935/live/jejufm/playlist.m3u8",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "HLKX-FM - FEBC 극동방송 FM 106.9",
+       "url": "http://mlive2.febc.net:1935/live/seoulfm/playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "christian_gospel"
+       ]
+      },
+      {
+       "name": "HLQR-FM - FEBC 울산극동방송 107.3 FM",
+       "url": "http://mlive2.febc.net:1935/live/uslive/playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "christian_gospel"
+       ]
+      },
+      {
+       "name": "HLSF 국방FM 별사탕",
+       "url": "https://mediaworks.dema.mil.kr/live_edge/audio.sdp/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "Jazz Lounge",
+       "url": "http://sc10.saycast.com:8010",
+       "tags": [
+        "various_eclectic",
+        "news_talk",
+        "jazz"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "JTV 매직FM",
+       "url": "https://61ff3340258d2.streamlock.net/jtv_radio/myStream/chunklist_w111659793.m3u8"
+      },
+      {
+       "name": "KBC 광주방송 – MyFM",
+       "url": "http://221.157.125.232:1935/live/kbcra/playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "college_community"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "KBS - 1Radio",
+       "url": "http://onair.kbs.co.kr/index.html?sname=onair&ampstype=live&ampch_code=21&ampch_type=radioList",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "KBS - 1Radio  radio",
+       "url": "http://onair.kbs.co.kr/index.html?sname=onair\\u0026stype=live\\u0026ch_code=21\\u0026ch_type=radioList",
+       "tags": [
+        "news_talk",
+        "sports"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "KBS 1R",
+       "url": "http://serpent0.duckdns.org:8088/kbs1radio.pls"
+      },
+      {
+       "name": "KBS 1Radio",
+       "url": "http://serpent0.duckdns.org:8088/kbs2radio.pls",
+       "tags": [
+        "news_talk",
+        "country"
+       ]
+      },
+      {
+       "name": "KBS Cool FM",
+       "url": "http://serpent0.duckdns.org:8088/kbs2fm.pls"
+      },
+      {
+       "name": "KBS World Radio",
+       "url": "http://shoutcast.wrn.org:8000/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "KBS World Radio",
+       "url": "http://worldradio.gscdn.kbs.co.kr/worldradio_192_1_4557188.aac?m=1563842410",
+       "language_inferred": true
+      },
+      {
+       "name": "KBS World Radio Korean",
+       "url": "http://world.kbs.co.kr/korean/",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "KBS World TV",
+       "url": "http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u8"
+      },
+      {
+       "name": "KBS 제1라디오",
+       "url": "http://kbs-radio.gscdn.com/tunein_1radio/_definst_/tunein_1radio.stream/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "KBS 제3라디오",
+       "url": "http://kbs-radio.gscdn.com/tunein_3radio/_definst_/tunein_3radio.stream/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "KBS 한민족방송",
+       "url": "http://kbs-radio.gscdn.com/tunein_scr/_definst_/tunein_scr.stream/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "KNN부산 Power FM",
+       "url": "http://211.220.195.200:1935/live/mp4:KnnRadio1FM.sdp/playlist.m3u8"
+      },
+      {
+       "name": "Korea Work TV",
+       "url": "http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8"
+      },
+      {
+       "name": "Listen.moe K-Pop",
+       "url": "https://listen.moe/kpop/fallback",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Listen.moe Kpop",
+       "url": "https://listen.moe/kpop/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "MBC FM",
+       "url": "http://serpent0.duckdns.org:8088/mbcsfm.pls"
+      },
+      {
+       "name": "MBC FM4U",
+       "url": "http://serpent0.duckdns.org:8088/mbcfm.pls"
+      },
+      {
+       "name": "MBC 라디오 radio",
+       "url": "http://mini.imbc.com/v2/index.html?src=http://mini.imbc.com/\\u0026ref=http://www.imbc.com/broad/radio/index.html#./datas/pagedata_home.jsstream.nsvstream.nsvstream.nsv",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "MBC충북 FM4U",
+       "url": "http://211.33.246.4:32954/radio_fm/myStream.sdp/chunklist_w348337231.m3u8"
+      },
+      {
+       "name": "MBC충북 표준FM",
+       "url": "http://211.33.246.4:32954/radio_stfm/myStream.sdp/chunklist_w392819215.m3u8"
+      },
+      {
+       "name": "PBC Radio",
+       "url": "http://49.1.248.21:1935/live/mp4:ch002/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Free Asia",
+       "url": "https://www.rfa.org/korean/weekly_audio/k090108fe-si.mp3/@@stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio GFM",
+       "url": "http://onair.radiogfm.net:8003",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "various_eclectic",
+        "college_community"
+       ]
+      },
+      {
+       "name": "Radio Yeosu MBC FM",
+       "url": "http://shoutcast.wrn.org:8012/",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "latin",
+        "rock",
+        "sports"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Real Cast",
+       "url": "http://61.78.39.187:8000/stream.mp3",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "SBS Love FM",
+       "url": "http://serpent0.duckdns.org:8088/sbs2fm.pls"
+      },
+      {
+       "name": "SBS Power FM",
+       "url": "http://serpent0.duckdns.org:8088/sbsfm.pls"
+      },
+      {
+       "name": "SBS 파워FM",
+       "url": "http://sbs.relay02.live.wms.stream.nfractals.com:1935/pooqsbspowerfm/_definst_/live1.stream/playlist.m3u8",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "SBS 파워FM radio",
+       "url": "http://gorealra.esy.es/",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "TBC Dream FM",
+       "url": "http://221.157.125.239:1935/live/mp3:fmstream/playlist.m3u8"
+      },
+      {
+       "name": "TBC Dream FM radio",
+       "url": "http://www.tbc.co.kr/tbc_player/tbc_iplayer.html?code=tbc_fm",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "TBN Korea",
+       "url": "http://radio2.tbn.or.kr:1935/gyeongin/myStream/chunklist.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "TBN – 강원FM 105.9",
+       "url": "http://radio2.tbn.or.kr:1935/gangwon/myStream/playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "TBN – 경북FM 103.5",
+       "url": "http://radio2.tbn.or.kr:1935/kyungbuk/myStream/playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "TBN – 광주FM 97.3",
+       "url": "http://radio2.tbn.or.kr:1935/gwangju/myStream/playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "TBN – 대구FM 103.9",
+       "url": "http://radio2.tbn.or.kr:1935/daegu/myStream/playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "TBN – 대전FM 102.9",
+       "url": "http://radio2.tbn.or.kr:1935/daejeon/myStream/playlist.m3u8"
+      },
+      {
+       "name": "TBN – 부산FM 94.9",
+       "url": "http://radio2.tbn.or.kr:1935/busan/myStream/playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "TBN – 인천FM 100.5",
+       "url": "http://radio2.tbn.or.kr:1935/gyeongin/myStream/playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "TBN – 전주FM 102.5",
+       "url": "http://radio2.tbn.or.kr:1935/jeonbuk/myStream/playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "TBN – 제주FM 105.5",
+       "url": "http://radio2.tbn.or.kr:1935/jeju/myStream/playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "TBN – 창원FM 95.5",
+       "url": "http://radio2.tbn.or.kr:1935/gyeongnam/myStream/playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "TBN 울산교통방송",
+       "url": "http://radio2.tbn.or.kr:1935/ulsan/myStream/playlist.m3u8"
+      },
+      {
+       "name": "TBS eFM",
+       "url": "https://cdnefm.tbs.seoul.kr/tbs/_definst_/tbs_efm_web_360.smil/playlist.m3u8",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "college_community"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "tbs eFM - 101.3 FM",
+       "url": "http://58.234.158.60:1935/efmlive/myStream/playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "classical",
+        "college_community"
+       ]
+      },
+      {
+       "name": "TBS FM",
+       "url": "http://58.234.158.60:1935/fmlive/myStream/chunklist.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "TJB 파워 FM (POWER FM)",
+       "url": "http://1.245.74.5/radiolive/radio_64k/playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Voice Of America - Korea Listen live",
+       "url": "https://voa46.akacast.akamaistream.net/7/448/437828/v1/ibb.akacast.akamaistream.net/voa46",
+       "tags": [
+        "news_talk",
+        "various_eclectic",
+        "alternative_indie",
+        "country",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "WBS 89.7 FM",
+       "url": "http://45.76.71.4:8000/wbs-smok",
+       "tags": [
+        "news_talk",
+        "christian_gospel"
+       ]
+      },
+      {
+       "name": "YTN FM",
+       "url": "http://slive.ytn.co.kr/live/_definst_/fmlive_0624_1.sdp/playlist.m3u8"
+      },
+      {
+       "name": "YTN News FM radio",
+       "url": "https://radio.ytn.co.kr/_comm/fmlive.php",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "YTN 라디오",
+       "url": "http://slive.ytn.co.kr:1935/live/_definst_/fmlive_0624_1.sdp/playlist.m3u8"
+      },
+      {
+       "name": "강릉 MBC FM",
+       "url": "http://123.254.72.24:1935/fmlive/livestream/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "국방FM radio",
+       "url": "http://www.dema.mil.kr/web/fm/onair.do",
+       "language_inferred": true
+      },
+      {
+       "name": "마포FM",
+       "url": "http://115.85.182.39/mapofm",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "college_community"
+       ]
+      },
+      {
+       "name": "서울극동방송AM",
+       "url": "http://mlive2.febc.net:1935/live/seoulam/playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "christian_gospel"
+       ]
+      },
+      {
+       "name": "아리랑 제주FM",
+       "url": "http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "안동MBC AM",
+       "url": "http://andong.webcasting.co.kr:1935/live/amlive/playlist.m3u8",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "영동극동방송FM",
+       "url": "http://mlive2.febc.net:1935/live/ydlive/playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "christian_gospel",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "전주 MBC FM",
+       "url": "https://5ee9633b25727.streamlock.net/jmbc_sfm/myStream/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "전주 MBC FM",
+       "url": "http://121.160.102.99:1935/jmbc_sfm/myStream/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "청주MBC",
+       "url": "http://stream2.mbccj.co.kr:1935/live/RaView/RaView.sdp/playlist.m3u8",
+       "language_inferred": true
+      }
+     ]
+    },
+    "oldies": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Oldpop Cafe",
+       "url": "http://cast.oldpopcafe.net:7080",
+       "tags": [
+        "oldies",
+        "pop_hits",
+        "news_talk"
+       ]
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 43,
+     "stations": [
+      {
+       "name": "24sky",
+       "url": "http://c7.inlive.co.kr:6520/",
+       "language_inferred": true
+      },
+      {
+       "name": "Aewen Radio K-OSTs Channel",
+       "url": "http://209.58.145.135:8025/"
+      },
+      {
+       "name": "Aewen Radio K-Pop Channel",
+       "url": "http://209.58.145.135:8001/"
+      },
+      {
+       "name": "AFN 360 - Daegu",
+       "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_DGU_SC",
+       "tags": [
+        "various_eclectic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "AFN Daegu (Korea Only) live",
+       "url": "https://14023.live.streamtheworld.com/AFNP_DGU_SC"
+      },
+      {
+       "name": "AFN Humphreys (Korea Only) live",
+       "url": "https://19793.live.streamtheworld.com/AFNP_OSN_SC"
+      },
+      {
+       "name": "AFN Kunsan (Korea Only) live",
+       "url": "https://23603.live.streamtheworld.com/AFNP_KSN_SC"
+      },
+      {
+       "name": "Andong MBC FM",
+       "url": "http://mfmtunein.imbc.com/tmfm/_definst_/tmfm.stream/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "Big B Radio #Kpop Station",
+       "url": "http://64.71.79.181:8044/"
+      },
+      {
+       "name": "Big B Radio - JPOP(인터넷 라디오) live",
+       "url": "https://antares.dribbcast.com/proxy/jpop?mp=%2Fs"
+      },
+      {
+       "name": "Big B Radio CPOP",
+       "url": "http://64.71.79.181:8026/"
+      },
+      {
+       "name": "Big B Radio KPOP",
+       "url": "http://184.95.62.170:9026/",
+       "language_inferred": true
+      },
+      {
+       "name": "BOX : K-POP 케이팝 live",
+       "url": "https://boxradio-edge-07.streamafrica.net/kpop"
+      },
+      {
+       "name": "DK NET DALLAS live",
+       "url": "http://ca2.radioboss.fm:8064/",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Dreamcast",
+       "url": "http://sc14.saycast.com:8100",
+       "language_inferred": true
+      },
+      {
+       "name": "Falling Stars",
+       "url": "http://listen.radionomy.com/korea-station",
+       "language_inferred": true
+      },
+      {
+       "name": "Fantasy Gigs Pop Live",
+       "url": "https://drive.uber.radio/uber/gigsabbaeloelton/icecast.audio",
+       "language_inferred": true
+      },
+      {
+       "name": "Fantasy Gigs Pop Rock Live",
+       "url": "https://drive.uber.radio/uber/gigsblondiebillyidolroxette/icecast.audio",
+       "language_inferred": true
+      },
+      {
+       "name": "HLST tbs FM",
+       "url": "https://cdnfm.tbs.seoul.kr/tbs/_definst_/tbs_fm_web_360.smil/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "I love Kpop",
+       "url": "http://streaming.radionomy.com/IloveKpop",
+       "language_inferred": true
+      },
+      {
+       "name": "K.B.I.C.",
+       "url": "http://kbic.info:8880/http://kbic.info:8882/",
+       "language_inferred": true
+      },
+      {
+       "name": "KBS 제2라디오",
+       "url": "http://kbs-radio.gscdn.com/tunein_2radio/_definst_/tunein_2radio.stream/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "KBS 쿨FM",
+       "url": "http://kbs-radio.gscdn.com/tunein_2fm/_definst_/tunein_2fm.stream/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "KFM 99.9",
+       "url": "http://radio.kfm.co.kr:8000/",
+       "language_inferred": true
+      },
+      {
+       "name": "KRadio",
+       "url": "http://streaming.radionomy.com/-k-Radio",
+       "language_inferred": true
+      },
+      {
+       "name": "Love Lamp",
+       "url": "http://ch02.saycast.com"
+      },
+      {
+       "name": "MapoFM",
+       "url": "http://onair.mapofm.net/mapofm",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "MapoFM",
+       "url": "http://plive.podbbang.com/mapofm_app.mp3"
+      },
+      {
+       "name": "Mukulcast",
+       "url": "http://133.186.160.12:8396/",
+       "language_inferred": true
+      },
+      {
+       "name": "Old's Pop Memory",
+       "url": "http://maky3010.saycast.com",
+       "tags": [
+        "pop_hits",
+        "oldies"
+       ]
+      },
+      {
+       "name": "Oldpop cafe",
+       "url": "http://cast.page2.kr:7080"
+      },
+      {
+       "name": "Pop 1 korea",
+       "url": "http://kbic.info:8882/"
+      },
+      {
+       "name": "Radio FallingStars - Pop",
+       "url": "http://gruv.iptime.org:8100/",
+       "tags": [
+        "pop_hits",
+        "decade_90s"
+       ]
+      },
+      {
+       "name": "Radio Jeju MBC FM",
+       "url": "https://17973.live.streamtheworld.com/RADIO_HJCK_SC",
+       "tags": [
+        "pop_hits",
+        "jazz",
+        "hip_hop_rap",
+        "blues"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio KM FM",
+       "url": "http://live.audiospace.co/kmfmdab",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Korea",
+       "url": "http://38.106.56.112:8000/radiokorea.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio MukulCast",
+       "url": "http://www.mukulcast.com/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Popular Asians",
+       "url": "http://50.7.173.162:8118/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "SCN(Sungseo Community FM) FM",
+       "url": "http://115.85.182.39/scnfm",
+       "tags": [
+        "various_eclectic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Skylake",
+       "url": "http://sky24.inlive.co.kr/"
+      },
+      {
+       "name": "Sunset Pop",
+       "url": "http://sunsetpop.saycast.com",
+       "language_inferred": true
+      },
+      {
+       "name": "TBN Daejeon 대전",
+       "url": "http://radio2.tbn.or.kr:1935/daejeon/myStream/media_w371668005_247831.aac",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "뮤클캐스트 인터넷 음악방송",
+       "url": "http://c0.inlive.co.kr:6342/"
+      }
+     ]
+    },
+    "rock": {
+     "count": 13,
+     "stations": [
+      {
+       "name": "94,3 rs2 - Eat Listen live",
+       "url": "https://topradio-de-hz-fal-stream04-cluster01.radiohost.de/rs2-eat_mp3-192",
+       "tags": [
+        "rock",
+        "pop_hits",
+        "decade_70s"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Big B Radio J Channel",
+       "url": "http://50.7.173.162:8091/stream.mp3",
+       "tags": [
+        "rock",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Big B Radio JPOP",
+       "url": "https://antares.dribb.com/proxy/s2jpop128?mp=/stream",
+       "tags": [
+        "rock",
+        "world",
+        "soundtrack"
+       ]
+      },
+      {
+       "name": "Bok Radio 989",
+       "url": "http://bokradio.lowquality.radiostream.co.za:80",
+       "tags": [
+        "pop_hits",
+        "rock"
+       ]
+      },
+      {
+       "name": "Dimple Dance",
+       "url": "http://222.122.178.184:3252/stream.mp3",
+       "tags": [
+        "rock",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Floyd Server Rock Ballad From 092505",
+       "url": "http://1.uicl.co.kr:8000/stream/1",
+       "tags": [
+        "rock",
+        "alternative_indie",
+        "easy_listening",
+        "gothic_industrial",
+        "blues",
+        "reggae_ska",
+        "punk"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Floyd Server Rock BalladFrom 092505",
+       "url": "http://1.uicl.co.kr:8000/"
+      },
+      {
+       "name": "Mukulcast FM",
+       "url": "http://c7.inlive.co.kr:1712/",
+       "tags": [
+        "pop_hits",
+        "rock"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio FepBlind",
+       "url": "http://103.22.182.145:8000/stream.mp3",
+       "tags": [
+        "rock",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Indonesia Korean",
+       "url": "http://37.58.72.235:9972/stream.mp3",
+       "tags": [
+        "rock",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio JAM",
+       "url": "http://68.169.52.252:9000/jvond/stream.mp3",
+       "tags": [
+        "rock",
+        "various_eclectic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Vereska",
+       "url": "http://62.109.30.16:8010/stream.mp3",
+       "tags": [
+        "rock",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "WorldMic Korea",
+       "url": "http://38.96.148.141:4648/stream.mp3",
+       "tags": [
+        "rock",
+        "various_eclectic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "soul_rnb_funk": {
+     "count": 6,
+     "stations": [
+      {
+       "name": "HOT POP ( //sCast.kr )",
+       "url": "http://scast.kr:3300/stream/1",
+       "tags": [
+        "easy_listening",
+        "jpop_kpop_asia",
+        "rock",
+        "soul_rnb_funk",
+        "folk"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Japanimradio - Tokyo",
+       "url": "https://japanimradio.be:8000/stream",
+       "tags": [
+        "soul_rnb_funk",
+        "rock",
+        "soundtrack",
+        "jpop_kpop_asia",
+        "country",
+        "drum_and_bass",
+        "world",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "KOREA LOVE RADIO MIAMI",
+       "url": "http://edge2-a.exa.live365.net/a09466",
+       "tags": [
+        "soul_rnb_funk",
+        "rock",
+        "pop_hits",
+        "country",
+        "drum_and_bass",
+        "easy_listening",
+        "jpop_kpop_asia",
+        "world",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Republic Of Korea Pop 24hou",
+       "url": "http://sc16.saycast.com:8118/stream/1",
+       "tags": [
+        "easy_listening",
+        "jpop_kpop_asia",
+        "rock",
+        "soul_rnb_funk",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Scast Hot Pop",
+       "url": "http://e79.kr:70/stream/1",
+       "tags": [
+        "easy_listening",
+        "pop_hits",
+        "jpop_kpop_asia",
+        "rock",
+        "soul_rnb_funk",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Scast Old Pop",
+       "url": "http://c79.kr:70/stream/1",
+       "tags": [
+        "easy_listening",
+        "oldies",
+        "jpop_kpop_asia",
+        "rock",
+        "soul_rnb_funk",
+        "folk",
+        "world"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      }
+     ]
+    },
+    "soundtrack": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Anicast La Primer Estacion De Anime Desde Mexico Anicas Radio",
+       "url": "http://67.223.226.82:9000/stream/1",
+       "tags": [
+        "soundtrack",
+        "jpop_kpop_asia"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Station Name Anime Sector Budapest",
+       "url": "http://144.76.137.9:9000/stream/1",
+       "language_inferred": true
+      }
+     ]
+    },
+    "techno": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "KM STUDIO",
+       "url": "http://c6.inlive.co.kr:2652/stream.mp3",
+       "tags": [
+        "various_eclectic",
+        "techno"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "trance_goa": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "A Power of Trance CH.YUI",
+       "url": "http://icecast.apoweroftrance.com/yui"
+      },
+      {
+       "name": "A Power of Trance CH.YUI live",
+       "url": "https://listen.apoweroftrance.com/yui"
+      }
+     ]
+    },
+    "various_eclectic": {
+     "count": 11,
+     "stations": [
+      {
+       "name": "AFN Casey(동두천)",
+       "url": "http://provisioning.streamtheworld.com/pls/AFNP_CSYAAC.pls"
+      },
+      {
+       "name": "CJB 청주방송 Joy FM live",
+       "url": "http://1.222.207.80:1935/live/cjbradio/playlist.m3u8"
+      },
+      {
+       "name": "Hyundai Mall",
+       "url": "http://123.111.139.103:1935/live/hmall.stream/playlist.m3u8"
+      },
+      {
+       "name": "Jazzheart",
+       "url": "http://jazzheart.inlive.co.kr/listen.pls"
+      },
+      {
+       "name": "KBS World Radio - Channel 2",
+       "url": "http://kbsrki.gscdn.com/kbsrki2/_definst_/kbsrki2.stream/playlist.m3u8"
+      },
+      {
+       "name": "KBS World Radio - German Stream",
+       "url": "http://worldradio.gscdn.kbs.co.kr/worldradio_192_1.m3u8"
+      },
+      {
+       "name": "MBC 4 U FM ( 울산MBC )",
+       "url": "https://5ddfd163bd00d.streamlock.net:443/FM4U/FM4U/playlist.m3u8"
+      },
+      {
+       "name": "Radio 105 Vibe",
+       "url": "http://199.189.111.28:8348/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Seongnam FM - 90.7",
+       "url": "http://115.85.182.39/seongnamfm"
+      },
+      {
+       "name": "Una FM 마음챙김을 위한 힐링 라디오 live",
+       "url": "https://cdn.podbbang.com/data1/unamaster/6m080110m3.mp3"
+      },
+      {
+       "name": "YFM - Yeongju FM 89.1 ( 영주 FM )",
+       "url": "http://220.81.2.147:8000/&type=mp3"
+      }
+     ]
+    },
+    "world": {
+     "count": 18,
+     "stations": [
+      {
+       "name": "Ara Ara!",
+       "url": "https://stream.zeno.fm/wy56kb7eec9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "BBS Chuncheon Buddhist Radio 100.1 FM",
+       "url": "https://bbslive.clouducs.com/bbsradio-mlive/livestream/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "Big B Radio - KPOP",
+       "url": "https://antares.dribbcast.com/proxy/kpop?mp=/s",
+       "tags": [
+        "pop_hits",
+        "world",
+        "jpop_kpop_asia",
+        "electronic",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "BTN Radio - CH1",
+       "url": "http://182.161.120.115:8010",
+       "tags": [
+        "world",
+        "jpop_kpop_asia"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "CJB 청주방송 – JOY FM",
+       "url": "https://5d034e40027c2.streamlock.net/live/cjbradio/playlist.m3u8",
+       "tags": [
+        "world",
+        "pop_hits",
+        "jpop_kpop_asia"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Gugak FM",
+       "url": "http://mgugaklive.nowcdn.co.kr:1935/gugakradio/gugakradio.stream/playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "world",
+        "folk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "PBC Daegu FM",
+       "url": "http://live.dgpbc.co.kr/cdnlive-hls/dgpbclive/_definst_/liveevent/dgpbclive_mp4.m3u8",
+       "tags": [
+        "college_community",
+        "world"
+       ]
+      },
+      {
+       "name": "PBC FM Daegu 93.1",
+       "url": "http://live.dgcpbc.co.kr/dgcpbclive/livestream/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Korea 1540 AM",
+       "url": "http://38.106.56.119:8000/live",
+       "tags": [
+        "world",
+        "news_talk",
+        "pop_hits",
+        "sports",
+        "jpop_kpop_asia"
+       ]
+      },
+      {
+       "name": "Radio Metalzone",
+       "url": "http://159.253.149.12:8282/stream.mp3",
+       "tags": [
+        "world",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Village Earth Radio",
+       "url": "http://streaming.live365.com/a46043",
+       "tags": [
+        "world",
+        "latin",
+        "jazz"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "부산 MBC FM",
+       "url": "http://stream.bsmbc.com/live/mp4:BusanMBC-LiveStream-FM/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "부산 MBC FM",
+       "url": "https://5ca29b882aaf6.streamlock.net/live/mp4:BusanMBC.Live-FM-0415/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "성남 FM",
+       "url": "http://live.fmnara.com:2400/",
+       "language_inferred": true
+      },
+      {
+       "name": "여수 MBC FM4U",
+       "url": "https://5c3639aa99149.streamlock.net/FM4U/FM4U_Audio/playlist.m3u8",
+       "tags": [
+        "world",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "울산 MBC FM",
+       "url": "https://5ddfd163bd00d.streamlock.net/STDFM/STDFM/chunks.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "제주극동방송AM",
+       "url": "https://mlive2.febc.net/live/jejuam/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "창원극동방송FM",
+       "url": "http://mlive2.febc.net:1935/live/cwlive/playlist.m3u8"
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 129,
+     "stations": [
+      {
+       "name": "AFN The Eagle Osan",
+       "url": "http://14613.live.streamtheworld.com:80/AFNP_OSNAAC_SC",
+       "language_inferred": true
+      },
+      {
+       "name": "AFN The Eagle Yongsan",
+       "url": "http://19803.live.streamtheworld.com:80/AFNP_YSN_SC",
+       "language_inferred": true
+      },
+      {
+       "name": "Andong MBC",
+       "url": "http://andong.webcasting.co.kr:1935/live/fmlive/chunklist_w379939268.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "Angelo pop 4 korea",
+       "url": "http://222.122.178.187:2260/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Arirang Radio",
+       "url": "http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8?n=e15ba176082efab581a3",
+       "language_inferred": true
+      },
+      {
+       "name": "Arirang Radio – Daejeon – Republic of Korea",
+       "url": "http://arirang.ktics.co.kr:1935/fm/_definst_/mp4:fm128/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "BBS FM 광주불교방송",
+       "url": "http://1.224.163.141:1935/kjbbs/kjbbs/playlist.m3u8"
+      },
+      {
+       "name": "BBS FM 대구불교방송",
+       "url": "http://bbslive.goldenday.kr:1935/hls/dgbbs/playlist.m3u8"
+      },
+      {
+       "name": "Big B Radio - Kpop",
+       "url": "https://antares.dribbcast.com/proxy/kpop?mp=/s?n=c40d18cb68caabb5a291"
+      },
+      {
+       "name": "Big B Radio – Asian Pop – Seoul – Republic of Korea",
+       "url": "https://canopus.dribbcast.com/stream/8092",
+       "language_inferred": true
+      },
+      {
+       "name": "Big B Radio – CPOP – Seoul – Republic of Korea",
+       "url": "https://canopus.dribbcast.com/stream/8148",
+       "language_inferred": true
+      },
+      {
+       "name": "Big B Radio – JPOP(인터넷 라디오) – Seoul – Republic of Korea",
+       "url": "https://canopus.dribbcast.com/stream/8150",
+       "language_inferred": true
+      },
+      {
+       "name": "Blue FM – Seoul – Republic of Korea",
+       "url": "http://c7.inlive.co.kr:8572",
+       "language_inferred": true
+      },
+      {
+       "name": "Bound FM",
+       "url": "http://eu10.fastcast4u.com:4010/?type=http&ampnocache=1570729834",
+       "language_inferred": true
+      },
+      {
+       "name": "BREEZ 차분한 일상을 위한 뮤직라디오",
+       "url": "http://procyon.shoutca.st:8660/"
+      },
+      {
+       "name": "BTN라디오 울림 (울림채널)",
+       "url": "https://btn.nowcdn.co.kr/btn_ch4st/live.stream/playlist.m3u8"
+      },
+      {
+       "name": "Calm music - 하루종일 잔잔한 음악",
+       "url": "https://live01.inlive.co.kr/listen.html?port=10040",
+       "language_inferred": true
+      },
+      {
+       "name": "CBS Joy4U-CBS 라디오 – Seoul – Republic of Korea",
+       "url": "https://aac.cbs.co.kr/cbscmc/_definst_/cbscmc_96k.stream/playlist.m3u8"
+      },
+      {
+       "name": "CBS 표준 FM",
+       "url": "http://aac.cbs.co.kr/cbs981/cbs981.stream/playlist.m3u8?n=54f31f3e4e18403417a3",
+       "language_inferred": true
+      },
+      {
+       "name": "Classic New Age - 집중할 수 있는 클래식과 뉴에이지",
+       "url": "https://live01.inlive.co.kr/listen.html?port=10070",
+       "language_inferred": true
+      },
+      {
+       "name": "DG MBC FM",
+       "url": "http://nms1.mbc.net/mbcfm1",
+       "language_inferred": true
+      },
+      {
+       "name": "Drama OST - 오늘부터 정주행! 드라마 OST",
+       "url": "https://live01.inlive.co.kr/listen.html?port=10120",
+       "language_inferred": true
+      },
+      {
+       "name": "EBS (Korea Educational Broadcasting System)",
+       "url": "http://ebsonairiosaod.ebs.co.kr/fm_kt_ai_hls/bandiappaac/playlist.m3u8"
+      },
+      {
+       "name": "EBS 라디오",
+       "url": "http://ebsonair.flive.skcdn.com:1935/fmradiotablet500k/tablet500k/playlist.m3u8"
+      },
+      {
+       "name": "EBS 라디오 – Busan – Republic of Korea",
+       "url": "https://ebsonair.ebs.co.kr/fmradiofamilypc/familypc1m/chunklist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "EBS 외국어 라디오 (i-radio)",
+       "url": "http://new_iradio.ebs.co.kr:1935/iradio/iradiolive_m4a/playlist.m3u8"
+      },
+      {
+       "name": "Emotional music with a cup of coffee",
+       "url": "https://live01.inlive.co.kr/listen.html?port=12050",
+       "language_inferred": true
+      },
+      {
+       "name": "Emotional shelter 4050",
+       "url": "https://live04.inlive.co.kr/listen.html?port=10250",
+       "language_inferred": true
+      },
+      {
+       "name": "Flowing to the music",
+       "url": "https://live04.inlive.co.kr/listen.html?port=10220",
+       "language_inferred": true
+      },
+      {
+       "name": "FM Music shelter",
+       "url": "https://live01.inlive.co.kr/listen.html?port=10050",
+       "language_inferred": true
+      },
+      {
+       "name": "FRED FILM RADIO Korean 국제영화라디오",
+       "url": "http://s6.webradio-hosting.com:8054/"
+      },
+      {
+       "name": "Funn Music - 하루종일 신나는 음악",
+       "url": "https://live01.inlive.co.kr/listen.html?port=10030",
+       "language_inferred": true
+      },
+      {
+       "name": "GFN 98.7 FM",
+       "url": "http://218.157.19.198:8000/stream/1"
+      },
+      {
+       "name": "GFN Gwangju English Station",
+       "url": "http://media.gfn.or.kr:1935/gfnlive/myStream/playlist.m3u8"
+      },
+      {
+       "name": "GoGo Club night",
+       "url": "https://live01.inlive.co.kr/listen.html?port=12030",
+       "language_inferred": true
+      },
+      {
+       "name": "GTB 강원민방 (Fresh FM)",
+       "url": "http://221.157.125.242:1935/fm/livestream.sdp/playlist.m3u8"
+      },
+      {
+       "name": "Gugak FM",
+       "url": "http://mgugaklive.nowcdn.co.kr:1935/gugakradio/gugakradio.stream/chunklist_w1662694213.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "GugakFM",
+       "url": "https://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/chunklist_w1653570079.m3u8?n=ef0d8f49c2de6c6b1b2f"
+      },
+      {
+       "name": "Happy Journey with Jazz",
+       "url": "https://live01.inlive.co.kr/listen.html?port=10140",
+       "language_inferred": true
+      },
+      {
+       "name": "Happyday Newage Radio EZ",
+       "url": "http://newage.kr:8060"
+      },
+      {
+       "name": "HLAO 1332 AM",
+       "url": "http://www.intervalsignals.net:80/sounds/kor-mbc_hlao-am_chungju_130304.mp3"
+      },
+      {
+       "name": "iFM",
+       "url": "http://180.131.1.27:1935/live/aod1/playlist.m3u8"
+      },
+      {
+       "name": "iFM 경인방손",
+       "url": "http://180.131.1.27:1935/live/bora1/playlist.m3u8?n=15d0385cf6a4d8824c5b"
+      },
+      {
+       "name": "Jazz Break – Seoul – Republic of Korea",
+       "url": "http://nsc03.saycast.com:8698/",
+       "language_inferred": true
+      },
+      {
+       "name": "JHG – 게임 할 땐? JHG! – Ansan-si – Gyeonggi-do – Republic of Korea",
+       "url": "http://jeonhagkeom.com:8000/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "JIBS 제주국제자유도시방송",
+       "url": "http://123.140.197.22/stream/2/play.m3u8"
+      },
+      {
+       "name": "JIBS 제주국제자유도시방송 – 101.5 FM – Jeju City – Jeju-do – Republic of Korea",
+       "url": "http://123.140.197.22/stream/31/play.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "kbc | SBS",
+       "url": "http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8?n=83ad989bba57e5f0124d"
+      },
+      {
+       "name": "kbc 광주방송 MyFM",
+       "url": "http://119.200.131.11:1935/KBCFM/kbcra_aac/playlist.m3u8"
+      },
+      {
+       "name": "KBS 1라디오 (KBS Radio 1) – 97.3 FM – Seoul – Republic of Korea",
+       "url": "https://1radio.gscdn.kbs.co.kr/1radio_192_4.m3u8?Expires=1668266116&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xcmFkaW8uZ3NjZG4ua2JzLmNvLmtyLzFyYWRpb18xOTJfNC5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjY4MjY2MTE2fX19",
+       "language_inferred": true
+      },
+      {
+       "name": "KBS 2라디오 해피FM (KBS Radio 2 – Happy FM) – 106.1 FM – Seoul – Republic of Korea",
+       "url": "https://2radio.gscdn.kbs.co.kr/2radio_192_3.m3u8?Expires=1668267189&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ycmFkaW8uZ3NjZG4ua2JzLmNvLmtyLzJyYWRpb18xOTJfMy5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjY4MjY3MTg5fX19",
+       "language_inferred": true
+      },
+      {
+       "name": "KBS News - Seoul Calling (updated Mon thru Fri)",
+       "url": "http://worldvod.play.kbs.co.kr/podcast/Podcast/Seoul/"
+      },
+      {
+       "name": "KBS World - Win.K 11",
+       "url": "http://kbsrki.gscdn.com:1935/kbsrki2/_definst_/kbsrki2.stream/playlist.m3u8"
+      },
+      {
+       "name": "KBS World - نشرة الأخبار (updated Mon thru Sat)",
+       "url": "http://worldvod.play.kbs.co.kr/podcast/Podcast/News/a200817.mp3"
+      },
+      {
+       "name": "KBS World Radio",
+       "url": "https://18733.live.streamtheworld.com/KSFC_FM.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "KBS World Radio - Ch 1",
+       "url": "http://kbsrki.gscdn.com:1935/kbsrki1/_definst_/kbsrki1.stream/playlist.m3u8"
+      },
+      {
+       "name": "KBS World Radio – Ch 1 – Seoul – Republic of Korea",
+       "url": "https://wink11.gscdn.kbs.co.kr/ch1_64_2.m3u8?Expires=1668265773&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly93aW5rMTEuZ3NjZG4ua2JzLmNvLmtyL2NoMV82NF8yLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NjgyNjU3NzN9fX1dfQ__&Sig",
+       "language_inferred": true
+      },
+      {
+       "name": "KBS 쿨FM(CoolFM)-KBS 제 2 FM – Seoul – Republic of Korea",
+       "url": "https://2fm.gscdn.kbs.co.kr/2fm_192_3.m3u8?Expires=1668266871&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0uZ3NjZG4ua2JzLmNvLmtyLzJmbV8xOTJfMy5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjY4MjY2ODcxfX19XX0_&Signature",
+       "language_inferred": true
+      },
+      {
+       "name": "KBS 클래식FM(Classic FM)-KBS제1FM – 90.3 FM – Masan – Gyeongsangnam-do – Republic of Korea",
+       "url": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Expires=1668267094&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLzFmbV8xOTJfMi5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjY4MjY3MDk0fX19XX0_&Signature",
+       "language_inferred": true
+      },
+      {
+       "name": "KFM 99.9",
+       "url": "http://radio.kfm.co.kr:8000/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "KFM Radio",
+       "url": "https://listen.radioking.com/radio/15593/stream/63514",
+       "language_inferred": true
+      },
+      {
+       "name": "KFN-FM 국방홍보원",
+       "url": "http://mediaworks.dema.mil.kr:1935/live_edge/audio.sdp/playlist.m3u8"
+      },
+      {
+       "name": "Kids Music - 아이와 함께 - 창의력과 상상력을 키우는 음악",
+       "url": "https://live01.inlive.co.kr/listen.html?port=10060",
+       "language_inferred": true
+      },
+      {
+       "name": "Korea Blind Radio",
+       "url": "http://kbic.info:8880/"
+      },
+      {
+       "name": "M4UCast",
+       "url": "http://m4u.saycast.com"
+      },
+      {
+       "name": "Memories and songs - 응답하라! 추억의 가요",
+       "url": "https://live01.inlive.co.kr/listen.html?port=12080",
+       "language_inferred": true
+      },
+      {
+       "name": "Memories of old pop music - 7080 Pop 컬렉션",
+       "url": "https://live01.inlive.co.kr/listen.html?port=10090",
+       "language_inferred": true
+      },
+      {
+       "name": "Moon Music – Tokyo – JP",
+       "url": "https://stream.zeno.fm/b09zk68m8k8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Moon Music 좋은 음악",
+       "url": "https://node-07.zeno.fm/1y1kd68m8k8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Movie OST - 그 감동을 한번 더! 영화 OST",
+       "url": "https://live01.inlive.co.kr/listen.html?port=10110",
+       "language_inferred": true
+      },
+      {
+       "name": "Nanpasun Radio",
+       "url": "http://nanpasun.saycast.com"
+      },
+      {
+       "name": "NHK - Radio News in Korean",
+       "url": "https://nhkwrj-i.akamaihd.net/hls/live/263945/nhkwrj/01.m3u8"
+      },
+      {
+       "name": "OBSPR",
+       "url": "https://vod3.obs.co.kr:444/live/obsstream1/radio.stream/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "POP 100 - 빌보드 POP 100",
+       "url": "https://live01.inlive.co.kr/listen.html?port=10020",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Canal 80",
+       "url": "http://184.107.188.34:8004/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio ClayMan",
+       "url": "http://209.105.250.73:8648/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio CRIMES",
+       "url": "http://50.22.217.113:14515/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio iPrayze",
+       "url": "http://50.241.202.101:9996/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio JAM",
+       "url": "http://68.169.52.252:9000/jvond?type=.mp3/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Public Domain",
+       "url": "http://82.197.167.138:80/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Simply Electronica",
+       "url": "http://62.146.69.75:8540/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Rap Hiphop - 하태하태! 국/해외 랩,힙합",
+       "url": "https://live01.inlive.co.kr/listen.html?port=10130",
+       "language_inferred": true
+      },
+      {
+       "name": "RFA 자유아시아방송 (Radio Free Asia Korean) live",
+       "url": "https://rfa-ingest.akamaized.net/hls/live/2040700/RFA_AUDIO_LIVE2/master.m3u8"
+      },
+      {
+       "name": "Russian Radio in Korea",
+       "url": "http://s10.voscast.com:7432"
+      },
+      {
+       "name": "SBS 러브 FM-SBS 라디오 – 103.5 FM – Seoul – Republic of Korea",
+       "url": "https://korradio.stream/radio.php?action=sbs_lovefm",
+       "language_inferred": true
+      },
+      {
+       "name": "SBS 러브FM",
+       "url": "http://sbs.relay02.live.wms.stream.nfractals.com:1935/pooqsbslovefm/_definst_/live1.stream/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "SCN FM Radio",
+       "url": "http://onair.scnfm.or.kr:8009/"
+      },
+      {
+       "name": "Seoul Community Radio",
+       "url": "http://seoulcommunityradio.out.airtime.pro:8000/seoulcommunityradio_b"
+      },
+      {
+       "name": "Soulnb Radio",
+       "url": "http://211.43.215.158:8388/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Suran Kpop Remix – Seoul – Republic of Korea",
+       "url": "http://julky.inlive.co.kr/listen.pls",
+       "language_inferred": true
+      },
+      {
+       "name": "TBC 대구방송",
+       "url": "http://221.157.125.232:1935/live/psike/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "TBN 인천교통방송 – 100.5 FM – Incheon – Republic of Korea",
+       "url": "http://radio.tbn.or.kr/Incheon",
+       "language_inferred": true
+      },
+      {
+       "name": "TBN 전주교통방송",
+       "url": "http://radio.tbn.or.kr/Junjuhttp:/radio2.tbn.or.kr:1935/jeonbuk/myStream/playlist.m3u8"
+      },
+      {
+       "name": "TBN 전주교통방송 – 102.5 FM – Jeonju – Jeollabuk-do – Republic of Korea",
+       "url": "http://radio.tbn.or.kr/Junjuhttp://radio2.tbn.or.kr:1935/jeonbuk/myStream/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "TOP 100 - 인기가요 TOP 100",
+       "url": "https://live01.inlive.co.kr/listen.html?port=10010",
+       "language_inferred": true
+      },
+      {
+       "name": "WBS 서울원음방송 89.7 FM",
+       "url": "http://49.247.3.51:8000/wbs-smok"
+      },
+      {
+       "name": "Wekorea",
+       "url": "http://104.250.149.122:8032/live"
+      },
+      {
+       "name": "Winter Songs - 겨울에 어울리는 포근한 노래들",
+       "url": "https://live01.inlive.co.kr/listen.html?port=12090",
+       "language_inferred": true
+      },
+      {
+       "name": "YFM",
+       "url": "http://220.81.2.147:8000/"
+      },
+      {
+       "name": "YFM",
+       "url": "http://live.radios.kr:8008/"
+      },
+      {
+       "name": "yfm 영주fm방송",
+       "url": "http://live.radios.kr:8008/&type=mp3"
+      },
+      {
+       "name": "YTN 라디오",
+       "url": "https://radiolive.ytn.co.kr/radio/_definst_/20211118_fmlive/chunklist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "YTN 라디오 (YTN FM) – 24 Hours News Channel – Seoul – Republic of Korea",
+       "url": "https://radiolive.ytn.co.kr/radio/_definst_/20211118_fmlive/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "경인방송 iFM",
+       "url": "http://180.131.1.27:1935/live/vodstream/playlist.m3u8"
+      },
+      {
+       "name": "광주극동방송FM 93.1 (FEBC Gwangju)",
+       "url": "http://mlive.febc.net:1935/live/gj.stream/playlist.m3u8"
+      },
+      {
+       "name": "대전CBS (CBS Daejeon) 생방송",
+       "url": "http://aac.cbs.co.kr/daejeon/_definst_/daejeon.stream/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "목포 MBC AM",
+       "url": "https://vod.mpmbc.co.kr/live/encoder-am/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "목포 MBC FM FM4U",
+       "url": "http://vod.mpmbc.co.kr:1935/live/encoder-fm/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "뮤클캐스트 인터넷 음악방송 – Seoul – Republic of Korea",
+       "url": "http://sc17.saycast.com:8100",
+       "language_inferred": true
+      },
+      {
+       "name": "부산 CBS FM",
+       "url": "https://aac.cbs.co.kr/busan981/_definst_/busan981.stream/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "부슬부슬 운치있는 빗소리",
+       "url": "https://live01.inlive.co.kr/listen.html?port=12010",
+       "language_inferred": true
+      },
+      {
+       "name": "와우씨씨엠 (WOWCCM)",
+       "url": "http://nsc02.saycast.com:8696/"
+      },
+      {
+       "name": "와우씨씨엠 (WOWCCM) – Seoul – Republic of Korea",
+       "url": "https://wowccm.net/listen.pls",
+       "language_inferred": true
+      },
+      {
+       "name": "울산극동방송FM",
+       "url": "https://mlive2.febc.net/live/uslive/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "울산극동방송FM 107.3 (FEBC Ulsan HLQR-FM)",
+       "url": "http://mlive.febc.net:1935/live/usfm.stream/playlist.m3u8"
+      },
+      {
+       "name": "전남CBS (JN CBS HLCL-FM)",
+       "url": "http://aac.cbs.co.kr:1935/jeonnam/_definst_/jeonnam.stream/playlist.m3u8"
+      },
+      {
+       "name": "전남CBS (JN CBS HLCL-FM) – Suncheon – Jeollanam-do – Republic of Korea",
+       "url": "https://aac.cbs.co.kr/jeonnam/_definst_/jeonnam.stream/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "전남동부극동방송FM 97.5 (FEBC)",
+       "url": "http://mlive.febc.net:1935/live/jndbfm/playlist.m3u8"
+      },
+      {
+       "name": "제주극동방송AM 1566 (FEBC Jeju HLAZ)",
+       "url": "http://mlive.febc.net:1935/live/jjam.stream/playlist.m3u8"
+      },
+      {
+       "name": "창원극동방송FM 98.1 (FEBC Changwon HLDD-FM)",
+       "url": "http://mlive.febc.net:1935/live/cwfm.stream/playlist.m3u8"
+      },
+      {
+       "name": "트로트 주막",
+       "url": "http://live10.inlive.co.kr:10560/?n=375bca5ba9d71f3adc05",
+       "language_inferred": true
+      },
+      {
+       "name": "편안한선율",
+       "url": "http://c1.inlive.co.kr:1230/"
+      },
+      {
+       "name": "포항 CBS FM",
+       "url": "https://aac.cbs.co.kr/pohang/_definst_/pohang.stream/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "포항 MBC FM",
+       "url": "http://stream.yubinet.com:1935/live/_definst_/Radio_Am/playlist.m3u8"
+      },
+      {
+       "name": "포항극동방송FM",
+       "url": "http://mlive2.febc.net:1935/live/phlive/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "포항극동방송FM 90.3 (FEBC Pohang HLDZ)",
+       "url": "http://mlive.febc.net:1935/live/phfm.stream/playlist.m3u8"
+      },
+      {
+       "name": "표준FM CBS 라디오 (Standard FM)",
+       "url": "http://aac.cbs.co.kr:1935/cbs981/_definst_/cbs981.stream/playlist.m3u8"
+      },
+      {
+       "name": "하늘호수방송국",
+       "url": "http://live10.inlive.co.kr:10030/"
+      },
+      {
+       "name": "하늘호수방송국",
+       "url": "http://c4.inlive.co.kr:6452/"
+      }
+     ]
+    }
+   }
+  },
+  "English": {
+   "count": 12,
+   "genres": {
+    "blues": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Fantasy Gigs Electric Blues Live",
+       "url": "https://drive.uber.radio/uber/gigsgreenclaptonhendrix/icecast.audio",
+       "tags": [
+        "rock",
+        "blues"
+       ]
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Beam FM - Adult Hits India",
+       "url": "https://ice1.streeemer.com:8020/radio.mp3",
+       "tags": [
+        "easy_listening",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "hip_hop_rap": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "AFN Casey",
+       "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_CSY.mp3",
+       "tags": [
+        "hip_hop_rap",
+        "pop_hits",
+        "various_eclectic"
+       ]
+      }
+     ]
+    },
+    "jazz": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Fantasy Gigs Jazz Bar Live",
+       "url": "https://drive.uber.radio/uber/gigsnatkingcolejamiecullumraycharles/icecast.audio"
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Gwangju Foreign Language Network 98.7 - English",
+       "url": "http://218.157.19.198:8000",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "various_eclectic",
+        "folk",
+        "jpop_kpop_asia"
+       ]
+      },
+      {
+       "name": "YTN News 94.5 FM",
+       "url": "mms://wmradio.ytn.co.kr/ytnlive"
+      }
+     ]
+    },
+    "various_eclectic": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "TBS eFM 90.5",
+       "url": "http://115.68.15.116/efm"
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 5,
+     "stations": [
+      {
+       "name": "CBS Ulsan",
+       "url": "http://aac.cbs.co.kr/ulsan/_definst_/ulsan.stream/playlist.m3u8"
+      },
+      {
+       "name": "GFN",
+       "url": "http://175.126.82.240:1935/gfnlive/myStream/playlist.m3u8"
+      },
+      {
+       "name": "Korea FM 24/7 Music & News Radio",
+       "url": "http://api.spreaker.com/listen/user/6015567/episode/latest/shoutcast.mp3"
+      },
+      {
+       "name": "Rock Ballad",
+       "url": "http://1.uicl.co.kr:8000/stream.nsv"
+      },
+      {
+       "name": "TBS eFM",
+       "url": "http://58.234.158.60:1935/efmlive/myStream/chunklist.m3u8"
+      }
+     ]
+    }
+   }
+  },
+  "Spanish": {
+   "count": 3,
+   "genres": {
+    "disco_eurodance": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "HUG - RADIO FOX STYLE",
+       "url": "http://stream.zeno.fm/leyjhheodeutv?n=dd787769c2dd508d9bea",
+       "tags": [
+        "electronic",
+        "disco_eurodance",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "hip_hop_rap": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Canal80",
+       "url": "https://s01.azuracast.cl/radio/8020/stream",
+       "tags": [
+        "classical",
+        "hip_hop_rap",
+        "electronic",
+        "decade_90s"
+       ]
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "KBS World Spanish Radio",
+       "url": "http://101.79.244.199:1935/cocotv/_definst_/CH00010/playlist.m3u8"
+      }
+     ]
+    }
+   }
+  },
+  "Russian": {
+   "count": 2,
+   "genres": {
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "KBS World Russian Radio",
+       "url": "http://101.79.244.199:1935/cocotv/_definst_/CH00009/playlist.m3u8"
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Радио Живая Вода",
+       "url": "http://listen.radionomy.com/RadioLivingWater"
+      }
+     ]
+    }
+   }
+  },
+  "Arabic": {
+   "count": 2,
+   "genres": {
+    "news_talk": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "http://211.221.46.79:1935/live/mp4:BusanMBC.Live-FM-0415/playlist.m3u8",
+       "url": "http://211.221.46.79:1935/live/mp4:BusanMBC.Live-FM-0415/playlist.m3u8"
+      },
+      {
+       "name": "KBS World Arabic Radio",
+       "url": "http://101.79.244.199:1935/cocotv/_definst_/CH00001/playlist.m3u8"
+      }
+     ]
+    }
+   }
+  },
+  "German": {
+   "count": 1,
+   "genres": {
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "KBS World German Radio",
+       "url": "http://101.79.244.199:1935/cocotv/_definst_/CH00005/playlist.m3u8"
+      }
+     ]
+    }
+   }
+  },
+  "Chinese": {
+   "count": 1,
+   "genres": {
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "KBS World Chinese Radio",
+       "url": "http://101.79.244.199:1935/cocotv/_definst_/CH00002/playlist.m3u8"
+      }
+     ]
+    }
+   }
+  },
+  "French": {
+   "count": 1,
+   "genres": {
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "KBS World French Radio",
+       "url": "http://101.79.244.199:1935/cocotv/_definst_/CH00004/playlist.m3u8"
+      }
+     ]
+    }
+   }
+  },
+  "Japanese": {
+   "count": 1,
+   "genres": {
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "KBS World Japanese Radio",
+       "url": "http://101.79.244.199:1935/cocotv/_definst_/CH00007/playlist.m3u8"
+      }
+     ]
+    }
+   }
+  },
+  "Vietnamese": {
+   "count": 1,
+   "genres": {
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "KBS World Vietnamese Radio",
+       "url": "http://101.79.244.199:1935/cocotv/_definst_/CH00011/playlist.m3u8"
+      }
+     ]
+    }
+   }
+  },
+  "Croatian": {
+   "count": 1,
+   "genres": {
+    "electronic": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Seoul Community Radio Listen live",
+       "url": "https://seoulcommunityradio.out.airtime.pro/seoulcommunityradio_b",
+       "tags": [
+        "pop_hits",
+        "electronic"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Filipino": {
+   "count": 1,
+   "genres": {
+    "jpop_kpop_asia": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Pinoy Seoul Radio",
+       "url": "http://carol.epichosts.co.uk:8060/live.mp3",
+       "tags": [
+        "jpop_kpop_asia",
+        "easy_listening",
+        "decade_90s"
+       ]
+      }
+     ]
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,1478 @@
+{
+ "country": "Aruba",
+ "count": 200,
+ "languages": {
+  "English": {
+   "count": 159,
+   "genres": {
+    "christian_gospel": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "Generatioin Blast",
+       "url": "https://stream.rcast.net/66043"
+      },
+      {
+       "name": "Radio Victoria",
+       "url": "https://stream.zeno.fm/702pgnahqchvv",
+       "tags": [
+        "pop_hits",
+        "christian_gospel"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Top FM 95.1",
+       "url": "http://198.245.51.58:10995/topfm",
+       "tags": [
+        "christian_gospel",
+        "pop_hits",
+        "easy_listening",
+        "various_eclectic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "VIP Christmas",
+       "url": "http://s03.whooshclouds.net:8501/stream",
+       "language_inferred": true
+      }
+     ]
+    },
+    "classical": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Bendishon",
+       "url": "http://bendishon.dynu.net:8000/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Oldies 99.9",
+       "url": "https://securestreams2.autopo.st:1263/",
+       "tags": [
+        "pop_hits",
+        "classical"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "college_community": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "1Ani_hit",
+       "url": "https://stream.zeno.fm/a40yknvy338uv",
+       "language_inferred": true
+      },
+      {
+       "name": "1sarkuma",
+       "url": "https://stream.zeno.fm/zyfc35rx338uv",
+       "language_inferred": true
+      },
+      {
+       "name": "1spbhits",
+       "url": "https://stream.zeno.fm/2z07tmnw338uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Kakakg",
+       "url": "https://stream.zeno.fm/7yw8566xzuhvv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "comedy": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "1vadivucom",
+       "url": "https://stream.zeno.fm/g78xy2be838uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Lalolallollllllll",
+       "url": "https://stream.zeno.fm/kanemge3ba9uv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "Easy FM Aruba",
+       "url": "http://96.31.83.86:8134/stream",
+       "tags": [
+        "easy_listening",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Mega 88 FM",
+       "url": "http://174.123.174.50:8480/stream.mp3?1523266412907",
+       "tags": [
+        "easy_listening",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Power 1017 FM",
+       "url": "http://162.244.81.62:8000/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Top 95 FM",
+       "url": "http://198.245.51.58:10995/topfm?1583569512254",
+       "tags": [
+        "easy_listening",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "electronic": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "Comeback Radio",
+       "url": "http://sc1.sytes.net:9116/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Comeback Radio",
+       "url": "http://74.50.122.103:7000/stream/1",
+       "tags": [
+        "electronic",
+        "pop_hits",
+        "various_eclectic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Heart Music Radio / I Love Aruba FM",
+       "url": "https://live2.tensila.com/heart-a-1.heartar/hls/master.m3u8"
+      },
+      {
+       "name": "Heart Music Radio 1067",
+       "url": "http://67.212.189.122:8119/stream",
+       "language_inferred": true
+      }
+     ]
+    },
+    "folk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Latina FM 92.3 radio",
+       "url": "https://server.radiogs.org/8140/stream/",
+       "tags": [
+        "pop_hits",
+        "folk",
+        "latin"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "house": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Cool FM 98.9",
+       "url": "http://www.coolaruba.com:8000/stream/1",
+       "tags": [
+        "house",
+        "pop_hits",
+        "electronic"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "kids": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "joe mama",
+       "url": "https://stream.zeno.fm/ppz5g11de78uv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "latin": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "Caliente 90.7",
+       "url": "http://67.159.45.87:8214",
+       "tags": [
+        "latin",
+        "reggae_ska"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "GFM Galactica 99.9",
+       "url": "https://securestreams5.autopo.st:1922/stream/",
+       "tags": [
+        "pop_hits",
+        "latin"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Gozadera Stereo radio",
+       "url": "https://server1.intermediacolombia.com:7008/stream",
+       "tags": [
+        "latin",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Latina 92.3 F.M.",
+       "url": "http://freeuk18.listen2myradio.com:11339/",
+       "tags": [
+        "latin",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Hits 100 FM radio",
+       "url": "https://audio-edge-5bkfj.fra.h.radiomast.io/f4b2dcfb-399c-4650-a64a-e4fb5b32717e",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "La Mania radio",
+       "url": "https://stream.zeno.fm/c118fgzm9k0uv",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "college_community"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Mas Fm radio",
+       "url": "http://198.245.51.58:10051/masfm",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "oldies": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Oldies 99.9 Aruba",
+       "url": "https://stream.zeno.fm/ca2yy5vms68uv",
+       "tags": [
+        "oldies",
+        "pop_hits",
+        "rock",
+        "classical"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 737",
+       "url": "http://173.236.59.83:8240",
+       "tags": [
+        "pop_hits",
+        "oldies"
+       ]
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 15,
+     "stations": [
+      {
+       "name": "Blue FM",
+       "url": "https://s31.myradiostream.com/7384/listen.mp3"
+      },
+      {
+       "name": "Blue FM 107.5",
+       "url": "http://173.245.78.146:8014/"
+      },
+      {
+       "name": "Hit 94 FM",
+       "url": "http://hit94fm.serverroom.us:8490/stream.mp3",
+       "tags": [
+        "pop_hits",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Hit 94 FM",
+       "url": "http://hit94fm.serverroom.us:8490/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "Hit FM",
+       "url": "http://162.244.80.20:8490/stream.mp3",
+       "tags": [
+        "pop_hits",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "HIT94",
+       "url": "http://162.244.80.20:8490",
+       "bitrate": 96,
+       "logo": "http://radio.pervii.com/logo/27402.jpg",
+       "language_inferred": true
+      },
+      {
+       "name": "Hits 100 FM",
+       "url": "http://209.9.238.26/stream"
+      },
+      {
+       "name": "La Mania",
+       "url": "http://62.210.209.179:8047/live",
+       "language_inferred": true
+      },
+      {
+       "name": "Magic 96.5 FM",
+       "url": "http://158.69.114.190:8072/?1476089829845",
+       "tags": [
+        "pop_hits",
+        "various_eclectic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Massive FM",
+       "url": "https://surilive.com:8350",
+       "tags": [
+        "pop_hits",
+        "reggae_ska",
+        "latin"
+       ]
+      },
+      {
+       "name": "Radio 737",
+       "url": "http://173.236.59.83:8240/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio GFM 99.9 Listen live",
+       "url": "https://securestreams5.autopo.st:1922/stream.nsv",
+       "language_inferred": true
+      },
+      {
+       "name": "Super Exitos Aruba",
+       "url": "https://stream.zeno.fm/28d9wayzmc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Super Exitos Aruba Listen live",
+       "url": "https://streamer.radio.co/s579e30929/listen",
+       "tags": [
+        "pop_hits",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "VIP Radio",
+       "url": "http://s02.whooshserver.net:8054/",
+       "language_inferred": true
+      }
+     ]
+    },
+    "reggae_ska": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Cool FM 98.9",
+       "url": "http://67.225.152.102:8000/stream/",
+       "tags": [
+        "pop_hits",
+        "world",
+        "reggae_ska"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Massive 103.5 FM Aruba",
+       "url": "https://surilive.com:8350/stream",
+       "tags": [
+        "reggae_ska",
+        "world"
+       ]
+      },
+      {
+       "name": "Reggae Vybz Online Radio",
+       "url": "http://198.27.83.198:5118/"
+      }
+     ]
+    },
+    "rock": {
+     "count": 6,
+     "stations": [
+      {
+       "name": "AFM Aruba - Oranjestad",
+       "url": "https://ice1.securenetsystems.net/DEMOSTN?playSessionID=6AEB38B7-CA0F-2F2B-384DB852DD5B857C",
+       "tags": [
+        "rock",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "CFAM Radio 950",
+       "url": "https://live2.tensila.com/cool-v-1.arubara/hls/live/mystream.m3u8",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "decade_90s",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Fresh FM 104.3",
+       "url": "http://fresharuba.com:8006/stream",
+       "tags": [
+        "rock",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Hits 100",
+       "url": "https://audio-edge-cmc51.fra.h.radiomast.io/f4b2dcfb-399c-4650-a64a-e4fb5b32717e",
+       "tags": [
+        "christian_gospel",
+        "rock"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "InfluenciasRadio radio",
+       "url": "https://stream1.svrdedicado.org/8380/stream",
+       "tags": [
+        "rock",
+        "pop_hits",
+        "folk",
+        "latin"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Blue FM radio",
+       "url": "https://s31.myradiostream.com/:7384/listen.mp3",
+       "tags": [
+        "rock",
+        "pop_hits",
+        "soul_rnb_funk",
+        "hip_hop_rap",
+        "electronic"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "soul_rnb_funk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "KISS FM - R'n'B Beats Listen live",
+       "url": "https://topradio-de-hz-fal-stream05.radiohost.de/kissfm-rnb_mp3-192?ref=radioplayer",
+       "tags": [
+        "soul_rnb_funk",
+        "hip_hop_rap",
+        "electronic"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "sports": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "o",
+       "url": "https://stream.zeno.fm/bk10av4y8vzuv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "trance_goa": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "yhju",
+       "url": "http://52.0.120.216:8000/stream/4/",
+       "bitrate": 128,
+       "logo": "http://radio.pervii.com/logo/1403682921.png",
+       "tags": [
+        "trance_goa",
+        "electronic"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "world": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Massive 103.5 FM Aruba",
+       "url": "https://surilive.com:8350/stream.nsv",
+       "tags": [
+        "world",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 737",
+       "url": "http://cast4.my-control-panel.com:7170/live",
+       "tags": [
+        "world",
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 98,
+     "stations": [
+      {
+       "name": "1anuraaman_radio",
+       "url": "https://stream.zeno.fm/3hnk4km8938uv",
+       "language_inferred": true
+      },
+      {
+       "name": "1Chidevipriya",
+       "url": "https://stream.zeno.fm/rq0hqeh8938uv",
+       "language_inferred": true
+      },
+      {
+       "name": "1simbraji",
+       "url": "https://stream.zeno.fm/fgm3kd88938uv",
+       "language_inferred": true
+      },
+      {
+       "name": "1simbu",
+       "url": "https://stream.zeno.fm/yv35d9yp638uv",
+       "language_inferred": true
+      },
+      {
+       "name": "1sournakka",
+       "url": "https://stream.zeno.fm/tva375h8938uv",
+       "language_inferred": true
+      },
+      {
+       "name": "1vikkirom",
+       "url": "https://stream.zeno.fm/emdt1668938uv",
+       "language_inferred": true
+      },
+      {
+       "name": "32spkan_ka",
+       "url": "https://stream.zeno.fm/bu04ytatwrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "AlfaOmega",
+       "url": "https://stream.zeno.fm/flsfdei1gqfuv",
+       "language_inferred": true
+      },
+      {
+       "name": "AlfaOmega",
+       "url": "https://stream.zeno.fm/epihtikshrpvv",
+       "language_inferred": true
+      },
+      {
+       "name": "ambientemusicadjaruba ...",
+       "url": "https://stream.zeno.fm/whluhyt6t88tv",
+       "language_inferred": true
+      },
+      {
+       "name": "Arrasando Radio",
+       "url": "https://stream.zeno.fm/9gwn3hdmeg8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Busitos  Piratas 63103957",
+       "url": "https://stream.zeno.fm/uhmsqxf9twzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Caliente FM Aruba",
+       "url": "https://stream.zeno.fm/hy68cmxu1p8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Canal90 FM",
+       "url": "https://stream.canal90.fm/live?n=3010f10e3b6383950163",
+       "language_inferred": true
+      },
+      {
+       "name": "Cristo es Amor Aruba",
+       "url": "https://stream.zeno.fm/dkkfsprkgfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Crux Delicinha",
+       "url": "https://stream.zeno.fm/eu8nc573ekhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "CULTURE HITS",
+       "url": "https://stream.zeno.fm/qfres9hggfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "DARKQQQ",
+       "url": "https://stream.zeno.fm/16dtpz383c9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "DOMINIC",
+       "url": "https://stream.zeno.fm/0mm3ekqm7e9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Dushi FM – AW",
+       "url": "http://198.245.51.58:9876/stream?type=.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Dushimusica.com",
+       "url": "https://stream.zeno.fm/xeu0s1y1m3ytv",
+       "language_inferred": true
+      },
+      {
+       "name": "Empire Radio",
+       "url": "http://cast4.asurahosting.com:8614/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Eugen Test Two Oct2022",
+       "url": "https://stream.zeno.fm/xwjaqfjvlx3tv",
+       "language_inferred": true
+      },
+      {
+       "name": "Euuuuuu",
+       "url": "https://stream.zeno.fm/z74he9znq0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Forro das antigas",
+       "url": "https://stream.zeno.fm/uyahmdegrvrtv",
+       "language_inferred": true
+      },
+      {
+       "name": "Freedom",
+       "url": "https://stream.zeno.fm/30qtqh3cbshvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Fresh FM 104.3",
+       "url": "http://www.coolaruba.com:8006/",
+       "language_inferred": true
+      },
+      {
+       "name": "Fresh fm 104.3",
+       "url": "http://fresharuba.com:8006/streamstream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "Fresh Fm Aruba",
+       "url": "http://fresharuba.com:8006/streamaudio.mp3?hash=1688155532122?n=6c501a8005ed9419cf9f",
+       "language_inferred": true
+      },
+      {
+       "name": "freshFM Aruba",
+       "url": "http://fresharuba.com:8006/streamaudio.mp3?n=f9cee1859aeb1b65c5a6",
+       "language_inferred": true
+      },
+      {
+       "name": "Fuente en el decierto",
+       "url": "https://stream.zeno.fm/4qynpghqtvztv",
+       "language_inferred": true
+      },
+      {
+       "name": "GFM 99.9",
+       "url": "https://node-03.zeno.fm/ywr9n56pnc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "GFM Galactica",
+       "url": "http://freeuk25.listen2myradio.com:7662/stream.nsv"
+      },
+      {
+       "name": "GFM Galactica 99.9",
+       "url": "https://stream.zenolive.com/ywr9n56pnc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "GFM Galactica – Oranjestad – AW",
+       "url": "http://s12.myradiostream.com:16860",
+       "language_inferred": true
+      },
+      {
+       "name": "Gfrrryyuuhy",
+       "url": "https://stream.zeno.fm/af0oohzzmhtvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Ggggggggggggg",
+       "url": "https://stream.zeno.fm/brsdpeiiqisvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hdhdjdhhds",
+       "url": "https://stream.zeno.fm/yrrm28qqp0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hits100",
+       "url": "https://audio-edge-3mayu.fra.h.radiomast.io/f4b2dcfb-399c-4650-a64a-e4fb5b32717e"
+      },
+      {
+       "name": "InfluenciasRadio",
+       "url": "https://jbc.panelstream.live/8022/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "influenciasradio",
+       "url": "https://stream.zeno.fm/cbe3t6q48nhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "InfluenciasRadio – AW",
+       "url": "https://jbc.panelstream.live:10988/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "IRADIOFM",
+       "url": "https://stream.zeno.fm/hmfldc1fxrsvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Jajaien",
+       "url": "https://stream.zeno.fm/tmkfh7x9nxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "jamnjki_M_noo",
+       "url": "https://stream.zeno.fm/amke5855rrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Japanese Music Mix",
+       "url": "https://stream.zeno.fm/pxx470c4uc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Javinah Besselink",
+       "url": "https://stream.zeno.fm/x3pmsa7tbphvv",
+       "language_inferred": true
+      },
+      {
+       "name": "La pandilla",
+       "url": "https://stream.zeno.fm/yqefzsscbbauv",
+       "language_inferred": true
+      },
+      {
+       "name": "Latina 92.3 FM",
+       "url": "https://stream.zeno.fm/sc210utds68uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Limalima13",
+       "url": "https://stream.zeno.fm/pfsrz8nrbphvv",
+       "language_inferred": true
+      },
+      {
+       "name": "LINK 9",
+       "url": "https://stream.zeno.fm/xu0uhaxy6hhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "lyaloo",
+       "url": "https://stream.zeno.fm/f3hpra9mfquvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Magic 96.5",
+       "url": "http://158.69.114.190:8072/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Massive 103.5 FM Aruba",
+       "url": "https://radio.streamklik.com/radio/8000/massive.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Maykel",
+       "url": "https://stream.zeno.fm/swcdfyavxihtv",
+       "language_inferred": true
+      },
+      {
+       "name": "Mcheneno",
+       "url": "https://stream.zeno.fm/e6r9ncmbxnhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "midiscoteka",
+       "url": "https://stream.zeno.fm/qrsft5q6kv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "mmmmjk",
+       "url": "https://stream.zeno.fm/yekwf05z72quv",
+       "language_inferred": true
+      },
+      {
+       "name": "Mohimman",
+       "url": "https://stream.zeno.fm/cmcufrw6bbqvv",
+       "language_inferred": true
+      },
+      {
+       "name": "morisson",
+       "url": "https://stream.zeno.fm/6qwqk0rgny8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "musicass",
+       "url": "https://stream.zeno.fm/887bda8ms68uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Muziek Paleis",
+       "url": "https://stream.zeno.fm/trng01w4aa9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Nos Ritmo",
+       "url": "https://sslstreaming.com:7014/",
+       "language_inferred": true
+      },
+      {
+       "name": "Nos Ritmo Aruba – AW",
+       "url": "https://sslstreaming.com/8026/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Odaosa",
+       "url": "https://stream.zeno.fm/45uupdcday8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Playlist Daniel",
+       "url": "https://stream.zeno.fm/wggwzanygbitv",
+       "language_inferred": true
+      },
+      {
+       "name": "Power FM 101.7",
+       "url": "https://vcp3.myplaytv.com/powerfm/powerfm/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "Puro desmadre",
+       "url": "https://stream.zeno.fm/p9bzqgle0dwvv",
+       "language_inferred": true
+      },
+      {
+       "name": "que lo que mi loco",
+       "url": "https://stream.zeno.fm/exq36debxnhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "RACIONAS",
+       "url": "https://stream.zeno.fm/nwvw8pf72rhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Conexion Sobrenatural",
+       "url": "https://stream.zeno.fm/px5npbf4yg0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio en vivo catire",
+       "url": "https://stream.zeno.fm/988qmxnqhkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio fm",
+       "url": "https://stream.zeno.fm/p1p2g6av7bhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Latina FM",
+       "url": "http://62.210.209.179:8000/live",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Maria Aruba – Oranjestad – AW",
+       "url": "http://bendishon.ddns.net:8000/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio One",
+       "url": "https://stream.zeno.fm/smm9tnf5za0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio prueba",
+       "url": "https://stream.zeno.fm/6gixhqyhpdiuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Rei do gado",
+       "url": "https://stream.zeno.fm/7qc0yddaaf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RRDO radio",
+       "url": "https://stream.zeno.fm/ge9pfx50k0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "ruznorodnosc",
+       "url": "https://stream.zeno.fm/8bei83s6o7qvv",
+       "language_inferred": true
+      },
+      {
+       "name": "saborcriollomusical",
+       "url": "https://stream.zeno.fm/fep5qyq9fc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Salsotekaindo – Oranjestad – AW",
+       "url": "https://node-21.zeno.fm/734vqdhpha0uv.aac?rj-ttl=5&rj-tok=AAABduG2AwoAbOuBzaOYec2-yw",
+       "language_inferred": true
+      },
+      {
+       "name": "SAOCO RADIO",
+       "url": "https://stream.zeno.fm/an64387sta0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Seductive hard music",
+       "url": "https://stream.zeno.fm/nsf3sw3m1uhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Shark.FM Aruba",
+       "url": "http://sslstreaming.com:8018/",
+       "language_inferred": true
+      },
+      {
+       "name": "Stryfe FM Server",
+       "url": "https://stream.zeno.fm/k0xh8xdt8hhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Stupid Goats",
+       "url": "https://stream.zeno.fm/qb0w68c9gfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Super Exitos Aruba – Oranjestad – AW",
+       "url": "http://s48.myradiostream.com:11982",
+       "language_inferred": true
+      },
+      {
+       "name": "Traphhnb the h",
+       "url": "https://stream.zeno.fm/nrw6f05a2hhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Tu Nueva Vida Radio",
+       "url": "https://stream.zeno.fm/8n3yv7cqq7zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Tzgospel radio",
+       "url": "https://stream.zeno.fm/sgnke36chfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Vida Fm Aruba",
+       "url": "http://62.210.209.179:8020/live",
+       "language_inferred": true
+      },
+      {
+       "name": "VIP Romance",
+       "url": "http://s03.whooshclouds.net:8501/ch5",
+       "language_inferred": true
+      },
+      {
+       "name": "Vogue Play ARU",
+       "url": "http://node-13.zeno.fm/z45xhym8508uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Web Radio Mp3",
+       "url": "https://stream.zeno.fm/n5qy2hcb2eruv",
+       "language_inferred": true
+      },
+      {
+       "name": "X45Radio",
+       "url": "http://149.56.147.197:8173/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "X45Radio",
+       "url": "http://149.56.147.197:8173/stream"
+      },
+      {
+       "name": "سهرات اذاعية",
+       "url": "https://stream.zeno.fm/4ixm2nwvoantv",
+       "language_inferred": true
+      }
+     ]
+    }
+   }
+  },
+  "Dutch": {
+   "count": 16,
+   "genres": {
+    "decade_60s": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Salsotekiando Stereo",
+       "url": "http://51.15.187.87:8100//stream/1",
+       "tags": [
+        "decade_70s",
+        "decade_60s",
+        "decade_80s"
+       ]
+      }
+     ]
+    },
+    "decade_80s": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Fresh FM 104.3",
+       "url": "http://www.coolaruba.com:8006/stream",
+       "tags": [
+        "decade_2000s",
+        "decade_80s",
+        "decade_90s"
+       ]
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Mega FM",
+       "url": "https://s5.voscast.com:10219/live",
+       "tags": [
+        "easy_listening",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "latin": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Caliente 90.7 FM",
+       "url": "http://75.102.24.243:8030/",
+       "tags": [
+        "latin",
+        "reggae_ska"
+       ]
+      }
+     ]
+    },
+    "oldies": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio 20",
+       "url": "http://67.212.168.98:8100",
+       "tags": [
+        "oldies",
+        "decade_60s",
+        "decade_90s"
+       ]
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "GFM Galactica 99.9 FM",
+       "url": "https://stream.zeno.fm/ywr9n56pnc9uv"
+      },
+      {
+       "name": "Mega 88 FM 88.1",
+       "url": "http://174.123.174.50:8480",
+       "tags": [
+        "pop_hits",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Mega 88FM",
+       "url": "http://s5.voscast.com:10218/live",
+       "tags": [
+        "pop_hits",
+        "easy_listening",
+        "world"
+       ]
+      },
+      {
+       "name": "Super Exitos Aruba",
+       "url": "https://stream.zeno.fm/2stx0ayzmc9uv",
+       "tags": [
+        "pop_hits",
+        "latin"
+       ]
+      }
+     ]
+    },
+    "rock": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Fresh FM 104.3 Oranjestad",
+       "url": "http://www.fresharuba.com:8006",
+       "tags": [
+        "rock",
+        "pop_hits",
+        "easy_listening",
+        "decade_80s",
+        "decade_90s"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 6,
+     "stations": [
+      {
+       "name": "AFM Aruba",
+       "url": "http://stream.radiojar.com/c34tgtpwaseuv.mp3"
+      },
+      {
+       "name": "Bo Guia FM",
+       "url": "http://boguia.ddns.net:8000/stream"
+      },
+      {
+       "name": "Conexion Sobrenatural",
+       "url": "http://radio1.domint.net:8038/.mp3"
+      },
+      {
+       "name": "CrioyoNet 2",
+       "url": "http://sc8.spacialnet.com:25812/"
+      },
+      {
+       "name": "Dushi FM",
+       "url": "http://192.99.63.189:9876/stream"
+      },
+      {
+       "name": "Nos Ritmo Aruba",
+       "url": "http://nosritmo.serverroom.net:6408/stream.mp3"
+      }
+     ]
+    }
+   }
+  },
+  "Papiamento": {
+   "count": 14,
+   "genres": {
+    "christian_gospel": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "VIP Radio Live",
+       "url": "https://s02.whooshserver.net:8054/vip",
+       "tags": [
+        "pop_hits",
+        "christian_gospel",
+        "easy_listening",
+        "electronic",
+        "decade_1920s_50s"
+       ]
+      }
+     ]
+    },
+    "electronic": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Cool FM 98.9",
+       "url": "http://www.coolaruba.com:8000",
+       "tags": [
+        "electronic",
+        "house",
+        "soul_rnb_funk",
+        "reggae_ska",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "house": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "VIP Radio Online Dance - Noord",
+       "url": "http://s02.whooshserver.net:8054/dance",
+       "tags": [
+        "pop_hits",
+        "house",
+        "electronic"
+       ]
+      }
+     ]
+    },
+    "jazz": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Power 101.7FM",
+       "url": "http://38.96.148.28:11832/stream",
+       "tags": [
+        "pop_hits",
+        "jazz",
+        "easy_listening"
+       ]
+      }
+     ]
+    },
+    "latin": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Bo Guia FM",
+       "url": "http://whooshserver.net:9880/live",
+       "tags": [
+        "pop_hits",
+        "college_community",
+        "various_eclectic",
+        "news_talk",
+        "latin"
+       ]
+      },
+      {
+       "name": "Power 101.7 FM",
+       "url": "http://38.96.148.28:11832/",
+       "tags": [
+        "various_eclectic",
+        "latin"
+       ]
+      },
+      {
+       "name": "VIP Radio Arubiano",
+       "url": "http://s02.whooshserver.net:8054/aua"
+      }
+     ]
+    },
+    "oldies": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "GFM Galactica 99.9 FM",
+       "url": "https://securestreams5.autopo.st:1922/",
+       "tags": [
+        "pop_hits",
+        "oldies"
+       ]
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 6,
+     "stations": [
+      {
+       "name": "Canal 90 FM",
+       "url": "https://198.245.51.58:10879/Canal90",
+       "tags": [
+        "pop_hits",
+        "easy_listening",
+        "latin"
+       ]
+      },
+      {
+       "name": "Cool FM 98.9",
+       "url": "http://coolaruba.com:8000/stream"
+      },
+      {
+       "name": "Hit FM 94.1",
+       "url": "http://hit94fm.serverroom.us:8490",
+       "tags": [
+        "pop_hits",
+        "world",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Hits 100.9 FM",
+       "url": "https://streams.radiomast.io/f4b2dcfb-399c-4650-a64a-e4fb5b32717e"
+      },
+      {
+       "name": "Magic 96.5 FM",
+       "url": "http://158.69.114.190:8072/",
+       "tags": [
+        "pop_hits",
+        "folk",
+        "various_eclectic",
+        "latin"
+       ]
+      },
+      {
+       "name": "VIP Radio Romance",
+       "url": "http://192.241.254.172:8501/ch5"
+      }
+     ]
+    }
+   }
+  },
+  "Spanish": {
+   "count": 8,
+   "genres": {
+    "christian_gospel": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Victoria 93.1",
+       "url": "http://s1.streaming10.com:8006/stream",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      }
+     ]
+    },
+    "latin": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Radio Caliente 90.7 FM radio",
+       "url": "https://securestreams.eu:8003/live",
+       "tags": [
+        "latin",
+        "folk"
+       ]
+      },
+      {
+       "name": "Super Exitos Aruba",
+       "url": "http://82.145.59.200:29493",
+       "tags": [
+        "latin",
+        "world"
+       ]
+      }
+     ]
+    },
+    "rock": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Oldies 99.9",
+       "url": "https://s2.radio.co/s389e42745/listen",
+       "tags": [
+        "rock",
+        "oldies",
+        "pop_hits",
+        "soul_rnb_funk"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "Arubiana",
+       "url": "https://stream.zeno.fm/rty9hmphvzltv"
+      },
+      {
+       "name": "Berakhah Online",
+       "url": "https://stream.zeno.fm/ms6uz0ndmy8uv"
+      },
+      {
+       "name": "InfluenciasRadio",
+       "url": "https://stream.zeno.fm/k45zf8a07vzuv"
+      },
+      {
+       "name": "ON Aruba Radio",
+       "url": "https://stream.zeno.fm/kggrkkp3vv8uv"
+      }
+     ]
+    }
+   }
+  },
+  "Arabic": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "DWG Radio Arabic",
+       "url": "http://streamplus52.leonex.de:26012/"
+      }
+     ]
+    }
+   }
+  },
+  "Esperanto": {
+   "count": 1,
+   "genres": {
+    "oldies": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Oldies 99.9",
+       "url": "http://82.145.59.200:33337"
+      }
+     ]
+    }
+   }
+  },
+  "Russian": {
+   "count": 1,
+   "genres": {
+    "oldies": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Studio 69",
+       "url": "http://87.117.208.118:32008",
+       "tags": [
+        "various_eclectic",
+        "oldies",
+        "pop_hits"
+       ]
+      }
+     ]
+    }
+   }
+  }
+ }
+}

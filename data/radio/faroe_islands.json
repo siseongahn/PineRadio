@@ -1,0 +1,322 @@
+{
+ "country": "Faroe Islands",
+ "count": 38,
+ "languages": {
+  "Faroese": {
+   "count": 32,
+   "genres": {
+    "christian_gospel": {
+     "count": 6,
+     "stations": [
+      {
+       "name": "Lindin",
+       "url": "https://high.lindin.fo/",
+       "tags": [
+        "christian_gospel",
+        "rock",
+        "pop_hits",
+        "country",
+        "folk"
+       ]
+      },
+      {
+       "name": "Lindin",
+       "url": "https://low.lindin.fo/"
+      },
+      {
+       "name": "Lindin Radio",
+       "url": "http://lindinhigh.stream.fo:8000/lindinhigh",
+       "bitrate": 128,
+       "logo": "http://radio.pervii.com/im/5/1572798615.jpg"
+      },
+      {
+       "name": "PODAS NetVarp",
+       "url": "https://c13.radioboss.fm:18495/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "SJEY - Kristiligt kringvarp",
+       "url": "https://lurta.sjey.fo/high_aac",
+       "language_inferred": true
+      },
+      {
+       "name": "Sjey radio",
+       "url": "http://lurta.sjey.fo:8080/high_aac",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "comedy": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "1goundamani",
+       "url": "https://stream.zeno.fm/h72yud2e838uv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 5,
+     "stations": [
+      {
+       "name": "KVF - Tingvarp",
+       "url": "http://netvarp.kringvarp.fo:443/tingvarp",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Løgtingið",
+       "url": "https://w2.kringvarp.fo/radio/_definst_/radio.stream/playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "R7 Kringvarp",
+       "url": "http://188.166.103.243:8085/r7_low.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "R7 Kringvarp",
+       "url": "https://crs.webdesign-flash.ro/?q=http://lurta.r7.fo:8084/r7_high.mp3&plugin_id=7628&site_id=8520577",
+       "tags": [
+        "news_talk",
+        "various_eclectic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Rás 2",
+       "url": "http://stream.midlar.fo/ras2",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "various_eclectic"
+       ]
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "VoxPop",
+       "url": "http://stream.midlar.fo/voxpop-64",
+       "language_inferred": true
+      },
+      {
+       "name": "VoxPop Radio",
+       "url": "http://stream.midlar.fo/voxpop"
+      }
+     ]
+    },
+    "rock": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "FM98,7",
+       "url": "http://srv.stream.fo:8000/high",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "country"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Kringvarp Føroya",
+       "url": "http://netvarp.kringvarp.fo:443/uvhm",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "news_talk",
+        "classical",
+        "world",
+        "various_eclectic"
+       ]
+      }
+     ]
+    },
+    "various_eclectic": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "KVF 2",
+       "url": "http://netvarp.kringvarp.fo:443/radio2"
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 15,
+     "stations": [
+      {
+       "name": "1santh_radio",
+       "url": "https://stream.zeno.fm/ahasyfub938uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Canal Paul Rodgers",
+       "url": "https://stream.zeno.fm/etwmtuvztm0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Chebo",
+       "url": "https://stream.zeno.fm/xccey2derc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "FM 98.7 – 98.7 FM – Klaksvík – Norðoyar – FO",
+       "url": "http://srv1.stream.fo:8000/high",
+       "language_inferred": true
+      },
+      {
+       "name": "Kringvarp Føroya Útvarp",
+       "url": "https://w2.kringvarp.fo/radio/_definst_/smil:radio-skip.smil/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "KVF2",
+       "url": "http://netvarp.kringvarp.fo:4443/kvf2_2?n=5b6dd480f247d9fde002"
+      },
+      {
+       "name": "NextWeb Radio",
+       "url": "https://stream.zeno.fm/0prsab4dwa0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Nordic Spirit",
+       "url": "https://stream.zeno.fm/m06mp73e9e9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Odayr FM",
+       "url": "https://stream.zeno.fm/f820tb9ruxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Palitroque",
+       "url": "https://stream.zeno.fm/8a9qv1h9938uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Pimporte 80s Mixed Radio HD",
+       "url": "https://stream.zeno.fm/td6vg2ygeuhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Joni",
+       "url": "https://stream.zeno.fm/e4puu3y7td0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Paikan",
+       "url": "https://stream.zeno.fm/u8ge1sfuhxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radionicki Prirucnik Imt 539",
+       "url": "https://stream.zeno.fm/8lftoud2blyuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Aleluia Cascavel",
+       "url": "https://stream.zeno.fm/rtfghn7ewg0uv",
+       "language_inferred": true
+      }
+     ]
+    }
+   }
+  },
+  "Danish": {
+   "count": 4,
+   "genres": {
+    "christian_gospel": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Sjey FM",
+       "url": "https://lurta.sjey.fo/high_mp3"
+      }
+     ]
+    },
+    "electronic": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Hitstream dk",
+       "url": "http://78.156.123.142:8030/listen1",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Kringvarp Føroya",
+       "url": "https://w1.kringvarp.fo/radio/_definst_/radio.stream/playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio.fo",
+       "url": "https://streaming.radio.co/s4d14b9fcc/listen",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "easy_listening"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Icelandic": {
+   "count": 1,
+   "genres": {
+    "various_eclectic": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Stream.fo",
+       "url": "http://srv1.stream.fo:8000/netradio"
+      }
+     ]
+    }
+   }
+  },
+  "Swahili": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Tzgospel swahili",
+       "url": "https://stream.zeno.fm/ear2y17dgfhvv"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

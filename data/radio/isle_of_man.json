@@ -1,0 +1,161 @@
+{
+ "country": "Isle of Man",
+ "count": 18,
+ "languages": {
+  "English": {
+   "count": 18,
+   "genres": {
+    "alternative_indie": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "U2 Zoo Station Radio The Best Of Live U2",
+       "url": "http://fr.radio.u-2.im:9998/stream/1",
+       "tags": [
+        "rock",
+        "alternative_indie"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      }
+     ]
+    },
+    "christian_gospel": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Estéreo Católica",
+       "url": "https://ea.im:8443/live",
+       "country_inferred": true,
+       "language_inferred": true
+      }
+     ]
+    },
+    "classical": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Hitradio Buxtehude Classic",
+       "url": "https://stream.hitradio-buxtehude.de/radiode/hitradio-buxtehude-classic",
+       "tags": [
+        "classical",
+        "schlager_polka"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "college_community": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "1dev_radio",
+       "url": "https://stream.zeno.fm/z931y5ub938uv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Vis de Taina",
+       "url": "http://89.39.189.44:8000/stream",
+       "language_inferred": true
+      }
+     ]
+    },
+    "house": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "1 Mix Radio House",
+       "url": "http://fr1.1mix.co.uk:8014/",
+       "language_inferred": true
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Manx Radio AM",
+       "url": "http://tx.sharp-stream.com/icecast.php?i=manxradioam.mp3",
+       "tags": [
+        "college_community",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Manx Radio FM",
+       "url": "https://stream.pcradio.ru/manxradio_fm-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Manx Radio FM",
+       "url": "http://tx.sharp-stream.com/icecast.php?i=manxradiofm.mp3",
+       "tags": [
+        "college_community",
+        "news_talk"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Manx Radio AM",
+       "url": "https://edge-event-10-gos2.sharp-stream.com/manxradioam.aac",
+       "language_inferred": true
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 8,
+     "stations": [
+      {
+       "name": "Breaktrue fm",
+       "url": "https://stream.zeno.fm/5mrnkoylpmrvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Energy FM",
+       "url": "http://91.121.78.191:8096/stream.mp3"
+      },
+      {
+       "name": "Manx Radio FM",
+       "url": "http://tx.sharp-stream.com/http_live.php?i=manxradiofm.aac"
+      },
+      {
+       "name": "Manx Rally Radio",
+       "url": "http://api.spreaker.com/listen/user/5047832/episode/latest/shoutcast"
+      },
+      {
+       "name": "Radio I-T-S",
+       "url": "https://stream.zeno.fm/dg10hha6aa9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "ScarlettFM",
+       "url": "http://europa.shoutca.st:8293/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Sykes Radio",
+       "url": "https://stream.zeno.fm/zfexhug1yp8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Tzgospel swahili",
+       "url": "https://stream.zeno.fm/229vw09dgfhvv",
+       "language_inferred": true
+      }
+     ]
+    }
+   }
+  }
+ }
+}

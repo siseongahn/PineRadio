@@ -1,0 +1,661 @@
+{
+ "country": "Monaco",
+ "count": 74,
+ "languages": {
+  "French": {
+   "count": 59,
+   "genres": {
+    "chillout_lounge": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Bitter Sweet Music MC radio",
+       "url": "http://91.121.236.34:8520/mc",
+       "tags": [
+        "chillout_lounge",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Riviera Radio – MC-MC",
+       "url": "http://broadcast.infomaniak.ch:80/rivieraradio-high.aac",
+       "language_inferred": true
+      }
+     ]
+    },
+    "electronic": {
+     "count": 6,
+     "stations": [
+      {
+       "name": "Hits 1 Monaco",
+       "url": "https://radio12.pro-fhi.net/radio/9018/stream",
+       "tags": [
+        "pop_hits",
+        "electronic",
+        "house"
+       ]
+      },
+      {
+       "name": "Hits 1 Monaco",
+       "url": "https://player.mc.hits1radio.com",
+       "tags": [
+        "pop_hits",
+        "electronic",
+        "latin",
+        "house",
+        "folk"
+       ]
+      },
+      {
+       "name": "Radio Baikal radio",
+       "url": "https://onlineradiobox.com/json/mc/baikal/play?platform=web",
+       "tags": [
+        "pop_hits",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Monaco 100% Mix DJ",
+       "url": "https://streamingp.shoutcast.com/radio-monaco-mixdj",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Monaco New York",
+       "url": "https://streamingp.shoutcast.com/radio-monaco-madeinnewyork",
+       "tags": [
+        "news_talk",
+        "electronic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Monaco Night Mood",
+       "url": "https://streamingp.shoutcast.com/radio-monaco-nightmood",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "house": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Monaco Made in New York",
+       "url": "https://www.radioking.com/play/radio-monaco-ny"
+      }
+     ]
+    },
+    "jazz": {
+     "count": 5,
+     "stations": [
+      {
+       "name": "La Note Bleue Radio",
+       "url": "https://onlineradiobox.com/json/mc/lanotebleue/play?platform=web",
+       "tags": [
+        "jazz",
+        "chillout_lounge",
+        "easy_listening",
+        "rock",
+        "blues"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "MCR - Music Club Radio",
+       "url": "https://gs5028.streamingmedia.it/stream",
+       "tags": [
+        "jazz",
+        "soul_rnb_funk",
+        "chillout_lounge",
+        "house",
+        "easy_listening",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "SPINNAKER EASY",
+       "url": "http://51.255.235.165:5624/",
+       "tags": [
+        "jazz",
+        "smooth_jazz"
+       ]
+      },
+      {
+       "name": "The Lounge Channel",
+       "url": "http://theloungechannel.com/listen.m3u",
+       "tags": [
+        "jazz",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "The Lounge Channel",
+       "url": "https://stream.zeno.fm/h6mzt7ccvsbuv",
+       "tags": [
+        "jazz",
+        "smooth_jazz",
+        "easy_listening",
+        "chillout_lounge"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "kids": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Pitchoun",
+       "url": "https://site.vizionr.fr:8443/radiopitchoun.aac",
+       "tags": [
+        "kids",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Radio Ethic",
+       "url": "http://163.172.37.18:8000/radioethic.mp3",
+       "tags": [
+        "news_talk",
+        "world",
+        "various_eclectic",
+        "college_community",
+        "folk"
+       ]
+      },
+      {
+       "name": "Radio France Culture",
+       "url": "https://direct.franceculture.fr/live/franceculture-midfi.mp3?ID=59e6n63bhx",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Monaco",
+       "url": "https://radiomonaco.ice.infomaniak.ch/radiomonaco-128.mp3",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "folk",
+        "electronic",
+        "various_eclectic",
+        "soundtrack"
+       ]
+      }
+     ]
+    },
+    "oldies": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Music 100.9 FM",
+       "url": "https://ice04.fluidstream.net/music1009.mp3",
+       "tags": [
+        "oldies",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Nostalgie",
+       "url": "http://cdn.nrjaudio.fm/audio1/fr/30601/mp3_128.mp3?origine=tune-in-radio",
+       "tags": [
+        "pop_hits",
+        "oldies"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Nostalgie Radio",
+       "url": "http://185.52.127.163/fr/30601/aac_64.mp3",
+       "language_inferred": true
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 7,
+     "stations": [
+      {
+       "name": "Frequence Evasion archives",
+       "url": "http://94.23.209.107:8088",
+       "language_inferred": true
+      },
+      {
+       "name": "Music 100.9",
+       "url": "https://str04.fluidstream.net/music1009.mp3",
+       "tags": [
+        "pop_hits",
+        "various_eclectic",
+        "world",
+        "classical"
+       ]
+      },
+      {
+       "name": "Premium Radio",
+       "url": "https://premium.ice.infomaniak.ch/premium-192.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio20",
+       "url": "http://51.255.235.165:5260/",
+       "tags": [
+        "pop_hits",
+        "soul_rnb_funk"
+       ]
+      },
+      {
+       "name": "Radio20",
+       "url": "http://51.255.235.165:5260/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "Sunny One",
+       "url": "https://sunnyone.ice.infomaniak.ch/sunnyone-192.mp3"
+      },
+      {
+       "name": "Sunny One radio",
+       "url": "https://onlineradiobox.com/json/mc/sunnyone/play?platform=web",
+       "language_inferred": true
+      }
+     ]
+    },
+    "rock": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Radio Gemini One",
+       "url": "https://nr8.newradio.it/proxy/vzambito?mp=/stream&amp1613827201319",
+       "tags": [
+        "rock",
+        "latin",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Virgin Radio Rock",
+       "url": "http://vr-live-mp3-128.scdn.arkena.com/virginradio.mp3",
+       "tags": [
+        "pop_hits",
+        "rock"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Riviera Radio 106.5 FM",
+       "url": "http://icy-e-01.sharp-stream.com/riviera.mp3",
+       "language_inferred": true
+      }
+     ]
+    },
+    "smooth_jazz": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Cool Med Radio",
+       "url": "http://87.98.130.255:8015/",
+       "tags": [
+        "smooth_jazz",
+        "ambient_relax",
+        "chillout_lounge",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "soul_rnb_funk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Power 101 radio",
+       "url": "http://54.36.244.106/698",
+       "tags": [
+        "electronic",
+        "soul_rnb_funk",
+        "hip_hop_rap",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "various_eclectic": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Frequence Evasion 2",
+       "url": "http://91.121.59.45:10197/stream"
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 25,
+     "stations": [
+      {
+       "name": "Discord",
+       "url": "https://stream.zeno.fm/94885w948zhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "DX3RADIO",
+       "url": "https://stream.zeno.fm/admp5rviip7uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Frequence Evasion 1",
+       "url": "http://radiart.eu:10191/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Frequence Evasion 2",
+       "url": "http://radiart.eu:10194/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Hits Only",
+       "url": "https://stream.zeno.fm/cxzff7a8ma0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "LETS GALAU",
+       "url": "https://stream.zeno.fm/uxth2wevzhavv",
+       "language_inferred": true
+      },
+      {
+       "name": "Monaco-Ville en ligne",
+       "url": "https://stream.zeno.fm/vbwosm1lwfrtv",
+       "language_inferred": true
+      },
+      {
+       "name": "Panypedia",
+       "url": "https://stream.zeno.fm/96ahawk4cxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Egberto Gismonti",
+       "url": "https://stream.zeno.fm/s72katdhwa0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Monaco",
+       "url": "http://radiomonaco.ice.infomaniak.ch/radiomonaco-96.aac"
+      },
+      {
+       "name": "Radio-Sud-Monaco Officiel – MC",
+       "url": "https://stream.vestaradio.com/Radio-Sud-MonacoOfficiel",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio20italia",
+       "url": "http://51.255.235.165:5248/",
+       "language_inferred": true
+      },
+      {
+       "name": "radio20loungeclub",
+       "url": "http://51.255.235.165:5324/",
+       "language_inferred": true
+      },
+      {
+       "name": "RadioCity",
+       "url": "https://stream.zeno.fm/kn5qrm032k8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "rnsrxcin",
+       "url": "https://stream.zeno.fm/ka8e0vc9hfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "SAT",
+       "url": "https://stream.zeno.fm/cra4tcwpehruv",
+       "language_inferred": true
+      },
+      {
+       "name": "Sudanese Songs Hussein AlSadiq",
+       "url": "https://stream.zeno.fm/gymau9lthssuv",
+       "language_inferred": true
+      },
+      {
+       "name": "The Lounge Channel",
+       "url": "https://stream.zeno.fm/9aydp1qrquhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "The Lounge Channel 2",
+       "url": "https://stream.zeno.fm/fgxswtqhsuhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "The Lounge Channel 3",
+       "url": "https://stream.zeno.fm/1c9zb906pxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "The Lounge Channel 4",
+       "url": "https://stream.zeno.fm/tpz7wxdqq0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "The Lounge Channel 5",
+       "url": "https://stream.zeno.fm/tgo6qhmvlcmvv",
+       "language_inferred": true
+      },
+      {
+       "name": "The Lounge Channel 6",
+       "url": "https://stream.zeno.fm/ybm0pl73rhdvv",
+       "language_inferred": true
+      },
+      {
+       "name": "The Lounge Channel B",
+       "url": "https://stream.zeno.fm/mbxiolkbmazuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Tzgospel (monaco)",
+       "url": "https://stream.zeno.fm/f4v21921uchvv",
+       "language_inferred": true
+      }
+     ]
+    }
+   }
+  },
+  "English": {
+   "count": 9,
+   "genres": {
+    "chillout_lounge": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "The Lounge Channel",
+       "url": "https://streamingv2.shoutcast.com/The-Lounge-Channel",
+       "tags": [
+        "chillout_lounge",
+        "jazz",
+        "world",
+        "smooth_jazz"
+       ]
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Cool Med Radio",
+       "url": "https://coolmedradio-powercomm.radioca.st/"
+      },
+      {
+       "name": "Riviera Radio 106.5 La Condamine",
+       "url": "http://statslive.infomaniak.ch/playlist/rivieraradio/rivieraradio-high.mp3/playlist.pls",
+       "tags": [
+        "pop_hits",
+        "easy_listening"
+       ]
+      }
+     ]
+    },
+    "electronic": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Radio Baikal 93.2 FM",
+       "url": "http://mp3.7ka.tv:8090/radiobakalru",
+       "tags": [
+        "various_eclectic",
+        "electronic"
+       ]
+      },
+      {
+       "name": "Radio Monte Carlo",
+       "url": "http://stream.zenolive.com/m8gemtf9fseuv"
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Riviera Radio",
+       "url": "https://rivieraradio.ice.infomaniak.ch:80/rivieraradio-high",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "easy_listening",
+        "oldies"
+       ]
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Riviera Radio",
+       "url": "https://rivieraradio.ice.infomaniak.ch/rivieraradio-high.mp3",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "decade_70s",
+        "decade_80s",
+        "decade_90s",
+        "oldies",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Riviera Radio",
+       "url": "http://rivieraradio.ice.infomaniak.ch/rivieraradio-high.aac"
+      }
+     ]
+    },
+    "soul_rnb_funk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "funk2disco laut.fm",
+       "url": "https://funk2disco.stream.laut.fm/funk2disco",
+       "tags": [
+        "disco_eurodance",
+        "soul_rnb_funk",
+        "electronic",
+        "house",
+        "pop_hits",
+        "jazz"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Italian": {
+   "count": 5,
+   "genres": {
+    "easy_listening": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Plein Sud 106 FM",
+       "url": "http://199.195.194.92:8090",
+       "tags": [
+        "easy_listening",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Monte Carlo",
+       "url": "https://edge.radiomontecarlo.net/RMC.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "oldies": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Monte Carlo Italia",
+       "url": "https://icy.unitedradio.it/rmcweb005",
+       "tags": [
+        "pop_hits",
+        "oldies"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Radio20",
+       "url": "http://51.255.235.165/proxy/radioventi?mp=/1"
+      },
+      {
+       "name": "Radio20 special xmas",
+       "url": "http://51.255.235.165:5034/"
+      }
+     ]
+    }
+   }
+  },
+  "Arabic": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "TWR Arabic",
+       "url": "https://streamer.radio.co/sb1e7301c2/listen"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

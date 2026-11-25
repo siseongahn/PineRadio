@@ -1,0 +1,1025 @@
+{
+ "country": "Reunion",
+ "count": 119,
+ "languages": {
+  "French": {
+   "count": 112,
+   "genres": {
+    "alternative_indie": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Hit FM Reunion",
+       "url": "https://sv2.vestaradio.com/HITFMREUNION?flux=70515",
+       "tags": [
+        "pop_hits",
+        "alternative_indie"
+       ]
+      }
+     ]
+    },
+    "christian_gospel": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Louange Reunion Listen live",
+       "url": "https://listen.radioking.com/radio/316880/stream/364313",
+       "tags": [
+        "christian_gospel",
+        "oldies",
+        "chillout_lounge",
+        "pop_hits",
+        "decade_80s"
+       ]
+      },
+      {
+       "name": "Radio Arc-en-Ciel",
+       "url": "https://stric6.streamakaci.com/radioarcenciel.mp3",
+       "tags": [
+        "christian_gospel",
+        "news_talk",
+        "various_eclectic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Tzgospel Swahili (Reunion) radio",
+       "url": "https://stream.zeno.fm/mfx8c3ag0hhvv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "comedy": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Rire & Chansons Réunion",
+       "url": "http://cdn.nrjaudio.fm/adwz1/fr_re/55730/mp3_128.mp3"
+      }
+     ]
+    },
+    "decade_80s": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Rire & Chansons Réunion",
+       "url": "https://scdn.nrjaudio.fm/adwz1/fr_re/55730/mp3_128.mp3",
+       "tags": [
+        "decade_80s",
+        "decade_90s"
+       ]
+      }
+     ]
+    },
+    "decade_90s": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Chérie FM Réunion",
+       "url": "http://185.52.127.170/fr_re/55731/mp3_128.mp3",
+       "tags": [
+        "pop_hits",
+        "decade_90s"
+       ]
+      }
+     ]
+    },
+    "drum_and_bass": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Frosch Radio",
+       "url": "https://stream.laut.fm/frosch-radio",
+       "tags": [
+        "drum_and_bass",
+        "techno",
+        "house",
+        "trance_goa"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Radio Oxygène",
+       "url": "https://ecmanager2.pro-fhi.net:1535/stream",
+       "tags": [
+        "pop_hits",
+        "easy_listening",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "RSL Radio",
+       "url": "https://rslradio.ice.infomaniak.ch/rslradio-128.mp3",
+       "tags": [
+        "pop_hits",
+        "easy_listening",
+        "alternative_indie",
+        "world",
+        "electronic",
+        "hip_hop_rap"
+       ]
+      }
+     ]
+    },
+    "electronic": {
+     "count": 6,
+     "stations": [
+      {
+       "name": "100% Weihnachts-Karaoke Listen live",
+       "url": "https://regiocast.streamabc.net/wmu-karaoke-mp3-192-7660118",
+       "tags": [
+        "electronic",
+        "easy_listening",
+        "decade_90s"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Fun Radio Reunion",
+       "url": "http://funradio.streamakaci.com:80",
+       "language_inferred": true
+      },
+      {
+       "name": "Fun Radio Réunion",
+       "url": "https://cdnradio.streamakaci.com/funradio.mp3",
+       "tags": [
+        "electronic",
+        "news_talk",
+        "latin",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Radio Oxygcne Réunion",
+       "url": "https://listen.radioking.com/radio/10555/stream/63766",
+       "tags": [
+        "oldies",
+        "pop_hits",
+        "electronic"
+       ]
+      },
+      {
+       "name": "Top Fm Maxi Dance",
+       "url": "https://streamingv2.shoutcast.com/-TopFm-Maxidance",
+       "tags": [
+        "electronic",
+        "pop_hits",
+        "techno",
+        "house"
+       ]
+      },
+      {
+       "name": "Top FM Réunion",
+       "url": "http://91.121.67.95:9070/stream",
+       "tags": [
+        "electronic",
+        "pop_hits",
+        "news_talk"
+       ]
+      }
+     ]
+    },
+    "folk": {
+     "count": 6,
+     "stations": [
+      {
+       "name": "Chérie FM Réunion",
+       "url": "https://scdn.nrjaudio.fm/adwz1/fr_re/55731/aac_64.mp3",
+       "tags": [
+        "folk",
+        "pop_hits",
+        "easy_listening",
+        "world"
+       ]
+      },
+      {
+       "name": "Radio NSS low",
+       "url": "http://aska.ru-hoster.com:8096/low",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Oxygène Réunion",
+       "url": "https://www.radioking.com/play/radiooxygene-reunion",
+       "tags": [
+        "folk",
+        "world",
+        "reggae_ska"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Web Bonne Nouvelle",
+       "url": "https://manager2.creativradio.com:1785/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "RER - Radio Est Réunion",
+       "url": "https://rerreunion.ice.infomaniak.ch/rerreunion-64.aac",
+       "tags": [
+        "folk",
+        "world",
+        "oldies",
+        "latin",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Rire et Chansons Réunion Listen live",
+       "url": "https://scdn.nrjaudio.fm/fr_re/55730/aac_64.mp3?cdn_path=adswizz_lbs7&adws_out_a2",
+       "tags": [
+        "folk",
+        "decade_80s"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "hip_hop_rap": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "Chérie FM La Réunion",
+       "url": "https://scdn.nrjaudio.fm/fr_re/55731/mp3_128.mp3?cdn_path=adswizz_lbs9&ampadws_out_a2",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "hip_hop_rap"
+       ]
+      },
+      {
+       "name": "NRJ Réunion",
+       "url": "https://scdn.nrjaudio.fm/fr_re/55759/mp3_128.mp3?cdn_path=adswizz_lbs9&ampadws_out_a2",
+       "tags": [
+        "news_talk",
+        "electronic",
+        "hip_hop_rap",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Trace FM",
+       "url": "https://n01-as.rcs.revma.com/wvx3tf5q54zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "TRACE FM REUNION",
+       "url": "https://tracefmreunion.ice.infomaniak.ch/tracefmreunion-192.aac"
+      }
+     ]
+    },
+    "jazz": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Konect Radio",
+       "url": "https://listen.radioking.com/radio/129973/stream/169819",
+       "tags": [
+        "jazz",
+        "soul_rnb_funk",
+        "rock",
+        "electronic",
+        "reggae_ska",
+        "folk",
+        "hip_hop_rap",
+        "pop_hits",
+        "world"
+       ]
+      }
+     ]
+    },
+    "latin": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "FRÉQUENCE tropicale",
+       "url": "https://radio6.pro-fhi.net/flux-dybyxuwk/stream"
+      },
+      {
+       "name": "Kayanm-FM",
+       "url": "https://hosting.studioradiomedia.fr:2245/stream",
+       "tags": [
+        "latin",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Pikan",
+       "url": "https://sv3.vestaradio.com/RADIOPIKAN",
+       "tags": [
+        "latin",
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Sunlight FM",
+       "url": "https://listen.radioking.com/radio/355933/stream/405250",
+       "tags": [
+        "latin",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 14,
+     "stations": [
+      {
+       "name": "Azot Radio",
+       "url": "https://azotradio1.ice.infomaniak.ch/azotradio1-128.mp3",
+       "tags": [
+        "news_talk",
+        "world",
+        "pop_hits",
+        "rock",
+        "various_eclectic",
+        "latin",
+        "punk"
+       ]
+      },
+      {
+       "name": "Fréquence Sud",
+       "url": "http://51.15.166.181:8006/stream.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Fréquence Sud Radio",
+       "url": "http://ecmanager5.pro-fhi.net:2060/",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Kif Réunion Listen live",
+       "url": "https://radio10.pro-fhi.net:19142/server",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "decade_80s"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "LFM Réunion",
+       "url": "https://radio5.pro-fhi.net/flux-yyxaxjnw/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "reggae_ska"
+       ]
+      },
+      {
+       "name": "OPTIMUM FM 974",
+       "url": "https://stream.zeno.fm/drcepsym8whvv",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "decade_70s",
+        "decade_80s",
+        "decade_90s"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Passion Tropical",
+       "url": "https://listen.radioking.com/radio/7495/stream/63343",
+       "tags": [
+        "news_talk",
+        "world",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Entre Deux FM",
+       "url": "http://51.15.166.181:8002/point_de_montage_stream_1",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Salazes",
+       "url": "http://radiosalazesfm.ice.infomaniak.ch/radiosalazesfm-64.aac",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Soleil",
+       "url": "https://stunnel3.cyber-streaming.com:9104/listen.mp3?_=1",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Sud Plus",
+       "url": "http://srv1.coollabel-productions.com:8040/stream.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "rock",
+        "reggae_ska"
+       ]
+      },
+      {
+       "name": "RFM - France",
+       "url": "https://ais-live.cloud-services.paris/rfm.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "RTL Réunion",
+       "url": "https://rtlreunion.ice.infomaniak.ch/rtlreunion-64.aac",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Réunion la 1ère",
+       "url": "https://reunion.ice.infomaniak.ch/reunion-128.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "hip_hop_rap",
+        "world",
+        "latin",
+        "soul_rnb_funk",
+        "college_community",
+        "electronic"
+       ]
+      }
+     ]
+    },
+    "oldies": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Star Reunion",
+       "url": "http://str45.streamakaci.com:7170/"
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 12,
+     "stations": [
+      {
+       "name": "Chérie FM",
+       "url": "https://scdn.nrjaudio.fm/adwz1/fr_re/55731/mp3_128.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Chérie FM Réunion Listen live",
+       "url": "https://scdn.nrjaudio.fm/fr_re/55731/mp3_128.mp3?cdn_path=adswizz_lbs7&adws_out_a2",
+       "language_inferred": true
+      },
+      {
+       "name": "KIF Réunion",
+       "url": "http://radio10.pro-fhi.net/flux-xtpkbazl/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "KIF Réunion radio",
+       "url": "https://radio10.pro-fhi.net/flux-xtpkbazl/stream?ver=571280",
+       "language_inferred": true
+      },
+      {
+       "name": "NRJ Réunion",
+       "url": "http://cdn.nrjaudio.fm/adwz1/fr_re/55759/aac_64.mp3",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "soul_rnb_funk",
+        "easy_listening",
+        "electronic"
+       ]
+      },
+      {
+       "name": "NRJ Réunion 100,0 FM",
+       "url": "http://cdn.nrjaudio.fm/adwz1/fr_re/55759/mp3_128.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "NRJ Réunion Listen live",
+       "url": "https://scdn.nrjaudio.fm/fr_re/55759/mp3_128.mp3?cdn_path=adswizz_lbs8&adws_out_b2",
+       "language_inferred": true
+      },
+      {
+       "name": "PulsRadio 80",
+       "url": "https://str3.openstream.co/2134",
+       "tags": [
+        "pop_hits",
+        "decade_80s"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO OPTIMUM FM 974",
+       "url": "https://stream.zeno.fm/tq55xe1r01zuv",
+       "tags": [
+        "pop_hits",
+        "decade_80s",
+        "decade_90s",
+        "decade_2000s",
+        "folk",
+        "reggae_ska",
+        "oldies"
+       ]
+      },
+      {
+       "name": "Radio Reunion Mix radio",
+       "url": "http://radio13.pro-fhi.net:9067/stream.nsv",
+       "language_inferred": true
+      },
+      {
+       "name": "Top FM",
+       "url": "http://91.121.67.95:9070/",
+       "tags": [
+        "pop_hits",
+        "electronic"
+       ]
+      },
+      {
+       "name": "TOP FM Listen live",
+       "url": "https://radio6.pro-fhi.net/radio/9070/server",
+       "language_inferred": true
+      }
+     ]
+    },
+    "reggae_ska": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Radio Coloris Listen live",
+       "url": "https://listen.radioking.com/radio/1506/stream/4856",
+       "tags": [
+        "pop_hits",
+        "reggae_ska",
+        "latin",
+        "world",
+        "oldies",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "RADIO OPTIMUM FM 974",
+       "url": "https://forwardmystream.com/radiooptimumfm974",
+       "tags": [
+        "latin",
+        "folk",
+        "reggae_ska",
+        "decade_80s"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "rock": {
+     "count": 5,
+     "stations": [
+      {
+       "name": "Be Chic Radio Listen live",
+       "url": "https://radio9.pro-fhi.net:19003/stream.aac",
+       "tags": [
+        "rock",
+        "latin",
+        "decade_80s"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "LGB",
+       "url": "https://radiolgb.ice.infomaniak.ch/radiolgb-128.mp3",
+       "tags": [
+        "rock",
+        "techno"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Moysikos Episkeptis Listen live",
+       "url": "https://cast.radiohost.ovh:2200/proxy/moysikos?mp=/server",
+       "tags": [
+        "rock",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio MiAmigo radio",
+       "url": "http://129.122.92.10:88/broadwave.mp3",
+       "tags": [
+        "rock",
+        "oldies",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Star Réunion",
+       "url": "http://node-02.zeno.fm/gapuv4z106duv",
+       "tags": [
+        "pop_hits",
+        "rock"
+       ]
+      }
+     ]
+    },
+    "soul_rnb_funk": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Radio Mélodia",
+       "url": "https://radiomelodia.ice.infomaniak.ch/radiomelodia-128.mp3",
+       "tags": [
+        "soul_rnb_funk",
+        "classical",
+        "jazz"
+       ]
+      },
+      {
+       "name": "Sensuelle Radio",
+       "url": "https://forwardmystream.com/sensuelleradio",
+       "tags": [
+        "decade_80s",
+        "soul_rnb_funk",
+        "disco_eurodance",
+        "decade_90s",
+        "easy_listening",
+        "oldies",
+        "decade_70s"
+       ]
+      }
+     ]
+    },
+    "various_eclectic": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "basic-radio.ogg",
+       "url": "http://breakco.re:8000/basic-radio.ogg",
+       "country_inferred": true,
+       "language_inferred": true
+      }
+     ]
+    },
+    "world": {
+     "count": 5,
+     "stations": [
+      {
+       "name": "AKAONE",
+       "url": "http://akatoto.ice.infomaniak.ch/akatoto-128.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "First Reunion Radio",
+       "url": "http://radio7.pro-fhi.net/listen-zntwyaal-stream.mp3",
+       "tags": [
+        "world",
+        "pop_hits",
+        "hip_hop_rap"
+       ]
+      },
+      {
+       "name": "Passion Tropical",
+       "url": "https://www.radioking.com/play/passionauto974/16988"
+      },
+      {
+       "name": "RCI Tropicale",
+       "url": "https://hosting.studioradiomedia.fr:1945/stream",
+       "tags": [
+        "news_talk",
+        "world",
+        "latin"
+       ]
+      },
+      {
+       "name": "Zantak FM",
+       "url": "https://stream3.xdevel.com/audio0s975399-114/stream/icecast.audio"
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 39,
+     "stations": [
+      {
+       "name": "80's station world free",
+       "url": "https://stream.zeno.fm/aufbknqm638uv"
+      },
+      {
+       "name": "Bleu FM",
+       "url": "http://165.169.126.137:4000/"
+      },
+      {
+       "name": "CAPITAL FM",
+       "url": "https://stream.zeno.fm/cyzqb125dkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Cheriefm Réunion 974",
+       "url": "http://cdn.nrjaudio.fm/adwz1/fr_re/55731/mp3_128.mp3"
+      },
+      {
+       "name": "DJ GOURSALO RADIO",
+       "url": "https://stream.zeno.fm/t00a659gzrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "djsam974",
+       "url": "https://stream.zeno.fm/wyesscq8bkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "free radio 80",
+       "url": "https://stream.zeno.fm/kazt84h7n98uv"
+      },
+      {
+       "name": "Griffon_FR2",
+       "url": "https://stream.zeno.fm/n0cr0qdndphvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Horizon FM – Le Tampon – Réunion – Réunion",
+       "url": "http://51.159.52.95:8000/",
+       "language_inferred": true
+      },
+      {
+       "name": "hot-mix-radio-80",
+       "url": "https://stream.zeno.fm/u7w2qgv4yf9uv"
+      },
+      {
+       "name": "JPG RADIO",
+       "url": "https://stream.zeno.fm/p9vu9a92mfhvv"
+      },
+      {
+       "name": "Lens Techno",
+       "url": "https://stream.zeno.fm/dx529bzqrv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "LFM Radio",
+       "url": "https://radio5.pro-fhi.net/flux-yyxaxjnw/stream?1638273243815"
+      },
+      {
+       "name": "LOUANGE REUNION",
+       "url": "https://www.radioking.com/play/louange-reunion",
+       "language_inferred": true
+      },
+      {
+       "name": "music lontan kreol",
+       "url": "https://stream.zeno.fm/7ypzp6f7p98uv"
+      },
+      {
+       "name": "nostalgie 80",
+       "url": "https://stream.zeno.fm/s7q8r7e5yf9uv"
+      },
+      {
+       "name": "osdklive",
+       "url": "https://stream.zeno.fm/zc5q9c38z98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "R.O.FM.974",
+       "url": "https://stream.zeno.fm/ybz1fsym8whvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 3 SUD EST",
+       "url": "http://radio3se.ascultatare.ro:9320/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Babouk",
+       "url": "https://listen.radioking.com/radio/244351/stream/288496"
+      },
+      {
+       "name": "Radio Jards Anet",
+       "url": "https://stream.zeno.fm/8drr2khgxa0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Kivi",
+       "url": "https://kivi.re/radio/8000/kivi.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Kontak",
+       "url": "https://streamingv2.shoutcast.com/radio-kontak"
+      },
+      {
+       "name": "Radio Oxygène Réunion",
+       "url": "https://www.radioking.com/play/radiooxygene-reunion/21440",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pikan",
+       "url": "http://procyon.shoutca.st:8197/stream"
+      },
+      {
+       "name": "Radio tropical",
+       "url": "http://ecmanager.pro-fhi.net:1240/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "RLP Radio",
+       "url": "https://stream.zeno.fm/k8in5lk4ccsuv"
+      },
+      {
+       "name": "swoothradio",
+       "url": "https://stream.zeno.fm/3v4sbrhag18uv"
+      },
+      {
+       "name": "swoothradio",
+       "url": "https://stream.zeno.fm/ssq6c6hag18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "swoothradio",
+       "url": "https://stream.zeno.fm/4x58cwu5g18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "TOP FM Made In France – Paris – Île-de-France Region – Réunion",
+       "url": "https://streamingv2.shoutcast.com/TopFm-iledelaReunion-",
+       "language_inferred": true
+      },
+      {
+       "name": "top100accordeon",
+       "url": "https://stream.zeno.fm/0xazg5b8n98uv"
+      },
+      {
+       "name": "Tzgospel swahili",
+       "url": "https://stream.zeno.fm/yrnrm331nfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Tzgospel swahili",
+       "url": "https://stream.zeno.fm/pbyq92ag0hhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Urban Hit – Saint-Denis – Réunion – Réunion",
+       "url": "https://www.radioking.com/play/urban-hit",
+       "language_inferred": true
+      },
+      {
+       "name": "WANANTSI RADIO",
+       "url": "https://stream.zeno.fm/1c8tfmyfd2zuv"
+      },
+      {
+       "name": "Web Radio 974",
+       "url": "https://stream.zeno.fm/g0vkbrz8rrhvv"
+      },
+      {
+       "name": "WestSide Record",
+       "url": "https://stream.zeno.fm/fgtpwpxpazmvv",
+       "language_inferred": true
+      },
+      {
+       "name": "ZenFmReunion",
+       "url": "https://stream.zeno.fm/8mxsdys1wwzuv",
+       "language_inferred": true
+      }
+     ]
+    }
+   }
+  },
+  "Creole": {
+   "count": 2,
+   "genres": {
+    "electronic": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Neo FM",
+       "url": "https://cdnradio.streamakaci.com/neofm.mp3",
+       "tags": [
+        "electronic",
+        "news_talk",
+        "pop_hits",
+        "world",
+        "hip_hop_rap"
+       ]
+      }
+     ]
+    },
+    "latin": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Reunion Mix Listen live",
+       "url": "https://radio13.pro-fhi.net:19067/stream/1/",
+       "tags": [
+        "latin",
+        "pop_hits",
+        "rock",
+        "electronic"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Hindi": {
+   "count": 1,
+   "genres": {
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Vanakkam Réunion Radio",
+       "url": "https://stunnel2.cyber-streaming.com:9100/stream?type=mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Russian": {
+   "count": 1,
+   "genres": {
+    "soundtrack": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Wargaming FM",
+       "url": "https://sv.wargaming.fm/1/128",
+       "tags": [
+        "news_talk",
+        "soundtrack",
+        "pop_hits"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "English": {
+   "count": 1,
+   "genres": {
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "NRJ Réunion",
+       "url": "https://scdn.nrjaudio.fm/adwz1/fr_re/55759/mp3_128.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "classical",
+        "oldies"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Romanian": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Pitesti",
+       "url": "http://radiopitesti.ascultatare.ro:9330/"
+      }
+     ]
+    }
+   }
+  },
+  "Haitian Creole": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "OSDK radio",
+       "url": "https://stream.zeno.fm/az68re4qh98uv"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

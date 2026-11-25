@@ -1,0 +1,2275 @@
+{
+ "country": "Taiwan",
+ "count": 366,
+ "languages": {
+  "Chinese": {
+   "count": 348,
+   "genres": {
+    "ambient_relax": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Taiwan Lounge Radio",
+       "url": "https://stream.pcradio.ru/taiwan_lounge-med",
+       "language_inferred": true
+      },
+      {
+       "name": "栗子的輕音樂",
+       "url": "http://lizeradio.com:8080/&type=mp3",
+       "tags": [
+        "classical",
+        "ambient_relax"
+       ]
+      }
+     ]
+    },
+    "chillout_lounge": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "中廣鄉親網",
+       "url": "https://stream.rcs.revma.com/k6q5h6yy2tzuv"
+      }
+     ]
+    },
+    "christian_gospel": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Good TV",
+       "url": "https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "Good TV 2",
+       "url": "http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "佳音廣播電台 90.9 FM",
+       "url": "http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch01/playlist.m3u8",
+       "tags": [
+        "christian_gospel",
+        "classical"
+       ]
+      }
+     ]
+    },
+    "classical": {
+     "count": 8,
+     "stations": [
+      {
+       "name": "Classical FM",
+       "url": "http://onair.family977.com.tw:8000/live.mp3"
+      },
+      {
+       "name": "Classical Taiwan 99.7",
+       "url": "https://www.e-classical.com.tw/upload/music/20170815161600_mp3.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Classical 古典音樂台 FM 97.7",
+       "url": "http://59.120.88.155:8000/live.mp3",
+       "bitrate": 128,
+       "logo": "http://radio.pervii.com/logo/20971.jpg",
+       "tags": [
+        "classical",
+        "jazz"
+       ]
+      },
+      {
+       "name": "Gold FM 901",
+       "url": "http://fm901.cityfm.tw:8000/901.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "WQXR-FM 紐約愛樂電台 – TW-TPE",
+       "url": "https://www.wqxr.org/stream/wqxr/mp3.pls",
+       "language_inferred": true
+      },
+      {
+       "name": "佳音經典音樂網",
+       "url": "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/classic/playlist.m3u8",
+       "tags": [
+        "classical",
+        "easy_listening",
+        "christian_gospel"
+       ]
+      },
+      {
+       "name": "台中古典音樂台 radio",
+       "url": "http://hichannel.hinet.net/radio/index.do?id=1120",
+       "language_inferred": true
+      },
+      {
+       "name": "栗子的輕音樂",
+       "url": "http://lizeradio.com:8080/\\u0026type=mp3",
+       "tags": [
+        "easy_listening",
+        "jpop_kpop_asia",
+        "classical",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "college_community": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "chinese",
+       "url": "https://stream.zeno.fm/vmqy6wnm6e9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "MCBS FM 88.3",
+       "url": "http://radio.mcu.edu.tw:8080/stream"
+      }
+     ]
+    },
+    "country": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Asia FM",
+       "url": "http://asiafm.rastream.com/asiafm-asia?awparams=stationid%3Aasiafm-asia%3Btags%3Aradioactive",
+       "tags": [
+        "pop_hits",
+        "country",
+        "classical"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 8,
+     "stations": [
+      {
+       "name": "big big tomato radio",
+       "url": "https://play.gojoy.org/audio/stream",
+       "tags": [
+        "pop_hits",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Gogo Radio FM 104.3(桃園)",
+       "url": "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/fm1043/playlist.m3u8",
+       "tags": [
+        "easy_listening",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "KISSRadio radio",
+       "url": "http://www.kiss.com.tw/radio_hq.php?radio_id=156",
+       "tags": [
+        "pop_hits",
+        "world",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Love Radio 羅東廣播電台",
+       "url": "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/fm903/playlist.m3u8",
+       "tags": [
+        "easy_listening",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Yippee Play",
+       "url": "http://live.onfm.org:8000/broadcast",
+       "tags": [
+        "pop_hits",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "中廣流行網 radio",
+       "url": "http://hichannel.hinet.net/radio/index.do?id=205",
+       "tags": [
+        "easy_listening",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "佳音羅東宜蘭90.3",
+       "url": "http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch02/playlist.m3u8"
+      },
+      {
+       "name": "新客家廣播電台 radio",
+       "url": "http://hichannel.hinet.net/radio/index.do?id=254",
+       "tags": [
+        "easy_listening",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "electronic": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Asia FM 92.7",
+       "url": "https://asiafm.rastream.com/asiafm-asia",
+       "tags": [
+        "pop_hits",
+        "world",
+        "news_talk",
+        "electronic",
+        "hip_hop_rap"
+       ]
+      },
+      {
+       "name": "Taiwan Lounge Radio",
+       "url": "http://azuracast.conceptradio.fr:8030/stream.mp3",
+       "tags": [
+        "electronic",
+        "chillout_lounge"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "TAIWAN LOUNGE RADIO",
+       "url": "http://listen.radionomy.com/taiwan-lounge",
+       "tags": [
+        "electronic",
+        "chillout_lounge",
+        "kids"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "folk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "寶島新聲 FM 98.5",
+       "url": "http://stream.superfm99-1.com.tw:8555",
+       "tags": [
+        "folk",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "jazz": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "太陽電台 radio",
+       "url": "http://hichannel.hinet.net/radio/index.do?id=289",
+       "tags": [
+        "classical",
+        "jazz"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "jpop_kpop_asia": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "栗子的輕音樂",
+       "url": "http://lizeradio.nctu.me:8080/&type=mp3"
+      }
+     ]
+    },
+    "kids": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Stardust Radio",
+       "url": "https://stream.zeno.fm/efdyh8tavp8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "真心之音廣播電台 radio",
+       "url": "http://www.hichannel.hinet.net/radio/index.do?id=217",
+       "language_inferred": true
+      }
+     ]
+    },
+    "latin": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Fire Online Radio Listen live",
+       "url": "https://s3.radio.co/sfc3760205/listen",
+       "tags": [
+        "latin",
+        "decade_90s"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 131,
+     "stations": [
+      {
+       "name": "1766 Internet Radio",
+       "url": "http://livestream.1766.today:1768/live1.mp3"
+      },
+      {
+       "name": "Alian96.3 原住民族廣播電台 radio",
+       "url": "https://streamipcf.akamaized.net/live2/_definst_/fm963/playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Asia FM 92.3 Asia and Pacific",
+       "url": "https://asiafm.rastream.com/asiafm-pacific",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Asia FM 亞洲電台 衛星流行音樂台 – TW-TPE",
+       "url": "https://asiafm.rastream.com/asiafm-star?awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Aasiafm-star&playerid=%E4%BA%9E%E6%B4%B2%E5%BB%A3%E6%92%AD%E5%AE%B6%E6%97%8F%20Asia%20Radio%20Family_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9",
+       "language_inferred": true
+      },
+      {
+       "name": "CityFM",
+       "url": "http://fm983.cityfm.tw:8080/983.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "CNR-5 中华之声",
+       "url": "http://ngcdn005.cnr.cn/live/zhzs/index.m3u8"
+      },
+      {
+       "name": "FM 94.3 音樂 伸展 台 radio",
+       "url": "https://stream.rcs.revma.com/pet2dvug1bkvv/hls.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "FM101.1 Taoyuan International Radio",
+       "url": "http://211.72.65.61:8080/",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "FM102.5 幸福廣播電台",
+       "url": "https://live.tr-radio.com/live/live/playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "FM102.5 幸福廣播電台 radio",
+       "url": "https://onlineradiobox.com/json/tw/fm1025trradio/play?platform=web",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "FM106.3 Daikin Radio",
+       "url": "http://211.72.65.63:8080/",
+       "language_inferred": true
+      },
+      {
+       "name": "FM107.1 The Voice of North Taiwan",
+       "url": "http://211.72.65.62:8080/",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "FM107.1 Universal Radio",
+       "url": "http://60.248.53.115:8081/"
+      },
+      {
+       "name": "FM90.9 The Voice of Chaozhou Radio",
+       "url": "http://59.120.255.170:8081/"
+      },
+      {
+       "name": "FM92.5 Voice of Pingtung",
+       "url": "http://59.120.255.169:8081/"
+      },
+      {
+       "name": "FM97.9 Kavalan Radio",
+       "url": "http://61.220.209.152:8081/",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Hakka Radio",
+       "url": "https://stream.rcs.revma.com/akqrbx94gbkvv/33_1c2nxv77adx8102/playlist",
+       "language_inferred": true
+      },
+      {
+       "name": "Hakka Radio",
+       "url": "https://live.hakkaradio.org.tw/live/hakkafromTY/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "Heart Radio",
+       "url": "mms://b139.ek21.com/heart2"
+      },
+      {
+       "name": "Hi Radio FM 98.7",
+       "url": "https://stream.rcs.revma.com/m5vcf26np7zuv",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "I go 531",
+       "url": "https://stream.rcs.revma.com/s7hc9kpy2tzuv",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "i Like Radio",
+       "url": "https://stream.rcs.revma.com/aw9uqyxy2tzuv",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "IC 之音 FM",
+       "url": "http://www.ic975.com/NetRadio/"
+      },
+      {
+       "name": "IC之音竹科廣播",
+       "url": "https://n10.rcs.revma.com/7mnq8rt7k5zuv"
+      },
+      {
+       "name": "KBS Kaohsiung AM 1089",
+       "url": "http://media.kbs.gov.tw/AM"
+      },
+      {
+       "name": "KBS Kaohsiung FM 94.3",
+       "url": "http://media.kbs.gov.tw/FM"
+      },
+      {
+       "name": "Love Taiwan, Love Taigi",
+       "url": "http://210.240.194.184:8000"
+      },
+      {
+       "name": "M radio",
+       "url": "http://n12.rcs.revma.com/044q61ha7a0uv"
+      },
+      {
+       "name": "MRadio全國廣播FM106",
+       "url": "https://stream.rcs.revma.com/044q61ha7a0uv",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "National Education Radio 102.9 FM",
+       "url": "mms://203.71.144.120:7630/"
+      },
+      {
+       "name": "NBC 美聲廣播電台fm91.5",
+       "url": "http://1.34.23.16:8080/broadwavehigh.mp3",
+       "tags": [
+        "news_talk",
+        "folk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "needs RADIO",
+       "url": "http://cdn280.ccdntech.com/live-http/_definst_/vod280_Live/needs/master.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "News 98",
+       "url": "http://cast.news98.com.tw:8000/news98"
+      },
+      {
+       "name": "Radio Taiwan fm 90.5  大 樹下 廣播 電台 radio",
+       "url": "http://60.250.148.112:8000/live",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Voice of Ming Chuan radio",
+       "url": "http://radio.mcu.edu.tw:8080/radio",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "world"
+       ]
+      },
+      {
+       "name": "Radio Way",
+       "url": "http://8693.live.streamtheworld.com:80/WAYSAM_SC",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "christian_gospel",
+        "sports",
+        "house",
+        "country",
+        "classical"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "RTI 閩客粵語線上收聽 中央廣播電台",
+       "url": "https://www.soundvideostar.com/live/_definst_/rti3/playlist.m3u8"
+      },
+      {
+       "name": "Smile Radio 90.5 FM",
+       "url": "mms://59.120.255.154:905/",
+       "tags": [
+        "various_eclectic",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Supreme Master Television",
+       "url": "http://radio.suprememastertv.com/mp3_128k",
+       "tags": [
+        "news_talk",
+        "christian_gospel"
+       ]
+      },
+      {
+       "name": "Taipei Broadcasting Station",
+       "url": "https://flv.ccdntech.com/live/_definst_/mp4:vod256_Live/fm/playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "True Heart Radio 95.3 FM",
+       "url": "mms://b139.ek21.com/heart1",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "UFO Radio",
+       "url": "https://n24a-eu.rcs.revma.com/em90w4aeewzuv?rj-ttl=5\\u0026rj-tok=AAABf3JIBn0AJgDxf1M8mceXNA"
+      },
+      {
+       "name": "Voice of Han radio",
+       "url": "https://audio.voh.com.tw/TW/Program/ugC_AMFM.aspx",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Yun Jia FM 93.3",
+       "url": "mms://61.218.197.178:8080/",
+       "tags": [
+        "various_eclectic",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "下港之聲FM90.5",
+       "url": "http://59.120.255.155:8081/",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "世 新 廣播 電台 SHRS 88.1 FM",
+       "url": "https://stream.ginnet.cloud/live0115lo-89xv/_definst_/fm881/playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "college_community"
+       ]
+      },
+      {
+       "name": "世新廣播電台",
+       "url": "https://stream.ginnet.cloud/live0115lo-89xv/_definst_/am729/playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "college_community"
+       ]
+      },
+      {
+       "name": "中廣I go 531",
+       "url": "http://n13.rcs.revma.com/s7hc9kpy2tzuv",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "中廣寶島網 radio",
+       "url": "http://hichannel.hinet.net/radio/index.do?id=162",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "中廣新聞網",
+       "url": "https://stream.rcs.revma.com/78fm9wyy2tzuv"
+      },
+      {
+       "name": "中廣新聞網 radio",
+       "url": "http://hichannel.hinet.net/radio/index.do?id=207",
+       "language_inferred": true
+      },
+      {
+       "name": "中廣流行網",
+       "url": "https://stream.rcs.revma.com/s1zttsg3qtzuv"
+      },
+      {
+       "name": "中廣音樂網",
+       "url": "https://stream.rcs.revma.com/ks4vsmg3qtzuv"
+      },
+      {
+       "name": "九八新聞台",
+       "url": "https://stream.rcs.revma.com/pntx1639ntzuv"
+      },
+      {
+       "name": "佳音聖樂網 CCM FM90.9",
+       "url": "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/modern/playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "佳音電台",
+       "url": "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/fm909/playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "光華之聲",
+       "url": "http://live.cooltv.top/tv/kwongwah.php?n=13fe9cf7032886d42c30"
+      },
+      {
+       "name": "台北都會音樂台",
+       "url": "http://hichannel.hinet.net/radio/index.do?id=102",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "台南凱旋 97.9 radio",
+       "url": "http://59.125.209.209:8081/",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "台湾之音-RTI国语",
+       "url": "https://www.soundvideostar.com/live/_definst_/rti3/chunklist_w1580598283.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "台灣之聲 radio",
+       "url": "http://hichannel.hinet.net/radio/index.do?id=1080",
+       "language_inferred": true
+      },
+      {
+       "name": "國立教育廣播電臺 (NER) radio",
+       "url": "http://eradio.ner.gov.tw/player.php",
+       "language_inferred": true
+      },
+      {
+       "name": "國立教育廣播電臺 (NER) – 臺中AM",
+       "url": "https://cast.ner.gov.tw/3"
+      },
+      {
+       "name": "國立教育廣播電臺 (NER) – 臺東分臺FM-1",
+       "url": "https://cast.ner.gov.tw/6"
+      },
+      {
+       "name": "國立教育廣播電臺 (NER) – 臺東分臺FM-2",
+       "url": "https://cast.ner.gov.tw/7"
+      },
+      {
+       "name": "城市廣播 – 台南知音",
+       "url": "http://fm971.cityfm.tw:8080/971.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "大千電台 radio",
+       "url": "http://hichannel.hinet.net/radio/index.do?id=109",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "大千電台FM99.1",
+       "url": "http://stream.superfm99-1.com.tw:8554/",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "大愛網路電台",
+       "url": "http://38.96.148.28:8156/stream"
+      },
+      {
+       "name": "大愛網路電台",
+       "url": "https://streamingv2.shoutcast.com/daai-radio_128.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "大樹下廣播電台",
+       "url": "http://61.216.152.235:8000/FM905"
+      },
+      {
+       "name": "大漢之音",
+       "url": "http://www.hichannel.hinet.net/radio/index.do?id=300",
+       "tags": [
+        "news_talk",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "太陽電台",
+       "url": "http://211.20.119.102:8081/",
+       "language_inferred": true
+      },
+      {
+       "name": "央廣 亞洲頻道",
+       "url": "http://www.rti.org.tw/player.php",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "寶島客家廣播電台 radio",
+       "url": "http://hichannel.hinet.net/radio/index.do?id=241",
+       "language_inferred": true
+      },
+      {
+       "name": "屏東大武山廣播",
+       "url": "http://59.120.255.171:8081/"
+      },
+      {
+       "name": "教育廣播電臺-彰化分臺FM",
+       "url": "https://cast.ner.gov.tw/4"
+      },
+      {
+       "name": "教育廣播電臺-臺北總臺AM臺",
+       "url": "https://cast.ner.gov.tw/2"
+      },
+      {
+       "name": "教育廣播電臺-臺北總臺FM臺",
+       "url": "https://cast.ner.gov.tw/1",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "教育廣播電臺-花蓮分臺FM-1",
+       "url": "https://cast.ner.gov.tw/8"
+      },
+      {
+       "name": "教育廣播電臺-花蓮分臺FM-2",
+       "url": "https://cast.ner.gov.tw/9"
+      },
+      {
+       "name": "教育廣播電臺-高雄分臺",
+       "url": "https://cast.ner.gov.tw/5"
+      },
+      {
+       "name": "新北客radio網路電台",
+       "url": "http://hichannel.hinet.net/radio/index.do?id=1350",
+       "language_inferred": true
+      },
+      {
+       "name": "新聞網 radio",
+       "url": "http://hichannel.hinet.net/radio/index.do?id=187",
+       "language_inferred": true
+      },
+      {
+       "name": "星蹤之愛廣播網 radio",
+       "url": "http://hichannel.hinet.net/radio/index.do?id=1430",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "曾文溪廣播電台 radio",
+       "url": "http://hichannel.hinet.net/radio/index.do?id=1558",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "東南廣播公司",
+       "url": "http://satellitepull.cnr.cn/live/wx32fjdngb/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "東華之聲",
+       "url": "http://radio.ndhu.edu.tw/radio.mp3"
+      },
+      {
+       "name": "桃園GO GO104.3",
+       "url": "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/fm1043/chunklist_w1108784103.m3u8"
+      },
+      {
+       "name": "歡喜之聲 105.5 FM",
+       "url": "http://59.125.41.65:8081/",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "正義電台",
+       "url": "http://hichannel.hinet.net/radio/index.do?id=1020",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "正聲廣播公司",
+       "url": "https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "正聲廣播電台FM104",
+       "url": "https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/chunklist_w872521607.m3u8"
+      },
+      {
+       "name": "正聲綜合台 radio",
+       "url": "https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live2/playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "民本廣播 AM 1296",
+       "url": "https://streamak0134.akamaized.net/live0134lh-5gst/_definst_/am1296/playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "民本電台-1",
+       "url": "https://streamak0134.akamaized.net/live0134lh-5gst/_definst_/am1296/chunklist.m3u8"
+      },
+      {
+       "name": "民本電台-2",
+       "url": "https://streamak0134.akamaized.net/live0134lh-5gst/_definst_/am855/chunklist.m3u8"
+      },
+      {
+       "name": "淡江之聲 FM88.7",
+       "url": "http://163.13.182.81:8001/votk",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "清華電台 radio",
+       "url": "http://140.114.188.43:8000/thbs"
+      },
+      {
+       "name": "牽手之聲網路台",
+       "url": "http://us3.internet-radio.com:8232/stream",
+       "tags": [
+        "news_talk",
+        "classical",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "環宇電台 radio",
+       "url": "http://hichannel.hinet.net/radio/index.do?id=282",
+       "language_inferred": true
+      },
+      {
+       "name": "益世廣播電台 radio",
+       "url": "http://hichannel.hinet.net/radio/index.do?id=1553",
+       "language_inferred": true
+      },
+      {
+       "name": "神農廣播電台 radio",
+       "url": "http://hichannel.hinet.net/radio/index.do?id=1557",
+       "language_inferred": true
+      },
+      {
+       "name": "竹塹廣播電台",
+       "url": "http://211.72.230.118:8081/",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "綠色和平電台",
+       "url": "http://hichannel.hinet.net/radio/index.do?id=1552",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "臺北電台",
+       "url": "https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8"
+      },
+      {
+       "name": "臺北電台AM",
+       "url": "https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/am/playlist.m3u8"
+      },
+      {
+       "name": "臺藝之聲 VOTA",
+       "url": "https://votastream.ntua.edu.tw:8443/vota",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "花蓮好事 radio",
+       "url": "http://www.hichannel.hinet.net/radio/index.do?id=303",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "苗栗客家文化廣播電台 radio",
+       "url": "http://hichannel.hinet.net/radio/index.do?id=1554",
+       "language_inferred": true
+      },
+      {
+       "name": "苗栗正義電台",
+       "url": "http://211.20.119.103:8081"
+      },
+      {
+       "name": "華藝廣播公司",
+       "url": "https://lhttp.qtfm.cn/live/20500139/64k.mp3"
+      },
+      {
+       "name": "講客廣播電臺",
+       "url": "https://www.soundvideostar.com/live/_definst_/hakkaradio/playlist.m3u8"
+      },
+      {
+       "name": "警察廣播電台 - 台北台",
+       "url": "http://stream.pbs.gov.tw:1935/live/TPS/playlist.m3u8"
+      },
+      {
+       "name": "警察廣播電臺 - 全國治安交通網",
+       "url": "http://stream.pbs.gov.tw:1935/live/mp3:PBS/playlist.m3u8"
+      },
+      {
+       "name": "警察廣播電臺 - 宜蘭分臺",
+       "url": "http://stream.pbs.gov.tw:1935/live/ELS/playlist.m3u8"
+      },
+      {
+       "name": "警察廣播電臺 - 新竹分臺",
+       "url": "http://stream.pbs.gov.tw:1935/live/SCS/playlist.m3u8"
+      },
+      {
+       "name": "警察廣播電臺 - 臺中分臺",
+       "url": "http://stream.pbs.gov.tw:1935/live/TCS/playlist.m3u8"
+      },
+      {
+       "name": "警察廣播電臺 - 臺南分臺",
+       "url": "http://stream.pbs.gov.tw:1935/live/TNS/playlist.m3u8"
+      },
+      {
+       "name": "警察廣播電臺 - 臺東分臺",
+       "url": "http://stream.pbs.gov.tw:1935/live/TTS/playlist.m3u8"
+      },
+      {
+       "name": "警察廣播電臺 - 花蓮分臺",
+       "url": "http://stream.pbs.gov.tw:1935/live/HLS/playlist.m3u8"
+      },
+      {
+       "name": "警察廣播電臺 - 高雄分臺",
+       "url": "http://stream.pbs.gov.tw:1935/live/KSS/playlist.m3u8"
+      },
+      {
+       "name": "輔大之聲",
+       "url": "http://140.136.115.115:8000/fjuvoice885.mp3",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "christian_gospel",
+        "college_community",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "金聲廣播電台",
+       "url": "http://60.249.186.105:9000/",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "非凡音電台 radio",
+       "url": "http://hichannel.hinet.net/radio/index.do?id=1040",
+       "language_inferred": true
+      },
+      {
+       "name": "飛碟電台",
+       "url": "http://hichannel.hinet.net/radio/index.do?id=232",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "飛碟電台 FM92.1",
+       "url": "https://n19a-eu.rcs.revma.com/em90w4aeewzuv?rj-ttl=5&rj-tok=AAABhVktE1sAz30kvXZpArVPWw",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "高雄電台",
+       "url": "https://stream.kbs.gov.tw/live/FM/playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "鳳鳴廣播電台 radio",
+       "url": "http://hichannel.hinet.net/radio/index.do?id=1562",
+       "language_inferred": true
+      },
+      {
+       "name": "鳳鳴廣播電台1台",
+       "url": "https://am1161.ddns.net:9005/stream.ogg",
+       "tags": [
+        "news_talk",
+        "world"
+       ]
+      },
+      {
+       "name": "鳳鳴廣播電台2台",
+       "url": "https://am981.ddns.net:9005/stream.ogg",
+       "language_inferred": true
+      }
+     ]
+    },
+    "oldies": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Fly Radio FM 89.5",
+       "url": "https://stream.rcs.revma.com/e0tdah74hv8uv",
+       "tags": [
+        "oldies",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Taipei Station 2 1188 AM",
+       "url": "mms://59.120.150.141:11882/"
+      },
+      {
+       "name": "大樹下廣播電台",
+       "url": "http://61.216.152.237:8080/",
+       "tags": [
+        "oldies",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 37,
+     "stations": [
+      {
+       "name": "923魅力亞太 Asia FM 亞太電台",
+       "url": "http://asiafm.rastream.com/asiafm-asia?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.e&awparams=companionads%3Atrue&playerid=%E4%BA%9E%E6%B4%B2%E5%BB%A3%E6%92%AD%E5%AE%B6%E6%97%8F+Asia+Radio+Family_web"
+      },
+      {
+       "name": "927魅力亞洲 Asia FM 亞洲電台",
+       "url": "https://stream.rcs.revma.com/kydend74hv8uv"
+      },
+      {
+       "name": "AM 1089 音樂伸展台",
+       "url": "https://5d8c494533fce.streamlock.net/live/AM/playlist.m3u8"
+      },
+      {
+       "name": "Asia FM 亞洲電台 衛星流行音樂台",
+       "url": "http://asiafm.rastream.com/asiafm-star?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.e&awparams=companionads%3Atrue&playerid=%E4%BA%9E%E6%B4%B2%E5%BB%A3%E6%92%AD%E5%AE%B6%E6%97%8F+Asia+Radio+Family_web"
+      },
+      {
+       "name": "BCC Radio FM96",
+       "url": "http://n13.rcs.revma.com/ndk05tyy2tzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Boss Online Radio",
+       "url": "https://stream.radiojar.com/ehzvurp9tv8uv"
+      },
+      {
+       "name": "Hit FM聯播網",
+       "url": "http://149.129.100.78:8000/hitfm"
+      },
+      {
+       "name": "HitFm",
+       "url": "http://hichannel.hinet.net/radio/index.do?id=200",
+       "language_inferred": true
+      },
+      {
+       "name": "iCRT",
+       "url": "https://icrt.leanstream.co/ICRTFM-MP3"
+      },
+      {
+       "name": "Lize Radio",
+       "url": "http://lizeradio.com:8080/&amptype=mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Mradio - FM106全國廣播",
+       "url": "http://mradio-hichannel.cdn.hinet.net/live/pool/hich-ra000068/ra-hls/index.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "Phate Radio",
+       "url": "http://stream.phate.io/phateio.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Pop Radio聯播網",
+       "url": "http://149.129.100.78:8000/popradio"
+      },
+      {
+       "name": "RTI閩客粵語和歐美外語",
+       "url": "https://www.soundvideostar.com/live/_definst_/rti6/playlist.m3u8"
+      },
+      {
+       "name": "中廣音樂網i radio",
+       "url": "http://n16.rcs.revma.com/ndk05tyy2tzuv?rj-ttl=5&rj-tok=AAABhsY2cYYANnaCoBd_Y6bTvg"
+      },
+      {
+       "name": "中廣音樂網i radio",
+       "url": "https://stream.rcs.revma.com/ndk05tyy2tzuv"
+      },
+      {
+       "name": "主人廣播電台 BOSS RADIO FM 96.9",
+       "url": "http://59.120.245.47:8080/"
+      },
+      {
+       "name": "亞太電台92.3",
+       "url": "https://n13.rcs.revma.com/kydend74hv8uv"
+      },
+      {
+       "name": "亞洲廣播電台92.7",
+       "url": "https://n08.rcs.revma.com/xpgtqc74hv8uv"
+      },
+      {
+       "name": "台中城市廣播",
+       "url": "http://fm901.cityfm.tw:8080/901.mp3",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "台中廣播",
+       "url": "http://hichannel.hinet.net/radio/index.do?id=1559",
+       "language_inferred": true
+      },
+      {
+       "name": "台北流行廣播電台",
+       "url": "http://www.hichannel.hinet.net/radio/index.do?id=370",
+       "language_inferred": true
+      },
+      {
+       "name": "城市廣播網 FM 92.9 城市廣播",
+       "url": "http://fm929.cityfm.tw:8080/929.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "好事聯播網 Best Radio FM90.3 – 90.3 FM – TW-TXG",
+       "url": "https://bestradiow-hichannel.cdn.hinet.net/live/RA000010/chunklist.m3u8?token=tHBh28ewM1vhWrH8tCKOOQ&expires=1674324766",
+       "language_inferred": true
+      },
+      {
+       "name": "好事聯播網 Best Radio FM98.9 – 98.9 FM – TW-TPE",
+       "url": "https://bestradiow-hichannel.cdn.hinet.net/live/RA000013/playlist.m3u8?token=impzyH3aTN1Q1wg-t7bltw&expires=1674324609",
+       "language_inferred": true
+      },
+      {
+       "name": "寶島新聲廣播電台 radio",
+       "url": "http://hichannel.hinet.net/radio/index.do?id=259",
+       "language_inferred": true
+      },
+      {
+       "name": "寶島聯播網 雲嘉嘉義之音",
+       "url": "http://hichannel.hinet.net/radio/index.do?id=1555",
+       "language_inferred": true
+      },
+      {
+       "name": "廣播電台",
+       "url": "http://hichannel.hinet.net/radio/index.do?id=248",
+       "language_inferred": true
+      },
+      {
+       "name": "復興廣播電台 第一網 radio",
+       "url": "http://hichannel.hinet.net/radio/index.do?id=286",
+       "language_inferred": true
+      },
+      {
+       "name": "心動音樂電台 Pulse FM89.9 – 89.9 FM – TW-HSZ",
+       "url": "https://hichannel.hinet.net/radio/mobile/index.do?id=1490",
+       "language_inferred": true
+      },
+      {
+       "name": "心動音樂電台 radio",
+       "url": "http://hichannel.hinet.net/radio/index.do?id=1490",
+       "language_inferred": true
+      },
+      {
+       "name": "政大之聲 FM88.7",
+       "url": "http://140.119.169.241:8000/ade.taiwan.ogg"
+      },
+      {
+       "name": "文藻網路音樂台 radio",
+       "url": "http://hichannel.hinet.net/radio/index.do?id=1205",
+       "language_inferred": true
+      },
+      {
+       "name": "民本二台AM855",
+       "url": "https://streamak0134.akamaized.net/live0134lh-5gst/_definst_/am855/playlist.m3u8"
+      },
+      {
+       "name": "青春線上",
+       "url": "http://vatrack.hinet.net/96/pc?live"
+      },
+      {
+       "name": "飛特網路電台",
+       "url": "https://stream.phate.io/phateio.ogg"
+      },
+      {
+       "name": "飛碟電台 FM92.1",
+       "url": "http://n02.rcs.revma.com/4yevzvbeewzuv?rj-tok=AAABcZyehEYA2boUCIYXoQzz8w&rj-ttl=5"
+      }
+     ]
+    },
+    "reggae_ska": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Raggakings 雷鬼音樂網路電台",
+       "url": "http://war.str3am.com:7970",
+       "tags": [
+        "reggae_ska",
+        "news_talk"
+       ]
+      }
+     ]
+    },
+    "rock": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Coolitz FM",
+       "url": "http://s2.voscast.com:12484/",
+       "language_inferred": true
+      },
+      {
+       "name": "政大之聲",
+       "url": "http://140.119.169.241:8000/ade.taiwan.mp3",
+       "tags": [
+        "college_community",
+        "rock",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "soul_rnb_funk": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "IC之音竹科廣播 FM97.5",
+       "url": "https://stream.rcs.revma.com/7mnq8rt7k5zuv",
+       "tags": [
+        "soul_rnb_funk",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "WeFunk Radio 放克音樂網路電台",
+       "url": "http://s-00.wefunkradio.com:81/wefunk64.mp3",
+       "tags": [
+        "soul_rnb_funk",
+        "hip_hop_rap",
+        "classical"
+       ]
+      }
+     ]
+    },
+    "soundtrack": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Otaku's Radio",
+       "url": "http://78.129.175.157:17787/or"
+      }
+     ]
+    },
+    "various_eclectic": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Plus Radio",
+       "url": "http://hichannel.hinet.net/radio/index.do?id=1391",
+       "language_inferred": true
+      }
+     ]
+    },
+    "world": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "RTI 1557音樂網 中央廣播電台",
+       "url": "https://www.soundvideostar.com/live/_definst_/rti4/playlist.m3u8",
+       "tags": [
+        "pop_hits",
+        "world"
+       ]
+      },
+      {
+       "name": "RTI Asian",
+       "url": "https://www.soundvideostar.com/live/_definst_/rti3/chunklist_w568372839.m3u8",
+       "tags": [
+        "news_talk",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Taiwan Song",
+       "url": "http://210.240.194.184:8002"
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 133,
+     "stations": [
+      {
+       "name": "1766線上電臺-店頭音樂",
+       "url": "http://livestream.1766.today:1781/live2.mp3"
+      },
+      {
+       "name": "1766線上電臺-私房音樂",
+       "url": "http://livestream.1766.today:1769/live1.mp3"
+      },
+      {
+       "name": "179music",
+       "url": "https://stream.zeno.fm/mss1yzbbbm8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "179白陽經典",
+       "url": "https://stream.zeno.fm/v5169mx3cm8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "216002test",
+       "url": "https://stream.zeno.fm/k8vmz18yem8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "A-Line Radio 聯播網 – TW-TPE",
+       "url": "https://applelineradiow-hichannel.cdn.hinet.net/live/RA000001/chunklist.m3u8?token1=BWCPDhV96AnkcgrJdnB6GQ&token2=ajcRyWhCrpRal17KPl4Z6w&expire1=1664790846&expire2=1666086546",
+       "language_inferred": true
+      },
+      {
+       "name": "Ambience Sound Radio",
+       "url": "https://stream.zeno.fm/a83kkygxmc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Amstar Tina",
+       "url": "https://stream.zeno.fm/444nxdkqcphvv"
+      },
+      {
+       "name": "AmysNightClub",
+       "url": "https://stream.zeno.fm/fhxsd9dx5x8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Antares",
+       "url": "https://stream.zeno.fm/46exhmdahsruv",
+       "language_inferred": true
+      },
+      {
+       "name": "Asia FM",
+       "url": "http://asiafm.rastream.com/asiafm-asia?awparams=stationid%3Aasiafm-asia%3Btags%3Aradioactive?type=.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Asia Star Radio",
+       "url": "http://asiafm.rastream.com/asiafm-star"
+      },
+      {
+       "name": "B&B Radio 幫幫廣播網 – Nantou City – Taiwan – TW",
+       "url": "http://61.216.169.8:8000/airtime_128",
+       "language_inferred": true
+      },
+      {
+       "name": "Bao Dao Radio 主人電台 FM96.9 – 96.9 FM – Kaohsiung City – Takao – TW",
+       "url": "http://stream.superfm99-1.com.tw:8556",
+       "language_inferred": true
+      },
+      {
+       "name": "Bao Dao Radio 大千電台 FM99.1 – Chang-hua – Taiwan – TW",
+       "url": "http://125.227.87.206:8000/FM99.1",
+       "language_inferred": true
+      },
+      {
+       "name": "BCC Country Network",
+       "url": "http://n14.rcs.revma.com/k6q5h6yy2tzuv?listening-from-radio-garden=1636437743&amprj-tok=AAABfQNTglcAVTcEPUDP1qR80A&amprj-ttl=5",
+       "language_inferred": true
+      },
+      {
+       "name": "berenkdn34",
+       "url": "https://stream.zeno.fm/zxcbxqoleo5vv",
+       "language_inferred": true
+      },
+      {
+       "name": "Boss Online Radio",
+       "url": "http://n0e.radiojar.com/ehzvurp9tv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Bravo FM 台北都會音樂台",
+       "url": "https://onair.bravo913.com.tw:9130/live.mp3?n=9f7ce582b0e49df7edce",
+       "language_inferred": true
+      },
+      {
+       "name": "CHANRYCZ",
+       "url": "https://stream.zeno.fm/cmwoc6dt4gjuv",
+       "language_inferred": true
+      },
+      {
+       "name": "CNR-6 神州之声",
+       "url": "http://ngcdn006.cnr.cn/live/szzs/index.m3u8"
+      },
+      {
+       "name": "CozyHour509",
+       "url": "https://stream.zeno.fm/brbfc9p6gv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "CozyHour509",
+       "url": "https://stream.zeno.fm/gzwrr0m6gv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "CSBC",
+       "url": "https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/chunklist_w1468129418.m3u8"
+      },
+      {
+       "name": "Dragon",
+       "url": "https://stream.zeno.fm/09x3eyptgy8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Economic and Political Media",
+       "url": "https://stream.zeno.fm/g9ca4nbz0a0uv"
+      },
+      {
+       "name": "emotional music",
+       "url": "https://stream.zeno.fm/v89z8dzd4v8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Fly Radio 89.5",
+       "url": "https://n12.rcs.revma.com/e0tdah74hv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "green station",
+       "url": "https://stream.zeno.fm/ufzg4a06schvv",
+       "language_inferred": true
+      },
+      {
+       "name": "hbd",
+       "url": "https://stream.zeno.fm/1667p0dtgy8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hi Radio FM 98.7",
+       "url": "https://n10.rcs.revma.com/m5vcf26np7zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Highway 11",
+       "url": "https://stream.zeno.fm/fpqu4sn7y4zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hit FM 97.1 – 97.1 FM – Yilan – Taiwan – TW",
+       "url": "http://bcr.media.hinet.net/RA000027",
+       "language_inferred": true
+      },
+      {
+       "name": "Hit FM北部",
+       "url": "http://live.cooltv.top/tv/hitfm.php?id=hitfm_1?n=91e965764431db846438",
+       "language_inferred": true
+      },
+      {
+       "name": "I Love Asia FM",
+       "url": "http://authaudio.rastream.com/asiafm-asia-message.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "IC 97.5 FM",
+       "url": "https://n08.rcs.revma.com/7mnq8rt7k5zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "INTERNET HOME RADIO",
+       "url": "https://stream.zeno.fm/v20v659dqd0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "iWant Radio – TW-TPE",
+       "url": "http://mediaserver.iwant-in.net/player/casx.php?GApp=liveradio&GFiles=pop",
+       "language_inferred": true
+      },
+      {
+       "name": "Jack FM",
+       "url": "https://stream.zeno.fm/dk562yebe78uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Japanese music no singing",
+       "url": "https://stream.zeno.fm/bg5hnnw74v8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "KAZN AM1300中文廣播電臺",
+       "url": "http://mobilewzrc.serverroom.us:6914/stream.mp3"
+      },
+      {
+       "name": "Kids Public Radio – TW-TPE",
+       "url": "http://kidspublicradio2.got.net:8000/pipsqueaks.m3u",
+       "language_inferred": true
+      },
+      {
+       "name": "KISS Radio – TW-TXG",
+       "url": "https://kissradiow-hichannel.cdn.hinet.net/live/RA000040/playlist.m3u8?token=tOjKoPp4Rcvvlx6I_gRocg&expires=1669142625",
+       "language_inferred": true
+      },
+      {
+       "name": "Kiss25全時音樂 – TW-TPE",
+       "url": "https://kiss25.live/8100/audio",
+       "language_inferred": true
+      },
+      {
+       "name": "Latino",
+       "url": "https://stream.zeno.fm/zpxngvwb4v8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Love Radio FM 90.3",
+       "url": "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/fm903/chunklist_w1318524593.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "M radio",
+       "url": "http://n13.rcs.revma.com/55tyxsy4qtzuv.m4a",
+       "language_inferred": true
+      },
+      {
+       "name": "MeiLi9562",
+       "url": "https://stream.zeno.fm/r9cvgr2chv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "MhR - Anime & Games",
+       "url": "http://tedc.biz:8000/stream/2/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "needs RADIO全球華語廣播網 – Banqiao District – TW-TPE",
+       "url": "http://cwh1.ccdntech.com/live-http/_definst_/vod280_Live/needs/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "NER教育電臺",
+       "url": "http://wowza.ner.gov.tw/live/_definst_/1/playlist.m3u8?n=10c99ecfd1ed129f4a77",
+       "language_inferred": true
+      },
+      {
+       "name": "News 98 FM Radio",
+       "url": "https://stream.rcs.revma.com/pntx1639ntzuv.m4a?1672597573",
+       "language_inferred": true
+      },
+      {
+       "name": "Nina Music Bar",
+       "url": "https://stream.zeno.fm/f9kgnrvb4v8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "PBS – Hualien Sub-Station",
+       "url": "http://stream.pbs.gov.tw:1935/live/HLS/media_w247070676_128307.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "PBS – Taipei Sub-Station",
+       "url": "http://stream.pbs.gov.tw:1935/live/TPS/media_w289094523_128284.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "Peggymusic",
+       "url": "https://stream.zeno.fm/7yxgc8n2fm0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "POP Radio 91.7 FM – 91.7 FM – TW-TPE",
+       "url": "http://b1.mediayou.net/cgi-bin/mmsurl_hinet?id=370",
+       "language_inferred": true
+      },
+      {
+       "name": "Raggakings 雷鬼音樂網路電台 – TW-TPE",
+       "url": "http://www.raggakings.net/listen.wax",
+       "language_inferred": true
+      },
+      {
+       "name": "Rti Radio Taiwan Internacional",
+       "url": "https://es-static.rti.org.tw/assets/audio/2022/09/19/20220919_2200_0086_es.mp3?n=75ebc8350851ff6b1be6",
+       "language_inferred": true
+      },
+      {
+       "name": "RTI 臺灣之音",
+       "url": "https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/chunklist.m3u8?n=5c05b16e5f6c0e2dd755",
+       "language_inferred": true
+      },
+      {
+       "name": "selection",
+       "url": "https://stream.zeno.fm/hcteaprepchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "SHRS Shih Hsin Radio Station",
+       "url": "https://stream.ginnet.cloud/live0115lo-89xv/_definst_/fm881/chunklist_w1216284878.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "Stars RADIO星蹤之愛廣播網",
+       "url": "https://cdn280.ccdntech.com/live-http/_definst_/vod280_Live/stars/playlist.m3u8?n=5b2e0c8614a1594c341b",
+       "language_inferred": true
+      },
+      {
+       "name": "Stars RADIO星蹤之愛廣播網 – Banqiao District – TW-TPE",
+       "url": "http://cwh1.ccdntech.com/live-http/_definst_/vod280_Live/stars/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "Surah Al Anbiya Maher Al Mueaqly",
+       "url": "https://stream.zeno.fm/wysapqbdxuktv",
+       "language_inferred": true
+      },
+      {
+       "name": "Taiwan Good TV General",
+       "url": "http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8"
+      },
+      {
+       "name": "Taiwan Good TV Truth",
+       "url": "http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-3.m3u8"
+      },
+      {
+       "name": "Taiwan Hwazan Satellite TV",
+       "url": "http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8"
+      },
+      {
+       "name": "Transformation Radio 102.5",
+       "url": "https://live.tr-radio.com/live/live/chunklist_w138618207.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "Tsing Hua Broadcasting Station",
+       "url": "http://media.club.nthu.edu.tw:8000/thbs",
+       "language_inferred": true
+      },
+      {
+       "name": "Tzgospel",
+       "url": "https://stream.zeno.fm/m1nvfyyvcfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "UFO Radio",
+       "url": "http://n13.rcs.revma.com/4yevzvbeewzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "UFO Radio",
+       "url": "https://n11.rcs.revma.com/em90w4aeewzuv.aac"
+      },
+      {
+       "name": "Vnccu Radio",
+       "url": "http://140.119.169.34:7007/"
+      },
+      {
+       "name": "Wild FM station",
+       "url": "https://stream.zeno.fm/m3rh225sgm8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "YESRadio",
+       "url": "https://stream.zeno.fm/18h11zxe938uv",
+       "language_inferred": true
+      },
+      {
+       "name": "下港之聲 FM 90.5",
+       "url": "http://59.120.255.171:8082/"
+      },
+      {
+       "name": "中國廣播公司 - Country",
+       "url": "https://stream.rcs.revma.com/p2e3rfg3qtzuv"
+      },
+      {
+       "name": "中央广播电台台湾之音",
+       "url": "https://bbx.xmgspace.me/radio/rti/live/_definst_/rti3/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "中广流行网",
+       "url": "https://n18a-eu.rcs.revma.com/ks4vsmg3qtzuv?rj-ttl=5",
+       "language_inferred": true
+      },
+      {
+       "name": "中廣流行網 – FM 103.3",
+       "url": "http://n07.rcs.revma.com/aw9uqyxy2tzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "中廣音樂網i Radio",
+       "url": "http://n09.rcs.revma.com/ndk05tyy2tzuv?rj-ttl=5&amprj-tok=AAABfQhc0tMAIabeIcWGjiwWCg",
+       "language_inferred": true
+      },
+      {
+       "name": "临时音乐电台111",
+       "url": "https://stream.zeno.fm/qmpwjgfow1evv",
+       "language_inferred": true
+      },
+      {
+       "name": "九八新聞台 News 98",
+       "url": "http://cast.news98.com.tw:8000/pntx1639ntzuv",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "九八新聞台 News98 FM 98.1",
+       "url": "https://stream.rcs.revma.com/55tyxsy4qtzuv"
+      },
+      {
+       "name": "九八新聞台 News98 FM 98.1 – 98 FM – TW-TPE",
+       "url": "https://n17a-eu.rcs.revma.com/pntx1639ntzuv.m4a?1672237775=&rj-tok=AAABhVksp6AAmtkid0NMCHBwqQ&rj-ttl=5",
+       "language_inferred": true
+      },
+      {
+       "name": "佳音現代音樂網",
+       "url": "http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch04/playlist.m3u8"
+      },
+      {
+       "name": "凱旋廣播電台 97.9 FM – 97.9 FM – Tainan City – Taiwan – TW",
+       "url": "http://60.249.208.103:8081/",
+       "language_inferred": true
+      },
+      {
+       "name": "台中古典音樂台",
+       "url": "http://onair.family977.com.tw:8000/live.mp3.m3u?n=0fe15b792666beb412ee",
+       "language_inferred": true
+      },
+      {
+       "name": "台中廣播",
+       "url": "http://211.20.119.101:8081/"
+      },
+      {
+       "name": "台北愛樂電台 FM99.7 – 99.7 FM – TW-TPE",
+       "url": "http://hls.qd.qingting.fm/live/1404.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "台北爱乐电台",
+       "url": "https://e-classical.yy101.net/onair/chunklist.m3u8?token=jiXiCOrqdk8zbAVMPM3BtA&expires=1710323082?n=9686a564e25a1196266e",
+       "language_inferred": true
+      },
+      {
+       "name": "唯心",
+       "url": "http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/HasBahCa.m3u8?n=83b9c3f56759ef210b56"
+      },
+      {
+       "name": "國立臺灣藝術大學廣播電臺",
+       "url": "http://video.ntua.edu.tw/live/ntua/index.m3u8"
+      },
+      {
+       "name": "國際廣播電台 101.1",
+       "url": "http://211.23.115.208:8080/"
+      },
+      {
+       "name": "城市廣播-城市廣播",
+       "url": "http://fm997.cityfm.tw:8997/997.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "好事聯播網 Best Radio FM93.5 – 93.5 FM – TW",
+       "url": "https://bestradiow-hichannel.cdn.hinet.net/live/RA000011/playlist.m3u8?token=uhurFQsY2KtgJTxXegKzWw&expires=1668765756",
+       "language_inferred": true
+      },
+      {
+       "name": "好事聯播網 港都983 Best Radio FM983 – 983 AM – Kaohsiung City – Takao – TW",
+       "url": "http://103.152.252.5:1935/radio1/live/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "好事聯播網FM90.3",
+       "url": "http://103.152.252.5/hls/radio2/live.m3u8"
+      },
+      {
+       "name": "好事聯播網FM98.9",
+       "url": "http://103.152.252.6/hls/radio1/live.m3u8"
+      },
+      {
+       "name": "寶島客家廣播電台",
+       "url": "http://taiwan-radio.tw:8000/TP.FM93.7?n=c24ce5e342982155e554",
+       "language_inferred": true
+      },
+      {
+       "name": "寶島聯播網",
+       "url": "http://125.227.87.206:8000/FM98.5",
+       "language_inferred": true
+      },
+      {
+       "name": "復興廣播電台 Fuxing Broadcasting Station – TW-TXG",
+       "url": "http://aspspider.ws/tuning/play1.asp?id=286",
+       "language_inferred": true
+      },
+      {
+       "name": "快樂聯播網 嘉義 FM92.3 – 92.3 FM – TW",
+       "url": "https://radioradio7.com/radio-asx/Taiwan-Happy-Radio-Chiayi-923-FM.asx",
+       "language_inferred": true
+      },
+      {
+       "name": "政大之聲 88.7 FM – 88.7FM – TW-TPE",
+       "url": "http://www.vnccu.nccu.edu.tw/vnccu.asx",
+       "language_inferred": true
+      },
+      {
+       "name": "新客家廣播電台 FM 93.5 Newhakka Radio – 93.5 FM – TW",
+       "url": "http://b1.mediayou.net/cgi-bin/mmsurl_hinet?id=254",
+       "language_inferred": true
+      },
+      {
+       "name": "民生之聲 FM 89.7 – 89.7 FM – TW",
+       "url": "http://b1.mediayou.net/embedded/playURL.php?id=22066&sc=PCWEB",
+       "language_inferred": true
+      },
+      {
+       "name": "漢聲廣播 AM 684 – 684 AM – TW",
+       "url": "http://b1.mediayou.net/embedded/playURL.php?id=10265&sc=PCWEB",
+       "language_inferred": true
+      },
+      {
+       "name": "環宇廣播電台",
+       "url": "http://stream.rcs.revma.com/srn5f9kmwxhvv"
+      },
+      {
+       "name": "真心之音廣播電台",
+       "url": "https://mytuner-radio.com/radio/country/taiwan-stations"
+      },
+      {
+       "name": "神農廣播股份有限公司 – 99.5 FM – Chiayi City – Taiwan – TW",
+       "url": "https://stream.rcs.revma.com/uyaghqmdm3hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "綠色和平電台 97.3 FM (GreenPeace) – 97.3 FM – TW-TPE",
+       "url": "https://greenpeaceradiow-hichannel.cdn.hinet.net/live/RA000086/playlist.m3u8?token=fXawN89XYaSu68Uh2I7XAQ&expires=1677670606",
+       "language_inferred": true
+      },
+      {
+       "name": "臺北廣播電臺",
+       "url": "https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/chunklist_w1248931483.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "花園廣播電台 FM88.7 – 88.7 FM – Chang-hua – Taiwan – TW",
+       "url": "http://43.254.16.40:8000/CH.FM88.7",
+       "language_inferred": true
+      },
+      {
+       "name": "花蓮希望之聲廣播電台FM90.5 – 90.5 FM – Hualien City – Taiwan – TW",
+       "url": "http://61.216.107.175:8081/",
+       "language_inferred": true
+      },
+      {
+       "name": "花蓮蓮花電台",
+       "url": "http://103.152.252.6/hls/radio2/live.m3u8"
+      },
+      {
+       "name": "蘭嶼電台 FM 99.5 – 99.5 FM – TW-TTT",
+       "url": "http://211.72.91.155:8080/",
+       "language_inferred": true
+      },
+      {
+       "name": "講客廣播電臺",
+       "url": "https://n19a-eu.rcs.revma.com/akqrbx94gbkvv/25_8uocrxlx6fd202/playlist.m3u8"
+      },
+      {
+       "name": "講客廣播電臺 105.9",
+       "url": "https://live.hakkaradio.org.tw/live/hakkafromTY/chunklist_w1888028438.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "警廣 新竹台 PRS Hsinchu – TW-HSZ",
+       "url": "http://bcr.media.hinet.net/RADRM052",
+       "language_inferred": true
+      },
+      {
+       "name": "警廣全國交通 PRS National Traffic – TW",
+       "url": "http://bcr.media.hinet.net/RADRM049",
+       "language_inferred": true
+      },
+      {
+       "name": "警廣台北 PRS Taipei – TW-TPE",
+       "url": "http://bcr.media.hinet.net/RADRM050",
+       "language_inferred": true
+      },
+      {
+       "name": "警廣花蓮 PRS Hualien – TW",
+       "url": "http://bcr.media.hinet.net/RADRM056",
+       "language_inferred": true
+      },
+      {
+       "name": "資悠網路廣播實驗電台",
+       "url": "http://122.116.105.69:8000/live"
+      },
+      {
+       "name": "資悠網路廣播實驗電台 – TW-HSZ",
+       "url": "http://43.254.16.40:8000/guide",
+       "language_inferred": true
+      },
+      {
+       "name": "農鄉廣播電台FM106.3 – 106.3 FM – Douliu – Taiwan – TW",
+       "url": "http://61.216.107.175:8000/live",
+       "language_inferred": true
+      },
+      {
+       "name": "雲嘉調頻廣播電台 93.3 FM",
+       "url": "https://m2.i933.com.tw/fm933/live.m3u8"
+      },
+      {
+       "name": "非凡音電台",
+       "url": "http://43.254.16.40:8000/TC.FM98.5?n=8b50a7458e8591e7e99c",
+       "language_inferred": true
+      },
+      {
+       "name": "領袖電台 FM93.7 – 93.7 FM – Tainan City – Taiwan – TW",
+       "url": "https://stream.rcs.revma.com/hpeqh9mkc6hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "飛揚調頻 FM 89.5",
+       "url": "http://asiafm.rastream.com/asiafm-fly"
+      },
+      {
+       "name": "飛碟聯播網",
+       "url": "http://stream.rcs.revma.com/4yevzvbeewzuv.m4a?1616990709"
+      },
+      {
+       "name": "飛碟電台",
+       "url": "https://stream.rcs.revma.com/4yevzvbeewzuv"
+      },
+      {
+       "name": "高雄港都電台",
+       "url": "http://103.152.252.5/hls/radio1/live.m3u8"
+      }
+     ]
+    }
+   }
+  },
+  "English": {
+   "count": 9,
+   "genres": {
+    "christian_gospel": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Good News FM",
+       "url": "http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch01/chunklist.m3u8"
+      }
+     ]
+    },
+    "electronic": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Proton Radio 電子音樂網路電台",
+       "url": "http://www.protonradio.com:8000/listen"
+      },
+      {
+       "name": "Taiwan Lounge Radio",
+       "url": "https://azuracast.conceptradio.fr/radio/8030/stream.mp3?1596557333",
+       "tags": [
+        "electronic",
+        "ambient_relax",
+        "chillout_lounge",
+        "easy_listening"
+       ]
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Taiwan International",
+       "url": "http://mediaserver.rti.org.tw:8010/live",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "ICRT",
+       "url": "https://live.leanstream.co/ICRTFM-MP3",
+       "tags": [
+        "pop_hits",
+        "jazz",
+        "rock",
+        "news_talk",
+        "country",
+        "folk",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "ICRT",
+       "url": "https://live.leanstream.co/ICRTFM-MP3?args=tunein_mp3"
+      },
+      {
+       "name": "Whats UP Radio",
+       "url": "https://node-07.zeno.fm/xbw7hk9exzzuv.aac"
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "ICRT",
+       "url": "http://live.leanstream.co/ICRTFM?args=tunein_aac"
+      },
+      {
+       "name": "ICRT FM",
+       "url": "https://icrt.leanstream.co/ICRTFM-MP3?args=web"
+      }
+     ]
+    }
+   }
+  },
+  "Japanese": {
+   "count": 4,
+   "genres": {
+    "soundtrack": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "M.T.Radio",
+       "url": "http://mtradio.xbo.tw:8000/"
+      },
+      {
+       "name": "MhR - Anime & Games",
+       "url": "http://tedc.biz:8000/stream/2/"
+      },
+      {
+       "name": "Phate Radio",
+       "url": "http://phate.io/listen.mp3"
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Phate",
+       "url": "http://phate.io/listen"
+      }
+     ]
+    }
+   }
+  },
+  "German": {
+   "count": 2,
+   "genres": {
+    "electronic": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Nightcore von laut.fm",
+       "url": "http://nightcore.stream.laut.fm/nightcore",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "schlager_polka": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "rheydt",
+       "url": "https://rheydt.stream.laut.fm/rheydt",
+       "tags": [
+        "schlager_polka",
+        "oldies",
+        "ambient_relax",
+        "chillout_lounge",
+        "rock",
+        "various_eclectic"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "French": {
+   "count": 1,
+   "genres": {
+    "chillout_lounge": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "TAIWAN LOUNGE RADIO",
+       "url": "https://azuracast.conceptradio.fr/radio/8030/stream.mp3",
+       "tags": [
+        "chillout_lounge",
+        "ambient_relax",
+        "electronic",
+        "news_talk",
+        "soul_rnb_funk",
+        "jazz",
+        "pop_hits",
+        "easy_listening"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Arabic": {
+   "count": 1,
+   "genres": {
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Tachelhite Radio",
+       "url": "http://streaming.radionomy.com/tr---tachelhite-radio",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "classical",
+        "electronic",
+        "rock",
+        "christian_gospel",
+        "trance_goa",
+        "hip_hop_rap",
+        "chillout_lounge"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Multilingual": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "TBS",
+       "url": "http://163.29.39.219/live/_definst_/vod11_Live/TBS/tbs-fm-live/playlist.m3u8"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

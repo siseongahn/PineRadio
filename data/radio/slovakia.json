@@ -1,0 +1,4320 @@
+{
+ "country": "Slovakia",
+ "count": 663,
+ "languages": {
+  "Slovak": {
+   "count": 642,
+   "genres": {
+    "acid_jazz": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Jazz Spirit",
+       "url": "http://listen.radionomy.com/jazz-spirit",
+       "tags": [
+        "acid_jazz",
+        "easy_listening",
+        "jazz"
+       ]
+      }
+     ]
+    },
+    "alternative_indie": {
+     "count": 17,
+     "stations": [
+      {
+       "name": "New Model Radio",
+       "url": "http://stream.sepia.sk:8000/newmodel160.mp3",
+       "tags": [
+        "various_eclectic",
+        "rock",
+        "alternative_indie"
+       ]
+      },
+      {
+       "name": "NONSTOP",
+       "url": "http://nonstop.out.airtime.pro:8000/nonstop_b",
+       "tags": [
+        "rock",
+        "alternative_indie",
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "NONSTOP Radio",
+       "url": "http://nonstop.out.airtime.pro:8000/nonstop_a",
+       "tags": [
+        "pop_hits",
+        "alternative_indie",
+        "various_eclectic",
+        "electronic"
+       ]
+      },
+      {
+       "name": "NONSTOP Rádio Listen live",
+       "url": "https://nonstop.out.airtime.pro/nonstop_a",
+       "tags": [
+        "rock",
+        "alternative_indie",
+        "electronic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Punk Around",
+       "url": "http://punkaround.tk:8000/stream",
+       "tags": [
+        "alternative_indie",
+        "punk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio FM",
+       "url": "https://icecast.stv.livebox.sk/fm_128.mp3",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "alternative_indie",
+        "various_eclectic",
+        "news_talk",
+        "world",
+        "decade_90s"
+       ]
+      },
+      {
+       "name": "Radio X - Alternative X",
+       "url": "http://158.193.82.41:8000/alternative.mp3",
+       "tags": [
+        "college_community",
+        "alternative_indie"
+       ]
+      },
+      {
+       "name": "RTVS Radio FM",
+       "url": "http://live.slovakradio.sk:8000/FM_128.mp3",
+       "tags": [
+        "pop_hits",
+        "alternative_indie",
+        "rock"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "RTVS Rádio_FM Radio",
+       "url": "https://stream.pcradio.ru/rtvs_radio_fm-med",
+       "tags": [
+        "rock",
+        "alternative_indie"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio THE END",
+       "url": "http://176.9.116.131:32011/theend_192"
+      },
+      {
+       "name": "Rádio THE END",
+       "url": "https://stream.theend.sk/theend_320"
+      },
+      {
+       "name": "Slobodny Vysielac",
+       "url": "http://78.47.79.190:8002/start/vysielac",
+       "language_inferred": true
+      },
+      {
+       "name": "Slobodny Vysielac",
+       "url": "https://vysielanie.online/radio/8010/aac",
+       "tags": [
+        "alternative_indie",
+        "rock",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Slobodny Vysielac",
+       "url": "http://65.108.80.164/radio/8020/SV128.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "SRo4 Rádio FM",
+       "url": "http://live.slovakradio.sk:8000/FM_256.mp3",
+       "tags": [
+        "pop_hits",
+        "alternative_indie",
+        "rock",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "TheEnd",
+       "url": "http://stream.theend.sk:32011/theend_128"
+      },
+      {
+       "name": "Trnavské Rádio",
+       "url": "http://stream.trnavskeradio.sk:8000/trnavske",
+       "tags": [
+        "rock",
+        "alternative_indie",
+        "oldies",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "ambient_relax": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Radio X - Chillout X",
+       "url": "http://158.193.82.41:8000/chillout.mp3",
+       "tags": [
+        "ambient_relax",
+        "college_community"
+       ]
+      },
+      {
+       "name": "radiOzora - Chill Radio",
+       "url": "https://stream.pcradio.ru/radiozora_chill-med",
+       "language_inferred": true
+      }
+     ]
+    },
+    "chillout_lounge": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "radiOzora Chill channel",
+       "url": "http://chill.out.airtime.pro:8000/chill_b",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Jemné Chillout",
+       "url": "https://stream.bauermedia.sk/chillout.mp3",
+       "tags": [
+        "chillout_lounge",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "christian_gospel": {
+     "count": 22,
+     "stations": [
+      {
+       "name": "G-Radio",
+       "url": "https://stream.pcradio.ru/gradio_sk-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Misia.Sk",
+       "url": "http://streaming.radio.co/s7f920602e/listen",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 7",
+       "url": "http://play.twr.sk:8000/64"
+      },
+      {
+       "name": "Radio 7 SK",
+       "url": "https://play.radio7.sk/128",
+       "tags": [
+        "christian_gospel",
+        "pop_hits",
+        "news_talk",
+        "world"
+       ]
+      },
+      {
+       "name": "RADIO BIBLIA SK",
+       "url": "http://radiobiblia.online:8000/stream.ogg"
+      },
+      {
+       "name": "Radio Lumen",
+       "url": "http://audio.lumen.sk:8000/live128.mp3",
+       "tags": [
+        "christian_gospel",
+        "kids",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Radio Lumen",
+       "url": "http://audio.lumen.sk:8000/live64.mp3.m3u",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pokoj",
+       "url": "http://195.210.28.150:8822/"
+      },
+      {
+       "name": "Radio Pokoj",
+       "url": "https://stream.pcradio.ru/pokoj_sk-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio 7 Radio",
+       "url": "https://stream.pcradio.ru/radio7_sk-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Logos",
+       "url": "http://radioserver.online:8824/",
+       "tags": [
+        "christian_gospel",
+        "kids"
+       ]
+      },
+      {
+       "name": "Rádio Logos radio",
+       "url": "https://radio.wanderingsheep.net/radio/8120/live.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Logos Radio",
+       "url": "https://stream.pcradio.ru/logos_sk-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Lumen",
+       "url": "https://audio.lumen.sk/live64.mp3",
+       "tags": [
+        "christian_gospel",
+        "hip_hop_rap",
+        "rock"
+       ]
+      },
+      {
+       "name": "Rádio Lumen 89.7 FM",
+       "url": "http://mp3stream3.abradio.cz:8000/lumen128.mp3",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Rádio Lumen Radio",
+       "url": "https://stream.pcradio.ru/lumen_sk-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Maria Slovensko",
+       "url": "http://dreamsiteradiocp5.com:8012/stream.mp3"
+      },
+      {
+       "name": "Rádio Modra Radio",
+       "url": "https://stream.pcradio.ru/modra_sk-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Mária - Slovensko",
+       "url": "https://dreamsiteradiocp5.com/proxy/radiomariaslomp3?mp=/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Mária Slovensko",
+       "url": "https://dreamsiteradiocp5.com/proxy/radiomariaslomp3?mp=/stream.mp3"
+      },
+      {
+       "name": "Rádio Mária Slovensko Radio",
+       "url": "https://stream.pcradio.ru/maria_slovensko-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Pokoj",
+       "url": "http://radioserver.online:8822/"
+      }
+     ]
+    },
+    "classical": {
+     "count": 16,
+     "stations": [
+      {
+       "name": "Duflo Radio",
+       "url": "http://stream.zeno.fm/kxwhyvz2fm0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Devin",
+       "url": "http://live.slovakradio.sk:8000/Devin_128.mp3",
+       "tags": [
+        "classical",
+        "news_talk",
+        "college_community"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Repete",
+       "url": "http://stream.rusyn.fm/rusyny-low.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "RTVS R Devin",
+       "url": "http://live.slovakradio.sk:8000/Devin_256.mp3",
+       "tags": [
+        "news_talk",
+        "classical",
+        "various_eclectic",
+        "hip_hop_rap"
+       ]
+      },
+      {
+       "name": "RTVS R Klasika",
+       "url": "http://live.slovakradio.sk:8000/Klasika_256.mp3"
+      },
+      {
+       "name": "RTVS R Pyramda",
+       "url": "http://live.slovakradio.sk:8000/Klasika_128.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "RTVS Rádio Devín Radio",
+       "url": "https://stream.pcradio.ru/rtvs_devin-med",
+       "tags": [
+        "classical",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "RTVS Rádio Pyramída",
+       "url": "http://live.slovakradio.sk:8000/Klasika_32.mp3"
+      },
+      {
+       "name": "RTVS Rádio Pyramída - Slovensko",
+       "url": "https://icecast.stv.livebox.sk/pyramida_128.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "RTVS Rádio Pyramída Radio",
+       "url": "https://stream.pcradio.ru/rtvs_pyramida-med",
+       "language_inferred": true
+      },
+      {
+       "name": "RTVS Rádio Slovakia International Radio",
+       "url": "https://stream.pcradio.ru/rtvs_slovak_int-med",
+       "tags": [
+        "classical",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio KIKS - Rock Music",
+       "url": "https://online.radiokiks.sk:8000/kiks_rock.mp3?n=fe69be7c06cc7982f043",
+       "tags": [
+        "classical",
+        "rock"
+       ]
+      },
+      {
+       "name": "Rádio Pyramída",
+       "url": "https://icecast.stv.livebox.sk/klasika_128.mp3",
+       "tags": [
+        "classical",
+        "pop_hits",
+        "opera",
+        "folk",
+        "news_talk",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "SRO Radio Klasika",
+       "url": "http://live.slovakradio.sk:8000/Klasika_32.mp3.m3u",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "SRO Radio Klasika",
+       "url": "http://live.slovakradio.sk:8000/Klasika_128.mp3.m3u",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "SRo3: Rádio Devín",
+       "url": "https://icecast.stv.livebox.sk/devin_128.mp3",
+       "tags": [
+        "classical",
+        "jazz",
+        "news_talk",
+        "alternative_indie",
+        "folk",
+        "rock",
+        "world"
+       ]
+      }
+     ]
+    },
+    "college_community": {
+     "count": 7,
+     "stations": [
+      {
+       "name": "Gigat2450",
+       "url": "https://stream.zeno.fm/g5bvhtf7hv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio PaF",
+       "url": "https://stream.zeno.fm/92cv04cggfhvv"
+      },
+      {
+       "name": "Radio X",
+       "url": "http://158.193.82.41:8000/radiox_128.mp3",
+       "tags": [
+        "college_community",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Rapes FM",
+       "url": "http://www.rapes.sk:8000/live.mp3",
+       "tags": [
+        "various_eclectic",
+        "college_community"
+       ]
+      },
+      {
+       "name": "Rádio Aetter",
+       "url": "http://stream.aetter.sk:8000/aetter-hq",
+       "language_inferred": true
+      },
+      {
+       "name": "test BAK",
+       "url": "https://stream.zeno.fm/pbzn730c6p8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "záloha",
+       "url": "https://stream.zeno.fm/ycrqfmfuzy7vv"
+      }
+     ]
+    },
+    "comedy": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Radio Kavaren",
+       "url": "https://stream.zeno.fm/baz442afdd0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "SKMusik",
+       "url": "https://stream.zeno.fm/2e0y0srhyxhvv"
+      }
+     ]
+    },
+    "decade_60s": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "60-70 es evek magyar beat radioja",
+       "url": "http://stream.mercyradio.eu/beat.mp3",
+       "tags": [
+        "decade_70s",
+        "decade_60s"
+       ]
+      }
+     ]
+    },
+    "decade_80s": {
+     "count": 8,
+     "stations": [
+      {
+       "name": "80 as evek magyar radioja",
+       "url": "http://stream.mercyradio.eu/8090.mp3"
+      },
+      {
+       "name": "80s 90s Dance Radio",
+       "url": "https://stream.zeno.fm/9vqrmoduiistv",
+       "tags": [
+        "decade_80s",
+        "pop_hits",
+        "decade_90s"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Dobre Radio Bratislava",
+       "url": "http://streaming.radionomy.com/A-RADIO-90s-JUICE",
+       "tags": [
+        "decade_80s",
+        "decade_90s"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "funradio sk 80-90 roky",
+       "url": "http://stream.funradio.sk:8000/fun64.mp3",
+       "tags": [
+        "decade_80s",
+        "decade_90s"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio WOW",
+       "url": "http://stream.radiowow.sk:8200/",
+       "tags": [
+        "decade_80s",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Rádio Beta - Hity 80s a 90s",
+       "url": "http://109.71.67.102:8000/beta_80a90.mp3",
+       "tags": [
+        "decade_80s",
+        "decade_90s",
+        "pop_hits",
+        "oldies"
+       ]
+      },
+      {
+       "name": "Rádio Kiks Italo-Disco",
+       "url": "https://stream.radiokiks.sk/kiks_italo.mp3",
+       "tags": [
+        "decade_2000s",
+        "decade_80s"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Liptov 106,4",
+       "url": "http://www.radioliptov.sk/stream.m3u",
+       "tags": [
+        "decade_80s",
+        "decade_90s"
+       ]
+      }
+     ]
+    },
+    "decade_90s": {
+     "count": 5,
+     "stations": [
+      {
+       "name": "80s 90s Party Mix Radio",
+       "url": "https://stream.zeno.fm/b4wkbpdn6s8uv",
+       "tags": [
+        "pop_hits",
+        "decade_90s",
+        "decade_80s"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "fun 80-90",
+       "url": "https://stream.funradio.sk:8000/80-90-64.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Fun Radio Dance",
+       "url": "https://stream.funradio.sk:18443/dance128.mp3",
+       "tags": [
+        "decade_90s",
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio One Retro",
+       "url": "http://147.78.169.82:8000/retro"
+      },
+      {
+       "name": "Rádio KIKS - Big 90s",
+       "url": "https://online.radiokiks.sk:8000/kiks_big90s.mp3?n=c3c0436f6b47019f433e",
+       "tags": [
+        "pop_hits",
+        "decade_90s"
+       ]
+      }
+     ]
+    },
+    "disco_eurodance": {
+     "count": 5,
+     "stations": [
+      {
+       "name": "DanceClubRadio",
+       "url": "http://62.113.246.220:8300/listen.pls",
+       "tags": [
+        "electronic",
+        "disco_eurodance"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Mars Dance Radio",
+       "url": "http://stream.zenolive.com/683gf5xrxfeuv",
+       "tags": [
+        "electronic",
+        "disco_eurodance",
+        "decade_80s",
+        "decade_90s",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Melody FM Slovakia",
+       "url": "http://212.96.160.160:8036/",
+       "tags": [
+        "disco_eurodance",
+        "decade_80s",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Mercy Rádió - Disco",
+       "url": "http://stream.mercyradio.eu/disco.mp3",
+       "tags": [
+        "electronic",
+        "disco_eurodance"
+       ]
+      },
+      {
+       "name": "RádioLokál",
+       "url": "http://mpc.mediacp.eu:8065/listen.pls",
+       "tags": [
+        "disco_eurodance",
+        "decade_90s"
+       ]
+      }
+     ]
+    },
+    "drum_and_bass": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio X - DNB X",
+       "url": "http://158.193.82.41:8000/dnb.mp3",
+       "tags": [
+        "college_community",
+        "electronic",
+        "drum_and_bass"
+       ]
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 15,
+     "stations": [
+      {
+       "name": "90 es evek magyar radioja",
+       "url": "http://stream.mercyradio.eu/90.mp3",
+       "tags": [
+        "easy_listening",
+        "decade_90s"
+       ]
+      },
+      {
+       "name": "Europa 2 Radio",
+       "url": "https://stream.pcradio.ru/europa2_sk-med",
+       "tags": [
+        "easy_listening",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Fit Family Rádio Radio",
+       "url": "https://stream.pcradio.ru/fitfamily_slo-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Fun Rádio",
+       "url": "https://www.liveradio.es/http://stream.funradio.sk:8000/fun192.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Jemne Melodie 98.6 FM",
+       "url": "https://stream.jemne.sk/jemne-hi.mp3",
+       "tags": [
+        "pop_hits",
+        "easy_listening",
+        "news_talk",
+        "oldies",
+        "soul_rnb_funk",
+        "rock"
+       ]
+      },
+      {
+       "name": "Nonstop Rádio Radio",
+       "url": "https://stream.pcradio.ru/nonstop_sk-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Kiss Slovakia",
+       "url": "http://stream.radiokiss.sk:8000/kiss64.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "RTVS Radio Regina Stred",
+       "url": "https://stream.pcradio.ru/rtvs_reg_stred-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Jemné",
+       "url": "http://stream.bauermedia.sk:8000/melody-hi.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Kiks Radio",
+       "url": "https://stream.pcradio.ru/kiks_sk-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Košice Radio",
+       "url": "https://stream.pcradio.ru/radiokosice_sk-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Piešťany 90.2 Radio",
+       "url": "https://stream.pcradio.ru/piestany_sk-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Rebeca Radio",
+       "url": "https://stream.pcradio.ru/rebeca_sk-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Viva Metropol",
+       "url": "https://stream.sepia.sk/viva128.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Šírava Radio",
+       "url": "https://stream.pcradio.ru/sirava_sk-med",
+       "language_inferred": true
+      }
+     ]
+    },
+    "electronic": {
+     "count": 26,
+     "stations": [
+      {
+       "name": "897 DANCE Radio",
+       "url": "http://c34.radioboss.fm:8106/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "897 FM Dance",
+       "url": "http://88.198.10.229:8108/stream",
+       "tags": [
+        "electronic",
+        "house"
+       ]
+      },
+      {
+       "name": "897 FM Dance",
+       "url": "http://88.198.10.229:8108/stream/1"
+      },
+      {
+       "name": "Europa 2 Dance Exxtravaganza",
+       "url": "http://stream.radioservices.sk:50008/europa2.mp3"
+      },
+      {
+       "name": "Fit Family Rádio",
+       "url": "https://solid1.streamupsolutions.com/proxy/utwrguip/stream",
+       "tags": [
+        "news_talk",
+        "electronic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Fresh Radio, Bratislava",
+       "url": "http://164.68.122.137:8002/stream/1",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Fun Radio 94,3 FM",
+       "url": "https://stream.pcradio.ru/funradio_sk-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Fun Radio Dance",
+       "url": "https://stream.funradio.sk:8000/dance128.mp3",
+       "bitrate": 128,
+       "logo": "http://radio.pervii.com/logo/10990.jpg",
+       "tags": [
+        "electronic",
+        "pop_hits",
+        "disco_eurodance"
+       ]
+      },
+      {
+       "name": "Fun Radio Dance",
+       "url": "https://stream.funradio.sk:8000/dance64.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Fun Radio Dance",
+       "url": "https://stream.pcradio.ru/funradio_sk_dance-med",
+       "language_inferred": true
+      },
+      {
+       "name": "House Radio",
+       "url": "http://stream.zeno.fm/qm8e21gta18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "kiks",
+       "url": "http://stream.radiokiks.sk:8000/kiks_hq.mp3",
+       "tags": [
+        "pop_hits",
+        "electronic"
+       ]
+      },
+      {
+       "name": "Mixing of Particulate Solids Radio 3",
+       "url": "http://147.175.61.55:8000/",
+       "tags": [
+        "electronic",
+        "ambient_relax"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Party Mix Radio",
+       "url": "http://stream.zeno.fm/rw6ckefezs8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Sity",
+       "url": "http://icecast.radiosity.sk:443/hq.mp3",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio X - Dance X",
+       "url": "http://158.193.82.41:8000/dance.mp3",
+       "tags": [
+        "electronic",
+        "college_community"
+       ]
+      },
+      {
+       "name": "radiOzora - Trance Radio",
+       "url": "https://stream.pcradio.ru/radiozora_trance-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Retro Dance Radio",
+       "url": "https://retrodanceradio.com:1045/stream",
+       "tags": [
+        "electronic",
+        "rock",
+        "pop_hits",
+        "hip_hop_rap"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Aetter",
+       "url": "https://stream.aetter.sk/aetter",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Best FM",
+       "url": "http://stream2.bestfm.sk/64.mp3?_=1",
+       "tags": [
+        "news_talk",
+        "electronic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Rádio SiTy 107FM Radio",
+       "url": "https://stream.pcradio.ru/radiosity_sk-med",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "SUB FM Radio",
+       "url": "https://stream.pcradio.ru/rad_sbfmsk-med",
+       "language_inferred": true
+      },
+      {
+       "name": "SUB:FM",
+       "url": "http://stream.subfm.sk/subfm",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Trnavské rádio",
+       "url": "http://stream.trnavskeradio.sk/trnavske",
+       "tags": [
+        "pop_hits",
+        "electronic"
+       ]
+      },
+      {
+       "name": "tvojeradio.com/Gold 80\"-90\"",
+       "url": "https://radioserver.online:9816/gold.mp3",
+       "tags": [
+        "electronic",
+        "oldies"
+       ]
+      },
+      {
+       "name": "Ľudové Rádio",
+       "url": "https://onlineradiobox.com/json/sk/fresh/play?platform=web",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "folk": {
+     "count": 14,
+     "stations": [
+      {
+       "name": "ah, yes.radio steishn",
+       "url": "https://c30.radioboss.fm:18255/stream",
+       "tags": [
+        "folk",
+        "pop_hits",
+        "alternative_indie",
+        "decade_90s",
+        "decade_80s",
+        "rock",
+        "electronic",
+        "various_eclectic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Demomusic Radio",
+       "url": "https://stream.radia.sk:9001/demomusic-387",
+       "tags": [
+        "folk",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Frontinus Radio",
+       "url": "http://stream.frontinus.sk:8000/frontinus64.mp3",
+       "tags": [
+        "folk",
+        "easy_listening",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Janko Hrasko",
+       "url": "http://78.24.9.110:31088",
+       "tags": [
+        "folk",
+        "world",
+        "various_eclectic",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Radio Dychovka",
+       "url": "https://epanel.mediacp.eu:7661/stream",
+       "tags": [
+        "folk",
+        "world"
+       ]
+      },
+      {
+       "name": "Radio Muzika",
+       "url": "https://stream.pcradio.ru/muzika_sk-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio X - Folklore X",
+       "url": "http://158.193.82.41:8000/ludovky.mp3",
+       "tags": [
+        "folk",
+        "college_community",
+        "world"
+       ]
+      },
+      {
+       "name": "Radio Zabava",
+       "url": "https://stream.zeno.fm/eyac00cx1nhvv"
+      },
+      {
+       "name": "Radio Zabava radio",
+       "url": "https://stream.zeno.fm/h07g40cx1nhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Rusyn FM",
+       "url": "https://stream.rusyn.fm/rusyny.mp3",
+       "tags": [
+        "folk",
+        "news_talk",
+        "world",
+        "pop_hits",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Rusyn FM Radio",
+       "url": "https://stream.pcradio.ru/rusyn_fm-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Dychovka",
+       "url": "https://stream.zeno.fm/450546umv98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Muzika",
+       "url": "http://www.radioking.com/play/radio-muzika/321988"
+      },
+      {
+       "name": "Rádio Paráda",
+       "url": "https://extra.mediacp.eu/stream/RadioParada,o.z.",
+       "tags": [
+        "folk",
+        "oldies",
+        "rock",
+        "pop_hits",
+        "hip_hop_rap",
+        "electronic"
+       ]
+      }
+     ]
+    },
+    "holiday": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Fun Rádio - Vianoce",
+       "url": "https://stream.funradio.sk:8000/xmas128.mp3",
+       "language_inferred": true
+      }
+     ]
+    },
+    "house": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio HEY",
+       "url": "http://212.37.80.142:8842",
+       "tags": [
+        "pop_hits",
+        "house"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "jazz": {
+     "count": 5,
+     "stations": [
+      {
+       "name": "Fun Radio  Chill",
+       "url": "https://stream.funradio.sk:8000/chill128.mp3",
+       "tags": [
+        "ambient_relax",
+        "jazz",
+        "decade_90s"
+       ]
+      },
+      {
+       "name": "Jazz Spirit",
+       "url": "https://streaming.radionomy.com/RadionoMiX?lang=en-US%2cen%3bq%3d0.9&ampad=radiono5&ampextReferer=http%3a%2f%2fjazzradio-wixsite-com.filesusr.com%2fhtml%2fab0172_e8acb9f3a0146dc7862b3993ef550ff7.html&ampappName=website",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Jazz",
+       "url": "http://stream.sepia.sk:8000/jazz128.mp3"
+      },
+      {
+       "name": "Rádio Jazz 92.6 FM (Bratislava) Radio",
+       "url": "https://stream.pcradio.ru/rad_rdjzzsk-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Vega",
+       "url": "http://stream.sepia.sk:8000/vega128.mp3?n=5b8b4a55b0e13ecd28ac",
+       "tags": [
+        "rock",
+        "jazz",
+        "drum_and_bass",
+        "electronic"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "kids": {
+     "count": 8,
+     "stations": [
+      {
+       "name": "Detske Radio",
+       "url": "http://detskeradio.sk/play/?c=Rozpravky&pl=winamp"
+      },
+      {
+       "name": "Detské rádio",
+       "url": "https://stream.21.sk/detskeradio-128.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Detské Rádio",
+       "url": "https://stream.21.sk/detskeradio-192.mp3"
+      },
+      {
+       "name": "Detské Rádio Radio",
+       "url": "https://stream.pcradio.ru/rad_dtskrdsc-med",
+       "language_inferred": true
+      },
+      {
+       "name": "PESNIČKY pre DETI",
+       "url": "https://stream.zeno.fm/002bqmm6sm0uv"
+      },
+      {
+       "name": "ROZPRÁVKY",
+       "url": "https://stream.zeno.fm/76e2s92vhm0uv"
+      },
+      {
+       "name": "RTVS Rádio Junior Radio",
+       "url": "https://stream.pcradio.ru/rtvs_junior-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio - KJK - Christiland",
+       "url": "https://stream.zeno.fm/w2rhk0zjrjwvv"
+      }
+     ]
+    },
+    "metal": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "METALSCENA netRADIO",
+       "url": "https://listen.radioking.com/radio/263218/stream/308365",
+       "tags": [
+        "rock",
+        "metal",
+        "alternative_indie"
+       ]
+      },
+      {
+       "name": "RADIO Rock SV",
+       "url": "https://s2.myradiostream.com/4870/listen.mp3",
+       "tags": [
+        "rock",
+        "techno",
+        "metal"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio X Metal",
+       "url": "http://158.193.82.41:8000/metal.mp3",
+       "tags": [
+        "rock",
+        "metal"
+       ]
+      },
+      {
+       "name": "Rock Arena Radio",
+       "url": "https://stream.pcradio.ru/rockarena_sk-med",
+       "tags": [
+        "rock",
+        "metal"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 63,
+     "stations": [
+      {
+       "name": "FRED FILM RADIO, Bratislava",
+       "url": "https://s10.webradio-hosting.com/proxy/fredradiosk/stream/",
+       "language_inferred": true
+      },
+      {
+       "name": "Info Vojna radio",
+       "url": "http://ply.infovojna.bz:8000/live",
+       "language_inferred": true
+      },
+      {
+       "name": "InfoVojna",
+       "url": "http://stream2.infovojna.bz:8000/live",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Infovojna",
+       "url": "http://stream.infovojna.sk:8000/live",
+       "tags": [
+        "news_talk",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "INFOVOJNA",
+       "url": "http://stream.infovojna.bz/live"
+      },
+      {
+       "name": "Infovojna",
+       "url": "http://live.infovojna.sk:8000/live"
+      },
+      {
+       "name": "InfoVojna Radio",
+       "url": "https://stream.pcradio.ru/infovojna_sk-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Infovojna16",
+       "url": "http://live.infovojna.sk:8000/live16",
+       "language_inferred": true
+      },
+      {
+       "name": "Joj 24 404 P",
+       "url": "https://live.cdn.joj.sk/live/andromeda/joj_news-404.m3u8?n=d4ee3b047e1a80f80f20"
+      },
+      {
+       "name": "Litera Radio",
+       "url": "http://live.slovakradio.sk:8000/Litera_128.mp3",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Mária Rádió radio",
+       "url": "https://dreamsiteradiocp5.com/proxy/rmslo?mp=/stream",
+       "tags": [
+        "news_talk",
+        "christian_gospel"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Kiss radio",
+       "url": "http://80.94.49.49:8000/kiss24.aac",
+       "tags": [
+        "news_talk",
+        "easy_listening",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Litera",
+       "url": "http://live.slovakradio.sk:8000/Litera_256.mp3",
+       "tags": [
+        "various_eclectic",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Radio Plus 105.9 FM",
+       "url": "http://stream.sepia.sk:8000/plus128.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Radio Slovakia International",
+       "url": "http://live.slovakradio.sk:8000/RSI_128.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "world",
+        "various_eclectic",
+        "college_community"
+       ]
+      },
+      {
+       "name": "Radio Slovakia International",
+       "url": "https://icecast.stv.livebox.sk/rsi_128.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "world",
+        "rock"
+       ]
+      },
+      {
+       "name": "Radio Slovensko",
+       "url": "http://live.slovakradio.sk:8000/Slovensko_256.mp3"
+      },
+      {
+       "name": "Radio Tatras International",
+       "url": "https://91.121.195.222:10486/",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio TLIS",
+       "url": "https://stream.tlis.sk/tlis.mp3"
+      },
+      {
+       "name": "Rdio Vlna",
+       "url": "https://stream.radioservices.sk/vlna-hi.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "RTVS Litera",
+       "url": "http://live.slovakradio.sk:8000/Litera_32.mp3"
+      },
+      {
+       "name": "RTVS Pátria Rádio Radio",
+       "url": "https://stream.pcradio.ru/patria_radio-med",
+       "language_inferred": true
+      },
+      {
+       "name": "RTVS R Junior",
+       "url": "https://icecast.stv.livebox.sk/junior_128.mp3",
+       "tags": [
+        "news_talk",
+        "kids",
+        "folk",
+        "various_eclectic",
+        "christian_gospel",
+        "world"
+       ]
+      },
+      {
+       "name": "RTVS R Regina BA",
+       "url": "http://live.slovakradio.sk:8000/Regina_BA_128.mp3",
+       "tags": [
+        "news_talk",
+        "various_eclectic",
+        "college_community",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "RTVS R Regina KE",
+       "url": "http://live.slovakradio.sk:8000/Regina_KE_128.mp3",
+       "tags": [
+        "news_talk",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "RTVS Rádio Litera Radio",
+       "url": "https://stream.pcradio.ru/rtvs_litera-med",
+       "language_inferred": true
+      },
+      {
+       "name": "RTVS Rádio Regina Východ Radio",
+       "url": "https://stream.pcradio.ru/rtvs_reginavych-med",
+       "language_inferred": true
+      },
+      {
+       "name": "RTVS Rádio Slovensko",
+       "url": "https://icecast.stv.livebox.sk/slovensko_128.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "easy_listening",
+        "classical"
+       ]
+      },
+      {
+       "name": "RTVS Rádio Slovensko Radio",
+       "url": "https://stream.pcradio.ru/rtvs_slovensko-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio KIKS",
+       "url": "https://stream.radiokiks.sk/kiks_hq.mp3",
+       "tags": [
+        "pop_hits",
+        "decade_80s",
+        "decade_90s",
+        "news_talk",
+        "electronic",
+        "rock",
+        "easy_listening",
+        "decade_2000s"
+       ]
+      },
+      {
+       "name": "Rádio Košice",
+       "url": "https://stream.21.sk/radiokosice-128.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Rádio Košice BA",
+       "url": "http://176.102.98.74:8000/radiokosice-ba-128.mp3",
+       "tags": [
+        "news_talk",
+        "rock",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Rádio Litera",
+       "url": "https://icecast.stv.livebox.sk/litera_128.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "classical"
+       ]
+      },
+      {
+       "name": "Rádio Melody",
+       "url": "https://stream.bauermedia.sk/melody-hi.mp3",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "easy_listening",
+        "classical"
+       ]
+      },
+      {
+       "name": "Rádio Modra",
+       "url": "http://185.98.208.12:8000/",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "various_eclectic",
+        "rock"
+       ]
+      },
+      {
+       "name": "Rádio Patria",
+       "url": "https://icecast.stv.livebox.sk/patria_128.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "world",
+        "various_eclectic",
+        "folk",
+        "techno",
+        "decade_90s"
+       ]
+      },
+      {
+       "name": "Rádio Pieštany",
+       "url": "http://live.radiopiestany.sk:8000/live.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "classical",
+        "various_eclectic",
+        "rock",
+        "easy_listening",
+        "chillout_lounge",
+        "soul_rnb_funk",
+        "electronic",
+        "jazz",
+        "country"
+       ]
+      },
+      {
+       "name": "Rádio Pohoda",
+       "url": "https://mpc1.mediacp.eu/stream/radiopohoda",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Rádio Pohoda 2",
+       "url": "https://mpc1.mediacp.eu:8111/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Rádio Regina Západ",
+       "url": "https://icecast.stv.livebox.sk/regina-ba_128.mp3",
+       "tags": [
+        "news_talk",
+        "folk",
+        "world",
+        "pop_hits",
+        "decade_80s"
+       ]
+      },
+      {
+       "name": "Rádio Slovensko",
+       "url": "https://www.liveradio.es/http://live.slovakradio.sk:8000/Slovensko_128.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Sírava",
+       "url": "http://radioserver.online:8804/",
+       "tags": [
+        "various_eclectic",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Rádio Topoľčany 102,9 MHz Radio",
+       "url": "https://stream.pcradio.ru/rad_rdtplcnsk-med",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Viva",
+       "url": "https://stream.sepia.sk:8000/viva128.mp3",
+       "bitrate": 128,
+       "logo": "http://radio.pervii.com/im/5/1551164915.jpg",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "easy_listening",
+        "oldies",
+        "latin"
+       ]
+      },
+      {
+       "name": "Rádio WOW",
+       "url": "https://radioserver.online:9816/radiowow.mp3",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "easy_listening",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "RádioLOKÁL",
+       "url": "http://mpc.mediacp.eu:8065/",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "RádioLOKÁL radio",
+       "url": "https://mpc1.mediacp.eu/stream/radiolokal/stream.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "SKY Rádio",
+       "url": "http://stream.skyradio.sk:8000/sky128",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "rock",
+        "world",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Sky Rádio",
+       "url": "https://live.skyradio.sk/sky128",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Slobodny Vysielac",
+       "url": "https://vysielanie.online/radio/8020/SV128.mp3",
+       "tags": [
+        "news_talk",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Slobodný vysielač",
+       "url": "http://159.69.219.5:8010/aac",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Slobodný vysielač Radio",
+       "url": "https://stream.pcradio.ru/slobodny_vysielac-med",
+       "language_inferred": true
+      },
+      {
+       "name": "SRO Radio Regina Banska Bystrica",
+       "url": "http://live.slovakradio.sk:8000/Regina_BB_32.mp3.m3u",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "SRO Radio Regina Banska Bystrica",
+       "url": "http://live.slovakradio.sk:8000/Regina_BB_32.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "SRO Radio Regina Bratislava",
+       "url": "http://live.slovakradio.sk:8000/Regina_BA_32.mp3.m3u",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "SRO Radio Regina Kosice",
+       "url": "http://live.slovakradio.sk:8000/Regina_KE_32.mp3.m3u",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "SRO Radio Regina Kosice",
+       "url": "http://live.slovakradio.sk:8000/Regina_KE_32.mp3",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "SRo1 Rádio Slovensko",
+       "url": "http://live.slovakradio.sk:8000/Slovensko_128.mp3",
+       "tags": [
+        "news_talk",
+        "college_community",
+        "world",
+        "rock",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "SRo2 Rádio Regina Stred",
+       "url": "https://icecast.stv.livebox.sk/regina-bb_128.mp3",
+       "tags": [
+        "news_talk",
+        "various_eclectic",
+        "pop_hits",
+        "rock",
+        "college_community"
+       ]
+      },
+      {
+       "name": "SRo2 Rádio Regina Východ",
+       "url": "https://icecast.stv.livebox.sk/regina-ke_128.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "rock"
+       ]
+      },
+      {
+       "name": "SRo7 Rádio Pyramida",
+       "url": "http://live.slovakradio.sk:8000/Pyramida_128.mp3",
+       "tags": [
+        "news_talk",
+        "classical"
+       ]
+      },
+      {
+       "name": "SRo9 Rádio Junior",
+       "url": "http://live.slovakradio.sk:8000/Junior_128.mp3",
+       "tags": [
+        "news_talk",
+        "kids",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Záhorácke Rádio",
+       "url": "http://live.zahorackeradio.sk:8080/zr128.mp3"
+      }
+     ]
+    },
+    "oldies": {
+     "count": 15,
+     "stations": [
+      {
+       "name": "897 Gold Radio",
+       "url": "http://c10.radioboss.fm:8122/stream",
+       "tags": [
+        "pop_hits",
+        "oldies"
+       ]
+      },
+      {
+       "name": "Best FM",
+       "url": "http://stream.bestfm.sk/128.mp3",
+       "bitrate": 128,
+       "logo": "http://radio.pervii.com/im/2/1550195162.jpg",
+       "tags": [
+        "oldies",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Best FM 95.6 radio",
+       "url": "https://stream3.bestfm.sk:8000/160.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Blesk",
+       "url": "http://stream.radioblesk.net:7777/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Ekspres Listen live",
+       "url": "https://stream.nextmedia.si/proxy/ekspres1?mp=/server",
+       "tags": [
+        "pop_hits",
+        "oldies"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Vlna Golden Hits",
+       "url": "http://stream.radioservices.sk/goldenhits.mp3"
+      },
+      {
+       "name": "Radio X - Oldies X",
+       "url": "http://158.193.82.41:8000/oldies.mp3",
+       "tags": [
+        "college_community",
+        "oldies"
+       ]
+      },
+      {
+       "name": "Retro Goldies Radio",
+       "url": "http://icecast.radiosity.sk:8000/oldies.mp3"
+      },
+      {
+       "name": "Rádio BEST FM",
+       "url": "http://stream2.bestfm.sk/128.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Jemné",
+       "url": "https://stream.radioservices.sk/jemne-hi.mp3",
+       "tags": [
+        "pop_hits",
+        "oldies"
+       ]
+      },
+      {
+       "name": "Rádio Vlna",
+       "url": "https://stream.radiovlna.sk/vlna-hi.mp3",
+       "tags": [
+        "oldies",
+        "news_talk",
+        "decade_60s",
+        "pop_hits",
+        "classical",
+        "various_eclectic",
+        "decade_70s",
+        "decade_80s",
+        "decade_90s"
+       ]
+      },
+      {
+       "name": "Rádio Vlna",
+       "url": "https://www.liveradio.es/http://stream.radiovlna.sk/vlna-hi.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Vlna",
+       "url": "http://stream.radioservices.sk:8000/vlna-hi.mp3"
+      },
+      {
+       "name": "Rádio Vlna Golden hits",
+       "url": "https://stream.radiovlna.sk/gold-hi.mp3",
+       "tags": [
+        "pop_hits",
+        "oldies",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Rádio Vlna Oldies Party",
+       "url": "https://stream.radiovlna.sk/party-hi.mp3?n=b917457c1b22f8f14f87"
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 89,
+     "stations": [
+      {
+       "name": "897 HITS Radio",
+       "url": "https://c2.radioboss.fm:18425/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "897 Hits Radio",
+       "url": "http://88.198.10.229:8007/stream",
+       "tags": [
+        "pop_hits",
+        "electronic"
+       ]
+      },
+      {
+       "name": "897fm.net",
+       "url": "https://streaming.live365.com/a90094",
+       "language_inferred": true
+      },
+      {
+       "name": "BB FM rádio",
+       "url": "http://stream.bbfm.sk/bbfm128.mp3",
+       "tags": [
+        "pop_hits",
+        "decade_2000s",
+        "decade_80s",
+        "decade_90s",
+        "easy_listening",
+        "decade_1920s_50s",
+        "oldies"
+       ]
+      },
+      {
+       "name": "BB FM rádio – 94.7 FM – Banská Bystrica – Banskobystrický – SK",
+       "url": "https://stream.bbfm.sk:18443/bbfm128.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Bratislavské Rádio Radio",
+       "url": "https://stream.pcradio.ru/rad_brtslvskrdsk-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Dobré rádio",
+       "url": "https://stream.dobreradio.sk:9813/dobreradio.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Dobré rádio",
+       "url": "http://stream.dobreradio.sk:8813/dobreradio.mp3",
+       "tags": [
+        "pop_hits",
+        "easy_listening",
+        "various_eclectic",
+        "world"
+       ]
+      },
+      {
+       "name": "Europa 2",
+       "url": "https://stream.radioservices.sk/europa2.mp3",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "soul_rnb_funk",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Europa 2",
+       "url": "https://stream.bauermedia.sk/europa2.mp3",
+       "tags": [
+        "pop_hits",
+        "easy_listening",
+        "news_talk",
+        "electronic",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Europa 2 Top 22",
+       "url": "http://pool.cdn.lagardere.cz/web-e2sk-top22"
+      },
+      {
+       "name": "Fresh Radio EU",
+       "url": "http://164.68.122.137:8002/",
+       "language_inferred": true
+      },
+      {
+       "name": "FRESH rádio",
+       "url": "https://icecast2.radionet.sk/freshradio.sk",
+       "tags": [
+        "pop_hits",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Frontinus Radio",
+       "url": "http://stream.frontinus.sk:8000/frontinus128.mp3",
+       "tags": [
+        "pop_hits",
+        "easy_listening",
+        "folk"
+       ]
+      },
+      {
+       "name": "Frontinus Radio",
+       "url": "https://stream.pcradio.ru/frontinus_sk-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Fun Radio",
+       "url": "https://stream.funradio.sk:8000/fun128.mp3",
+       "bitrate": 128,
+       "logo": "http://radio.pervii.com/logo/10990.jpg",
+       "tags": [
+        "pop_hits",
+        "easy_listening",
+        "decade_90s",
+        "hip_hop_rap",
+        "various_eclectic",
+        "electronic"
+       ]
+      },
+      {
+       "name": "Fun Radio - Live",
+       "url": "https://stream.funradio.sk:8000/fun128.mp3.m3u",
+       "language_inferred": true
+      },
+      {
+       "name": "Fun Radio 80&amp#39s-90&amp#39s",
+       "url": "https://stream.funradio.sk:18443/80-90-128.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Fun Radio 80s-90s",
+       "url": "https://stream.funradio.sk:8000/80-90-128.mp3",
+       "bitrate": 128,
+       "logo": "http://radio.pervii.com/logo/10990.jpg",
+       "tags": [
+        "pop_hits",
+        "decade_90s",
+        "decade_80s",
+        "rock"
+       ]
+      },
+      {
+       "name": "Fun Radio CZ-SK",
+       "url": "https://stream.pcradio.ru/funradio_czsk-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Fun Radio CZ-SK",
+       "url": "https://stream.funradio.sk:18443/cs128.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Fun Radio Czechoslovakia",
+       "url": "https://stream.funradio.sk:8000/cs128.mp3",
+       "bitrate": 128,
+       "logo": "http://radio.pervii.com/logo/10990.jpg",
+       "tags": [
+        "pop_hits",
+        "world"
+       ]
+      },
+      {
+       "name": "Fun Radio Italy",
+       "url": "http://stream.funradio.sk:8000/new128.mp3/stream.mp3",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Fun Radio Live",
+       "url": "http://stream.funradio.sk:8000/fun192.mp3",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "soul_rnb_funk",
+        "easy_listening",
+        "electronic"
+       ]
+      },
+      {
+       "name": "Fun Radio Top 20",
+       "url": "http://stream.funradio.sk:8000/top20128.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Fun rádio",
+       "url": "https://stream.funradio.sk:18443/fun128.mp3",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "electronic"
+       ]
+      },
+      {
+       "name": "Gala-Radio",
+       "url": "http://78.129.224.15:16469/listen"
+      },
+      {
+       "name": "HITRADIO SLOVAKIA",
+       "url": "https://hitradioslovakia.stream.laut.fm/hitradioslovakia",
+       "tags": [
+        "pop_hits",
+        "hip_hop_rap"
+       ]
+      },
+      {
+       "name": "HITRADIO SLOVAKIA",
+       "url": "https://stream.laut.fm/hitradioslovakia",
+       "tags": [
+        "pop_hits",
+        "hip_hop_rap"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Hitradio Slovakia Cz – Sk",
+       "url": "https://node-34.zeno.fm/zez4k5ecbm8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "One Radio",
+       "url": "http://217.75.92.14:8000/nr160kb",
+       "tags": [
+        "pop_hits",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Pop Magyar Rádió",
+       "url": "http://stream.mercyradio.eu/pop.mp3"
+      },
+      {
+       "name": "Radio Beta",
+       "url": "https://stream.pcradio.ru/beta_sk-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Beta Ceske a Slovenske hity",
+       "url": "http://109.71.67.102:8000/beta_cspop.mp3"
+      },
+      {
+       "name": "Radio Expres",
+       "url": "https://stream.expres.sk/128.mp3",
+       "tags": [
+        "pop_hits",
+        "electronic",
+        "news_talk",
+        "oldies",
+        "house",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Radio Expres",
+       "url": "http://195.168.61.226:8000/96.mp3"
+      },
+      {
+       "name": "Radio Expres",
+       "url": "https://stream.expres.sk/64.mp3?aw_0_req.gdpr=true"
+      },
+      {
+       "name": "Radio Extra",
+       "url": "http://live.topradio.cz:8000/extra192"
+      },
+      {
+       "name": "Radio Frontinus",
+       "url": "http://www.frontinus.sk/frontinus128.m3u",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Radio GO DeeJay",
+       "url": "http://209.105.232.220:8518/godj",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio KIKS radio",
+       "url": "https://online.radiokiks.sk:8000/kiks_hq.mp3",
+       "tags": [
+        "pop_hits",
+        "decade_2000s",
+        "decade_80s",
+        "decade_90s"
+       ]
+      },
+      {
+       "name": "Radio Kosice",
+       "url": "http://stream.ecce.sk:8000/radiokosice-128.mp3",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "various_eclectic",
+        "news_talk",
+        "world"
+       ]
+      },
+      {
+       "name": "Radio Kosice",
+       "url": "http://stream.ecce.sk:8000/radiokosice-64.mp3.m3u",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Radio One",
+       "url": "http://147.78.169.82:8000/nr160kb"
+      },
+      {
+       "name": "Radio Sever",
+       "url": "http://stream.sepia.sk:8000/sever128.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio SiTy",
+       "url": "https://radiosity.online:8000/aac",
+       "tags": [
+        "pop_hits",
+        "electronic",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Radio Sity",
+       "url": "http://icecast.radiosity.sk:8000/hq.mp3"
+      },
+      {
+       "name": "Radio Snina",
+       "url": "http://server1.internetoveradio.sk:8806/radiosnina"
+      },
+      {
+       "name": "Radio Tatras International",
+       "url": "http://s32.myradiostream.com:10486/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Viva",
+       "url": "http://213.215.116.173:8008/viva128.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio WOW",
+       "url": "https://stream.pcradio.ru/wow_sk-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio WOW",
+       "url": "https://radioserver.online:9816/wow.mp3",
+       "tags": [
+        "pop_hits",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio WOW",
+       "url": "http://radioserver.online:8816/wow.mp3",
+       "tags": [
+        "pop_hits",
+        "decade_90s",
+        "decade_80s"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Wow Nitra",
+       "url": "https://stream.sepia.sk:8000/wownr128.mp3"
+      },
+      {
+       "name": "Radio Yes",
+       "url": "https://www.liveradio.es/http://80.242.44.249:8000/",
+       "language_inferred": true
+      },
+      {
+       "name": "RdioLOKL",
+       "url": "http://mpc.mediacp.eu:8065/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "RTI - Radio Tatras International",
+       "url": "https://stream.pcradio.ru/rti_fm-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Aetter",
+       "url": "http://stream.aetter.sk:8000/aetter"
+      },
+      {
+       "name": "Rádio Beta",
+       "url": "http://109.71.67.102:8000/beta_live_high.mp3"
+      },
+      {
+       "name": "Rádio Expres",
+       "url": "http://stream.expres.sk:8000/96.mp3",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Expres Radio",
+       "url": "https://stream.pcradio.ru/expres_sk-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Jemné Radio",
+       "url": "https://stream.pcradio.ru/jemne_sk-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Jupiter",
+       "url": "http://stream.radiojupiter.sk:8000/jupiter_64.aac"
+      },
+      {
+       "name": "Rádio Jupiter Radio",
+       "url": "https://stream.pcradio.ru/jupiter_sk-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Kiss",
+       "url": "https://radio.treecom.net/kissmp3_128.mp3"
+      },
+      {
+       "name": "Rádio Košice",
+       "url": "http://stream.ecce.sk:8000/radiokosice-64.mp3"
+      },
+      {
+       "name": "Rádio Liptov",
+       "url": "http://shout.alconet.sk/radioliptov",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "easy_listening",
+        "college_community"
+       ]
+      },
+      {
+       "name": "Rádio Lumen - Slovensko",
+       "url": "https://audio.lumen.sk/live128.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Muzika",
+       "url": "https://listen.radioking.com/radio/276343/stream/321988"
+      },
+      {
+       "name": "Rádio Piešťany 90.2",
+       "url": "http://live.radiopiestany.sk:8000/live.mp3.m3u"
+      },
+      {
+       "name": "Rádio Snina",
+       "url": "https://stream.rcast.net/67472",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "oldies"
+       ]
+      },
+      {
+       "name": "Rádio Topoľčany radio",
+       "url": "http://80.242.44.249:8000/",
+       "tags": [
+        "pop_hits",
+        "electronic",
+        "rock",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Rádio v Nitre",
+       "url": "http://195.210.28.150:8932/radiovnitre_live.mp3",
+       "tags": [
+        "pop_hits",
+        "decade_70s",
+        "decade_80s",
+        "decade_1920s_50s"
+       ]
+      },
+      {
+       "name": "Rádio Viva 94.9 FM Radio",
+       "url": "https://stream.pcradio.ru/viva_949fm-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Vlna - Vianočný stream",
+       "url": "https://stream.radiovlna.sk/xmas-hi.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio X Radio",
+       "url": "https://stream.pcradio.ru/rad_rdxsk-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Šírava",
+       "url": "http://radioserver.online:8804/stream/1"
+      },
+      {
+       "name": "Rádio Šírava radio",
+       "url": "https://radioserver.online:9936/radiosirava.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Šírava – Michalovce – Košický – SK",
+       "url": "http://radioserver.online:8804/listen.pls",
+       "language_inferred": true
+      },
+      {
+       "name": "Sky Radio Slovakia",
+       "url": "http://stream.skyradio.sk:8000/sky64",
+       "language_inferred": true
+      },
+      {
+       "name": "SKY Rádio (Prešov) Radio",
+       "url": "https://stream.pcradio.ru/skyradio_sk-med",
+       "language_inferred": true
+      },
+      {
+       "name": "SRO Radio _FM",
+       "url": "http://live.slovakradio.sk:8000/FM_32.mp3.m3u",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "SRO Radio _FM",
+       "url": "http://live.slovakradio.sk:8000/FM_256.mp3.m3u",
+       "language_inferred": true
+      },
+      {
+       "name": "SRO Radio Slovakia International",
+       "url": "http://live.slovakradio.sk:8000/RSI_32.mp3.m3u",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Trnavské rádio 103.9 FM Radio",
+       "url": "https://stream.pcradio.ru/trnavske_radio-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Zahoracke Radio",
+       "url": "https://play.zahorackeradio.sk/live/high.m3u",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Zahoracke Radio",
+       "url": "http://failover.live.zahorackeradio.sk:8000/zr128.mp3"
+      },
+      {
+       "name": "Záhorácke rádio",
+       "url": "http://live.zahorackeradio.sk:8000/zr128.mp3",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "electronic"
+       ]
+      },
+      {
+       "name": "Záhorácke Rádio Radio",
+       "url": "https://stream.pcradio.ru/zahoracke_rad-med",
+       "language_inferred": true
+      }
+     ]
+    },
+    "punk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Rádio Rock SV",
+       "url": "http://s2.myradiostream.com:4870/",
+       "language_inferred": true
+      }
+     ]
+    },
+    "reggae_ska": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Radio Frontinus Listen live",
+       "url": "https://stream.frontinus.sk:8888/frontinus128.mp3",
+       "tags": [
+        "reggae_ska",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Paráda",
+       "url": "https://s9.yesstreaming.net:17030/stream",
+       "tags": [
+        "reggae_ska",
+        "rock",
+        "oldies",
+        "pop_hits",
+        "soul_rnb_funk",
+        "easy_listening",
+        "country",
+        "disco_eurodance",
+        "latin",
+        "decade_70s",
+        "decade_60s",
+        "decade_80s",
+        "decade_90s",
+        "world",
+        "hip_hop_rap",
+        "folk"
+       ]
+      }
+     ]
+    },
+    "rock": {
+     "count": 43,
+     "stations": [
+      {
+       "name": "897 ALTERNATIVE Radio",
+       "url": "https://c2.radioboss.fm:8712/stream",
+       "tags": [
+        "rock",
+        "alternative_indie"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "897 FM Alt",
+       "url": "http://88.198.10.229:8019/stream",
+       "tags": [
+        "pop_hits",
+        "rock"
+       ]
+      },
+      {
+       "name": "Aligator Classic Rock Radio",
+       "url": "http://stream.aligator.sk:8000/aligator_192.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Classic Rock Radio, Bratislava",
+       "url": "https://stream.zeno.fm/gvz5q869n98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Fun Radio Rock",
+       "url": "http://stream.funradio.sk:8000/rock128.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "FunRadio Live 256kbps",
+       "url": "https://stream.funradio.sk:8000/funpgm256.mp3?n=9fa0d8dd072d4e856df1",
+       "tags": [
+        "rock",
+        "disco_eurodance",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "G-Radio",
+       "url": "http://88.212.34.18:8050/mp3midband",
+       "tags": [
+        "rock",
+        "christian_gospel"
+       ]
+      },
+      {
+       "name": "http://185.98.208.12:8000/stream/1",
+       "url": "http://185.98.208.12:8000/stream/1"
+      },
+      {
+       "name": "Radio Antena Rock Hard",
+       "url": "http://stream.radioservices.sk/hardrock.mp3"
+      },
+      {
+       "name": "Radio Bela",
+       "url": "http://freeuk9.listen2myradio.com:14154/stream",
+       "tags": [
+        "rock",
+        "oldies",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Hey",
+       "url": "http://www.abradio.sk/asx/heysk64.asx",
+       "tags": [
+        "rock",
+        "various_eclectic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio One Retro",
+       "url": "http://217.75.92.14:8000/retro",
+       "tags": [
+        "rock",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio One Rock",
+       "url": "http://217.75.92.14:8000/rrock",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio One Rock",
+       "url": "http://147.78.169.82:8000/rrock"
+      },
+      {
+       "name": "Radio Rebeca",
+       "url": "https://icecast2.radionet.sk/rebecassl.mp3",
+       "tags": [
+        "rock",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Rock SV",
+       "url": "https://stream.pcradio.ru/r_rock_sv-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Rockova Republika",
+       "url": "http://217.67.31.66:8000/republika128.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio THE END",
+       "url": "http://stream.theend.sk:8000/theend_320",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio THE END",
+       "url": "https://stream.theend.sk/theend_128",
+       "tags": [
+        "rock",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "RadioBela",
+       "url": "http://freeuk24.listen2myradio.com:18648/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "RadioBela radio",
+       "url": "http://65.109.81.84:8855/live"
+      },
+      {
+       "name": "Rdio Antna Rock",
+       "url": "https://stream.antenarock.sk/antena-lo.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Rocková Republika",
+       "url": "https://player.rockovarepublika.sk/republika128.mp3"
+      },
+      {
+       "name": "Rádio Anténa Rock",
+       "url": "https://stream.bauermedia.sk/rock-hi.mp3"
+      },
+      {
+       "name": "Rádio Anténa Rock",
+       "url": "http://stream.antenarock.sk/antena-hi.mp3",
+       "tags": [
+        "rock",
+        "oldies",
+        "pop_hits",
+        "classical"
+       ]
+      },
+      {
+       "name": "Rádio Anténa Rock Hard Radio",
+       "url": "https://stream.pcradio.ru/antenarock_sk_hard-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Anténa Rock Radio",
+       "url": "https://stream.pcradio.ru/antenarock_sk-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Beta - Slaďáky",
+       "url": "http://109.71.67.102:8000/beta_sladaky.mp3",
+       "tags": [
+        "pop_hits",
+        "rock"
+       ]
+      },
+      {
+       "name": "Rádio Expres",
+       "url": "http://stream.expres.sk:8000/64.mp3",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "easy_listening",
+        "classical"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio iRock",
+       "url": "https://radioserver.online:9927/irockHQ.mp3",
+       "tags": [
+        "rock",
+        "metal",
+        "punk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Rádio iRock Radio",
+       "url": "https://stream.pcradio.ru/rad_rcksk-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio KIKS - Rock",
+       "url": "https://stream.radiokiks.sk/kiks_rock.mp3",
+       "tags": [
+        "rock",
+        "metal"
+       ]
+      },
+      {
+       "name": "Rádio Paráda",
+       "url": "http://46.101.103.74:8806/radioparada.mp3",
+       "tags": [
+        "rock",
+        "pop_hits",
+        "oldies"
+       ]
+      },
+      {
+       "name": "Rádio Rebeca",
+       "url": "https://mpc2.mediacp.eu:8200/rebecaweb",
+       "tags": [
+        "rock",
+        "news_talk",
+        "pop_hits",
+        "world"
+       ]
+      },
+      {
+       "name": "Rádio Rebeca",
+       "url": "http://allnet.radionet.sk:8000/radiorebeca.mp3",
+       "tags": [
+        "rock",
+        "pop_hits",
+        "various_eclectic",
+        "decade_80s",
+        "decade_90s"
+       ]
+      },
+      {
+       "name": "Rádio Rock (Slovakia) Radio",
+       "url": "https://stream.pcradio.ru/rad_rdrcksk-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Rock SV",
+       "url": "https://s2.myradiostream.com/:4870/listen.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio The End",
+       "url": "https://solid1.streamupsolutions.com/proxy/lesgqyll/BAradio",
+       "tags": [
+        "news_talk",
+        "rock",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Rádio The End",
+       "url": "http://stream.theend.sk:32011/theend_192",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "alternative_indie"
+       ]
+      },
+      {
+       "name": "RÁDIO VLNA Classic Rock",
+       "url": "https://stream.radiovlna.sk:8000/rock-hi.mp3",
+       "tags": [
+        "rock",
+        "classical"
+       ]
+      },
+      {
+       "name": "Rádio Vlna Classic Rock Radio",
+       "url": "https://stream.pcradio.ru/rad_rdivlnclssicrck-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Slobodny Vysielac",
+       "url": "http://78.47.79.190:8004/",
+       "tags": [
+        "rock",
+        "pop_hits",
+        "alternative_indie"
+       ]
+      },
+      {
+       "name": "Top Rádio",
+       "url": "https://solid1.streamupsolutions.com/proxy/vhhggmih/stream"
+      }
+     ]
+    },
+    "soundtrack": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "ah, yes.radio steishn",
+       "url": "http://c30.radioboss.fm:8255/stream",
+       "tags": [
+        "soundtrack",
+        "easy_listening",
+        "alternative_indie",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "sports": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Club VIBES",
+       "url": "https://stream.zeno.fm/euh50gwnh48uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Sport SK",
+       "url": "http://stream.radiosport.sk:8000/Sport128.mp3"
+      }
+     ]
+    },
+    "techno": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "METALSCENA netRADIO",
+       "url": "http://www.radioking.com/play/metalscena-netradio",
+       "language_inferred": true
+      }
+     ]
+    },
+    "various_eclectic": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "Fitradio",
+       "url": "http://server1.internetoveradio.sk:8809/martial",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio SiTy",
+       "url": "http://icecast.radiosity.sk:443/hq1.mp3"
+      },
+      {
+       "name": "Zahoracke Radio",
+       "url": "http://nucleuss.mb.lunet.sk:8000/zr64.mp3",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Zahoracke radio 89.2 FM",
+       "url": "http://streambox.zahorackeradio.sk:8080/zr128.mp3"
+      }
+     ]
+    },
+    "world": {
+     "count": 8,
+     "stations": [
+      {
+       "name": "Info Vojna",
+       "url": "http://stream1.infovojna.bz:8000/live",
+       "tags": [
+        "news_talk",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Jupiter",
+       "url": "https://radio.treecom.net/jupiter_128.mp3",
+       "tags": [
+        "various_eclectic",
+        "world"
+       ]
+      },
+      {
+       "name": "Radio Sity",
+       "url": "https://stream.core-prod.us-west-2.tunenet.io/listen.stream?streamId=1199579&rti=dEZzGgYzfxg4dhE2AxFRSGgyQE5Rdid8WFcFHQASHBMUTxMkflYCFVQZJSkFE0pkDBIYDQcSWT4UHAgaGBwLEAQWWB1pHwRC%7e%7e%7e&render=json&qs="
+      },
+      {
+       "name": "Radio Tatras International",
+       "url": "http://s32.myradiostream.com:10486/stream/1",
+       "tags": [
+        "pop_hits",
+        "world",
+        "country",
+        "jazz"
+       ]
+      },
+      {
+       "name": "Radio WOW",
+       "url": "https://stream.sepia.sk:8000/wow320.mp3",
+       "tags": [
+        "pop_hits",
+        "world"
+       ]
+      },
+      {
+       "name": "Rádio Beta - Hráme jubilantom",
+       "url": "http://109.71.67.102:8000/beta_jubilanti.mp3"
+      },
+      {
+       "name": "Rádio Roma",
+       "url": "http://allnet.radionet.sk:8000/radioromaba.mp3"
+      },
+      {
+       "name": "Trnavské rádio",
+       "url": "https://solid33.streamupsolutions.com/proxy/mujdmamw/trnavske",
+       "language_inferred": true
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 250,
+     "stations": [
+      {
+       "name": "80s 90s Party Mix Radio",
+       "url": "https://stream.zeno.fm/bdh16ndn6s8uv"
+      },
+      {
+       "name": "897radio – Bratislava – SK",
+       "url": "http://c2.radioboss.fm/stream/281",
+       "language_inferred": true
+      },
+      {
+       "name": "abcdef",
+       "url": "https://stream.zeno.fm/njfpdvvs8csuv",
+       "language_inferred": true
+      },
+      {
+       "name": "ACIDFORCES",
+       "url": "https://stream.zeno.fm/hv45gbknmrhvv"
+      },
+      {
+       "name": "Adamos WTLS",
+       "url": "https://stream.zeno.fm/gbyf3ke1yuhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "AkooGG",
+       "url": "https://stream.zeno.fm/1516vkycg0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Among Radio",
+       "url": "https://stream.zeno.fm/e0dcea3fnkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Anonimstation",
+       "url": "https://stream.zeno.fm/nt39ez4vn0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Baila Reggaeton Radio",
+       "url": "https://stream.zeno.fm/uw4p1v47n98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "balata",
+       "url": "https://stream.zeno.fm/a65t57tbh0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "BassRadio",
+       "url": "https://stream.zeno.fm/dsag9h6p6s8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "BestFM",
+       "url": "https://stream.zeno.fm/qhu9uq7n3zhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Brculka",
+       "url": "https://stream.zeno.fm/zss44cqq2uhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Breakdown",
+       "url": "https://stream.zeno.fm/sngxfhsexa0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "CeskoSlovenske Radio",
+       "url": "https://stream.zeno.fm/3t8uknzr5s8uv"
+      },
+      {
+       "name": "Chill",
+       "url": "https://stream.zeno.fm/rfy2etwhnxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Christmas",
+       "url": "https://stream.zeno.fm/7g9ccb0d3c9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Ciganska Skupina 69420",
+       "url": "https://stream.zeno.fm/ng3tzmbtxchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "CityLab Radio",
+       "url": "http://citylab.ice.infomaniak.ch/citylab-128?type=.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Country Radio",
+       "url": "https://stream.zeno.fm/nxs2s7vu4s8uv"
+      },
+      {
+       "name": "CZSKmusic",
+       "url": "https://stream.zeno.fm/g9cb3szb5uhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Dance Party Radio",
+       "url": "https://stream.zeno.fm/b5r565913s8uv"
+      },
+      {
+       "name": "DeepDD",
+       "url": "https://stream.zeno.fm/q4rk089y5k8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Demomusic Radio",
+       "url": "http://46.101.103.74:8977/"
+      },
+      {
+       "name": "DigitalFM",
+       "url": "https://stream.zeno.fm/45ff7csezs8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Dj Zoli Party Mix Radio",
+       "url": "http://streaming.radionomy.com/DjZoliPartyMixRadio?type=.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Dobré rádio Radio",
+       "url": "https://stream.pcradio.ru/dobreradio_sk-med",
+       "language_inferred": true
+      },
+      {
+       "name": "FantasyBonusParty",
+       "url": "https://stream.zeno.fm/u7nv16xehfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Fever 1.05",
+       "url": "https://stream.zeno.fm/w8srez144c9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Fit Family Radio",
+       "url": "http://server1.internetoveradio.sk:8803/ffr.mp3"
+      },
+      {
+       "name": "FitFamilyRádio",
+       "url": "https://radioserver.online:9803/ffr.mp3"
+      },
+      {
+       "name": "Flammable man",
+       "url": "https://stream.zeno.fm/4y2x5p41ba9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "FM Slovakia",
+       "url": "https://stream.zeno.fm/ykkfb1q7xnhvv"
+      },
+      {
+       "name": "FME On-line",
+       "url": "https://stream.zeno.fm/4408h7rgaxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "FOLK / WORLD MUSIC",
+       "url": "https://stream.zeno.fm/zk7fhfssrp8uv"
+      },
+      {
+       "name": "FRED FILM RADIO Slovak",
+       "url": "http://s6.webradio-hosting.com:8082/"
+      },
+      {
+       "name": "Fun Radio - CZ-SK",
+       "url": "https://stream.funradio.sk/cs128.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Fun Radio 80s-90s",
+       "url": "https://stream.pcradio.ru/funradio_sk_80s90s-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Fun Radio 80s-90s – Bratislava – SK",
+       "url": "https://stream.funradio.sk:18443/80-90-64.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Fun Radio Czechoslovakia – Bratislava – SK",
+       "url": "https://stream.funradio.sk:18443/cs64.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Fun Radio Dance",
+       "url": "https://stream.funradio.sk/dance128.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Fun Radio Dance – Bratislava – SK",
+       "url": "https://stream.funradio.sk:18443/dance64.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Fun Radio – Bratislava – SK",
+       "url": "https://stream.funradio.sk:18443/fun64.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "FUNCOOL",
+       "url": "https://stream.zeno.fm/33hyqqmjtbhuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Funky Radio",
+       "url": "https://stream.zeno.fm/ymqmns82r98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "G-pinďa-b-records",
+       "url": "https://stream.zeno.fm/tdw2zm63p48uv",
+       "language_inferred": true
+      },
+      {
+       "name": "gadzopuro - WTLS",
+       "url": "https://stream.zeno.fm/6fy8d7ayzuhvv"
+      },
+      {
+       "name": "galaxia",
+       "url": "https://stream.zeno.fm/cvwnrpsa8dwuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Geometry FM",
+       "url": "https://stream.zeno.fm/ge0ez6ufcd1vv",
+       "language_inferred": true
+      },
+      {
+       "name": "GoldenKey",
+       "url": "https://stream.zeno.fm/6aezqw9bcm0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Gta-San Andreas",
+       "url": "https://stream.zeno.fm/w7hq5rd7rxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "HardBeastFM",
+       "url": "https://stream.zeno.fm/4b01h8vwn18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "HeidiwareFM",
+       "url": "https://stream.zeno.fm/hhfe7h9vtzzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hideout",
+       "url": "https://stream.zeno.fm/uquunmns3ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hitradio Slovakia",
+       "url": "http://hitradioslovakia.stream.laut.fm/hitradioslovakia?t302=2023-02-13_14-07-55&ampuuid=aed859e4-3008-4b65-b179-63db915b0a6c",
+       "language_inferred": true
+      },
+      {
+       "name": "HITRADIO SLOVAKIA",
+       "url": "https://stream.zeno.fm/fdt5g0uvbg8uv"
+      },
+      {
+       "name": "HITRADIO SLOVAKIA  CZ-SK",
+       "url": "https://stream.zeno.fm/zez4k5ecbm8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "HITRADIO SLOVAKIA - 80.-90. Hity",
+       "url": "https://stream.zeno.fm/cztwucw7bm8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "HITRADIO SLOVAKIA - International",
+       "url": "https://stream.zeno.fm/qbw0nc0yts8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "HITRADIO SLOVAKIA - Vianocne hity",
+       "url": "https://stream.zeno.fm/5rzs4vf56p8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hitradio Slovakia 80s-90s",
+       "url": "https://node-10.zeno.fm/fw07zcw7bm8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "HOP HIP",
+       "url": "https://stream.zeno.fm/ghvwcm4vp0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hornet Radio",
+       "url": "http://stream.radiosport.sk:8000/Sport192.mp3?type=.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "House Radio",
+       "url": "https://stream.zeno.fm/2659t1gta18uv"
+      },
+      {
+       "name": "http://78.47.79.190:8004/streamstream/1",
+       "url": "http://78.47.79.190:8004/streamstream/1"
+      },
+      {
+       "name": "http://stream.infovojna.bz/live32",
+       "url": "http://stream.infovojna.bz/live32"
+      },
+      {
+       "name": "hubo-hubo",
+       "url": "https://stream.zeno.fm/fsganec5m6etv",
+       "language_inferred": true
+      },
+      {
+       "name": "IG-Radio",
+       "url": "https://stream.zeno.fm/pw8btrbfhg0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Info Vojna",
+       "url": "http://194.180.19.212:8000/live"
+      },
+      {
+       "name": "infovojna",
+       "url": "http://stream.infovojna.sk:8000/live128",
+       "language_inferred": true
+      },
+      {
+       "name": "InfoVojna",
+       "url": "http://stream3.infovojna.bz:8000/live",
+       "language_inferred": true
+      },
+      {
+       "name": "Janko Hrasko",
+       "url": "http://78.24.9.110:31088/stream/1"
+      },
+      {
+       "name": "Janko Hrasko – Košice – Košický – SK",
+       "url": "http://78.24.9.110:31088/?1473440030966.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "JOJ 24",
+       "url": "https://live.cdn.joj.sk/live/joj_news.m3u8?n=dae10742275512829927"
+      },
+      {
+       "name": "JOJ PLUS",
+       "url": "https://live.cdn.joj.sk/live/hls/jojplus-540.m3u8"
+      },
+      {
+       "name": "JOJ TV",
+       "url": "https://live.cdn.joj.sk/live/hls/joj-540.m3u8"
+      },
+      {
+       "name": "JOJ TV",
+       "url": "https://nn.geo.joj.sk/live/hls/joj-720.m3u8"
+      },
+      {
+       "name": "JOJ Šport",
+       "url": "https://nn.geo.joj.sk/huste/ce579a27-4f56-4559-91e0-af24d786460e/ce579a27-4f56-4559-91e0-af24d786460e/playlist.m3u8"
+      },
+      {
+       "name": "Kabal rolas",
+       "url": "https://stream.zeno.fm/oldkb8kgehquv",
+       "language_inferred": true
+      },
+      {
+       "name": "Kabare Magyar Radio – Bratislava – SK",
+       "url": "http://stream.mercyradio.eu/mercyradio.mp3?82681247",
+       "language_inferred": true
+      },
+      {
+       "name": "Kika Wellness",
+       "url": "https://stream.zeno.fm/phmasyrzry8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "KikaLoveSong",
+       "url": "https://node-25.zeno.fm/p5fqwax9sd0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "KikaLoveSong",
+       "url": "https://stream.zeno.fm/5ubc2vssvy8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "KikussRadio",
+       "url": "https://stream.zeno.fm/316a61t457zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Koinonia Music Martin",
+       "url": "https://stream.zeno.fm/fgoqyuv2z0atv",
+       "language_inferred": true
+      },
+      {
+       "name": "Kosice International ATC",
+       "url": "https://www.liveatc.net/play/lzkz.pls"
+      },
+      {
+       "name": "KysuckéFM",
+       "url": "https://stream.zeno.fm/2laxobfsvevtv",
+       "language_inferred": true
+      },
+      {
+       "name": "Latino",
+       "url": "https://stream.zeno.fm/25m2d1pb5uhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Lejuso bengers",
+       "url": "https://stream.zeno.fm/17cc3fw6uc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Letné Rádio",
+       "url": "https://stream.zeno.fm/k5eqrv2cf0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "LOLOLO",
+       "url": "https://stream.zeno.fm/up6vy6mcqxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Love Love and More Love",
+       "url": "https://stream.zeno.fm/egpm11qvgxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "LSUR - Los Santos Underground Radio",
+       "url": "https://stream.zeno.fm/c898u4agh5zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "mars dance",
+       "url": "https://stream-153.zeno.fm/683gf5xrxfeuv?zs=gtI4gERBSUGu8f0FOcDOWw&1686916511841?n=04305c6000b936a8e00e",
+       "language_inferred": true
+      },
+      {
+       "name": "MarsDanceRadio",
+       "url": "https://stream.zeno.fm/e9u6c5xrxfeuv"
+      },
+      {
+       "name": "MAX MUSIC RADIO",
+       "url": "https://stream.zeno.fm/fq9qaysuxc9uv"
+      },
+      {
+       "name": "MeineFM",
+       "url": "https://stream.zeno.fm/04q91fpp6s8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "MipiMusic",
+       "url": "https://stream.zeno.fm/ukbkouzyabxtv",
+       "language_inferred": true
+      },
+      {
+       "name": "Mirko Radio",
+       "url": "https://stream.zeno.fm/6exxcnqr7whvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Mirko Radio",
+       "url": "https://stream.zeno.fm/kmc6nsgr7whvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Mmusic4Slovakia",
+       "url": "https://stream.zeno.fm/73xcbde9a48uv"
+      },
+      {
+       "name": "Music FM",
+       "url": "https://radio.musicfm.sk/musicfm128.mp3"
+      },
+      {
+       "name": "nailix",
+       "url": "https://stream.zeno.fm/yz4zm5qqv4zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Nelly Radio",
+       "url": "https://stream.zeno.fm/c9txm77r7whvv",
+       "language_inferred": true
+      },
+      {
+       "name": "New Model Radio",
+       "url": "http://213.215.116.173:8008/newmodel128.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "New Model Rádio Radio",
+       "url": "https://stream.pcradio.ru/newmodel_sk-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Nová Vlna Bratislava",
+       "url": "https://stream.zeno.fm/chpdh28ua0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "NXY Music",
+       "url": "https://stream.zeno.fm/a76nkqvuxd0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Pablyk Hit Radio",
+       "url": "https://stream.zeno.fm/4x59edzawuhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Party Mix Radio",
+       "url": "https://stream.zeno.fm/ykgwdefezs8uv"
+      },
+      {
+       "name": "Party Radio – SK",
+       "url": "http://mpc1.mediacp.eu/stream/partyradio",
+       "language_inferred": true
+      },
+      {
+       "name": "PartyMusic",
+       "url": "https://stream.zeno.fm/tzusnnjpu9qvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Peter Cernicka",
+       "url": "https://stream.zeno.fm/38cgaqvmv98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Phonk FM",
+       "url": "https://stream.zeno.fm/1enyhgv2xnhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Plus TV",
+       "url": "https://nn.geo.joj.sk/live/hls/jojplus-540.m3u8"
+      },
+      {
+       "name": "PopularPlaySK",
+       "url": "https://stream.zeno.fm/r0ifuq6wo6jtv",
+       "language_inferred": true
+      },
+      {
+       "name": "Prculka a Šukalka",
+       "url": "https://stream.zeno.fm/qdz9gqcg4uhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "PRIVATE",
+       "url": "https://stream.zeno.fm/zxay2svskeguv",
+       "language_inferred": true
+      },
+      {
+       "name": "príbeh David kalas",
+       "url": "https://stream.zeno.fm/e2p9h4c2ba9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radigood",
+       "url": "https://stream.zeno.fm/srhbabnqzhhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio B12",
+       "url": "https://stream.zeno.fm/76s9w5w7u0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Basavel",
+       "url": "https://stream.zeno.fm/6gd9c6yn4nhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Best FM (Bratislava)",
+       "url": "https://stream.pcradio.ru/bestfm_sk-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Beta - Hity 80's a 90's",
+       "url": "https://stream.pcradio.ru/beta_8090-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Beta - Hráme Jubilantom",
+       "url": "https://stream.pcradio.ru/beta_jubilantom-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio CWR",
+       "url": "https://stream.zeno.fm/fyd72ct2sxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Dychovka",
+       "url": "https://stream.zeno.fm/0rfe16umv98uv"
+      },
+      {
+       "name": "Radio Ekspres",
+       "url": "https://stream.nextmedia.si/proxy/ekspres1?mp=/stream?n=ab13fc922ed2abd64961",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Expres – Bratislava – SK",
+       "url": "https://stream.bauermedia.sk/128.mp3?aw_0_req.gdpr=true&listenerid=8a10eb0ee42445cfdac7fb6371e3622a&awparams=companionAds%3Atrue&aw_0_1st.version=1.1.7%3Ahtml5&aw_0_1st.playerid=expresmedia_web_player&aw_0_1st.skey=1636620985",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio FOX",
+       "url": "https://stream.zeno.fm/p07zh3ne5p8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO HAPPY SK",
+       "url": "https://stream.zeno.fm/1eb6uut76nhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Hell",
+       "url": "https://stream.zeno.fm/fbvzvb8vef9uv"
+      },
+      {
+       "name": "Radio Island",
+       "url": "https://stream.zeno.fm/lrgus8ifqwltv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Jemné Chillout",
+       "url": "https://stream.radioservices.sk/chillout.mp3"
+      },
+      {
+       "name": "Radio KIKS 1989 – Košice – Košický – SK",
+       "url": "https://stream.radiokiks.sk/kiks_1989.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Komjatna",
+       "url": "https://stream.zeno.fm/xcwdthc4138uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Komjatna",
+       "url": "https://stream.zeno.fm/r8tzqte4138uv"
+      },
+      {
+       "name": "Radio Kristine",
+       "url": "https://stream.zeno.fm/v7ec29pddm0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Kysucká Pohoda",
+       "url": "https://stream.zeno.fm/sox6pktmjhtvv"
+      },
+      {
+       "name": "RADIO LIVCORP",
+       "url": "https://stream.zeno.fm/vhvnvb2cmzzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Lumen Gospel",
+       "url": "http://audio.lumen.sk:8000/ff128.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Maria Slovakia - Hungarian Service",
+       "url": "http://dreamsiteradiocp5.com:8092/stream/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Marsiik",
+       "url": "https://stream.zeno.fm/u3eqtppaghptv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Melody",
+       "url": "https://stream.bauermedia.sk/melody-lo.mp3?aw_0_req.gdpr=false&aw_0_1st.playerid=melody_web_mobile?n=e25517c54715ebfe4d9e",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Original - Slovakia",
+       "url": "https://stream.zeno.fm/5nt6mrw8uwzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio POHODA",
+       "url": "http://sc1.ipip.cz:8030/"
+      },
+      {
+       "name": "Radio POHODA – Prešov – Prešovský – SK",
+       "url": "http://mpc.mediacp.eu:8018/type=mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Random",
+       "url": "https://stream.zeno.fm/vdtsvv3mychvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Rebeca",
+       "url": "http://server1.internetoveradio.sk:8822/mt.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Romper Čechoslovakia",
+       "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM05AAC415.aac?n=8e1161258572a3e70e4b"
+      },
+      {
+       "name": "Radio Sirava",
+       "url": "http://server1.internetoveradio.sk:8804/stream/1"
+      },
+      {
+       "name": "Radio Slovakia",
+       "url": "https://stream.zeno.fm/aqfy9vg3fm0uv"
+      },
+      {
+       "name": "Radio Slovakia Heavy",
+       "url": "https://stream.zeno.fm/aqa72dn3fm0uv"
+      },
+      {
+       "name": "Radio THE END",
+       "url": "http://stream.theend.sk:32011/theend_64",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Truck",
+       "url": "https://radioserver.online:9928/radiotruck.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio USK",
+       "url": "https://stream.zeno.fm/2063t471gchvv"
+      },
+      {
+       "name": "Radio WOW",
+       "url": "http://server1.internetoveradio.sk:8816/wow.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Yes",
+       "url": "https://ssl.shoutcaststreaming.us:8076/index.html/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Zemla",
+       "url": "https://stream.zeno.fm/cyb4tsqhs0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio1",
+       "url": "https://stream.zeno.fm/naazn3xcg0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "RadioAkoo",
+       "url": "https://stream.zeno.fm/b5t8hezcg0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "RadioSlovakia/Alternativa",
+       "url": "https://stream.zeno.fm/0wzmpp5swk8uv"
+      },
+      {
+       "name": "RadioSlovakia/DANCE",
+       "url": "https://stream.zeno.fm/vbu53w2swk8uv"
+      },
+      {
+       "name": "RadioSlovakia/HipHop",
+       "url": "https://stream.zeno.fm/507nrx3swk8uv"
+      },
+      {
+       "name": "RadioSlovakia/JAZZ",
+       "url": "https://stream.zeno.fm/pskd6c6swk8uv"
+      },
+      {
+       "name": "RadioSlovakia/OLDIES",
+       "url": "https://stream.zeno.fm/vhdzyh1swk8uv"
+      },
+      {
+       "name": "RadioSlovakia/PunkSKA",
+       "url": "https://stream.zeno.fm/d414fy4swk8uv"
+      },
+      {
+       "name": "RadioSlovakia/ROCK",
+       "url": "https://stream.zeno.fm/ehru891swk8uv"
+      },
+      {
+       "name": "REPENT SLOVAKIA",
+       "url": "https://stream.zeno.fm/r41877c68ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Retro Dance Radio – Bánovce nad Bebravou – Nitriansky – SK",
+       "url": "http://retrodanceradio.com:1040/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Rock Arena",
+       "url": "https://radioserver.online:9808/rockarena",
+       "language_inferred": true
+      },
+      {
+       "name": "RockFM Radio",
+       "url": "https://stream.zeno.fm/r58rbu9cqrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "rockmetal",
+       "url": "https://stream.zeno.fm/u0d84edemvruv",
+       "language_inferred": true
+      },
+      {
+       "name": "RTI Gold",
+       "url": "http://s28.myradiostream.com:18084/listen.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "RTVS Regina Vychod – Košice – Košický – SK",
+       "url": "http://live.slovakradio.sk:8000/Regina_BA_32.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "RTVS Slovakia International",
+       "url": "http://live.slovakradio.sk:8000/RSI_32.mp3"
+      },
+      {
+       "name": "RybaZaba2",
+       "url": "https://stream.zeno.fm/tezy6pz6xg0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "rád by som pomohol príbeh DavidKAlas",
+       "url": "https://stream.zeno.fm/1t4s5bh9998uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio - KJK - hudba",
+       "url": "https://stream.zeno.fm/uowvuoiw8kctv"
+      },
+      {
+       "name": "Rádio - KJK - motivácie",
+       "url": "https://stream.zeno.fm/9u3orqsokpluv"
+      },
+      {
+       "name": "Rádio Aetter Radio",
+       "url": "https://stream.pcradio.ru/aetter_sk-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Best FM - Slovensko",
+       "url": "https://stream.radia.sk:9003/best-fm-302",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Expres",
+       "url": "http://stream.expres.sk:8000/128.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Expres- Slovensko",
+       "url": "https://stream.expres.sk/96.mp3",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Folk",
+       "url": "https://mpc.mediacp.eu/stream/radiofolk"
+      },
+      {
+       "name": "Rádio Goldies",
+       "url": "https://goldiesradio.online:8000/64aac"
+      },
+      {
+       "name": "Rádio Impulse",
+       "url": "https://stream.zeno.fm/z061vvtq2uhvv"
+      },
+      {
+       "name": "Rádio KIKS - Big 80s",
+       "url": "https://online.radiokiks.sk:8000/kiks_big80s.mp3?n=3184abbba55dc7238978",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Košice",
+       "url": "http://stream.21.sk:8000/radiokosice-128.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Košice – Košice – Košický – SK",
+       "url": "http://stream.21.sk/radiokosice-64.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Litera",
+       "url": "http://live.slovakradio.sk:8000/Litera_256.mp3.m3u",
+       "country_inferred": true
+      },
+      {
+       "name": "Rádio Lokál",
+       "url": "http://mpc1.mediacp.eu:8062/stream/",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Maria Slovensko – Prešov – Prešovský – SK",
+       "url": "https://dreamsiteradiocp5.com/proxy/radiomariaslovensko?mp=/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Metriox",
+       "url": "https://stream.zeno.fm/vyosxmoq77guv",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Mária Slovensko",
+       "url": "http://dreamsiteradiocp5.com:8012/stream/",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Pulz",
+       "url": "http://185.8.166.140:8000/pulz.mp3"
+      },
+      {
+       "name": "Rádio Rebeca - Žilina 88.6 FM",
+       "url": "https://stream.radia.sk/rebeca-507",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Ryba",
+       "url": "https://stream.zeno.fm/ihr3lflsnvwvv"
+      },
+      {
+       "name": "Rádio SiTy",
+       "url": "http://icecast.radiosity.sk:8000/hq1.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Valec",
+       "url": "http://radiovalec.out.airtime.pro:8000/radiovalec_a"
+      },
+      {
+       "name": "Rádio Vlna Golden Radio",
+       "url": "https://stream.pcradio.ru/vlna_sk_golden-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Vlna Radio",
+       "url": "https://stream.pcradio.ru/radiovlna_sk-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Šírava - Zemplín 89.7 FM",
+       "url": "https://stream.radia.sk:9001/sirava-315",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "rádio_domaša_východ",
+       "url": "https://stream.zeno.fm/1xbrpgr1uhhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "SadSongsForBadDays",
+       "url": "https://stream.zeno.fm/q6r4qy4d5uhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "samp radio",
+       "url": "https://stream.zeno.fm/y0em5wtlan2uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Sebikove Hity",
+       "url": "https://stream.zeno.fm/vshz4atme0ktv"
+      },
+      {
+       "name": "SebikRadio",
+       "url": "https://stream.zeno.fm/cgyps9sb9f0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "SET JxB 1",
+       "url": "https://stream.zeno.fm/wjx18thu3i4uv",
+       "language_inferred": true
+      },
+      {
+       "name": "SKRP Rádio",
+       "url": "https://stream.zeno.fm/s4dr8ad9fc9uv"
+      },
+      {
+       "name": "Sky Radio",
+       "url": "http://dreamsiteradiocp5.com:8012/"
+      },
+      {
+       "name": "Sllobodný vysielač",
+       "url": "http://159.69.219.5:8010//aac",
+       "language_inferred": true
+      },
+      {
+       "name": "Slobodny Vysielac",
+       "url": "http://vysielanie.online:8020/SV128.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Slobodny vysielač",
+       "url": "http://78.47.79.190:8002/"
+      },
+      {
+       "name": "Slobodný vysielač",
+       "url": "http://159.69.219.5:8010/mp3"
+      },
+      {
+       "name": "Slovak Rap",
+       "url": "https://stream.zeno.fm/wzhakuv6rchvv"
+      },
+      {
+       "name": "Slovakis",
+       "url": "https://stream.zeno.fm/8q7s4vb37p8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Songs by NMC",
+       "url": "https://stream.zeno.fm/g6n80zp96zhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Soul FM",
+       "url": "https://stream.zeno.fm/uwydquf0qmbuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Spinning Seal Radio",
+       "url": "https://stream.zeno.fm/1e906rpg3zhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "SRo Rozhlasova R",
+       "url": "http://live.slovakradio.sk:8000/Rozhlasova_rada.mp3"
+      },
+      {
+       "name": "SRo9 Rádio Junior 256k",
+       "url": "http://live.slovakradio.sk:8000/Junior_256.mp3"
+      },
+      {
+       "name": "Suicide Sheep Mix",
+       "url": "https://stream.zeno.fm/7bmrev3svxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "SunBocca House Music Communit",
+       "url": "http://38.107.242.152:8251/",
+       "language_inferred": true
+      },
+      {
+       "name": "svestka",
+       "url": "https://stream.zeno.fm/tn7otyhtjbxuv",
+       "language_inferred": true
+      },
+      {
+       "name": "TEST_SK",
+       "url": "https://stream.zeno.fm/9bh6wzw6ckhvv"
+      },
+      {
+       "name": "Testik",
+       "url": "https://stream.zeno.fm/xj3tajptinovv",
+       "language_inferred": true
+      },
+      {
+       "name": "Thirst-tea",
+       "url": "https://stream.zeno.fm/k8eq8f06yf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Thirst-tea",
+       "url": "https://stream.zeno.fm/gf62wa06yf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "TLIS Radio",
+       "url": "https://stream.tlis.sk/",
+       "language_inferred": true
+      },
+      {
+       "name": "TOP POP",
+       "url": "https://stream.zeno.fm/03fcvhi1ziutv",
+       "language_inferred": true
+      },
+      {
+       "name": "TrapRadio",
+       "url": "https://stream.zeno.fm/gphkas539f8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Trnavské Rádio",
+       "url": "http://178.162.198.129:8025/trnavske",
+       "language_inferred": true
+      },
+      {
+       "name": "Trnavské Rádio",
+       "url": "http://stream.trnavskeradio.sk/trnavske.mp3"
+      },
+      {
+       "name": "TryHard Music Radio",
+       "url": "https://stream.zeno.fm/se9u7815a48uv",
+       "language_inferred": true
+      },
+      {
+       "name": "TV Doktor",
+       "url": "https://live.tvdoktor.sk/high/index.m3u8?n=11c4b3038bf1a0df2769"
+      },
+      {
+       "name": "TV Joj 404 p",
+       "url": "https://live.cdn.joj.sk/live/andromeda/joj-404.m3u8?n=503190ed472db339a490"
+      },
+      {
+       "name": "TV Plus 404 p",
+       "url": "https://live.cdn.joj.sk/live/andromeda/plus-404.m3u8?n=58f3c255ce61ea425bc9"
+      },
+      {
+       "name": "TV Wau 404 p",
+       "url": "https://live.cdn.joj.sk/live/andromeda/wau-404.m3u8?n=7de61d65b55914c29a47"
+      },
+      {
+       "name": "TWradio",
+       "url": "https://stream.zeno.fm/w4upecumbchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Urbana FM 88.3",
+       "url": "https://stream.zeno.fm/kstlkhug0ifvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Večerné rádio",
+       "url": "https://stream.zeno.fm/b6rngg88zxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Vrrr Music",
+       "url": "https://stream.zeno.fm/wyz8k8xsvxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "WAU",
+       "url": "https://live.cdn.joj.sk/live/hls/wau-540.m3u8"
+      },
+      {
+       "name": "WAU TV",
+       "url": "https://nn.geo.joj.sk/live/hls/wau-540.m3u8"
+      },
+      {
+       "name": "Webkom Radio",
+       "url": "https://stream.zeno.fm/qg3gtcb9sc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Webkom Radio",
+       "url": "https://stream.zeno.fm/15ydycf9sc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "wtls sajmonke radio",
+       "url": "https://stream.zeno.fm/ezq5r8scrrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Zuzicka",
+       "url": "https://stream.zeno.fm/0zdupbcz908uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Šimko",
+       "url": "https://stream.zeno.fm/bgas1cv3ia5tv"
+      }
+     ]
+    }
+   }
+  },
+  "English": {
+   "count": 13,
+   "genres": {
+    "easy_listening": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Rádio BETA",
+       "url": "http://109.71.67.102:8000/beta_live_low.mp3",
+       "tags": [
+        "pop_hits",
+        "easy_listening",
+        "news_talk",
+        "electronic",
+        "hip_hop_rap"
+       ]
+      }
+     ]
+    },
+    "electronic": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "2-Part Number Shout!",
+       "url": "https://home.nezlabs.ml:2000/number_stream.mp3"
+      },
+      {
+       "name": "897 Dance Radio",
+       "url": "http://stream.iplayradio.net/proxy/897dance/stream"
+      },
+      {
+       "name": "897 FM DANCE",
+       "url": "https://c34.radioboss.fm:18106/stream"
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "RTVS R Regina BB",
+       "url": "http://live.slovakradio.sk:8000/Regina_BB_128.mp3",
+       "tags": [
+        "news_talk",
+        "various_eclectic",
+        "pop_hits",
+        "college_community"
+       ]
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio TEMPO",
+       "url": "http://stream.radiotempo.sk:8002/"
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 7,
+     "stations": [
+      {
+       "name": "897 FM HITS",
+       "url": "https://c10.radioboss.fm:18122/stream"
+      },
+      {
+       "name": "Classic Rock Radio",
+       "url": "https://stream.zeno.fm/mpkfh869n98uv"
+      },
+      {
+       "name": "Numberstation",
+       "url": "https://home3-ice.nezbednik.eu.org:2000/numberstation.mp3?n=9d0f02c18f92967485d9"
+      },
+      {
+       "name": "Punk Around",
+       "url": "https://punkaround.tk:8443/stream"
+      },
+      {
+       "name": "radiOzora Chill channel",
+       "url": "http://chill.out.airtime.pro:8000/chill_c"
+      },
+      {
+       "name": "radiOzora Trance channel",
+       "url": "http://trance.out.airtime.pro:8000/trance_c"
+      },
+      {
+       "name": "Tzgospel swahili",
+       "url": "https://stream.zeno.fm/tbmxtcxchfhvv"
+      }
+     ]
+    }
+   }
+  },
+  "Hungarian": {
+   "count": 5,
+   "genres": {
+    "electronic": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Dance Wave!",
+       "url": "http://stream.dancewave.online:8080/dance.mp3",
+       "bitrate": 128,
+       "logo": "http://radio.pervii.com/im/0/1537461090.jpg",
+       "tags": [
+        "electronic",
+        "house",
+        "classical",
+        "trance_goa",
+        "soul_rnb_funk",
+        "pop_hits",
+        "country",
+        "drum_and_bass",
+        "disco_eurodance",
+        "kids",
+        "world",
+        "news_talk"
+       ]
+      }
+     ]
+    },
+    "folk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Mercy Rádió Lakodalmas",
+       "url": "http://stream.mercyradio.eu/lakodalmas.mp3",
+       "tags": [
+        "world",
+        "folk"
+       ]
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Mercy Rádió - Napjaink zenéi",
+       "url": "http://stream.mercyradio.eu/napjaink.mp3"
+      }
+     ]
+    },
+    "world": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "SRo5 Rádio Pátria /RSI",
+       "url": "http://live.slovakradio.sk:8000/Patria_128.mp3",
+       "tags": [
+        "world",
+        "news_talk"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Mirjam Rádio - Mária Rádió Felvidék",
+       "url": "http://193.87.81.131:8081/MariaRadioFelvidek"
+      }
+     ]
+    }
+   }
+  },
+  "Sinhala": {
+   "count": 1,
+   "genres": {
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "New Model Radio",
+       "url": "https://stream.sepia.sk:8000/newmodel128.mp3",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "world"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Italian": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Fun Radio Italy",
+       "url": "http://stream.funradio.sk:8000/new128.mp3?type=.mp3/stream.mp3",
+       "country_inferred": true
+      }
+     ]
+    }
+   }
+  },
+  "Slovenian": {
+   "count": 1,
+   "genres": {
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Rádio Maria Slovensko",
+       "url": "http://dreamsiteradiocp5.com:8012/streaming.mp3",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      }
+     ]
+    }
+   }
+  }
+ }
+}

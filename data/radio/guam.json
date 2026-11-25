@@ -1,0 +1,428 @@
+{
+ "country": "Guam",
+ "count": 45,
+ "languages": {
+  "English": {
+   "count": 44,
+   "genres": {
+    "alternative_indie": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Cristo Viene 100.6 FM Listen live",
+       "url": "https://stream20.usastreams.com:7000/server",
+       "tags": [
+        "christian_gospel",
+        "alternative_indie"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "christian_gospel": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "Harvest Family Radio",
+       "url": "https://ic1.christiannetcast.com/khmg-fm",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Joy FM 91.9 radio",
+       "url": "https://streamdb9web.securenetsystems.net/cirrusencore/JOYFM",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "KGCA-LP",
+       "url": "http://99.198.118.250:8152/",
+       "tags": [
+        "christian_gospel",
+        "classical"
+       ]
+      },
+      {
+       "name": "KHMG 88.1 FM Listen live",
+       "url": "https://ic1.sslstream.com/khmg-fm?rnd=7338",
+       "language_inferred": true
+      }
+     ]
+    },
+    "disco_eurodance": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "KTWG AM800 Radio Listen live",
+       "url": "https://ice3.securenetsystems.net/KGUM2",
+       "tags": [
+        "news_talk",
+        "christian_gospel",
+        "disco_eurodance",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "latin": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "GTM Radio Listen live",
+       "url": "https://sonic01.instainternet.com/8314/server",
+       "tags": [
+        "news_talk",
+        "various_eclectic",
+        "latin"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 11,
+     "stations": [
+      {
+       "name": "i94-FM",
+       "url": "http://www.ophanim.net:8370/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "electronic"
+       ]
+      },
+      {
+       "name": "Isla 63 - KUAM",
+       "url": "https://www.ophanim.net:8444/s/9010",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "folk",
+        "college_community"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Isla63 AM",
+       "url": "http://www.ophanim.net:9010/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "college_community"
+       ]
+      },
+      {
+       "name": "Joy FM - KSDA Listen live",
+       "url": "https://ice5.securenetsystems.net/JOYFM",
+       "tags": [
+        "news_talk",
+        "christian_gospel",
+        "alternative_indie",
+        "drum_and_bass",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "K-57 – KGUM",
+       "url": "http://202.123.144.36:8000/",
+       "language_inferred": true
+      },
+      {
+       "name": "KPRG FM",
+       "url": "https://peridot.streamguys.com:5090/live",
+       "tags": [
+        "news_talk",
+        "classical",
+        "various_eclectic",
+        "pop_hits",
+        "jazz",
+        "college_community"
+       ]
+      },
+      {
+       "name": "KUAM i94-FM",
+       "url": "http://www.ophanim.net:8370/stream.mp3",
+       "tags": [
+        "news_talk",
+        "various_eclectic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "KUAM-AM 630 \"Isla 63\" Hagatna",
+       "url": "http://www.ophanim.net:9010",
+       "tags": [
+        "various_eclectic",
+        "news_talk",
+        "college_community",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "KUSG",
+       "url": "https://ice10.securenetsystems.net/KUSG",
+       "tags": [
+        "news_talk",
+        "various_eclectic",
+        "pop_hits",
+        "rock"
+       ]
+      },
+      {
+       "name": "Radio K57 AM",
+       "url": "https://ice2.securenetsystems.net/KGUM2",
+       "tags": [
+        "news_talk",
+        "various_eclectic",
+        "alternative_indie",
+        "world"
+       ]
+      },
+      {
+       "name": "The Breeze 93.9 FM",
+       "url": "https://www.ophanim.net:8444/s/8370",
+       "tags": [
+        "pop_hits",
+        "decade_2000s",
+        "news_talk",
+        "decade_70s",
+        "decade_80s",
+        "decade_90s",
+        "oldies",
+        "jazz"
+       ]
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 9,
+     "stations": [
+      {
+       "name": "Guam Shark – KZGU",
+       "url": "https://ice8.securenetsystems.net/KRSI",
+       "tags": [
+        "pop_hits",
+        "reggae_ska",
+        "rock",
+        "various_eclectic",
+        "world",
+        "latin",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "KAT-FM",
+       "url": "https://ice3.securenetsystems.net/KGUMFM",
+       "tags": [
+        "various_eclectic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "KSDA Joy FM",
+       "url": "https://ice5.securenetsystems.net/JOYFM?playSessionID=3CE152BB-96A2-42F0-A1DA84A2D587BA5B",
+       "language_inferred": true
+      },
+      {
+       "name": "KSTO FM",
+       "url": "https://cdn.stobcm.com/radio/ksto1.stream/chunklist.m3u8"
+      },
+      {
+       "name": "Megamixx 101.9",
+       "url": "http://95.154.193.6:8014/listen.pls"
+      },
+      {
+       "name": "Radio The Shark radio",
+       "url": "https://streamdb7web.securenetsystems.net/v5/KRSI",
+       "language_inferred": true
+      },
+      {
+       "name": "Star 101 Listen live",
+       "url": "https://ice9.securenetsystems.net/KNUT",
+       "tags": [
+        "pop_hits",
+        "soul_rnb_funk",
+        "oldies",
+        "rock",
+        "world"
+       ]
+      },
+      {
+       "name": "Station Beta, Hagåtña radio",
+       "url": "https://stream.zeno.fm/ettxwxhgp7mtv",
+       "language_inferred": true
+      },
+      {
+       "name": "The Shark",
+       "url": "https://ice8.securenetsystems.net/KRSI?playSessionID=2FB594A5-A707-4A26-9D81640D1627400C",
+       "language_inferred": true
+      }
+     ]
+    },
+    "reggae_ska": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "KKMP – K221EF",
+       "url": "http://s2.yesstreaming.net:7208/stream/",
+       "tags": [
+        "reggae_ska",
+        "latin",
+        "world"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "rock": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "105.1 The Kat - KGUM-FM",
+       "url": "https://ice2.securenetsystems.net/KGUMFM",
+       "tags": [
+        "rock",
+        "oldies",
+        "classical",
+        "various_eclectic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "105.1 The Kat – KGUM-FM",
+       "url": "http://202.123.144.36:8000/stream/4/",
+       "tags": [
+        "rock",
+        "pop_hits",
+        "classical"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "BOSS 104.3 FM",
+       "url": "https://ice10.securenetsystems.net/KIJI",
+       "tags": [
+        "rock",
+        "pop_hits",
+        "oldies",
+        "decade_70s",
+        "decade_80s",
+        "classical"
+       ]
+      },
+      {
+       "name": "The Kat - KGUM-FM",
+       "url": "https://ice2.securenetsystems.net/KGUMFM?ver=274640",
+       "tags": [
+        "decade_2000s",
+        "rock",
+        "pop_hits",
+        "decade_90s"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "soul_rnb_funk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Power 98",
+       "url": "https://ice3.securenetsystems.net/KZGZ",
+       "tags": [
+        "soul_rnb_funk",
+        "pop_hits",
+        "hip_hop_rap",
+        "electronic",
+        "alternative_indie",
+        "various_eclectic",
+        "latin",
+        "jazz"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 11,
+     "stations": [
+      {
+       "name": "Dar Yadar Wadih El Safi Song",
+       "url": "https://stream.zeno.fm/jqm8vmtie37tv",
+       "language_inferred": true
+      },
+      {
+       "name": "guam line in brazil",
+       "url": "https://stream1.svrdedicado.org/8368/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "KGUM - Newstalk K57",
+       "url": "https://ice3.securenetsystems.net/KGUM2?playSessionID=7D2FE90A-F78E-48FC-853DFE60FCCF6372",
+       "language_inferred": true
+      },
+      {
+       "name": "KGUM 105.1 KAT-FM",
+       "url": "https://ice3.securenetsystems.net/KGUMFM?playSessionID=DF2D48FD-774B-49EB-BF63F48651DD15BF",
+       "language_inferred": true
+      },
+      {
+       "name": "Power 98",
+       "url": "https://ice3.securenetsystems.net/KZGZ?playSessionID=0EA88430-BCE9-4CAE-8F1AE75BD90087AF",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Arrigo Barnabe",
+       "url": "https://stream.zeno.fm/sb1hgtu7xa0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Roy Obison",
+       "url": "https://stream.zeno.fm/k7fb2gfmqd0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "TFC Guam",
+       "url": "https://tfcguam-abscbn-ono.amagi.tv/index.m3u8?n=2e4640a4ed2f6729299d",
+       "language_inferred": true
+      },
+      {
+       "name": "ThePOINT",
+       "url": "https://stream.zeno.fm/5q0d74y6q98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "TTTY CHANNEL",
+       "url": "https://stream.zeno.fm/2f7br0hr498uv",
+       "language_inferred": true
+      },
+      {
+       "name": "WENH-LD",
+       "url": "https://stream.zeno.fm/rnh5fzens68uv",
+       "language_inferred": true
+      }
+     ]
+    }
+   }
+  },
+  "Swahili": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Tzgospel swahili",
+       "url": "https://stream.zeno.fm/vymxg02mffhvv"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

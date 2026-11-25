@@ -1,0 +1,538 @@
+{
+ "country": "Burundi",
+ "count": 74,
+ "languages": {
+  "French": {
+   "count": 65,
+   "genres": {
+    "christian_gospel": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "Radio Maria 98.4 FM radio",
+       "url": "http://dreamsiteradiocp2.com:8080/",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO MARIA BURUNDI",
+       "url": "http://dreamsiteradiocp.com:8058/stream",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Maria Burundi",
+       "url": "http://dreamsiteradiocp2.com:8082/"
+      },
+      {
+       "name": "Radio Maria Burundi",
+       "url": "https://cloudrad.io/radiomariaburundi/listen.pls",
+       "language_inferred": true
+      }
+     ]
+    },
+    "classical": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Peace FM",
+       "url": "https://stream.zeno.fm/s0244utefg8uv",
+       "tags": [
+        "classical",
+        "rock"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "college_community": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Umuco FM radio",
+       "url": "http://80.84.57.76:4505/ufm.mp3",
+       "language_inferred": true
+      }
+     ]
+    },
+    "comedy": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Yantu FM",
+       "url": "https://stream.zeno.fm/6ezvc5a44bhvv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio RFM  889",
+       "url": "https://104.248.46.139:8000/rfm.mp3",
+       "language_inferred": true
+      }
+     ]
+    },
+    "folk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Fo-Fe radio",
+       "url": "http://cast.thiff.com:8012/stream",
+       "language_inferred": true
+      }
+     ]
+    },
+    "jazz": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Radio Izere FM",
+       "url": "http://102.134.106.14:8000/stream",
+       "tags": [
+        "jazz",
+        "various_eclectic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Izere FM radio",
+       "url": "http://5.189.189.39:8000/stream",
+       "tags": [
+        "jazz",
+        "folk",
+        "soul_rnb_funk",
+        "pop_hits",
+        "reggae_ska"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 11,
+     "stations": [
+      {
+       "name": "Bdusa Media radio",
+       "url": "https://stream.zeno.fm/0fpegrf70fctv",
+       "language_inferred": true
+      },
+      {
+       "name": "Eagle Sport Fm radio",
+       "url": "http://5.189.189.39:8000/eaglesport.mp3",
+       "tags": [
+        "sports",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Iteka FM",
+       "url": "https://stream.zeno.fm/nsmhaykzqf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Isanganiro",
+       "url": "https://isanganiro.ice.infomaniak.ch/isanganiro-64.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "college_community",
+        "world",
+        "various_eclectic",
+        "chillout_lounge",
+        "electronic"
+       ]
+      },
+      {
+       "name": "Radio RTBB",
+       "url": "https://stream.zeno.fm/ydfsa1rtxd0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Scolaire Nderagakura",
+       "url": "https://eu10.fastcast4u.com/nderagakura",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "world"
+       ]
+      },
+      {
+       "name": "Radio TV Buntu",
+       "url": "https://stream.rcast.net/62581",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "RFM  88.9 radio",
+       "url": "https://stream.zeno.fm/z15nbes547zuv",
+       "tags": [
+        "sports",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "RTNB Radio 1",
+       "url": "http://41.79.226.195:8000/stream-RTNB1",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "sports"
+       ]
+      },
+      {
+       "name": "RTNB – Chaîne 1",
+       "url": "http://41.79.226.195:8000/stream",
+       "tags": [
+        "news_talk",
+        "sports"
+       ]
+      },
+      {
+       "name": "Wana Radio Fm",
+       "url": "https://stream.zeno.fm/g4x4bb7uxd0uv",
+       "tags": [
+        "sports",
+        "news_talk"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "Hit Radio Burundi",
+       "url": "https://hr-burundi.ice.infomaniak.ch/hr-burundi-64.aac"
+      },
+      {
+       "name": "Indundi Radio",
+       "url": "http://bagenzitv.com:8000/indundiradio",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Bonesha FM",
+       "url": "https://stream.zenolive.com/0u66fps35umtv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio RTBB",
+       "url": "https://node-04.zeno.fm/ydfsa1rtxd0uv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "rock": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Intwali FM",
+       "url": "https://stream.zeno.fm/f4btyyc18vzuv",
+       "tags": [
+        "classical",
+        "rock"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "sports": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "EAGLE SPORTS FM",
+       "url": "https://stream.zeno.fm/uny39uh56zjuv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "various_eclectic": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Regional Vibez Media",
+       "url": "https://node-19.zeno.fm/4vrnq5wc8f0uv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "world": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio TV Buntu",
+       "url": "https://stream.rcast.live/62581"
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 35,
+     "stations": [
+      {
+       "name": "asuscomm",
+       "url": "http://hdr.asuscomm.com:8000/lounge.ogg",
+       "language_inferred": true
+      },
+      {
+       "name": "BLACK FM 94.9",
+       "url": "https://stream.zeno.fm/fnbqvmqqyhhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Bonesha FM",
+       "url": "https://s22.myradiostream.com:15543/stream"
+      },
+      {
+       "name": "BUDMC RTV FM",
+       "url": "https://stream.zeno.fm/uy9g742c0hhvv"
+      },
+      {
+       "name": "Buja FM",
+       "url": "http://104.248.46.139:8000/bujafm.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Buja FM – BI-BJ",
+       "url": "http://104.248.46.139:8000/bujafm2.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Burundi - Radiotelevision Nationale Chaine 1",
+       "url": "https://stream.zeno.fm/e5gq4ac2w2quv"
+      },
+      {
+       "name": "CDN  IJWI RYA CIBITOKE",
+       "url": "https://stream.zeno.fm/gfqv1mioqi3uv",
+       "language_inferred": true
+      },
+      {
+       "name": "dope list",
+       "url": "https://stream.zeno.fm/bywhrt87vv8uv"
+      },
+      {
+       "name": "Eagle Sport FM",
+       "url": "https://stream.zeno.fm/zbujkcnrhiauv",
+       "language_inferred": true
+      },
+      {
+       "name": "Ferpa Radio",
+       "url": "https://stream.zeno.fm/g67p5yvay98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Henn Seb",
+       "url": "https://stream.zeno.fm/tsz9epazmc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Henseb",
+       "url": "https://stream.zeno.fm/6p4rttazmc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "INK FM",
+       "url": "https://stream.zeno.fm/3bpp2kdzafhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "ISANGI FM",
+       "url": "https://stream.zeno.fm/24xqbzqn0c9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "ISANGI RADIO",
+       "url": "https://stream.zeno.fm/387qyxsn0c9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Iteka FM",
+       "url": "https://stream.zeno.fm/2p7h5xkzqf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "LBC Station Burundi",
+       "url": "https://stream.zeno.fm/kkhczm39vnhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "monecash fm",
+       "url": "https://stream.zeno.fm/nrrq1ru80rhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Ntaconzoba live  Streaming",
+       "url": "https://stream.zeno.fm/pbr95y5cec9uv"
+      },
+      {
+       "name": "Pdrsxpagodero",
+       "url": "https://stream.zeno.fm/bkuut16a0rhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "radio antes",
+       "url": "https://stream.zeno.fm/ug52pkxsp18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Bonesha FM",
+       "url": "http://streaming.zubahost.com:8002/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Ijwi Ry Umukenyezi",
+       "url": "https://stream.zeno.fm/f5kr60dt8hhvv"
+      },
+      {
+       "name": "Radio Inkinzo",
+       "url": "https://stream.zeno.fm/x3ktdppgx98uv"
+      },
+      {
+       "name": "radio izere fm",
+       "url": "https://stream.zeno.fm/w7ywwbcu6rhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Maria Burundi",
+       "url": "http://dreamsiteradiocp2.com:2199/tunein/rmburundi2-stream.pls?n=798c220be34eac092d12",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO PATRIOT FM",
+       "url": "https://stream.zeno.fm/91m701amxxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio RFM 88.9 Bujumbura",
+       "url": "http://stream.zeno.fm/qr5puue40tzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO RTBB",
+       "url": "https://stream.zeno.fm/wbdf30rtxd0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RadioVAB",
+       "url": "https://stream.zeno.fm/n5v7sm1qpd0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Santanna Radio Music",
+       "url": "https://stream.zeno.fm/cd8nn31as2zuv"
+      },
+      {
+       "name": "Sud station fm",
+       "url": "https://stream.zeno.fm/d8p0eg5ynfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Umuco fm",
+       "url": "https://stream.zeno.fm/o4zq6juchh8vv",
+       "language_inferred": true
+      },
+      {
+       "name": "Wana Radio FM",
+       "url": "https://node-18.zeno.fm/k6mf8a7uxd0uv.aac",
+       "language_inferred": true
+      }
+     ]
+    }
+   }
+  },
+  "Swahili": {
+   "count": 7,
+   "genres": {
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Bonesha FM",
+       "url": "https://streaming.zubahost.com/8002/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "various_eclectic": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "REGIONAL VIBEZ MEDIA",
+       "url": "https://stream.zeno.fm/p4r2f5wc8f0uv"
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 5,
+     "stations": [
+      {
+       "name": "Buja FM",
+       "url": "https://stream.zeno.fm/jk4m3iokoasvv"
+      },
+      {
+       "name": "Bujatrendy",
+       "url": "https://stream.zeno.fm/t10wdaut2ehvv"
+      },
+      {
+       "name": "RADIO BLACK FM 94.9",
+       "url": "https://stream.zeno.fm/b9zg6ceg5ehvv"
+      },
+      {
+       "name": "RADIO BLACK FM 94.90",
+       "url": "https://stream.zeno.fm/c0rgdafy1ehvv"
+      },
+      {
+       "name": "WANA RADIO FM",
+       "url": "https://stream.zeno.fm/k6mf8a7uxd0uv"
+      }
+     ]
+    }
+   }
+  },
+  "Kinyarwanda": {
+   "count": 1,
+   "genres": {
+    "christian_gospel": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Maria Burundi",
+       "url": "https://dreamsiteradiocp2.com/proxy/rmburundi2?mp=/stream"
+      }
+     ]
+    }
+   }
+  },
+  "Multilingual": {
+   "count": 1,
+   "genres": {
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "RTNB 2",
+       "url": "http://41.79.226.196:8000/stream",
+       "tags": [
+        "news_talk",
+        "sports",
+        "pop_hits",
+        "various_eclectic"
+       ]
+      }
+     ]
+    }
+   }
+  }
+ }
+}

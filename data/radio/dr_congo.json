@@ -1,0 +1,647 @@
+{
+ "country": "DR Congo",
+ "count": 72,
+ "languages": {
+  "French": {
+   "count": 65,
+   "genres": {
+    "christian_gospel": {
+     "count": 12,
+     "stations": [
+      {
+       "name": "Eglise Hebron radio",
+       "url": "https://tuambiyane.radioca.st/",
+       "language_inferred": true
+      },
+      {
+       "name": "Elim Fm 92.2mhz",
+       "url": "https://listen.radioking.com/radio/399031/stream/451075",
+       "language_inferred": true
+      },
+      {
+       "name": "Gospel FM",
+       "url": "https://stream.zeno.fm/n3sgwrm2mg8uv",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Interkinois Gospel",
+       "url": "https://cast4.asurahosting.com/proxy/deograt2/stream",
+       "tags": [
+        "christian_gospel",
+        "world"
+       ]
+      },
+      {
+       "name": "Light FM Kinshasa",
+       "url": "https://listen.radioking.com/radio/485195/stream/541826",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Beatus radio",
+       "url": "https://radiobeatus2.radioca.st/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Bouclier",
+       "url": "https://bouclierdelafoi.radioca.st/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Kelelo radio",
+       "url": "http://dione.shoutca.st:8512/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Maria 88.7 FM radio",
+       "url": "https://dreamsiteradiocp2.com/proxy/rmcongo2?mp=/stream?ver=860933",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pourim radio",
+       "url": "https://zoka.radioca.st/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "RATELKI",
+       "url": "http://ratelkiradio.ice.infomaniak.ch/ratelkiradio-128.mp3",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "RATELKI radio",
+       "url": "https://ratelkiradio.ice.infomaniak.ch/ratelkiradio-64.mp3",
+       "language_inferred": true
+      }
+     ]
+    },
+    "decade_90s": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Tamil Panpalai Africa",
+       "url": "http://equinox.shoutca.st:9950/stream/4/",
+       "tags": [
+        "decade_90s",
+        "news_talk"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Millenium radio",
+       "url": "https://stream.zeno.fm/vkyhcgfd5f8uv",
+       "tags": [
+        "easy_listening",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "electronic": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "BONE RADIO",
+       "url": "http://nr2.newradio.it:8296/",
+       "tags": [
+        "electronic",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Dream Radio",
+       "url": "https://stream.zeno.fm/bnuliy5kdhstv",
+       "tags": [
+        "electronic",
+        "techno",
+        "house"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Hsd-One FM radio",
+       "url": "https://manager8.streamradio.fr:2705/stream?x=1653063567441",
+       "tags": [
+        "electronic",
+        "pop_hits",
+        "folk",
+        "latin"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Ndulé World FM radio",
+       "url": "https://manager5.streamradio.fr:1995/stream",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "latin": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "HsdOne FM",
+       "url": "https://manager8.streamradio.fr:2705/stream",
+       "tags": [
+        "latin",
+        "pop_hits",
+        "world",
+        "electronic",
+        "news_talk"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 22,
+     "stations": [
+      {
+       "name": "Afrique 2 Radio",
+       "url": "http://stream.zeno.fm/vy96uq80mwzuv",
+       "tags": [
+        "news_talk",
+        "world",
+        "sports",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Buzz FM 97.4 radio",
+       "url": "https://edge.iono.fm/xhls/254_medium.m3u8",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "sports"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Goma Webradio",
+       "url": "https://stream.zeno.fm/4d61wprrp7zuv",
+       "tags": [
+        "news_talk",
+        "world",
+        "various_eclectic",
+        "christian_gospel",
+        "decade_70s",
+        "decade_90s"
+       ]
+      },
+      {
+       "name": "Interkinois Radio",
+       "url": "https://cast3.asurahosting.com/proxy/deograt1/stream",
+       "tags": [
+        "news_talk",
+        "world"
+       ]
+      },
+      {
+       "name": "Lushiactu Radio",
+       "url": "http://cast3.asurahosting.com:8565/live",
+       "tags": [
+        "news_talk",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "MILLENIUM RADIO",
+       "url": "http://stream.zeno.fm/471pmgfd5f8uv"
+      },
+      {
+       "name": "Radio Bomoko",
+       "url": "https://stream.streamaudio.de:8000/radio-bomoko",
+       "tags": [
+        "news_talk",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Digital Congo Net",
+       "url": "https://radiodigitalcongofm.ice.infomaniak.ch/digitalcongofm-96.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "folk",
+        "sports",
+        "various_eclectic",
+        "world"
+       ]
+      },
+      {
+       "name": "Radio L'ESSENTIEL RdC radio",
+       "url": "https://listen.radioking.com/radio/292651/stream/339022",
+       "tags": [
+        "news_talk",
+        "blues",
+        "rock"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Light FM Kinshasa",
+       "url": "http://www.radioking.com/play/lightfm-rdc/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Lisolo radio",
+       "url": "http://usa8.fastcast4u.com:5725/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Maendeleo",
+       "url": "https://radiomaendeleobukavu.ice.infomaniak.ch/radiomaendeleobukavu-sk.mp3",
+       "tags": [
+        "news_talk",
+        "college_community"
+       ]
+      },
+      {
+       "name": "RADIO MARIA DEM.REP. CONGO",
+       "url": "http://dreamsiteradiocp.com:8116/stream",
+       "tags": [
+        "news_talk",
+        "christian_gospel"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Méthodiste Lokole radio",
+       "url": "https://yohanfm.ice.infomaniak.ch/yohanfm-128.aac",
+       "tags": [
+        "news_talk",
+        "christian_gospel"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Okapi",
+       "url": "http://rs1.radiostreamer.com:8000/listen.pls"
+      },
+      {
+       "name": "Radio Pourim",
+       "url": "http://zoka.radioca.st:8301/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "RMCA radio",
+       "url": "https://rmca.ice.infomaniak.ch/rmca-128.aac",
+       "tags": [
+        "christian_gospel",
+        "news_talk",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "RTDS radio",
+       "url": "https://rtds.ice.infomaniak.ch/rtds-128.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "SM Radio",
+       "url": "https://media14.ice.infomaniak.ch/media14-128.aac",
+       "tags": [
+        "pop_hits",
+        "sports",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Top Congo FM",
+       "url": "https://topcongofm2.ice.infomaniak.ch/topcongofm2-64.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "world",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "UB-FM",
+       "url": "http://s2.voscast.com:11280/",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "reggae_ska",
+        "decade_90s",
+        "decade_2000s"
+       ]
+      },
+      {
+       "name": "UDPSRADIO",
+       "url": "https://stream.zeno.fm/5fm8q327e8zuv",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "world"
+       ]
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Le Messager Du Peuple (rmp) radio",
+       "url": "https://stream.zeno.fm/zh6b4xttlautv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "reggae_ska": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Africa Online",
+       "url": "http://136.0.17.26:8000/stream.nsv",
+       "tags": [
+        "news_talk",
+        "reggae_ska",
+        "world",
+        "folk",
+        "latin"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "sports": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Urban FM",
+       "url": "https://edge.iono.fm/xice/138_medium.aac",
+       "tags": [
+        "sports",
+        "news_talk"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "world": {
+     "count": 6,
+     "stations": [
+      {
+       "name": "Interkinois Radio",
+       "url": "http://cast3.asurahosting.com:8428/live",
+       "tags": [
+        "world",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Pana Radio",
+       "url": "https://stream.zeno.fm/dnw3x5tqpc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "R2CFM Radio Congo Culture",
+       "url": "https://listen.radioking.com/radio/254017/stream/402961",
+       "tags": [
+        "world",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "R2CFM Radio Congo Culture",
+       "url": "http://listen.radioking.com/radio/254017/stream/298504",
+       "tags": [
+        "world",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "R2CFM Radio Congo Culture",
+       "url": "http://www.radioking.com/play/r2cfm",
+       "language_inferred": true
+      },
+      {
+       "name": "Simba FM",
+       "url": "https://stream.zeno.fm/ym4sfnybt7zuv",
+       "tags": [
+        "world",
+        "christian_gospel",
+        "news_talk"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 15,
+     "stations": [
+      {
+       "name": "Eby Radio",
+       "url": "https://rocket.streamradio.fr:8104/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Gomune Radio",
+       "url": "https://stream.zeno.fm/w1u7e84bs7zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hsd-One Radio",
+       "url": "https://www.radioking.com/play/hsd-one-radio1"
+      },
+      {
+       "name": "OCEAN FM GOMA – Mushie – Bandundu Province – DR Congo",
+       "url": "http://stream.zeno.fm/4n9cw794tk8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Ouragan FM radio",
+       "url": "https://radio.ouragan.cd/listen/ouragan/radio.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio RTSM",
+       "url": "https://stream.zeno.fm/am4m4acevnhvv"
+      },
+      {
+       "name": "Radio TAYNA",
+       "url": "https://stream.zeno.fm/ide8zzvajbcvv",
+       "language_inferred": true
+      },
+      {
+       "name": "RTNC 2 – Kinshasa – Kinshasa City – DR Congo",
+       "url": "http://radio.rtnc.cd:8010/radio.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "RTNC – 100.0 FM – Kinshasa – Kinshasa City – DR Congo",
+       "url": "http://radio.rtnc.cd:8000/radio.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "SBFMBROADCAST",
+       "url": "https://servidor27.brlogic.com:7190/live"
+      },
+      {
+       "name": "SN Radio, Goma",
+       "url": "https://stream.zeno.fm/99sw3kybt7zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "THEVIBE Gospel – Kinshasa – Kinshasa City – DR Congo",
+       "url": "http://tuneonehosting.com:8000/radio.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Virunga Business Radio Vbr fm",
+       "url": "https://stream.zeno.fm/pfcpzpc4lfeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Watoto Radio",
+       "url": "https://stream-47.zeno.fm/xwx18us91k8uv?zs=D6hP5IeET_CVAjQuCUtmkg?n=d9f2ceaaa71132288677",
+       "language_inferred": true
+      },
+      {
+       "name": "WATOTO RADIO – Kinshasa – Kinshasa City – DR Congo",
+       "url": "https://stream.zeno.fm/gxybfvs91k8uv",
+       "language_inferred": true
+      }
+     ]
+    }
+   }
+  },
+  "Italian": {
+   "count": 3,
+   "genres": {
+    "christian_gospel": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Maria DRC",
+       "url": "https://dreamsiteradiocp2.com/proxy/rmrepdemcongo?mp=/stream"
+      }
+     ]
+    },
+    "world": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio d'Autore - B-One FM",
+       "url": "https://stream2.xdevel.com/audio0s975356-56/stream/icecast.audio",
+       "tags": [
+        "world",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Belela",
+       "url": "https://stream3.xdevel.com/audio2s975388-102/stream/icecast.audio"
+      }
+     ]
+    }
+   }
+  },
+  "Swahili": {
+   "count": 2,
+   "genres": {
+    "christian_gospel": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Tzgospel Congo Drc",
+       "url": "https://stream.zeno.fm/swfn5pb4tchvv"
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Okapi",
+       "url": "https://stream.zeno.fm/y9y2bhvzs4zuv",
+       "tags": [
+        "news_talk",
+        "world",
+        "folk",
+        "pop_hits",
+        "latin",
+        "sports"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Tamil": {
+   "count": 1,
+   "genres": {
+    "oldies": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Tamil Panpalai Africa",
+       "url": "https://tamilpanpalai.radioca.st/afr",
+       "tags": [
+        "decade_1920s_50s",
+        "oldies",
+        "decade_90s",
+        "decade_80s",
+        "pop_hits",
+        "decade_60s",
+        "decade_70s"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "English": {
+   "count": 1,
+   "genres": {
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Ngoma",
+       "url": "https://african1paris.ice.infomaniak.ch/african1paris-64.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "folk",
+        "various_eclectic",
+        "electronic",
+        "easy_listening",
+        "decade_80s"
+       ]
+      }
+     ]
+    }
+   }
+  }
+ }
+}

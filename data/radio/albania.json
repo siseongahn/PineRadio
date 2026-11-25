@@ -1,0 +1,6346 @@
+{
+ "country": "Albania",
+ "count": 1074,
+ "languages": {
+  "Albanian": {
+   "count": 1029,
+   "genres": {
+    "alternative_indie": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "CityFM",
+       "url": "http://stereo.wavestreamer.com:2872/listen.m3u?sid=1",
+       "tags": [
+        "pop_hits",
+        "alternative_indie"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Positive Gold Alternative",
+       "url": "http://vps563086.ovh.net:7060/?1531865033372.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Koha",
+       "url": "http://radiokoha.radioca.st:9504/stream",
+       "tags": [
+        "pop_hits",
+        "alternative_indie"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Stacioni 105.4",
+       "url": "http://80.91.125.99:88/broadwave.mp3?rate=1&src=1"
+      }
+     ]
+    },
+    "ambient_relax": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Sophie Caffe Radio",
+       "url": "http://104.128.234.228:8000/",
+       "tags": [
+        "college_community",
+        "ambient_relax",
+        "latin"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "blues": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Positive Gold Blues",
+       "url": "http://vps563086.ovh.net:8010/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Positive Gold FM  Blues",
+       "url": "http://vps563086.ovh.net:8010/?1531864652967.mp3",
+       "language_inferred": true
+      }
+     ]
+    },
+    "chillout_lounge": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "CHILL ALBANIA",
+       "url": "https://streams.radiomast.io/346318d3-5312-4a69-8f80-64d75640fd35",
+       "tags": [
+        "chillout_lounge",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio DJ FM - Chillax",
+       "url": "http://play.dance.al:8010/radio.mp3",
+       "language_inferred": true
+      }
+     ]
+    },
+    "christian_gospel": {
+     "count": 20,
+     "stations": [
+      {
+       "name": "Alfa e Omega Radio",
+       "url": "http://cp13.shoutcheap.com:8094",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Radio 1",
+       "url": "http://audio.radio1.al:88/broadwavehigh.mp3?src=1&rate=1",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 1 (93.2 FM) radio",
+       "url": "http://audio.radio1.al:88/broadwavehigh.mp3?src=1\\u0026rate=1",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 1 Albania",
+       "url": "http://80.90.87.67:88/broadwavehigh.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 7",
+       "url": "http://cp1.sednastream.com:8013/live",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Radio 7 Albania",
+       "url": "https://cp1.sednastream.com/proxy/radio7albania?mp=/live",
+       "tags": [
+        "christian_gospel",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Radio Ahireti radio",
+       "url": "http://198.245.61.161:8008/index.htmlstream.nsv",
+       "tags": [
+        "christian_gospel",
+        "islamic_quran"
+       ]
+      },
+      {
+       "name": "Radio Emanuel",
+       "url": "http://185.221.253.173:7800/",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Radio Logos",
+       "url": "https://s2.stationplaylist.com:9280/listen.aac",
+       "tags": [
+        "christian_gospel",
+        "news_talk",
+        "ambient_relax"
+       ]
+      },
+      {
+       "name": "Radio Logos 94.2",
+       "url": "http://s2.stationplaylist.com:8240/",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "RADIO MARIA ALBANIA",
+       "url": "http://dreamsiteradiocp2.com:8028/stream",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Radio Maria Albania",
+       "url": "http://dreamsiteradiocp2.com:8028/stream.mp3"
+      },
+      {
+       "name": "Radio Maria Albania",
+       "url": "https://dreamsiteradiocp2.com/proxy/rmalbania2?mp=%2Fstream"
+      },
+      {
+       "name": "Radio Maria Albania 91.4 FM",
+       "url": "http://dreamsiteradiocp2.com:8028/"
+      },
+      {
+       "name": "Radio Maria Albania – Tirana – AL",
+       "url": "https://dreamsiteradioplayer.it/plrm/rmalbania/?pl=winamp&c=Radio%20Maria%20Albania",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO MARIA SHQIPTARE ALBANIA",
+       "url": "https://dreamsiteradiocp2.com/proxy/rmalbania2?mp=/stream.mp3"
+      },
+      {
+       "name": "Radio Ngjallja",
+       "url": "http://84.20.84.114:1234/radiongjallja"
+      },
+      {
+       "name": "Radio Ngjallja radio",
+       "url": "http://84.20.84.114:1234/radiongjallja%20type='audio/mpeg%20codecs=",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Thesaret radio",
+       "url": "https://stream.zeno.fm/ubzj8twgccstv",
+       "tags": [
+        "christian_gospel",
+        "islamic_quran"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "translation of the Quran in Albanian",
+       "url": "https://server3.quraan.us:8008/?n=2c926ac265a09f4c6e17"
+      }
+     ]
+    },
+    "classical": {
+     "count": 9,
+     "stations": [
+      {
+       "name": "A Better Radio",
+       "url": "https://listen.radionomy.com/a-better-70s-gold-hits-station?type=.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Club FM",
+       "url": "http://109.69.2.44:7500/stream.mp3",
+       "tags": [
+        "classical",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Positive Gold Picimuli",
+       "url": "http://vps563086.ovh.net:5000/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Koha",
+       "url": "http://perseus.shoutca.st:9504/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Tirana Klasik",
+       "url": "http://79.106.48.2:8000/radiotiranaklasik1",
+       "tags": [
+        "classical",
+        "opera"
+       ]
+      },
+      {
+       "name": "Radio-BLLACA",
+       "url": "https://stream.zeno.fm/0smrlmhdbxuuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio-MESHIRA",
+       "url": "http://stream.zeno.fm/ru8fmr02v7zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio-SARA",
+       "url": "http://stream.zeno.fm/rgpyrqanzhhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio-VIZBEGU",
+       "url": "http://stream.zeno.fm/8k3sh2wzm7zuv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "college_community": {
+     "count": 20,
+     "stations": [
+      {
+       "name": "asdfasf",
+       "url": "https://stream.zeno.fm/s1d8mtu1xv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "dededdvede",
+       "url": "https://stream.zeno.fm/teyc3r74dxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "ETV RADIO",
+       "url": "https://stream.zeno.fm/1x10znx57nhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "fgnrfgnbr",
+       "url": "https://stream.zeno.fm/vbe20rxktp8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Fresh Urban Radio",
+       "url": "https://stream.zeno.fm/aqmw5p59k48uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hej Tung",
+       "url": "https://stream.zeno.fm/ucd909gv34zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hermes",
+       "url": "https://stream.zeno.fm/m54sx425xnhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Jauauqj",
+       "url": "https://stream.zeno.fm/ng4scgpyvrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "kelvinho",
+       "url": "https://stream.zeno.fm/zmmwzy0tg98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "king race",
+       "url": "https://stream.zeno.fm/8shb4wzxvrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "La Porteña Cafe Radio",
+       "url": "https://stream.zeno.fm/bs95py0cbshvv",
+       "language_inferred": true
+      },
+      {
+       "name": "LeviYLT",
+       "url": "https://stream.zeno.fm/d7ucabtgr4muv",
+       "language_inferred": true
+      },
+      {
+       "name": "MCN Radio",
+       "url": "https://stream.zeno.fm/3f85rrqvp68uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Mu Lene Gamhsetus Alexaki",
+       "url": "https://stream.zeno.fm/9yk7z4445k0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Test",
+       "url": "https://stream.zeno.fm/fkhykrp13k8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "reneeeeeeeee",
+       "url": "https://stream.zeno.fm/047422c7098uv",
+       "language_inferred": true
+      },
+      {
+       "name": "renegggggg",
+       "url": "https://stream.zeno.fm/duvc2qc7098uv",
+       "language_inferred": true
+      },
+      {
+       "name": "rrahim",
+       "url": "https://stream.zeno.fm/0yaee98mrc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Siiixdyes",
+       "url": "https://stream.zeno.fm/wg3dtwtumg8vv",
+       "language_inferred": true
+      },
+      {
+       "name": "Yeicol flow",
+       "url": "https://stream.zeno.fm/7guv6pfmffhvv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "comedy": {
+     "count": 15,
+     "stations": [
+      {
+       "name": "A M Rajah 1",
+       "url": "https://stream.zeno.fm/1cmnk1u3138uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Dibdibdidbdidbdudbdu",
+       "url": "https://stream.zeno.fm/07v3rpma6uhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "dvor sti2222",
+       "url": "https://stream.zeno.fm/hz8f35qzk0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "fortnitebattlepass",
+       "url": "https://stream.zeno.fm/rc7sqvyfbkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "funkzin",
+       "url": "https://stream.zeno.fm/59w2rdm34c9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hungria",
+       "url": "https://stream.zeno.fm/yudg7vdznv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "lnnisfail old",
+       "url": "https://stream.zeno.fm/ijkxlt33segvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Los Et",
+       "url": "https://stream.zeno.fm/pdyy5tf4v0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Patergame",
+       "url": "https://stream.zeno.fm/8bwu4x5fqchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Patatja",
+       "url": "https://stream.zeno.fm/ta5cq78mvzzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radiolumi",
+       "url": "https://stream.zeno.fm/rk2davykffhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Rescue Me",
+       "url": "https://stream.zeno.fm/0187z5n3w0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Theonlykeli",
+       "url": "https://stream.zeno.fm/vz1m9073098uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Urls calle",
+       "url": "https://stream.zeno.fm/9u9uc3upzhhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Zamowienie",
+       "url": "https://stream.zeno.fm/6y41e08a5v8uv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "country": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Triple Radio",
+       "url": "https://listen.radionomy.com/tripleradio",
+       "language_inferred": true
+      }
+     ]
+    },
+    "decade_80s": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Positive Gold FM  80s",
+       "url": "http://vps563086.ovh.net:4000/?1531864428813.mp3",
+       "language_inferred": true
+      }
+     ]
+    },
+    "decade_90s": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Positive Gold 90s",
+       "url": "http://vps563086.ovh.net:4020/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Positive Gold FM  90s",
+       "url": "http://vps563086.ovh.net:4020/?1531852168546.mp3",
+       "language_inferred": true
+      }
+     ]
+    },
+    "disco_eurodance": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Radio Lushnja 95.5",
+       "url": "http://radio.albcast.pro:8070/radio.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Zeri i Mitrovices",
+       "url": "http://198.154.106.101:8110/",
+       "tags": [
+        "classical",
+        "disco_eurodance"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 17,
+     "stations": [
+      {
+       "name": "Alsion Radio",
+       "url": "http://108.59.11.81:2199/listen.php?port=10051\\u0026type=s1",
+       "language_inferred": true
+      },
+      {
+       "name": "AMC Love Radio",
+       "url": "http://95.107.173.168:6200/*.mp3",
+       "tags": [
+        "pop_hits",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Club FM Shqipëri",
+       "url": "http://cp1.sednastream.com:8014/stream/",
+       "tags": [
+        "easy_listening",
+        "oldies"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "ClubFM",
+       "url": "http://109.69.2.44:7500",
+       "language_inferred": true
+      },
+      {
+       "name": "Dukagjini Love Radio",
+       "url": "http://s2.voscast.com:8828",
+       "tags": [
+        "easy_listening",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Love Radio",
+       "url": "https://antena.albaniadigitalradio.al/loveradio",
+       "tags": [
+        "easy_listening",
+        "oldies",
+        "pop_hits",
+        "various_eclectic",
+        "soundtrack"
+       ]
+      },
+      {
+       "name": "Love Radio 90.7",
+       "url": "http://95.107.173.168:6200/stream/1/",
+       "language_inferred": true
+      },
+      {
+       "name": "NRG Energy Radio",
+       "url": "https://streamdb7web.securenetsystems.net/cirrusencore/AL09",
+       "tags": [
+        "easy_listening",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "NRG Energy Radio",
+       "url": "https://ice31.securenetsystems.net/AL09?playSessionID=9EFB1C2B-08B8-5C58-9E8D4F0B6E09CC29"
+      },
+      {
+       "name": "Radio Dashuria",
+       "url": "https://www.radioking.com/play/radiodashuria1",
+       "tags": [
+        "pop_hits",
+        "easy_listening",
+        "rock"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio DHW1 - Deine Heimatwelle Listen live",
+       "url": "https://c2.radioboss.fm:18051/server",
+       "tags": [
+        "schlager_polka",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Positive Gold FM  Love",
+       "url": "http://vps563086.ovh.net:4080/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Travel",
+       "url": "http://93.190.141.15:7253/live",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Travel 104.6",
+       "url": "http://213.207.46.252:8000/live"
+      },
+      {
+       "name": "Radio Travel radio",
+       "url": "https://cp1.sednastream.com/proxy/radiotravel?mp=/stream",
+       "tags": [
+        "easy_listening",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Sophie Caffe   Radio",
+       "url": "https://sophie1.skylineserver.com/.mp3",
+       "tags": [
+        "easy_listening",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Sophie Caffe Radio",
+       "url": "http://sophiecafferadio.live/sophie.mp3",
+       "language_inferred": true
+      }
+     ]
+    },
+    "electronic": {
+     "count": 20,
+     "stations": [
+      {
+       "name": "Antena 1 Radio",
+       "url": "https://s3.free-shoutcast.com/stream/18042",
+       "tags": [
+        "electronic",
+        "decade_90s"
+       ]
+      },
+      {
+       "name": "City FM 93.8 radio",
+       "url": "http://stereo.wavestreamer.com:2872/Live/",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Club FM",
+       "url": "https://cp1.sednastream.com/proxy/clubfm?mp=/stream",
+       "tags": [
+        "pop_hits",
+        "electronic",
+        "easy_listening",
+        "news_talk",
+        "classical",
+        "oldies",
+        "house"
+       ]
+      },
+      {
+       "name": "Club FM",
+       "url": "https://cp1.sednastream.com/proxy/clubfm?mp=%2Fstream",
+       "tags": [
+        "electronic",
+        "easy_listening",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Divan Radio",
+       "url": "http://play.divanradio.com:8000/stream"
+      },
+      {
+       "name": "Plipki Radio",
+       "url": "https://listen.radioking.com/radio/357457/stream/406864",
+       "tags": [
+        "electronic",
+        "house",
+        "techno",
+        "pop_hits",
+        "disco_eurodance"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Prive Radio",
+       "url": "http://stream.priveradio.com",
+       "tags": [
+        "pop_hits",
+        "electronic",
+        "classical",
+        "house",
+        "drum_and_bass",
+        "kids",
+        "world",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Arta",
+       "url": "http://173.192.207.51:8086",
+       "tags": [
+        "pop_hits",
+        "world",
+        "electronic"
+       ]
+      },
+      {
+       "name": "Radio Dee-Jay",
+       "url": "http://80.78.76.171:6500/"
+      },
+      {
+       "name": "RADIO DJ 98.2",
+       "url": "https://antena.albaniadigitalradio.al/radiodj",
+       "tags": [
+        "electronic",
+        "house",
+        "pop_hits",
+        "reggae_ska"
+       ]
+      },
+      {
+       "name": "RADIO DJ 98.2 FM",
+       "url": "http://95.107.173.168:6500/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio DJ FM",
+       "url": "http://srv1.dance.al:8377/stream",
+       "tags": [
+        "pop_hits",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio EnergyFM",
+       "url": "https://live.energyfm.al:8260/stream"
+      },
+      {
+       "name": "Radio One Albania",
+       "url": "https://cp1.sednastream.com/proxy/radioone94?mp=/stream",
+       "tags": [
+        "pop_hits",
+        "electronic",
+        "news_talk",
+        "hip_hop_rap"
+       ]
+      },
+      {
+       "name": "Radio Projekti 21",
+       "url": "http://64.150.176.42:8178/stream",
+       "tags": [
+        "electronic",
+        "hip_hop_rap",
+        "house",
+        "news_talk",
+        "college_community",
+        "world"
+       ]
+      },
+      {
+       "name": "Radio Ra",
+       "url": "http://shqiponjat.al:8000",
+       "tags": [
+        "electronic",
+        "pop_hits",
+        "soul_rnb_funk",
+        "decade_70s",
+        "decade_60s",
+        "decade_80s"
+       ]
+      },
+      {
+       "name": "Radio Tirana 2",
+       "url": "http://79.106.48.2:8000/radiotirana2",
+       "tags": [
+        "electronic",
+        "hip_hop_rap",
+        "house",
+        "world",
+        "soul_rnb_funk",
+        "reggae_ska",
+        "college_community",
+        "news_talk",
+        "latin",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Si Radio",
+       "url": "http://player.siradio.al:8000/fresh",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Si Radio - Fresh",
+       "url": "https://mpc4.mediacp.eu:8000/fresh",
+       "tags": [
+        "electronic",
+        "pop_hits",
+        "soul_rnb_funk",
+        "latin",
+        "folk",
+        "hip_hop_rap",
+        "reggae_ska"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Si Radio Listen live",
+       "url": "https://n01.radiojar.com/92as3vsdfwzuv",
+       "tags": [
+        "islamic_quran",
+        "christian_gospel",
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "folk": {
+     "count": 23,
+     "stations": [
+      {
+       "name": "Club FM (Albania) Radio",
+       "url": "https://stream.pcradio.ru/rad_clbfml-med",
+       "tags": [
+        "electronic",
+        "folk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Love Radio Digital",
+       "url": "https://stream.pcradio.ru/rad_albnlvrdio-med",
+       "tags": [
+        "folk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Positive Gold Ciftelia",
+       "url": "http://vps563086.ovh.net:4060/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio abrati",
+       "url": "http://46.4.104.253:9988/",
+       "tags": [
+        "pop_hits",
+        "folk"
+       ]
+      },
+      {
+       "name": "Radio Dedi24 radio",
+       "url": "http://radiodedi24.com:8000/?.mp3",
+       "tags": [
+        "pop_hits",
+        "folk"
+       ]
+      },
+      {
+       "name": "Radio Koha",
+       "url": "http://perseus.shoutca.st:9504/stream",
+       "tags": [
+        "folk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Kontakt",
+       "url": "http://84.20.83.24:88/broadwavehigh.mp3",
+       "tags": [
+        "pop_hits",
+        "folk",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Radio Kontakt",
+       "url": "http://46.252.34.91:88/broadwavehigh.mp3?src=1"
+      },
+      {
+       "name": "Radio Liria",
+       "url": "http://46.4.104.253:9998/",
+       "tags": [
+        "folk",
+        "news_talk",
+        "islamic_quran"
+       ]
+      },
+      {
+       "name": "Radio Marimanga",
+       "url": "https://s11.ssl-stream.com/ssl/marimanga?mp=/stream",
+       "tags": [
+        "pop_hits",
+        "folk"
+       ]
+      },
+      {
+       "name": "Radio Marimanga",
+       "url": "http://s11.ssl-stream.com:8022/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Marimanga Danimarke",
+       "url": "http://91.82.85.71:9084",
+       "tags": [
+        "folk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Myzeqeja",
+       "url": "http://213.239.218.99:7108/stream.mp3",
+       "tags": [
+        "folk",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Natyra radio",
+       "url": "https://mars.streamerr.co/8266/stream",
+       "tags": [
+        "folk",
+        "pop_hits",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Rainca",
+       "url": "https://radiocast.ch/9000/",
+       "tags": [
+        "folk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Viciana",
+       "url": "http://viciana.no-ip.org:8010/",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "folk"
+       ]
+      },
+      {
+       "name": "Radio Viciana Folk",
+       "url": "http://radioviciana.org:8020/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Zemra",
+       "url": "http://degjo.zemra.org:8000/",
+       "tags": [
+        "folk",
+        "world"
+       ]
+      },
+      {
+       "name": "Radio Zeri i Arberit",
+       "url": "http://206.190.150.92:8210"
+      },
+      {
+       "name": "Radio ÇABRATI",
+       "url": "https://www.liveradio.es/http://46.4.104.253:9988/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio-Alba.com",
+       "url": "http://streaming.jusahost.com:9222/",
+       "tags": [
+        "folk",
+        "pop_hits",
+        "rock"
+       ]
+      },
+      {
+       "name": "Radio-SHKUPI 1",
+       "url": "http://stream.zeno.fm/su006pnzm7zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Top Albania Radio",
+       "url": "https://stream.pcradio.ru/rad_tplbnrd-med",
+       "tags": [
+        "folk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "hip_hop_rap": {
+     "count": 5,
+     "stations": [
+      {
+       "name": "Alsion Radio",
+       "url": "http://109.169.26.216:8018",
+       "tags": [
+        "pop_hits",
+        "hip_hop_rap",
+        "house"
+       ]
+      },
+      {
+       "name": "Intradio radio",
+       "url": "https://stream.zeno.fm/z61vrp6rmd0uv",
+       "tags": [
+        "hip_hop_rap",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio One Albania",
+       "url": "https://cp1.sednastream.com/proxy/radioone94?mp=%2Fstream",
+       "tags": [
+        "hip_hop_rap",
+        "disco_eurodance",
+        "electronic"
+       ]
+      },
+      {
+       "name": "Radio Positive Gold FM  Urban",
+       "url": "http://vps563086.ovh.net:5020/?1531865105640.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Zemra – AL",
+       "url": "http://85.215.168.56:8000/zemra",
+       "language_inferred": true
+      }
+     ]
+    },
+    "house": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "Alpo Radio Listen live",
+       "url": "https://62.210.24.124:8379/stream.mp3",
+       "tags": [
+        "pop_hits",
+        "house"
+       ]
+      },
+      {
+       "name": "Cmendina Radio",
+       "url": "https://streamingv2.shoutcast.com/cmendina-radio",
+       "tags": [
+        "house",
+        "electronic",
+        "chillout_lounge",
+        "easy_listening",
+        "hip_hop_rap"
+       ]
+      },
+      {
+       "name": "FreeSHOUTCAST AutoDJ",
+       "url": "http://eu8.fastcast4u.com:21599/stream",
+       "tags": [
+        "house",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Si Radio",
+       "url": "https://stream.radiojar.com/4hytaxm0bg0uv",
+       "tags": [
+        "electronic",
+        "house",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "islamic_quran": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "Radio Ahireti",
+       "url": "http://31.220.29.99:8008/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Dituria Islame",
+       "url": "http://151.80.44.127:8680/"
+      },
+      {
+       "name": "Radio Pendimi Live Kanali-1 radio",
+       "url": "http://85.93.88.146:8014/",
+       "tags": [
+        "islamic_quran",
+        "news_talk",
+        "christian_gospel"
+       ]
+      },
+      {
+       "name": "Radio Pendimi – Kanali 2",
+       "url": "http://rtvpendimi.com:8020/stream",
+       "tags": [
+        "islamic_quran",
+        "christian_gospel",
+        "news_talk"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "jazz": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Radio Tirana Jazz",
+       "url": "http://79.106.48.2:8000/radiotiranajazz",
+       "tags": [
+        "jazz",
+        "soul_rnb_funk",
+        "smooth_jazz"
+       ]
+      },
+      {
+       "name": "Tirana Jazz Radio",
+       "url": "http://live.tiranajazzradio.com:8000/stream",
+       "tags": [
+        "jazz",
+        "smooth_jazz"
+       ]
+      }
+     ]
+    },
+    "kids": {
+     "count": 10,
+     "stations": [
+      {
+       "name": "Albanian Baby Radio",
+       "url": "https://stream.zeno.fm/d6v0xkba04zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Albion radio",
+       "url": "https://stream.zeno.fm/komnxnf625btv",
+       "language_inferred": true
+      },
+      {
+       "name": "Bandabeijafuantaress",
+       "url": "https://stream.zeno.fm/dqawzbrfiapvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Eldis Mustafaj",
+       "url": "https://stream.zeno.fm/za70hdn97nhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "fffffffffffffffffffffffffffff",
+       "url": "https://stream.zeno.fm/mmtpemzcqs8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "fm nogoya",
+       "url": "https://stream.zeno.fm/obgk2dthaastv",
+       "language_inferred": true
+      },
+      {
+       "name": "Levis wall bonne boy",
+       "url": "https://stream.zeno.fm/nnsm98kn5ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "PLAY LULLABY",
+       "url": "https://stream.zeno.fm/68tp87642k8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "radio sur rodriguez",
+       "url": "https://stream.zeno.fm/czyan042wuhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Tirana Femije",
+       "url": "http://79.106.48.2:8000/radiotiranafemije"
+      }
+     ]
+    },
+    "metal": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Radio Klea Listen live",
+       "url": "https://freeuk11.listen2myradio.com/live.mp3?typeportmount=s2_7742_stream_483135850",
+       "tags": [
+        "metal",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio7",
+       "url": "http://93.190.141.15:7025/live",
+       "language_inferred": true
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 31,
+     "stations": [
+      {
+       "name": "Albion",
+       "url": "http://streaming.radionomy.com/Albion",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Alfa e Omega Radio Listen live",
+       "url": "https://cp11.shoutcheap.com:8037/",
+       "tags": [
+        "news_talk",
+        "various_eclectic",
+        "pop_hits",
+        "christian_gospel"
+       ]
+      },
+      {
+       "name": "Alpo Radio",
+       "url": "https://cast.az-streamingserver.com/proxy/jjayjtzm?mp=/stream",
+       "tags": [
+        "pop_hits",
+        "various_eclectic",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Alpo Radio",
+       "url": "http://62.210.24.124:8379/stream/",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Burimi Jetes radio",
+       "url": "http://46.4.104.253:9996/",
+       "tags": [
+        "news_talk",
+        "christian_gospel",
+        "islamic_quran"
+       ]
+      },
+      {
+       "name": "Radio 1 Albania",
+       "url": "https://video.radio1.al/broadwavehigh.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Dardania",
+       "url": "http://94.23.52.95:4000/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Dielli",
+       "url": "http://212.24.109.1:8090/stream/",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "rock",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Radio Dielli",
+       "url": "https://radiodielli.synology.me/radio/8000/radio.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "rock"
+       ]
+      },
+      {
+       "name": "Radio Dukagjini",
+       "url": "http://198.178.123.17:8824/",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Radio Emigranti",
+       "url": "http://www.radioemigranti.com:8000/radioauto64",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio EuroStar FM",
+       "url": "http://radioeurostar.al:9000",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "soul_rnb_funk"
+       ]
+      },
+      {
+       "name": "Radio Gjakova",
+       "url": "http://37.26.69.30:8080",
+       "tags": [
+        "news_talk",
+        "world",
+        "sports",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Radio Jehona",
+       "url": "https://stream.iradio.pro/proxy/radiojehona?mp=/1",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Klea",
+       "url": "http://us1freenew.listen2myradio.com:36190/stream.nsv",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Maria 91.4 FM radio",
+       "url": "https://dreamsiteradiocp2.com/proxy/rmalbania2?mp=/stream.mp3?ver=118223",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Maria Albania",
+       "url": "https://crs.webdesign-flash.ro/?q=http://149.202.69.190:8028/stream/&plugin_id=7628&site_id=8520577",
+       "tags": [
+        "news_talk",
+        "christian_gospel"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Maria Albania 91.4 FM",
+       "url": "http://dreamsiteradiocp2.com:8028/stream/1",
+       "bitrate": 48,
+       "logo": "http://radio.pervii.com/im/1/1561785791.jpg"
+      },
+      {
+       "name": "Radio Pendimi Kanali 2",
+       "url": "http://rtvpendimi.com:8020/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Saranda",
+       "url": "http://109.169.23.95:36900/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Sarandë",
+       "url": "http://freeuk23.listen2myradio.com:10276/stream.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Shipkovica radio",
+       "url": "http://orion.shoutca.st:8625/",
+       "tags": [
+        "news_talk",
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Sol",
+       "url": "https://az1.sednastream.com/radio/8160/radio.mp3",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "classical"
+       ]
+      },
+      {
+       "name": "Radio Spektrum 96.4 FM",
+       "url": "http://92.119.237.186:88/broadwavehigh.mp3",
+       "tags": [
+        "news_talk",
+        "various_eclectic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Tirana 1 radio",
+       "url": "https://radiolive.rtsh.dev/radiotirana1",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Tirana International",
+       "url": "https://radiolive.rtsh.dev/rti",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Viciana",
+       "url": "http://radioviciana.org:8000/",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "college_community",
+        "folk"
+       ]
+      },
+      {
+       "name": "Radio Zeri",
+       "url": "http://174.36.206.197:8038/",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "RTSH – Radio Tirana 1",
+       "url": "http://149.202.220.47:8888/radiotirana1",
+       "language_inferred": true
+      },
+      {
+       "name": "RTSH – Radio Tirana Internacional",
+       "url": "http://79.106.48.2:8000/rti",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Top Albania Radio",
+       "url": "http://91.132.172.98:80/tar",
+       "tags": [
+        "news_talk",
+        "sports"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "oldies": {
+     "count": 10,
+     "stations": [
+      {
+       "name": "Club FM",
+       "url": "https://cp1.sednastream.com/proxy/clubfm?mp=%2F%3Bstream.mp3&_=",
+       "tags": [
+        "oldies",
+        "pop_hits",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Club FM 100.4",
+       "url": "https://cp1.sednastream.com/proxy/clubfm?mp=/stream.mp3",
+       "tags": [
+        "pop_hits",
+        "oldies",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Radio Emigranti",
+       "url": "http://www.radioemigranti.com:8000/radio64k"
+      },
+      {
+       "name": "Radio Emigranti – Tirana – AL",
+       "url": "http://www.radioemigranti.com:8000/radio64k.m3u",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Nostalgjia",
+       "url": "http://janus.shoutca.st:8318/radionostalgjia",
+       "tags": [
+        "oldies",
+        "pop_hits",
+        "soul_rnb_funk",
+        "rock"
+       ]
+      },
+      {
+       "name": "Radio Nostalgjia",
+       "url": "http://144.217.203.184:8318/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Nostalgjia radio",
+       "url": "https://radionos.radioca.st/stream.nsv",
+       "tags": [
+        "oldies",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Oda",
+       "url": "https://listen.radionomy.com/radio-oda",
+       "language_inferred": true
+      },
+      {
+       "name": "Top Gold",
+       "url": "http://live.topgold.al:9080/",
+       "tags": [
+        "oldies",
+        "world"
+       ]
+      },
+      {
+       "name": "Vip FM",
+       "url": "http://eu3.fastcast4u.com:5334/",
+       "tags": [
+        "pop_hits",
+        "oldies"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 49,
+     "stations": [
+      {
+       "name": "93 Fm",
+       "url": "https://stream.zeno.fm/g41127628nhvv"
+      },
+      {
+       "name": "Alpo Radio",
+       "url": "https://cp1.sednastream.com/proxy/alporadio/stream",
+       "tags": [
+        "pop_hits",
+        "various_eclectic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Alpo Radio",
+       "url": "http://shoutcastradiostreaming.com:7000/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Alpo Radio 94.1 FM",
+       "url": "http://62.210.24.124:8379/"
+      },
+      {
+       "name": "Antena 902 FM",
+       "url": "http://s38.myradiostream.com:8598/listen.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "City FM",
+       "url": "http://206.190.136.141:2872/Live"
+      },
+      {
+       "name": "City Radio 88.0 FM",
+       "url": "https://cp1.sednastream.com/proxy/cityradio?mp=/stream",
+       "tags": [
+        "pop_hits",
+        "electronic",
+        "house",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "City Radio Albania",
+       "url": "http://93.190.141.15:7368/"
+      },
+      {
+       "name": "Dardania Hit Radio",
+       "url": "http://s2.voscast.com:8824/"
+      },
+      {
+       "name": "Divan Radio",
+       "url": "http://79.106.161.175:8000/stream",
+       "tags": [
+        "pop_hits",
+        "house",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Kiss FM Albania",
+       "url": "https://stream.kissfm.com.al:8000/stream"
+      },
+      {
+       "name": "Love Radio",
+       "url": "http://80.78.76.171:6200/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "LS Radio",
+       "url": "http://live.lspublic.com:27022/stream.mp3",
+       "tags": [
+        "pop_hits",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "MCN Radio",
+       "url": "http://46.183.121.48:8000/mcn",
+       "tags": [
+        "pop_hits",
+        "hip_hop_rap",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "MCN Radio",
+       "url": "http://149.202.220.47:8888/mcnradio",
+       "tags": [
+        "pop_hits",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Melodi Zemre",
+       "url": "https://node-04.zeno.fm/m1p123fqwtzuv.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "My Music Radio",
+       "url": "https://live.top-media.al/mmr"
+      },
+      {
+       "name": "One Fm Radio",
+       "url": "http://87.117.201.162:8110"
+      },
+      {
+       "name": "Pick Up",
+       "url": "https://node-11.zeno.fm/kb3ehkzpgg0uv.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "Play Radio Albania",
+       "url": "https://stream.radiojar.com/sx7zrht0pg0uv",
+       "tags": [
+        "pop_hits",
+        "various_eclectic",
+        "world",
+        "electronic",
+        "kids",
+        "decade_90s"
+       ]
+      },
+      {
+       "name": "Radio Dardania",
+       "url": "http://radio.radiodardania.com:4000",
+       "tags": [
+        "pop_hits",
+        "soul_rnb_funk",
+        "news_talk",
+        "folk",
+        "world",
+        "rock",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Radio Dedi 24",
+       "url": "http://radiodedi24.com:8000/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Drenasi",
+       "url": "http://85.25.108.39:8010/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Eagle",
+       "url": "http://fg3.sad.ukrd.com/eagle?rp=3.0.4&ampflash=1&ampts=1466329279",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Eagle",
+       "url": "http://fg3.sad.ukrd.com/eagle?rp=3.0.4&flash=1&ts=1466329279",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Emigranti - Internet only",
+       "url": "https://www.liveradio.es/http://www.radioemigranti.com:8000/radio",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Genti",
+       "url": "https://node-24.zeno.fm/sm20v9e362quv.aac?rj-ttl=5&amprj-tok=AAABbt-URNMAm8TCpVcJc3CzzA",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Ilirida",
+       "url": "http://89.163.227.241:8053/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Jug",
+       "url": "http://84.20.77.50:8000/"
+      },
+      {
+       "name": "Radio Koha",
+       "url": "https://radiokoha.radioca.st/stream",
+       "tags": [
+        "pop_hits",
+        "alternative_indie",
+        "rock"
+       ]
+      },
+      {
+       "name": "Radio Melodia Shqip",
+       "url": "http://5.135.154.66:37680/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Nostalgjia",
+       "url": "http://144.217.203.184:8318/radionostalgjia",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio NRG",
+       "url": "https://ice31.securenetsystems.net/AL09",
+       "tags": [
+        "pop_hits",
+        "electronic"
+       ]
+      },
+      {
+       "name": "Radio One",
+       "url": "https://cp1.sednastream.com/proxy/radioone94?mp=/stream/",
+       "tags": [
+        "pop_hits",
+        "alternative_indie"
+       ]
+      },
+      {
+       "name": "Radio Positive Gold FM  Hits",
+       "url": "http://vps563086.ovh.net:6060/?1531865870198.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Rainca",
+       "url": "https://radiocast.ch/8000/",
+       "tags": [
+        "pop_hits",
+        "folk"
+       ]
+      },
+      {
+       "name": "Radio Rainca",
+       "url": "http://radiorainca.com:8000/?.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Shqip",
+       "url": "https://cp1.sednastream.com/proxy/radioshqip?mp=/stream",
+       "tags": [
+        "pop_hits",
+        "alternative_indie",
+        "oldies",
+        "easy_listening",
+        "rock"
+       ]
+      },
+      {
+       "name": "Radio Shqip",
+       "url": "https://cp1.sednastream.com/proxy/radioshqip?mp=%2F%3Bstream.mp3&amp_=1"
+      },
+      {
+       "name": "Radio Shqip",
+       "url": "http://cp1.sednastream.com/proxy/radioshqip"
+      },
+      {
+       "name": "Radio Tirana 2 95.8 FM",
+       "url": "http://149.202.220.47:8888/radiotirana2"
+      },
+      {
+       "name": "Radio Travel",
+       "url": "http://84.16.241.205:8010/stream"
+      },
+      {
+       "name": "Radio Vala Rinore",
+       "url": "http://84.22.46.10:8000/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Vicianum",
+       "url": "http://82.114.92.134:8000/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Richard Darby Internet Radio",
+       "url": "http://listen.samcloud.com/w/112796/Richard-Darby-Internet-Radio/?play=y#history",
+       "language_inferred": true
+      },
+      {
+       "name": "The Vibe",
+       "url": "http://87.117.201.162:8070"
+      },
+      {
+       "name": "Top Albania Radio",
+       "url": "https://live.top-media.al/tar",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "sports",
+        "rock",
+        "hip_hop_rap"
+       ]
+      },
+      {
+       "name": "Top Albania Radio",
+       "url": "http://cp1.sednastream.com:8004/"
+      },
+      {
+       "name": "Top Albania Radio",
+       "url": "http://tar.stream.dev.al:9078/stream.mp3",
+       "language_inferred": true
+      }
+     ]
+    },
+    "rock": {
+     "count": 16,
+     "stations": [
+      {
+       "name": "Big FM 101.6",
+       "url": "http://46.252.33.58:9310/",
+       "tags": [
+        "rock",
+        "metal"
+       ]
+      },
+      {
+       "name": "City Radio Albania",
+       "url": "http://cp1.sednastream.com:8044/stream/",
+       "language_inferred": true
+      },
+      {
+       "name": "Dukagjini Shqip Radio",
+       "url": "http://s2.voscast.com:8826",
+       "tags": [
+        "pop_hits",
+        "rock"
+       ]
+      },
+      {
+       "name": "Pri Radio",
+       "url": "http://cast3.my-control-panel.com:7308/stream",
+       "tags": [
+        "rock",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 7 Albania",
+       "url": "http://cp6.serverse.com:7025/live"
+      },
+      {
+       "name": "Radio Dardania radio",
+       "url": "http://radio.radiodardania.com:4000/stream/1/",
+       "tags": [
+        "rock",
+        "pop_hits",
+        "soul_rnb_funk",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Dashuria",
+       "url": "https://listen.radioking.com/radio/465815/stream/521297",
+       "tags": [
+        "rock",
+        "pop_hits",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Radio Dukagini radio",
+       "url": "https://s2.voscast.com:8825/radiodukagjini",
+       "tags": [
+        "rock",
+        "pop_hits",
+        "news_talk",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Radio Lushnja",
+       "url": "https://stream.radiolushnja.al/listen/radio_lushnja/radio.mp3",
+       "tags": [
+        "rock",
+        "folk",
+        "pop_hits",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Radio Lushnja",
+       "url": "http://45.77.54.151:8000/",
+       "tags": [
+        "pop_hits",
+        "folk",
+        "rock"
+       ]
+      },
+      {
+       "name": "Radio Lushnja",
+       "url": "https://radiolushnja.al/live/",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Mi",
+       "url": "https://streamingv2.shoutcast.com/radio-mi-online",
+       "tags": [
+        "rock",
+        "electronic",
+        "alternative_indie"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Shqip",
+       "url": "https://stream.pcradio.ru/rad_shqpfml-med",
+       "tags": [
+        "rock",
+        "easy_listening",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Tirana 2 95.8",
+       "url": "https://radiolive.rtsh.dev/radiotirana2",
+       "tags": [
+        "rock",
+        "folk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Travel",
+       "url": "http://cp1.sednastream.com:8050/stream/",
+       "tags": [
+        "rock",
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Top Gold",
+       "url": "https://live.topgold.al/topgold",
+       "tags": [
+        "rock",
+        "pop_hits",
+        "soul_rnb_funk",
+        "oldies",
+        "classical",
+        "world"
+       ]
+      }
+     ]
+    },
+    "soul_rnb_funk": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Radio Mergimi",
+       "url": "http://144.76.33.185:8000/music.mp3",
+       "tags": [
+        "pop_hits",
+        "folk",
+        "soul_rnb_funk",
+        "reggae_ska",
+        "electronic",
+        "hip_hop_rap"
+       ]
+      },
+      {
+       "name": "Radio One Albania",
+       "url": "https://stream.pcradio.ru/rad_rdnal-med",
+       "tags": [
+        "soul_rnb_funk",
+        "easy_listening",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Vala Rinore",
+       "url": "http://ca3.rcast.net:8024/stream",
+       "tags": [
+        "soul_rnb_funk",
+        "pop_hits",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "sports": {
+     "count": 5,
+     "stations": [
+      {
+       "name": "CITY FITNESS CLUB RADIO",
+       "url": "https://stream.zeno.fm/50ptbd5knkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "hihihi",
+       "url": "https://stream.zeno.fm/gy9nbp4vp0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "jhguyguh",
+       "url": "https://stream.zeno.fm/g000ay6ebchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "LoopsEstereo",
+       "url": "https://stream.zeno.fm/hft0h4c42hhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "xxxxxbbbbb",
+       "url": "https://stream.zeno.fm/wyds9cet498uv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "techno": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Top Albanian Radio",
+       "url": "http://tar.stream.dev.al:9078/",
+       "language_inferred": true
+      }
+     ]
+    },
+    "various_eclectic": {
+     "count": 5,
+     "stations": [
+      {
+       "name": "Dukagjini Shqip Radio",
+       "url": "https://s1.voscast.com:11605/shqipradio",
+       "language_inferred": true
+      },
+      {
+       "name": "IN Radio 105.7",
+       "url": "http://80.90.86.196:8000/inradio.ogg",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Alba",
+       "url": "http://streaming.jusahost.com:9222/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO CHILL ALBANIA",
+       "url": "https://streams.radiomast.io/346318d3-5312-4a69-8f80-64d75640fd35?disc=thenonstopradio.com"
+      },
+      {
+       "name": "Radio Dielli",
+       "url": "http://212.24.109.1:8090/"
+      }
+     ]
+    },
+    "world": {
+     "count": 10,
+     "stations": [
+      {
+       "name": "Black Star Friends",
+       "url": "https://stream2-alfacast-hosting.com/8092/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Klan Kosova FM",
+       "url": "https://s4.radio.co/sd1d1904dc/listen",
+       "tags": [
+        "world",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Emigranti",
+       "url": "http://www.radioemigranti.com:8000/radio128k"
+      },
+      {
+       "name": "Radio Emigranti radio",
+       "url": "http://www.radioemigranti.com:8000/radio",
+       "tags": [
+        "world",
+        "oldies",
+        "folk",
+        "electronic"
+       ]
+      },
+      {
+       "name": "Radio Evropa e Lirë / Evropaelire.org",
+       "url": "http://rfe-channel-16.akacast.akamaistream.net/7/366/229666/v1/ibb.akacast.akamaistream.net/rfe_channel_16.mp3",
+       "tags": [
+        "world",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Radio KFOR",
+       "url": "http://fm.radiokfor.com:8080/stream",
+       "tags": [
+        "pop_hits",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Mergimi",
+       "url": "https://radiocast.ch/8006/",
+       "tags": [
+        "world",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Mergimi",
+       "url": "http://144.76.33.185:8000",
+       "tags": [
+        "world",
+        "country",
+        "various_eclectic",
+        "folk"
+       ]
+      },
+      {
+       "name": "Radio Rainca",
+       "url": "http://radiorainca.net:8000/"
+      },
+      {
+       "name": "Radio Tirana 1",
+       "url": "http://79.106.48.2:8000/radiotirana1",
+       "tags": [
+        "news_talk",
+        "world",
+        "various_eclectic"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 733,
+     "stations": [
+      {
+       "name": "(ONLINE IZLE) Umraniyespor İstanbul Basaksehir canlı izle yayın M5KP0",
+       "url": "https://stream.zeno.fm/hf0cvbcvhztvv",
+       "language_inferred": true
+      },
+      {
+       "name": ".aaaaa",
+       "url": "https://stream.zeno.fm/3chqff10kc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "038 FM Radio",
+       "url": "https://stream.zeno.fm/2ametcgazy8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "06 radio",
+       "url": "https://stream.zeno.fm/07x7smw5h18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "12RADIOOAXACA12",
+       "url": "https://stream.zeno.fm/m0e6upd2238uv",
+       "language_inferred": true
+      },
+      {
+       "name": "1dolk lluksi",
+       "url": "https://stream.zeno.fm/mvqmqp73sxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "1HR ZR - Oliver Community",
+       "url": "https://stream.zeno.fm/ctq2wkn24bhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "321213",
+       "url": "https://stream.zeno.fm/nubu1d4vquhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "4 Plus",
+       "url": "http://144.91.101.136:8060/radio.mp3"
+      },
+      {
+       "name": "5BYTE Radio",
+       "url": "https://stream.zeno.fm/790v1n9edd0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "9LAWI FM",
+       "url": "https://stream.zeno.fm/mpfwnlav1yduv",
+       "language_inferred": true
+      },
+      {
+       "name": "AAAAAAAAAAAAAAAAAAAAAAAAAA",
+       "url": "https://stream.zeno.fm/eqawyyrbqxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Abo z3bl",
+       "url": "https://stream.zeno.fm/qgx4yskm6zbtv",
+       "language_inferred": true
+      },
+      {
+       "name": "Absolut",
+       "url": "https://stream.zeno.fm/v4p2b1cz9nhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "ADA BEACH CLUB RADIO",
+       "url": "https://stream.zeno.fm/zkqfkegcn48uv",
+       "language_inferred": true
+      },
+      {
+       "name": "adassdas",
+       "url": "https://stream.zeno.fm/jfx4f9dqef1tv",
+       "language_inferred": true
+      },
+      {
+       "name": "adtquif",
+       "url": "https://stream.zeno.fm/2xzhebz4gkktv",
+       "language_inferred": true
+      },
+      {
+       "name": "Agatha Nunes",
+       "url": "https://stream.zeno.fm/m9zfloypt4huv",
+       "language_inferred": true
+      },
+      {
+       "name": "ahskdjhajshda",
+       "url": "https://stream.zeno.fm/h3gdq5bxrt3tv",
+       "language_inferred": true
+      },
+      {
+       "name": "AJI TMAZK",
+       "url": "https://stream.zeno.fm/lcd2uvjbs70uv",
+       "language_inferred": true
+      },
+      {
+       "name": "ajsbdjas",
+       "url": "https://stream.zeno.fm/pn6t80qd2hhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "akrbhhh",
+       "url": "https://stream.zeno.fm/3vw6zn063hhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "ALB Radio",
+       "url": "https://stream.zeno.fm/2c31gatnc78uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Alba Records",
+       "url": "https://stream.zeno.fm/ek96hsw5kuhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Albania Love Radio",
+       "url": "http://185.32.20.10:9410/",
+       "language_inferred": true
+      },
+      {
+       "name": "ALBANIA MUSIC",
+       "url": "https://stream.zeno.fm/6u1wat6pq0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Albania News 24 TV",
+       "url": "http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8"
+      },
+      {
+       "name": "Albania Online",
+       "url": "https://stream.zeno.fm/kf58hkalruvvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Albanian Mafia",
+       "url": "https://stream.zeno.fm/23bxa0cfz38uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Albion FM",
+       "url": "https://listen.radionomy.com/albion?type=.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Albos radio",
+       "url": "https://stream.zeno.fm/ezyva9n2tchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Albozstation",
+       "url": "https://stream.zeno.fm/zlrs2gjtkcjuv",
+       "language_inferred": true
+      },
+      {
+       "name": "AlbRadio",
+       "url": "https://stream.zeno.fm/1kmwfseauwzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Albtimes Radio",
+       "url": "https://21323.live.streamtheworld.com/VIRGIN_RADIO.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Alemao 317",
+       "url": "https://stream.zeno.fm/ectpk2sgqc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Alfa & Omega Radio 102.6 FM",
+       "url": "http://cp11.shoutcheap.com:8037/stream/1"
+      },
+      {
+       "name": "all English",
+       "url": "https://stream.zeno.fm/8oykdwjmldhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "ALL WORLD RADIO MUSIC",
+       "url": "https://stream.zeno.fm/ncr379x9vg0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "alltia-fm",
+       "url": "https://stream.zeno.fm/6grd7sokulvuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Allu arjun",
+       "url": "https://stream.zeno.fm/2p5wunfnffhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "ALP Radio",
+       "url": "https://stream.zeno.fm/patuaaxc9f0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Alpha League Beats (ALB)",
+       "url": "https://stream.zeno.fm/jilb4svj4cluv",
+       "language_inferred": true
+      },
+      {
+       "name": "Alpo Radio",
+       "url": "https://cast.az-streamingserver.com/proxy/jjayjtzm?mp=%2Fstream",
+       "language_inferred": true
+      },
+      {
+       "name": "Alpo Radio",
+       "url": "https://cast.az-streamingserver.com/proxy/jjayjtzm?mp=%2Fstream&fbclid=IwAR0rT90aYoU1MH2L2V0R6CvBI_iqhdMGUTUZ8I7db9eA-JiM_ImFJuOa77w"
+      },
+      {
+       "name": "altinb",
+       "url": "https://stream.zeno.fm/nq0ag7ff9x8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "AMANTA",
+       "url": "https://stream.zeno.fm/gembvyq931zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "AMC Love Radio",
+       "url": "http://95.107.173.168:6200"
+      },
+      {
+       "name": "amueblado",
+       "url": "https://stream.zeno.fm/01v0sypxn0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Anderson",
+       "url": "https://stream.zeno.fm/tezrg40g4uhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "AnnA Market",
+       "url": "https://stream.zeno.fm/uzoqgcksp6iuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Arbi Fm",
+       "url": "https://stream.zeno.fm/ztuuwd76xnhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "arbitv",
+       "url": "https://stream.zeno.fm/wbx8zc2xqnhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Arcade",
+       "url": "https://stream.zeno.fm/oyqf6ubopcmuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Armakedon",
+       "url": "https://stream.zeno.fm/3qdx27kwywzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "ARMONIA STEREO - Instrumental Linda",
+       "url": "https://stream.zeno.fm/xdg1dwnky3quv",
+       "language_inferred": true
+      },
+      {
+       "name": "arrr3fafa",
+       "url": "https://stream.zeno.fm/hn63vxc32rhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Artisti Resto Lounge – Tirana – AL",
+       "url": "http://listen.openstream.co/6590/audio",
+       "language_inferred": true
+      },
+      {
+       "name": "AS FM Albania",
+       "url": "https://stream-52.zeno.fm/vhhv5b990k8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Asas livres",
+       "url": "https://stream.zeno.fm/rbokm2bwjohvv",
+       "language_inferred": true
+      },
+      {
+       "name": "asdasd",
+       "url": "https://stream.zeno.fm/mrszqvbxbuhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "asdqwewq",
+       "url": "https://stream.zeno.fm/fycsvfhybfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "ASJJASDJASDJASJD",
+       "url": "https://stream.zeno.fm/yubmqrtasnpvv",
+       "language_inferred": true
+      },
+      {
+       "name": "assddfdf",
+       "url": "https://stream.zeno.fm/1rb7thhr598uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Atsukos station",
+       "url": "https://stream.zeno.fm/vxf29g16hv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Atv Radio",
+       "url": "https://radio.aab-edu.net/aradio1.ogg",
+       "language_inferred": true
+      },
+      {
+       "name": "Auaiaiai",
+       "url": "https://stream.zeno.fm/k7ar9tk00nhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "baccara",
+       "url": "https://stream.zeno.fm/6d8uxpnany8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "BALKAN1",
+       "url": "https://stream.zeno.fm/pctx2b8brrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Barleti FM",
+       "url": "https://stream.zeno.fm/kanytxyb6zhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "BASI FM",
+       "url": "https://stream.zeno.fm/0xm72e2mp7zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Believe in yourself",
+       "url": "https://stream.zeno.fm/55hv7gsawuhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Best Pro Electronic – Tirana – AL",
+       "url": "https://listen.openstream.co/6429/audio",
+       "language_inferred": true
+      },
+      {
+       "name": "Best Pro Gold – Tirana – AL",
+       "url": "http://strw1.openstream.co/2403",
+       "language_inferred": true
+      },
+      {
+       "name": "Best Pro Radio – Tirana – AL",
+       "url": "https://az1.sednastream.com/radio/8000/Live",
+       "language_inferred": true
+      },
+      {
+       "name": "BEST RADIO",
+       "url": "https://stream.zeno.fm/uyzn8k7mw98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Bigode",
+       "url": "https://stream.zeno.fm/d8u4mc7d898uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Black Pearl Lounge – Tirana – AL",
+       "url": "http://az1.sednastream.com/radio/8050/Live",
+       "language_inferred": true
+      },
+      {
+       "name": "Blin blin blaan",
+       "url": "https://stream.zeno.fm/n98k0qe7pxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "BO RADIO",
+       "url": "https://stream.zeno.fm/ame1hrxrks8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Boca junior",
+       "url": "https://stream.zeno.fm/tyqj7tkbkoquv",
+       "language_inferred": true
+      },
+      {
+       "name": "BRONK O MAIS BRABO",
+       "url": "https://stream.zeno.fm/rowbg8sesejtv",
+       "language_inferred": true
+      },
+      {
+       "name": "Bruvs radio",
+       "url": "https://stream.zeno.fm/t0icouoqo4kvv",
+       "language_inferred": true
+      },
+      {
+       "name": "BSSS TV     Radio Fast",
+       "url": "https://stream.zeno.fm/v9brekg0cf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Buenamusica",
+       "url": "https://stream.zeno.fm/k1s2g9hwp0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "BumDaBum",
+       "url": "https://stream.zeno.fm/d09b7y3y908uv",
+       "language_inferred": true
+      },
+      {
+       "name": "BumZabava",
+       "url": "https://stream.zeno.fm/5qx3a12y908uv",
+       "language_inferred": true
+      },
+      {
+       "name": "bvcvcgdfsghfsd",
+       "url": "https://stream.zeno.fm/q5namrwolj4uv",
+       "language_inferred": true
+      },
+      {
+       "name": "By Soaresx",
+       "url": "https://stream.zeno.fm/nkbqpuhc5uhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "cabaço",
+       "url": "https://stream.zeno.fm/9defbddq8bhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Canserbero",
+       "url": "https://stream.zeno.fm/dhtwnk8rjpltv",
+       "language_inferred": true
+      },
+      {
+       "name": "Capital T Fans",
+       "url": "https://stream.zeno.fm/ymhgdtvmqvbvv",
+       "language_inferred": true
+      },
+      {
+       "name": "carlao",
+       "url": "https://stream.zeno.fm/dv4gfbvgtoruv",
+       "language_inferred": true
+      },
+      {
+       "name": "CBLeste",
+       "url": "https://stream.zeno.fm/fk32p6zd2hhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Cerrito FM",
+       "url": "https://stream.zeno.fm/5b58rfceay8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "CHANNEL 7",
+       "url": "https://stream.zeno.fm/0mc8qwwxnv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "CHANNEL7",
+       "url": "https://stream.zeno.fm/gw3hakgwnv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Chill Radio",
+       "url": "https://eu8.fastcast4u.com/proxy/chillradio?mp=/1?n=f0ec21aca74bd3edaa20",
+       "language_inferred": true
+      },
+      {
+       "name": "chmala",
+       "url": "https://stream.zeno.fm/yc9s9y3rkrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "City Radio - Tirana 88.0 FM",
+       "url": "https://cp1.sednastream.com/proxy/cityradio?mp=/stream?n=1b6e422d868da3dd9f69",
+       "language_inferred": true
+      },
+      {
+       "name": "City Radio 88.0 FM",
+       "url": "https://cp1.sednastream.com/proxy/cityradio",
+       "language_inferred": true
+      },
+      {
+       "name": "City Radio Albania – Tirana – AL",
+       "url": "https://sednacast.com/cityradio/?pl=winamp&c=City%20Radio",
+       "language_inferred": true
+      },
+      {
+       "name": "claudio",
+       "url": "https://stream.zeno.fm/sw288q4nxxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Club fm Kosovë",
+       "url": "https://cp1.sednastream.com/proxy/clubfmkosova?mp=%2F%3Bstream.mp3&_=1",
+       "language_inferred": true
+      },
+      {
+       "name": "Cnhvinicinj",
+       "url": "https://stream.zeno.fm/cfgp4mmua0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "COBRA PSEUDONIMI",
+       "url": "https://stream.zeno.fm/0806k2hd0xhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "ColorPlay",
+       "url": "https://stream.zeno.fm/9shqde6xwhhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Crawford vs Avanesyan Live",
+       "url": "https://stream.zeno.fm/i5n7as0han4uv",
+       "language_inferred": true
+      },
+      {
+       "name": "CreamS20",
+       "url": "https://stream.zeno.fm/ss82aebhtnhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "CREN Radio",
+       "url": "http://s4.nexuscast.com:8204/"
+      },
+      {
+       "name": "Cristhiuab",
+       "url": "https://stream.zeno.fm/usuwg4p3i66uv",
+       "language_inferred": true
+      },
+      {
+       "name": "cristofer",
+       "url": "https://stream.zeno.fm/0wszr6y8avqvv",
+       "language_inferred": true
+      },
+      {
+       "name": "CUKUR RADIO",
+       "url": "https://stream.zeno.fm/xhgjwtd0rdstv",
+       "language_inferred": true
+      },
+      {
+       "name": "D.E.D",
+       "url": "https://stream.zeno.fm/nqwrc9hp5a0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "DAN The Radio",
+       "url": "https://stream.zeno.fm/62aufqhczs8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "dance 90",
+       "url": "https://stream.zeno.fm/6pd56xhckfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "DANCE MUSIC",
+       "url": "https://stream.zeno.fm/ojxtxyglt56vv",
+       "language_inferred": true
+      },
+      {
+       "name": "danizinhah",
+       "url": "https://stream.zeno.fm/50zwsatgzk8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Dante Premium",
+       "url": "https://stream.zeno.fm/w3xhqb5peoztv",
+       "language_inferred": true
+      },
+      {
+       "name": "DaPyscoo",
+       "url": "https://stream.zeno.fm/vmxk8bun7s8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "DARDANIA",
+       "url": "https://stream.zeno.fm/y2t9hm04zehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Dardania Hit Radio – Tirana – AL",
+       "url": "http://s2.voscast.com:8824/listen.pls",
+       "language_inferred": true
+      },
+      {
+       "name": "Dardi Radio",
+       "url": "https://stream.zeno.fm/232q42s0mp8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "dasdasd",
+       "url": "https://stream.zeno.fm/hmk9kh83ekhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "ddl-album",
+       "url": "https://stream.zeno.fm/njdwtfeklzdtv",
+       "language_inferred": true
+      },
+      {
+       "name": "De los 80",
+       "url": "https://stream.zeno.fm/fr5trryggfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "DEEJAY FM ALBANIA",
+       "url": "https://stream.zeno.fm/au5v632tsnhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "DeepHaus",
+       "url": "https://stream.zeno.fm/fbrfazcghlpuv",
+       "language_inferred": true
+      },
+      {
+       "name": "DEEPin",
+       "url": "https://stream.zeno.fm/yd7d3962vwzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "deivy gostoso",
+       "url": "https://stream.zeno.fm/vbbg95ddpxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "delvina radio",
+       "url": "https://stream.zeno.fm/ykb3seej1p4uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Depression S",
+       "url": "https://stream.zeno.fm/s66gw096kfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Devilmycry",
+       "url": "https://stream.zeno.fm/9r8azoiwje9vv",
+       "language_inferred": true
+      },
+      {
+       "name": "dewestertop40",
+       "url": "https://stream.zeno.fm/xvxrkfvk0hhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Diomedes",
+       "url": "https://stream.zeno.fm/m9aytvh2dxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "diversos",
+       "url": "https://stream.zeno.fm/e81ky6vwgxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Divjaka Love Radio Albania",
+       "url": "https://stream.zeno.fm/m11cd6gctg8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "DJ Ermal Kaloni Bukur",
+       "url": "https://stream.zeno.fm/hzzdnibnuz0tv",
+       "language_inferred": true
+      },
+      {
+       "name": "DJ Hot Remix Vol2 2004MP3VBR320Kbps  BOM",
+       "url": "https://stream.zeno.fm/ofpoofysevwtv",
+       "language_inferred": true
+      },
+      {
+       "name": "Dj Liki",
+       "url": "https://stream.zeno.fm/icu8apmhueptv",
+       "language_inferred": true
+      },
+      {
+       "name": "DJ PUMA",
+       "url": "https://stream.zeno.fm/95a0mben4zhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Dr4xMTA",
+       "url": "https://stream.zeno.fm/4ct0hu4wn18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Dragon",
+       "url": "https://stream.zeno.fm/oel8zk7sp3fvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Drill NY UK CHI",
+       "url": "https://stream.zeno.fm/z7byqhwcu0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "dsadasdasdasdasdasd",
+       "url": "https://stream.zeno.fm/4uvq4ehhs68uv",
+       "language_inferred": true
+      },
+      {
+       "name": "dsadsasad",
+       "url": "https://stream.zeno.fm/tbtez45hrc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Dukagjini Love Radio",
+       "url": "https://s1.voscast.com:11607/loveradio",
+       "language_inferred": true
+      },
+      {
+       "name": "Dukagjini Love Radio – Tirana – AL",
+       "url": "http://s2.voscast.com:8828/listen.pls",
+       "language_inferred": true
+      },
+      {
+       "name": "Dukagjini Shqip Radio – Tirana – AL",
+       "url": "http://s2.voscast.com:8826/listen.pls",
+       "language_inferred": true
+      },
+      {
+       "name": "Dunelove",
+       "url": "https://stream.zeno.fm/v0whg7qek8tvv",
+       "language_inferred": true
+      },
+      {
+       "name": "dvdvddvdv",
+       "url": "https://stream.zeno.fm/p6qbkvv1a3ouv",
+       "language_inferred": true
+      },
+      {
+       "name": "e o hadezx",
+       "url": "https://stream.zeno.fm/xzg0qz41gchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Edison Lici",
+       "url": "https://stream.zeno.fm/6crwrk483k0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Edivan",
+       "url": "https://stream.zeno.fm/2pxhdhdxef9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "EdmonD Radio",
+       "url": "https://stream.zeno.fm/y2rcb548kf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Edon_G private radio",
+       "url": "https://stream.zeno.fm/sgp0fabzwc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "EdonG private radio",
+       "url": "https://stream.zeno.fm/yk981fbzwc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "EEEEEEEEEEEEEEEEEE",
+       "url": "https://stream.zeno.fm/whxv45rbqxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Efecto secundario",
+       "url": "https://stream.zeno.fm/k97fgh0nhf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "ejsjlolo",
+       "url": "https://stream.zeno.fm/sa72a7n5zehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "eklips.al",
+       "url": "https://stream.zeno.fm/tr8s3p8w298uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Eladio",
+       "url": "https://stream.zeno.fm/ovxtpyqb7ojtv",
+       "language_inferred": true
+      },
+      {
+       "name": "ElbasaniRadio",
+       "url": "https://node-26.zeno.fm/dvy5yva4cuquv.aac?rj-ttl=5&amprj-tok=AAABbt9-d0EAjnY7am-1hPTsbQ",
+       "language_inferred": true
+      },
+      {
+       "name": "ElbasaniRadio",
+       "url": "https://stream.zeno.fm/dvy5yva4cuquv",
+       "language_inferred": true
+      },
+      {
+       "name": "elpapelv",
+       "url": "https://stream.zeno.fm/neamw6yr8hhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "ElsamuTV",
+       "url": "https://stream.zeno.fm/urkgtxixjamuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Emeral Center – AL",
+       "url": "https://az1.sednastream.com/listen/emerald_mall__shopping/radio.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Engineering Music",
+       "url": "https://stream.zeno.fm/utpvjz5dgt7vv",
+       "language_inferred": true
+      },
+      {
+       "name": "EngjellusheRadio",
+       "url": "http://stream.zeno.fm/e0z3nnaym18uv"
+      },
+      {
+       "name": "erere23",
+       "url": "https://stream.zeno.fm/tc1e5yhnc78uv",
+       "language_inferred": true
+      },
+      {
+       "name": "ergi_music",
+       "url": "https://stream.zeno.fm/e3dpmnh4c48uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Eurostar Radio - Tirana 94.4 FM",
+       "url": "http://radioeurostar.al:9000/stream"
+      },
+      {
+       "name": "exotico",
+       "url": "https://stream.zeno.fm/iglgji63yinvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Fabian Station",
+       "url": "https://stream.zeno.fm/budqe49kqg0vv",
+       "language_inferred": true
+      },
+      {
+       "name": "Famed Radio – Tirana – AL",
+       "url": "https://listen.openstream.co/6580/audio",
+       "language_inferred": true
+      },
+      {
+       "name": "fernando",
+       "url": "https://stream.zeno.fm/1q800xx4zf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "fgdghfdfdghdfhdfsfsg",
+       "url": "https://stream.zeno.fm/hyhneraaxf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "ficjcndn",
+       "url": "https://stream.zeno.fm/z65kn2cdbxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "firesedsdstfd",
+       "url": "https://stream.zeno.fm/3yzuv32bwnhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Flow radio perrenjas",
+       "url": "https://stream.zeno.fm/yggt719mqwzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Folk Albania",
+       "url": "https://stream.zeno.fm/v7850c7gtg8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Forró",
+       "url": "https://stream.zeno.fm/41g8z5wgr0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Fort Carson Radio",
+       "url": "https://stream.zeno.fm/bynffqsr2nhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Funk Dus Caraas a",
+       "url": "https://stream.zeno.fm/kqaqzna4bshvv",
+       "language_inferred": true
+      },
+      {
+       "name": "FUNK150",
+       "url": "https://stream.zeno.fm/n3ad814bu68uv",
+       "language_inferred": true
+      },
+      {
+       "name": "GaloFM",
+       "url": "https://stream.zeno.fm/11ck82b8bshvv",
+       "language_inferred": true
+      },
+      {
+       "name": "GENESIS FM",
+       "url": "https://stream.zeno.fm/r38e04hk2v8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Genti",
+       "url": "https://stream.zeno.fm/41t96p4a7f8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "gfghgf",
+       "url": "https://stream.zeno.fm/awna9gwcuv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "gfrgdfggfdfgdg",
+       "url": "https://stream.zeno.fm/62pdapuxrnhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Ghostmane",
+       "url": "https://stream.zeno.fm/rfdsp25ysxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "GOD MUSIC",
+       "url": "https://stream.zeno.fm/xvrwhkmbfnavv",
+       "language_inferred": true
+      },
+      {
+       "name": "GodFamas",
+       "url": "https://stream.zeno.fm/st1hyca2lmnuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Godfather Of Harlem Music",
+       "url": "https://stream.zeno.fm/bahmfs9su7etv",
+       "language_inferred": true
+      },
+      {
+       "name": "GOLD11",
+       "url": "https://stream.zeno.fm/qb35k1x42s8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "gomera",
+       "url": "https://stream.zeno.fm/cgkkl0qcqhcvv",
+       "language_inferred": true
+      },
+      {
+       "name": "GTA  5",
+       "url": "https://stream.zeno.fm/sneom334nz0vv",
+       "language_inferred": true
+      },
+      {
+       "name": "Gta samp radio",
+       "url": "https://stream.zeno.fm/r0h63yfxuxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Guarim POHA",
+       "url": "https://stream.zeno.fm/kb2y370zdf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Guerra com ada",
+       "url": "https://stream.zeno.fm/dwmszwsdaanuv",
+       "language_inferred": true
+      },
+      {
+       "name": "habbosamppenthaus",
+       "url": "https://stream.zeno.fm/32zk44nn168uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hakuna Matata Bitch",
+       "url": "https://stream.zeno.fm/7fpby1px4x8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "HappyLife",
+       "url": "https://stream.zeno.fm/yub5xs4g3zhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "HARIEL",
+       "url": "https://stream.zeno.fm/f07f0qgb4c9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Heart Radio Islam",
+       "url": "https://listen.radioislam.org.za:8443/radioislam.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Helena",
+       "url": "https://stream.zeno.fm/s57wdguvsf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Helix FM",
+       "url": "https://stream.zeno.fm/cadok6kznbgvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hellbanianz",
+       "url": "https://stream.zeno.fm/d5pb8c99nxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Himara",
+       "url": "https://stream.zeno.fm/t8wq1s9syc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "HITET 2023 VORTEX RP",
+       "url": "https://stream.zeno.fm/g1zcj3qf52qtv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hits 21",
+       "url": "https://stream.zeno.fm/weekvr7dys8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "HITS11",
+       "url": "https://stream.zeno.fm/wpg5a7zz3s8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "hojito",
+       "url": "https://stream.zeno.fm/icpe9qo0wb1tv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hostingtom",
+       "url": "https://stream.zeno.fm/m9prp4rcd5yvv",
+       "language_inferred": true
+      },
+      {
+       "name": "hpgiug",
+       "url": "https://stream.zeno.fm/muyfxwywuxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hshhhwhwh",
+       "url": "https://stream.zeno.fm/geuuosdqcgcvv",
+       "language_inferred": true
+      },
+      {
+       "name": "http://46.4.104.253:9996/stream/1",
+       "url": "http://46.4.104.253:9996/stream/1"
+      },
+      {
+       "name": "Huesogogpot",
+       "url": "https://stream.zeno.fm/vgzmqaph9rhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hustle",
+       "url": "https://stream.zeno.fm/1grumrgcyf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hustle Community",
+       "url": "https://stream.zeno.fm/krsvmwmsh98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "IN Radio",
+       "url": "http://80.90.86.194:8000/inradio"
+      },
+      {
+       "name": "Instalime Elektrike CS",
+       "url": "https://stream.zeno.fm/r0z2mhxynv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Instalime Elektrike CS",
+       "url": "https://stream.zeno.fm/57ewrhta5v8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "intradio",
+       "url": "https://stream.zeno.fm/tbycgs0qmd0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "iTunes Hits",
+       "url": "https://stream.zeno.fm/wfxf59h794zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "jasonn789789",
+       "url": "https://stream.zeno.fm/7mqsfrfv7hhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Jay  RADIO",
+       "url": "https://stream.zeno.fm/xb45dnugs18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "jhowzin",
+       "url": "https://stream.zeno.fm/mu3phglogzgvv",
+       "language_inferred": true
+      },
+      {
+       "name": "jkjkjkj",
+       "url": "https://stream.zeno.fm/dqe6ob3a19auv",
+       "language_inferred": true
+      },
+      {
+       "name": "Joca radio",
+       "url": "https://stream.zeno.fm/uarwieeisbnuv",
+       "language_inferred": true
+      },
+      {
+       "name": "JOE CULKIN RADIO",
+       "url": "https://stream.zeno.fm/ecjb5vbk3w6vv",
+       "language_inferred": true
+      },
+      {
+       "name": "Johnmuzyka",
+       "url": "https://stream.zeno.fm/br6xzct0uchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "JONAS MTA",
+       "url": "https://stream.zeno.fm/1vpxurf9x98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Joseghggjh",
+       "url": "https://stream.zeno.fm/rluqyknbakctv",
+       "language_inferred": true
+      },
+      {
+       "name": "Jsjsjsjhw",
+       "url": "https://stream.zeno.fm/1sxxz4rwp0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "k-AM09022022",
+       "url": "https://stream.zeno.fm/3y5ngute7ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Kafe Folk",
+       "url": "https://stream.zeno.fm/2d1b15x0wwzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Kar Bashore Ghumaw Bondhu",
+       "url": "https://stream.zeno.fm/fqkvsnxgfdsuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Karderri i HTL",
+       "url": "https://stream.zeno.fm/969qmfy7gc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Kchaka",
+       "url": "https://stream.zeno.fm/27kt01gywhhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Kchal lombra",
+       "url": "https://stream.zeno.fm/7udkzqprbphvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Keng Popullore",
+       "url": "https://stream.zeno.fm/tbljfydtwqntv",
+       "language_inferred": true
+      },
+      {
+       "name": "kevin anashe",
+       "url": "https://stream.zeno.fm/d07nxucubfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Kkkkkk",
+       "url": "https://stream.zeno.fm/mm3d6nk1w0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "kkkkkkkkkkkk",
+       "url": "https://stream.zeno.fm/tppeo7c7cvuuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Klaidi98 Radio",
+       "url": "https://stream.zeno.fm/puhanf1nr30uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Klklklk",
+       "url": "https://stream.zeno.fm/cqnbc3z9vnhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Klod lluksi",
+       "url": "https://stream.zeno.fm/t341cqbytxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Klodi gta samp",
+       "url": "https://stream.zeno.fm/8xfwmggxuxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Kosovo Radio",
+       "url": "https://stream.zeno.fm/cd2gukekakhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "KruminsFM",
+       "url": "https://stream.zeno.fm/oqy5anpywdstv",
+       "language_inferred": true
+      },
+      {
+       "name": "Kudelzjarri",
+       "url": "https://stream.zeno.fm/gxpdamejtlquv",
+       "language_inferred": true
+      },
+      {
+       "name": "Kufawa",
+       "url": "https://stream.zeno.fm/5bcpxmr9gfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Kuksjani muzik",
+       "url": "https://stream.zeno.fm/wqlcjave9psvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Kññññklklk",
+       "url": "https://stream.zeno.fm/wbz0e5tbxnhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "La rioja",
+       "url": "https://stream.zeno.fm/8hz546r70rhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Latviešu šlageri",
+       "url": "https://stream.zeno.fm/74n7s4teashvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Latynoskie nutki",
+       "url": "https://stream.zeno.fm/y95pvd4sxchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "lchcsamp",
+       "url": "https://stream.zeno.fm/9nfheqdks68uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Lepurushja",
+       "url": "https://stream.zeno.fm/f4d7hyz504zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Lezetshem Radio",
+       "url": "https://stream.zeno.fm/ycyuh1k0euhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "lifeisbeatuifolé",
+       "url": "https://stream.zeno.fm/6pudccv8n48uv",
+       "language_inferred": true
+      },
+      {
+       "name": "lilidopipico",
+       "url": "https://stream.zeno.fm/25hc8zxs1nhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "liliii",
+       "url": "https://stream.zeno.fm/01bdmeg9cxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "LINK 8",
+       "url": "https://stream.zeno.fm/yx0gggwy6hhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "LIXOOOO",
+       "url": "https://stream.zeno.fm/3wdbknszxc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "lkalallalaa",
+       "url": "https://stream.zeno.fm/520vtvs8f18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "LL radio",
+       "url": "https://stream.zeno.fm/xp12gcrtpc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Lo que me gusta",
+       "url": "https://stream.zeno.fm/fndbw8tyexhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Lo-Fi music",
+       "url": "https://stream.zeno.fm/3mnt9gkpx38uv",
+       "language_inferred": true
+      },
+      {
+       "name": "lofi songs",
+       "url": "https://stream.zeno.fm/4gwr944fe0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Lofi vibes",
+       "url": "https://stream.zeno.fm/lsft1oswud8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "loj radio",
+       "url": "https://stream.zeno.fm/azt4y2mhdphvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Lolxdddd",
+       "url": "https://stream.zeno.fm/afgqcdgadxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "LOS DIABLOS",
+       "url": "https://stream.zeno.fm/7qvpfnqfnejtv",
+       "language_inferred": true
+      },
+      {
+       "name": "Los Santos Jazz Relaxing  Radio",
+       "url": "https://stream.zeno.fm/exucz9uh4uhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Los xd",
+       "url": "https://stream.zeno.fm/k8ygftvnip2uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Loti Vu Radio",
+       "url": "https://stream.zeno.fm/2mxptkrjvxqvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Love radio",
+       "url": "https://stream.zeno.fm/40hku5sdx98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Love Radio 907 FM",
+       "url": "http://live.lspublic.com:27022/",
+       "language_inferred": true
+      },
+      {
+       "name": "love redio.al",
+       "url": "https://stream.zeno.fm/dygdpe7y9zhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "LUIZ GUS",
+       "url": "https://stream.zeno.fm/04f452f93c9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "lukaszin da brokagang",
+       "url": "https://stream.zeno.fm/qw43xztd1c9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Lune Radio Station",
+       "url": "https://stream.zeno.fm/6zxadq2r54zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "LURA RADIO",
+       "url": "https://stream.zeno.fm/12dxs397by8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "LURA RADIO",
+       "url": "https://stream.zeno.fm/1zh2xsa9by8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "LVRP-AR_00",
+       "url": "https://stream.zeno.fm/af7b4yuaiuauv",
+       "language_inferred": true
+      },
+      {
+       "name": "LVRP-TEST1-NOIZY",
+       "url": "https://stream.zeno.fm/j6gabssmptttv",
+       "language_inferred": true
+      },
+      {
+       "name": "LzXLzX",
+       "url": "https://stream.zeno.fm/pqdwxv0puiutv",
+       "language_inferred": true
+      },
+      {
+       "name": "Magic Oldies",
+       "url": "https://stream.zeno.fm/6hqndtz80s8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Mandi Nishtulla",
+       "url": "https://stream.zeno.fm/yekolzte4cktv",
+       "language_inferred": true
+      },
+      {
+       "name": "Mapache FM live 3. 70 - 80 y 90s",
+       "url": "https://stream.zeno.fm/upvfwi2akyrvv",
+       "language_inferred": true
+      },
+      {
+       "name": "MARIANO",
+       "url": "https://stream.zeno.fm/ept1bc9vb0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Maringlen Cika Radio",
+       "url": "https://stream.zeno.fm/zyaxbyymxk8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "martins jansons FM",
+       "url": "https://stream.zeno.fm/9dt29tbbbxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Max Deep Radio",
+       "url": "https://stream.zeno.fm/afvbmz9s1zhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Max Radio",
+       "url": "https://stream.zeno.fm/2qpgtvat1zhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Maxsteel",
+       "url": "https://stream.zeno.fm/qf2gphgrvxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "MCPD blya",
+       "url": "https://stream.zeno.fm/2790pn1h9rhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "MELHORES TRAP",
+       "url": "https://stream.zeno.fm/nct0cswucphvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Melodi Shpirti",
+       "url": "https://stream.zeno.fm/wp1ew4500f8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Mexican song",
+       "url": "https://stream.zeno.fm/uun1d11wbfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Mi mejor URL",
+       "url": "https://stream.zeno.fm/r343xeewm0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "MICHEL JAJSON",
+       "url": "https://stream.zeno.fm/ux3b1w6c6zhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "MithoMatho",
+       "url": "https://stream.zeno.fm/pzebuyc6zf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Mix de musica fachera",
+       "url": "https://stream.zeno.fm/atmxgv6crrrtv",
+       "language_inferred": true
+      },
+      {
+       "name": "mixsalsa",
+       "url": "https://stream.zeno.fm/pofubh11nustv",
+       "language_inferred": true
+      },
+      {
+       "name": "MKMiko",
+       "url": "https://stream.zeno.fm/ckaq6xmy7bhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Modus Radio",
+       "url": "https://stream.zeno.fm/vu59bvap4ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "MoM29 Radio",
+       "url": "https://stream.zeno.fm/xwiz0gbql6ouv",
+       "language_inferred": true
+      },
+      {
+       "name": "Monster",
+       "url": "https://stream.zeno.fm/gy510k3shxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Mornar",
+       "url": "https://stream.zeno.fm/7tg7zhhu108uv",
+       "language_inferred": true
+      },
+      {
+       "name": "mta radio",
+       "url": "https://stream.zeno.fm/bgmfus6xba9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "MtaMUSI",
+       "url": "https://stream.zeno.fm/srme9gvnk98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "music anashee",
+       "url": "https://stream.zeno.fm/rtyyfvtg6ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Music casino 2",
+       "url": "https://stream.zeno.fm/xnwxe9ap7whvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Music-Radio",
+       "url": "https://stream.zeno.fm/f961epmrv38uv",
+       "language_inferred": true
+      },
+      {
+       "name": "musica para hacer",
+       "url": "https://stream.zeno.fm/ao9btbj9xzjvv",
+       "language_inferred": true
+      },
+      {
+       "name": "musica pra assalto",
+       "url": "https://stream.zeno.fm/khlnwby2ygxuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Muzik Shqiptare",
+       "url": "https://stream.zeno.fm/wduifbvpirzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Muzika Narodna",
+       "url": "https://stream.zeno.fm/2ausrscz908uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Mvzinn4",
+       "url": "https://stream.zeno.fm/tke990ku538uv",
+       "language_inferred": true
+      },
+      {
+       "name": "my Next mix",
+       "url": "https://stream.zeno.fm/43mjzuffwintv",
+       "language_inferred": true
+      },
+      {
+       "name": "Nada manco",
+       "url": "https://stream.zeno.fm/p1fvrh576nhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "nadyash",
+       "url": "https://stream.zeno.fm/5ckck97hjnjuv",
+       "language_inferred": true
+      },
+      {
+       "name": "najbolja_raja",
+       "url": "https://stream.zeno.fm/2b3y821e5p8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Nano  Nano Nano",
+       "url": "https://stream.zeno.fm/utuupnuxb4rtv",
+       "language_inferred": true
+      },
+      {
+       "name": "NARCOS RADIO",
+       "url": "https://stream.zeno.fm/tctouhje2iptv",
+       "language_inferred": true
+      },
+      {
+       "name": "NARCOS RADIO",
+       "url": "https://stream.zeno.fm/qc40nr1ghuttv",
+       "language_inferred": true
+      },
+      {
+       "name": "NARCOS-RADIO",
+       "url": "https://stream.zeno.fm/nkpljkeoahjvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Narodnjak",
+       "url": "https://stream.zeno.fm/0c697mez908uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Naruto FM",
+       "url": "https://stream.zeno.fm/dwwgd3kmz7fuv",
+       "language_inferred": true
+      },
+      {
+       "name": "nashee3434",
+       "url": "https://stream.zeno.fm/77r9k7rjyiatv",
+       "language_inferred": true
+      },
+      {
+       "name": "nc 123",
+       "url": "https://stream.zeno.fm/3jugogijvhivv",
+       "language_inferred": true
+      },
+      {
+       "name": "ncghvfgv",
+       "url": "https://stream.zeno.fm/vq7egku8nf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Ncs songs",
+       "url": "https://stream.zeno.fm/ep2qnwc9hgruv",
+       "language_inferred": true
+      },
+      {
+       "name": "nekrutoeradio",
+       "url": "https://stream.zeno.fm/e4x36b32ekhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "NEW OPEN",
+       "url": "https://stream.zeno.fm/ugk8kbp29nhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "NEW ZELLA",
+       "url": "https://stream.zeno.fm/g9aaxb5uzshvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Newgamersrp 3",
+       "url": "https://stream.zeno.fm/hvxubhfzpfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "newstation",
+       "url": "https://stream.zeno.fm/n6iidsvfa8iuv",
+       "language_inferred": true
+      },
+      {
+       "name": "nezzzzz",
+       "url": "https://stream.zeno.fm/e0zbu51en98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "NIGGER RAP",
+       "url": "https://stream.zeno.fm/2bczak3f5isuv",
+       "language_inferred": true
+      },
+      {
+       "name": "niko123",
+       "url": "https://stream.zeno.fm/5s3md1df6nhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Noizyy",
+       "url": "https://stream.zeno.fm/wntt7t93eqguv",
+       "language_inferred": true
+      },
+      {
+       "name": "Normandy",
+       "url": "https://stream.zeno.fm/jcr7teeridgvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Noside Radio Shqip Classic",
+       "url": "https://stream.zeno.fm/hx22rcnwkchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Nostalgia Radio",
+       "url": "https://stream.zeno.fm/jhxi9fapzfjvv",
+       "language_inferred": true
+      },
+      {
+       "name": "NRJ-KOSOVA",
+       "url": "https://stream.zeno.fm/p6br4wnhrc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Nya FM War Songs",
+       "url": "https://stream.zeno.fm/mywqezovd3ltv",
+       "language_inferred": true
+      },
+      {
+       "name": "OLD SCHOOL",
+       "url": "https://stream.zeno.fm/7pzzdop5idmuv",
+       "language_inferred": true
+      },
+      {
+       "name": "OldSchool Radio",
+       "url": "https://stream.zeno.fm/txntwfrn78zvv",
+       "language_inferred": true
+      },
+      {
+       "name": "oldschoolrap",
+       "url": "https://stream.zeno.fm/v8xymy9yy68uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Omeofficialview",
+       "url": "https://stream.zeno.fm/4vu81v5yzp8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Omer B RADIO STANDARTE",
+       "url": "https://stream.zeno.fm/px9zwsu0mp8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "omeraliu",
+       "url": "https://stream.zeno.fm/fpgxqwxpychvv",
+       "language_inferred": true
+      },
+      {
+       "name": "oNTEM TIVE",
+       "url": "https://stream.zeno.fm/fvkxn1cbd78uv",
+       "language_inferred": true
+      },
+      {
+       "name": "OPSESIJA",
+       "url": "https://stream.zeno.fm/emsgq37wk18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "ozzy Francuz - ole",
+       "url": "https://stream.zeno.fm/ypvdxu79qxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Palma Lounge Bar – Tirana – AL",
+       "url": "http://az1.sednastream.com/radio/8140/radio.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Paper Radio",
+       "url": "https://sp1.autopo.st/8004/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Peer-o-murshid",
+       "url": "https://stream.zeno.fm/sktr7ux3fchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "petrovaxenia",
+       "url": "https://stream.zeno.fm/cm95zgq5by8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "phonk stationn",
+       "url": "https://stream.zeno.fm/bmispgkwyaluv",
+       "language_inferred": true
+      },
+      {
+       "name": "pieceofus",
+       "url": "https://stream.zeno.fm/29u506q4vyhtv",
+       "language_inferred": true
+      },
+      {
+       "name": "Pikë Radio",
+       "url": "https://stream.zeno.fm/vn3g9x3cqkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Pilono",
+       "url": "https://stream.zeno.fm/dm9tzfn9t0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "plavo oko",
+       "url": "https://stream.zeno.fm/kutdqchn9whvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Play Afro",
+       "url": "https://business.playfm.al/radio/8030/radio.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Play Club",
+       "url": "https://business.playfm.al/radio/8020/playedm.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "PLAY DEEP HOUSE",
+       "url": "https://stream.zeno.fm/02wpthn82d0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Play Fitness",
+       "url": "https://business.playfm.al/radio/8060/playfitness.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Play Folk",
+       "url": "https://business.playfm.al/radio/8000/radio.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "PLAY HEAVY METAL",
+       "url": "https://stream.zeno.fm/c3gwgyt91k8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "PLAY HIT",
+       "url": "https://stream.zeno.fm/4amdz7qn8k8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Play Latin",
+       "url": "https://business.playfm.al/radio/8090/radio.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Play Radio - Tirana 91.1 FM",
+       "url": "http://n0d.radiojar.com/sx7zrht0pg0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Play Radio 91.1 - Club",
+       "url": "https://business.playfm.al:8020/radio.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Play Radio Albania",
+       "url": "http://n01.radiojar.com/sx7zrht0pg0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Play Radio Club – 91.1 FM – Tirana – AL",
+       "url": "https://stream.radiojar.com/kqv4gr3p6s8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Play Radio Emotions – 91.1 FM – Tirana – AL",
+       "url": "https://stream.rcast.net/200427",
+       "language_inferred": true
+      },
+      {
+       "name": "Play Radio Folk – 91.1 FM – Tirana – AL",
+       "url": "https://stream.rcast.net/200404",
+       "language_inferred": true
+      },
+      {
+       "name": "Play Radio nostalgji – Tirana – AL",
+       "url": "https://stream.rcast.net/200432",
+       "language_inferred": true
+      },
+      {
+       "name": "Play Radio The Oldies – Tirana – AL",
+       "url": "https://stream.radiojar.com/a7nbd5pscv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Play Resto Lounge",
+       "url": "https://business.playfm.al/radio/8070/radio.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Play Shqip Nostalgji",
+       "url": "https://business.playfm.al/radio/8120/radio.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Play The Oldies",
+       "url": "https://business.playfm.al/radio/8010/radio.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Play Vibes",
+       "url": "https://business.playfm.al/radio/8050/radio.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Play Xmas – AL-FR",
+       "url": "https://cloud.playradio.one:8555/pro0002.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "PLAYBACK",
+       "url": "https://stream.zeno.fm/9gkedtlaw6jtv",
+       "language_inferred": true
+      },
+      {
+       "name": "PlayShqip Music",
+       "url": "https://stream.zeno.fm/fvervjmm4oxvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Playvicio",
+       "url": "https://stream.zeno.fm/g0xj03hjxxsvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Pluggg",
+       "url": "https://stream.zeno.fm/gnz9ty2cu0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "PORTUGA NEH VIDA",
+       "url": "https://stream.zeno.fm/qb1fn1a4vc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Positive Gold 80s",
+       "url": "http://vps563086.ovh.net:4000/",
+       "language_inferred": true
+      },
+      {
+       "name": "Positive Gold Balkan Express",
+       "url": "http://vps563086.ovh.net:8070/",
+       "language_inferred": true
+      },
+      {
+       "name": "Positive Gold Smooth Jazz",
+       "url": "http://vps563086.ovh.net:4040/",
+       "language_inferred": true
+      },
+      {
+       "name": "Positive Gold Thesari",
+       "url": "http://vps563086.ovh.net:6020/",
+       "language_inferred": true
+      },
+      {
+       "name": "Positive Gold Turbo",
+       "url": "http://vps563086.ovh.net:5080/",
+       "language_inferred": true
+      },
+      {
+       "name": "Positive Hits",
+       "url": "http://vps563086.ovh.net:6060/",
+       "language_inferred": true
+      },
+      {
+       "name": "Private Tunes Radio",
+       "url": "https://stream.zeno.fm/um30a7mhunhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Promax",
+       "url": "https://stream.zeno.fm/s2n18su08vzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "putaria",
+       "url": "https://stream.zeno.fm/ns0u0scbd78uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RACHAAA",
+       "url": "https://stream.zeno.fm/zpefb9tpzrkuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radiio Ulpiana",
+       "url": "http://streaming.radioulpiana.net:8195/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio",
+       "url": "https://stream.zeno.fm/e11s5pezw0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "radio 1",
+       "url": "https://stream.zeno.fm/awa0zf0evf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 1",
+       "url": "http://audio.radio1.al:88/broadwavehigh.mp3?src=1&amprate=1"
+      },
+      {
+       "name": "Radio 1 98.0 FM",
+       "url": "https://audiossl.radiosolution.info:10192/stream"
+      },
+      {
+       "name": "Radio 2",
+       "url": "https://stream.zeno.fm/obfg05gesotuv",
+       "language_inferred": true
+      },
+      {
+       "name": "radio 2",
+       "url": "https://stream.zeno.fm/3envd9w8h0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 24 Hite",
+       "url": "https://stream.zeno.fm/6trbkba0yuhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 7 Albania – 97.7 FM – Tirana – AL",
+       "url": "https://radio-7.net/live/?pl=winamp&c=Radio%207%20Albania",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Aheng",
+       "url": "https://stream.zeno.fm/uz788d62wwzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Ahireti",
+       "url": "http://198.245.61.161:8008/"
+      },
+      {
+       "name": "Radio Ahireti",
+       "url": "http://198.245.61.161:8008/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio ALB 1",
+       "url": "https://stream.zeno.fm/gx0hrkfnsfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "radio alfa mixx pop",
+       "url": "https://stream.zeno.fm/ncj3tozqhnqtv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio ANTI-MAFIA",
+       "url": "https://stream.zeno.fm/yghf6d539f0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO ARBERI",
+       "url": "https://stream.zeno.fm/vaz44xk9tc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Arberia",
+       "url": "https://stream.zeno.fm/v8pghez157zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Arberia 2",
+       "url": "https://stream.zeno.fm/dnanu61a5v8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Arta",
+       "url": "https://stream.zeno.fm/xb1amyqmzhhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Arta",
+       "url": "https://stream.zeno.fm/0tzmtgqq168uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO AUTOKTON",
+       "url": "https://stream.zeno.fm/0ocj3t6vmfsvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Autokton Lounge Music",
+       "url": "https://stream.zeno.fm/olj2cqjqn4qvv",
+       "language_inferred": true
+      },
+      {
+       "name": "radio Baldr",
+       "url": "https://stream.zeno.fm/suh6404bbshvv",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO BANJA ISTOG",
+       "url": "https://stream.zeno.fm/shlucrmgvs6uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Besa Albania",
+       "url": "http://degjo.zemra.org:8000/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO BESI",
+       "url": "https://stream.zeno.fm/pvqwuatqtf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Bleta",
+       "url": "http://stream.tvkoha.tv:5000/listen.pls?type=.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Bulevard",
+       "url": "https://stream.zeno.fm/4q18xixsoeouv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Burimi",
+       "url": "https://node-34.zeno.fm/vzp9uf0u3ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio burimi",
+       "url": "https://stream-156.zeno.fm/vzp9uf0u3ehvv?zs=Jubk5XJHTEC2zFWm3mOTfA?n=45baca0c8139f106fa92",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Burimi",
+       "url": "https://stream.zeno.fm/yp4eqf0u3ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Channel 7",
+       "url": "http://node-19.zeno.fm:80/0mc8qwwxnv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Club FM - Tirana 100.4 MHz",
+       "url": "https://cp1.sednastream.com/proxy/clubfm?mp=/stream?n=99e6ffffdedbb2fb8fb2",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO CULTURA FM",
+       "url": "https://stream.zeno.fm/dhv4yg7byf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Dardania",
+       "url": "http://radio.radiodardania.com:4000/index.html?sid=1"
+      },
+      {
+       "name": "Radio Dardania – Tirana – AL",
+       "url": "https://www.radiodardania.com/degjo-radiodardania/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Dashuria",
+       "url": "http://www.radiodashuria.com:8000/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Dashuria",
+       "url": "http://www.radiodashuria.com:8000/stream.nsv"
+      },
+      {
+       "name": "Radio Delvina",
+       "url": "https://stream.zeno.fm/fa5wfs3fh5zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Deqani",
+       "url": "https://radiocast.ch/3001/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Deqani",
+       "url": "https://stream-alfacast-hosting.de:7070//live",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Deqani",
+       "url": "http://hyades.shoutca.st:8753/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO DIANA",
+       "url": "https://stream.zeno.fm/emb08771uchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Divjaka",
+       "url": "https://node-18.zeno.fm/brc5btguqg8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Divjaka Classic",
+       "url": "https://stream.zeno.fm/5mhd9qdksg8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Divjaka Dance Music",
+       "url": "https://stream.zeno.fm/c7x08ebksg8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio DJ FM - Aheng Music",
+       "url": "http://play.dance.al:8030/radio.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio DJ FM - Flashback",
+       "url": "http://play.dance.al:8070/radio.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio DJ FM - Folk Kafe",
+       "url": "http://play.dance.al:8060/radio.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio DJ FM - Trance Vision",
+       "url": "http://play.dance.al:8040/radio.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio do Snake",
+       "url": "https://stream.zeno.fm/jytxx7qtl3atv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Drejtesia",
+       "url": "https://stream.zeno.fm/gmd8uewvwchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio EdmonD",
+       "url": "https://stream.zeno.fm/d8td8g48kf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Elkalem",
+       "url": "http://66.45.232.131:9994/*.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Emigranti",
+       "url": "http://www.radioemigranti.com:8000/radio.m3u"
+      },
+      {
+       "name": "Radio Emigranti",
+       "url": "http://www.radioemigranti.com:8000/radio48k",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Emigranti",
+       "url": "http://www.radioemigranti.com:8000/radioauto"
+      },
+      {
+       "name": "Radio EnergyFM",
+       "url": "https://uksoutha.streaming.broadcast.radio/energyfm",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio FANTAZMA",
+       "url": "https://stream.zeno.fm/61erk72y9p8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio fieri",
+       "url": "https://stream.zeno.fm/f9e95d58f18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO FIERI",
+       "url": "https://stream.zeno.fm/mgnpmd7mw98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Fiestaa",
+       "url": "https://node-11.zeno.fm/kcfp7wnhq18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "radio fm",
+       "url": "https://stream.zeno.fm/z83fuympz8euv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Gjirokastra",
+       "url": "https://radiolive.rtsh.dev/radiotiranagjirokaster",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio gospel mnusic",
+       "url": "https://stream.zeno.fm/c6tbc6cvs4zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Gzimi",
+       "url": "https://stream.zeno.fm/hdevy095uwzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Hasi Thate",
+       "url": "http://listen.lspublic.com:8000/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Hasi Thate radio",
+       "url": "http://listen.lspublic.com:8000/stream.mp3"
+      },
+      {
+       "name": "Radio Islame",
+       "url": "http://streaming.jusahost.com:9996/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Klea",
+       "url": "http://keepone.net/gtstrm/get123.php?surl=https://radioklea.radiostream321.com/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Klea",
+       "url": "https://stream.zeno.fm/ya01e1s2k18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Kosova",
+       "url": "http://ns5.albaservers.com:8010/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Kukesi",
+       "url": "https://radiolive.rtsh.dev/radiokukesi",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Kukesi Projects",
+       "url": "http://79.106.16.248:8005/"
+      },
+      {
+       "name": "Radio Lezha",
+       "url": "https://stream.zeno.fm/5sdeyn171k8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Liria",
+       "url": "http://jusahost.com:9998/"
+      },
+      {
+       "name": "Radio Loqka",
+       "url": "https://centova47.instainternet.com/proxy/radioalb?mp=/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "radio loqka",
+       "url": "https://stream.zeno.fm/nr2scgbf6nhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Los Nick0",
+       "url": "https://stream.zeno.fm/u3xvypyn7s8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO LUBAV",
+       "url": "https://stream.zeno.fm/1nyuv4n5h18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO MALSORI",
+       "url": "https://stream.zeno.fm/dwtfrg0w1ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Mana",
+       "url": "https://stream.zeno.fm/f0sdfbyyfm8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Marimanga Danimarke – Tirana – AL",
+       "url": "https://s11.ssl-stream.com:2199/tunein/marimanga.pls",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Melodia Shqip radio",
+       "url": "https://s41.myradiostream.com/:37680/listen.mp3"
+      },
+      {
+       "name": "Radio Mergimtari",
+       "url": "http://144.76.33.185:8000/?1464712890393.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Mirdita Live",
+       "url": "https://stream.zeno.fm/z647a3cepxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Nacional 93.6 FM",
+       "url": "https://stream.zeno.fm/c26dhum3zehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Nacional 93.6 Mhz",
+       "url": "https://stream.zeno.fm/fun9ckzvbphvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Netedy",
+       "url": "https://stream.zeno.fm/dcbwv6hsrfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio News 24",
+       "url": "http://5.196.97.98:8000/stream.mp3"
+      },
+      {
+       "name": "Radio Ngjallja",
+       "url": "http://84.20.84.114:1234/radiongjallja%20type=&#39audio/mpeg%20codecs="
+      },
+      {
+       "name": "Radio Okarina",
+       "url": "https://stream.zeno.fm/fxdnqzeqam0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "radio ona",
+       "url": "https://stream.zeno.fm/3iilutmrdv1tv",
+       "language_inferred": true
+      },
+      {
+       "name": "radio ona",
+       "url": "https://stream.zeno.fm/5ktm1hbbh0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio One - Tirana 95.2 FM",
+       "url": "https://cp1.sednastream.com/proxy/radioone94?mp=/stream?n=3464bd02c80d72519ad8",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Ora",
+       "url": "https://stream.zeno.fm/bc9vd0xaxdjvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Ora News",
+       "url": "https://radio.oranews.tv:8443/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio OTR",
+       "url": "https://stream.zeno.fm/nmcurtmh3v8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "radio ozone manele 1",
+       "url": "https://stream.zeno.fm/abqzfpz2y8utv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pendimi",
+       "url": "http://radio-pendimi.com:8000",
+       "bitrate": 128,
+       "logo": "http://radio.pervii.com/im/8/1549782668.jpg"
+      },
+      {
+       "name": "Radio Pendimi",
+       "url": "http://rtvpendimi.com:8000/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pendimi Kanali 1",
+       "url": "http://radio-pendimi.com:8000/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Perendimi",
+       "url": "http://radio-pendimi.com:8014/stream/1/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Plus-Kosovo",
+       "url": "https://stream.zeno.fm/hg5xu0bbdchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO PODGORICA",
+       "url": "https://stream.zeno.fm/2ygefwyyzp8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pozherani",
+       "url": "http://radio.1dhe1.com:9100/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO PSIKOTRON",
+       "url": "https://stream.zeno.fm/xezwexqufzzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pulla",
+       "url": "http://46.4.104.253:9986/stream/1"
+      },
+      {
+       "name": "Radio RA",
+       "url": "http://cast.az-streamingserver.com:8521/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO RA",
+       "url": "http://shqiponjat.network:8000/"
+      },
+      {
+       "name": "RADIO RADIO",
+       "url": "https://stream.zeno.fm/gnx8zrc4h18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO RADIO",
+       "url": "https://stream.zeno.fm/nr3nqw3qtf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Remi",
+       "url": "https://stream.zeno.fm/tvy89d3m8x8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Rinia",
+       "url": "https://stream.zeno.fm/z5te4cmwp68uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Shala e Bajgores",
+       "url": "https://stream.zeno.fm/uhz3kdvwz1zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio SHIFE",
+       "url": "https://stream.zeno.fm/4u53g8zcbxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Shqip",
+       "url": "https://cp1.sednastream.com/proxy/radioshqip?_=1&mp=%2F"
+      },
+      {
+       "name": "Radio Shqip - Tirana 92.0 MHz",
+       "url": "https://cp1.sednastream.com/proxy/radioshqip?mp=/stream?n=74d87f6010a2711fb386",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Shqip Folklor – AL",
+       "url": "http://85.215.168.56:8010/folklor",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio shvsh",
+       "url": "https://stream.zeno.fm/5tpdtx08n98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Skrapari",
+       "url": "https://stream-46.zeno.fm/7vdpuvp57zhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Soni Popullore",
+       "url": "https://stream.zeno.fm/pttnkdu54k0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Sprint",
+       "url": "http://freeshoutcast4you.com:7002/"
+      },
+      {
+       "name": "Radio start",
+       "url": "https://stream.zeno.fm/s50d2zlufxutv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Suno 91.7",
+       "url": "https://stream.zeno.fm/gvhlubcgfm3vv",
+       "language_inferred": true
+      },
+      {
+       "name": "radio sur rodriguez",
+       "url": "https://stream.zeno.fm/nrvp3nd3wuhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "radio teo",
+       "url": "https://stream.zeno.fm/fdd6qunsuf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Thesaret",
+       "url": "http://84.20.83.181:88/broadwave.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Thesaret",
+       "url": "https://stream.zeno.fm/dxvulhq5tactv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Tirana 2",
+       "url": "http://149.202.214.27:8888/radiotirana2",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO TIRANA DJ",
+       "url": "https://stream.zeno.fm/0vor12zjexqvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio travel 104.6 FM",
+       "url": "http://93.190.141.15:7253/"
+      },
+      {
+       "name": "RADIO TREPQA",
+       "url": "https://stream.zeno.fm/wxev75q0h18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO TROJET",
+       "url": "https://stream.zeno.fm/m5mq4qq7g18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio TSH",
+       "url": "https://stream.zeno.fm/pshdtrhkh48uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Viciana",
+       "url": "http://radioviciana.org:8000/?.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Ylberi",
+       "url": "http://radio.1dhe1.com:9600/"
+      },
+      {
+       "name": "Radio Ylberi – 94.9 FM – Tirana – AL",
+       "url": "https://radio.1dhe1.com:2020/stream/radioylberi",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Zemra",
+       "url": "http://radio-zemra.eu:8000/stream/1/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Zemra E Kosoves",
+       "url": "https://stream.zeno.fm/1rntfkw0uk8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Zeri I Arberit",
+       "url": "https://s11.ssl-stream.com/ssl/radiozer",
+       "language_inferred": true
+      },
+      {
+       "name": "RadioAlba",
+       "url": "https://stream.zeno.fm/0yfhc3vhephvv",
+       "language_inferred": true
+      },
+      {
+       "name": "radioarta",
+       "url": "https://stream.zeno.fm/cuh6vf6kyhhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "radioatividade",
+       "url": "https://stream.zeno.fm/988mhdxa608uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RadioBum",
+       "url": "http://stream.zeno.fm/dse5af2gs18uv"
+      },
+      {
+       "name": "Radiodardania",
+       "url": "https://stream.zeno.fm/rq23rd3s8hhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "RadioDeqani radio",
+       "url": "https://mars.streamerr.co/8052/stream"
+      },
+      {
+       "name": "radiodiana",
+       "url": "https://stream.zeno.fm/wgoiryffdzstv",
+       "language_inferred": true
+      },
+      {
+       "name": "RadioMolla",
+       "url": "https://stream.zeno.fm/s1mh9bcxhrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "RadioNatyra",
+       "url": "http://mars.streamerr.co:8266/",
+       "language_inferred": true
+      },
+      {
+       "name": "RadioOne",
+       "url": "https://cp1.sednastream.com/proxy/radioone94?mp=/stream?n=847332742414e7102a8f",
+       "language_inferred": true
+      },
+      {
+       "name": "RadioPrincesha",
+       "url": "https://stream.zeno.fm/0ukxgwhm6s8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RadioRapsodi",
+       "url": "https://stream.zeno.fm/khk647xryhhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radiorinora",
+       "url": "https://stream.zeno.fm/rraxrq19sd0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RadioShqiptaria",
+       "url": "https://stream.zeno.fm/3nkwskgphdptv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radiostationname",
+       "url": "https://stream.zeno.fm/8xcbaawb508uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RadioSvirca",
+       "url": "https://node-08.zeno.fm/3kpeqsqz7k0uv.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "radiotrepqa",
+       "url": "https://stream.zeno.fm/p0vtbqszh18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radiotrojeshqiptare",
+       "url": "https://stream.zeno.fm/0e0zht129nhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "RadioTropoja",
+       "url": "https://stream.zeno.fm/m267fetwmd0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RadioTropoja",
+       "url": "https://stream.zeno.fm/kbnrzvc4gd0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RadioVeriu",
+       "url": "https://stream.zeno.fm/4wc3xgpfbkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "RadioYjet",
+       "url": "http://212.24.109.1:8038/",
+       "language_inferred": true
+      },
+      {
+       "name": "RadioYlberi",
+       "url": "https://stream.zeno.fm/f6b1bpwzkh5uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Redi Streem",
+       "url": "https://stream.zeno.fm/n7wdc1qa2d0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Redirect Station Here",
+       "url": "https://stream.zeno.fm/y3hfps78af9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RetroManiac",
+       "url": "https://stream.zeno.fm/d75yxu13wwzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Ricks mta",
+       "url": "https://stream.zeno.fm/vy0xn8b4trhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "RickzinX O Mais Brabo Do P1",
+       "url": "https://stream.zeno.fm/c54xcywwkchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "RiniaRadio",
+       "url": "https://stream.zeno.fm/obycldsev91vv",
+       "language_inferred": true
+      },
+      {
+       "name": "Riverdance",
+       "url": "https://stream.zeno.fm/1tv5efymw98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "robstank",
+       "url": "https://stream.zeno.fm/5apm8g4g0c9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Rock2s",
+       "url": "https://stream.zeno.fm/btuhspkjypptv",
+       "language_inferred": true
+      },
+      {
+       "name": "Rockefeller club.",
+       "url": "https://stream.zeno.fm/6yjgsclangvuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Roni 2",
+       "url": "https://stream.zeno.fm/0owcrw15zfauv",
+       "language_inferred": true
+      },
+      {
+       "name": "rtsh radio",
+       "url": "https://stream.zeno.fm/picopmrnazfuv",
+       "language_inferred": true
+      },
+      {
+       "name": "RTSH Radio Shkodra 92.0 FM",
+       "url": "https://radiolive.rtsh.dev/radioshkodra",
+       "language_inferred": true
+      },
+      {
+       "name": "Rtv-Ahireti Kanali 2 Kur'an radio",
+       "url": "http://31.220.29.99:8008/stream.nsv",
+       "language_inferred": true
+      },
+      {
+       "name": "rtvmalsiarugoves",
+       "url": "https://stream.zeno.fm/e5yp5kc6cm8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RTVRadioBekimi.Us",
+       "url": "https://stream.zeno.fm/9x8na5wq0k0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RUSSIAN",
+       "url": "https://stream.zeno.fm/4ae3turqbc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Rusting",
+       "url": "https://stream.zeno.fm/uzcw9s4rzc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Nova fm",
+       "url": "https://stream.zeno.fm/59dm56spwxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "RÁDIO POWER FM",
+       "url": "https://stream.zeno.fm/wh48aqyqd0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "sadfghfdghj",
+       "url": "https://stream.zeno.fm/yf86vpi7soctv",
+       "language_inferred": true
+      },
+      {
+       "name": "Samp beta",
+       "url": "https://stream.zeno.fm/uywyn1uh9clvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Samp fm",
+       "url": "https://stream.zeno.fm/dhb6kbxlxcptv",
+       "language_inferred": true
+      },
+      {
+       "name": "Samp rp",
+       "url": "https://stream.zeno.fm/qmqm9rg8pivuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Samp rp",
+       "url": "https://stream.zeno.fm/qoxmmbcicvftv",
+       "language_inferred": true
+      },
+      {
+       "name": "Samp.rp",
+       "url": "https://stream.zeno.fm/xw4wusqyivqvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Sampadroid",
+       "url": "https://stream.zeno.fm/gfm511t9yxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "SBS - Albanian",
+       "url": "https://feedpress.me/link/17994/13813260/albanian_160820_pensioner_scheme.mp3"
+      },
+      {
+       "name": "Sca 399 Radio",
+       "url": "https://node-28.zeno.fm/984attqxmxquv.aac?rj-ttl=5&amprj-tok=AAABbt-EOSoAuG452gu4QbZmgw",
+       "language_inferred": true
+      },
+      {
+       "name": "Sca DJ Radio",
+       "url": "https://node-15.zeno.fm/q41gubffqxquv.aac?rj-ttl=5&amprj-tok=AAABbt-Oho8APfiN6f86-VRHmA",
+       "language_inferred": true
+      },
+      {
+       "name": "Sca Shqip Radio",
+       "url": "https://node-01.zeno.fm/7d94478unxquv.aac?rj-ttl=5&amprj-tok=AAABbt-JF2YAbDwPE3-jr51Jtw",
+       "language_inferred": true
+      },
+      {
+       "name": "Sca Shqip Radio",
+       "url": "https://stream.zeno.fm/7d94478unxquv",
+       "language_inferred": true
+      },
+      {
+       "name": "sdaasd",
+       "url": "https://stream.zeno.fm/cxxvnjmstv9vv",
+       "language_inferred": true
+      },
+      {
+       "name": "sdawdwsd",
+       "url": "https://stream.zeno.fm/8qssdm5b6ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "sddsdsds",
+       "url": "https://stream.zeno.fm/36rhp52h5nhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Seaid Radio",
+       "url": "https://stream.zeno.fm/be9dwy8nv38uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Sebasskjd",
+       "url": "https://stream.zeno.fm/8zdsq5zef0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "SEKEKANALE",
+       "url": "https://stream.zeno.fm/1c30sxz1znhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "setsodfdfsf",
+       "url": "https://stream.zeno.fm/3ftrj3ijnbctv",
+       "language_inferred": true
+      },
+      {
+       "name": "Shiloh dinasty",
+       "url": "https://stream.zeno.fm/63yhqaztekzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "shiqpeedee",
+       "url": "https://stream.zeno.fm/wgrcshg7aa9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Shock Radio",
+       "url": "https://stream.zeno.fm/wh13xn3kephvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Shoqata Flladi",
+       "url": "https://stream.zeno.fm/hac3dkwdtwzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Shpirte e Zemer",
+       "url": "https://stream.zeno.fm/0rqu0sebps8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Shqip Hits",
+       "url": "https://stream.zeno.fm/av0euchy24zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "SHQIP1",
+       "url": "https://stream.zeno.fm/xmx3yzvaby8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "SHQIPOS",
+       "url": "https://stream.zeno.fm/d93bmtb7aa9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Si Radio - DJ Artist",
+       "url": "https://stream.zeno.fm/p58rapnem48uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Si Radio - Gold",
+       "url": "https://stream.zeno.fm/dg6mcytem48uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Si Radio - Jazz",
+       "url": "https://stream.zeno.fm/a0wasfuem48uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Si Radio - Shqip",
+       "url": "https://stream.zeno.fm/sax0gabtp68uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Si Radio - Urban Beats",
+       "url": "https://stream.zeno.fm/vsh14gvem48uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Si Radio - Your House",
+       "url": "https://stream.zeno.fm/6upfb6sem48uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Si Radio Smooth",
+       "url": "https://stream.zeno.fm/renpr4kem48uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Si Radio – DJ Artist",
+       "url": "https://player.siradio.al:8443/djartist",
+       "language_inferred": true
+      },
+      {
+       "name": "Si Radio – Fresh",
+       "url": "https://player.siradio.al:8443/fresh",
+       "language_inferred": true
+      },
+      {
+       "name": "Si Radio – Gold – Tirana – AL",
+       "url": "https://player.siradio.al:8443/gold",
+       "language_inferred": true
+      },
+      {
+       "name": "Si Radio – Jazz – Tirana – AL",
+       "url": "https://player.siradio.al:8443/jazz",
+       "language_inferred": true
+      },
+      {
+       "name": "Si Radio – Rock",
+       "url": "https://player.siradio.al:8443/rock",
+       "language_inferred": true
+      },
+      {
+       "name": "Si Radio – Smooth",
+       "url": "https://player.siradio.al:8443/smooth",
+       "language_inferred": true
+      },
+      {
+       "name": "Si Radio – Urban Beats – Tirana – AL",
+       "url": "https://player.siradio.al:8443/urbanbeats",
+       "language_inferred": true
+      },
+      {
+       "name": "Si Radio – Your House",
+       "url": "https://player.siradio.al:8443/yourhouse",
+       "language_inferred": true
+      },
+      {
+       "name": "simba link",
+       "url": "https://stream.zeno.fm/a9esep80zehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "ska sen",
+       "url": "https://stream.zeno.fm/27qymeq7g18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "skatepunk",
+       "url": "https://stream.zeno.fm/rmkbc0ferchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Skodamus Radio",
+       "url": "https://stream.zeno.fm/xubf4z2u1p8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Skorpion",
+       "url": "https://stream.zeno.fm/ddytanfdf18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Skorpion13",
+       "url": "https://stream.zeno.fm/hkcxr3sdf18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "SKY VLORA",
+       "url": "https://stream.zeno.fm/n4bax26zwwzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "sn.mazk fm",
+       "url": "https://stream.zeno.fm/fp1z14490hhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Snooper Dj Arana",
+       "url": "https://stream.zeno.fm/0z5gufsavuhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "SO mandelao",
+       "url": "https://stream.zeno.fm/ra8qxe1r6whvv",
+       "language_inferred": true
+      },
+      {
+       "name": "SO STALONY SANTOS",
+       "url": "https://stream.zeno.fm/b80mwmbb4zouv",
+       "language_inferred": true
+      },
+      {
+       "name": "Sofrencia",
+       "url": "https://stream.zeno.fm/nosjfguhvtdvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Song alb",
+       "url": "https://stream.zeno.fm/i48wdz19d26uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Song alb",
+       "url": "https://stream.zeno.fm/ixbanrazftpuv",
+       "language_inferred": true
+      },
+      {
+       "name": "SpeakerStar",
+       "url": "https://stream.zeno.fm/fr2kq880ag8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Spider",
+       "url": "https://stream.zeno.fm/eats3bkva0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Spider",
+       "url": "https://stream.zeno.fm/qbqe3qqva0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Spotify Hits",
+       "url": "https://stream.zeno.fm/823x3uxz24zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "ss group radio",
+       "url": "https://stream.zeno.fm/u9wf2ah3v0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Star Radio Albania",
+       "url": "https://stream.zeno.fm/src4kwf2ynhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "StrasBourg Radio",
+       "url": "https://stream.zeno.fm/e8zhcnfsdfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "STREET.MP3",
+       "url": "https://stream.zeno.fm/sg4kxlinmrvtv",
+       "language_inferred": true
+      },
+      {
+       "name": "Street.mp3",
+       "url": "https://stream.zeno.fm/tnf7d2c5w0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Stretto Lounge Bar – Tirana – AL",
+       "url": "http://az1.sednastream.com/radio/8130/Live",
+       "language_inferred": true
+      },
+      {
+       "name": "subhi bakir",
+       "url": "https://stream.zeno.fm/6a8zakrebkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Suhareka2021",
+       "url": "https://stream.zeno.fm/726z3xkb408uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Suhareka2022",
+       "url": "https://stream.zeno.fm/gk6qyevhd0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Syri FM Radio - Tirana 89.8 MHz",
+       "url": "http://stream.zeno.fm/b1swrcx7cm0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "SYRI Radio",
+       "url": "https://stream.zeno.fm/021hkcx7cm0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Só as braba",
+       "url": "https://stream.zeno.fm/w7xt6hsxbphvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Só cria",
+       "url": "https://stream.zeno.fm/hwitjdnz6v1uv",
+       "language_inferred": true
+      },
+      {
+       "name": "TableCraft",
+       "url": "https://stream.zeno.fm/aq0tm9fxfs8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Tako321",
+       "url": "https://stream.zeno.fm/43xut6597ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Talento musica",
+       "url": "https://stream.zeno.fm/zkk6h47myrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Taraboshi",
+       "url": "https://stream.zeno.fm/p4f785bp4ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Tarcísio do acordeon",
+       "url": "https://stream.zeno.fm/e9zgtuasevsvv",
+       "language_inferred": true
+      },
+      {
+       "name": "TechLine Radio",
+       "url": "https://stream.zeno.fm/s2p2dp0j3ykuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Tercio",
+       "url": "https://stream.zeno.fm/30bbh76xpuhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Test.1",
+       "url": "https://stream.zeno.fm/nr6cn1uswrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "testkarf",
+       "url": "https://stream.zeno.fm/97bxv1mbg0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "testpraaa",
+       "url": "https://stream.zeno.fm/em3m17ykxy8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "testradio",
+       "url": "https://stream.zeno.fm/ri90rewpnlcvv",
+       "language_inferred": true
+      },
+      {
+       "name": "testtt",
+       "url": "https://stream.zeno.fm/vu2vakn5138uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Teu pai sksk",
+       "url": "https://stream.zeno.fm/83b9mn67v0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "the station",
+       "url": "https://stream.zeno.fm/4yfs1as7qchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Thelbi",
+       "url": "https://stream.zeno.fm/w8a9c743pf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "TiNNi Official",
+       "url": "https://stream.zeno.fm/5y7tp3pgs0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "toniemajami",
+       "url": "https://stream.zeno.fm/g3y2tx8y1ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Top Albania Radio - Tirana 100 .0 FM",
+       "url": "https://live.topgold.al/tar",
+       "language_inferred": true
+      },
+      {
+       "name": "Top Siglo XX 1",
+       "url": "https://stream.zeno.fm/lus1fjaxg2rtv",
+       "language_inferred": true
+      },
+      {
+       "name": "Tr3s J0l1e Rad1o",
+       "url": "https://stream.zeno.fm/m4n7zq7hh98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Trap - Oliver Community",
+       "url": "https://stream.zeno.fm/7nxbw2z5zf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Trap bpl 1",
+       "url": "https://stream.zeno.fm/v9wylcih3dlvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Trap de verdad",
+       "url": "https://stream.zeno.fm/gwopnbodlw9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Trap de verdad",
+       "url": "https://stream.zeno.fm/kdjegnbgbiovv",
+       "language_inferred": true
+      },
+      {
+       "name": "Trap PICANTE",
+       "url": "https://stream.zeno.fm/danwcsfv6rhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "TrapsBR",
+       "url": "https://stream.zeno.fm/6en3znz5098uv",
+       "language_inferred": true
+      },
+      {
+       "name": "trapsdadsa",
+       "url": "https://stream.zeno.fm/w76cf6qbu68uv",
+       "language_inferred": true
+      },
+      {
+       "name": "TrimiFm",
+       "url": "https://stream.zeno.fm/kmrxkbpg0zcuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Troll hahah",
+       "url": "https://stream.zeno.fm/khv5qdgnsuhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Tuzyy Drzavyy",
+       "url": "https://stream.zeno.fm/7nuvvy43xg0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Twerking",
+       "url": "https://stream.zeno.fm/6eccd3610f9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "tytytytytyty",
+       "url": "https://stream.zeno.fm/ny50vtc5u68uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Tzgospel (albania)",
+       "url": "https://stream.zeno.fm/zv1ee0zu2ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "ukjlhjmljkgh",
+       "url": "https://stream.zeno.fm/mp2mfvcea4yvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Unethical Radio",
+       "url": "https://stream.zeno.fm/8hwz1nf9508uv",
+       "language_inferred": true
+      },
+      {
+       "name": "URBAN-PULSE",
+       "url": "https://stream.zeno.fm/1vvzveuurnhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "URL ng1 Paulo londra kit Killah lgante callejero fino standly cris mj",
+       "url": "https://stream.zeno.fm/cdpwuqzcprhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "uthrhd7y4733",
+       "url": "https://stream.zeno.fm/6szbbnd6dxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Valrise Polish Community.",
+       "url": "https://stream.zeno.fm/2cifawhl6dquv",
+       "language_inferred": true
+      },
+      {
+       "name": "vapo vapo",
+       "url": "https://stream.zeno.fm/r69dtnqt7bhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "vbnbmnbnvbvcz",
+       "url": "https://stream.zeno.fm/yewve7juzxfuv",
+       "language_inferred": true
+      },
+      {
+       "name": "venoustown",
+       "url": "https://stream.zeno.fm/zok9srwshnltv",
+       "language_inferred": true
+      },
+      {
+       "name": "Vertigo",
+       "url": "https://stream.zeno.fm/c6n2re51qzzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "VGzada",
+       "url": "https://stream.zeno.fm/grbz01ght0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Vhjhsjnsb",
+       "url": "https://stream.zeno.fm/ilefllsmo1vvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Vida-Rol",
+       "url": "https://stream.zeno.fm/kpudptoxkoevv",
+       "language_inferred": true
+      },
+      {
+       "name": "Vila 23 – Tirana – AL",
+       "url": "http://az1.sednastream.com/radio/8100/radio.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Vlora Fm",
+       "url": "https://stream.zeno.fm/hkbu7477akutv",
+       "language_inferred": true
+      },
+      {
+       "name": "Vukovi67",
+       "url": "https://stream.zeno.fm/f8vpz5kge18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Vybzal",
+       "url": "https://stream.zeno.fm/pammmdusognvv",
+       "language_inferred": true
+      },
+      {
+       "name": "wadaddd",
+       "url": "https://stream.zeno.fm/imaxvr9qhfbvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Wedding Radio",
+       "url": "https://stream.zeno.fm/stuqnguexf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Wide Radio",
+       "url": "https://stream.zeno.fm/hmddgufwus8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "xath.hu",
+       "url": "https://stream.zeno.fm/njdcrqdit2ttv",
+       "language_inferred": true
+      },
+      {
+       "name": "xatradio",
+       "url": "https://stream.zeno.fm/fqkhp6faaf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Xdjdjskskskskskd",
+       "url": "https://stream.zeno.fm/e96kxgs76hwtv",
+       "language_inferred": true
+      },
+      {
+       "name": "yooooo",
+       "url": "https://stream.zeno.fm/fhzdenaars8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "YouTube AL",
+       "url": "https://stream.zeno.fm/bxkdtefqbc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "ySTVXdelas",
+       "url": "https://stream.zeno.fm/537dhhm7echvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Zabni radio",
+       "url": "https://stream.zeno.fm/cwn6dhbz908uv",
+       "language_inferred": true
+      },
+      {
+       "name": "zani veriut",
+       "url": "https://stream.zeno.fm/1d35wxpfbkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "zap 2222",
+       "url": "https://stream.zeno.fm/bf2rzegpk98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "zapaddd",
+       "url": "https://stream.zeno.fm/b9d7r2bruf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "zDolly",
+       "url": "https://stream.zeno.fm/ekn9im3bxyftv",
+       "language_inferred": true
+      },
+      {
+       "name": "ZeneRadioHache",
+       "url": "https://stream.zeno.fm/cynssyhhxy8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "zzzzzzz",
+       "url": "https://stream.zeno.fm/1hgy1rzqdfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Zëri i Amerikës - Lajmet e mbrëmjes",
+       "url": "http://www.zeriamerikes.com/podcast/?count=1&zoneId=3472"
+      },
+      {
+       "name": "Zëri i Amerikës - Lajmet e mëngjesit",
+       "url": "http://www.zeriamerikes.com/podcast/?count=1&zoneId=3471"
+      },
+      {
+       "name": "É O ST O MELHOR P1 DO CNA",
+       "url": "https://stream.zeno.fm/fd48b5z1tchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "é o tutu né vidha",
+       "url": "https://stream.zeno.fm/sq26mf73qf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Константа",
+       "url": "https://stream.zeno.fm/vzottmidokktv",
+       "language_inferred": true
+      },
+      {
+       "name": "نحيا وا نموت Remix",
+       "url": "https://stream.zeno.fm/0hxeyf3uwrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "نقابتنا",
+       "url": "https://stream.zeno.fm/kmyfgbnwgrhvv",
+       "language_inferred": true
+      }
+     ]
+    }
+   }
+  },
+  "English": {
+   "count": 17,
+   "genres": {
+    "chillout_lounge": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "ChillOut_Chromanova_",
+       "url": "http://5.9.111.169:8000/chromanova_chill-low"
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Love Radio 90.7",
+       "url": "https://radio.albanialoveradio.al/stream",
+       "tags": [
+        "pop_hits",
+        "easy_listening"
+       ]
+      }
+     ]
+    },
+    "electronic": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Best Pro Radio",
+       "url": "https://listen.openstream.co/6428/audio",
+       "tags": [
+        "electronic",
+        "pop_hits",
+        "reggae_ska",
+        "hip_hop_rap",
+        "soul_rnb_funk"
+       ]
+      },
+      {
+       "name": "Latitude Tirana",
+       "url": "https://listen.openstream.co/6588/audio",
+       "tags": [
+        "electronic",
+        "pop_hits",
+        "alternative_indie"
+       ]
+      },
+      {
+       "name": "Radio DJ Track to Track",
+       "url": "https://radio.albaniaradiodj.al/stream",
+       "tags": [
+        "electronic",
+        "pop_hits",
+        "house",
+        "soul_rnb_funk",
+        "hip_hop_rap"
+       ]
+      }
+     ]
+    },
+    "folk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Kiss Albania Radio",
+       "url": "https://stream.kissfm.com.al:8000/stream?ver=800173",
+       "tags": [
+        "electronic",
+        "folk",
+        "pop_hits",
+        "house",
+        "soul_rnb_funk"
+       ]
+      }
+     ]
+    },
+    "house": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "Artisti Radio (Don Bosko)",
+       "url": "https://az1.sednastream.com/radio/8000/Live?1582297952",
+       "tags": [
+        "house",
+        "techno"
+       ]
+      },
+      {
+       "name": "Best Pro Electronic",
+       "url": "https://az1.sednastream.com/radio/8150/radio.mp3?1596407858",
+       "tags": [
+        "house",
+        "techno",
+        "electronic"
+       ]
+      },
+      {
+       "name": "Chill Radio",
+       "url": "https://eu8.fastcast4u.com/proxy/chillradio?mp=/1",
+       "tags": [
+        "house",
+        "pop_hits",
+        "easy_listening",
+        "electronic",
+        "various_eclectic",
+        "soul_rnb_funk",
+        "rock",
+        "classical",
+        "chillout_lounge",
+        "country",
+        "drum_and_bass",
+        "kids",
+        "jpop_kpop_asia",
+        "trance_goa",
+        "world",
+        "news_talk",
+        "folk"
+       ]
+      },
+      {
+       "name": "Loti Vu Radio",
+       "url": "http://84.20.83.181:90/broadwave.mp3",
+       "tags": [
+        "electronic",
+        "pop_hits",
+        "house"
+       ]
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Pulla",
+       "url": "http://46.4.104.253:9986",
+       "tags": [
+        "news_talk",
+        "various_eclectic"
+       ]
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Positive Gold FM",
+       "url": "https://positivealtradio.streamguys1.com/positivegold",
+       "tags": [
+        "pop_hits",
+        "folk",
+        "oldies",
+        "classical",
+        "disco_eurodance",
+        "latin"
+       ]
+      }
+     ]
+    },
+    "soul_rnb_funk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Unikal Radio",
+       "url": "https://play.unikalradio.com",
+       "tags": [
+        "pop_hits",
+        "electronic",
+        "soul_rnb_funk",
+        "hip_hop_rap"
+       ]
+      }
+     ]
+    },
+    "techno": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio DJ FM - Hardstage",
+       "url": "https://play.dance.al:8050/radio.mp3"
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Radio Saranda",
+       "url": "http://109.169.23.123:10137/"
+      },
+      {
+       "name": "RadioAksa",
+       "url": "https://stream.zeno.fm/sv7pqjlddbytv"
+      },
+      {
+       "name": "Si Radio",
+       "url": "https://mpc2.mediacp.eu:8200/stream"
+      }
+     ]
+    }
+   }
+  },
+  "Italian": {
+   "count": 6,
+   "genres": {
+    "unclassified": {
+     "count": 6,
+     "stations": [
+      {
+       "name": "Deejay ALB",
+       "url": "https://stream.zeno.fm/9n4r0vmwqfhvv"
+      },
+      {
+       "name": "Deep House Albania",
+       "url": "https://stream.zeno.fm/rvtqg716u0hvv"
+      },
+      {
+       "name": "Disco Radio G.lostre",
+       "url": "https://stream.zeno.fm/7xtwhcuk1k0uv"
+      },
+      {
+       "name": "Melodi Zemre",
+       "url": "https://stream.zeno.fm/m1p123fqwtzuv"
+      },
+      {
+       "name": "Radio Deejay",
+       "url": "https://streamcdnm1-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/play1.m3u8"
+      },
+      {
+       "name": "Radio Këmishtaj",
+       "url": "https://stream.zeno.fm/vhhv5b990k8uv"
+      }
+     ]
+    }
+   }
+  },
+  "Greek": {
+   "count": 5,
+   "genres": {
+    "unclassified": {
+     "count": 5,
+     "stations": [
+      {
+       "name": "AK Redio",
+       "url": "https://stream.zeno.fm/lauwwxb1gmsvv"
+      },
+      {
+       "name": "Live Mallakastra",
+       "url": "https://stream.zeno.fm/tppxofnzv3ruv"
+      },
+      {
+       "name": "Live Mallakastra",
+       "url": "https://stream.zeno.fm/zov7zjqozqwtv"
+      },
+      {
+       "name": "Mythical Greek",
+       "url": "https://stream.zeno.fm/7qubyse9ay8uv"
+      },
+      {
+       "name": "Radio Dropolis",
+       "url": "https://stream.zeno.fm/5ts70qnnmxhvv"
+      }
+     ]
+    }
+   }
+  },
+  "Romanian": {
+   "count": 2,
+   "genres": {
+    "pop_hits": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio VIP Manele",
+       "url": "http://radiovip.servemp3.com:8000/"
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "radiofm",
+       "url": "https://stream.zeno.fm/fp0btsmv9vttv"
+      }
+     ]
+    }
+   }
+  },
+  "Multilingual": {
+   "count": 2,
+   "genres": {
+    "news_talk": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Radio Bar",
+       "url": "http://cp1.sednastream.com:8052/stream",
+       "tags": [
+        "news_talk",
+        "classical",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Tirana 3",
+       "url": "http://79.106.48.2:8000/radiotirana3",
+       "tags": [
+        "news_talk",
+        "world",
+        "various_eclectic",
+        "folk"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Spanish": {
+   "count": 2,
+   "genres": {
+    "unclassified": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Magic Music Albania",
+       "url": "https://stream.zeno.fm/wz2b9gvpq0hvv"
+      },
+      {
+       "name": "RADIO MUNDIAL",
+       "url": "https://stream.zeno.fm/emw7zffiqkivv"
+      }
+     ]
+    }
+   }
+  },
+  "Amharic": {
+   "count": 2,
+   "genres": {
+    "comedy": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "PressPress",
+       "url": "https://stream.zeno.fm/frvbrnz0338uv"
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "RADIOARTA1",
+       "url": "https://stream.zeno.fm/n2vxkeh44hhvv"
+      }
+     ]
+    }
+   }
+  },
+  "French": {
+   "count": 1,
+   "genres": {
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "RFI Monde",
+       "url": "https://live02.rfi.fr/rfimonde-96k.mp3"
+      }
+     ]
+    }
+   }
+  },
+  "Thai": {
+   "count": 1,
+   "genres": {
+    "pop_hits": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "IC Radio Ayutthaya",
+       "url": "http://radio1.serverradio.net:8278/stream.mp3"
+      }
+     ]
+    }
+   }
+  },
+  "Portuguese": {
+   "count": 1,
+   "genres": {
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Viciana radio",
+       "url": "http://radioviciana.org:8030/stream.nsv",
+       "tags": [
+        "news_talk",
+        "folk"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Hindi": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "sasaram",
+       "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio075/chunklist.m3u8"
+      }
+     ]
+    }
+   }
+  },
+  "Armenian": {
+   "count": 1,
+   "genres": {
+    "drum_and_bass": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Clock Radio",
+       "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM09AAC164.aac",
+       "tags": [
+        "drum_and_bass",
+        "news_talk",
+        "rock",
+        "decade_80s",
+        "decade_90s"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "German": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Hip Hop",
+       "url": "https://stream.zeno.fm/8071h118vuhvv"
+      }
+     ]
+    }
+   }
+  },
+  "Xhosa": {
+   "count": 1,
+   "genres": {
+    "sports": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "XXXXXXXXXXX",
+       "url": "https://stream.zeno.fm/dydd4y0sz68uv"
+      }
+     ]
+    }
+   }
+  },
+  "Akan": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "687t9769o6to0t96to060o7607",
+       "url": "https://stream.zeno.fm/vhd446m0xuhvv"
+      }
+     ]
+    }
+   }
+  },
+  "Afrikaans": {
+   "count": 1,
+   "genres": {
+    "world": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "radioarta1",
+       "url": "https://stream.zeno.fm/2nchc00d2hhvv"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

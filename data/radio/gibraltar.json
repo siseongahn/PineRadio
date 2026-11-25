@@ -1,0 +1,486 @@
+{
+ "country": "Gibraltar",
+ "count": 68,
+ "languages": {
+  "English": {
+   "count": 68,
+   "genres": {
+    "alternative_indie": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Gibraltar Gold Radio",
+       "url": "https://crs.webdesign-flash.ro/?q=http://e12488.cloudrad.io:8046/stream&plugin_id=7628&site_id=8520577",
+       "tags": [
+        "alternative_indie",
+        "pop_hits",
+        "decade_1920s_50s",
+        "decade_60s"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "decade_60s": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Go Go Radio Gibraltar",
+       "url": "http://centova.shoutca.st:8019/",
+       "tags": [
+        "decade_70s",
+        "decade_60s",
+        "decade_80s",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "Radio Gibraltar",
+       "url": "http://radio.gbc.gi:8080/gbcradio.mp3/stream.mp3",
+       "tags": [
+        "easy_listening",
+        "various_eclectic"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Gibraltar",
+       "url": "https://stream.pcradio.ru/gbc_gi-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Gibraltar",
+       "url": "https://london.audio-stream.com/proxy/gibralta?mp=/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Gibraltar Plus",
+       "url": "https://stream.pcradio.ru/gbc_gi_plus-med",
+       "language_inferred": true
+      }
+     ]
+    },
+    "electronic": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "BFBS Gibraltar",
+       "url": "https://edge-audio-03-gos2.sharp-stream.com/ssvcbfbs7.mp3",
+       "tags": [
+        "electronic",
+        "rock",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "kids": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "JoaoOKD",
+       "url": "https://stream.zeno.fm/ec53vx6q168uv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 5,
+     "stations": [
+      {
+       "name": "BFBS Radio 2",
+       "url": "http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs2.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Gibraltar",
+       "url": "http://sh.uk.audio-stream.com:8072/stream",
+       "tags": [
+        "college_community",
+        "various_eclectic",
+        "news_talk",
+        "rock"
+       ]
+      },
+      {
+       "name": "Radio Gibraltar",
+       "url": "https://sh.uk.audio-stream.com/proxy/gibralta?mp=/stream",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "easy_listening",
+        "rock",
+        "decade_80s",
+        "decade_90s",
+        "country",
+        "classical",
+        "jazz"
+       ]
+      },
+      {
+       "name": "Radio Gibraltar Plus",
+       "url": "http://s2.myradiostream.com:32910/",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "rock",
+        "classical",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Radio Gibraltar PLUS AM",
+       "url": "https://sh.uk.audio-stream.com/proxy/matorr00?mp=/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "oldies": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "GBC Radio Gibraltar Plus",
+       "url": "https://s2.myradiostream.com/32910/listen.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Gibraltargoldradio",
+       "url": "https://ca7ssl.rcast.net/stream/61553.mp3",
+       "tags": [
+        "oldies",
+        "decade_60s"
+       ]
+      },
+      {
+       "name": "Go Go Radio Gibraltar",
+       "url": "https://phoebe.streamerr.co:2320/stream.nsv",
+       "tags": [
+        "decade_70s",
+        "decade_60s",
+        "pop_hits",
+        "oldies",
+        "decade_80s"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Cidade Canção 102.3 FM Listen live",
+       "url": "https://cantador.app:9012/live",
+       "tags": [
+        "news_talk",
+        "oldies"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "Gibraltar Broadcasting Corporation",
+       "url": "http://sh.uk.audio-stream.com/proxy/gibralta"
+      },
+      {
+       "name": "Go Go Radio Gibraltar",
+       "url": "http://helium.shoutca.st:8019/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Go Go Radio Gibraltar",
+       "url": "http://phoebe.streamerr.co:2320/",
+       "tags": [
+        "various_eclectic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Go Go Radio Gibraltar",
+       "url": "http://helium.shoutca.st:8019/streamstream/1",
+       "language_inferred": true
+      }
+     ]
+    },
+    "rock": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "BFBS Gibraltar",
+       "url": "http://edge-audio-02-gos1.sharp-stream.com/ssvcbfbs7.mp3",
+       "tags": [
+        "rock",
+        "electronic"
+       ]
+      },
+      {
+       "name": "BFBS Gibraltar",
+       "url": "https://tx.sharp-stream.com/icecast.php?i=ssvcbfbs7.mp3",
+       "tags": [
+        "rock",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Gibraltargoldradio radio",
+       "url": "http://ca7.rcast.net:8046/stream",
+       "tags": [
+        "rock",
+        "oldies",
+        "pop_hits",
+        "decade_60s"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio GBC Radio Gibraltar",
+       "url": "http://radio.gbc.gi:8080/gbcradio.mp3",
+       "tags": [
+        "various_eclectic",
+        "rock",
+        "decade_80s",
+        "decade_90s",
+        "pop_hits"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      }
+     ]
+    },
+    "various_eclectic": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "BFBS Gibraltar",
+       "url": "http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs7.aac"
+      },
+      {
+       "name": "Gibraltar Gold Radio",
+       "url": "http://e10113.cloudrad.io:8046/"
+      },
+      {
+       "name": "Go Go Radio Gibraltar",
+       "url": "http://phoebe.streamerr.co:2320/stream",
+       "language_inferred": true
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 40,
+     "stations": [
+      {
+       "name": "012Aarariraaro",
+       "url": "https://stream.zeno.fm/ybvp3kzaa48uv",
+       "language_inferred": true
+      },
+      {
+       "name": "1raajini",
+       "url": "https://stream.zeno.fm/11cdfky8938uv",
+       "language_inferred": true
+      },
+      {
+       "name": "1vidya_rad",
+       "url": "https://stream.zeno.fm/b0pnbk0b938uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Cantonese International",
+       "url": "https://stream.zeno.fm/c14z3bwdbkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Caruaru correntina FM",
+       "url": "https://stream.zeno.fm/vut5n4vmxchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Cerveja FM",
+       "url": "https://stream.zeno.fm/fk3vrgf2ss8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Colombia y Venezuela - LLANERA - Musica del Llano",
+       "url": "https://stream.zeno.fm/iyiy0angx6otv",
+       "language_inferred": true
+      },
+      {
+       "name": "DJ Vaga",
+       "url": "https://stream.zeno.fm/z898my9pruhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "EL PARAISO DE LA AMISTAD",
+       "url": "https://stream.zeno.fm/w6bvy33rg98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Es Trendy",
+       "url": "https://stream.zeno.fm/602c5gm2tm0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "GBC Radio Gibraltar",
+       "url": "https://sh.uk.audio-stream.com/proxy/gibralta?mp=/stream?n=2df45f6b0acdb50e8b98",
+       "language_inferred": true
+      },
+      {
+       "name": "H7statt",
+       "url": "https://stream.zeno.fm/4uubhmem1uftv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hussain Al Jasmis Tunes Hummed",
+       "url": "https://stream.zeno.fm/zv1go4fm08uuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Japinhaa",
+       "url": "https://stream.zeno.fm/7zqdztbebfjtv",
+       "language_inferred": true
+      },
+      {
+       "name": "Jejeje",
+       "url": "https://stream.zeno.fm/cucjmixbjejuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Jonjon",
+       "url": "https://stream.zeno.fm/gn97gpu43rhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "KobaaA",
+       "url": "https://stream.zeno.fm/u11vhvb8bxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Leno brega",
+       "url": "https://stream.zeno.fm/avktxeowkyavv",
+       "language_inferred": true
+      },
+      {
+       "name": "LINDÃO",
+       "url": "https://stream.zeno.fm/nkbzdaqta78uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Loucuras",
+       "url": "https://stream.zeno.fm/udxarkvxznhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Marcelo",
+       "url": "https://stream.zeno.fm/cykykujxyv9tv",
+       "language_inferred": true
+      },
+      {
+       "name": "Mundofonias Radio 24h",
+       "url": "https://stream.zeno.fm/0y0wa3yhrwzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Na selva do 8 tropa do BX",
+       "url": "https://stream.zeno.fm/bdq7mu35vuhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO BPL 2",
+       "url": "https://stream.zeno.fm/cl2ppidak3ztv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Gibraltar PLUS FM – GI-GI",
+       "url": "http://94.23.23.97:32910/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio MDE",
+       "url": "https://stream.zeno.fm/68v71t0kxy8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO WEB CAPITAL",
+       "url": "https://stream.zeno.fm/2zf0u5khzchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "RockTube",
+       "url": "https://stream.zeno.fm/cup1ec6rq0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "RP rica",
+       "url": "https://stream.zeno.fm/6n0706y29nhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Sam gtaa",
+       "url": "https://stream.zeno.fm/9mve5m8n8rhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "sasaaaaaaaaaa",
+       "url": "https://stream.zeno.fm/dt2tdp81schvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Tcarmusic",
+       "url": "https://stream.zeno.fm/faa1g7gwpwdvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Trapzin",
+       "url": "https://stream.zeno.fm/tbr5e4k0bfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Trendy",
+       "url": "https://stream.zeno.fm/sa1kaz4rwrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "TV WB 84.8",
+       "url": "https://stream.zeno.fm/dfexk8658nhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Tzgospel swahili",
+       "url": "https://stream.zeno.fm/y728318dgfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "William Hill Horse Racing Radio",
+       "url": "http://betamg-i.akamaihd.net/hls/live/513429/willhill/0_r63sg109_1_1/chunklist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "WSG radio",
+       "url": "https://stream.zeno.fm/smjncmxbhcluv",
+       "language_inferred": true
+      },
+      {
+       "name": "Www.bokep Mertua Menantu Jepang 3gp.com",
+       "url": "https://stream.zeno.fm/td47qfygyukvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Yomusica",
+       "url": "https://stream.zeno.fm/sxxut00qhkhvv",
+       "language_inferred": true
+      }
+     ]
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,492 @@
+{
+ "country": "Bermuda",
+ "count": 59,
+ "languages": {
+  "English": {
+   "count": 57,
+   "genres": {
+    "christian_gospel": {
+     "count": 5,
+     "stations": [
+      {
+       "name": "CRCB Internet Radio",
+       "url": "https://or.mysonicserver.com/8042/stream",
+       "tags": [
+        "christian_gospel",
+        "rock"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "CRCB Internet Radio",
+       "url": "http://199.180.72.2:9065"
+      },
+      {
+       "name": "Inspire 105",
+       "url": "http://us1.internet-radio.com:8008/live",
+       "tags": [
+        "christian_gospel",
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Fe y Caridad",
+       "url": "http://s10.voscast.com:9198/stream",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Fe y Caridad Listen live",
+       "url": "https://s10.voscast.com:9199/server",
+       "tags": [
+        "pop_hits",
+        "christian_gospel"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "college_community": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "muhamad tantawi",
+       "url": "https://stream.zeno.fm/3ub2exdheq8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Victor Da Silva",
+       "url": "https://stream.zeno.fm/eh7bduzkr18uv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Mix 106 FM",
+       "url": "http://stream13.shoutcastsolutions.com:8121/mp3",
+       "tags": [
+        "pop_hits",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Seductively Silky Radio",
+       "url": "http://14133.live.streamtheworld.com:80/SP_R3345206_SC",
+       "tags": [
+        "easy_listening",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Seductively Silky Radio",
+       "url": "https://samcloud.spacial.com/api/listen?sid=118368&m=sc&rid=228394",
+       "language_inferred": true
+      }
+     ]
+    },
+    "electronic": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Vibe 103 FM radio",
+       "url": "http://cp11.serverse.com:7099/live",
+       "tags": [
+        "electronic",
+        "pop_hits",
+        "soul_rnb_funk"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "hip_hop_rap": {
+     "count": 5,
+     "stations": [
+      {
+       "name": "Bermuda College Radio",
+       "url": "https://streaming.radio.co/sbba10f75f/listen",
+       "tags": [
+        "pop_hits",
+        "hip_hop_rap",
+        "electronic",
+        "news_talk",
+        "college_community",
+        "soul_rnb_funk",
+        "folk"
+       ]
+      },
+      {
+       "name": "HOTT 1075 Bermuda",
+       "url": "https://iic.streamguys1.com/HOTT",
+       "tags": [
+        "hip_hop_rap",
+        "pop_hits",
+        "rock"
+       ]
+      },
+      {
+       "name": "Power 95",
+       "url": "https://crs.webdesign-flash.ro/?q=http://us3.internet-radio.com:8026/live&plugin_id=7628&site_id=8520577",
+       "tags": [
+        "hip_hop_rap",
+        "soul_rnb_funk",
+        "pop_hits",
+        "electronic",
+        "reggae_ska",
+        "easy_listening",
+        "oldies",
+        "news_talk",
+        "folk"
+       ]
+      },
+      {
+       "name": "Vibe 103 FM",
+       "url": "http://142.132.250.174:7131/mp3"
+      },
+      {
+       "name": "Vibe 103 FM",
+       "url": "http://69.46.24.226:7099/mp3",
+       "tags": [
+        "hip_hop_rap",
+        "electronic",
+        "pop_hits",
+        "soul_rnb_funk"
+       ]
+      }
+     ]
+    },
+    "kids": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "schemaposse",
+       "url": "https://stream.zeno.fm/zswhk3hk6yqvv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 6,
+     "stations": [
+      {
+       "name": "Hott FM",
+       "url": "https://iic.streamguys1.com/HOTT?starttime=1586769753",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "hip_hop_rap",
+        "oldies",
+        "rock",
+        "soul_rnb_funk",
+        "electronic"
+       ]
+      },
+      {
+       "name": "Magic 102.7 FM",
+       "url": "https://iic.streamguys1.com/MAGIC",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "easy_listening",
+        "jazz",
+        "classical"
+       ]
+      },
+      {
+       "name": "Ocean 89",
+       "url": "http://us2.internet-radio.com:8016/live",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "electronic",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Radio Lanarkshire",
+       "url": "http://192.99.8.170:9868/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "college_community",
+        "oldies",
+        "decade_2000s",
+        "decade_80s",
+        "decade_90s"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "VSB MIX 106 FM radio",
+       "url": "https://edward-gecko.radioca.st/stream",
+       "tags": [
+        "news_talk",
+        "rock",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Zone Radio Nyc",
+       "url": "http://96.31.83.86:8020/stream",
+       "tags": [
+        "news_talk",
+        "rock",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Mix 106",
+       "url": "http://50.7.99.155:7284/stream"
+      }
+     ]
+    },
+    "reggae_ska": {
+     "count": 6,
+     "stations": [
+      {
+       "name": "Dr Dick's Dub Shack",
+       "url": "https://streamer.radio.co/s0635c8b0d/listen",
+       "tags": [
+        "reggae_ska",
+        "chillout_lounge",
+        "electronic",
+        "world",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Irie 98.3 FM Bermuda",
+       "url": "https://cp12.shoutcheap.com:18151/stream",
+       "tags": [
+        "reggae_ska",
+        "pop_hits",
+        "folk"
+       ]
+      },
+      {
+       "name": "Irie 98.3 FM Bermuda",
+       "url": "https://crs.webdesign-flash.ro/?q=http://184.154.90.186:8231/&plugin_id=7628&site_id=8520577",
+       "tags": [
+        "reggae_ska",
+        "pop_hits",
+        "rock"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Irie 98.3 FM Bermuda",
+       "url": "http://cp12.shoutcheap.com:8151/stream/",
+       "language_inferred": true
+      },
+      {
+       "name": "Irie FM radio",
+       "url": "https://usa19.fastcast4u.com:7430/",
+       "tags": [
+        "reggae_ska",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Jamn97.com",
+       "url": "http://jamn97.com:8005/",
+       "tags": [
+        "reggae_ska",
+        "pop_hits",
+        "electronic"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "soul_rnb_funk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Seductive Vibes Radio",
+       "url": "http://204.141.167.21:10890/stream",
+       "language_inferred": true
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 26,
+     "stations": [
+      {
+       "name": "80-1980",
+       "url": "https://stream.zeno.fm/u49hqakx5k8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Best Japanese Music Mix",
+       "url": "https://stream.zeno.fm/qsqn11c4uc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Dr. Dick’s Dub Shack",
+       "url": "http://streamer.radio.co/s0635c8b0d/listen?fbclid=IwAR16t5mC5UFT9Fp8pbWe0dvYn9VEI3FYJTogE5AJtUF3G1dJi38lwLgD9as"
+      },
+      {
+       "name": "Dr. Dick’s Dub Shack",
+       "url": "http://streamer.radio.co/s0635c8b0d/listen?fbclid=IwAR16t5mC5UFT9Fp8pbWe0dvYn9VEI3FYJTogE5AJtUF3G1dJi38lwLgD9as?n=cb0fdbd1f475252d9270",
+       "language_inferred": true
+      },
+      {
+       "name": "FLASH DANCE",
+       "url": "https://stream.zeno.fm/ng8xn9dpq7zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hoje vai ter festinha",
+       "url": "https://stream.zeno.fm/9hgf3x15aa9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hott FM",
+       "url": "https://iic.streamguys1.com/HOTT?starttime=1590097330",
+       "language_inferred": true
+      },
+      {
+       "name": "Ingrid",
+       "url": "https://stream.zeno.fm/8y2fxrx7ec9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Irie 98",
+       "url": "https://usa14.fastcast4u.com/proxy/irie98?mp=/1?n=c063219b8cfb9da49d03",
+       "language_inferred": true
+      },
+      {
+       "name": "Irie 98.3",
+       "url": "https://iic.streamguys1.com/HOTT?starttime=1612776390",
+       "language_inferred": true
+      },
+      {
+       "name": "Jamn97.com – 97.0 FM – Saint George – BM",
+       "url": "http://jamn97.com:8000/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "LA SERVERINA FM",
+       "url": "https://stream.zeno.fm/fftx9btfalxvv",
+       "language_inferred": true
+      },
+      {
+       "name": "One Harmony Radio Bermuda",
+       "url": "https://stream.zeno.fm/9wh7b1uqwxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "radio 5ran",
+       "url": "https://stream.zeno.fm/1tpn2zrabxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Luiz Melodia",
+       "url": "https://stream.zeno.fm/rnuctgr0ra0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Red hot",
+       "url": "https://stream.zeno.fm/mrzpb4yzxc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Romanticos",
+       "url": "https://stream.zeno.fm/6r2163q5ckhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Saddy1",
+       "url": "https://stream.zeno.fm/6gysar66u18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Samp ytb",
+       "url": "https://stream.zeno.fm/jkxmlsuzd4cvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Sertanejo",
+       "url": "https://stream.zeno.fm/6zymdcpbqrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "SoulBliss Chill n Grind Club",
+       "url": "https://stream.zeno.fm/oyr6sxuio6rtv",
+       "language_inferred": true
+      },
+      {
+       "name": "Trapm8",
+       "url": "https://stream.zeno.fm/saqapf5h8whvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Tzgospel swahili",
+       "url": "https://stream.zeno.fm/nd152bfdhfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "URLNG1",
+       "url": "https://stream.zeno.fm/a5662uncnf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Utica ny radio",
+       "url": "https://stream.zeno.fm/wdf64pa7srhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "xdxddxddxd",
+       "url": "https://stream.zeno.fm/k3euudbcqxhvv",
+       "language_inferred": true
+      }
+     ]
+    }
+   }
+  },
+  "Spanish": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "ELEKTRATECHNO",
+       "url": "https://stream.zeno.fm/u8x7tt63hc9uv"
+      }
+     ]
+    }
+   }
+  },
+  "Arabic": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Toquedez",
+       "url": "https://stream.zeno.fm/q5wecpyg5nhvv"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,445 @@
+{
+ "country": "Brunei",
+ "count": 50,
+ "languages": {
+  "Malay": {
+   "count": 43,
+   "genres": {
+    "christian_gospel": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Tzgospel swahili (Brunei) radio",
+       "url": "https://stream.zeno.fm/6z80uwea7ehvv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "classical": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Harmoni FM",
+       "url": "https://d2kziuzkf9oizb.cloudfront.net/rd002/chunklist.m3u8",
+       "tags": [
+        "pop_hits",
+        "sports",
+        "oldies",
+        "classical",
+        "decade_1920s_50s"
+       ]
+      }
+     ]
+    },
+    "country": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Nosional 92.3 FM",
+       "url": "https://rtb-radio.glue.live/rd005/chunklist.m3u8",
+       "language_inferred": true
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "RTB – Pilihan FM",
+       "url": "https://rtb-radio.glue.live/rd003/chunklist.m3u8",
+       "tags": [
+        "easy_listening",
+        "oldies",
+        "world"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "electronic": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Progresif Radio",
+       "url": "http://184.154.43.106:8396/stream/1/",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "electronic",
+        "oldies",
+        "classical"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "islamic_quran": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "RTB Nur Islam FM",
+       "url": "https://d2kziuzkf9oizb.cloudfront.net/rd004/playlist.m3u8",
+       "tags": [
+        "islamic_quran",
+        "christian_gospel",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "RTB – Nur Islam FM",
+       "url": "https://rtb-radio.glue.live/rd004/playlist.m3u8",
+       "tags": [
+        "islamic_quran",
+        "news_talk"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 8,
+     "stations": [
+      {
+       "name": "Jiwang FM radio",
+       "url": "http://radio.jiwangfm.org:8000/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Pelangi FM",
+       "url": "https://d2kziuzkf9oizb.cloudfront.net/rd001/chunklist.m3u8",
+       "tags": [
+        "news_talk",
+        "soul_rnb_funk",
+        "world",
+        "pop_hits",
+        "hip_hop_rap"
+       ]
+      },
+      {
+       "name": "Radio BFBS Brunei",
+       "url": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs10.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Brunei Nasional FM",
+       "url": "https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Pelangi FM",
+       "url": "https://d2kziuzkf9oizb.cloudfront.net/rd001/playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "RTB Nasional FM",
+       "url": "https://d2kziuzkf9oizb.cloudfront.net/rd005/playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "RTB Pilihan FM radio",
+       "url": "https://d2kziuzkf9oizb.cloudfront.net/rd003/playlist.m3u8",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "RTB – Harmoni FM",
+       "url": "https://rtb-radio.glue.live/rd005/playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "kids",
+        "oldies",
+        "decade_1920s_50s",
+        "decade_60s"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "oldies": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Progresif Radio",
+       "url": "http://184.154.43.106:8396/stream/",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "oldies"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "RTB Harmoni FM",
+       "url": "https://d2kziuzkf9oizb.cloudfront.net/rd002/playlist.m3u8",
+       "tags": [
+        "pop_hits",
+        "oldies",
+        "decade_1920s_50s",
+        "decade_60s",
+        "decade_80s",
+        "decade_70s",
+        "decade_90s"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Kristal FM",
+       "url": "http://202.152.73.2:801/kfm",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "easy_listening",
+        "world"
+       ]
+      }
+     ]
+    },
+    "soul_rnb_funk": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Rentak Pelangi Muzik Fm",
+       "url": "http://72.20.10.61:8000/stream/1",
+       "tags": [
+        "pop_hits",
+        "soul_rnb_funk",
+        "alternative_indie",
+        "easy_listening",
+        "decade_90s"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "RTB – Pelangi FM",
+       "url": "https://rtb-radio.glue.live/rd001/chunklist.m3u8",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "soul_rnb_funk",
+        "easy_listening",
+        "hip_hop_rap",
+        "world"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "trance_goa": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "RauteMusik - Trance Listen live",
+       "url": "https://rautemusik-de-hz-fal-stream13.radiohost.de/trance?ref=rm5beta",
+       "tags": [
+        "trance_goa",
+        "electronic"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "various_eclectic": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "BFBS Brunei",
+       "url": "http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs10.aac"
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 21,
+     "stations": [
+      {
+       "name": "ASMIE-BR",
+       "url": "https://stream.zeno.fm/ye986grqrg8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Atapwd Exe 47",
+       "url": "https://stream.zeno.fm/nlzbm34eypsuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Badusha tu Daling",
+       "url": "https://stream.zeno.fm/quhkra7cu4cuv",
+       "language_inferred": true
+      },
+      {
+       "name": "BFBS Brunei",
+       "url": "https://edge-audio-01-cr.sharp-stream.com/ssvcbfbs10.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "CHILL BEACH",
+       "url": "https://stream.zeno.fm/sbqn5vp0aphvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Cyeena Studio85",
+       "url": "https://stream.zeno.fm/5k2s8srhgf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Essência da Adoração",
+       "url": "https://stream.zeno.fm/k6pszn4dxa0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "heart radio",
+       "url": "https://stream.zeno.fm/dc8k4a1tbphvv",
+       "language_inferred": true
+      },
+      {
+       "name": "musicas mta",
+       "url": "https://stream.zeno.fm/8qt21ksrsuhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Nusc 2",
+       "url": "https://stream.zeno.fm/j3znmdduaratv",
+       "language_inferred": true
+      },
+      {
+       "name": "palavrafervendo",
+       "url": "https://stream.zeno.fm/2e1w3chgc8zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Pelangi 91.4 FM",
+       "url": "https://edge-audio-01-cr.sharp-stream.com/ssvcbfbs10.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "Progresif Radio",
+       "url": "https://progresif.streamon.fm/stream/progresif-64k.aac?starttime=1548057163",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio DJ",
+       "url": "https://stream.zeno.fm/qren27hh7f0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Elvis",
+       "url": "https://stream.zeno.fm/zgrxh292ud0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO MANIA",
+       "url": "https://stream.zeno.fm/hd1rpwv2zf8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO MANIA",
+       "url": "https://stream.zeno.fm/d1n1uex2zf8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "radio mania fm 87.9",
+       "url": "https://stream.zeno.fm/xrt1apz3zf8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RTB Harmoni FM",
+       "url": "https://rtb-radio.glue.live/rd002/chunklist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "RÁDIO JA BRASIL",
+       "url": "https://stream.zeno.fm/dw741eumhm8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "STUDIO TOP MUSIC SERTANEJO",
+       "url": "https://stream.zeno.fm/6grw0r1vta0uv",
+       "language_inferred": true
+      }
+     ]
+    }
+   }
+  },
+  "Portuguese": {
+   "count": 5,
+   "genres": {
+    "unclassified": {
+     "count": 5,
+     "stations": [
+      {
+       "name": "Estúdio gospel",
+       "url": "https://stream.zeno.fm/pn9h9k3hx4zuv"
+      },
+      {
+       "name": "PORTAL BOA NOTICIA",
+       "url": "https://stream.zeno.fm/3c6n5d27z4zuv"
+      },
+      {
+       "name": "QTIPIM",
+       "url": "https://stream.zeno.fm/h44fzfa6e2zuv"
+      },
+      {
+       "name": "RestaurandoAltar",
+       "url": "https://stream.zeno.fm/0s7h88bqzd0uv"
+      },
+      {
+       "name": "Sao Luiz",
+       "url": "https://stream.zeno.fm/1txdg5fg74zuv"
+      }
+     ]
+    }
+   }
+  },
+  "English": {
+   "count": 1,
+   "genres": {
+    "pop_hits": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "BFBS Radio 1 Brunei",
+       "url": "https://icy-e-05-gos.sharp-stream.com/ssvcbfbs10.mp3",
+       "tags": [
+        "pop_hits",
+        "hip_hop_rap"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Swahili": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Tzgospel swahili",
+       "url": "https://stream.zeno.fm/asycpwea7ehvv"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

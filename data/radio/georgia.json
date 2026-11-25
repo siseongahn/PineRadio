@@ -1,0 +1,2810 @@
+{
+ "country": "Georgia",
+ "count": 386,
+ "languages": {
+  "English": {
+   "count": 312,
+   "genres": {
+    "alternative_indie": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "99X",
+       "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WWWQH2.mp3"
+      },
+      {
+       "name": "Chillwave.FM",
+       "url": "http://streaming101.radionomy.com/ChillwaveFM",
+       "tags": [
+        "alternative_indie",
+        "house"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Dive Bar Jukebox Radio",
+       "url": "http://streaming.radionomy.com/Dive-Bar-Jukebox",
+       "tags": [
+        "alternative_indie",
+        "oldies"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "WPGN Radio Atlanta",
+       "url": "http://uk1-vn.webcast-server.net:8028/",
+       "tags": [
+        "alternative_indie",
+        "christian_gospel"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "ambient_relax": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Red Wine Radio",
+       "url": "https://stream.pcradio.ru/rwradio_ml-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Relax web radio",
+       "url": "http://stream.iis.ge:8000/relax.mp3",
+       "country_inferred": true,
+       "language_inferred": true
+      }
+     ]
+    },
+    "blues": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Dr-Love Radio",
+       "url": "http://ice6.securenetsystems.net/DRLOVE"
+      }
+     ]
+    },
+    "chillout_lounge": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Red Wine Radio",
+       "url": "https://stream.zenolive.com/xg10kafehg0uv",
+       "tags": [
+        "chillout_lounge",
+        "jazz",
+        "electronic",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "christian_gospel": {
+     "count": 15,
+     "stations": [
+      {
+       "name": "CE Radio",
+       "url": "http://usa12.fastcast4u.com:5494/",
+       "language_inferred": true
+      },
+      {
+       "name": "FrontPew Radio",
+       "url": "http://player.live365.com/a01026?l",
+       "language_inferred": true
+      },
+      {
+       "name": "Kingdom Grind Radio",
+       "url": "http://62.210.24.124:8811/stream",
+       "tags": [
+        "christian_gospel",
+        "hip_hop_rap"
+       ]
+      },
+      {
+       "name": "New Journey Radio",
+       "url": "http://streaming.live365.com/a03775",
+       "tags": [
+        "christian_gospel",
+        "alternative_indie"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "POWERPOiNT Radio i56.7FM",
+       "url": "http://streaming.radio.co:80/sc310b71a9/listen",
+       "language_inferred": true
+      },
+      {
+       "name": "Pure Heart Radio",
+       "url": "http://streaming.radio.co/sfc62e0b71/listen",
+       "tags": [
+        "christian_gospel",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Eko Lagras",
+       "url": "http://usa2.fastcast4u.com/proxy/grace4u"
+      },
+      {
+       "name": "ReggieGay",
+       "url": "http://s2.yesstreaming.net:7019/stream"
+      },
+      {
+       "name": "The Praise House",
+       "url": "https://samcloud.spacial.com/api/listen?sid=81338&m=sc&rid=146676",
+       "language_inferred": true
+      },
+      {
+       "name": "Tzgospel Radio (Georgia)",
+       "url": "https://stream.zeno.fm/83ay8nda7ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Victory 91.5 FM",
+       "url": "http://s2.radioreformation.com:8002/"
+      },
+      {
+       "name": "WAY-FM 88.1 Thomasville",
+       "url": "https://wayfm.streamguys1.com/wayt.mp3"
+      },
+      {
+       "name": "WBGA DaZone Gospel Radio",
+       "url": "http://streams.museter.com:2199/tunein/dazone.asx",
+       "language_inferred": true
+      },
+      {
+       "name": "WJEU 103.7 FM",
+       "url": "http://ice64.securenetsystems.net/WJEU"
+      },
+      {
+       "name": "WNRE 98.1 FM",
+       "url": "http://198.143.144.226:8434/wnre981",
+       "tags": [
+        "college_community",
+        "christian_gospel"
+       ]
+      }
+     ]
+    },
+    "classical": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "MusicPax Eclecticity",
+       "url": "https://www.radioking.com/play/musicpax",
+       "tags": [
+        "oldies",
+        "classical"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio WSVH",
+       "url": "http://mediai1.gpb.org/wsvh?.mp3",
+       "tags": [
+        "news_talk",
+        "classical"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Wuga",
+       "url": "http://live.wuga.org:8000/stream.nsv",
+       "language_inferred": true
+      },
+      {
+       "name": "Techno Music Radio",
+       "url": "http://www.technomusic.com/live.php?stream=hi&type=mp3",
+       "tags": [
+        "classical",
+        "techno"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "college_community": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Radio Parachute",
+       "url": "https://stream.zeno.fm/0pnczd4ndv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "SCAD Radio",
+       "url": "http://scad-sav.stream.creek.fm/listen"
+      }
+     ]
+    },
+    "country": {
+     "count": 7,
+     "stations": [
+      {
+       "name": "Country 99",
+       "url": "http://4313.live.streamtheworld.com:80/WDENFM_SC",
+       "tags": [
+        "news_talk",
+        "country"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Kicks",
+       "url": "http://5913.live.streamtheworld.com:80/WKHXFM_SC",
+       "tags": [
+        "news_talk",
+        "country"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Rebel Redneck Radio",
+       "url": "http://edge1-a.exa.live365.net/a78581",
+       "tags": [
+        "news_talk",
+        "country"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "The Flame 105.7 FM",
+       "url": "http://mercury.friendlycity.net:8000/"
+      },
+      {
+       "name": "WNGC 106.1 FM",
+       "url": "http://oom-cmg.streamguys1.com/ath1061/ath1061-sgplayer-mp3"
+      },
+      {
+       "name": "WTUF 106.3 FM",
+       "url": "http://ice24.securenetsystems.net/WTUFFM"
+      },
+      {
+       "name": "Z 94.5 FM",
+       "url": "http://live.wostreaming.net/direct/southgeorgia-wbyzfmmp3-ibc2"
+      }
+     ]
+    },
+    "disco_eurodance": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Sputnik Южная Осетия Listen live",
+       "url": "https://icecast-ruvr.cdnvideo.ru/rian.voicetsk",
+       "tags": [
+        "schlager_polka",
+        "disco_eurodance"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "USA Dance Mix",
+       "url": "http://192.240.97.67:8059/",
+       "tags": [
+        "electronic",
+        "disco_eurodance"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Vakhtang Kikabidze Radio",
+       "url": "https://stream.pcradio.ru/Vahtang_Kikabidze-med",
+       "language_inferred": true
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Radio Fortuna",
+       "url": "https://tv.cdn.xsg.ge/cld9-0386/fortuna/index.m3u8",
+       "tags": [
+        "pop_hits",
+        "easy_listening",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Star FM - Tbilisi",
+       "url": "https://www.liveradio.es/http://stream.it-solutions.ge:8000/mp3-starfm",
+       "tags": [
+        "news_talk",
+        "easy_listening",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "electronic": {
+     "count": 8,
+     "stations": [
+      {
+       "name": "Deeptech Soundsystem",
+       "url": "http://199.195.194.94:8033/"
+      },
+      {
+       "name": "Euphoric Vibes Radio",
+       "url": "https://streams.radio.co/sca24be189/listen",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Mutant Radio",
+       "url": "https://listen.radioking.com/radio/282820/stream/328621",
+       "tags": [
+        "electronic",
+        "techno",
+        "ambient_relax",
+        "soul_rnb_funk",
+        "jazz",
+        "rock"
+       ]
+      },
+      {
+       "name": "Radio Electronauts",
+       "url": "https://stream.zeno.fm/4d98pq6cwg0uv",
+       "tags": [
+        "electronic",
+        "ambient_relax",
+        "various_eclectic",
+        "chillout_lounge",
+        "techno",
+        "world",
+        "easy_listening",
+        "drum_and_bass",
+        "jazz"
+       ]
+      },
+      {
+       "name": "Radio Electronauts",
+       "url": "https://stream.pcradio.ru/rad__rdlctrnts-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Fortuna 106.9 FM radio",
+       "url": "http://188.93.95.83/cld9-0386/fortuna/index.m3u8",
+       "tags": [
+        "pop_hits",
+        "electronic",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "The beat 93.1",
+       "url": "http://7269.live.streamtheworld.com:80/KQIZFM_SC",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "რადიო NRJ",
+       "url": "https://shaincast.caster.fm:24734/listen.mp3",
+       "language_inferred": true
+      }
+     ]
+    },
+    "folk": {
+     "count": 10,
+     "stations": [
+      {
+       "name": "Fortuna 106,9 FM Radio",
+       "url": "https://stream.pcradio.ru/rad_fortnge-med",
+       "tags": [
+        "news_talk",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Amra International",
+       "url": "https://stream.pcradio.ru/rad_rdmrgr-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Ar Daidardo",
+       "url": "https://stream.pcradio.ru/rad_arddardgr-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Tbilisi FM",
+       "url": "https://stream.pcradio.ru/rad_tbilsfm-med",
+       "tags": [
+        "folk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "RadioAjara რადიო აჭარა",
+       "url": "https://edge.mixlr.com/channel/bzorq",
+       "tags": [
+        "folk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "The Creek",
+       "url": "http://live.wostreaming.net/manifest/creekmedia-wnexfmmp3-ibc1"
+      },
+      {
+       "name": "Ucnobi FM",
+       "url": "https://securestreams5.autopo.st:1880/stream.ogg",
+       "tags": [
+        "pop_hits",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Ucnobi FM radio",
+       "url": "https://onlineradiobox.com/json/ge/ucnobi/play?platform=web",
+       "tags": [
+        "folk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "რადიო თბილისი (Radio Tbilisi)",
+       "url": "https://stream.pcradio.ru/rad_tblsfm-med",
+       "tags": [
+        "folk",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "რადიო ”არ დაიდარდო”",
+       "url": "https://tv.cdn.xsg.ge/cld9-0386/ardaidardo/index.m3u8",
+       "language_inferred": true
+      }
+     ]
+    },
+    "hip_hop_rap": {
+     "count": 21,
+     "stations": [
+      {
+       "name": "102.6 The Situation",
+       "url": "https://tunein.sonixcast.com/CSNX-9821/",
+       "tags": [
+        "hip_hop_rap",
+        "soul_rnb_funk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "520 Radio",
+       "url": "http://psn3.prostreaming.net:8536/stream"
+      },
+      {
+       "name": "ATL Web Radio",
+       "url": "http://usa2.fastcast4u.com:3664/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "BlackNationBuilders.com Radio Station",
+       "url": "http://listen.radionomy.com/blacknationbuilders",
+       "language_inferred": true
+      },
+      {
+       "name": "Blazin 92.3 FM WLZN",
+       "url": "http://8693.live.streamtheworld.com:80/WLZNFM_SC",
+       "language_inferred": true
+      },
+      {
+       "name": "Extreme Exposure Radio",
+       "url": "http://node-25.zeno.fm:80/1tv2wfr01zquv"
+      },
+      {
+       "name": "Fleet Dj Radio",
+       "url": "http://149.56.157.81:8551"
+      },
+      {
+       "name": "Freedom Network Gospel Radio WFNR-DB",
+       "url": "http://192.95.18.87:5126/stream",
+       "tags": [
+        "hip_hop_rap",
+        "christian_gospel"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "GMR Drop Bombs Radio",
+       "url": "http://s46.myradiostream.com:4690/listen.mp3",
+       "tags": [
+        "hip_hop_rap",
+        "soul_rnb_funk",
+        "alternative_indie"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "HOH Radio",
+       "url": "http://edge2-a.exa.live365.net/a32745",
+       "language_inferred": true
+      },
+      {
+       "name": "Home Team Radio",
+       "url": "http://N/A",
+       "tags": [
+        "hip_hop_rap",
+        "country"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "IAMC TV Radio",
+       "url": "https://amccast.com/8054/stream",
+       "tags": [
+        "hip_hop_rap",
+        "world"
+       ]
+      },
+      {
+       "name": "INVeNO BLaZE FM",
+       "url": "http://edge1-a.exa.live365.net/a66734"
+      },
+      {
+       "name": "Legal Crime Radio",
+       "url": "https://91.121.178.222:8240/",
+       "tags": [
+        "electronic",
+        "chillout_lounge",
+        "hip_hop_rap",
+        "soul_rnb_funk"
+       ]
+      },
+      {
+       "name": "majic108fm.com",
+       "url": "http://janus.cdnstream.com:5623/live?esPlayer&cb=469331.mp3",
+       "tags": [
+        "hip_hop_rap",
+        "oldies"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "powernitelife",
+       "url": "http://listen.radionomy.com/powernitelife",
+       "tags": [
+        "hip_hop_rap",
+        "soul_rnb_funk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Raw Radio- i Am Classic Hip Hop",
+       "url": "http://206.190.136.141:4755/Live",
+       "tags": [
+        "hip_hop_rap",
+        "soul_rnb_funk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Sir Classic's Comedy Zone",
+       "url": "https://station.voscast.com/5f75cf9117287/",
+       "tags": [
+        "hip_hop_rap",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "SOM Talk Live",
+       "url": "https://streaming.live365.com/a55432"
+      },
+      {
+       "name": "WBQE FM RADIO ATLANTA",
+       "url": "http://puma.streemlion.com:2550/stream",
+       "tags": [
+        "pop_hits",
+        "hip_hop_rap"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "WKIR 99 Radio",
+       "url": "https://listen.radionomy.com/wkir99radio",
+       "tags": [
+        "hip_hop_rap",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "house": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Radio Star",
+       "url": "http://65.19.131.142/urban-wmsrfmmp3-64?session-id=1835648473",
+       "tags": [
+        "house",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio WRAF",
+       "url": "http://sc1.nwrnetwork.com:8034/",
+       "tags": [
+        "house",
+        "christian_gospel"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio WRFG",
+       "url": "http://streaming.wrfg.org/stream.nsv",
+       "tags": [
+        "news_talk",
+        "house"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "jazz": {
+     "count": 6,
+     "stations": [
+      {
+       "name": "JazzBeatsRadio",
+       "url": "https://ice3.securenetsystems.net/JAZZBEAT"
+      },
+      {
+       "name": "JazzWaves Radio",
+       "url": "http://listen.radionomy.com/jazzwavesradio.m3u",
+       "tags": [
+        "jazz",
+        "chillout_lounge"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "JazzyGroove Radio",
+       "url": "http://player.radioloyalty.com/station/23605.html",
+       "tags": [
+        "hip_hop_rap",
+        "jazz"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "KBCN RADIO",
+       "url": "http://solid24.streamupsolutions.com:8020/stream",
+       "tags": [
+        "jazz",
+        "rock",
+        "news_talk",
+        "acid_jazz",
+        "country",
+        "classical",
+        "soul_rnb_funk",
+        "house",
+        "hip_hop_rap",
+        "drum_and_bass",
+        "kids",
+        "world",
+        "oldies"
+       ]
+      },
+      {
+       "name": "Radio WCLK",
+       "url": "http://pubint.ic.llnwd.net/stream/pubint_wclk",
+       "tags": [
+        "house",
+        "jazz"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "ტელე-რადიო კომპანია \"თრიალეთი\" Listen live",
+       "url": "https://s39.myradiostream.com/10898/listen.mp3",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "jazz"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "kids": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "bbbrapper",
+       "url": "https://stream.zeno.fm/6evpxyntnd0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "IODI FM",
+       "url": "https://stream.zeno.fm/0najxq5qahstv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "latin": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "La Bonita 610 AM",
+       "url": "http://s5.voscast.com:8372/stream/1",
+       "language_inferred": true
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 43,
+     "stations": [
+      {
+       "name": "Ar Daidardo FM - Tbilisi",
+       "url": "http://89.232.63.218:8000/radio/ardaidardo",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Avtoradio 95,1 FM - Tbilisi",
+       "url": "https://www.liveradio.es/http://89.232.63.218:8000/radio/autoradio",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "COMFORT MINISTRIES RADIO",
+       "url": "http://109.123.116.202:7019/stream",
+       "tags": [
+        "news_talk",
+        "christian_gospel"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Decatur FM",
+       "url": "http://groundrushlabs.com/radio/8050/radio.mp3",
+       "tags": [
+        "various_eclectic",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Fortuna FM - Tbilisi",
+       "url": "http://89.232.63.218:8000/radio/fortuna",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "GPB Radio - WABR 91.1 FM",
+       "url": "http://gpb.streamguys1.com/gpb-radio-mp3",
+       "tags": [
+        "news_talk",
+        "classical"
+       ]
+      },
+      {
+       "name": "GPB Radio - WACG 90.7 FM",
+       "url": "https://crs.webdesign-flash.ro/?q=http://gpb.iad.streamguys1.com:80/gpb-radio-aac&plugin_id=7628&site_id=8520577",
+       "tags": [
+        "news_talk",
+        "classical",
+        "jazz",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "GPB Radio - WWIO 88.9 FM",
+       "url": "http://gpb.iad.streamguys1.com:80/gpb-savannah-aac",
+       "tags": [
+        "news_talk",
+        "classical"
+       ]
+      },
+      {
+       "name": "Helping Hand Listen live",
+       "url": "https://helpinghand.out.airtime.pro/helpinghand_a",
+       "tags": [
+        "news_talk",
+        "soul_rnb_funk",
+        "techno",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Just 4 Fun Radio",
+       "url": "http://38.96.148.18:7688",
+       "tags": [
+        "pop_hits",
+        "various_eclectic",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Mix 107 WEGC",
+       "url": "http://3573.live.streamtheworld.com:80/WEGCFM_SC",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "News-Talk 1380 WAOK",
+       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/WAOKAM_SC.dist=vtuner"
+      },
+      {
+       "name": "Newstalk 1590 AM",
+       "url": "http://3573.live.streamtheworld.com:80/WALGAM_SC",
+       "language_inferred": true
+      },
+      {
+       "name": "NIDO Radio",
+       "url": "https://amccast.com/8052/stream",
+       "tags": [
+        "news_talk",
+        "world"
+       ]
+      },
+      {
+       "name": "Prisonworld Radio",
+       "url": "http://alpha.podcasttoradio.com/12211",
+       "language_inferred": true
+      },
+      {
+       "name": "Pro Business Channel",
+       "url": "http://mixlr.com/pro-business-channel/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 1 (102.4 FM) radio",
+       "url": "https://player.1tv.ge/radio1",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 2 FM 100.9 Listen live",
+       "url": "https://tv.cdn.xsg.ge/gpb-radio2/tracks-a1/mono.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Argo - Zestafoni",
+       "url": "https://www.liveradio.es/http://45.143.109.51:8000/stream.mp3?fbclid=IwAR34mkQdGqD8bD44nZB6E07OqlPw9qsK9x_GFAhWm4S0aa_jgEn_R7eut24",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio BBN",
+       "url": "http://pubint.ic.llnwd.net/stream/pubint_wrti2",
+       "tags": [
+        "news_talk",
+        "jazz",
+        "christian_gospel"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio DK - Kutaisi",
+       "url": "https://www.liveradio.es/http://iis.ge:8000/radiodk.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Hereti FM 102,8 - Lagodekhi",
+       "url": "https://www.liveradio.es/http://iis.ge:8000/hereti.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO HERETI FM 102.8",
+       "url": "http://stream.iis.ge:8000/hereti.mp3",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Radio His",
+       "url": "http://209.85.88.199:1000/?.mp3",
+       "tags": [
+        "news_talk",
+        "christian_gospel"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio JAKO radio",
+       "url": "http://81.16.244.251:8000/jako.fm",
+       "tags": [
+        "pop_hits",
+        "sports",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Liberty / Radiotavisupleba.ge",
+       "url": "http://rfe-channel-03.akacast.akamaistream.net/7/882/229653/v1/ibb.akacast.akamaistream.net/rfe_channel_03.mp3",
+       "tags": [
+        "news_talk",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio New Life",
+       "url": "http://cp9.shoutcheap.com:8175/stream.nsv",
+       "tags": [
+        "news_talk",
+        "christian_gospel"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Soma",
+       "url": "http://91.207.180.75/?609543200582266",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Sputnik Аҧсны",
+       "url": "https://riavoice.gcdn.co/voicesuh",
+       "tags": [
+        "news_talk",
+        "sports"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Sputnik Хуссар Ирыстон radio",
+       "url": "https://sndria.gcdn.co/voicetsk",
+       "tags": [
+        "news_talk",
+        "sports"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Tavisupleba",
+       "url": "https://rfe11.akacast.akamaistream.net/7/893/437769/v1/ibb.akacast.akamaistream.net/rfe11",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio WAOK",
+       "url": "http://1531.live.streamtheworld.com/WAOKAMDIALUP_SC",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "sknews.ge",
+       "url": "http://stream.iis.ge:8000/sk.mp3",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "The Fan 1500 AM",
+       "url": "http://5913.live.streamtheworld.com:80/WAYSAM_SC",
+       "tags": [
+        "news_talk",
+        "sports"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "The Sir Classic Show",
+       "url": "https://station.voscast.com/60e3bf68f128e/",
+       "language_inferred": true
+      },
+      {
+       "name": "Tvistomi Radio",
+       "url": "https://s2.radio.co/sa04dce859/listen",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "WALG News Talk AM 1590",
+       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/WALGAM_SC"
+      },
+      {
+       "name": "WAY Radio",
+       "url": "http://kuow.streamguys1.com/kuow1-hi.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "christian_gospel"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "WDDO 1240 AM",
+       "url": "http://4313.live.streamtheworld.com:80/WDDOAM_SC",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "WGAC News 580 AM",
+       "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WGACAM.mp3"
+      },
+      {
+       "name": "WGAU 1340 AM",
+       "url": "http://oom-cmg.streamguys1.com/ath1340/ath1340-sgplayer-mp3"
+      },
+      {
+       "name": "WSBB-FM - WSB Radio",
+       "url": "https://oom-cmg.streamguys1.com/atl750/atl750-sgplayer-mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "რადიო \"თრიალეთი\" radio",
+       "url": "http://www.myvideo.ge/radio/fm-trialeti-104.9",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "folk"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "oldies": {
+     "count": 7,
+     "stations": [
+      {
+       "name": "Magic 102.1 FM",
+       "url": "http://oom-cmg.streamguys1.com/ath1021/ath1021-sgplayer-mp3",
+       "tags": [
+        "pop_hits",
+        "oldies"
+       ]
+      },
+      {
+       "name": "Radio Palitra radio",
+       "url": "https://radiostream.palitra.ge/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radioactive Beach Music",
+       "url": "http://listen.radionomy.com/radioactivebeachmusic",
+       "tags": [
+        "oldies",
+        "blues"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Storytime Radio Presents",
+       "url": "https://s3.radio.co/s6d4e0d6c2/listen",
+       "tags": [
+        "news_talk",
+        "oldies"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "The Beacon",
+       "url": "http://streaming.live365.com/a80352"
+      },
+      {
+       "name": "The Fox 94.7",
+       "url": "http://s19.myradiostream.com:14280/listen.mp3"
+      },
+      {
+       "name": "WKEU Radio 1450 AM",
+       "url": "http://ice7.securenetsystems.net/WKEUFM"
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 28,
+     "stations": [
+      {
+       "name": "103.7 Chuck FM",
+       "url": "http://oom-cmg.streamguys1.com/ath1037/ath1037-sgplayer-mp3"
+      },
+      {
+       "name": "Autoradio",
+       "url": "https://nue01-edge01.itdc.ge/fm-autoradio-95.1/mono.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "B 98.5",
+       "url": "http://oom-cmg.streamguys1.com/atl985/atl985-sgplayer-mp3"
+      },
+      {
+       "name": "Batumi FM / რადიო ბათუმი FM",
+       "url": "https://nue01-edge01.itdc.ge/fm-batumi-93.7/mono.m3u8'",
+       "language_inferred": true
+      },
+      {
+       "name": "Batumi Fm 93.7 radio",
+       "url": "http://45.9.46.110:1515/batumifm",
+       "language_inferred": true
+      },
+      {
+       "name": "Channel 27",
+       "url": "http://listen.channel27.net:8011"
+      },
+      {
+       "name": "Fortuna Plus - Tbilisi",
+       "url": "https://www.liveradio.es/http://89.232.63.218:8000/radio/fortunaplus",
+       "language_inferred": true
+      },
+      {
+       "name": "Fortuna Plus radio",
+       "url": "http://tv.cdn.xsg.ge/cld9-0386/fortunaplus/index.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "GT Radio",
+       "url": "https://nue01-edge01.itdc.ge/fm-georgiantimes-92.3/mono.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "Hot 98.3",
+       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/WGCOFM_SC"
+      },
+      {
+       "name": "IMEDI.FM",
+       "url": "http://onair15.xdevel.com:8470/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "KBCN The Voice",
+       "url": "http://stream.radio.co/sceebe6399/listen",
+       "tags": [
+        "various_eclectic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "KBCN THE VOICE",
+       "url": "http://radio.streemlion.com:1570/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Live 101.9 FM",
+       "url": "http://104.238.118.2:8000/1"
+      },
+      {
+       "name": "Merge98FM",
+       "url": "http://edge2-b.exa.live365.net/a30151"
+      },
+      {
+       "name": "Q1 Radio Hits",
+       "url": "http://www.ribotech.net:8002",
+       "tags": [
+        "pop_hits",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Radio Electronauts",
+       "url": "https://node-32.zeno.fm/eqd0fq6cwg0uv.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio GIPA",
+       "url": "http://31.146.205.144:8000/livemp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio NOR",
+       "url": "http://stream.iis.ge:8000/nor.mp3",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Radio One",
+       "url": "http://live.radio2.ge:8000/live",
+       "language_inferred": true
+      },
+      {
+       "name": "Rockin WAVES 11294",
+       "url": "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=1429480",
+       "tags": [
+        "pop_hits",
+        "oldies"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Shine 101.9",
+       "url": "http://s3.voscast.com:8760/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "Star 94.1",
+       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/WSTRFM_SC"
+      },
+      {
+       "name": "WPUP POWER 100.1 FM",
+       "url": "http://oom-cmg.streamguys1.com/ath1001/ath1001-sgplayer-mp3"
+      },
+      {
+       "name": "რადიო მაესტრო / Maestro",
+       "url": "https://nue01-edge01.itdc.ge/fm-maestro-94.7/mono.m3u8"
+      },
+      {
+       "name": "რადიო უცნობი / Unchobi FM",
+       "url": "https://nue01-edge01.itdc.ge/fm-ucnobi-98.1/mono.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "რადიო ფორტუნა პლუს / Fortuna Plus",
+       "url": "https://nue01-edge01.itdc.ge/fm-radiofortunaplus-103.4/mono.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "რადიო ჩვენებური / Chveneburi",
+       "url": "https://radio.cdn.xsg.ge/cld9-1050/chveneburi/mono.m3u8",
+       "language_inferred": true
+      }
+     ]
+    },
+    "reggae_ska": {
+     "count": 5,
+     "stations": [
+      {
+       "name": "Caribriddims Radio",
+       "url": "http://eclipse.wavestreamer.com:1848/listen.m3u?sid=1",
+       "tags": [
+        "reggae_ska",
+        "alternative_indie"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Dancehall Link Radio",
+       "url": "http://99.198.118.250:8016/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "Future Movement Radio",
+       "url": "http://s7.streammonster.com:8233/stream",
+       "tags": [
+        "reggae_ska",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "IRIE ATL",
+       "url": "http://167.114.157.212:8079/"
+      },
+      {
+       "name": "Rebelradiolink",
+       "url": "http://stardust.wavestreamer.com:5160/stream/1",
+       "tags": [
+        "reggae_ska",
+        "hip_hop_rap",
+        "electronic"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "rock": {
+     "count": 13,
+     "stations": [
+      {
+       "name": "104.9 The Rebel",
+       "url": "http://wrbf.streamon.fm:8000/wrbf-48k.aac"
+      },
+      {
+       "name": "99 Rock 1340 WTIF",
+       "url": "http://216.105.188.14:8002"
+      },
+      {
+       "name": "Androdesias Rock Radio",
+       "url": "http://eu6.fastcast4u.com:5236/",
+       "language_inferred": true
+      },
+      {
+       "name": "Fortuna Plus",
+       "url": "http://188.93.95.83/cld9-0386/fortunaplus/tracks-a1/mono.m3u8",
+       "tags": [
+        "rock",
+        "easy_listening",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Hair Metal Radio",
+       "url": "http://www.hairmetalradio.com:8018/",
+       "tags": [
+        "rock",
+        "oldies"
+       ]
+      },
+      {
+       "name": "Let's Talk",
+       "url": "http://blogtalkradio.com/letstalkwithaleciahill",
+       "tags": [
+        "rock",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "LIVEROCKRADIO",
+       "url": "http://stream.zeno.fm/0xw67fkqbsquv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Bloody Hell",
+       "url": "http://listen.radionomy.com/radiobloodyhell",
+       "tags": [
+        "rock",
+        "metal"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio V 103",
+       "url": "http://192.81.248.192:8082/stream.nsv",
+       "tags": [
+        "rock",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Rock Bar Radio",
+       "url": "http://209.105.250.68:8286",
+       "tags": [
+        "rock",
+        "metal"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Rock93X",
+       "url": "http://5.135.178.110:8214/"
+      },
+      {
+       "name": "The Armadillo 107.1",
+       "url": "http://13993.live.streamtheworld.com/KPURFM_SC",
+       "tags": [
+        "rock",
+        "house",
+        "country",
+        "christian_gospel"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "The River 97.1",
+       "url": "http://oom-cmg.streamguys1.com/atl971/atl971-sgplayer-mp3"
+      }
+     ]
+    },
+    "soul_rnb_funk": {
+     "count": 19,
+     "stations": [
+      {
+       "name": "105.5 FM The King",
+       "url": "http://cast5.servcast.net:4299/",
+       "tags": [
+        "soul_rnb_funk",
+        "hip_hop_rap"
+       ]
+      },
+      {
+       "name": "Classy Silhouette Radio",
+       "url": "https://www.radionomy.com/en/radio/classy-silhouette-radio-station",
+       "tags": [
+        "soul_rnb_funk",
+        "hip_hop_rap"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "G100 WXYY",
+       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/WXYYFM_SC",
+       "tags": [
+        "soul_rnb_funk",
+        "hip_hop_rap"
+       ]
+      },
+      {
+       "name": "Hot2100",
+       "url": "https://ice66.securenetsystems.net/HOT2100?playSessionID=9763D8F3-155D-C0F4-073CBAA7A97BB424",
+       "tags": [
+        "soul_rnb_funk",
+        "hip_hop_rap"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Kdubradio",
+       "url": "https://streaming.radio.co/sc6014ee12/listen",
+       "tags": [
+        "soul_rnb_funk",
+        "hip_hop_rap"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Kiss 104.1",
+       "url": "http://oom-cmg.streamguys1.com/atl1041/atl1041-sgplayer-mp3"
+      },
+      {
+       "name": "Legal Crime Radio",
+       "url": "http://us5.internet-radio.com:8070/stream",
+       "tags": [
+        "soul_rnb_funk",
+        "hip_hop_rap"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Lyrics & Flow4me",
+       "url": "http://listen.radionomy.com/lyrics-flow4me",
+       "tags": [
+        "soul_rnb_funk",
+        "hip_hop_rap"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Magic 103.9 FM",
+       "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WTYBFM.mp3"
+      },
+      {
+       "name": "NightShot Radio",
+       "url": "http://s12.myradiostream.com:10294/listen.mp3",
+       "tags": [
+        "soul_rnb_funk",
+        "pop_hits",
+        "hip_hop_rap"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Platinum Hitz Radio",
+       "url": "http://s4.radio.co/s6b4042f3e/listen.m3u",
+       "tags": [
+        "hip_hop_rap",
+        "soul_rnb_funk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radi-YOU.com",
+       "url": "http://14123.live.streamtheworld.com/SAM01AAC97_SC",
+       "tags": [
+        "soul_rnb_funk",
+        "hip_hop_rap"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Serenityradio.me",
+       "url": "http://streaming.live365.com/a24931"
+      },
+      {
+       "name": "Sho Off Radio",
+       "url": "http://s10.voscast.com:7064/",
+       "tags": [
+        "soul_rnb_funk",
+        "hip_hop_rap"
+       ]
+      },
+      {
+       "name": "Street Tactics Radio",
+       "url": "http://70.38.12.44:8194/",
+       "tags": [
+        "soul_rnb_funk",
+        "hip_hop_rap"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Urban Gumbo Radio",
+       "url": "https://live365.com/station/a05517",
+       "tags": [
+        "soul_rnb_funk",
+        "hip_hop_rap"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "V-103",
+       "url": "http://www.vtuner.com/vtunerweb/asp/dynamgeo.aspx?id=21481",
+       "tags": [
+        "soul_rnb_funk",
+        "hip_hop_rap"
+       ]
+      },
+      {
+       "name": "WEAS FM 93.1 E93",
+       "url": "http://8713.live.streamtheworld.com:80/WEASFM_SC",
+       "language_inferred": true
+      },
+      {
+       "name": "WSSOS  SOUTHERN  SOUL  RADIO",
+       "url": "http://c12.radioboss.fm:8158/stream",
+       "tags": [
+        "soul_rnb_funk",
+        "classical",
+        "blues",
+        "electronic",
+        "rock",
+        "kids",
+        "world",
+        "decade_90s"
+       ]
+      }
+     ]
+    },
+    "sports": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "92-9 The Game",
+       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/WZGCFM_SC.dist=vtuner"
+      },
+      {
+       "name": "99.5 The Jock 1360 ESPN",
+       "url": "http://wgjk.streamon.fm:8000/WGJK-24k.aac"
+      },
+      {
+       "name": "ESPN Blackshear 1350 AM",
+       "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WSFNAM_SC"
+      },
+      {
+       "name": "Radio Sputnik Аҧсны",
+       "url": "https://icecast-rian.cdnvideo.ru/voicesuh",
+       "tags": [
+        "sports",
+        "news_talk"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "trance_goa": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Powershout Trance",
+       "url": "http://213.158.233.199:8000/stream.nsv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "various_eclectic": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Next Kids Worldwide",
+       "url": "http://usa14.fastcast4u.com/proxy/tigreene"
+      },
+      {
+       "name": "Radio Dzveli kalaki",
+       "url": "http://stream.iis.ge:8000/radiodk.mp3",
+       "country_inferred": true,
+       "language_inferred": true
+      }
+     ]
+    },
+    "world": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Pan African Allstars Radio",
+       "url": "http://tess.fast-serv.com:8580",
+       "tags": [
+        "world",
+        "latin",
+        "easy_listening"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 97,
+     "stations": [
+      {
+       "name": "(Moqmedi) electronic EDM",
+       "url": "https://stream.zeno.fm/ugn10abxs98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "(moqmedi) electronic EDM classic",
+       "url": "https://stream.zeno.fm/dmaq8q5eay8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "4STARS RADIO",
+       "url": "https://stream.zeno.fm/3c6rtxuq1uhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Abnormalmusic",
+       "url": "https://stream.zeno.fm/87ks8g78608uv",
+       "language_inferred": true
+      },
+      {
+       "name": "AM RADIO",
+       "url": "https://stream.zeno.fm/ehehbub2gd0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Ardaidardo",
+       "url": "https://tv.cdn.xsg.ge/cld9-0386/ardaidardo/mono.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "Arkane",
+       "url": "https://stream.zeno.fm/55xkwq0nd18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "ATINATIS RADIO",
+       "url": "https://stream.zeno.fm/20pr1sc6ynhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Babkee FM",
+       "url": "https://stream.zeno.fm/qr1379aybuhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Bahaasoft",
+       "url": "https://stream.zeno.fm/ffashdk4czzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Bahaasoft - Christian Sermons",
+       "url": "https://stream.zeno.fm/hyaufd63h18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Bahaasoft - Christian Station",
+       "url": "https://stream.zeno.fm/4591g1f3h18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Bahaasoft - Classic",
+       "url": "https://stream.zeno.fm/eevhbm63h18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "BarbieDardie",
+       "url": "https://stream.zeno.fm/49kx5tifjmntv",
+       "language_inferred": true
+      },
+      {
+       "name": "BC radio",
+       "url": "https://stream.zeno.fm/xpeyf1ktmfiuv",
+       "language_inferred": true
+      },
+      {
+       "name": "BNZQ015",
+       "url": "https://stream.zeno.fm/jwj3grvrraouv",
+       "language_inferred": true
+      },
+      {
+       "name": "Brandons Station",
+       "url": "https://stream.zeno.fm/e1olgyifj8rvv",
+       "language_inferred": true
+      },
+      {
+       "name": "bunbun",
+       "url": "https://stream.zeno.fm/whgpkqhbqjrvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Citrus",
+       "url": "http://iis.ge:8000/CitrusFm.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Darken City Radio",
+       "url": "https://stream.zeno.fm/ytzsyupimgetv",
+       "language_inferred": true
+      },
+      {
+       "name": "darul erkam radio",
+       "url": "https://stream.zeno.fm/ucsbxdsn3p8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "E55EX",
+       "url": "https://stream.zeno.fm/gk5mksdsdfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Electronauts",
+       "url": "https://stream.zeno.fm/eqd0fq6cwg0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Everyday Radio",
+       "url": "https://stream.zeno.fm/d2cvp6zkzchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "FancyBunnys",
+       "url": "https://stream.zeno.fm/wuv8b3h9g0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "FastOrSlow",
+       "url": "https://stream.zeno.fm/5ys54003pg0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Frank1ins Station",
+       "url": "https://stream.zeno.fm/uu2jov7jvspuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Geo-Voice",
+       "url": "https://stream.zeno.fm/qswr1pkbdgotv",
+       "language_inferred": true
+      },
+      {
+       "name": "GEOUSNEWS",
+       "url": "https://stream.zeno.fm/ed8c6q5n2v8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "GMRPPP",
+       "url": "https://stream.zeno.fm/cexhwxhvkngtv",
+       "language_inferred": true
+      },
+      {
+       "name": "Gradoo",
+       "url": "https://stream.zeno.fm/ubmegpyi7l1uv",
+       "language_inferred": true
+      },
+      {
+       "name": "GT Radio",
+       "url": "http://176.221.147.226:8000/?type=http&nocache=7",
+       "language_inferred": true
+      },
+      {
+       "name": "IV Dasi",
+       "url": "https://stream.zeno.fm/kv6bq4l3ydytv",
+       "language_inferred": true
+      },
+      {
+       "name": "JORJO FM",
+       "url": "https://stream.zeno.fm/xq6y9er4hwzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "kokonuts",
+       "url": "https://stream.zeno.fm/b3i5qqcckcstv",
+       "language_inferred": true
+      },
+      {
+       "name": "Los Santos Reality Radio",
+       "url": "https://stream.zeno.fm/suwr7kwmj00vv",
+       "language_inferred": true
+      },
+      {
+       "name": "Madara",
+       "url": "https://stream.zeno.fm/aas33lz5f9ouv",
+       "language_inferred": true
+      },
+      {
+       "name": "Madara",
+       "url": "https://stream.zeno.fm/d3fpwl2kscbuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Molecule Radio",
+       "url": "https://stream.zeno.fm/tptywkwwbg8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "MTC Youth Radio",
+       "url": "http://mtcyouthradio.out.airtime.pro:8000/mtcyouthradio_a",
+       "language_inferred": true
+      },
+      {
+       "name": "Mutant Radio",
+       "url": "https://www.radioking.com/play/mutant-radio?n=38911d61bbaaf6c5d9ad",
+       "language_inferred": true
+      },
+      {
+       "name": "nakan1",
+       "url": "https://stream.zeno.fm/f723ec9sq0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "nandoparado",
+       "url": "https://stream.zeno.fm/s5nh0fxknrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "NaTroYT",
+       "url": "https://stream.zeno.fm/ainoktkcintuv",
+       "language_inferred": true
+      },
+      {
+       "name": "nikushaa",
+       "url": "https://stream.zeno.fm/wvflmydztqevv",
+       "language_inferred": true
+      },
+      {
+       "name": "No Tik-Tok",
+       "url": "https://stream.zeno.fm/8mrt2hhaxg0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "nodrick",
+       "url": "https://stream.zeno.fm/we42ftwknrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "nuares jazz radio",
+       "url": "https://stream.zeno.fm/fzprwwayfs8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "OjaxFm",
+       "url": "https://stream.zeno.fm/pxm4a2w9gv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Pan African Allstars Radio",
+       "url": "http://tess.fast-serv.com:8580/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "PIESIE RADIO",
+       "url": "https://stream.zeno.fm/qr736tyq1uhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "playlist cleanhouse",
+       "url": "https://stream.zeno.fm/9fe5rnkanzzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Positive FM",
+       "url": "https://n0b.radiojar.com/sr4vzamzfnruv?rj-ttl=5&amprj-tok=AAABcjuet_4AF8S-cvtnuTvIRQ",
+       "language_inferred": true
+      },
+      {
+       "name": "Prayer Time Radio Station",
+       "url": "https://stream.zeno.fm/xp6ye272qf9uv"
+      },
+      {
+       "name": "pro hits radio",
+       "url": "https://stream.zeno.fm/41uaee7r3ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "psy-fi",
+       "url": "https://stream.zeno.fm/e8q2ygdfay8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Queen B Ree",
+       "url": "https://stream.zeno.fm/qv1xh1yu538uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 1",
+       "url": "http://gpb-stream.cdn.xsg.ge/gpb-radio1/tracks-a1/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 2",
+       "url": "https://stream.zeno.fm/uyb2vuwp9mruv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 3",
+       "url": "https://stream.zeno.fm/f9b99ywp9mruv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 4",
+       "url": "https://stream.zeno.fm/9p4w41wp9mruv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 5",
+       "url": "https://stream.zeno.fm/tb2mq3wp9mruv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 6",
+       "url": "https://stream.zeno.fm/haq957wp9mruv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio AJARA",
+       "url": "https://listen.mixlr.com/6f3d372de88f947672ee1b21568dcedb",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO CITRUS FM97.3 BATUMI",
+       "url": "http://stream.iis.ge:8000/CitrusFm.mp3",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Radio CSM",
+       "url": "http://radiocsm.out.airtime.pro:8000/radiocsm_a",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio CSM",
+       "url": "http://radiocsm.out.airtime.pro:8000/radiocsm_b"
+      },
+      {
+       "name": "Radio Edu Lolo",
+       "url": "https://stream.zeno.fm/un4atuavta0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio GIPA",
+       "url": "https://stream.zeno.fm/dptwa8uwbfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Lover Station",
+       "url": "https://stream.zeno.fm/2qtfzz6dcm0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Maestro",
+       "url": "http://62.212.34.4:9001/live",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Morpheus(phonk)",
+       "url": "https://stream.zeno.fm/9awu40a57nhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Nodo",
+       "url": "https://stream.zeno.fm/qkzdluitdtptv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Positive",
+       "url": "https://stream.zeno.fm/4sz1sym1ss8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Quaiti",
+       "url": "https://stream.zeno.fm/63k2muf7bzzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO SMILE FM ROMANIA",
+       "url": "https://stream.zeno.fm/fsdp04rmzc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Sputnik",
+       "url": "https://icecast-ruvr.cdnvideo.ru/rian.voicesuh",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Star FM 93.9",
+       "url": "http://starfm.stargroup.ge:8000/live",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Teflis",
+       "url": "https://stream.zeno.fm/etmgkaeg1d0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO XVENS",
+       "url": "https://stream.zeno.fm/gx5u4xcp5ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "RadioforGeorgians",
+       "url": "https://stream.zeno.fm/0zy5b0mu2ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "ReAda Radio",
+       "url": "https://stream.zeno.fm/zefltgmonlktv",
+       "language_inferred": true
+      },
+      {
+       "name": "Rradio",
+       "url": "https://stream.zeno.fm/vzz3ptdm738uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RVN-18",
+       "url": "https://stream.zeno.fm/wks5b10dkzzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "SaborLatin00",
+       "url": "https://stream.zeno.fm/9k9afpvexy8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Studia Bero სტუდია ბეროFM",
+       "url": "https://stream.zeno.fm/cwd1cqwztxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "STUDIO ATINATI",
+       "url": "https://stream.zeno.fm/e0tkg3nc8ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Symbol Mt Normal.ttf",
+       "url": "https://stream.zeno.fm/4qmb65opbtruv",
+       "language_inferred": true
+      },
+      {
+       "name": "TBILISIFM 93.5",
+       "url": "http://stream.iis.ge:8000/radiotbilisi.mp3",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Thug Mix",
+       "url": "https://stream.zeno.fm/bm2wamsg7e9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Tsageri",
+       "url": "https://stream.zeno.fm/y0w9e6qr638uv",
+       "language_inferred": true
+      },
+      {
+       "name": "twenty1pilots",
+       "url": "https://stream.zeno.fm/ywwbckktmd0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Unknown Music",
+       "url": "https://stream.zeno.fm/fw41f5qzbfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "zeno.fm",
+       "url": "https://stream.zeno.fm/275689dye48uv",
+       "language_inferred": true
+      },
+      {
+       "name": "რადიო კარანტინი",
+       "url": "https://stream.zeno.fm/2mmz362sbwzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "რადიო ობიექტივი / Obieqtivi",
+       "url": "https://nue01-edge01.itdc.ge/fm-obieqtivi-105.1/mono.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "რადიო ოდიში+ - ზუგდიდი 102.9 FM",
+       "url": "http://live.radio.odishi.ge/odishi.mp3",
+       "country_inferred": true,
+       "language_inferred": true
+      }
+     ]
+    }
+   }
+  },
+  "Georgian": {
+   "count": 51,
+   "genres": {
+    "blues": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Neutral Zone Radio",
+       "url": "http://neutralzone.out.airtime.pro:8000/neutralzone_a",
+       "tags": [
+        "alternative_indie",
+        "blues"
+       ]
+      }
+     ]
+    },
+    "classical": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Cielo",
+       "url": "http://radios.sonicp.com:8038",
+       "tags": [
+        "easy_listening",
+        "classical"
+       ]
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Radio Ajara რადიო აჭარა",
+       "url": "https://listen.mixlr.com/b0e3d7faa5c64a4bab08818714f898f1"
+      },
+      {
+       "name": "ავტორადიო (AutoRadio)",
+       "url": "http://188.93.95.83:1935/cld9-0386/avtoradio/playlist.m3u8"
+      },
+      {
+       "name": "ფორტუნა (Fortuna FM)",
+       "url": "http://188.93.95.83:1935/cld9-0386/fortuna/playlist.m3u8"
+      }
+     ]
+    },
+    "folk": {
+     "count": 7,
+     "stations": [
+      {
+       "name": "dardimandi",
+       "url": "https://nue01-edge01.itdc.ge/fm-dardimandi-97.1/mono.m3u8"
+      },
+      {
+       "name": "Radio Amra",
+       "url": "https://streamer.radio.co/s34b5469e0/listen",
+       "tags": [
+        "pop_hits",
+        "folk",
+        "easy_listening",
+        "world",
+        "classical",
+        "various_eclectic",
+        "electronic"
+       ]
+      },
+      {
+       "name": "Tbilisi FM 93,5",
+       "url": "http://iis.ge:8000/radiotbilisi.mp3",
+       "tags": [
+        "news_talk",
+        "folk",
+        "pop_hits",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "არდაიდარდო",
+       "url": "https://tv.cdn.xsg.ge/cld9-0386/ardaidardo/tracks-a1/mono.m3u8",
+       "tags": [
+        "folk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "მაესტრო",
+       "url": "https://nue01-edge01.itdc.ge/fm-maestro-94.7/index.m3u8?n=b7efa0f0a75c1dda09ca",
+       "tags": [
+        "pop_hits",
+        "folk"
+       ]
+      },
+      {
+       "name": "რადიო დარდიმანდი",
+       "url": "http://109.172.136.60:8080/broadwavehigh.mp3?src=1",
+       "tags": [
+        "folk",
+        "college_community",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "რადიო ჩვენებური",
+       "url": "https://radio.cdn.xsg.ge/cld9-1050/chveneburi/index.m3u8?n=85e738e172619650e1ad",
+       "tags": [
+        "pop_hits",
+        "folk"
+       ]
+      }
+     ]
+    },
+    "jazz": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Jazz FM 97.5",
+       "url": "http://uk2.listen2myradio.com:8029/stream"
+      },
+      {
+       "name": "Radio Kalaki 101.9 FM",
+       "url": "http://uk4.listen2myradio.com:8040/stream"
+      },
+      {
+       "name": "Radio Positive",
+       "url": "https://stream.radiojar.com/sr4vzamzfnruv",
+       "tags": [
+        "jazz",
+        "soul_rnb_funk",
+        "blues",
+        "pop_hits",
+        "rock",
+        "country",
+        "easy_listening",
+        "chillout_lounge",
+        "news_talk"
+       ]
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 13,
+     "stations": [
+      {
+       "name": "AutoRadio 95.1",
+       "url": "https://tv.cdn.xsg.ge/cld9-0386/avtoradio/index.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Georgia Radio 1",
+       "url": "https://gpb-stream.cdn.xsg.ge/gpb-radio1/index.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Hereti FM",
+       "url": "http://iis.ge:8000/hereti.mp3",
+       "tags": [
+        "news_talk",
+        "folk",
+        "pop_hits",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Marneuli FM",
+       "url": "http://stream.it-solutions.ge:8000/mp3-radiomarneulifm",
+       "tags": [
+        "news_talk",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Pirveli Radio",
+       "url": "http://178.134.47.58:88/broadwave.mp3",
+       "tags": [
+        "news_talk",
+        "folk",
+        "pop_hits",
+        "classical"
+       ]
+      },
+      {
+       "name": "Radio Argo",
+       "url": "http://188.93.89.164:8000/listen.pls?sid=1"
+      },
+      {
+       "name": "Radio Comersant",
+       "url": "https://radio.cdn.xsg.ge/fm-commersant-95.5/tracks-a1/mono.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio GIPA",
+       "url": "http://217.147.235.142/livemp3",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "college_community"
+       ]
+      },
+      {
+       "name": "Radio Imedi",
+       "url": "https://tv.cdn.xsg.ge/radioimedi/stream01/tracks-v1a1/mono.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio NOR",
+       "url": "http://iis.ge:8000/nor.mp3",
+       "tags": [
+        "news_talk",
+        "college_community"
+       ]
+      },
+      {
+       "name": "Star FM 93.9",
+       "url": "http://stream.it-solutions.ge:8000/mp3-starfm",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Voice of Abkhazia",
+       "url": "http://109.172.136.60:8081/broadwavelow.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "folk"
+       ]
+      },
+      {
+       "name": "Радио SK",
+       "url": "http://iis.ge:8000/sk.mp3",
+       "tags": [
+        "news_talk",
+        "folk",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "oldies": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "Autoradio",
+       "url": "https://tv.cdn.xsg.ge/cld9-0386/avtoradio/tracks-a1/mono.m3u8",
+       "tags": [
+        "pop_hits",
+        "oldies"
+       ]
+      },
+      {
+       "name": "Radio Palitra",
+       "url": "https://radio1.palitra.ge:8443/stream.mp3"
+      },
+      {
+       "name": "Radio Palitra",
+       "url": "https://radio.palitra.ge:8443/stream.mp3",
+       "tags": [
+        "pop_hits",
+        "oldies"
+       ]
+      },
+      {
+       "name": "Radio Tbilisuri Nostalgie",
+       "url": "http://stream.inet.ge:8000/radio_nostalgia.mp3"
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 10,
+     "stations": [
+      {
+       "name": "Energy NRJ Georgia",
+       "url": "http://shaincast.caster.fm:24734/listen.mp3?none"
+      },
+      {
+       "name": "Fortuna Plus Listen live",
+       "url": "https://tv.cdn.xsg.ge/cld9-0386/fortunaplus/tracks-a1/mono.m3u8"
+      },
+      {
+       "name": "Radio Fortuna",
+       "url": "https://tv.cdn.xsg.ge/cld9-0386/fortuna/tracks-a1/mono.m3u8",
+       "tags": [
+        "pop_hits",
+        "world",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Radio Gipa FM",
+       "url": "http://217.147.235.142:9080/livemp3"
+      },
+      {
+       "name": "Radio Palitra 103.9 FM",
+       "url": "http://92.241.82.245:8000/live"
+      },
+      {
+       "name": "Radio Ucnobi FM",
+       "url": "http://149.3.104.166:8000/stream.ogg"
+      },
+      {
+       "name": "Voice of Abkhazia",
+       "url": "http://109.172.182.119:8098/stream",
+       "tags": [
+        "pop_hits",
+        "oldies",
+        "news_talk",
+        "folk"
+       ]
+      },
+      {
+       "name": "არ დაიდარდო (Ar Daidardo FM)",
+       "url": "http://188.93.95.83:1935/cld9-0386/ardaidardo/playlist.m3u8"
+      },
+      {
+       "name": "რადიო \"ძველი ქალაქი Старый город",
+       "url": "http://iis.ge:8000/radiodk.mp3",
+       "tags": [
+        "pop_hits",
+        "folk",
+        "news_talk",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "ფორტუნა (Fortuna Plus)",
+       "url": "http://188.93.95.83:1935/cld9-0386/fortunaplus/playlist.m3u8"
+      }
+     ]
+    },
+    "world": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Tbilisuri",
+       "url": "http://stream.inet.ge:8000/tbilisuri.mp3",
+       "country_inferred": true
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 8,
+     "stations": [
+      {
+       "name": "Commersant 95.5 FM",
+       "url": "https://radio.cdn.xsg.ge/cld9-1050/fm-commersant-95.5/shoutcast"
+      },
+      {
+       "name": "Georgia One TV",
+       "url": "http://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8"
+      },
+      {
+       "name": "Georgia Radio 2",
+       "url": "https://gpb-stream.cdn.xsg.ge/gpb-radio2/index.m3u8"
+      },
+      {
+       "name": "Radio Atinati მთავარი",
+       "url": "http://stream.it-solutions.ge:8000/mp3-radioatinatifm"
+      },
+      {
+       "name": "Radio dee",
+       "url": "http://stm3.srvstm.com:32460/"
+      },
+      {
+       "name": "Shokoladi რადიო შოკოლადი 98.5 FM",
+       "url": "http://81.16.244.251:8000/shokoladi.fm-live"
+      },
+      {
+       "name": "დარდი მანდი (Dardi Mandi)",
+       "url": "http://109.172.182.119:8000/broadwavehigh.mp3"
+      },
+      {
+       "name": "რადიო პალიტრა (Radio Palitra)",
+       "url": "http://livestream.palitra.ge:8000/stream.mp3"
+      }
+     ]
+    }
+   }
+  },
+  "Spanish": {
+   "count": 6,
+   "genres": {
+    "christian_gospel": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Radio Avivamiento",
+       "url": "http://unoredradio.com:9730/"
+      },
+      {
+       "name": "Radio Cielo 107.3 FM",
+       "url": "http://radios.sonicp.com/8038/stream"
+      },
+      {
+       "name": "Radio Inmaculada",
+       "url": "http://mi-20180629-102403-566.cdn.spreaker.com/live_6366822"
+      }
+     ]
+    },
+    "latin": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "La Cuna del Son",
+       "url": "http://josantacruz66.radioca.st/stream"
+      },
+      {
+       "name": "RUMBA ATLANTA",
+       "url": "http://usa3.fastcast4u.com:5882/stream"
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "LAS RANCHERITAS DEL BAJIO",
+       "url": "https://stream.zeno.fm/zkaa900yzqruv"
+      }
+     ]
+    }
+   }
+  },
+  "Russian": {
+   "count": 4,
+   "genres": {
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Радио SOMA radio",
+       "url": "http://91.207.180.75/",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "sports": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Sputnik Хуссар Ирыстон",
+       "url": "https://icecast-rian.cdnvideo.ru/voicetsk",
+       "tags": [
+        "sports",
+        "news_talk"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "GeoFmRadio",
+       "url": "https://stream.zeno.fm/mtxa2vxx42uuv"
+      },
+      {
+       "name": "Red Wine Radio",
+       "url": "https://stream.zeno.fm/xg10kafehg0uv"
+      }
+     ]
+    }
+   }
+  },
+  "Multilingual": {
+   "count": 3,
+   "genres": {
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Imedi",
+       "url": "https://tv.cdn.xsg.ge/radioimedi/stream01/index.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "world": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Ucnobi FM",
+       "url": "http://7de307822d8b.sn.mynetname.net:8000/stream.ogg",
+       "tags": [
+        "world",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "პირველი არხი Listen live",
+       "url": "https://tv.cdn.xsg.ge/gpb-radio1/tracks-a1/mono.m3u8",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "world"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Turkish": {
+   "count": 3,
+   "genres": {
+    "jazz": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Soothing Jazz radio",
+       "url": "http://stream.loveprod.ru:8020/soothingjazz?n=faa7093d5a01cd323b99"
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Radyo Genc Arabesk FM",
+       "url": "http://yayin.radyohostu.net:8050/"
+      },
+      {
+       "name": "Soothing radio",
+       "url": "http://stream.loveprod.ru:8010/soothingradio?n=7e531d0d84ea3d0a5750"
+      }
+     ]
+    }
+   }
+  },
+  "Italian": {
+   "count": 1,
+   "genres": {
+    "classical": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Nostalgia Tbilisi",
+       "url": "https://ice08k.fluidstream.net/fluid814.mp3?r=833470",
+       "tags": [
+        "classical",
+        "various_eclectic"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "German": {
+   "count": 1,
+   "genres": {
+    "world": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Fortuna Plus",
+       "url": "http://188.93.95.83/cld9-0386/fortunaplus/index.m3u8",
+       "tags": [
+        "pop_hits",
+        "world"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Thai": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "პირველი არხი მუსიკა fm",
+       "url": "http://tv.cdn.xsg.ge/gpb-radio2/index.m3u8"
+      }
+     ]
+    }
+   }
+  },
+  "Chinese": {
+   "count": 1,
+   "genres": {
+    "world": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "WJTP 890 AM",
+       "url": "http://s1.streammonster.com:8357/",
+       "tags": [
+        "various_eclectic",
+        "world"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Vietnamese": {
+   "count": 1,
+   "genres": {
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Tieng Nuoc Toi Atlanta",
+       "url": "http://cast5.servcast.net:946/"
+      }
+     ]
+    }
+   }
+  },
+  "Korean": {
+   "count": 1,
+   "genres": {
+    "world": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Atlanta Radio Korea",
+       "url": "http://108.59.9.147:8008/stream/"
+      }
+     ]
+    }
+   }
+  },
+  "Swahili": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Tzgospel swahili",
+       "url": "https://stream.zeno.fm/c5ybtmda7ehvv"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

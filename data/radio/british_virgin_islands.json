@@ -1,0 +1,166 @@
+{
+ "country": "British Virgin Islands",
+ "count": 15,
+ "languages": {
+  "English": {
+   "count": 15,
+   "genres": {
+    "christian_gospel": {
+     "count": 5,
+     "stations": [
+      {
+       "name": "Joy Gospel Radio FM",
+       "url": "http://audio.sjamz.com:8262/"
+      },
+      {
+       "name": "Joy Gospel Radio FM",
+       "url": "https://stream.zenolive.com/a631ca3mb",
+       "language_inferred": true
+      },
+      {
+       "name": "Joy Gospel Radio FM/ZJoy VI",
+       "url": "https://aud1.sjamz.com/8262/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Tola Radio Vi",
+       "url": "http://sc2.spacialnet.com:34792/",
+       "tags": [
+        "christian_gospel",
+        "pop_hits",
+        "electronic",
+        "soul_rnb_funk",
+        "hip_hop_rap",
+        "folk",
+        "reggae_ska"
+       ]
+      },
+      {
+       "name": "ZKING Radio",
+       "url": "https://s5.voscast.com:8459/live"
+      }
+     ]
+    },
+    "college_community": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Papilove 919 FM",
+       "url": "http://server7.servistreaming.com:10020/stream?type=.mp3",
+       "language_inferred": true
+      }
+     ]
+    },
+    "electronic": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "The Signal 284 Radio",
+       "url": "https://s1.voscast.com:11655/stream",
+       "tags": [
+        "electronic",
+        "christian_gospel",
+        "hip_hop_rap",
+        "folk",
+        "soul_rnb_funk",
+        "pop_hits",
+        "reggae_ska"
+       ]
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "CBN-Radio 92.3FM",
+       "url": "http://195.154.133.107:8189/xstream",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Soggy Dollar Radio",
+       "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM06AAC287_SC",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "oldies",
+        "latin",
+        "soul_rnb_funk",
+        "rock"
+       ]
+      },
+      {
+       "name": "ZBVI",
+       "url": "https://streams.radio.co/s39d621120/listen",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "world",
+        "easy_listening",
+        "folk",
+        "latin"
+       ]
+      }
+     ]
+    },
+    "oldies": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Ol' Skool Rockabilly Radio",
+       "url": "http://uk1freenew.listen2myradio.com:23622/",
+       "tags": [
+        "oldies",
+        "decade_1920s_50s"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "reggae_ska": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Dubstep.fm",
+       "url": "https://www.dubstep.fm/listen.pls",
+       "language_inferred": true
+      }
+     ]
+    },
+    "world": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "ZVCR FM",
+       "url": "https://streamer.radio.co/sccca5f047/listen",
+       "tags": [
+        "world",
+        "pop_hits",
+        "soul_rnb_funk",
+        "latin"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Soggy Dollar Radio",
+       "url": "https://26383.live.streamtheworld.com/SAM06AAC287.mp3?n=20df1a4bc6fa0bb8e1a7",
+       "language_inferred": true
+      },
+      {
+       "name": "ZCCR – 94.1 FM – Road Town",
+       "url": "http://zccrfm.streamon.fm:8000/ZCCRFM-24k.aac?starttime=1562936046",
+       "language_inferred": true
+      }
+     ]
+    }
+   }
+  }
+ }
+}

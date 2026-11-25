@@ -1,0 +1,147 @@
+{
+ "country": "Saint Martin",
+ "count": 11,
+ "languages": {
+  "French": {
+   "count": 9,
+   "genres": {
+    "christian_gospel": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Maranatha",
+       "url": "https://stream.b4c.tv:1443/r-maranatha"
+      }
+     ]
+    },
+    "electronic": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Caribbean Rap Radio",
+       "url": "https://s49.radiolize.com/radio/8200/radio.mp3",
+       "tags": [
+        "electronic",
+        "hip_hop_rap"
+       ]
+      }
+     ]
+    },
+    "hip_hop_rap": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Caribbean Rap Radio",
+       "url": "https://s49.radiolize.com/radio/8200/radio.mp3?1619929731",
+       "tags": [
+        "hip_hop_rap",
+        "soul_rnb_funk",
+        "reggae_ska",
+        "world"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "SOS Radio",
+       "url": "http://2stream.dyndns.org:8000/sosradio",
+       "tags": [
+        "news_talk",
+        "various_eclectic",
+        "pop_hits",
+        "college_community"
+       ]
+      }
+     ]
+    },
+    "oldies": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "1000 Gold Hits Listen live",
+       "url": "https://stream.laut.fm/1000gold-hits",
+       "tags": [
+        "oldies",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "reggae_ska": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Maranatha",
+       "url": "http://s7.streammonster.com:8493/",
+       "language_inferred": true
+      }
+     ]
+    },
+    "soul_rnb_funk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Transat",
+       "url": "https://crs.webdesign-flash.ro/?q=http://n13.rcs.revma.com/dy09pqzctwzuv&plugin_id=7628&site_id=8520577",
+       "tags": [
+        "reggae_ska",
+        "soul_rnb_funk",
+        "rock",
+        "world",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "RADIO MARANATHA SXM – Marigot",
+       "url": "http://r-maranatha.b4c.tv:8090/",
+       "language_inferred": true
+      },
+      {
+       "name": "X 104.3 FM – 104.3 FM",
+       "url": "http://s3.streammonster.com:8062/stream",
+       "language_inferred": true
+      }
+     ]
+    }
+   }
+  },
+  "Dutch": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "PJD2 Radio",
+       "url": "http://s3.streammonster.com:8130/"
+      }
+     ]
+    }
+   }
+  },
+  "English": {
+   "count": 1,
+   "genres": {
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "SXMGOV RADIO 1079FM",
+       "url": "http://68.168.101.146:8786/"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

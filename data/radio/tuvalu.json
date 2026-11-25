@@ -1,0 +1,155 @@
+{
+ "country": "Tuvalu",
+ "count": 17,
+ "languages": {
+  "Spanish": {
+   "count": 17,
+   "genres": {
+    "drum_and_bass": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Bass House Радио - RadioSpinner Listen live",
+       "url": "https://live.radiospinner.com/bsshs-64",
+       "tags": [
+        "house",
+        "drum_and_bass"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "electronic": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "CrazyMusictv",
+       "url": "http://88.198.64.99:7911/listen.pls",
+       "language_inferred": true
+      },
+      {
+       "name": "GLOBAL RADIO  124BPMTV  ELECTRONIC DANCE MUSIC  LIVE",
+       "url": "http://206.190.150.92:8408/listen.pls",
+       "language_inferred": true
+      }
+     ]
+    },
+    "jazz": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Cool Groove",
+       "url": "http://192.184.9.81:8178/listen.pls",
+       "language_inferred": true
+      }
+     ]
+    },
+    "latin": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Companhia 94 Listen live",
+       "url": "https://live.companhia94.com/server",
+       "tags": [
+        "pop_hits",
+        "christian_gospel",
+        "latin"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Sonideros TV",
+       "url": "http://192.99.17.12:6444/listen.pls",
+       "language_inferred": true
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Tuvalu - K2U2 radio",
+       "url": "http://202.2.96.229:8000/",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "Dopas-Radio Listen live",
+       "url": "https://stream.laut.fm/dopas-radio",
+       "language_inferred": true
+      },
+      {
+       "name": "InterCentro Palomora Listen live",
+       "url": "https://stream.zenolive.com/u664dw0t30duv.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Banda B 550 AM Listen live",
+       "url": "https://09.stmip.net/player_mp3.php?porta=8464",
+       "language_inferred": true
+      },
+      {
+       "name": "Station Beta, Vaiaku Village radio",
+       "url": "https://stream.zeno.fm/wq0mh5gld04uv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "rock": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "DomBRadiO Online",
+       "url": "http://dombradio.dyndns.tv:8000/live.mp3",
+       "bitrate": 128,
+       "logo": "http://radio.pervii.com/im/3/1559888923.jpg",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "disco_eurodance"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 5,
+     "stations": [
+      {
+       "name": "Radio hdlp",
+       "url": "https://stream.zeno.fm/efzw07upbc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Song Umm Kulthum Years And Passed",
+       "url": "https://stream.zeno.fm/jvqwkwwvnxuuv",
+       "language_inferred": true
+      },
+      {
+       "name": "T5TKRY",
+       "url": "https://stream.zeno.fm/md5b34tcwp8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "TBCorp",
+       "url": "https://stream.zeno.fm/zc9cfrvrqp8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Ňu Radio",
+       "url": "https://stream.zeno.fm/jpm61gmmijvvv"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "country": "Cook Islands",
+ "count": 12,
+ "languages": {
+  "English": {
+   "count": 12,
+   "genres": {
+    "pop_hits": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "88FM",
+       "url": "http://ruby.streamguys.com:5510/xstream",
+       "language_inferred": true
+      },
+      {
+       "name": "Matariki FM",
+       "url": "http://amber.streamguys.com:4070/",
+       "tags": [
+        "pop_hits",
+        "classical",
+        "latin",
+        "world"
+       ]
+      },
+      {
+       "name": "Station Beta, Matavera radio",
+       "url": "https://stream.zeno.fm/2beeh2sttzptv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "world": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Cook Islands 630 AM",
+       "url": "mms://202.65.34.10/radiocookislands"
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 8,
+     "stations": [
+      {
+       "name": "123456",
+       "url": "https://stream.zeno.fm/uvhyxurtm9guv",
+       "language_inferred": true
+      },
+      {
+       "name": "1komal",
+       "url": "https://stream.zeno.fm/8kwtcbx8938uv",
+       "language_inferred": true
+      },
+      {
+       "name": "ATLANTIDA Stereo",
+       "url": "https://stream.zeno.fm/yia80o3q7iavv",
+       "language_inferred": true
+      },
+      {
+       "name": "Bbbbausb",
+       "url": "https://stream.zeno.fm/mmuicdean5guv",
+       "language_inferred": true
+      },
+      {
+       "name": "Matariki FM 99.9 FM",
+       "url": "http://amber.streamguys.com:4070/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "mc lipe",
+       "url": "https://stream.zeno.fm/9bm05s6q6rhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Navidad",
+       "url": "https://stream.zeno.fm/fh5wtmoupbztv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radioaposentoalto7 Radio",
+       "url": "https://stream.zeno.fm/1mpprdenz7zuv",
+       "language_inferred": true
+      }
+     ]
+    }
+   }
+  }
+ }
+}

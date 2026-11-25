@@ -1,0 +1,327 @@
+{
+ "country": "New Caledonia",
+ "count": 34,
+ "languages": {
+  "French": {
+   "count": 34,
+   "genres": {
+    "chillout_lounge": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "NIA Radio Lo-Fi",
+       "url": "https://radio.nia.nc/radio/8020/lofi-hq-stream.aac",
+       "tags": [
+        "chillout_lounge",
+        "ambient_relax"
+       ]
+      },
+      {
+       "name": "Radio Celestine",
+       "url": "https://streaming.starterfm.com/radio/8040/192kbps",
+       "tags": [
+        "chillout_lounge",
+        "pop_hits",
+        "oldies",
+        "decade_80s"
+       ]
+      }
+     ]
+    },
+    "electronic": {
+     "count": 5,
+     "stations": [
+      {
+       "name": "Nia Radio",
+       "url": "https://radio.nia.nc/radio/8000/pacific-hq-stream.aac",
+       "tags": [
+        "electronic",
+        "techno",
+        "house"
+       ]
+      },
+      {
+       "name": "Nouméa-Connexion",
+       "url": "https://listen.radioking.com/radio/10030/stream/20672",
+       "tags": [
+        "pop_hits",
+        "electronic",
+        "rock",
+        "alternative_indie",
+        "hip_hop_rap",
+        "chillout_lounge"
+       ]
+      },
+      {
+       "name": "Starter FM",
+       "url": "https://streaming.starterfm.com:8010/nc64",
+       "language_inferred": true
+      },
+      {
+       "name": "Starter FM radio",
+       "url": "https://streaming.starterfm.com/radio/8010/nc64:",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Starter FM: New Caledonia",
+       "url": "https://streaming.starterfm.com/radio/8010/nc64",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "jazz": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Jazz'Halo Listen live",
+       "url": "https://stream.laut.fm/jazzhalo?ref=radiode",
+       "tags": [
+        "jazz",
+        "news_talk"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "latin": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Sabrozona 101.5 FM Listen live",
+       "url": "https://cloudstream2034.conectarhosting.com/8336/server",
+       "tags": [
+        "pop_hits",
+        "latin",
+        "various_eclectic"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 7,
+     "stations": [
+      {
+       "name": "Nouvelle-Calédonie 1ère",
+       "url": "https://nouvelle-caledonie.ice.infomaniak.ch/nouvelle-caledonie-128.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "world",
+        "latin",
+        "hip_hop_rap",
+        "soul_rnb_funk",
+        "classical",
+        "electronic",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "NRJ Nouvelle Caledonie 93.5",
+       "url": "https://testradio01.ice.infomaniak.ch/testradio01-192.mp3",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "electronic",
+        "rock",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Radio Djiido",
+       "url": "https://radiodjiido.nc:8002/stream.mp3?_=1",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Djiido radio",
+       "url": "http://radiodjiido.nc:8000",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "folk",
+        "easy_listening",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Radio Océane",
+       "url": "https://radio.oceane.nc/oceane",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "jazz",
+        "rock",
+        "reggae_ska",
+        "soul_rnb_funk",
+        "folk",
+        "decade_70s",
+        "hip_hop_rap",
+        "various_eclectic",
+        "world"
+       ]
+      },
+      {
+       "name": "Radio Rythme Bleu",
+       "url": "http://radio.lagoon.nc/rrb",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Radio Rythme Bleu",
+       "url": "https://stream.rrb.nc/",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "latin",
+        "various_eclectic"
+       ]
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Kiss FM Middle East",
+       "url": "https://streaming.starterfm.com/listen/kissfm/starter192",
+       "language_inferred": true
+      },
+      {
+       "name": "Station Beta, Noumea radio",
+       "url": "https://stream.zeno.fm/pdsyec8wye4uv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "reggae_ska": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Djiido MP3 64K",
+       "url": "http://radiodjiido.nc:8000/stream/1",
+       "country_inferred": true,
+       "language_inferred": true
+      }
+     ]
+    },
+    "rock": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Nouméa City Rock radio",
+       "url": "https://listen.radioking.com/radio/403435/stream/456238",
+       "language_inferred": true
+      }
+     ]
+    },
+    "techno": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "DEEREDRADIO YELLOW-Zone Listen live",
+       "url": "https://webcast.deeredradio.com:8430/stream_mp3_128",
+       "tags": [
+        "techno",
+        "latin",
+        "house",
+        "electronic"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "various_eclectic": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "NRJ Nouvelle Caledonie",
+       "url": "http://radio.lagoon.nc/nrj",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Radio RRB",
+       "url": "http://radio.lagoon.nc/rrb?time=13026",
+       "country_inferred": true,
+       "language_inferred": true
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 11,
+     "stations": [
+      {
+       "name": "ALTAMIRA",
+       "url": "https://stream.zeno.fm/nwzg7cvk4nhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "NIA Europe – Noumea – South Province – NC",
+       "url": "https://radio.nia.nc/radio/8010/europe-hq-stream.aac?mytuner",
+       "language_inferred": true
+      },
+      {
+       "name": "NIA Pacifique – Noumea – South Province – NC",
+       "url": "https://radio.nia.nc/radio/8000/pacific-hq-stream.aac?mytuner",
+       "language_inferred": true
+      },
+      {
+       "name": "Nouméa-Connexion",
+       "url": "https://www.radioking.com/play/noumeaconnexion",
+       "language_inferred": true
+      },
+      {
+       "name": "Oceane FM",
+       "url": "http://radio.oceane.nc:8000/oceane",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Djiido",
+       "url": "http://radiodjiido.nc:8002/"
+      },
+      {
+       "name": "Radio Océane FM - Dumbéa, Nouvelle-Calédonie",
+       "url": "https://oceanefm.nc:8443/oceane",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Rage 220",
+       "url": "https://stream.zeno.fm/cp0svn75xnhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "red mia",
+       "url": "https://stream.zeno.fm/3xupcm46hfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "so as pura de im_crw",
+       "url": "https://stream.zeno.fm/zixxhrd8dygvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Tzgospel swahili",
+       "url": "https://stream.zeno.fm/6k58ck5mffhvv",
+       "language_inferred": true
+      }
+     ]
+    }
+   }
+  }
+ }
+}

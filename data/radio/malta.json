@@ -1,0 +1,2002 @@
+{
+ "country": "Malta",
+ "count": 243,
+ "languages": {
+  "Maltese": {
+   "count": 225,
+   "genres": {
+    "alternative_indie": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "All Rock Radio",
+       "url": "http://209.95.50.189:8296/",
+       "tags": [
+        "alternative_indie",
+        "rock",
+        "punk",
+        "news_talk",
+        "metal"
+       ]
+      },
+      {
+       "name": "Bay Easy",
+       "url": "http://stream.v3.network:8018/stream",
+       "tags": [
+        "alternative_indie",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "XFM 100.2",
+       "url": "http://162.252.85.85:7866/stream",
+       "tags": [
+        "alternative_indie",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "blues": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Madferret Radio",
+       "url": "http://listen.radionomy.com/madferret",
+       "tags": [
+        "rock",
+        "blues"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Albatro Web",
+       "url": "http://37.187.93.104:8307/stream?1518952380695",
+       "language_inferred": true
+      }
+     ]
+    },
+    "christian_gospel": {
+     "count": 8,
+     "stations": [
+      {
+       "name": "Radio Maria Malta",
+       "url": "https://cloudrad.io/radiomariamalta/listen.pls",
+       "language_inferred": true
+      },
+      {
+       "name": "Radju Lehen il-Belt",
+       "url": "https://az.wannastream.com/radio/8010/radjulehenil-beltvictoria?1585159351",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Radju Lehen il-Qala",
+       "url": "http://az.wannastream.com/radio/8020/radjulehenil-qala",
+       "tags": [
+        "christian_gospel",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radju Luminaria",
+       "url": "http://stream.radjuluminaria.com:8000/radjuluminaria",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Radju Malta 2",
+       "url": "http://s11.myradiostream.com:4954/stream.mp3",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radju Marija",
+       "url": "http://dreamsiteradiocp.com:8102/",
+       "tags": [
+        "christian_gospel",
+        "news_talk",
+        "kids"
+       ]
+      },
+      {
+       "name": "RADJU MARIJA MALTA",
+       "url": "http://dreamsiteradiocp.com:8102/stream",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "RTK Radio",
+       "url": "https://s2.radio.co/s955b1ced9/listen",
+       "tags": [
+        "christian_gospel",
+        "news_talk",
+        "various_eclectic"
+       ]
+      }
+     ]
+    },
+    "classical": {
+     "count": 6,
+     "stations": [
+      {
+       "name": "Bay Retro",
+       "url": "http://178.32.161.194:8014/stream.mp3",
+       "tags": [
+        "classical",
+        "decade_80s"
+       ]
+      },
+      {
+       "name": "Bay Retro Listen live",
+       "url": "https://stream.v3.network:18014/stream.mp3",
+       "tags": [
+        "pop_hits",
+        "classical",
+        "oldies",
+        "decade_2000s",
+        "decade_80s"
+       ]
+      },
+      {
+       "name": "Campus FM",
+       "url": "https://mytuner-radio.com/radio/country/malta-stations",
+       "tags": [
+        "easy_listening",
+        "classical"
+       ]
+      },
+      {
+       "name": "Comedy Rock Radio",
+       "url": "http://65.60.4.142:80/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Gem Radio Online",
+       "url": "http://195.158.83.101:88/broadwave.mp3?src=1&#038rate=1&#038ref=",
+       "tags": [
+        "classical",
+        "decade_70s",
+        "decade_2000s"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 105 FM Retro",
+       "url": "http://ca9.rcast.net:8040/",
+       "tags": [
+        "classical",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "college_community": {
+     "count": 7,
+     "stations": [
+      {
+       "name": "1tmsavunder",
+       "url": "https://stream.zeno.fm/575qbnz9938uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Campus FM University of Malta",
+       "url": "http://e11648.cloudrad.io:8174/campusfm_live",
+       "language_inferred": true
+      },
+      {
+       "name": "Lehen il-Belt Gorgjana radio",
+       "url": "http://s37.myradiostream.com:9088/listen.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio City 98 FM radio",
+       "url": "http://freeuk18.listen2myradio.com:28250/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radju Ghazziela radio",
+       "url": "http://freeuk23.listen2myradio.com:27074/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radju Prekursur",
+       "url": "http://78.129.187.73:27150/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radju Xeb-er-ras radio",
+       "url": "http://freeuk28.listen2myradio.com:20034/",
+       "language_inferred": true
+      }
+     ]
+    },
+    "decade_70s": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Malta Sunshine Radio",
+       "url": "http://freeuk29.listen2myradio.com:19311/stream.nsv",
+       "tags": [
+        "decade_70s",
+        "decade_80s",
+        "decade_90s"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "decade_90s": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "90s Galaxy 105",
+       "url": "http://ca7.rcast.net:8034/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Arabella 90er Listen live",
+       "url": "https://90er.radioarabella.de/arabella-90er.mp3",
+       "tags": [
+        "decade_90s",
+        "ambient_relax",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 7,
+     "stations": [
+      {
+       "name": "Bay Easy",
+       "url": "http://178.32.161.194:8018/stream.mp3"
+      },
+      {
+       "name": "Magic Malta",
+       "url": "http://s46.myradiostream.com:6076/listen.mp3",
+       "tags": [
+        "easy_listening",
+        "rock",
+        "classical",
+        "pop_hits",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "ONE Radio",
+       "url": "https://www.liveradio.es/http://s10.voscast.com:8202/stream",
+       "tags": [
+        "news_talk",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 105 (105 FM) radio",
+       "url": "https://radio105-radio105network.radioca.st/",
+       "tags": [
+        "pop_hits",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Smash Radio",
+       "url": "http://s40.myradiostream.com:11558/",
+       "tags": [
+        "easy_listening",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Smooth Radio Malta",
+       "url": "https://s3.voscast.com:9259/default",
+       "tags": [
+        "easy_listening",
+        "ambient_relax"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "The Breeze Malta radio",
+       "url": "https://s1.voscast.com:11085/default",
+       "tags": [
+        "easy_listening",
+        "ambient_relax"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "electronic": {
+     "count": 16,
+     "stations": [
+      {
+       "name": "89.7 Bay Radio",
+       "url": "https://stream.pcradio.ru/bay_897_malta-med",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Bay 89.7 Radio",
+       "url": "https://stream.pcradio.ru/rad_bycmmt-med",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "BKR Radio",
+       "url": "http://stream.bkr.mt:90/",
+       "language_inferred": true
+      },
+      {
+       "name": "DM Radio",
+       "url": "http://s10.voscast.com:10020/",
+       "tags": [
+        "electronic",
+        "house"
+       ]
+      },
+      {
+       "name": "Fantasy Radio Malta",
+       "url": "http://109.169.76.104:38753/listen.pls?n=b6da87747ebf8486ddca",
+       "tags": [
+        "pop_hits",
+        "electronic",
+        "oldies",
+        "decade_80s"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Fortune Flash Radio",
+       "url": "http://eu3.fastcast4u.com:5882",
+       "language_inferred": true
+      },
+      {
+       "name": "Galaxy 105 Festa",
+       "url": "http://streaming.radionomy.com/105FestaGalaxy",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Galaxy 105 International",
+       "url": "http://streaming.radionomy.com/RadioGalaxyInternational",
+       "tags": [
+        "pop_hits",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "NO STOP MUSIC STATION radio",
+       "url": "http://37.187.93.104:8234/?1489772368430",
+       "tags": [
+        "electronic",
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Pure Radio",
+       "url": "https://sp.19clouds.net/8002/stream",
+       "tags": [
+        "electronic",
+        "reggae_ska"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Pure Radio",
+       "url": "http://s5.voscast.com:10440/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Pure Radio, Balzan",
+       "url": "https://sp1.19cloudsnetwork.gr/8010/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Bastjanizi",
+       "url": "http://bfmlive.ddns.net:88/broadwavehigh.mp3"
+      },
+      {
+       "name": "Vibe FM",
+       "url": "https://s9.voscast.com:7825/1",
+       "tags": [
+        "electronic",
+        "soul_rnb_funk",
+        "pop_hits",
+        "jazz"
+       ]
+      },
+      {
+       "name": "Vibe FM",
+       "url": "https://s9.voscast.com:7825/",
+       "language_inferred": true
+      },
+      {
+       "name": "Vibe FM 88.7",
+       "url": "http://s9.voscast.com:7824/1",
+       "tags": [
+        "electronic",
+        "hip_hop_rap",
+        "house"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "folk": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Bay Radio Easy",
+       "url": "https://stream.v3.network:18018/stream.mp3",
+       "tags": [
+        "folk",
+        "classical",
+        "pop_hits",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Magic Malta",
+       "url": "http://s46.myradiostream.com:6076/stream",
+       "tags": [
+        "folk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Magic Malta 91.7",
+       "url": "http://198.245.50.150:6076",
+       "tags": [
+        "pop_hits",
+        "folk",
+        "classical"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "holiday": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Christmas Radio Malta",
+       "url": "http://176.31.107.8:8402/stream"
+      },
+      {
+       "name": "Radio 105 Christmas",
+       "url": "https://halo.streamerr.co/radio/8220/radio.mp3",
+       "tags": [
+        "holiday",
+        "christian_gospel",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "house": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Houseradio Deep Tech House Nonstop",
+       "url": "http://stream.house-radio.com/stream/1",
+       "tags": [
+        "house",
+        "electronic",
+        "chillout_lounge"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Lounge Radio Malta",
+       "url": "http://nl1.lounge-radio.com:80/",
+       "tags": [
+        "house",
+        "chillout_lounge"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Pure Radio",
+       "url": "http://sp.19clouds.net:8002/stream",
+       "tags": [
+        "electronic",
+        "house"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "jazz": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Jazz Galaxy 105",
+       "url": "http://streaming.radionomy.com/JazzGalaxy105",
+       "language_inferred": true
+      }
+     ]
+    },
+    "kids": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Omroep 076 - Escalatie Radio",
+       "url": "https://stream.zeno.fm/302eh63rtg0uv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "latin": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Latin 105 Galaxy",
+       "url": "http://streaming.radionomy.com/Latin105Galaxy",
+       "tags": [
+        "pop_hits",
+        "latin"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Pasión Latina Malta",
+       "url": "http://207.180.230.170:8000/plstream",
+       "tags": [
+        "latin",
+        "world"
+       ]
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 35,
+     "stations": [
+      {
+       "name": "101 FM Australia",
+       "url": "http://s3.viastreaming.net:8930/",
+       "tags": [
+        "news_talk",
+        "various_eclectic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Bay Easy",
+       "url": "http://s1.voscast.com:8154/stream.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Bay Radio",
+       "url": "https://stream.v3.network:18022/stream.mp3",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "classical",
+        "easy_listening",
+        "soul_rnb_funk"
+       ]
+      },
+      {
+       "name": "Bay Radio 89.7",
+       "url": "http://stream.v3.network:8022/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Bay Radio 89.7",
+       "url": "http://178.32.161.194:8022/stream",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Bay Radio 89.7 FM",
+       "url": "https://stream.v3.network/proxy/897bay/stream.mp3?_=1",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "BKR radio",
+       "url": "https://s3.voscast.com:10893/stream",
+       "tags": [
+        "news_talk",
+        "college_community"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "BKR Radio",
+       "url": "https://s4.radio.co/s0ac89720b/listen",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "sports",
+        "electronic"
+       ]
+      },
+      {
+       "name": "Campus FM",
+       "url": "https://rbx2.hnux.com/http://e11648.cloudrad.io:8174/campusfm_live?_=0.2807693347745841",
+       "tags": [
+        "pop_hits",
+        "college_community",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Campus FM radio",
+       "url": "http://nebula.shoutca.st:8174/campusfm_live",
+       "language_inferred": true
+      },
+      {
+       "name": "MICS Radio",
+       "url": "http://micsradio.ddns.net:90/",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "college_community",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "NET FM",
+       "url": "http://s2.voscast.com:11392/",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "classical",
+        "rock"
+       ]
+      },
+      {
+       "name": "ONE Radio",
+       "url": "http://s10.voscast.com:8202/stream",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "ONE Radio",
+       "url": "https://crs.webdesign-flash.ro/?q=http://s10.voscast.com:8202/&plugin_id=7628&site_id=8520577",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "electronic",
+        "oldies"
+       ]
+      },
+      {
+       "name": "One Radio",
+       "url": "http://s10.voscast.com:8202/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "ONE Radio (Malta)",
+       "url": "https://stream.pcradio.ru/rad_ncmt-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Malta",
+       "url": "https://s38.myradiostream.com:6982/",
+       "tags": [
+        "news_talk",
+        "sports"
+       ]
+      },
+      {
+       "name": "Radio Malta - G'Mangia",
+       "url": "https://www.liveradio.es/http://s38.myradiostream.com:6982/listen.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Malta 2",
+       "url": "http://s11.myradiostream.com:4954/listen.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Malta 2",
+       "url": "https://s11.myradiostream.com/4954/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Malta 2 radio",
+       "url": "https://onlineradiobox.com/json/mt/malta2/play?platform=web",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Maria",
+       "url": "https://dreamsiteradiocp2.com/proxy/rmmalta2?mp=/stream"
+      },
+      {
+       "name": "Radio RTK",
+       "url": "http://lush.wavestreamer.com:5919/stream.mp3",
+       "tags": [
+        "news_talk",
+        "christian_gospel"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radju Kazin Banda San Filep",
+       "url": "http://s31.myradiostream.com:18258/listen.mp3",
+       "tags": [
+        "news_talk",
+        "christian_gospel"
+       ]
+      },
+      {
+       "name": "Radju Kazin Banda San Filep 1063FM",
+       "url": "http://91.121.82.33:18258/listen.pls",
+       "language_inferred": true
+      },
+      {
+       "name": "Radju Luminaria",
+       "url": "http://direct.radjuluminaria.com:8000/radjuluminaria",
+       "tags": [
+        "news_talk",
+        "christian_gospel"
+       ]
+      },
+      {
+       "name": "Radju Luminaria",
+       "url": "http://direct.radjuluminaria.com:8000/radjuluminaria/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radju Luminaria radio",
+       "url": "https://az.wannastream.com/radio/8000/radjuluminaria",
+       "tags": [
+        "news_talk",
+        "christian_gospel"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radju Malta",
+       "url": "http://s38.myradiostream.com:6982/listen.mp3",
+       "tags": [
+        "news_talk",
+        "classical",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radju Malta 1",
+       "url": "http://5.135.154.91:6982/"
+      },
+      {
+       "name": "Radju Malta 1",
+       "url": "https://s38.myradiostream.com/6982/",
+       "tags": [
+        "news_talk",
+        "sports"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radju Malta 2",
+       "url": "https://s11.myradiostream.com/:4954/listen.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radju Malta 2",
+       "url": "http://s11.myradiostream.com:4954",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radju Marija",
+       "url": "http://dreamsiteradiocp2.com:8096/",
+       "tags": [
+        "news_talk",
+        "christian_gospel"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radju Marija Malta radio",
+       "url": "http://dreamsiteradiocp.com:8102/stream.nsv",
+       "tags": [
+        "news_talk",
+        "christian_gospel"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "oldies": {
+     "count": 11,
+     "stations": [
+      {
+       "name": "Bay Retro",
+       "url": "http://s1.voscast.com:8156/stream.mp3",
+       "tags": [
+        "pop_hits",
+        "oldies"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Calypso Radio 101.8FM",
+       "url": "https://s4.radio.co/sf3aa4c25a/listen",
+       "tags": [
+        "pop_hits",
+        "oldies",
+        "news_talk",
+        "world",
+        "decade_70s",
+        "decade_80s",
+        "decade_60s",
+        "easy_listening",
+        "jazz",
+        "rock",
+        "reggae_ska"
+       ]
+      },
+      {
+       "name": "Calypso Radio Malta",
+       "url": "http://s9.voscast.com:8128/stream/1/",
+       "tags": [
+        "pop_hits",
+        "oldies"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Fantasy Radio Malta",
+       "url": "https://stream.zeno.fm/qc0p7ry0w0hvv",
+       "tags": [
+        "decade_80s",
+        "pop_hits",
+        "oldies",
+        "disco_eurodance"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Fantasy Radio Malta",
+       "url": "http://109.169.76.104:38753",
+       "tags": [
+        "pop_hits",
+        "decade_80s",
+        "oldies",
+        "disco_eurodance",
+        "world"
+       ]
+      },
+      {
+       "name": "Living Life In Malta Radio",
+       "url": "https://s1.voscast.com:10237/stream",
+       "tags": [
+        "oldies",
+        "decade_60s",
+        "decade_90s",
+        "rock",
+        "decade_70s",
+        "decade_80s",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Malta Sunshine Radio",
+       "url": "http://109.169.14.36:17905/",
+       "tags": [
+        "pop_hits",
+        "oldies",
+        "soul_rnb_funk",
+        "rock"
+       ]
+      },
+      {
+       "name": "Malta Sunshine Radio",
+       "url": "http://109.169.76.26:30486/stream.nsv",
+       "tags": [
+        "decade_70s",
+        "decade_2000s",
+        "decade_60s",
+        "decade_80s",
+        "pop_hits",
+        "decade_90s",
+        "oldies"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Malta Sunshine Radio",
+       "url": "http://78.129.185.81:20225/listen.pls?n=2894d244a6f78ff7a5f7",
+       "tags": [
+        "pop_hits",
+        "decade_2000s",
+        "oldies",
+        "rock",
+        "decade_70s",
+        "decade_60s",
+        "decade_80s",
+        "decade_90s"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 105 Retro",
+       "url": "https://aurora.shoutca.st/listen/radio_105_retro/radio.mp3",
+       "tags": [
+        "oldies",
+        "pop_hits",
+        "rock",
+        "decade_70s",
+        "decade_80s",
+        "decade_90s"
+       ]
+      },
+      {
+       "name": "Radio 105 Sixties",
+       "url": "https://azura.shoutca.st/listen/radio_105_sixties/radio.mp3",
+       "tags": [
+        "oldies",
+        "pop_hits",
+        "decade_1920s_50s",
+        "rock",
+        "decade_60s"
+       ]
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 29,
+     "stations": [
+      {
+       "name": "89.7 Bay",
+       "url": "http://178.32.161.194:8022/stream.mp3",
+       "tags": [
+        "pop_hits",
+        "electronic"
+       ]
+      },
+      {
+       "name": "89.7 Bay",
+       "url": "http://s1.voscast.com:8132/stream/1/",
+       "language_inferred": true
+      },
+      {
+       "name": "89.7 BAY",
+       "url": "http://s1.voscast.com:8132/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "African Media Association Malta Radio",
+       "url": "https://stream.zeno.fm/bg2zy31banzuv",
+       "tags": [
+        "pop_hits",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Bay Radio Pride",
+       "url": "https://stream.v3.network:18086/stream.mp3?_=1"
+      },
+      {
+       "name": "Calypso Radio",
+       "url": "http://s9.voscast.com:8128/stream1507706115570/1",
+       "language_inferred": true
+      },
+      {
+       "name": "Calypso Ten 18",
+       "url": "http://s9.voscast.com:8128/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Galaxy 105 Maltin",
+       "url": "http://ca7.rcast.net:8034/stream.mp3?1524642866553",
+       "language_inferred": true
+      },
+      {
+       "name": "Galaxy Romantics",
+       "url": "http://streaming.radionomy.com/RomanticsGalaxy105",
+       "language_inferred": true
+      },
+      {
+       "name": "Magic Malta",
+       "url": "https://s46.myradiostream.com/6076/",
+       "language_inferred": true
+      },
+      {
+       "name": "Magic Malta",
+       "url": "http://s16.myradiostream.com:4542/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Magic Malta 91.7",
+       "url": "http://s46.myradiostream.com:6076/stream/1/",
+       "bitrate": 128,
+       "logo": "http://radio.pervii.com/logo/1403805378.png",
+       "tags": [
+        "pop_hits",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Magic Malta Radio",
+       "url": "http://s46.myradiostream.com:6076/",
+       "tags": [
+        "pop_hits",
+        "rock"
+       ]
+      },
+      {
+       "name": "Malta Sunshine Radio",
+       "url": "https://stream.zeno.fm/14gzk46p7yzuv",
+       "tags": [
+        "pop_hits",
+        "decade_70s",
+        "decade_80s",
+        "decade_90s"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Maltin Biss radio",
+       "url": "https://s4.voscast.com:8837/default",
+       "language_inferred": true
+      },
+      {
+       "name": "NET FM radio",
+       "url": "https://s2.voscast.com:11393/default",
+       "tags": [
+        "pop_hits",
+        "decade_2000s",
+        "decade_80s",
+        "decade_90s"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "One Radio 92.7 FM",
+       "url": "http://s10.voscast.com:8202/stream/1/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 105",
+       "url": "http://station.voscast.com/5ed0e7635a47c/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 105",
+       "url": "http://s5.voscast.com:9304/",
+       "tags": [
+        "pop_hits",
+        "easy_listening",
+        "rock",
+        "soul_rnb_funk",
+        "decade_80s",
+        "decade_90s"
+       ]
+      },
+      {
+       "name": "Radio 105 FM Malta",
+       "url": "http://ca7.rcast.net:8056/stream.mp3",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "decade_60s",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Radio Galaxy",
+       "url": "http://s2.voscast.com:8190/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Galaxy 105 FM",
+       "url": "http://ca7.rcast.net:8056/"
+      },
+      {
+       "name": "RADIO Patata",
+       "url": "http://daniel.torontocast.com:1080/stream?ext=.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "radiopatata",
+       "url": "https://radiopatata.stream.laut.fm/radiopatata",
+       "tags": [
+        "pop_hits",
+        "disco_eurodance"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Smash Radio 104.6FM",
+       "url": "http://freeuk24.listen2myradio.com:3691/stream.nsv",
+       "language_inferred": true
+      },
+      {
+       "name": "Switch Radio Malta",
+       "url": "http://80.71.48.17:9000/",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Toxic8 Radio",
+       "url": "http://5.9.17.142:8042/stream.nsv",
+       "language_inferred": true
+      },
+      {
+       "name": "Vibe FM 88.7 Radio",
+       "url": "https://stream.pcradio.ru/vibefm_malta-med",
+       "language_inferred": true
+      },
+      {
+       "name": "XFM Malta 100.2",
+       "url": "http://162.252.85.85:7866/stream/1/",
+       "language_inferred": true
+      }
+     ]
+    },
+    "reggae_ska": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Malta Sunshine Radio",
+       "url": "http://78.129.185.81:20225",
+       "tags": [
+        "pop_hits",
+        "reggae_ska",
+        "latin",
+        "decade_70s",
+        "decade_80s",
+        "decade_90s",
+        "rock",
+        "soul_rnb_funk",
+        "easy_listening",
+        "oldies",
+        "hip_hop_rap",
+        "house",
+        "electronic",
+        "disco_eurodance",
+        "world",
+        "decade_60s"
+       ]
+      }
+     ]
+    },
+    "rock": {
+     "count": 20,
+     "stations": [
+      {
+       "name": "89.7 Bay",
+       "url": "http://178.32.161.194:8022/",
+       "tags": [
+        "rock",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Bay Retro",
+       "url": "http://stream.v3.network:8014/stream",
+       "tags": [
+        "rock",
+        "pop_hits",
+        "oldies"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Comedy Rock Radio",
+       "url": "https://s9.voscast.com:9189/stream.ogg",
+       "tags": [
+        "rock",
+        "comedy",
+        "pop_hits",
+        "classical",
+        "soundtrack"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Comedy-Rock Radio",
+       "url": "http://67.212.165.106:8122",
+       "tags": [
+        "rock",
+        "comedy"
+       ]
+      },
+      {
+       "name": "Comedy-Rock Radio",
+       "url": "http://s9.voscast.com:9188/stream.ogg",
+       "language_inferred": true
+      },
+      {
+       "name": "Energy radio",
+       "url": "http://37.187.93.104:8812/stream.nsv",
+       "tags": [
+        "rock",
+        "pop_hits",
+        "soul_rnb_funk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Galaxy Rock",
+       "url": "http://streaming.radionomy.com/RockGalaxy105",
+       "language_inferred": true
+      },
+      {
+       "name": "Kiss FM 91.3 radio",
+       "url": "http://s10.voscast.com:8344/",
+       "tags": [
+        "rock",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "KISS Malta",
+       "url": "http://s10.voscast.com:8344/stream/1/",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "oldies"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Magic Malta Radio",
+       "url": "https://s46.myradiostream.com/:6076/",
+       "tags": [
+        "rock",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "ONE Radio",
+       "url": "https://s10.voscast.com:8203/stream",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "folk",
+        "news_talk",
+        "country"
+       ]
+      },
+      {
+       "name": "ONE Radio",
+       "url": "https://station.voscast.com/546b83d7db185/",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "oldies",
+        "electronic",
+        "soul_rnb_funk",
+        "reggae_ska",
+        "techno",
+        "trance_goa",
+        "soundtrack",
+        "hip_hop_rap",
+        "house",
+        "jpop_kpop_asia",
+        "decade_70s",
+        "decade_60s",
+        "decade_80s",
+        "decade_90s",
+        "world"
+       ]
+      },
+      {
+       "name": "Radio 101",
+       "url": "http://s2.voscast.com:11392/%20Title1=Radio%20101%20Length1=-1%20Version=2",
+       "tags": [
+        "pop_hits",
+        "rock"
+       ]
+      },
+      {
+       "name": "Radio 105 Cuore",
+       "url": "https://azura.shoutca.st/radio/8330/radio.mp3",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "disco_eurodance",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Radio 105 FM Rock",
+       "url": "https://vesper.streamerr.co/listen/radio_105_rock/radio.mp3",
+       "tags": [
+        "rock",
+        "alternative_indie"
+       ]
+      },
+      {
+       "name": "Radio Albatro",
+       "url": "http://37.187.93.104:8307/stream",
+       "tags": [
+        "pop_hits",
+        "rock"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radju Bastjaniżi FM",
+       "url": "http://bfmlive.ddns.net:88/broadwave.mp3?src=1&#038rate=1&#038ref=",
+       "tags": [
+        "pop_hits",
+        "rock"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radju Hompesch",
+       "url": "http://janus2.cdnstream.com:8008/",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "news_talk",
+        "folk",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Radju Hompesch Radio",
+       "url": "http://janus2.cdnstream.com:8008/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "XFM 100.2",
+       "url": "http://162.252.85.85:7866",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "decade_90s",
+        "easy_listening",
+        "alternative_indie",
+        "electronic",
+        "decade_2000s",
+        "hip_hop_rap"
+       ]
+      }
+     ]
+    },
+    "soul_rnb_funk": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Galaxy Base 105",
+       "url": "http://streaming.radionomy.com/Base105",
+       "tags": [
+        "rock",
+        "soul_rnb_funk",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Living Life In Malta Radio",
+       "url": "http://s1.voscast.com:10236/stream",
+       "tags": [
+        "classical",
+        "easy_listening",
+        "rock",
+        "soul_rnb_funk",
+        "oldies"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "sports": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "BKR Radio",
+       "url": "http://majestic.wavestreamer.com:8209/stream.mp3",
+       "tags": [
+        "sports",
+        "news_talk"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "trance_goa": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Vibe FM",
+       "url": "http://s9.voscast.com:7824/stream.mp3",
+       "tags": [
+        "trance_goa",
+        "soul_rnb_funk"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "world": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "BKR Radio",
+       "url": "http://majestic.wavestreamer.com:8209/"
+      },
+      {
+       "name": "Like One Malta – MT",
+       "url": "https://likeradiostream.com/likeonemalta",
+       "language_inferred": true
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 59,
+     "stations": [
+      {
+       "name": "3dxchatMIX",
+       "url": "https://stream.zeno.fm/auu4533uty8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "80s Galaxy 105",
+       "url": "http://streaming.radionomy.com/80s105?type=.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "alfawolves",
+       "url": "https://stream.zeno.fm/pn9ts05smm0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "All Rock Dab – MT",
+       "url": "http://s6.reliastream.com:8296/",
+       "language_inferred": true
+      },
+      {
+       "name": "AMAM (African Media Association Malta) – MT",
+       "url": "http://stream-47.zeno.fm/bg2zy31banzuv?zs=mJoiL6meRxmVlqbuZYOlng",
+       "language_inferred": true
+      },
+      {
+       "name": "AMAM Radio",
+       "url": "https://stream.zeno.fm/4176m21banzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Bay Easy",
+       "url": "http://178.32.161.194:8018/",
+       "language_inferred": true
+      },
+      {
+       "name": "Bay Pride",
+       "url": "https://stream.v3.network/proxy/baypride/stream.mp3?_=1?n=ef986195e9fe7eb7de47",
+       "language_inferred": true
+      },
+      {
+       "name": "Bay Retro",
+       "url": "https://stream.v3.network/proxy/retro/stream.mp3?_=1?n=6907499f6725c052bdef",
+       "language_inferred": true
+      },
+      {
+       "name": "BLRadio",
+       "url": "https://stream.zeno.fm/tbe09fcyurhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "BLRadioCS",
+       "url": "https://stream.zeno.fm/a6k469m0urhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Buzz FM Radio",
+       "url": "https://stream-59.zeno.fm/xwki3b2h2obvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Buzz FM Rock Radio",
+       "url": "https://stream-44.zeno.fm/phcdaasfpaovv",
+       "language_inferred": true
+      },
+      {
+       "name": "Calypso Ten 18 Radio",
+       "url": "https://stream.pcradio.ru/rad_clpsrd-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Christmas Radio Malta",
+       "url": "http://philae.shoutca.st:8402/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Classical Galaxy 105",
+       "url": "http://streaming.radionomy.com/ClassicalGalaxy105?type=.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Darradio",
+       "url": "https://freeuk20.listen2myradio.com/live.mp3?typeportmount=s1_24831_stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Energy Rock Channel",
+       "url": "http://sr11.inmystream.it:8192/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Fantasy Radio Malta",
+       "url": "https://stream.zeno.fm/3fec5ry0w0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Galaxy 105 Centocinque",
+       "url": "http://streaming.radionomy.com/CentocinueGalaxy105?type=.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Galaxy Country",
+       "url": "http://streaming.radionomy.com/CountryGalaxy105?type=.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Galaxy Hits 105",
+       "url": "http://streaming.radionomy.com/GalaxyHits105",
+       "language_inferred": true
+      },
+      {
+       "name": "Galaxy Soul",
+       "url": "http://streaming.radionomy.com/SoelGalaxy105?type=.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Gem Radio Online",
+       "url": "http://195.158.83.101:88/broadwave.mp3?src=1&amprate=1&ampref=",
+       "language_inferred": true
+      },
+      {
+       "name": "GOODVIBE RADIO",
+       "url": "https://stream-44.zeno.fm/b0d7307puzzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Icon Twist",
+       "url": "https://stream.zeno.fm/ktau1sy8p98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "IROMBA",
+       "url": "https://stream.zeno.fm/f9c2x0mr1uhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "JAMROCK",
+       "url": "https://stream-42.zeno.fm/tanuxtqawp8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Joy Gospel Malta",
+       "url": "https://stream.zeno.fm/ge5ncmp0qa0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Malta Sunshine Radio",
+       "url": "https://freeuk15.listen2myradio.com/live.mp3?typeportmount=s1_17905_stream_732047495stream.nsv",
+       "language_inferred": true
+      },
+      {
+       "name": "Malta Sunshine Radio",
+       "url": "https://stream.zeno.fm/vhgtc46p7yzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Old Memories",
+       "url": "https://stream-55.zeno.fm/exwd1atuty8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Old Memories",
+       "url": "https://stream.zeno.fm/exwd1atuty8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Playlist",
+       "url": "https://stream.zeno.fm/idlikz9nlwitv",
+       "language_inferred": true
+      },
+      {
+       "name": "Pure Radio (Malta)",
+       "url": "https://stream.zeno.fm/f7k5h89sz68uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio City 98 FM – 98 FM – Valletta – MT",
+       "url": "https://freeuk18.listen2myradio.com/live.mp3?typeportmount=s1_28250_stream_306449952",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO Locale Gozo",
+       "url": "https://stream.zeno.fm/g13unbnhns8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Roma Sud",
+       "url": "http://184.75.223.178:8175/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "RadioMidMed",
+       "url": "https://stream-57.zeno.fm/bsukxt492k0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radju Ghazziela – MT",
+       "url": "https://freeuk23.listen2myradio.com/live.mp3?typeportmount=s1_27074_stream_468434499",
+       "language_inferred": true
+      },
+      {
+       "name": "Radju Lehen il Belt Victoria",
+       "url": "http://hubble.shoutca.st:8641/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radju Leħen il-Belt Victoria",
+       "url": "http://az.wannastream.com:8010/radjulehenil-beltvictoria",
+       "language_inferred": true
+      },
+      {
+       "name": "Radju Luminaria",
+       "url": "https://az.wannastream.com/radio/8000/radjuluminaria?1585158958"
+      },
+      {
+       "name": "Radju Malta 1",
+       "url": "http://s38.myradiostream.com/6982/listen.mp3"
+      },
+      {
+       "name": "Radju Margerita – 96.1 FM – MT",
+       "url": "https://freeuk25.listen2myradio.com/live.mp3?typeportmount=s1_7326_stream_825972477",
+       "language_inferred": true
+      },
+      {
+       "name": "Radju Xeb-er-ras",
+       "url": "https://freeuk28.listen2myradio.com/live.mp3?typeportmount=s1_20034_stream_406848827",
+       "language_inferred": true
+      },
+      {
+       "name": "Reggae Galaxy 105",
+       "url": "http://streaming.radionomy.com/ReggaeGalaxy105?type=.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "RuskiRuski",
+       "url": "https://stream.zeno.fm/egfkyap0wc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RY E-STATION",
+       "url": "https://stream.zeno.fm/akjlyfwqadiuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Smash Radio 104.6FM",
+       "url": "https://stream.zeno.fm/hlmxyeekpkduv",
+       "language_inferred": true
+      },
+      {
+       "name": "Soundscape",
+       "url": "https://stream-52.zeno.fm/wvg5tsvdrchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Startup dot com radio",
+       "url": "https://stream.zeno.fm/zdh4150dx98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Streamradio",
+       "url": "http://streamradio.cloud.tilaa.com:8000/stream-16"
+      },
+      {
+       "name": "Tantra Relax",
+       "url": "https://stream.zeno.fm/1zccm015py8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "TheMummichogblogDotCom",
+       "url": "https://stream.zeno.fm/9huhv2mhk98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Trance Galaxy 105",
+       "url": "http://streaming.radionomy.com/TranceGalaxy105",
+       "language_inferred": true
+      },
+      {
+       "name": "Valeta line",
+       "url": "https://stream1.svrdedicado.org:7176/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "XFM 100.2",
+       "url": "http://s10.voscast.com:7866/stream1662204455015/1",
+       "language_inferred": true
+      },
+      {
+       "name": "XFM 100.2",
+       "url": "http://s10.voscast.com:7866/stream/1",
+       "language_inferred": true
+      }
+     ]
+    }
+   }
+  },
+  "English": {
+   "count": 11,
+   "genres": {
+    "alternative_indie": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Bay Easy",
+       "url": "http://178.32.161.194:8018/stream",
+       "tags": [
+        "easy_listening",
+        "alternative_indie"
+       ]
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Campus FM",
+       "url": "https://campusfm.radioca.st/campusfm_live",
+       "tags": [
+        "college_community",
+        "easy_listening",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "XFM 100.2",
+       "url": "http://s10.voscast.com:7866",
+       "tags": [
+        "world",
+        "easy_listening"
+       ]
+      }
+     ]
+    },
+    "electronic": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "RAVE Radio",
+       "url": "https://s3.radio.co/s614efd5e8/listen",
+       "tags": [
+        "electronic",
+        "house",
+        "techno"
+       ]
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Calypso 101.8 FM",
+       "url": "http://s9.voscast.com:8128/",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ]
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Bay Retro",
+       "url": "http://178.32.161.194:8014/"
+      }
+     ]
+    },
+    "rock": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Buzz FM, Gżira radio",
+       "url": "https://stream.zeno.fm/vxnpgfkqhi8uv",
+       "tags": [
+        "rock",
+        "decade_80s",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "Bay Retro",
+       "url": "http://178.32.161.194:8014/stream"
+      },
+      {
+       "name": "Buzz FM",
+       "url": "https://stream.zeno.fm/xwki3b2h2obvv"
+      },
+      {
+       "name": "Christmas Radio Malta",
+       "url": "http://philae.shoutca.st:8402/"
+      },
+      {
+       "name": "Smash Radio Malta",
+       "url": "http://s3.smashmalta.com:8000/smash"
+      }
+     ]
+    }
+   }
+  },
+  "Italian": {
+   "count": 4,
+   "genres": {
+    "oldies": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Fantasy Radio Malta",
+       "url": "http://109.169.76.104:38753/stream.nsv",
+       "tags": [
+        "oldies",
+        "pop_hits",
+        "decade_80s"
+       ]
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Patata",
+       "url": "http://daniel.torontocast.com:1080/stream"
+      }
+     ]
+    },
+    "rock": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Energy Rock Channel",
+       "url": "http://eu.radioboss.fm:8335/live",
+       "tags": [
+        "rock",
+        "metal"
+       ]
+      },
+      {
+       "name": "Rock Radio",
+       "url": "http://37.187.93.104:8812",
+       "tags": [
+        "rock",
+        "alternative_indie",
+        "decade_70s",
+        "pop_hits",
+        "decade_80s",
+        "decade_90s",
+        "gothic_industrial",
+        "easy_listening",
+        "oldies",
+        "blues",
+        "reggae_ska",
+        "punk",
+        "metal"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "German": {
+   "count": 1,
+   "genres": {
+    "holiday": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Albatroxmasfly laut.fm",
+       "url": "http://radioalbatroxmasfly.stream.laut.fm/radioalbatroxmasfly"
+      }
+     ]
+    }
+   }
+  },
+  "Multilingual": {
+   "count": 1,
+   "genres": {
+    "pop_hits": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radju Malta 2",
+       "url": "http://s11.myradiostream.com/4954/listen.mp3",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "alternative_indie"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Swahili": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Tzgospel swahili",
+       "url": "https://stream.zeno.fm/tu7pm4tchfhvv"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

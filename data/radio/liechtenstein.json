@@ -1,0 +1,252 @@
+{
+ "country": "Liechtenstein",
+ "count": 25,
+ "languages": {
+  "German": {
+   "count": 24,
+   "genres": {
+    "country": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Radio L Country",
+       "url": "https://radiol.ice.infomaniak.ch/country.mp3",
+       "tags": [
+        "various_eclectic",
+        "country",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio L Country",
+       "url": "http://live.radio.li:8000/country",
+       "language_inferred": true
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Jefm Radio",
+       "url": "http://mcgowan.wooo.li:8000/stream/1",
+       "tags": [
+        "easy_listening",
+        "decade_90s"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Liechtenstein",
+       "url": "https://www.liveradio.es/http://live.radio.li:8000/live",
+       "language_inferred": true
+      }
+     ]
+    },
+    "electronic": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "die neue welle - HEARTBEAT Listen live",
+       "url": "https://dieneuewelle-heartbeat.cast.addradio.de/dieneuewelle/heartbeat/mp3/high",
+       "language_inferred": true
+      }
+     ]
+    },
+    "metal": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Millenium 970 AM Listen live",
+       "url": "https://icecasthd.net:6252/server",
+       "tags": [
+        "pop_hits",
+        "metal"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Liechtenstein",
+       "url": "https://radioliechtenstein.ice.infomaniak.ch/radioliechtenstein-128.mp3",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "rock",
+        "country",
+        "electronic"
+       ]
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 5,
+     "stations": [
+      {
+       "name": "94fm",
+       "url": "https://94fm.stream.laut.fm/94fm?t302=2020-04-23_13-12-22&uuid=02b9a0b3-6f20-4cf6-9fad-0206521e55b0",
+       "language_inferred": true
+      },
+      {
+       "name": "Campus Radio",
+       "url": "https://campusradioli.out.airtime.pro/campusradioli_a",
+       "language_inferred": true
+      },
+      {
+       "name": "FirstHits",
+       "url": "https://stream.laut.fm/firsthits",
+       "tags": [
+        "pop_hits",
+        "decade_2000s",
+        "easy_listening",
+        "decade_90s"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio L Love",
+       "url": "https://radiol.ice.infomaniak.ch/love.mp3",
+       "tags": [
+        "various_eclectic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Liechtenstein",
+       "url": "http://live.radio.li:8000/live",
+       "bitrate": 128,
+       "logo": "http://radio.pervii.com/logo/121930.jpg",
+       "tags": [
+        "pop_hits",
+        "various_eclectic"
+       ]
+      }
+     ]
+    },
+    "rock": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Hit-Karusell",
+       "url": "http://87.118.82.78:14210",
+       "tags": [
+        "pop_hits",
+        "rock"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "soul_rnb_funk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "94fm",
+       "url": "https://94fm.stream.laut.fm/94fm",
+       "tags": [
+        "soul_rnb_funk",
+        "folk",
+        "pop_hits",
+        "hip_hop_rap",
+        "christian_gospel",
+        "house",
+        "ambient_relax",
+        "disco_eurodance",
+        "punk"
+       ]
+      }
+     ]
+    },
+    "various_eclectic": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio L  Schlager",
+       "url": "https://radiol.ice.infomaniak.ch/schlager.mp3",
+       "tags": [
+        "various_eclectic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 9,
+     "stations": [
+      {
+       "name": "Campus Radio Universität Liechtenstein – LI",
+       "url": "http://campusradioli.out.airtime.pro:8000/campusradioli_a?_ga=2.101656774.674607878.1654542746-605680195.1652444224&_gac=1.57737944.1654542746.CjwKCAjwy_aUBhACEiwA2IHHQGx3DXomiWuGraaK7lIRP_wzZO8mD_vYYL42qj8YbPje6dxerW69XxoC2zkQAvD_BwE",
+       "language_inferred": true
+      },
+      {
+       "name": "DARIUS",
+       "url": "https://stream.zeno.fm/dksygkuhwy8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Elissas Song I Want To Say It",
+       "url": "https://stream.zeno.fm/eu8bxjulr9tvv",
+       "language_inferred": true
+      },
+      {
+       "name": "libya cir",
+       "url": "https://stream.zeno.fm/x4d9cekhakhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "NOLTRADIO",
+       "url": "https://stream.zeno.fm/7526bw6hzrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "PlayGirls Radio",
+       "url": "https://stream.zeno.fm/p1g2bf8mbd0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Tzgospel (Liechtenstein)",
+       "url": "https://stream.zeno.fm/zq85m231uchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Valoria",
+       "url": "https://stream.zeno.fm/hig4cbxnufwuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Zirak radio",
+       "url": "https://stream.zeno.fm/az1jkyj9swgvv",
+       "language_inferred": true
+      }
+     ]
+    }
+   }
+  },
+  "Multilingual": {
+   "count": 1,
+   "genres": {
+    "pop_hits": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Liechtenstein",
+       "url": "https://radiol.ice.infomaniak.ch/radiol.mp3",
+       "tags": [
+        "pop_hits",
+        "various_eclectic"
+       ]
+      }
+     ]
+    }
+   }
+  }
+ }
+}

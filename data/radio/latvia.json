@@ -1,0 +1,6113 @@
+{
+ "country": "Latvia",
+ "count": 966,
+ "languages": {
+  "Latvian": {
+   "count": 920,
+   "genres": {
+    "alternative_indie": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "ehr Alternative",
+       "url": "https://stream.ehrhiti.lv:8000/Stream_37.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 7 Latvija",
+       "url": "http://185.8.60.118:8024/Radio7"
+      },
+      {
+       "name": "Radio NABA",
+       "url": "http://nabamp0.latvijasradio.lv:8016",
+       "tags": [
+        "alternative_indie",
+        "rock",
+        "electronic",
+        "college_community",
+        "easy_listening",
+        "classical",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Radio Nemiers",
+       "url": "https://live.radionemiers.lv/nemiers.aac",
+       "tags": [
+        "alternative_indie",
+        "rock",
+        "metal"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "ambient_relax": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "European Hit Radio - Acoustic",
+       "url": "http://stream.europeanhitradio.com:8000/Stream_18.aac"
+      },
+      {
+       "name": "European Hit Radio - Love Songs",
+       "url": "http://stream.europeanhitradio.com:8000/Stream_28.aac",
+       "tags": [
+        "pop_hits",
+        "ambient_relax",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "skrabonis",
+       "url": "http://radio1.clubradio.lv:8000/live128",
+       "language_inferred": true
+      }
+     ]
+    },
+    "blues": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Lounge FM 99.5 radio",
+       "url": "https://stream.loungefm.lv:8443/lounge",
+       "tags": [
+        "rock",
+        "blues",
+        "soul_rnb_funk",
+        "pop_hits",
+        "jazz"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "chillout_lounge": {
+     "count": 6,
+     "stations": [
+      {
+       "name": "Radio Talsi .:: Lounge Chillout Mix ::.",
+       "url": "http://radio.kuums.lv:5555/stream/1",
+       "bitrate": 320,
+       "logo": "http://radio.pervii.com/im/0/1553416790.jpg",
+       "tags": [
+        "chillout_lounge",
+        "various_eclectic"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Relax FM Latvija Listen live",
+       "url": "https://live.relaxfm.lv/02",
+       "tags": [
+        "chillout_lounge",
+        "pop_hits",
+        "easy_listening",
+        "oldies"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Talsi Lounge",
+       "url": "http://radio.kuums.lv:5555/listen.pls",
+       "tags": [
+        "chillout_lounge",
+        "ambient_relax"
+       ]
+      },
+      {
+       "name": "Talsi Lounge Radio",
+       "url": "http://kuums.lv:6555/stream.nsv",
+       "language_inferred": true
+      },
+      {
+       "name": "Talsi Lounge Radio",
+       "url": "http://kuums.lv:5555/?type=http\\u0026nocache=170",
+       "tags": [
+        "chillout_lounge",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Talsi Remix",
+       "url": "http://radio.kuums.lv:5555/",
+       "tags": [
+        "chillout_lounge",
+        "electronic",
+        "pop_hits",
+        "ambient_relax",
+        "house"
+       ]
+      }
+     ]
+    },
+    "christian_gospel": {
+     "count": 9,
+     "stations": [
+      {
+       "name": "Latvijas Kristigais Radio",
+       "url": "https://radio.lkr.lv/",
+       "tags": [
+        "christian_gospel",
+        "news_talk",
+        "kids"
+       ]
+      },
+      {
+       "name": "Latvijas Kristigais Radio",
+       "url": "http://91.228.7.230:7007/",
+       "tags": [
+        "christian_gospel",
+        "kids"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Latvijas Kristigais Radio",
+       "url": "http://91.228.7.124:7007/",
+       "tags": [
+        "christian_gospel",
+        "kids"
+       ]
+      },
+      {
+       "name": "Latvijas Kristigais Radio",
+       "url": "https://www.liveradio.es/http://91.228.7.124:7007/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio KurmisLV",
+       "url": "http://www.kurmislv.info:8000/live-kurmislv.aac"
+      },
+      {
+       "name": "RADIO MARIA LATVIA",
+       "url": "http://dreamsiteradiocp2.com:8046/stream",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Radio Marija Latvija",
+       "url": "http://195.122.25.178:8000/"
+      },
+      {
+       "name": "TLIG Radio Latvian",
+       "url": "http://46.28.49.164:7796/stream",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "True Life in God Radio Latvian",
+       "url": "https://stream.tligradio.org/listen/latvian/radio.mp3",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "classical": {
+     "count": 7,
+     "stations": [
+      {
+       "name": "Latvijas Radio 3 (LR3)",
+       "url": "https://stream.pcradio.ru/latvijas_radio3-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Latvijas Radio 3 - Klasika",
+       "url": "http://lr3mp0.latvijasradio.lv:8004/",
+       "tags": [
+        "classical",
+        "news_talk",
+        "jazz"
+       ]
+      },
+      {
+       "name": "Latvijas Radio 3 Klasika",
+       "url": "http://lr3mp0.latvijasradio.lv:8006",
+       "tags": [
+        "classical",
+        "jazz",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Radio Latvia Two – Lat R2",
+       "url": "http://muste.radio.org.lv/shoutcast/mp4:lr2a.stream/playlist.m3u8",
+       "tags": [
+        "college_community",
+        "classical"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio CBN Juiz de Fora Listen live",
+       "url": "https://stream02.ouveai.com.br/8036/server",
+       "tags": [
+        "news_talk",
+        "classical",
+        "various_eclectic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Классика",
+       "url": "http://yacht-radio.lv:8150/stream",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Радио Eldina radio",
+       "url": "http://radio.eldina.ru:9000/listen128",
+       "tags": [
+        "classical",
+        "pop_hits",
+        "electronic",
+        "hip_hop_rap"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "college_community": {
+     "count": 9,
+     "stations": [
+      {
+       "name": "ABITAPIC ENTERPRIZE",
+       "url": "https://stream.zeno.fm/nk2t91qsmzguv",
+       "language_inferred": true
+      },
+      {
+       "name": "Annija Karemna",
+       "url": "https://stream.zeno.fm/06zyyth7cxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Backspace FM",
+       "url": "https://stream.zeno.fm/xt8wptxt1uhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Lacoste King",
+       "url": "https://stream.zeno.fm/r3e3tgk2r98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "mfsiof",
+       "url": "https://stream.zeno.fm/vmkupk88998uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Mpskbeats",
+       "url": "https://stream.zeno.fm/owwieaaheubvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radion10",
+       "url": "https://stream.zeno.fm/vt05eks1aa9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Smoke FM",
+       "url": "https://stream.zeno.fm/wnp8q1yef18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "W22D FM",
+       "url": "https://stream.zeno.fm/tq6ykubaa48uv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "comedy": {
+     "count": 9,
+     "stations": [
+      {
+       "name": "Acid FM",
+       "url": "https://stream.zeno.fm/hvkxpbfsuwdvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Bass-Rave-Rap 24.7",
+       "url": "https://stream.zeno.fm/z903d4p1afhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "BieberMuzon",
+       "url": "https://stream.zeno.fm/0exfnnw57zhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "big test",
+       "url": "https://stream.zeno.fm/uw59htvrvy8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "ekstra",
+       "url": "https://stream.zeno.fm/zgx8qv4wt98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "jitzie 2",
+       "url": "https://stream.zeno.fm/hy44tu6av68uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Nobody FM",
+       "url": "https://stream.zeno.fm/5brrx7tu968uv",
+       "language_inferred": true
+      },
+      {
+       "name": "twaawta",
+       "url": "https://stream.zeno.fm/k2vq055e1hhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Yumor FM (Riga) Radio",
+       "url": "https://stream.pcradio.ru/yumor_riga-med",
+       "language_inferred": true
+      }
+     ]
+    },
+    "country": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "RadioNSM",
+       "url": "http://stream.radionsm.net:8000/radionsm.mp3",
+       "tags": [
+        "country",
+        "drum_and_bass",
+        "rock",
+        "schlager_polka",
+        "house",
+        "trance_goa",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Rietumu Radio",
+       "url": "http://85.254.49.118:8000/stream.mp3",
+       "tags": [
+        "country",
+        "various_eclectic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Rietumu Radio",
+       "url": "https://stream.radiojar.com/zv4vahasgnzuv.m4a",
+       "tags": [
+        "folk",
+        "pop_hits",
+        "country",
+        "various_eclectic",
+        "rock"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "decade_70s": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Made in Hits Listen live",
+       "url": "https://madeinhits.leswebradios.fr/stream/1/",
+       "tags": [
+        "pop_hits",
+        "decade_70s",
+        "decade_80s",
+        "decade_90s"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "disco_eurodance": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "Ambiance Groove",
+       "url": "http://streaming.radionomy.com/Ambiance-Groove",
+       "language_inferred": true
+      },
+      {
+       "name": "Brainstorm (Latvia) Radio",
+       "url": "https://stream.pcradio.ru/brainstorm-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Eurostarmusic",
+       "url": "http://radio.itap.lv:8038/stream/1",
+       "tags": [
+        "disco_eurodance",
+        "house",
+        "pop_hits"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "PARADOX",
+       "url": "http://185.58.205.244:9110/",
+       "tags": [
+        "electronic",
+        "oldies",
+        "disco_eurodance",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "drum_and_bass": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Autodj Radio Stn",
+       "url": "http://stn.lv:8000/stream/1",
+       "tags": [
+        "trance_goa",
+        "house",
+        "drum_and_bass"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 17,
+     "stations": [
+      {
+       "name": "Capital FM 94.9",
+       "url": "http://81.198.70.75:8000/01",
+       "bitrate": 56,
+       "logo": "http://radio.pervii.com/im/6/1537524306.jpg",
+       "tags": [
+        "easy_listening",
+        "pop_hits",
+        "various_eclectic",
+        "folk"
+       ]
+      },
+      {
+       "name": "EHR Love songs",
+       "url": "https://stream.ehrhiti.lv:8000/Stream_28.aac"
+      },
+      {
+       "name": "European Hit Radio (EHR)",
+       "url": "https://stream.pcradio.ru/ehr_riga-med",
+       "language_inferred": true
+      },
+      {
+       "name": "European Hit Radio - Acoustic",
+       "url": "https://stream.ehrhiti.lv:8000/Stream_26.aac",
+       "tags": [
+        "easy_listening",
+        "pop_hits",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "European Hit Radio - SuperHits Gold",
+       "url": "https://stream.ehrhiti.lv:8000/Stream_64.aac",
+       "tags": [
+        "easy_listening",
+        "decade_90s"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Flash Sound radio (LV)",
+       "url": "https://stream.pcradio.ru/rad_flshsnd-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Kurzemes Radio",
+       "url": "http://80.70.23.50:8000/stream.mp3",
+       "tags": [
+        "easy_listening",
+        "various_eclectic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Latvijas Radio 1 (LR1)",
+       "url": "https://stream.pcradio.ru/latvijas_radio1-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Pieci - Koncerti",
+       "url": "https://live.pieci.lv/live-hq.mp3",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Pieci 5 Riti",
+       "url": "http://live.pieci.lv:8000/live11-hq.aac",
+       "tags": [
+        "easy_listening",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Energy - Russian Radio",
+       "url": "http://radioenergy.lv:9000/stream.mp3",
+       "tags": [
+        "pop_hits",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio SWH Plus - 105.7 FM",
+       "url": "http://80.232.162.149:8000/plus96mp3",
+       "bitrate": 192,
+       "logo": "http://radio.pervii.com/logo/11986.jpg",
+       "tags": [
+        "pop_hits",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "RADIO TEV",
+       "url": "https://stream.radiotev.lv:8443/radiov",
+       "tags": [
+        "pop_hits",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Relax FM",
+       "url": "http://81.198.70.75:8000/02"
+      },
+      {
+       "name": "Rietumu Radio",
+       "url": "http://rietumi.ambero.lv:8000/stream/1/file.mp3"
+      },
+      {
+       "name": "Star FM",
+       "url": "https://starfm.live.advailo.com/audio/live/playlist.m3u8"
+      },
+      {
+       "name": "Travel Mix Radio",
+       "url": "http://188.40.32.140:8000/stream.mp3",
+       "tags": [
+        "easy_listening",
+        "decade_80s",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "electronic": {
+     "count": 52,
+     "stations": [
+      {
+       "name": "Atmosferix",
+       "url": "http://stream.atmosferix.net:8100/",
+       "tags": [
+        "electronic",
+        "soul_rnb_funk",
+        "house",
+        "disco_eurodance",
+        "blues"
+       ]
+      },
+      {
+       "name": "Autozinas FM",
+       "url": "http://r.rigaradio.lv:8000/mp3/stream.mp3",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "DANCE POP MUSIC Listen live",
+       "url": "https://stream.zenolive.com/y6xk75c6rfeuv",
+       "tags": [
+        "pop_hits",
+        "oldies",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "EHR Dance",
+       "url": "http://stream.europeanhitradio.com:8000/Stream_24.mp3"
+      },
+      {
+       "name": "EHR Dance",
+       "url": "https://stream.ehrhiti.lv:8000/Stream_24.aac",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "EHR Fitness",
+       "url": "https://stream.ehrhiti.lv:8000/Stream_14.aac",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "sports",
+        "electronic"
+       ]
+      },
+      {
+       "name": "ehr Pie Stūres",
+       "url": "http://stream.ehrhiti.lv:8000/Stream_62.aac",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "EHR Remixes",
+       "url": "https://stream.ehrhiti.lv:8000/Stream_32.aac",
+       "tags": [
+        "pop_hits",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "emka.lv",
+       "url": "http://emka.lv:8000/emka_mp3",
+       "tags": [
+        "pop_hits",
+        "electronic"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "European Hit Radio - Dance",
+       "url": "http://stream.europeanhitradio.com:8000/Stream_24.aac"
+      },
+      {
+       "name": "European Hit Radio - Party Service",
+       "url": "http://stream.europeanhitradio.com:8000/Stream_12.aac",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "European Hit Radio - Remixes",
+       "url": "http://stream.europeanhitradio.com:8000/Stream_32.aac",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "European Hit Radio - SuperHits",
+       "url": "http://stream.europeanhitradio.com:8000/Stream_21.aac",
+       "tags": [
+        "pop_hits",
+        "decade_2000s",
+        "electronic",
+        "classical",
+        "oldies"
+       ]
+      },
+      {
+       "name": "European Hit Radio – Dance",
+       "url": "https://stream.ehrhiti.lv:8000/Stream_24.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Flash Sound (LV) radio",
+       "url": "https://myradio24.org/65462",
+       "tags": [
+        "electronic",
+        "techno",
+        "house",
+        "chillout_lounge",
+        "trance_goa",
+        "ambient_relax",
+        "hip_hop_rap",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Future Bass Mix",
+       "url": "https://listen.radionomy.com/futurebassmix"
+      },
+      {
+       "name": "HMRadio",
+       "url": "https://stream.zeno.fm/wmf5tfmerxxuv",
+       "tags": [
+        "electronic",
+        "pop_hits",
+        "rock"
+       ]
+      },
+      {
+       "name": "InsideFM BassBoosted",
+       "url": "https://stream.insidefm.eu/listen/insidefm_bass/live",
+       "tags": [
+        "electronic",
+        "techno",
+        "house",
+        "drum_and_bass"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "InsideFM BassBoosted Radio",
+       "url": "https://stream.pcradio.ru/rad_nsdfmbss-med",
+       "language_inferred": true
+      },
+      {
+       "name": "InsideFM English",
+       "url": "https://stream.insidefm.eu/listen/insidefm_english/live",
+       "tags": [
+        "electronic",
+        "pop_hits",
+        "house",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "InsideFM Русское radio",
+       "url": "https://stream.insidefm.eu/listen/insidefm/nonstop",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "insomniaFM",
+       "url": "http://409.cloudrad.io:8092/"
+      },
+      {
+       "name": "Jukebox Radio",
+       "url": "https://stream.zeno.fm/esefptzhdfkuv",
+       "tags": [
+        "electronic",
+        "rock",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Larocca E-Radio radio",
+       "url": "https://radio.powerfm.lv:8025/stream",
+       "tags": [
+        "electronic",
+        "house"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Latvian Dance Music",
+       "url": "https://stream.zenolive.com/h3htmpc55k0uv.aac"
+      },
+      {
+       "name": "Latvian Dance Music",
+       "url": "http://streamingv2.shoutcast.com/LatvianDanceMusic",
+       "tags": [
+        "electronic",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Latvian Dance Music",
+       "url": "http://stream.zeno.fm/tq9yspc55k0uv.acc"
+      },
+      {
+       "name": "LRadio Baltija",
+       "url": "http://www.lradiostation.com/listen.m3u"
+      },
+      {
+       "name": "MSD Dance Radio",
+       "url": "https://stream.pcradio.ru/rad_msdgmslv-med",
+       "language_inferred": true
+      },
+      {
+       "name": "New Dance Radio",
+       "url": "https://stream.newdanceradio.ru/",
+       "tags": [
+        "electronic",
+        "pop_hits",
+        "trance_goa",
+        "techno",
+        "house",
+        "disco_eurodance"
+       ]
+      },
+      {
+       "name": "Nordic Beat Radio",
+       "url": "http://5.39.71.159:8915/stream",
+       "tags": [
+        "pop_hits",
+        "electronic"
+       ]
+      },
+      {
+       "name": "Nordic Chillout Radio",
+       "url": "http://nordicbeatradio.radioca.st:8023/stream",
+       "tags": [
+        "electronic",
+        "chillout_lounge",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Nordic Chillout Radio",
+       "url": "https://www.liveradio.es/http://nordicbeatradio.radioca.st:8023/stream",
+       "tags": [
+        "chillout_lounge",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "NzRadio Intrigue radio",
+       "url": "https://freeuk22.listen2myradio.com/live.mp3?typeportmount=s1_39892_stream_207361363stream.nsv",
+       "tags": [
+        "electronic",
+        "house"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Pieci - 5 Krimināli ekselents radio",
+       "url": "https://live.pieci.lv/live27-hq.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "Pieci - 5 Latviesi",
+       "url": "https://live.pieci.lv/live7-hq.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Clubber FM",
+       "url": "http://103.18.108.75:9992/stream.mp3",
+       "tags": [
+        "electronic",
+        "trance_goa"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio DanceMusic",
+       "url": "http://stream.zenolive.com/43s27w8enpeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Larocca",
+       "url": "http://www.larocca.lv:8000/larocca",
+       "tags": [
+        "electronic",
+        "pop_hits",
+        "house"
+       ]
+      },
+      {
+       "name": "Radio Open Zone  RIXC",
+       "url": "https://ozone.re-lab.net/mp3/ozone/sessions/05oct07db.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio SWH - Spin FM",
+       "url": "http://80.232.162.149:8000/spin96mp3.m3u",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio SWH Gold",
+       "url": "https://live.radioswh.lv:8443/goldmp3",
+       "tags": [
+        "pop_hits",
+        "decade_80s",
+        "oldies",
+        "news_talk",
+        "electronic"
+       ]
+      },
+      {
+       "name": "Radio SWH Plus",
+       "url": "https://live.radioswh.lv:8443/plusmp3",
+       "tags": [
+        "pop_hits",
+        "electronic",
+        "rock"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio SWH Spin Listen live",
+       "url": "https://live.radioswh.lv:8443/spinmp3",
+       "tags": [
+        "news_talk",
+        "oldies",
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Tulsi",
+       "url": "http://radio.kuums.lv:6555/",
+       "tags": [
+        "electronic",
+        "chillout_lounge"
+       ]
+      },
+      {
+       "name": "Radiopower radio",
+       "url": "https://myradio24.org/listen128",
+       "tags": [
+        "pop_hits",
+        "electronic",
+        "classical",
+        "oldies",
+        "folk",
+        "hip_hop_rap",
+        "jazz",
+        "alternative_indie",
+        "blues",
+        "rock"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "TOPradio",
+       "url": "http://195.13.200.164:8000",
+       "tags": [
+        "pop_hits",
+        "electronic",
+        "house",
+        "news_talk",
+        "techno",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "TOPradio",
+       "url": "https://stream.pcradio.ru/topradio_lv-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Tīrkultūra",
+       "url": "https://streams.radio.co/s2777a4fdd/listen",
+       "language_inferred": true
+      },
+      {
+       "name": "Xradio",
+       "url": "http://185.8.60.5:8000/listen.pls?sid=1",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Xradio radio",
+       "url": "http://185.8.60.5:8000/mp3",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Your City Radio",
+       "url": "https://stream.pcradio.ru/rad_your-med",
+       "language_inferred": true
+      }
+     ]
+    },
+    "folk": {
+     "count": 9,
+     "stations": [
+      {
+       "name": "BBC Radio nan Gàidheal",
+       "url": "http://lstn.lv/bbc.m3u8?station=bbc_radio_nan_gaidheal&bitrate=320000?n=22c5ac09f53eb1c63251",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "European Hit Radio – Acoustic",
+       "url": "https://stream.ehrhiti.lv:8000/Stream_26.mp3",
+       "tags": [
+        "folk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "European Hit Radio – Latviesu hiti",
+       "url": "http://stream.ehrhiti.lv:8000/Stream_22.mp3",
+       "tags": [
+        "pop_hits",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Latgolys Radeja - Rezekne",
+       "url": "https://www.liveradio.es/http://195.13.253.51:8000/128_mp3",
+       "tags": [
+        "various_eclectic",
+        "news_talk",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Latvijas Radio - LR1",
+       "url": "https://60766ff53d5e6.streamlock.net/liveALR1/mp4:LR1/playlist.m3u8",
+       "tags": [
+        "folk",
+        "kids",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "LR Radio",
+       "url": "http://195.13.253.51:8000/128_mp3/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Pieci   Latviei",
+       "url": "https://live.pieci.lv/live7-hq.mp3",
+       "tags": [
+        "folk",
+        "pop_hits",
+        "world"
+       ]
+      },
+      {
+       "name": "Radio Latvijas 2",
+       "url": "http://lr2mp1.latvijasradio.lv:8002/stream.mp3",
+       "tags": [
+        "news_talk",
+        "folk"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Oira",
+       "url": "http://www.folkradio.lv/folk.asx"
+      }
+     ]
+    },
+    "gothic_industrial": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Suyapa FM 102.1 Listen live",
+       "url": "https://media.cdebs.com/8012/server",
+       "tags": [
+        "gothic_industrial",
+        "christian_gospel",
+        "decade_90s"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "hip_hop_rap": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "ehr Urban",
+       "url": "https://stream.ehrhiti.lv:8000/Stream_11.aac",
+       "tags": [
+        "hip_hop_rap",
+        "soul_rnb_funk",
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Gituamba FM Listen live",
+       "url": "https://c11.radioboss.fm:18169/server",
+       "tags": [
+        "christian_gospel",
+        "hip_hop_rap"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "HIP-HOP NO LV",
+       "url": "https://streamingv2.shoutcast.com/HIP-HOPnoLV"
+      }
+     ]
+    },
+    "house": {
+     "count": 8,
+     "stations": [
+      {
+       "name": "FUTURE BASS MIX",
+       "url": "http://ample-zeno-06.radiojar.com/am16uk1f4k5tv",
+       "tags": [
+        "house",
+        "electronic",
+        "drum_and_bass",
+        "hip_hop_rap"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "gradio.lv ONE mp3",
+       "url": "http://stream.gradio.lv:80/gradio.mp3",
+       "tags": [
+        "house",
+        "electronic",
+        "pop_hits"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Kurzemes",
+       "url": "http://www.kurzemesradio.lv/listen.m3u/stream/1",
+       "tags": [
+        "house",
+        "decade_80s",
+        "decade_90s"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Neon Club FM",
+       "url": "http://128.neonclub.lv:8005/",
+       "tags": [
+        "house",
+        "drum_and_bass",
+        "electronic",
+        "trance_goa"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "NU Radio Listen live",
+       "url": "https://13683.live.streamtheworld.com/SP_R3211886.aac?",
+       "tags": [
+        "pop_hits",
+        "house",
+        "electronic",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "One Fm",
+       "url": "http://radio.onefm.lv:23435/stream/1",
+       "tags": [
+        "pop_hits",
+        "house"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Clubberfm",
+       "url": "http://www.radio1.clubberfm.lv:8010/stream/1",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Topradio Mp3",
+       "url": "http://195.13.200.164:8000/stream/1",
+       "tags": [
+        "house",
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "jazz": {
+     "count": 7,
+     "stations": [
+      {
+       "name": "Latvijas Radio - LR3",
+       "url": "https://60766ff53d5e6.streamlock.net/liveALR3/mp4:klasika/playlist.m3u8",
+       "tags": [
+        "jazz",
+        "classical"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Latvijas Radio - LR6 Naba",
+       "url": "https://5a44e5b800a41.streamlock.net/shoutcast/mp4:naba.stream/playlist.m3u8",
+       "tags": [
+        "jazz",
+        "alternative_indie",
+        "rock",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Lounge FM 99.5",
+       "url": "https://radio.mixnews.lv/995",
+       "tags": [
+        "pop_hits",
+        "jazz",
+        "soul_rnb_funk",
+        "blues",
+        "rock",
+        "drum_and_bass",
+        "chillout_lounge"
+       ]
+      },
+      {
+       "name": "Pieci Jazz",
+       "url": "http://live.pieci.lv/live20-hq.mp3",
+       "tags": [
+        "news_talk",
+        "jazz"
+       ]
+      },
+      {
+       "name": "Radio 9",
+       "url": "http://91.90.255.85:8000/02",
+       "tags": [
+        "pop_hits",
+        "classical",
+        "jazz"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "XO FM",
+       "url": "https://live.xo.fm/xofm48",
+       "tags": [
+        "easy_listening",
+        "jazz"
+       ]
+      },
+      {
+       "name": "XO.FM",
+       "url": "https://live.xo.fm/xofm128",
+       "tags": [
+        "jazz",
+        "soul_rnb_funk",
+        "electronic",
+        "pop_hits",
+        "rock",
+        "blues",
+        "news_talk"
+       ]
+      }
+     ]
+    },
+    "kids": {
+     "count": 14,
+     "stations": [
+      {
+       "name": "AŠP RĀCIJA",
+       "url": "https://stream.zeno.fm/kkxubdeezxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "brumbrum",
+       "url": "https://stream.zeno.fm/kgy7g4b6aa9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Coin65",
+       "url": "https://stream.zeno.fm/2m6pdexq598uv",
+       "language_inferred": true
+      },
+      {
+       "name": "DayzerFM",
+       "url": "https://stream.zeno.fm/131342bu008uv",
+       "language_inferred": true
+      },
+      {
+       "name": "dirtysprite. s3 official radio",
+       "url": "https://stream.zeno.fm/kcmgzqu87zhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Dzingija FM",
+       "url": "https://stream.zeno.fm/xhuhfjgjenstv",
+       "language_inferred": true
+      },
+      {
+       "name": "fleemo",
+       "url": "https://stream.zeno.fm/vkss03rpuf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "jitzie",
+       "url": "https://stream.zeno.fm/n3uaadygt68uv",
+       "language_inferred": true
+      },
+      {
+       "name": "kreol fm maurice",
+       "url": "https://stream.zeno.fm/qgqdb029938uv",
+       "language_inferred": true
+      },
+      {
+       "name": "LDANCEEE",
+       "url": "https://stream.zeno.fm/dvybpgctp0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "MaladaiktsFM",
+       "url": "https://stream.zeno.fm/duhkdkfet18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Misenite",
+       "url": "https://stream.zeno.fm/zvz0vmpf798uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Need More Sound",
+       "url": "https://stream.zeno.fm/me8r2q1rh98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "VaginalFM",
+       "url": "https://stream.zeno.fm/jr3lcsutzgauv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "metal": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Fender I Radio",
+       "url": "http://radio.itap.lv:8056/stream/1",
+       "tags": [
+        "rock",
+        "metal"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Sliptrick",
+       "url": "https://listen.radionomy.com/radiosliptrick",
+       "tags": [
+        "metal",
+        "rock"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio SWH Rock",
+       "url": "http://live.radioswh.lv:8000/rockmp3",
+       "language_inferred": true
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 43,
+     "stations": [
+      {
+       "name": "1 Business Radio",
+       "url": "http://a.1br.lv:8000/1BusinessRadio",
+       "language_inferred": true
+      },
+      {
+       "name": "Alise Plus",
+       "url": "http://fm2inet.aliseplus.lv:8000",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "BBC Radio 4",
+       "url": "http://lstn.lv/bbc.m3u8?station=bbc_radio_fourfm&bitrate=320000?n=065d849db83e148a11d7",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "BBC Radio 4",
+       "url": "http://lstn.lv/bbc.m3u8?station=bbc_radio_fourfm&bitrate=320000?n=f367bb02a178739cc3de",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "BBC Radio 5 Live",
+       "url": "http://lstn.lv/bbc.m3u8?station=bbc_radio_five_live&bitrate=320000?n=b7a98d6c1a7b42e1cc4d",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "BBC Radio 5 Live",
+       "url": "http://lstn.lv/bbc.m3u8?station=bbc_radio_five_live&bitrate=320000?n=db5d35c6f9d4bb2d8027",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "BBC Radio 5 Sports Extra",
+       "url": "http://lstn.lv/bbc.m3u8?station=bbc_radio_five_live_sports_extra&bitrate=320000?n=48009803d9298ea39b6f",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "BBC Radio 5 Sports Extra",
+       "url": "http://lstn.lv/bbc.m3u8?station=bbc_radio_five_live_sports_extra&bitrate=320000?n=430427f5a2c21b383415",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "BBC Radio Newcastle",
+       "url": "http://lstn.lv/bbc.m3u8?station=bbc_radio_newcastle&bitrate=320000?n=9497382cc284fd239c4c",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "BBC Radio Oxford 320k",
+       "url": "http://lstn.lv/bbc.m3u8?station=bbc_radio_oxford&bitrate=320000?n=5891011aac152c2fe18b",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "BBC Radio Oxford 320k",
+       "url": "http://lstn.lv/bbc.m3u8?station=bbc_radio_oxford&bitrate=320000?n=7a3c06e86596ea8e92b3",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "BBC Radio Oxford 96k",
+       "url": "http://lstn.lv/bbc.m3u8?station=bbc_radio_oxford&bitrate=96000?n=7ed7a924d91c0aad323f",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "BBC Radio Oxford 96k",
+       "url": "http://lstn.lv/bbc.m3u8?station=bbc_radio_oxford&bitrate=96000?n=7b2fc0b50a5299776a95",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "FRED FILM RADIO, Riga",
+       "url": "https://s10.webradio-hosting.com/proxy/fredradiolv/stream/",
+       "language_inferred": true
+      },
+      {
+       "name": "Kurzemes Radio",
+       "url": "http://31.170.16.6:8000/",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "decade_70s",
+        "decade_80s",
+        "decade_90s",
+        "rock",
+        "oldies"
+       ]
+      },
+      {
+       "name": "Kurzemes Radio",
+       "url": "http://31.170.16.6:8000/?type=http&ampnocache=457",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Latgolys Radeja",
+       "url": "http://195.13.253.51:8000/128_mp3",
+       "tags": [
+        "news_talk",
+        "various_eclectic",
+        "rock",
+        "folk"
+       ]
+      },
+      {
+       "name": "Latgolys radeja",
+       "url": "http://www.radiolg.lv:8000/128_mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Latvijas Radio - LR2",
+       "url": "https://5a44e5b800a41.streamlock.net/shoutcast/mp4:lr2a.stream/playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Latvijas Radio - LR4",
+       "url": "https://5a44e5b800a41.streamlock.net/shoutcast/mp4:lr4a.stream/playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Latvijas Radio - LR5",
+       "url": "https://5a44e5b800a41.streamlock.net/pieci/mp4:k2/playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Latvijas Radio 1",
+       "url": "http://lr1mp1.latvijasradio.lv:8012/",
+       "tags": [
+        "news_talk",
+        "kids",
+        "folk",
+        "pop_hits",
+        "various_eclectic",
+        "alternative_indie"
+       ]
+      },
+      {
+       "name": "Latvijas Radio 1 - 90.7 FM",
+       "url": "http://lr1mp0.latvijasradio.lv:8010/",
+       "tags": [
+        "various_eclectic",
+        "news_talk",
+        "kids"
+       ]
+      },
+      {
+       "name": "Latvijas Radio 2",
+       "url": "http://lr2mp1.latvijasradio.lv:8002/",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "classical",
+        "college_community",
+        "country",
+        "various_eclectic",
+        "oldies"
+       ]
+      },
+      {
+       "name": "Latvijas Radio 4",
+       "url": "http://lr4mp0.latvijasradio.lv:8018/"
+      },
+      {
+       "name": "Pieci 5 Domnica",
+       "url": "http://live.pieci.lv:8000/live13-hq.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Baltkom",
+       "url": "https://radio.mixnews.lv/baltkom",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "jazz",
+        "folk",
+        "electronic",
+        "various_eclectic",
+        "latin"
+       ]
+      },
+      {
+       "name": "Radio Maria Latvia",
+       "url": "http://live.rml.lv:8000/listen.pls",
+       "tags": [
+        "college_community",
+        "christian_gospel",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Radio Marija - Latvija",
+       "url": "http://195.122.25.178:8000/1"
+      },
+      {
+       "name": "Radio Marija - Latvija radio",
+       "url": "http://195.122.25.178:8000/stream/3/",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Merkurs radio",
+       "url": "http://89.201.5.115:8000/stream.nsv",
+       "tags": [
+        "news_talk",
+        "oldies",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pik 100 FM",
+       "url": "http://91.90.255.85:8000/01",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Radio Skonto",
+       "url": "http://skonto.datucentrs.eu/mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "college_community"
+       ]
+      },
+      {
+       "name": "Radio Skonto radio",
+       "url": "http://stream.radioskonto.lv:8002/stereo",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio SWH",
+       "url": "http://80.232.162.149:8000/swh96mp3.m3u",
+       "tags": [
+        "news_talk",
+        "rock",
+        "classical"
+       ]
+      },
+      {
+       "name": "Radio SWH radio",
+       "url": "https://live.radioswh.lv:8443/swhmp3",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio TEV",
+       "url": "http://stream.radiotev.lv:8002/radiov",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "rock",
+        "easy_listening",
+        "folk"
+       ]
+      },
+      {
+       "name": "Radio1",
+       "url": "http://217.199.117.36:8000/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio7 Latvija",
+       "url": "http://stream.radio7.lv:8024/Radio7",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Star FM Latvia",
+       "url": "https://live.advailo.com/audio/live/playlist.m3u8",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Super FM",
+       "url": "http://stream.superfm.lv:8000/sfm.aac",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "True Life in God Radio Latvian",
+       "url": "https://stream.galaxywebsolutions.com/proxy/tligradio_lv?mp=/stream",
+       "tags": [
+        "news_talk",
+        "christian_gospel"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Yacht-Radio",
+       "url": "https://stream.pcradio.ru/yacht_radio-med",
+       "language_inferred": true
+      }
+     ]
+    },
+    "oldies": {
+     "count": 6,
+     "stations": [
+      {
+       "name": "Divu Krastu Radio RETRO",
+       "url": "http://62.205.205.100:8000/"
+      },
+      {
+       "name": "Pieci - Krimināli Ekselents Radio",
+       "url": "https://5a44e5b800a41.streamlock.net/pieci/mp4:k4/playlist.m3u8",
+       "tags": [
+        "oldies",
+        "pop_hits",
+        "decade_70s",
+        "decade_80s"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Merkurs",
+       "url": "http://www.radionord.lv/raadionord.m3u",
+       "tags": [
+        "oldies",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio One, Riga radio",
+       "url": "https://radioone.lv/01",
+       "tags": [
+        "pop_hits",
+        "oldies",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio SWH Gold",
+       "url": "http://80.232.162.149:8000/gold96mp3",
+       "tags": [
+        "oldies",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Rádio União 105.3 FM Listen live",
+       "url": "https://stream.ouveai.com.br/proxy/uniaonh?mp=/server",
+       "tags": [
+        "oldies",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 91,
+     "stations": [
+      {
+       "name": "BBC Radio 2",
+       "url": "http://lstn.lv/bbc.m3u8?station=bbc_radio_two&bitrate=320000?n=7b0815ecabe711d2b4fe",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "BBC Radio Cymru",
+       "url": "http://lstn.lv/bbc.m3u8?station=bbc_radio_cymru&bitrate=96000?n=e3ab2b3655e892555c32",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "BBC Radio Cymru 2",
+       "url": "http://lstn.lv/bbc.m3u8?station=bbc_radio_cymru_2&bitrate=96000?n=ff15e75ea33e43be7118",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "EHR / European Hit Radio",
+       "url": "https://stream2.superfm.lv:8000/ehr.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "EHR Darbam",
+       "url": "https://stream.ehrhiti.lv:8000/Stream_23.aac",
+       "tags": [
+        "pop_hits",
+        "techno",
+        "electronic"
+       ]
+      },
+      {
+       "name": "EHR Eurochart",
+       "url": "https://stream.ehrhiti.lv:8000/Stream_31.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "EHR Fresh",
+       "url": "https://stream.ehrhiti.lv:8000/Stream_25.aac",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "EHR Hiti Rossii",
+       "url": "https://stream.europeanhitradio.com:8000/khr.mp3",
+       "bitrate": 64,
+       "logo": "http://radio.pervii.com/im/3/1561758603.jpg",
+       "tags": [
+        "pop_hits",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "EHR Latviesu Hiti",
+       "url": "http://stream.europeanhitradio.com:8000/Stream_22.mp3"
+      },
+      {
+       "name": "ehr Remixes RU",
+       "url": "https://stream.ehrhiti.lv:8000/Stream_35.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "EHR Russkie Hiti",
+       "url": "https://www.liveradio.es/http://stream.hitirossii.com:8000/khr.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "EHR Rītam",
+       "url": "https://stream.ehrhiti.lv:8000/Stream_36.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "EHR Super Hits",
+       "url": "http://stream.europeanhitradio.com:8000/Stream_21.mp3"
+      },
+      {
+       "name": "EHR Superhits",
+       "url": "http://stream.hiti.lv:8000/Stream_01.aac"
+      },
+      {
+       "name": "EHR SuperHits",
+       "url": "https://stream.ehrhiti.lv:8000/Stream_21.aac"
+      },
+      {
+       "name": "ehr Tik Tok Hits",
+       "url": "http://stream.ehrhiti.lv:8000/Stream_38.aac",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "EHR Top 40",
+       "url": "http://stream.europeanhitradio.com:8000/Stream_27.mp3"
+      },
+      {
+       "name": "EHR Top 40",
+       "url": "https://stream.ehrhiti.lv:8000/Stream_27.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "EHR Top 40 RU",
+       "url": "https://stream.ehrhiti.lv:8000/Stream_33.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "EHR Русские Хиты",
+       "url": "https://stream.ehrhiti.lv:8000/khr.aac",
+       "tags": [
+        "pop_hits",
+        "rock"
+       ]
+      },
+      {
+       "name": "Eiropas Hītu Radio",
+       "url": "https://stream.europeanhitradio.com:8000/ehr.mp3",
+       "tags": [
+        "pop_hits",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Europa Plus 99.5",
+       "url": "http://node-29.zeno.fm/5pf8rxwkghruv?rj-ttl=4&amprj-tok=AAABeGOTulIAgRSn8YHcuhnzUA/",
+       "language_inferred": true
+      },
+      {
+       "name": "European Hit Radio",
+       "url": "https://stream.ehrhiti.lv:8000/ehr.aac",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "news_talk",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "European Hit Radio",
+       "url": "http://stream.hiti.lv:8000/ehr.aac"
+      },
+      {
+       "name": "European Hit Radio",
+       "url": "http://stream.europeanhitradio.com:8000/ehr.aac"
+      },
+      {
+       "name": "European Hit Radio - Darbam",
+       "url": "http://stream.europeanhitradio.com:8000/Stream_23.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "European Hit Radio - Fresh",
+       "url": "http://stream.europeanhitradio.com:8000/Stream_25.aac"
+      },
+      {
+       "name": "European Hit Radio - Latviešu hiti",
+       "url": "https://stream.ehrhiti.lv:8000/Stream_22.aac",
+       "tags": [
+        "pop_hits",
+        "folk",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "European Hit Radio - Latviešu Hiti",
+       "url": "http://stream.europeanhitradio.com:8000/Stream_22.aac"
+      },
+      {
+       "name": "European Hit Radio - Party Service",
+       "url": "https://stream.ehrhiti.lv:8000/Stream_12.aac",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "European Hit Radio - Super klubu klasika",
+       "url": "https://stream.ehrhiti.lv:8000/Stream_67.aac",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "European Hit Radio - Top 40",
+       "url": "http://stream.europeanhitradio.com:8000/Stream_27.aac"
+      },
+      {
+       "name": "European Hit Radio 88.4-107.4 FM",
+       "url": "https://stream2.superfm.lv:8000/ehr.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "European Hit Radio – Darbam",
+       "url": "https://stream.ehrhiti.lv:8000/Stream_23.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "European Hit Radio – Eurochart",
+       "url": "https://stream.ehrhiti.lv:8000/Stream_31.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "European Hit Radio – Fresh",
+       "url": "https://stream.ehrhiti.lv:8000/Stream_25.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "European Hit Radio – Summer Hits",
+       "url": "https://stream.ehrhiti.lv:8000/Stream_21.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "European Hit Radio – Top 40",
+       "url": "https://stream.ehrhiti.lv:8000/Stream_27.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "European Hit Radio – Top 40 RU",
+       "url": "https://stream.ehrhiti.lv:8000/Stream_33.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Hity Rossii 96,2 FM Radio",
+       "url": "https://stream.pcradio.ru/hity_rossii-med",
+       "language_inferred": true
+      },
+      {
+       "name": "InsideFM (MIX)",
+       "url": "https://stream.insidefm.eu/listen/insidefm/nonstop2",
+       "tags": [
+        "pop_hits",
+        "house",
+        "various_eclectic",
+        "jpop_kpop_asia",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Kurzemes Radio",
+       "url": "http://80.70.18.18:8000",
+       "tags": [
+        "pop_hits",
+        "country"
+       ]
+      },
+      {
+       "name": "Kurzemes Radio - Kuldīga",
+       "url": "https://www.liveradio.es/http://31.170.16.6:8000/",
+       "language_inferred": true
+      },
+      {
+       "name": "LATVIAN DANCE- DJ EDIJS",
+       "url": "https://stream.zeno.fm/hk7sx3rdpueuv"
+      },
+      {
+       "name": "Latvijas Radio 2",
+       "url": "http://lr2mp0.latvijasradio.lv:8000"
+      },
+      {
+       "name": "Latvijas Radio 5",
+       "url": "https://live.pieci.lv/live19-hq.aac",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "news_talk",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "LudzaFM radio",
+       "url": "https://myradio24.org/ludza",
+       "language_inferred": true
+      },
+      {
+       "name": "Mix FM 102,7 (Riga) Radio",
+       "url": "https://stream.pcradio.ru/mixfm_riga-med",
+       "language_inferred": true
+      },
+      {
+       "name": "MixFm 102.7",
+       "url": "https://radio.mixnews.lv/MixFM",
+       "tags": [
+        "pop_hits",
+        "easy_listening",
+        "news_talk",
+        "house",
+        "latin",
+        "various_eclectic",
+        "rock"
+       ]
+      },
+      {
+       "name": "MSD DANCE Radio",
+       "url": "https://str5.pcradio.ru/rad_msdgmslv-hi",
+       "tags": [
+        "pop_hits",
+        "various_eclectic",
+        "world",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Nordic Beat Radio",
+       "url": "http://5.39.71.159:8915/stream?type=http&ampnocache=856",
+       "language_inferred": true
+      },
+      {
+       "name": "NZRadioIntrigue radio",
+       "url": "https://myradio24.org/nzr13015",
+       "language_inferred": true
+      },
+      {
+       "name": "Our Music History (OMH) Radio",
+       "url": "https://stream.pcradio.ru/omh_riga-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Pieci - 5 atklajumi",
+       "url": "https://live.pieci.lv/live5-hq.aac",
+       "tags": [
+        "pop_hits",
+        "hip_hop_rap"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Pieci - 5 Hiti",
+       "url": "https://live.pieci.lv/live17-hq.aac",
+       "tags": [
+        "pop_hits",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Pieci - 5 Maestro Radio",
+       "url": "https://live.pieci.lv/live29-hq.aac",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "alternative_indie"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Pieci - 5 Riti",
+       "url": "https://live.pieci.lv/live11-hq.aac",
+       "tags": [
+        "pop_hits",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Pieci - Atklājumi",
+       "url": "https://live.pieci.lv/live5-hq.mp3",
+       "tags": [
+        "pop_hits",
+        "various_eclectic",
+        "world"
+       ]
+      },
+      {
+       "name": "Pieci - Hiti",
+       "url": "https://live.pieci.lv/live17-hq.mp3",
+       "tags": [
+        "pop_hits",
+        "world"
+       ]
+      },
+      {
+       "name": "PIECI FM",
+       "url": "https://live.pieci.lv/live19-hq.mp3",
+       "tags": [
+        "pop_hits",
+        "electronic",
+        "hip_hop_rap"
+       ]
+      },
+      {
+       "name": "Pik 100 Radio",
+       "url": "https://stream.pcradio.ru/pik100-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Power FM",
+       "url": "http://radio.powerfm.lv:8000/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "POWER FM",
+       "url": "http://radio.powerfm.lv:8070/stream",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 100 Vestfyn 107.7 FM",
+       "url": "http://audio.radio101.lv/aac-hq.m3u",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 9",
+       "url": "https://online.radio9.lv/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio A16 Latvia",
+       "url": "http://radioa16lv.ddns.net:8000/listen.mp3?18464276",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Baltkom",
+       "url": "http://radio.radiobaltkom.lv/baltkom.m3u",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Energy - Hit Music Radio",
+       "url": "http://radioenergy.lv:8000/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio ENERGY.LV",
+       "url": "http://www.radioenergy.lv:8000/listen.pls"
+      },
+      {
+       "name": "Radio European Hit",
+       "url": "http://stream.europeanhitradio.com:8000/ehr64",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio PIK 100 FM",
+       "url": "https://www.liveradio.es/http://91.90.255.85:8000/01",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Rezekne",
+       "url": "http://195.13.164.134:8000/source.mp3"
+      },
+      {
+       "name": "Radio Skonto",
+       "url": "https://stream.radioskonto.lv:8443/mp3",
+       "tags": [
+        "pop_hits",
+        "easy_listening",
+        "oldies",
+        "decade_80s",
+        "decade_90s"
+       ]
+      },
+      {
+       "name": "Radio Skonto - Latvija",
+       "url": "https://stream.radioskonto.lv:8443/stereo"
+      },
+      {
+       "name": "Radio Skonto 107.2 FM",
+       "url": "http://stream.radioskonto.lv/mp3"
+      },
+      {
+       "name": "Radio Star FM",
+       "url": "https://live.advailo.com/audio/mp3/icecast.audio",
+       "tags": [
+        "pop_hits",
+        "rock"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio SWH",
+       "url": "http://80.232.162.149:8000/swh96mp3",
+       "bitrate": 192,
+       "logo": "http://radio.pervii.com/im/9/1587447479.jpg",
+       "tags": [
+        "pop_hits",
+        "easy_listening",
+        "various_eclectic",
+        "rock"
+       ]
+      },
+      {
+       "name": "RU FM",
+       "url": "https://live.retrofm.lv/russkoeretro128",
+       "tags": [
+        "pop_hits",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Skonto Plus",
+       "url": "https://stream.radioskontoplus.lv:8443/st128",
+       "tags": [
+        "pop_hits",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Skonto Radio",
+       "url": "https://stream.pcradio.ru/skonto_riga-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Spin FM",
+       "url": "http://80.232.162.149:8000/spin96mp3",
+       "tags": [
+        "pop_hits",
+        "electronic"
+       ]
+      },
+      {
+       "name": "Spin FM Radio",
+       "url": "https://stream.pcradio.ru/swh_spin-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Star Fm",
+       "url": "https://starfm.live.advailo.com/audio/mp3/icecast.audio",
+       "bitrate": 128,
+       "logo": "http://radio.pervii.com/im/1/1561464591.jpg"
+      },
+      {
+       "name": "Super FM",
+       "url": "https://listen.openstream.co/3943/audio"
+      },
+      {
+       "name": "Super FM - 96.8 FM",
+       "url": "http://stream.europeanhitradio.com:8000/Stream_01.mp3",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Super FM 96.8",
+       "url": "http://stream.superfm.lv:8000/lhr.mp3",
+       "tags": [
+        "pop_hits",
+        "oldies",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "SWH Radio",
+       "url": "https://stream.pcradio.ru/swh_main-med",
+       "language_inferred": true
+      },
+      {
+       "name": "TOPradio radio",
+       "url": "https://topradio.live.advailo.com/topradio/mp3/icecast.audio",
+       "tags": [
+        "pop_hits",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "xRadio",
+       "url": "https://stream.pcradio.ru/xradio_lv-med",
+       "language_inferred": true
+      },
+      {
+       "name": "ZhukovLine01",
+       "url": "http://89.201.7.125:8000/01"
+      },
+      {
+       "name": "ZhukovLine02",
+       "url": "http://89.201.7.125:8000/02"
+      }
+     ]
+    },
+    "rock": {
+     "count": 25,
+     "stations": [
+      {
+       "name": "European Hit Radio - Rock",
+       "url": "http://stream.europeanhitradio.com:8000/Stream_37.aac"
+      },
+      {
+       "name": "Latvijas Radio",
+       "url": "http://lr1mp1.latvijasradio.lv:8012/stream.mp3",
+       "tags": [
+        "various_eclectic",
+        "rock",
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Latvijas Radio 6",
+       "url": "http://nabamp0.latvijasradio.lv:8008",
+       "tags": [
+        "rock",
+        "easy_listening",
+        "folk",
+        "classical",
+        "electronic",
+        "jazz",
+        "news_talk",
+        "college_community",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "LRMA Rock Radio",
+       "url": "https://c22.radioboss.fm:18318/stream",
+       "tags": [
+        "rock",
+        "metal",
+        "punk",
+        "alternative_indie",
+        "news_talk",
+        "country",
+        "classical",
+        "soul_rnb_funk",
+        "gothic_industrial",
+        "house",
+        "drum_and_bass",
+        "blues",
+        "kids",
+        "reggae_ska",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "lustigsradio",
+       "url": "https://stream.lustigsradio.lv/live",
+       "tags": [
+        "rock",
+        "country"
+       ]
+      },
+      {
+       "name": "Neverland Radio",
+       "url": "http://streaming.radionomy.com/Neverlandradio",
+       "tags": [
+        "rock",
+        "classical"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Neverland Radio",
+       "url": "http://radio-neverland.stream.laut.fm/radio-neverland",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "decade_80s",
+        "decade_90s",
+        "decade_2000s"
+       ]
+      },
+      {
+       "name": "OMH - Our Music History Since 1980 radio",
+       "url": "https://stream.rcast.net/63684",
+       "tags": [
+        "decade_2000s",
+        "rock",
+        "pop_hits",
+        "decade_80s",
+        "decade_90s"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 7",
+       "url": "https://listen.radio7.lv:2053/Radio7",
+       "tags": [
+        "rock",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio OMH",
+       "url": "https://crs.webdesign-flash.ro/?q=http://omh.sytes.net:8000/&plugin_id=7628&site_id=8520577",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "oldies",
+        "soul_rnb_funk",
+        "world",
+        "decade_80s"
+       ]
+      },
+      {
+       "name": "Radio SWH Gold",
+       "url": "http://80.232.162.149:8000/gold96mp3.m3u",
+       "tags": [
+        "pop_hits",
+        "rock"
+       ]
+      },
+      {
+       "name": "Radio SWH Kurzeme",
+       "url": "http://87.110.219.34:8000/swhmp3",
+       "tags": [
+        "rock",
+        "news_talk",
+        "pop_hits",
+        "classical",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Radio SWH LV",
+       "url": "https://live.radioswh.lv:8443/swh_lv",
+       "tags": [
+        "rock",
+        "classical"
+       ]
+      },
+      {
+       "name": "Radio SWH Plus",
+       "url": "http://87.110.219.34:8000/plusmp3",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio SWH Rock",
+       "url": "http://87.110.219.34:8000/rockmp3",
+       "tags": [
+        "rock",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio SWH Rock",
+       "url": "http://80.232.162.149:8000/rock96mp3.m3u",
+       "tags": [
+        "rock",
+        "classical"
+       ]
+      },
+      {
+       "name": "Radio SWH Rock - 89.2 FM",
+       "url": "http://80.232.162.149:8000/rock96mp3",
+       "bitrate": 192,
+       "logo": "http://radio.pervii.com/logo/83597.jpg",
+       "tags": [
+        "rock",
+        "alternative_indie",
+        "classical",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio SWH Rock - Latvija",
+       "url": "https://live.radioswh.lv:8443/rockmp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Real Station Radio",
+       "url": "http://realstation.org:8002/stream.mp3",
+       "tags": [
+        "rock",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Rietumu Radio",
+       "url": "https://stream.radiojar.com/zv4vahasgnzuv",
+       "tags": [
+        "pop_hits",
+        "rock"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Riga Rock Radio",
+       "url": "http://playlist.rigarockradio.lv:8000/live",
+       "language_inferred": true
+      },
+      {
+       "name": "Rock",
+       "url": "http://yacht-radio.lv:8180/stream",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "SWH Rock Radio",
+       "url": "https://stream.pcradio.ru/swh_rock-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Морской Прибой radio",
+       "url": "https://stream.zeno.fm/u8sak2yf2k0uv",
+       "tags": [
+        "rock",
+        "folk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "РОКС",
+       "url": "https://live.relaxfm.lv/06"
+      }
+     ]
+    },
+    "schlager_polka": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Schlager Time Radio",
+       "url": "https://crs.webdesign-flash.ro/?q=http://schlagers.org:8760/&plugin_id=7628&site_id=8520577",
+       "tags": [
+        "pop_hits",
+        "schlager_polka",
+        "various_eclectic"
+       ]
+      }
+     ]
+    },
+    "soul_rnb_funk": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "EHR Acoustic",
+       "url": "http://stream.europeanhitradio.com:8000/Stream_26.mp3",
+       "tags": [
+        "soul_rnb_funk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "EHR RNB",
+       "url": "http://stream.europeanhitradio.com:8000/Stream_26.aac"
+      },
+      {
+       "name": "European Hit Radio - RNB",
+       "url": "http://stream.europeanhitradio.com:8000/Stream_11.aac",
+       "tags": [
+        "pop_hits",
+        "soul_rnb_funk"
+       ]
+      },
+      {
+       "name": "Relax FM",
+       "url": "https://live.relaxfm.lv/01",
+       "tags": [
+        "soul_rnb_funk",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "sports": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "EmkaFM",
+       "url": "https://stream.zeno.fm/5zx2y7zbfq8uv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "techno": {
+     "count": 7,
+     "stations": [
+      {
+       "name": "gradio.lv MIX aac",
+       "url": "http://stream.gradio.lv:80/gradio-mix.mp4a",
+       "tags": [
+        "house",
+        "techno"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "gradio.lv MIX mp3",
+       "url": "http://stream.gradio.lv:80/gradio-mix.mp3",
+       "tags": [
+        "house",
+        "techno"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "gradio.lv ONE aac",
+       "url": "http://stream.gradio.lv:80/gradio-one.mp4a",
+       "tags": [
+        "techno",
+        "disco_eurodance",
+        "house",
+        "electronic",
+        "pop_hits"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "gradio.lv ONE mp3",
+       "url": "http://stream.gradio.lv:80/gradio-one.mp3",
+       "tags": [
+        "techno",
+        "disco_eurodance"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Hits Collection",
+       "url": "http://hitscollection.no-ip.org:8000",
+       "tags": [
+        "pop_hits",
+        "techno",
+        "electronic"
+       ]
+      },
+      {
+       "name": "Hits Collection No Vecajiem Labajiem Lidz Sodienai",
+       "url": "http://hitscollection.no-ip.org:8000/stream/1",
+       "tags": [
+        "electronic",
+        "disco_eurodance",
+        "techno",
+        "house"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Mezciema Radio",
+       "url": "http://hitscollection.no-ip.org:8000/stream.mp3",
+       "tags": [
+        "pop_hits",
+        "techno",
+        "electronic"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "trance_goa": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Talsi Electronic",
+       "url": "http://radio.kuums.lv:6555/stream/1",
+       "tags": [
+        "electronic",
+        "trance_goa"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      }
+     ]
+    },
+    "various_eclectic": {
+     "count": 10,
+     "stations": [
+      {
+       "name": "80-00",
+       "url": "http://radio.powerfm.lv:8030/stream",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Blues&amp;Jazz",
+       "url": "http://yacht-radio.lv:8170/stream",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "EHR Darham",
+       "url": "http://stream.europeanhitradio.com:8000/Stream_23.mp3"
+      },
+      {
+       "name": "EHR Fresh",
+       "url": "http://stream.europeanhitradio.com:8000/Stream_25.mp3"
+      },
+      {
+       "name": "Latgolys Radeja",
+       "url": "http://www.radiolg.lv:8000/128_aac"
+      },
+      {
+       "name": "Radio Baltkom",
+       "url": "https://radio.mixnews.lv:/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Merkurs",
+       "url": "http://89.201.21.93:8000"
+      },
+      {
+       "name": "Radio Xyu",
+       "url": "http://radio.powerfm.lv:8020/stream",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Rietumu Radio 105.8 FM",
+       "url": "http://ample-09.radiojar.com:80/zv4vahasgnzuv"
+      },
+      {
+       "name": "Подкастум",
+       "url": "http://yacht-radio.lv:8240/stream",
+       "country_inferred": true,
+       "language_inferred": true
+      }
+     ]
+    },
+    "world": {
+     "count": 8,
+     "stations": [
+      {
+       "name": "Latvijas Kristigais Radio",
+       "url": "http://shoutcast.lkr.lv:7007/",
+       "tags": [
+        "news_talk",
+        "world"
+       ]
+      },
+      {
+       "name": "Latvijas Radio 1",
+       "url": "http://lr1mp1.latvijasradio.lv:8010/",
+       "tags": [
+        "world",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "LR5 - Pilnigs Simts",
+       "url": "http://live.pieci.lv/live26-hq.mp3"
+      },
+      {
+       "name": "Merkurs Radio",
+       "url": "http://87.226.55.105:8000/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Pieci - Rīti",
+       "url": "https://live.pieci.lv/live11-hq.mp3",
+       "tags": [
+        "pop_hits",
+        "various_eclectic",
+        "world"
+       ]
+      },
+      {
+       "name": "Pieci Latgalieši",
+       "url": "http://live.pieci.lv/live22-hq.mp3",
+       "tags": [
+        "world",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Merkurs",
+       "url": "http://89.201.5.115:8000/",
+       "tags": [
+        "world",
+        "various_eclectic",
+        "oldies"
+       ]
+      },
+      {
+       "name": "Radyo Angara Listen live",
+       "url": "https://wowza1.radyotvonline.com/kecioren/keciorenradyo.stream/playlist.m3u8",
+       "tags": [
+        "world",
+        "electronic"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 552,
+     "stations": [
+      {
+       "name": "039Toom70",
+       "url": "https://stream.zeno.fm/yyf1fsyaa48uv",
+       "language_inferred": true
+      },
+      {
+       "name": "1 Business Radio",
+       "url": "http://a.1br.lv:8000/stream/1",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "2000 hitsline",
+       "url": "https://stream.zeno.fm/0u5fbxmchfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "66.6FM",
+       "url": "https://stream.zeno.fm/f68t99qdx98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "80-90s Cool",
+       "url": "https://stream.zeno.fm/hpas89qlwn3vv",
+       "language_inferred": true
+      },
+      {
+       "name": "80sI90sI00s",
+       "url": "https://stream.zeno.fm/6jqd1chvms8tv",
+       "language_inferred": true
+      },
+      {
+       "name": "A3BIKINI",
+       "url": "https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8"
+      },
+      {
+       "name": "Abitapics FM",
+       "url": "https://stream.zeno.fm/3qy0qbzcyf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Acid Rap FM",
+       "url": "https://stream.zeno.fm/yjpxxgpait6uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Adrulis Fm",
+       "url": "https://stream.zeno.fm/r3so1zy4bwyuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Adventur",
+       "url": "https://stream.zeno.fm/4yqfu91ndv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Agris fm",
+       "url": "https://stream.zeno.fm/xzg4tqsgc78uv",
+       "language_inferred": true
+      },
+      {
+       "name": "AinarsFM",
+       "url": "https://stream.zeno.fm/1vkm3c08n48uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Aizsalaca Old Hits",
+       "url": "https://stream.zeno.fm/5c2ze5bnx38uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Aizsalacas Radio",
+       "url": "https://stream.zeno.fm/p5xz7wgeyy8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "alaska",
+       "url": "https://stream.zeno.fm/m972nhw3668uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Aleksismz",
+       "url": "https://stream.zeno.fm/izikjvtcrdbvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Alise Plus",
+       "url": "http://fm2inet.aliseplus.lv:8000/listen.pls"
+      },
+      {
+       "name": "Ambiance Groove",
+       "url": "https://listen.radionomy.com/ambiance-groove"
+      },
+      {
+       "name": "amogus",
+       "url": "https://stream.zeno.fm/zbphf5v2cf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Anonymouse LV",
+       "url": "https://stream.zeno.fm/zb34y03c898uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Apasna FM",
+       "url": "https://stream.zeno.fm/zr98dqdr1v8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Arbūzs Fm",
+       "url": "https://stream.zeno.fm/uwp5g25thxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "ArbūzsFM",
+       "url": "https://stream.zeno.fm/5d3dccqnkxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Archa FM",
+       "url": "https://stream.zeno.fm/hqmgmqehqi6tv",
+       "language_inferred": true
+      },
+      {
+       "name": "Archafm",
+       "url": "https://stream.zeno.fm/dburkmxzrf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "ArchazFM",
+       "url": "https://stream.zeno.fm/wu7mpmsxrf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Archi068",
+       "url": "https://stream.zeno.fm/gudr4rzm698uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Armands FM",
+       "url": "https://stream.zeno.fm/yb7bawg74bhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Armandsfm",
+       "url": "https://stream.zeno.fm/yk8cn6h74bhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "ArmandsFM",
+       "url": "https://stream.zeno.fm/tdq81fh74bhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Arturika",
+       "url": "https://stream.zeno.fm/wpkwm9b6zf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "AspectMP3",
+       "url": "https://stream.zeno.fm/7s5t94qsqv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "AUDIFan",
+       "url": "http://radio.audifan.club:9000/listen128",
+       "language_inferred": true
+      },
+      {
+       "name": "AUTOMOTIVE FM",
+       "url": "https://stream.zeno.fm/spms116pmchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Avto radio",
+       "url": "https://stream.zeno.fm/euqnt2fpkkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Backspace FM",
+       "url": "https://stream.zeno.fm/22m4v80bwnhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Bahama Mamas",
+       "url": "https://stream.zeno.fm/gmknh4ap1p8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Balerija Radio",
+       "url": "http://listen.openstream.co/3945/audio",
+       "language_inferred": true
+      },
+      {
+       "name": "baltaisneggeris",
+       "url": "https://stream.zeno.fm/7yumsnm7cxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "BatyaFM",
+       "url": "https://stream.zeno.fm/r8v409g7b48uv",
+       "language_inferred": true
+      },
+      {
+       "name": "BAZOOKA FM",
+       "url": "https://stream.zeno.fm/drw6snm0uk8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "BBC Radio 6 Music",
+       "url": "http://lstn.lv/bbc.m3u8?station=bbc_6music&bitrate=320000?n=ee133ea98280bc4c824f",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "BBC Radio Bristol",
+       "url": "http://lstn.lv/bbc.m3u8?station=bbc_radio_bristol&bitrate=320000?n=e7231ca98aa63e4b4556",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "BBC Radio Devon",
+       "url": "http://lstn.lv/bbc.m3u8?station=bbc_radio_devon&bitrate=320000?n=f4106b4a76729228806f",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "BBC Radio Solent",
+       "url": "http://lstn.lv/bbc.m3u8?station=bbc_radio_solent&bitrate=128000?n=948d5651334ae8852d61",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "BBC Wiltshire",
+       "url": "http://lstn.lv/bbc.m3u8?station=bbc_radio_wiltshire&bitrate=320000?n=da09c32b0c6db7d391b1",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "beibsoonss",
+       "url": "https://stream.zeno.fm/bpg1r2h35bhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "BelarusFM",
+       "url": "https://stream.zeno.fm/4dd58udqr68uv",
+       "language_inferred": true
+      },
+      {
+       "name": "BelarusSlagerFM",
+       "url": "https://stream.zeno.fm/agp7u2h6v68uv",
+       "language_inferred": true
+      },
+      {
+       "name": "BerkaFM",
+       "url": "https://stream.zeno.fm/7qmspbdbrrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Berkazz",
+       "url": "https://stream.zeno.fm/fn74r6sp7rhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Bezikaana FM",
+       "url": "https://stream.zeno.fm/dz4pwh3gnh6vv",
+       "language_inferred": true
+      },
+      {
+       "name": "BIEZA FM",
+       "url": "https://stream.zeno.fm/7c95kd73rs8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Biggest FM",
+       "url": "https://stream.zeno.fm/jd7hhskso4avv",
+       "language_inferred": true
+      },
+      {
+       "name": "Blasting",
+       "url": "https://stream.zeno.fm/pjnttwpeqwmvv",
+       "language_inferred": true
+      },
+      {
+       "name": "BLaZeeeFM",
+       "url": "https://stream.zeno.fm/q77u6t0gt68uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Bogdanovich",
+       "url": "https://stream.zeno.fm/mt6zaqr1exhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Boshka",
+       "url": "https://stream.zeno.fm/pxpd4mggbkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Boss FM",
+       "url": "https://stream.zeno.fm/7hy7ts03098uv",
+       "language_inferred": true
+      },
+      {
+       "name": "bratvafm",
+       "url": "https://stream.zeno.fm/s73sfp48dchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "brodjaga",
+       "url": "https://stream.zeno.fm/ws8phh8qcv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Bunnies",
+       "url": "https://stream.zeno.fm/q87yn21rkkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "caazor radio",
+       "url": "https://stream.zeno.fm/19e4fdep9whvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Capital FM Latvia",
+       "url": "http://radio2.capitalfm.lv:8000/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Cashio",
+       "url": "https://stream.zeno.fm/ksp8adn77nhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Castellani",
+       "url": "https://stream.zeno.fm/mkvceh856p8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "CastellaniFM",
+       "url": "https://stream.zeno.fm/a86wqa3vddrvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Cave Lounge",
+       "url": "https://stream.zeno.fm/geuwghjjyjjtv",
+       "language_inferred": true
+      },
+      {
+       "name": "celtniek",
+       "url": "https://stream.zeno.fm/wnrziias7ertv",
+       "language_inferred": true
+      },
+      {
+       "name": "Cheazey FM",
+       "url": "https://stream.zeno.fm/fio34e2wow3uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Cheazey ye ye Boys fm",
+       "url": "https://stream.zeno.fm/u0g0aed8cxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "CHILL MIX",
+       "url": "https://stream.zeno.fm/dfamfvqtn18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Classical FM",
+       "url": "https://stream.zeno.fm/y5wsh5y88ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "ClassicalFM",
+       "url": "https://stream.zeno.fm/g7g6b3s0mg8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Coin65",
+       "url": "https://stream.zeno.fm/0ner7hxq598uv",
+       "language_inferred": true
+      },
+      {
+       "name": "CoinMan65",
+       "url": "https://stream.zeno.fm/wys6455q598uv",
+       "language_inferred": true
+      },
+      {
+       "name": "ConquestorFM",
+       "url": "https://stream.zeno.fm/70p1wm5rg48uv",
+       "language_inferred": true
+      },
+      {
+       "name": "CountFM",
+       "url": "https://stream.zeno.fm/9ef6br08t18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "CrixerFM",
+       "url": "https://stream.zeno.fm/um0rqf59ed0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "CrixerStream",
+       "url": "https://stream.zeno.fm/hfz1ugbafd0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Crush FM",
+       "url": "https://stream.zeno.fm/pg393t5vhrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Crush fm",
+       "url": "https://stream.zeno.fm/s8va6vgpkkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Cryptix",
+       "url": "https://stream.zeno.fm/ztp7ygw54bhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "D3AD M4N",
+       "url": "https://stream.zeno.fm/y1py56ewxc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "daddymm",
+       "url": "https://stream.zeno.fm/10558h3hffhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Dance Pop Music",
+       "url": "http://stream.zenolive.com/gndv95c6rfeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "DANDIJS FM",
+       "url": "https://stream.zeno.fm/3k29f1e3es8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "dandijsfm",
+       "url": "https://stream.zeno.fm/e8za2stpychvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Dangus Radio",
+       "url": "https://stream.zeno.fm/wv6whxk6mfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "danisLV FM",
+       "url": "https://stream.zeno.fm/71tufsmvz68uv",
+       "language_inferred": true
+      },
+      {
+       "name": "danisLVRadio",
+       "url": "https://stream.zeno.fm/4f848bgcny8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "danisLVRADIO",
+       "url": "https://stream.zeno.fm/vrxff2mshy8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "darix2121",
+       "url": "https://stream.zeno.fm/a3jqvkurfdctv",
+       "language_inferred": true
+      },
+      {
+       "name": "DarkAngel FM",
+       "url": "https://stream.zeno.fm/er108dsqv98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Dayzer FM",
+       "url": "https://stream.zeno.fm/29b5rscdzy8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Dayzer FM",
+       "url": "https://stream.zeno.fm/m5rnmwk3zehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "DayzerFM",
+       "url": "https://stream.zeno.fm/rgf1ycusc0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "DayzerFM",
+       "url": "https://stream.zeno.fm/w9gt9addzy8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "ddddssss",
+       "url": "https://stream.zeno.fm/bdyhw75nmkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Del Rey",
+       "url": "https://stream.zeno.fm/whhfkiyp9iwvv",
+       "language_inferred": true
+      },
+      {
+       "name": "DenissTOP_HITS",
+       "url": "https://stream.zeno.fm/zg3c68smdc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "dfHLJASdvhjladhflalhfhdafjhajhfahdjfhlafafaseqweqwdsax",
+       "url": "https://stream.zeno.fm/0b79cq871rhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "dirspārdis radio",
+       "url": "https://stream.zeno.fm/pwgu3utl2kstv",
+       "language_inferred": true
+      },
+      {
+       "name": "Divu Krastu Radio",
+       "url": "http://62.205.205.100:8000/stream.mp3"
+      },
+      {
+       "name": "Divu Krastu Radio",
+       "url": "http://87.110.237.254:8000/"
+      },
+      {
+       "name": "Double Clef FM",
+       "url": "https://stream.zeno.fm/1d1zm5msv38uv",
+       "language_inferred": true
+      },
+      {
+       "name": "DoubleT FM",
+       "url": "https://stream.zeno.fm/k5p77u09bkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Draugs",
+       "url": "https://stream.zeno.fm/q2u1kh3ys98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Draugs FM",
+       "url": "https://stream.zeno.fm/tm7siwr5yqrtv",
+       "language_inferred": true
+      },
+      {
+       "name": "DriftFM",
+       "url": "https://stream.zeno.fm/x5fqbyyppc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "DropetājuFM",
+       "url": "https://stream.zeno.fm/7pzvhmde1d0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Drum n Bass",
+       "url": "https://stream.zeno.fm/7dvhxmw7kfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "DruvasFM",
+       "url": "https://stream.zeno.fm/s3fg626e9s8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "DYNO FM",
+       "url": "https://stream.zeno.fm/a5zyvfky4s8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Dzonis FM",
+       "url": "https://stream.zeno.fm/v3fr5tf8dchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "E Gold",
+       "url": "https://stream.zeno.fm/yq3yev367p8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Eagle FM",
+       "url": "https://stream.zeno.fm/xqmy0attcg8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "East Compton",
+       "url": "https://stream.zeno.fm/yresyaw0vhhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "EAST SIDE MADA FACKA",
+       "url": "https://stream.zeno.fm/dw4dyz47cxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "EASTSIDE BALLA GANG",
+       "url": "https://stream.zeno.fm/k58qvr2qsnhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "EFFKA11",
+       "url": "https://stream.zeno.fm/ayoyxbcqpzzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Efrehs FM",
+       "url": "https://stream.zeno.fm/7m9crvxn0c9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Efrehs FM",
+       "url": "https://stream.zeno.fm/qgfgzpxn0c9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "EHR  Party Service",
+       "url": "https://stream.zeno.fm/er4m59bm4ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "EHR Acoustic",
+       "url": "https://stream.zeno.fm/ckq0cpdm4ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "EHR ADVENTURE",
+       "url": "https://stream.zeno.fm/kgw0a9f1uchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "EHR Dance",
+       "url": "https://stream.zeno.fm/3r8fm6f2uhhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "EHR DEJU GRIDA",
+       "url": "https://stream.zeno.fm/kmza3yzrrfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "EHR EUROCHART",
+       "url": "https://stream.zeno.fm/tahnns1rrfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "EHR GADA TOP 100",
+       "url": "https://stream.zeno.fm/5bhcpg7rrfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "EHR Hip-Hop Hiti",
+       "url": "https://stream.zeno.fm/0k7x6a8rrfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "EHR Hitu remiksi",
+       "url": "https://stream.zeno.fm/qdt2b1cm4ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "EHR Latviešu hiti",
+       "url": "https://stream.zeno.fm/42zsrvx1808uv",
+       "language_inferred": true
+      },
+      {
+       "name": "EHR Love Songs",
+       "url": "https://stream.zeno.fm/v0qw6ya2uhhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "EHR Love Songs – Riga – LV-RIX",
+       "url": "https://stream.ehrhiti.lv:8000/Stream_28.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "EHR Pie Stūres",
+       "url": "https://stream.zeno.fm/89fwtbem4ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "EHR Pie Stūres – Riga – LV-RIX",
+       "url": "https://stream.ehrhiti.lv:8000/Stream_62.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "EHR Positivus – Riga – LV-RIX",
+       "url": "https://stream.ehrhiti.lv:8000/Stream_39.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "ehr remixes ru",
+       "url": "http://stream.europeanhitradio.com:8000/Stream_35.aac"
+      },
+      {
+       "name": "EHR Russkie Hiti",
+       "url": "https://stream.zeno.fm/ghrr2wewhrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "EHR Summer Hits",
+       "url": "https://stream.ehrhiti.lv:8000/Stream_34.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "EHR SUPER HITS",
+       "url": "https://stream.zeno.fm/q6h23ue1uchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "EHR Tik Tok Hits – Riga – LV-RIX",
+       "url": "https://stream.ehrhiti.lv:8000/Stream_38.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "EHR TikTok hiti",
+       "url": "https://stream.zeno.fm/3czsxebm4ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "ehr top 40 ru",
+       "url": "http://stream.europeanhitradio.com:8000/Stream_33.aac"
+      },
+      {
+       "name": "EHR TOP40",
+       "url": "https://stream.zeno.fm/srn3hp2rrfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Eliinas",
+       "url": "https://stream.zeno.fm/ube4kp9r3ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Eliinas sudiga gaume",
+       "url": "https://stream.zeno.fm/pzuq504yng8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Elinas",
+       "url": "https://stream.zeno.fm/tk1yu9srcv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "emilisstacija",
+       "url": "https://stream.zeno.fm/he6ttvnvcuhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Emka Lv",
+       "url": "http://emka.lv:8000/emka_aac/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Energy FM",
+       "url": "https://stream.zeno.fm/nrv27tkpkkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Energy.LV",
+       "url": "http://www.radioenergy.lv:9000/stream.mp3"
+      },
+      {
+       "name": "EnergyFM",
+       "url": "https://stream.zeno.fm/954kvempkkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "ererer",
+       "url": "https://stream.zeno.fm/ujzkfypmsxuuv",
+       "language_inferred": true
+      },
+      {
+       "name": "European Hit Radio",
+       "url": "http://stream.europeanhitradio.com:8000/ehr64/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "European Hit Radio",
+       "url": "http://stream.europeanhitradio.lv:8000/ehr64",
+       "language_inferred": true
+      },
+      {
+       "name": "European Hit Radio - Eurochart",
+       "url": "http://stream.europeanhitradio.com:8000/Stream_31.aac"
+      },
+      {
+       "name": "European Hit Radio – Alternative",
+       "url": "https://stream.ehrhiti.lv:8000/Stream_37.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "European Hit Radio – Fitness",
+       "url": "https://stream.ehrhiti.lv:8000/Stream_14.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "European Hit Radio – Party Service",
+       "url": "https://stream.ehrhiti.lv:8000/Stream_12.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "European Hit Radio – Remixes",
+       "url": "https://stream.ehrhiti.lv:8000/Stream_32.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "European Hit Radio – Remixes RU",
+       "url": "https://stream.ehrhiti.lv:8000/Stream_35.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "European Hit Radio – Rītam",
+       "url": "https://stream.ehrhiti.lv:8000/Stream_36.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "European Hit Radio – Urban",
+       "url": "https://stream.ehrhiti.lv:8000/Stream_11.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "evaldbro FM",
+       "url": "https://stream.zeno.fm/fncgo8xwcvhtv",
+       "language_inferred": true
+      },
+      {
+       "name": "Evo FM",
+       "url": "https://stream.zeno.fm/6b3c4mvh1c9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "ExoFMss",
+       "url": "https://stream.zeno.fm/h5wgpgy10f9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "f9radio",
+       "url": "https://stream.zeno.fm/sm14fnuepkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Fallen FM LV RAP",
+       "url": "https://stream.zeno.fm/ta9wnde4srhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "FantasyNight Radio",
+       "url": "https://stream.zeno.fm/coiuugx9fgovv",
+       "language_inferred": true
+      },
+      {
+       "name": "FantasyNIght Radio",
+       "url": "https://stream.zeno.fm/3vw7rwrp4ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "FemkaFM",
+       "url": "https://stream.zeno.fm/755sr1tpduhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Fenikks FM",
+       "url": "https://stream.zeno.fm/xb6ymfz48zhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "filfelitis",
+       "url": "https://stream.zeno.fm/wnstoju4kbtvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Flash Sound Radio",
+       "url": "https://listen7.myradio24.com/65462",
+       "language_inferred": true
+      },
+      {
+       "name": "fmhahaha",
+       "url": "https://stream.zeno.fm/yv5ttk9rqjcvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Foxx99",
+       "url": "https://stream.zeno.fm/9farmyu3ihtuv",
+       "language_inferred": true
+      },
+      {
+       "name": "FPK Hiti",
+       "url": "https://stream.zeno.fm/mr1dn6p47zhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Freaky FM",
+       "url": "https://stream.zeno.fm/xntzq1k2ba9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "FRED FILM RADIO Latvian",
+       "url": "http://s6.webradio-hosting.com:8062/"
+      },
+      {
+       "name": "freelorey FM",
+       "url": "https://stream.zeno.fm/xype66d9pxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Fronchas Radio",
+       "url": "https://stream.zeno.fm/5wcxwevrrp8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "FrostyKrutz",
+       "url": "https://stream.zeno.fm/p8v0590un2zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "fruktija rave radio",
+       "url": "https://stream.zeno.fm/5debpwhz338uv",
+       "language_inferred": true
+      },
+      {
+       "name": "fruktijsFM",
+       "url": "https://stream.zeno.fm/kh2bvg1yqg0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Ghostzzfm",
+       "url": "https://stream.zeno.fm/yzx9h9bpyk8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Gibson",
+       "url": "https://stream.zeno.fm/5gbvpa1r498uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Girls and Gays FM",
+       "url": "https://stream.zeno.fm/k0m901mxts8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Gold FM",
+       "url": "https://stream.zeno.fm/vhrw5k78af6uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Gradio",
+       "url": "https://stream.zeno.fm/r91fbf91uhhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Gradio.lv",
+       "url": "https://stream.gradio.lv/live.mp4a",
+       "language_inferred": true
+      },
+      {
+       "name": "Gradio.lv",
+       "url": "https://streams.urdt.lv/gradio.mp4a"
+      },
+      {
+       "name": "grums123",
+       "url": "https://stream.zeno.fm/y04c5m4hx98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "GSF II Kompakts",
+       "url": "https://stream.zeno.fm/cudzvpa8bxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "GTAW Loba",
+       "url": "https://stream.zeno.fm/2418zs55hfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "GUSTAVS15FM",
+       "url": "https://stream.zeno.fm/5zap4n1rq18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Gypsy FM",
+       "url": "https://stream.zeno.fm/75ktqhwz5hhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "H-Radio",
+       "url": "https://stream.zeno.fm/p6mxbl784vhtv",
+       "language_inferred": true
+      },
+      {
+       "name": "Harijs FM",
+       "url": "https://stream.zeno.fm/d5hmi4mr3f0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "HellaBangers",
+       "url": "https://stream.zeno.fm/0k6r8nbegphvv",
+       "language_inferred": true
+      },
+      {
+       "name": "henceq",
+       "url": "https://stream.zeno.fm/szepv9rpuf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Huera FM",
+       "url": "https://stream.zeno.fm/0tvxz1kdkg0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "InsideFM",
+       "url": "https://stream.zeno.fm/xgpk1thhzchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "InsideFM (Русское) – Riga – LV-RIX",
+       "url": "https://stream.insidefm.eu:8000/nonstop",
+       "language_inferred": true
+      },
+      {
+       "name": "InsideFM Latviešu hiti",
+       "url": "https://stream.insidefm.eu/listen/insidefm_latvijahiti/lvhiti",
+       "language_inferred": true
+      },
+      {
+       "name": "ItssNatsuLandia",
+       "url": "https://stream.zeno.fm/jttfezvilhnuv",
+       "language_inferred": true
+      },
+      {
+       "name": "JankaFM",
+       "url": "https://stream.zeno.fm/vazeqmovx4svv",
+       "language_inferred": true
+      },
+      {
+       "name": "Jariks",
+       "url": "https://stream.zeno.fm/skymkqyeflovv",
+       "language_inferred": true
+      },
+      {
+       "name": "Jariks Gg",
+       "url": "https://stream.zeno.fm/cuzo5aodlsluv",
+       "language_inferred": true
+      },
+      {
+       "name": "jauniešu RADIO party Music DJEDIJS",
+       "url": "https://stream.zeno.fm/b094vvs65rquv",
+       "language_inferred": true
+      },
+      {
+       "name": "Jazeps fm",
+       "url": "https://stream.zeno.fm/2auoceshjcmuv",
+       "language_inferred": true
+      },
+      {
+       "name": "JDMradio",
+       "url": "https://stream.zeno.fm/fgzgutctc0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Jebkas2",
+       "url": "https://stream.zeno.fm/atb0abfwcwtuv",
+       "language_inferred": true
+      },
+      {
+       "name": "johansDurvis",
+       "url": "https://stream.zeno.fm/o1mygyxvn2yvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Jukebox Radio",
+       "url": "https://stream-50.zeno.fm/esefptzhdfkuv?zs=VV_Rk4NTSRa-YyRCsI7HWA",
+       "language_inferred": true
+      },
+      {
+       "name": "Jukebox Radio Deluxe – Riga – LV-RIX",
+       "url": "http://stream.zeno.fm/6h6mnmvt6rhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Jukebox Radio Rock – Riga – LV-RIX",
+       "url": "http://stream.zeno.fm/3sg3s2vz3rhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Juppi radzins",
+       "url": "https://stream.zeno.fm/3b0v8h6qrfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Just FM",
+       "url": "http://lifemedia.cloud.makonix.com:8000/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "juuuuuuuu",
+       "url": "https://stream.zeno.fm/13h2k88f798uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Kabaxxs FM",
+       "url": "https://stream.zeno.fm/2cgpp50bkuhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Kadzis LV FM",
+       "url": "https://stream.zeno.fm/qvvpt7j2vhyvv",
+       "language_inferred": true
+      },
+      {
+       "name": "kaifarik22",
+       "url": "https://stream.zeno.fm/tkgv19mq3zpuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Kalninsh",
+       "url": "https://stream.zeno.fm/3qgthk8sa18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "kanziks",
+       "url": "https://stream.zeno.fm/u3524h2rkrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Kanziks FM",
+       "url": "https://stream.zeno.fm/mnbf75v5998uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Kartonzz Fm",
+       "url": "https://stream.zeno.fm/0iq7lbhflhktv",
+       "language_inferred": true
+      },
+      {
+       "name": "KartonzzFM",
+       "url": "https://stream.zeno.fm/pq9q3dpdzxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Karumniaks",
+       "url": "https://stream.zeno.fm/1esbzqt2duxtv",
+       "language_inferred": true
+      },
+      {
+       "name": "kastracija fm",
+       "url": "https://stream.zeno.fm/5msee3w41xhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "kekwww",
+       "url": "https://stream.zeno.fm/ch89xvkrbc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Kevlar FM",
+       "url": "https://stream.zeno.fm/kztf2adheq8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "KitucisFM",
+       "url": "https://stream.zeno.fm/wqvfvk564bhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "KitucisFM",
+       "url": "https://stream.zeno.fm/e6b5gk564bhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "KitucisFM",
+       "url": "https://stream.zeno.fm/m44bum564bhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "kosmonauts FM",
+       "url": "https://stream.zeno.fm/6mprpa25998uv",
+       "language_inferred": true
+      },
+      {
+       "name": "KreiziMann FM",
+       "url": "https://stream.zeno.fm/hggxdzpvhs8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Krikcits",
+       "url": "https://stream.zeno.fm/zvydwz98tc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Krimināli ekselents radio",
+       "url": "http://live.pieci.lv/live27-hq.mp3"
+      },
+      {
+       "name": "krishins 2",
+       "url": "https://stream.zeno.fm/37fd0puegfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "krishins fm",
+       "url": "https://stream.zeno.fm/1y7sew32qf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Kristers fm",
+       "url": "https://stream.zeno.fm/66b8m2uup0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Kuldīgas katoļu draudze",
+       "url": "https://stream.zeno.fm/engtt40hkf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Kurzemes Radio",
+       "url": "https://stream.zeno.fm/nds9a9s1808uv",
+       "language_inferred": true
+      },
+      {
+       "name": "KXTASI FM",
+       "url": "https://stream.zeno.fm/bfwqd712238uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Lance pagraba sastāvs",
+       "url": "https://stream.zeno.fm/7fnvtxtq8whvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Latgales Radio",
+       "url": "http://www.radiolg.lv:8000/128_aac.m3u"
+      },
+      {
+       "name": "Latvia FM",
+       "url": "https://hib-server.one-tv.co.uk/listen/latvia_fm/radio.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Latvia FM – Riga – LV-RIX",
+       "url": "https://azuracast.one-tv.co.uk/listen/latvia_fm/radio.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Latvian Music Room",
+       "url": "http://streaming.radionomy.com/Latvian-Music?type=.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Latvian R Saeima",
+       "url": "http://lrsaeimamp.latvijasradio.lv:8022/",
+       "language_inferred": true
+      },
+      {
+       "name": "LatviesuZinges",
+       "url": "https://stream.zeno.fm/06cqzvubyf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Latviešu Jāņu Dziesmas",
+       "url": "https://stream.zeno.fm/vq44tbv1nuhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Latviešu Radio",
+       "url": "https://stream.zeno.fm/5yhkjvtqmx0vv",
+       "language_inferred": true
+      },
+      {
+       "name": "Latvijas Kristigais Radio",
+       "url": "http://91.203.71.10:8006/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Latvijas Radio 2 (LR2)",
+       "url": "http://muste.radio.org.lv:1935/shoutcast/mp4:lr2a.stream/playlist.m3u8"
+      },
+      {
+       "name": "Latvijas Radio 3 Klasika",
+       "url": "http://lr3mp0.latvijasradio.lv:8004/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Latvijas Radio 4",
+       "url": "https://stream.zeno.fm/zb7rdfzthxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Latvijas Radio 5",
+       "url": "http://lr5mp1.latvijasradio.lv:8012/",
+       "language_inferred": true
+      },
+      {
+       "name": "Latvijas Radio 5",
+       "url": "http://listen.shoutcast.com/00sr-bradiotunes"
+      },
+      {
+       "name": "Latvijas_himna",
+       "url": "https://stream.zeno.fm/fhpfrkthgepvv",
+       "language_inferred": true
+      },
+      {
+       "name": "LAUKIS FM",
+       "url": "https://stream.zeno.fm/fcy7h8qayy1uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Laukpuiks",
+       "url": "https://stream.zeno.fm/pkfn6uxeuv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Lava FM",
+       "url": "https://c30.radioboss.fm:8643/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Leslija",
+       "url": "https://stream.zeno.fm/vrzky2wyxc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Liešu drills FM",
+       "url": "https://stream.zeno.fm/tac1be9xbfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "LILEINĀRA FM",
+       "url": "https://stream.zeno.fm/0gltyxwuwgyvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Login-Dziesma",
+       "url": "https://stream.zeno.fm/qp84hcsnizhuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Lohans Station",
+       "url": "https://stream.zeno.fm/x3q26k6pachvv",
+       "language_inferred": true
+      },
+      {
+       "name": "LoneWolf Radio",
+       "url": "https://stream.zeno.fm/fzddqf60ba9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Los Santos News",
+       "url": "https://stream.zeno.fm/d0gz2z8004zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Lost Cousins Mixtape",
+       "url": "https://stream.zeno.fm/lk37q4eicdauv",
+       "language_inferred": true
+      },
+      {
+       "name": "Lost Cousins Phonk FM",
+       "url": "https://stream.zeno.fm/qakxp5qqirlvv",
+       "language_inferred": true
+      },
+      {
+       "name": "LR2",
+       "url": "https://stream.zeno.fm/37z99ec1d48uv",
+       "language_inferred": true
+      },
+      {
+       "name": "LR6 - NABA",
+       "url": "https://5a44e5b800a41.streamlock.net/shoutcast/naba.stream/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "LSD FM",
+       "url": "https://stream.zeno.fm/0shftnc2768uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Lustīgs Radio",
+       "url": "https://stream.zeno.fm/vasr3b90138uv",
+       "language_inferred": true
+      },
+      {
+       "name": "LVFM20",
+       "url": "https://stream.zeno.fm/f4x6x0k1urhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Lxrd Wrld",
+       "url": "https://stream.zeno.fm/aun816mf7ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Lynch radio",
+       "url": "https://stream.zeno.fm/bmrwbpc2v0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "M1k1nš",
+       "url": "https://stream.zeno.fm/a0u9wfoiz8etv",
+       "language_inferred": true
+      },
+      {
+       "name": "Macklijs",
+       "url": "https://stream.zeno.fm/k50ay2kmbc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Macklijs",
+       "url": "https://stream.zeno.fm/evhfpww01f9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "MacklijsFM",
+       "url": "https://stream.zeno.fm/vqy025wxba9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "MaladoyFM",
+       "url": "https://stream.zeno.fm/p3emy61tcv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "MalaGurķis F12",
+       "url": "https://stream.zeno.fm/mvnmxtr1exhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "MareksFM",
+       "url": "https://stream.zeno.fm/3pt5esti7quuv",
+       "language_inferred": true
+      },
+      {
+       "name": "MarkoFM",
+       "url": "https://stream.zeno.fm/g1m9huph9whvv",
+       "language_inferred": true
+      },
+      {
+       "name": "MarkoOutItFM",
+       "url": "https://stream.zeno.fm/bzq9mnf257zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Marlada",
+       "url": "https://stream.zeno.fm/zfupdqi4e6juv",
+       "language_inferred": true
+      },
+      {
+       "name": "MarquezFM",
+       "url": "https://stream.zeno.fm/hytt23zspc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Martins DnB Radio",
+       "url": "https://stream.zeno.fm/awxrbaw73c9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Martins Hardcore Radio",
+       "url": "https://stream.zeno.fm/k3wbyas73c9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Matīss FM",
+       "url": "https://stream.zeno.fm/qfdzgxmxqp8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "MazaisZaļaisFM",
+       "url": "https://stream.zeno.fm/5tp2crtvmc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "McD Jelgava",
+       "url": "https://stream.zeno.fm/dwygz6stbv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "MehMeh",
+       "url": "https://stream.zeno.fm/sos2vxbgwvruv",
+       "language_inferred": true
+      },
+      {
+       "name": "MercY.FM",
+       "url": "https://stream.zeno.fm/xylwjk5iqratv",
+       "language_inferred": true
+      },
+      {
+       "name": "METALHEADS",
+       "url": "https://stream.zeno.fm/8ewnercy398uv",
+       "language_inferred": true
+      },
+      {
+       "name": "METLAHEADS",
+       "url": "https://stream.zeno.fm/f6ffkmcy398uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Mežciema radio",
+       "url": "https://stream.zeno.fm/auzwecm1d48uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Midnight Club",
+       "url": "https://stream.zeno.fm/xty0nbc4tchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Miedzac",
+       "url": "https://stream.zeno.fm/epn9u6zmbd0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "mikis fm",
+       "url": "https://stream.zeno.fm/7mwdfpbqr9otv",
+       "language_inferred": true
+      },
+      {
+       "name": "MiksZz",
+       "url": "https://stream.zeno.fm/hvbgn5lirncvv",
+       "language_inferred": true
+      },
+      {
+       "name": "MiksZz",
+       "url": "https://stream.zeno.fm/3u06ezswgxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "MikusFM",
+       "url": "https://stream.zeno.fm/tao2cpazkittv",
+       "language_inferred": true
+      },
+      {
+       "name": "MINKA FM",
+       "url": "https://stream.zeno.fm/rud76rm8af9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Mitrais FM",
+       "url": "https://stream.zeno.fm/m1w6h4y49ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Mix FM",
+       "url": "https://l.mixnews.lv/hls/baltkom.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "MIX FM",
+       "url": "https://stream.zeno.fm/ee6rutepkkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Mix News",
+       "url": "http://91.90.255.111:80/baltkom?type=.mp3/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Mix News 99.5 FM",
+       "url": "http://radio.995.lv/995/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "MonkeyFM",
+       "url": "https://stream.zeno.fm/8fma7aymh5zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "MORSKOJ PRIBOJ",
+       "url": "https://stream.zeno.fm/yn1yb2yf2k0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Motoradio Online",
+       "url": "http://stream.motoradio.online:8000/high-mp3"
+      },
+      {
+       "name": "MTA EHR",
+       "url": "https://stream.zeno.fm/bg0j8hfr6xyuv",
+       "language_inferred": true
+      },
+      {
+       "name": "MTA Only",
+       "url": "https://stream.zeno.fm/5ec1bezfpuwuv",
+       "language_inferred": true
+      },
+      {
+       "name": "MTA_SANANDREAS",
+       "url": "https://stream.zeno.fm/rv186qbfvnhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "MUSIC FM",
+       "url": "https://stream.zeno.fm/suqetnpowpvtv",
+       "language_inferred": true
+      },
+      {
+       "name": "Music Mix FM",
+       "url": "https://stream.zeno.fm/hfcfvz2nq18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "MusicMixFM",
+       "url": "https://stream.zeno.fm/50yergb6v68uv",
+       "language_inferred": true
+      },
+      {
+       "name": "muzikantsartis",
+       "url": "https://stream.zeno.fm/9v69e9s0ts8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "N1ce7ry FM",
+       "url": "https://stream.zeno.fm/byp3u95pb18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Nobody radio",
+       "url": "https://stream.zeno.fm/83fbhq0b468uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Nola hujovijs radzins",
+       "url": "https://stream.zeno.fm/1wr7fwh5cm8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "NoOcopsFM",
+       "url": "https://stream.zeno.fm/qgds9q0bqkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Nordic Beat Radio",
+       "url": "http://nordicbeatradio.radioca.st:8049/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Nordic Chillout Radio",
+       "url": "https://nordicbeatradio.radioca.st/listen.mp3?n=10e1962b95593f830fd7"
+      },
+      {
+       "name": "Nordic Chillout Radio – Riga – LV-RIX",
+       "url": "https://nordicbeatradio.radioca.st/listen.pls?sid=1",
+       "language_inferred": true
+      },
+      {
+       "name": "Norma radio – Riga – LV-RIX",
+       "url": "https://80.232.245.141:8000/norma",
+       "language_inferred": true
+      },
+      {
+       "name": "Normis fm",
+       "url": "https://stream.zeno.fm/at01yv3xpuhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "NormisE39",
+       "url": "https://stream.zeno.fm/hwcf5q072c9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Nostalgic",
+       "url": "https://stream.zeno.fm/h36ybq0whrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Nupolo",
+       "url": "https://stream.zeno.fm/agshpwfv2ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Nuts FM",
+       "url": "https://stream.zeno.fm/daepanmtg98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "nyan cat FM",
+       "url": "https://stream.zeno.fm/t17fafgd5zhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Nēgersona rādžiņš",
+       "url": "https://stream.zeno.fm/dxrn3jvfz4nvv",
+       "language_inferred": true
+      },
+      {
+       "name": "OC Vision Radio",
+       "url": "https://stream.zeno.fm/n7bvsjyfdg8tv",
+       "language_inferred": true
+      },
+      {
+       "name": "ODIX FM",
+       "url": "https://stream.zeno.fm/qkrnsn1me0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "ODIXBTW",
+       "url": "https://stream.zeno.fm/ncyb2ec7ltzvv",
+       "language_inferred": true
+      },
+      {
+       "name": "OfkorsFM",
+       "url": "https://stream.zeno.fm/vy5hbcyeyvbtv",
+       "language_inferred": true
+      },
+      {
+       "name": "oldschool",
+       "url": "https://stream.zeno.fm/k77zw1amachvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Oldschools",
+       "url": "https://stream.zeno.fm/cwpppgvq8whvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Olol2001",
+       "url": "https://stream.zeno.fm/p0wezvw5echvv",
+       "language_inferred": true
+      },
+      {
+       "name": "OMH Radio",
+       "url": "https://stream.zeno.fm/56t5naa2uhhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "OMH Radio Latvia",
+       "url": "https://stream.zeno.fm/swlhedwgh8otv",
+       "language_inferred": true
+      },
+      {
+       "name": "operplugg",
+       "url": "https://stream.zeno.fm/02ufae5aqkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Osmans vibe",
+       "url": "https://stream.zeno.fm/tm9pmv1b1rhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "OSMANS VIBE",
+       "url": "https://stream.zeno.fm/pamamii2kszvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Pabloescobars",
+       "url": "https://stream.zeno.fm/t8hoxu7hdubtv",
+       "language_inferred": true
+      },
+      {
+       "name": "Padibeņa reps FM",
+       "url": "https://stream.zeno.fm/0n5umxwq8whvv",
+       "language_inferred": true
+      },
+      {
+       "name": "pajebaķ.",
+       "url": "https://stream.zeno.fm/2ncakfx9mf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "paklaxjs fm",
+       "url": "https://stream.zeno.fm/atr6ae9d6zhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Paklaxjs LV",
+       "url": "https://stream.zeno.fm/rawrs4fgf0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "PaklaxjVibe",
+       "url": "https://stream.zeno.fm/k6yg0kxnwxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Palmijs FM",
+       "url": "https://stream.zeno.fm/ktttw7red78uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Papucis",
+       "url": "https://stream.zeno.fm/h79m7s8m698uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Phonk FM",
+       "url": "https://stream.zeno.fm/n40p3qhgwf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Pieci - 5 FM",
+       "url": "http://kurzemesradio.lv:8000/"
+      },
+      {
+       "name": "Pieci - 5 Latgaliesi",
+       "url": "https://live.pieci.lv/live22-hq.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "Pieci 5 Atklajumi",
+       "url": "http://live.pieci.lv:8000/live5-hq.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "Pieci 5 Baltic Music",
+       "url": "http://live.pieci.lv:8000/live18-hq.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "Pieci 5 Latgaliesi",
+       "url": "http://live.pieci.lv:8000/live22-hq.aac"
+      },
+      {
+       "name": "Pieci 5 Latviesi",
+       "url": "http://live.pieci.lv:8000/live7-hq.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "Pienvedejs FM",
+       "url": "https://stream.zeno.fm/nmv5cgatws8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Pingvins",
+       "url": "https://stream.zeno.fm/kw7w3pbfbxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "pinkull fm",
+       "url": "https://stream.zeno.fm/4h6eq2vabkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Piratebeaf FM",
+       "url": "https://stream.zeno.fm/uadawpneuv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "pop music",
+       "url": "https://stream.zeno.fm/1stuncxfaxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Poppins",
+       "url": "https://stream.zeno.fm/poomwon9p0nuv",
+       "language_inferred": true
+      },
+      {
+       "name": "PosisLosis",
+       "url": "https://stream.zeno.fm/7z2czwhbyf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "punktsgab",
+       "url": "https://stream.zeno.fm/ax5p6w016bhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Pāvilosta FM",
+       "url": "https://stream.zeno.fm/x0rkq9p58zhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "qsafsasfsa",
+       "url": "https://stream.zeno.fm/o7oeck0th2dvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 4U",
+       "url": "https://stream.zeno.fm/ky2uz4ca0xhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 7",
+       "url": "http://stream.radio7.lv:8024/Radio7.m3u"
+      },
+      {
+       "name": "RADIO 7",
+       "url": "https://stream.zeno.fm/y40gpwd1d48uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 8 Latvia",
+       "url": "http://listen.radionomy.com/8radio?type=.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Baltkom",
+       "url": "https://stream.zeno.fm/f8t9q5dpkkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Energy - Hit Music Radio",
+       "url": "http://radio1.radioenergy.lv:8000/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Energy - Russian Radio",
+       "url": "http://radio2.radioenergy.lv:9000/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio ENERGY.LV Hit Music Radio",
+       "url": "http://radioenergy.lv:8000/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio ENERGY.LV Russian Radio",
+       "url": "http://radioenergy.lv:9000/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Maria",
+       "url": "http://live.rml.lv:8000/stream/1/"
+      },
+      {
+       "name": "RADIO MARIA LATVIA",
+       "url": "http://dreamsiteradiocp2.com:8046/"
+      },
+      {
+       "name": "Radio Maria Latvia",
+       "url": "http://live.rml.lv:8000/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Marija - Latvija",
+       "url": "https://dreamsiteradiocp2.com/proxy/rmlatvia?mp=/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Marija Latvija",
+       "url": "https://stream.rcast.net/66684",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Naba – Riga – LV-RIX",
+       "url": "http://nabamp0.latvijasradio.lv:8016/listen.pls",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio S",
+       "url": "https://stream.zeno.fm/tvrr8e4j1g7vv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Skonto",
+       "url": "https://stream.zeno.fm/esdvv4zebkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Skonto Plus",
+       "url": "http://91.203.69.174/st128"
+      },
+      {
+       "name": "Radio SWH",
+       "url": "http://live.radioswh.lv:8000/swhmp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio SWH",
+       "url": "http://87.110.219.34:8000/swhaac"
+      },
+      {
+       "name": "Radio SWH Gold",
+       "url": "http://80.232.162.149:8000/swhgold",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio SWH Kurzeme",
+       "url": "http://80.232.162.149:8000/kurz96mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio SWH Plus",
+       "url": "http://87.110.219.34:8000/plusaac"
+      },
+      {
+       "name": "Radio SWH Plus",
+       "url": "https://stream.zeno.fm/dq78pfhavv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Talsi",
+       "url": "http://radio.kuums.lv:6555/listen.pls",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Tev",
+       "url": "https://stream.zeno.fm/fqwkgt1kakhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Valmiera",
+       "url": "http://85.254.49.110:8002/radiov?type=.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio...",
+       "url": "https://stream.zeno.fm/hgepw0kn5ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "RadioHits",
+       "url": "https://stream.zeno.fm/dg83gaqeny8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "radiojuniors live",
+       "url": "https://stream.zeno.fm/bkh33qs64c9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radioo",
+       "url": "https://stream.zeno.fm/xag3tzn0xp8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RainersK FM",
+       "url": "https://stream.zeno.fm/n0snjil3a48tv",
+       "language_inferred": true
+      },
+      {
+       "name": "raivisFM",
+       "url": "https://stream.zeno.fm/6xq7kw5snc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "raivissFM",
+       "url": "https://stream.zeno.fm/wm7xkq5snc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Ramirez FM",
+       "url": "https://stream.zeno.fm/p7gyrae3tchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "random",
+       "url": "https://stream.zeno.fm/vk5z4pc2668uv",
+       "language_inferred": true
+      },
+      {
+       "name": "rant15",
+       "url": "https://stream.zeno.fm/t20qmh6w0p8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "rantgg",
+       "url": "https://stream.zeno.fm/m194qmcft18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Ravefm",
+       "url": "https://stream.zeno.fm/34waw28smchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Real Raver",
+       "url": "https://stream.zeno.fm/cc4rhunkx98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Relax FM",
+       "url": "https://stream.zeno.fm/9pkyubyebkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "RENDZURS FM",
+       "url": "https://stream.zeno.fm/d89ru56fr18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "repaapvienība371",
+       "url": "https://stream.zeno.fm/uu8b6wcgunhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Retro FM",
+       "url": "https://stream.zeno.fm/ptpk0qhpkkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Retro FM 94,5 (Riga) Radio",
+       "url": "https://stream.pcradio.ru/retro_riga-med",
+       "language_inferred": true
+      },
+      {
+       "name": "RETV",
+       "url": "https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/chunklist_b1128000_t64NDgwcA==.m3u8"
+      },
+      {
+       "name": "Ricaxx",
+       "url": "https://stream.zeno.fm/bcy1h3nxu38uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Richijs FM",
+       "url": "https://stream.zeno.fm/nytvbs3ffphvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Richijs FM",
+       "url": "https://stream.zeno.fm/u0brhq57af9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RicinsFM",
+       "url": "https://stream.zeno.fm/kb6iaphfsodtv",
+       "language_inferred": true
+      },
+      {
+       "name": "RICIS RADIO",
+       "url": "https://stream.zeno.fm/bqfqqtfqfshvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Riga Radio",
+       "url": "http://r.rigaradio.lv:8000/mp3?type=.mp3/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Riverdown",
+       "url": "https://stream.zeno.fm/rtyhk6hz338uv",
+       "language_inferred": true
+      },
+      {
+       "name": "rmlatvia",
+       "url": "https://stream.zeno.fm/dn7epugqhy8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RobchiksFM",
+       "url": "https://stream.zeno.fm/4xdutqkb1rhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Roberts Hardstyle FM",
+       "url": "https://stream.zeno.fm/lqrxwzdmzy9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Rockies",
+       "url": "https://stream.zeno.fm/zqhvtdvlc4tuv",
+       "language_inferred": true
+      },
+      {
+       "name": "rolexFM",
+       "url": "https://stream.zeno.fm/2yf55kvtqv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RoXyz FM",
+       "url": "https://stream.zeno.fm/f73szxtq8whvv",
+       "language_inferred": true
+      },
+      {
+       "name": "RoXyz FM",
+       "url": "https://stream.zeno.fm/3sgwwutq8whvv",
+       "language_inferred": true
+      },
+      {
+       "name": "RS Melodijas",
+       "url": "https://stream.zeno.fm/1hvytkrrcq8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RUS DANCE WE LOVE",
+       "url": "https://stream.zeno.fm/69tvrntagxetv",
+       "language_inferred": true
+      },
+      {
+       "name": "RUS MIX",
+       "url": "https://stream.zeno.fm/txwzz4zt1uhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Russian",
+       "url": "https://stream.zeno.fm/8t42qbrta78uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RUSSIAN 1",
+       "url": "https://stream.zeno.fm/6uvwc1qwu38uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RUSSIAN FM",
+       "url": "https://stream.zeno.fm/kbw9cv5wyv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RUSSIAN FM2",
+       "url": "https://stream.zeno.fm/m3qtd7x9y98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Russian Music",
+       "url": "https://stream.zeno.fm/p24vze1gtv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "russianfgm",
+       "url": "https://stream.zeno.fm/g55ezqvk798uv",
+       "language_inferred": true
+      },
+      {
+       "name": "safety",
+       "url": "https://stream.zeno.fm/ny4haxr4v0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Saldus Radio",
+       "url": "http://80.232.219.194:8080/klausies?type=.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Salvatore",
+       "url": "https://stream.zeno.fm/dpstcqtytxiuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Salvatore_Lacoste",
+       "url": "https://stream.zeno.fm/kocqsxb53mcvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Salvatore_Lacoste",
+       "url": "https://stream.zeno.fm/gevnue0udhlvv",
+       "language_inferred": true
+      },
+      {
+       "name": "samp phonk",
+       "url": "https://stream.zeno.fm/wge39nfqkxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "SanfliexFM",
+       "url": "https://stream.zeno.fm/095zk0s30f9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "sauļuka.FM",
+       "url": "https://stream.zeno.fm/o5jagnhqws8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "SCHIZO",
+       "url": "https://stream.zeno.fm/rb8dqmfagdktv",
+       "language_inferred": true
+      },
+      {
+       "name": "Schlager Time – Riga – LV-RIX",
+       "url": "http://schlagers.org:8760/listen.pls",
+       "language_inferred": true
+      },
+      {
+       "name": "Schwarzenegger FM",
+       "url": "https://stream.zeno.fm/n3wtdgnw3nttv",
+       "language_inferred": true
+      },
+      {
+       "name": "sdbvnnvnvnvnv",
+       "url": "https://stream.zeno.fm/x2ur5vsxnv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "SemerFM",
+       "url": "https://stream.zeno.fm/55b3tnte368uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Sencis fm",
+       "url": "https://stream.zeno.fm/sr1zppbdcxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "septika FM",
+       "url": "https://stream.zeno.fm/p0nc39fyaq8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Serjoga",
+       "url": "https://stream.zeno.fm/3nuwnr0ewf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Shalle ble",
+       "url": "https://stream.zeno.fm/6428nb3scphvv",
+       "language_inferred": true
+      },
+      {
+       "name": "SheeeeshFM",
+       "url": "https://stream.zeno.fm/0d4mm9nx9p8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Sheeesh",
+       "url": "https://stream.zeno.fm/cnf41u44nuquv",
+       "language_inferred": true
+      },
+      {
+       "name": "Shimmy hits",
+       "url": "https://stream.zeno.fm/7kfesm26dchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Sieriina fmciks",
+       "url": "https://stream.zeno.fm/w7150tbfeq8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Skuppay FM",
+       "url": "https://stream.zeno.fm/63adxjzgrezvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Skyrock",
+       "url": "https://stream.zeno.fm/y0u28gs15bhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Slappy Tappy FM",
+       "url": "https://stream.zeno.fm/yhgwr16qg48uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Slight fm",
+       "url": "https://stream.zeno.fm/edf8fklowdgvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Smokelv",
+       "url": "https://stream.zeno.fm/kpnm953vsf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Sniedzinsh",
+       "url": "https://stream.zeno.fm/fxb6uvnq3zhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Solids Sounds",
+       "url": "https://stream.zeno.fm/nkf9ndvm0c9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Space Lv",
+       "url": "https://stream.zeno.fm/anqpc6ptxchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Space Lv - Bizness",
+       "url": "https://stream.zeno.fm/9ffixshl4fuvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Space Lv - Remixes",
+       "url": "https://stream.zeno.fm/k5ulgh63orvtv",
+       "language_inferred": true
+      },
+      {
+       "name": "Space Lv - summer",
+       "url": "https://stream.zeno.fm/3xykc89xpfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Spartans FM",
+       "url": "https://stream.zeno.fm/t0f3z59vbphvv",
+       "language_inferred": true
+      },
+      {
+       "name": "ssssss",
+       "url": "https://stream.zeno.fm/pkq8qv2mmkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Star FM",
+       "url": "https://stream.zeno.fm/zzsu8u3kakhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "STOBRS",
+       "url": "https://stream.zeno.fm/maskhrhr4lxtv",
+       "language_inferred": true
+      },
+      {
+       "name": "StolenFM",
+       "url": "https://stream.zeno.fm/tc0p14wqcq8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Stollys FM",
+       "url": "https://stream.zeno.fm/y0s1egfpyhhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Streak1ys",
+       "url": "https://stream.zeno.fm/e3vr87fpqc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "sukablya",
+       "url": "https://stream.zeno.fm/me2tvubitwvtv",
+       "language_inferred": true
+      },
+      {
+       "name": "Sundzins",
+       "url": "https://stream.zeno.fm/qt9u22ywe48uv",
+       "language_inferred": true
+      },
+      {
+       "name": "SUPER HITS",
+       "url": "http://stream.zeno.fm/6s6y6ue1uchvv"
+      },
+      {
+       "name": "SuperHits GOLD – Riga – LV-RIX",
+       "url": "http://stream.ehrhiti.lv:8000/Stream_64.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "SUPPLY",
+       "url": "https://stream.zeno.fm/dk2fm2b5rxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Surox FM",
+       "url": "https://stream.zeno.fm/zhglcxfcwg0tv",
+       "language_inferred": true
+      },
+      {
+       "name": "Suverena Latvija",
+       "url": "https://stream.zeno.fm/xbkahn370s8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "SWH",
+       "url": "https://stream.zeno.fm/vmc54hs1808uv",
+       "language_inferred": true
+      },
+      {
+       "name": "SWH Gold",
+       "url": "https://stream.zeno.fm/ahutufukakhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "SWH Gold Radio",
+       "url": "https://stream.pcradio.ru/swh_gold-med",
+       "language_inferred": true
+      },
+      {
+       "name": "SWH LV",
+       "url": "http://stream.zeno.fm/v7gue67psfhvv"
+      },
+      {
+       "name": "SWH LV",
+       "url": "https://stream.zeno.fm/z15hb67psfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "SWH Plus",
+       "url": "https://stream.zeno.fm/3kc2hp0kakhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "SWH Rock",
+       "url": "https://stream.zeno.fm/zasn7tvkakhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "SWH SPIN",
+       "url": "https://stream.zeno.fm/z5g0g7hnq18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "SyndicateFM",
+       "url": "https://stream.zeno.fm/rwevm9upychvv",
+       "language_inferred": true
+      },
+      {
+       "name": "TBC 90s",
+       "url": "https://stream.zeno.fm/9n4mrzwnsfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "TBT.72",
+       "url": "https://stream.zeno.fm/kq5cvfmdyqfvv",
+       "language_inferred": true
+      },
+      {
+       "name": "test1234",
+       "url": "https://stream.zeno.fm/fh0u7dqs2zhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "TheClipse",
+       "url": "https://stream.zeno.fm/g4crmm1vyc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "tibbyz oldschool",
+       "url": "https://stream.zeno.fm/ibhcebiynwcvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Tiger FM",
+       "url": "https://stream.zeno.fm/ve1beuknq18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "TikTok Radio Fm",
+       "url": "https://stream.zeno.fm/erkfdvidtgivv",
+       "language_inferred": true
+      },
+      {
+       "name": "Timo Fm",
+       "url": "https://stream.zeno.fm/t2npsyb0k18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Tmoil FM",
+       "url": "https://stream.zeno.fm/nzxemtscisotv",
+       "language_inferred": true
+      },
+      {
+       "name": "TominshFM",
+       "url": "https://stream.zeno.fm/fcyrsxww868uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Tommy DJ FM",
+       "url": "https://stream.zeno.fm/9d9detzgbchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "TopRadio",
+       "url": "https://www.liveradio.es/http://195.13.200.164:8000/m3u",
+       "language_inferred": true
+      },
+      {
+       "name": "TostermaizeFM",
+       "url": "https://stream.zeno.fm/7sh0wu4rruhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Tuklais FM",
+       "url": "https://stream.zeno.fm/14pyw0f28p8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Tzgospel swahili",
+       "url": "https://stream.zeno.fm/hn1b1xaegfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Tzgospel swahili",
+       "url": "https://stream.zeno.fm/ks7w0htchfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "UK DRILL FM",
+       "url": "https://stream.zeno.fm/abemtk5r8bhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "USRadio",
+       "url": "https://stream.zeno.fm/qbpcetnd9uitv",
+       "language_inferred": true
+      },
+      {
+       "name": "Uziks Station",
+       "url": "https://stream.zeno.fm/vg0rc0ppxrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Uziks Station2",
+       "url": "https://stream.zeno.fm/p9wc355wgxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "valters",
+       "url": "https://stream.zeno.fm/5uwdhm17qxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Valters",
+       "url": "https://stream.zeno.fm/2yv8sub6zf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "valters 2.0",
+       "url": "https://stream.zeno.fm/wx4pswreuuhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Vietējais FM",
+       "url": "https://stream.zeno.fm/cm9vekrdu8ftv",
+       "language_inferred": true
+      },
+      {
+       "name": "Vikauša FM",
+       "url": "https://stream.zeno.fm/nam7n3y5pf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Viper FM",
+       "url": "https://stream.zeno.fm/lyzkgpytlmkuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Voxet Studio",
+       "url": "https://stream.zeno.fm/bzx1762hnxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "wardix fm",
+       "url": "https://stream.zeno.fm/94xae3y2tchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "whitey songs",
+       "url": "https://stream.zeno.fm/zzp06ykcfq8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Williams fm",
+       "url": "https://stream.zeno.fm/4mp679w6cxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Xmas Radios",
+       "url": "https://stream.zeno.fm/in146tu2thcuv",
+       "language_inferred": true
+      },
+      {
+       "name": "XO FM",
+       "url": "https://stream.zeno.fm/gc47eezebkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Xradio",
+       "url": "https://stream.zeno.fm/r88nm50ebkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "yeeeboii",
+       "url": "https://stream.zeno.fm/szzp6fdccxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "yepyepyep",
+       "url": "https://stream.zeno.fm/9qdnvddccxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "yvngSupremeFM",
+       "url": "https://stream.zeno.fm/ak82p1cge18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "zarkveha raadzis",
+       "url": "https://stream.zeno.fm/hbsfe7v5wv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "zarkvehs",
+       "url": "https://stream.zeno.fm/zxq8702ta0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "ZauerssFM",
+       "url": "https://stream.zeno.fm/kecc4x1hzchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "ZDAROVA",
+       "url": "https://stream.zeno.fm/0p24ermu9p8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "ZDAROVA-FM",
+       "url": "https://stream.zeno.fm/8nfemwz38p8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Zelta Mikrofons",
+       "url": "https://stream.zeno.fm/nqyia1lgnnquv",
+       "language_inferred": true
+      },
+      {
+       "name": "Zeroboss hood",
+       "url": "https://stream.zeno.fm/qa104zd557zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Zhanis FM 1",
+       "url": "https://stream.zeno.fm/y37szbvwty8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "ziedu vijas radio",
+       "url": "https://stream.zeno.fm/9ybp4h6v8bhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Ņiprais Rādžiņš",
+       "url": "https://stream.zeno.fm/u7qwmbyys98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "šmits FM",
+       "url": "https://stream.zeno.fm/x7y75l4up7nuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Европа",
+       "url": "http://yacht-radio.lv:8020/radio",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "нормално долбит ФМ",
+       "url": "https://stream.zeno.fm/a3h3q2kk7vgtv",
+       "language_inferred": true
+      },
+      {
+       "name": "Русское Ретро (Retro FM)",
+       "url": "https://live.retrofm.lv/russkoeretro48"
+      },
+      {
+       "name": "Танцевальный",
+       "url": "http://yacht-radio.lv:4000/stream",
+       "country_inferred": true,
+       "language_inferred": true
+      }
+     ]
+    }
+   }
+  },
+  "Russian": {
+   "count": 27,
+   "genres": {
+    "chillout_lounge": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Talsi .:: Lounge .::",
+       "url": "http://kuums.lv:5555/stream/1/",
+       "bitrate": 320,
+       "logo": "http://radio.pervii.com/im/6/1537513216.jpg",
+       "country_inferred": true
+      }
+     ]
+    },
+    "christian_gospel": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Latvijas Kristīgais Radio",
+       "url": "https://radio.lkr.lv/?type=http&ampnocache=40"
+      }
+     ]
+    },
+    "comedy": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Jumor FM",
+       "url": "https://radio.mixnews.lv/jumorfm_192",
+       "tags": [
+        "comedy",
+        "pop_hits",
+        "news_talk",
+        "ambient_relax",
+        "easy_listening",
+        "rock"
+       ]
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Energy – Russian Radio",
+       "url": "http://radio1.radioenergy.lv:9000",
+       "tags": [
+        "various_eclectic",
+        "pop_hits",
+        "easy_listening"
+       ]
+      }
+     ]
+    },
+    "electronic": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Radio Energy - Hit Music Radio",
+       "url": "http://radio1.radioenergy.lv:8000/"
+      },
+      {
+       "name": "TOPradio",
+       "url": "http://195.13.200.164:8000/stream.mp3/stream.mp3",
+       "tags": [
+        "pop_hits",
+        "electronic"
+       ]
+      },
+      {
+       "name": "XRadio Latvia",
+       "url": "http://185.8.60.5:8000/",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "house": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "LRADIO-BALTIJA",
+       "url": "https://radio.lradiostation.com/live",
+       "tags": [
+        "pop_hits",
+        "house",
+        "trance_goa",
+        "electronic",
+        "christian_gospel",
+        "latin"
+       ]
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Latvijas Radio 4",
+       "url": "http://lr4mp1.latvijasradio.lv:8020/",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "rock",
+        "folk"
+       ]
+      },
+      {
+       "name": "LR4 / Latvijas Radio 4",
+       "url": "http://lr4mp1.latvijasradio.lv:8018/"
+      },
+      {
+       "name": "Radio SWH+",
+       "url": "http://80.232.162.149:8000/plus96mp3.m3u",
+       "tags": [
+        "news_talk",
+        "rock"
+       ]
+      }
+     ]
+    },
+    "oldies": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "RETRO FM Latvija",
+       "url": "https://live.retrofm.lv/retrofmlatvia",
+       "tags": [
+        "pop_hits",
+        "oldies",
+        "news_talk",
+        "classical",
+        "rock",
+        "decade_80s",
+        "decade_90s"
+       ]
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 7,
+     "stations": [
+      {
+       "name": "Alise Plus",
+       "url": "http://fm2inet.aliseplus.lv:8080/"
+      },
+      {
+       "name": "European Hit Radio - Russkie Hiti",
+       "url": "http://stream.europeanhitradio.com:8000/khr.aac"
+      },
+      {
+       "name": "Hiti Rossii / Russkoe Radio",
+       "url": "http://stream.hitirossii.com:8000/khr.mp3",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Radio Energy - Russian Radio",
+       "url": "http://radio2.radioenergy.lv:9000/"
+      },
+      {
+       "name": "Radio ENERGY.LV - Russian",
+       "url": "http://www.radioenergy.lv:9000/listen.pls"
+      },
+      {
+       "name": "TOPradio",
+       "url": "http://195.13.200.164:8000/listen.pls"
+      },
+      {
+       "name": "Авторадио Латвия",
+       "url": "https://live.relaxfm.lv/03"
+      }
+     ]
+    },
+    "various_eclectic": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Hity Rossii - Riga 96.2 FM",
+       "url": "http://stream.superfm.lv:8000/khr.mp3",
+       "bitrate": 128,
+       "logo": "http://radio.pervii.com/logo/1380753029.jpg",
+       "country_inferred": true
+      },
+      {
+       "name": "Power FM",
+       "url": "http://radio.powerfm.lv:8000"
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 6,
+     "stations": [
+      {
+       "name": "DayzerFM",
+       "url": "https://stream.zeno.fm/17r6zcbgyy8uv"
+      },
+      {
+       "name": "East Compton",
+       "url": "https://stream.zeno.fm/56ttedgwwhhvv"
+      },
+      {
+       "name": "gfrwfabdfgeqrtgwhenhrgwterw",
+       "url": "https://stream.zeno.fm/tt9vk9gmffhvv"
+      },
+      {
+       "name": "Radio Energy - Russian Radio",
+       "url": "http://www.radioenergy.lv:9000/"
+      },
+      {
+       "name": "RETRO FM Latvia",
+       "url": "http://159.148.11.137:8000/64"
+      },
+      {
+       "name": "ShitBox",
+       "url": "https://stream.zeno.fm/suk5phne938uv"
+      }
+     ]
+    }
+   }
+  },
+  "English": {
+   "count": 10,
+   "genres": {
+    "chillout_lounge": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Your City Radio",
+       "url": "https://c28.radioboss.fm:18234/stream",
+       "tags": [
+        "chillout_lounge",
+        "pop_hits",
+        "house",
+        "alternative_indie",
+        "electronic",
+        "rock",
+        "easy_listening"
+       ]
+      }
+     ]
+    },
+    "electronic": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Happy Radio, Kinshasa",
+       "url": "https://stream.zeno.fm/pn87ajxqyvpuv",
+       "tags": [
+        "electronic",
+        "pop_hits",
+        "rock"
+       ]
+      }
+     ]
+    },
+    "house": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Old House Mixes",
+       "url": "http://deeperlink.com:8030/stream",
+       "tags": [
+        "house",
+        "electronic"
+       ]
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Balerija Radio",
+       "url": "https://stream.zeno.fm/snntma3qfg0uv"
+      },
+      {
+       "name": "Pieci 5 Hiti",
+       "url": "http://live.pieci.lv:8000/live17-hq.aac"
+      }
+     ]
+    },
+    "soul_rnb_funk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "RadioNSM",
+       "url": "https://stream.radionsm.net/radionsm.mp3",
+       "tags": [
+        "electronic",
+        "soul_rnb_funk",
+        "country",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "BBC Radio 2",
+       "url": "http://lstn.lv/bbc.m3u8?station=bbc_radio_two&bitrate=320000?n=32e3b5e1a1fdfbce3a19",
+       "country_inferred": true
+      },
+      {
+       "name": "BBC Radio 4",
+       "url": "http://lstn.lv/bbc.m3u8?station=bbc_radio_fourfm&bitrate=320000?n=793ce0e3cf283e6697dc",
+       "country_inferred": true
+      },
+      {
+       "name": "BBC Radio Newcastle",
+       "url": "http://lstn.lv/bbc.m3u8?station=bbc_radio_newcastle&bitrate=320000?n=0750efe617a0a17cfe8c",
+       "country_inferred": true
+      },
+      {
+       "name": "BBC Radio Solent",
+       "url": "http://lstn.lv/bbc.m3u8?station=bbc_radio_solent&bitrate=128000?n=15d88e7e9cdcf08bda61",
+       "country_inferred": true
+      }
+     ]
+    }
+   }
+  },
+  "German": {
+   "count": 2,
+   "genres": {
+    "schlager_polka": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "wap",
+       "url": "https://stream.laut.fm/wap?ref=radiode",
+       "tags": [
+        "schlager_polka",
+        "decade_90s"
+       ]
+      }
+     ]
+    },
+    "sports": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "DJ KRUUTSGALS",
+       "url": "https://stream.zeno.fm/q321wk69g0hvv"
+      }
+     ]
+    }
+   }
+  },
+  "Welsh": {
+   "count": 2,
+   "genres": {
+    "unclassified": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "BBC Radio Cymru",
+       "url": "http://lstn.lv/bbc.m3u8?station=bbc_radio_cymru&bitrate=96000?n=9b763cf398adcfa6f384",
+       "country_inferred": true
+      },
+      {
+       "name": "BBC Radio Cymru 2",
+       "url": "http://lstn.lv/bbc.m3u8?station=bbc_radio_cymru_2&bitrate=96000?n=4eecbb913c9483bf0a71",
+       "country_inferred": true
+      }
+     ]
+    }
+   }
+  },
+  "Polish": {
+   "count": 1,
+   "genres": {
+    "easy_listening": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Polskie Radio PiK- 100.1 FM",
+       "url": "http://stream.radiopik.pl:9006",
+       "tags": [
+        "easy_listening",
+        "pop_hits"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Scottish Gaelic": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "BBC Radio nan Gàidheal",
+       "url": "http://lstn.lv/bbc.m3u8?station=bbc_radio_nan_gaidheal&bitrate=320000?n=b8eec15bc23c8933ebb9",
+       "country_inferred": true
+      }
+     ]
+    }
+   }
+  },
+  "Swahili": {
+   "count": 1,
+   "genres": {
+    "sports": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Chill Sounds",
+       "url": "https://stream.zeno.fm/t0ezq8wduuhvv"
+      }
+     ]
+    }
+   }
+  },
+  "Arabic": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "ChillStation",
+       "url": "https://stream.zeno.fm/3p3xmxbd468uv"
+      }
+     ]
+    }
+   }
+  },
+  "Belarusian": {
+   "count": 1,
+   "genres": {
+    "world": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "raymanins",
+       "url": "https://stream.zeno.fm/ahjmphnx6sxuv",
+       "tags": [
+        "college_community",
+        "world"
+       ]
+      }
+     ]
+    }
+   }
+  }
+ }
+}

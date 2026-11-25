@@ -1,0 +1,487 @@
+{
+ "country": "Tajikistan",
+ "count": 48,
+ "languages": {
+  "Persian": {
+   "count": 39,
+   "genres": {
+    "chillout_lounge": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Радио Ховар 101.5 FM",
+       "url": "http://193.124.66.132:8001/live",
+       "tags": [
+        "chillout_lounge",
+        "world"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "classical": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Dunyo FM radio",
+       "url": "http://162.210.196.142:8950/stream.nsv",
+       "tags": [
+        "classical",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Муштари ФМ radio",
+       "url": "https://c30.radioboss.fm/stream/132",
+       "language_inferred": true
+      }
+     ]
+    },
+    "decade_80s": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Канд FM Listen live",
+       "url": "https://c24.radioboss.fm:18166/stream",
+       "tags": [
+        "pop_hits",
+        "decade_80s"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Love Radio 88.8 FM",
+       "url": "https://c22.radioboss.fm:18077/stream",
+       "tags": [
+        "easy_listening",
+        "folk",
+        "pop_hits",
+        "disco_eurodance"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "electronic": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Asia Plus",
+       "url": "http://62.122.137.82:8020/ap",
+       "tags": [
+        "electronic",
+        "folk",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "folk": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Radio Star Live",
+       "url": "http://199.15.251.190:8010/stream",
+       "tags": [
+        "folk",
+        "pop_hits",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Новое Радио radio",
+       "url": "https://c13.radioboss.fm:8549/stream",
+       "tags": [
+        "folk",
+        "world",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Радиои Аврупои Точикистон",
+       "url": "http://stream.radiojar.com/mn1ukbapn3quv",
+       "tags": [
+        "college_community",
+        "folk"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 6,
+     "stations": [
+      {
+       "name": "Kand FM",
+       "url": "https://myradio24.org/tamish",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "classical",
+        "disco_eurodance"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Hamsado",
+       "url": "https://c32.radioboss.fm/stream/192",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Vatan radio",
+       "url": "http://95.142.83.233:8000/sr128",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Авторадио Таджикистан radio",
+       "url": "https://c22.radioboss.fm/stream/347",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Радио Азия Плюс radio",
+       "url": "https://eu.asiaplusradio.tj:8443/ap",
+       "tags": [
+        "news_talk",
+        "folk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Радио Пайванд",
+       "url": "https://c6.radioboss.fm/stream/234",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "classical",
+        "disco_eurodance",
+        "oldies",
+        "electronic"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Remember the Music FM 96.6 Listen live",
+       "url": "https://eu1.lhdserver.es:9041/server",
+       "language_inferred": true
+      }
+     ]
+    },
+    "rock": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "Radio Lib' Listen live",
+       "url": "https://manager6.streamradio.fr:2355/server",
+       "tags": [
+        "rock",
+        "chillout_lounge",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Web Bonne Nouvelle Listen live",
+       "url": "https://manager2.creativradio.com:1785/server",
+       "tags": [
+        "rock",
+        "easy_listening",
+        "classical"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "TINO",
+       "url": "https://stream.laut.fm/tino?ref=radiode",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "schlager_polka",
+        "techno",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Радио Садои Хучанд radio",
+       "url": "https://misato.ru-hoster.com:8038/stream",
+       "tags": [
+        "rock",
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "soul_rnb_funk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Love Radio Tj 88.8 FM Listen live",
+       "url": "https://c22.radioboss.fm:18077/server",
+       "tags": [
+        "pop_hits",
+        "soul_rnb_funk"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "various_eclectic": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Ohang FM",
+       "url": "https://str.pcradio.ru/ohang_1077-med",
+       "language_inferred": true
+      }
+     ]
+    },
+    "world": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "ASIA Plus",
+       "url": "https://radio.migrantnews.info/ap"
+      },
+      {
+       "name": "Радио ДИЁР",
+       "url": "http://s2.radioboss.fm:8066/stream.nsv",
+       "tags": [
+        "world",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 15,
+     "stations": [
+      {
+       "name": "ASIA-Plus 107 FM",
+       "url": "https://c6.radioboss.fm:18234/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Kand FM",
+       "url": "http://162.210.196.140:15460/",
+       "language_inferred": true
+      },
+      {
+       "name": "Nesaganam.com – TJ",
+       "url": "http://fastcast.gbcast.com.au:5206/",
+       "language_inferred": true
+      },
+      {
+       "name": "novoe-radio",
+       "url": "http://eu4.radioboss.fm:8042/,1",
+       "language_inferred": true
+      },
+      {
+       "name": "Ozodi",
+       "url": "http://rfe-channel-09.akacast.akamaistream.net/7/872/229659/v1/ibb.akacast.akamaistream.net/rfe_channel_09"
+      },
+      {
+       "name": "Persys Persian",
+       "url": "https://stream.zeno.fm/n0ef2qc6af9uv"
+      },
+      {
+       "name": "Radio Free Tajikistan",
+       "url": "https://stream.zeno.fm/92kpfq0kdc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Hamsado",
+       "url": "http://85.25.237.157:8069/live",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Ohang FM – Dushanbe – TJ",
+       "url": "http://free.radioheart.ru:8000/navohang",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Tiroz – Dushanbe – TJ",
+       "url": "https://eu1.fastcast4u.com/proxy/khusrav/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "radio-tiroz",
+       "url": "http://s5.radioboss.fm:8440/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radioi Ozodi",
+       "url": "https://stream.zeno.fm/97czx5ncec9uv"
+      },
+      {
+       "name": "Tamish",
+       "url": "https://listen7.myradio24.com/tamish?n=534b482bde45aad303ec",
+       "language_inferred": true
+      },
+      {
+       "name": "Радио Тироз",
+       "url": "https://c30.radioboss.fm:18230/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Ҷавонӣ ФМ",
+       "url": "https://freeus1.listen2myradio.com/live.mp3?typeportmount=s1_12236_stream",
+       "language_inferred": true
+      }
+     ]
+    }
+   }
+  },
+  "Russian": {
+   "count": 4,
+   "genres": {
+    "college_community": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "TechMe",
+       "url": "https://stream.zeno.fm/nf696sgdyxhvv"
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Диёр",
+       "url": "https://c16.radioboss.fm:18234/stream"
+      }
+     ]
+    },
+    "world": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Радио Ватан",
+       "url": "http://217.11.177.201:8000/sr128",
+       "tags": [
+        "world",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Tiroz 103.7",
+       "url": "http://eu1.fastcast4u.com:21608/stream"
+      }
+     ]
+    }
+   }
+  },
+  "Tajik": {
+   "count": 2,
+   "genres": {
+    "news_talk": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Asia Plus Radio",
+       "url": "http://eu.asiaplusradio.tj:8020/Asia-Plus-128.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Khovar",
+       "url": "https://radio.khovar.tj/live",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Multilingual": {
+   "count": 1,
+   "genres": {
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Free Tajikistan radio",
+       "url": "http://rfe-channel-09.akacast.akamaistream.net/7/872/229659/v1/ibb.akacast.akamaistream.net/rfe_channel_09.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "college_community"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Romanian": {
+   "count": 1,
+   "genres": {
+    "folk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Star U.S.A.",
+       "url": "http://199.15.251.190:8010/",
+       "tags": [
+        "electronic",
+        "folk",
+        "pop_hits"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "English": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Tzgospel swahili",
+       "url": "https://stream.zeno.fm/ae9c85xvcfhvv"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

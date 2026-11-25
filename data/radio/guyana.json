@@ -1,0 +1,862 @@
+{
+ "country": "Guyana",
+ "count": 106,
+ "languages": {
+  "English": {
+   "count": 101,
+   "genres": {
+    "alternative_indie": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "104.1 Guyana Lite FM radio",
+       "url": "https://stream.zeno.fm/hqe20xobg0ovv",
+       "tags": [
+        "rock",
+        "alternative_indie"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "bollywood_indian": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "CNS Radio",
+       "url": "http://equinox.shoutca.st:8056/stream"
+      },
+      {
+       "name": "Radio Guyana International",
+       "url": "https://halo.streamerr.co/radio/8030/radio.mp3",
+       "tags": [
+        "pop_hits",
+        "bollywood_indian",
+        "folk",
+        "reggae_ska"
+       ]
+      }
+     ]
+    },
+    "christian_gospel": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "93.1 Real FM",
+       "url": "http://ic.streann.com:8000/RealFm",
+       "tags": [
+        "christian_gospel",
+        "various_eclectic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "GiaphdRadioMinistry247",
+       "url": "http://streaming.radio.co/s450b85d2d/listen",
+       "tags": [
+        "christian_gospel",
+        "classical",
+        "news_talk",
+        "house",
+        "kids"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Pepperpot Radio",
+       "url": "http://streaming.radio.co:80/sca6c5aded/listen",
+       "tags": [
+        "christian_gospel",
+        "reggae_ska",
+        "soul_rnb_funk",
+        "folk",
+        "hip_hop_rap",
+        "bollywood_indian",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "classical": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Bhajans Radio Guyana",
+       "url": "https://listen.radionomy.com/bhajansradioguyana.m3u",
+       "tags": [
+        "classical",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "country": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Tdkradioguyana",
+       "url": "http://tampa.audio-stream.com:8047/index.h",
+       "tags": [
+        "country",
+        "classical",
+        "world",
+        "reggae_ska",
+        "soul_rnb_funk",
+        "rock",
+        "house",
+        "electronic",
+        "drum_and_bass",
+        "kids",
+        "news_talk",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "Hot FM",
+       "url": "http://198.27.80.205:5266/live",
+       "tags": [
+        "easy_listening",
+        "world"
+       ]
+      },
+      {
+       "name": "Kaieteur Radio",
+       "url": "https://streamingv2.shoutcast.com/kaieteur-radio-guyana",
+       "tags": [
+        "easy_listening",
+        "world"
+       ]
+      },
+      {
+       "name": "Mega 102.1 FM",
+       "url": "https://streamingv2.shoutcast.com/mega-1021-fm",
+       "tags": [
+        "easy_listening",
+        "christian_gospel",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "RTL2 Dom",
+       "url": "http://radio-shoutcast.cyber-streaming.com:8090/stream.mp3",
+       "language_inferred": true
+      }
+     ]
+    },
+    "electronic": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "TRACE FM radio",
+       "url": "https://stream.rcs.revma.com/nxvafk744k0uv",
+       "tags": [
+        "pop_hits",
+        "electronic"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "folk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Mix 90.1 FM radio",
+       "url": "https://audio-edge-5bkfj.fra.h.radiomast.io/aa758625-6c37-4a31-8262-b2bf84bbe17f",
+       "tags": [
+        "pop_hits",
+        "folk",
+        "world"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "hip_hop_rap": {
+     "count": 5,
+     "stations": [
+      {
+       "name": "Boom FM",
+       "url": "http://192.99.8.192:3630/1/",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "hip_hop_rap"
+       ]
+      },
+      {
+       "name": "BoomFM",
+       "url": "http://192.99.8.192:3630/",
+       "language_inferred": true
+      },
+      {
+       "name": "GTriddim Guyana Radio",
+       "url": "http://www.gtriddim.net:8080",
+       "tags": [
+        "hip_hop_rap",
+        "reggae_ska",
+        "latin",
+        "college_community",
+        "electronic",
+        "pop_hits",
+        "folk",
+        "soul_rnb_funk"
+       ]
+      },
+      {
+       "name": "GTriddim Guyana Radio",
+       "url": "http://www.gtriddim.net:8080/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "HJ 94.1 Boom FM",
+       "url": "http://192.99.8.192:3630/stream",
+       "tags": [
+        "pop_hits",
+        "hip_hop_rap",
+        "soul_rnb_funk",
+        "easy_listening",
+        "rock",
+        "latin",
+        "news_talk",
+        "folk",
+        "electronic",
+        "reggae_ska"
+       ]
+      }
+     ]
+    },
+    "latin": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "92 Real Online Radio",
+       "url": "https://stream.zenolive.com/0hh8g2cpbq8uv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 7,
+     "stations": [
+      {
+       "name": "96.1 Voice FM",
+       "url": "https://stream.radiojar.com/ac81a4b0ufeuv",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Boom FM 94.1 radio",
+       "url": "https://stream.zeno.fm/mzbqdeylbxfuv",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "electronic",
+        "soul_rnb_funk",
+        "hip_hop_rap",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "NCN VYBZ",
+       "url": "https://usa4.fastcast4u.com/proxy/ncn1001?mp=/"
+      },
+      {
+       "name": "News-Talk Radio Guyana",
+       "url": "http://s3.voscast.com:9138"
+      },
+      {
+       "name": "NTN Radio",
+       "url": "https://auds1.intacs.com/ntnradio",
+       "tags": [
+        "news_talk",
+        "folk",
+        "bollywood_indian",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Voice of Guyana",
+       "url": "https://cast4.my-control-panel.com/proxy/ncn1025/stream",
+       "tags": [
+        "news_talk",
+        "world",
+        "folk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Voice Of Guyana",
+       "url": "http://198.27.80.205:5728/live"
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 7,
+     "stations": [
+      {
+       "name": "104.1 Guyana Lite FM",
+       "url": "https://stream.radiojar.com/nh42m158d4duv",
+       "tags": [
+        "pop_hits",
+        "easy_listening",
+        "rock",
+        "alternative_indie"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Benschop Radio",
+       "url": "https://s2.radio.co/sc5e086b65/listen"
+      },
+      {
+       "name": "Foreign Link Radio",
+       "url": "http://87.98.219.178:8460/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Guyana International",
+       "url": "https://radioguyana.radioca.st/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Sud International Listen live",
+       "url": "https://daniel.torontocast.com:1635/server",
+       "tags": [
+        "pop_hits",
+        "electronic",
+        "decade_90s"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Real FM",
+       "url": "https://ic.streann.com/RealFm",
+       "language_inferred": true
+      },
+      {
+       "name": "RTL 2 Guadeloupe",
+       "url": "http://radio-shoutcast.cyber-streaming.com:8090/",
+       "tags": [
+        "pop_hits",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "reggae_ska": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "MAAD 97.5 FM",
+       "url": "http://streaming.broadcastradio.com:8870/maad975fm",
+       "tags": [
+        "reggae_ska",
+        "folk",
+        "world"
+       ]
+      },
+      {
+       "name": "Radio Guyana International",
+       "url": "http://51.15.152.81:8905/stream",
+       "tags": [
+        "pop_hits",
+        "various_eclectic",
+        "reggae_ska",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Radio Guyana International radio",
+       "url": "https://a6.asurahosting.com:7940/radio.mp3",
+       "tags": [
+        "pop_hits",
+        "reggae_ska",
+        "folk",
+        "bollywood_indian"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Vibz 100.1 FM",
+       "url": "http://198.27.80.205:5468/live"
+      }
+     ]
+    },
+    "rock": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "104.1 Guyana Lite FM",
+       "url": "http://n01.radiojar.com/nh42m158d4duv",
+       "tags": [
+        "easy_listening",
+        "oldies",
+        "rock"
+       ]
+      },
+      {
+       "name": "Little Rock Radio",
+       "url": "https://us4.listen2myradio.com:2199/tunein/eoutbyhl.pls"
+      }
+     ]
+    },
+    "soul_rnb_funk": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "96.1 Voice FM",
+       "url": "https://s4.radio.co/s75af666f2/listen",
+       "tags": [
+        "soul_rnb_funk",
+        "christian_gospel",
+        "reggae_ska",
+        "pop_hits",
+        "hip_hop_rap",
+        "world",
+        "jazz",
+        "electronic",
+        "latin"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "GTriddim Guyana Radio",
+       "url": "http://158.69.211.205:8080/",
+       "tags": [
+        "soul_rnb_funk",
+        "hip_hop_rap",
+        "latin",
+        "reggae_ska"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Guyana Inc.",
+       "url": "https://stream.radio.co/s9668e2ab5/listen",
+       "tags": [
+        "soul_rnb_funk",
+        "hip_hop_rap",
+        "bollywood_indian",
+        "reggae_ska",
+        "easy_listening",
+        "folk",
+        "news_talk",
+        "latin",
+        "electronic",
+        "pop_hits",
+        "world"
+       ]
+      }
+     ]
+    },
+    "various_eclectic": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Freedom Radio",
+       "url": "http://s5.voscast.com:10112/stream1/",
+       "tags": [
+        "various_eclectic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Kaietuer News Radio",
+       "url": "http://listen.shoutcast.com/kaieteurradioguyana"
+      }
+     ]
+    },
+    "world": {
+     "count": 7,
+     "stations": [
+      {
+       "name": "Guyana Chunes Abee Radio",
+       "url": "http://167.114.157.212:8366/listen.pls",
+       "language_inferred": true
+      },
+      {
+       "name": "Mix 90.1",
+       "url": "https://www.radiomast.io/stream/aa758625-6c37-4a31-8262-b2bf84bbe17f/listen",
+       "tags": [
+        "world",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Mix 90.1 FM",
+       "url": "http://media.guardian.co.tt:8000/iradiogy",
+       "tags": [
+        "pop_hits",
+        "world"
+       ]
+      },
+      {
+       "name": "NCN Hot FM",
+       "url": "https://cast4.my-control-panel.com/proxy/ncn981/stream",
+       "tags": [
+        "pop_hits",
+        "world",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Guyana International",
+       "url": "https://halo.streamerr.co/listen/radioguyana/radio.mp3",
+       "tags": [
+        "decade_80s",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Guyana International",
+       "url": "https://radioguyana.radioca.st/stream.mp3",
+       "tags": [
+        "world",
+        "bollywood_indian",
+        "reggae_ska"
+       ]
+      },
+      {
+       "name": "The Voice Note Files Radio (TVNF)",
+       "url": "https://stream.zeno.fm/qu958tsgd2zuv",
+       "tags": [
+        "news_talk",
+        "kids",
+        "pop_hits",
+        "world"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 49,
+     "stations": [
+      {
+       "name": "100.1 FRESH FM",
+       "url": "http://usa12.fastcast4u.com/proxy/100freshfm?mp=/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "100.1 Fresh FM",
+       "url": "http://198.27.80.205:5468/"
+      },
+      {
+       "name": "100.1 Fresh FM – 100.1 FM – Georgetown – GY-DE",
+       "url": "https://usa4.fastcast4u.com/proxy/ncn1001",
+       "language_inferred": true
+      },
+      {
+       "name": "102.1 Jams",
+       "url": "https://stream.zeno.fm/ttv07ctqzhhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "104.1 Guyana Lite FM",
+       "url": "http://n01.radiojar.com/nh42m158d4duv?rj-ttl=5&amprj-tok=AAABekc-b9UAFQ44ukOO1cR8_w",
+       "language_inferred": true
+      },
+      {
+       "name": "104.1 Guyana Lite FM – 104.1 FM – Georgetown – GY-DE",
+       "url": "http://stream.radiojar.com/nh42m158d4duv.pls",
+       "language_inferred": true
+      },
+      {
+       "name": "104.3 Power FM",
+       "url": "http://192.99.17.12:6142/"
+      },
+      {
+       "name": "1gvprak",
+       "url": "https://stream.zeno.fm/7g51xbrr538uv",
+       "language_inferred": true
+      },
+      {
+       "name": "98.1 Hot FM",
+       "url": "http://198.27.83.198/proxy/ncn981?mp=/stream/1&amplistening-from-radio-garden=1616319155715",
+       "language_inferred": true
+      },
+      {
+       "name": "Boom FM",
+       "url": "https://stream.zeno.fm/vkrastsqmjzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Brogad Entertianment",
+       "url": "https://stream.zeno.fm/0nxchjx8kvptv",
+       "language_inferred": true
+      },
+      {
+       "name": "CK-One-World-Radio",
+       "url": "https://stream.zeno.fm/ynmas2xqxynvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Coalition Radio",
+       "url": "https://stream.zeno.fm/wcv5rsnmh5zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Coucheez",
+       "url": "https://stream.zeno.fm/qtoxhrfqummvv",
+       "language_inferred": true
+      },
+      {
+       "name": "GT Gold Radio",
+       "url": "https://stream.zeno.fm/a2vz0bra6f8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "GTriddim Radio",
+       "url": "http://gtriddim.net:8080/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Hip and hop jams",
+       "url": "https://stream.zeno.fm/tgum4c9u6whvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hot FM – 98.1 FM – Georgetown – GY-DE",
+       "url": "https://usa4.fastcast4u.com/proxy/ncn981",
+       "language_inferred": true
+      },
+      {
+       "name": "ICM RADIO",
+       "url": "https://stream.zeno.fm/pzwr2e3bqm0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "iradio Mix 90.1 FM – 90.1 FM – Georgetown – GY-DE",
+       "url": "https://streams.radiomast.io/aa758625-6c37-4a31-8262-b2bf84bbe17f",
+       "language_inferred": true
+      },
+      {
+       "name": "Kaieteur Radio 99.1 FM – 99.1 FM – Georgetown – GY-DE",
+       "url": "https://audio-edge-es6pf.mia.g.radiomast.io/926713f0-ef2c-4bfb-bb16-16d13281dc00",
+       "language_inferred": true
+      },
+      {
+       "name": "LAWEST",
+       "url": "https://stream.zeno.fm/p0nso3476urvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Lock It Off Sound System Radio",
+       "url": "https://s9.yesstreaming.net:17073/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Massive FX Radio – Linden – GY-UD",
+       "url": "https://edge.mixlr.com/channel/dmcfd",
+       "language_inferred": true
+      },
+      {
+       "name": "Mix 90.1",
+       "url": "https://stream.zeno.fm/o3uecn60jxbvv",
+       "language_inferred": true
+      },
+      {
+       "name": "musica para el corazon",
+       "url": "https://stream.zeno.fm/n47bd77c6ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Naskah Drama Cerita Rakyat Bahasa Jawa",
+       "url": "https://stream.zeno.fm/n6gfl6lyakzvv",
+       "language_inferred": true
+      },
+      {
+       "name": "NCN VYBZ",
+       "url": "https://cast4.asurahosting.com/proxy/ncn1001/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "New Sounds For Life Radio",
+       "url": "https://stream.zeno.fm/knptpkyugm8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "NTN Radio",
+       "url": "http://audiovs.intacs.com:80/ntnradio",
+       "language_inferred": true
+      },
+      {
+       "name": "Ouest FM Guiana",
+       "url": "http://srv2.streaming-ingenierie.fr:8162/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Power 104.3 FM",
+       "url": "http://usa7.fastcast4u.com:6142/stream"
+      },
+      {
+       "name": "Praise592",
+       "url": "https://stream.zeno.fm/a75htq62kfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Bartica 95.1 FM",
+       "url": "http://198.27.80.205:5012/listen.pls?sid=1"
+      },
+      {
+       "name": "Radio Chicama",
+       "url": "https://stream.zeno.fm/dug0vubf698uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO GMD76",
+       "url": "https://stream.zeno.fm/2mew051pam0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Guyana",
+       "url": "http://titan.shoutca.st:8905/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Guyana Inc",
+       "url": "https://stream.zeno.fm/21yv0bsszetuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio luz Guyana",
+       "url": "https://stream.zeno.fm/skv95947af9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Tele Espoir",
+       "url": "https://stream.zeno.fm/7d8yx4pahg8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RadioActiv",
+       "url": "https://stream.zeno.fm/78d5n3xefphvv",
+       "language_inferred": true
+      },
+      {
+       "name": "TDK RADIO GUYANA",
+       "url": "http://96.31.83.86:8126/",
+       "language_inferred": true
+      },
+      {
+       "name": "TDK RADIO GUYANA – Linden – GY-UD",
+       "url": "http://tampa.audio-stream.com:8047/",
+       "language_inferred": true
+      },
+      {
+       "name": "Tzgospel swahili",
+       "url": "https://stream.zeno.fm/6n77bec7kfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "UITVLUGT Family Fm Station",
+       "url": "https://stream.zeno.fm/0ut6mbu2wuhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "VIP Radio",
+       "url": "http://vip128.streaming.rs:8110/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "VOICE FM  BANGING STATION",
+       "url": "https://stream.zeno.fm/grxkegah308uv",
+       "language_inferred": true
+      },
+      {
+       "name": "VOICE OF GUYANA 102.5FM",
+       "url": "http://198.27.83.198/proxy/ncn1025?mp=/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "WESTSIDE RADIO",
+       "url": "https://stream.zeno.fm/9f59emxtcphvv",
+       "language_inferred": true
+      }
+     ]
+    }
+   }
+  },
+  "French": {
+   "count": 3,
+   "genres": {
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Guyane 1Ere",
+       "url": "http://radios.la1ere.fr/guyane"
+      }
+     ]
+    },
+    "oldies": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Nostalgie Guyane",
+       "url": "http://2stream.dyndns.org/nostalgieguy",
+       "tags": [
+        "oldies",
+        "latin"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Lumiere Guyane",
+       "url": "https://stream.zeno.fm/pa9v6dfnachvv"
+      }
+     ]
+    }
+   }
+  },
+  "Multilingual": {
+   "count": 1,
+   "genres": {
+    "christian_gospel": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Bhajans Radio Guyana",
+       "url": "https://s5.citrus3.com:8148/stream",
+       "tags": [
+        "christian_gospel",
+        "easy_listening",
+        "various_eclectic"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Spanish": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "CANCA DIGITAL",
+       "url": "https://stream.zeno.fm/sbek96wh2p8uv"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

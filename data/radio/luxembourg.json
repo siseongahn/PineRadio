@@ -1,0 +1,2546 @@
+{
+ "country": "Luxembourg",
+ "count": 304,
+ "languages": {
+  "Luxembourgish": {
+   "count": 231,
+   "genres": {
+    "alternative_indie": {
+     "count": 13,
+     "stations": [
+      {
+       "name": "ASBL Crazy Poisons Radio International",
+       "url": "http://eu.radioboss.fm:8096/stream/1/",
+       "tags": [
+        "rock",
+        "alternative_indie"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Eldoradio - Alternative Channel",
+       "url": "http://sc-alternative.eldoradio.lu/listen.pls"
+      },
+      {
+       "name": "EldoRadio Alternative",
+       "url": "https://shoutcast.rtl.lu/eldoalt"
+      },
+      {
+       "name": "EldoRadio Alternative",
+       "url": "http://sc-alternative.eldoradio.lu:80/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "Eldoradio Alternative",
+       "url": "http://sc-eldoalt.newmedia.lu/"
+      },
+      {
+       "name": "EldoRadio Alternative",
+       "url": "http://shoutcast.rtl.lu/eldoaltstream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "Jam Pro Piano Bar",
+       "url": "http://listen.radionomy.com/JamPRO-PianoBar",
+       "tags": [
+        "classical",
+        "alternative_indie"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio ARA",
+       "url": "http://rs1.radiostreamer.com:8030/stream.mp3",
+       "tags": [
+        "alternative_indie",
+        "country",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio ARA",
+       "url": "https://stream.pcradio.ru/ara_lu-med",
+       "tags": [
+        "rock",
+        "alternative_indie"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio C Luxembourg radio",
+       "url": "https://frontend.streamonkey.net/radioc-live",
+       "tags": [
+        "rock",
+        "alternative_indie"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "RetroSonic Alternative",
+       "url": "https://rsra.net:8030/alternative.mp3",
+       "tags": [
+        "alternative_indie",
+        "decade_80s",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "RetroSonic Alternative radio",
+       "url": "https://retrosonic.online:8030/alternative.mp3",
+       "tags": [
+        "rock",
+        "alternative_indie"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "RTL Today Radio",
+       "url": "https://shoutcast.rtl.lu/rtltodayradio",
+       "tags": [
+        "rock",
+        "pop_hits",
+        "alternative_indie"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      }
+     ]
+    },
+    "chillout_lounge": {
+     "count": 8,
+     "stations": [
+      {
+       "name": "Bitter Sweet Music LU",
+       "url": "https://sonicssl.namehost.ro/8520/stream.lu",
+       "language_inferred": true
+      },
+      {
+       "name": "Bitter Sweet Music LU radio",
+       "url": "http://91.121.236.34:8520/lu",
+       "tags": [
+        "chillout_lounge",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Eldo Radio Chill",
+       "url": "https://stream.rtl.lu/live/hls/radio/eldochill",
+       "tags": [
+        "chillout_lounge",
+        "ambient_relax"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Eldoradio",
+       "url": "http://81.92.238.33/",
+       "tags": [
+        "pop_hits",
+        "chillout_lounge",
+        "decade_80s",
+        "decade_90s",
+        "alternative_indie",
+        "oldies",
+        "electronic"
+       ]
+      },
+      {
+       "name": "Eldoradio - Chill Channel",
+       "url": "https://sc-chill.eldoradio.lu/listen.pls"
+      },
+      {
+       "name": "EldoRadio Chill",
+       "url": "https://shoutcast.rtl.lu/eldochill",
+       "language_inferred": true
+      },
+      {
+       "name": "Eldoradio Chill",
+       "url": "http://sc-eldochill.newmedia.lu/"
+      },
+      {
+       "name": "Eldoradio Chill",
+       "url": "https://live-edge.rtl.lu/radio/eldochill/playlist.m3u8",
+       "country_inferred": true,
+       "language_inferred": true
+      }
+     ]
+    },
+    "christian_gospel": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "NKRadio",
+       "url": "http://85.218.174.184:8000",
+       "language_inferred": true
+      }
+     ]
+    },
+    "classical": {
+     "count": 8,
+     "stations": [
+      {
+       "name": "FCE Continuo",
+       "url": "https://www.radioking.com/play/fce-continuo",
+       "tags": [
+        "classical",
+        "world",
+        "easy_listening",
+        "jazz"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Free Radio Luxembourg FRL",
+       "url": "https://www.radioking.com/play/rfm-luxembourg/137599",
+       "tags": [
+        "pop_hits",
+        "decade_70s",
+        "decade_80s",
+        "decade_90s",
+        "classical",
+        "rock",
+        "disco_eurodance",
+        "kids",
+        "decade_60s"
+       ]
+      },
+      {
+       "name": "Jam Pro Jazz",
+       "url": "http://listen.radionomy.com/JamPRO-Jazz",
+       "language_inferred": true
+      },
+      {
+       "name": "Opus 100,7",
+       "url": "https://100komma7--di--nacs-ice-01--02--cdn.cast.addradio.de/100komma7/opus/mp3/320/stream.mp3?n=5605dbf8355481489aae"
+      },
+      {
+       "name": "opus 100,7",
+       "url": "https://stream.opus.radio/100komma7/opus/mp3/320/stream.mp3?ar-distributor=f0b0",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 100 Komma",
+       "url": "http://streamserver.100komma7.lu:8000/",
+       "tags": [
+        "classical",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 100 Komma",
+       "url": "https://100komma7-ice-edge-1102-fra-eco-cdn.cast.addradio.de/100komma7/live/mp3/128/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Classique Bergem",
+       "url": "http://rcb.zapto.org:8000/mp3"
+      }
+     ]
+    },
+    "college_community": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Rom 106 FM",
+       "url": "http://rs1.radiostreamer.com:8270/stream.mp3",
+       "language_inferred": true
+      }
+     ]
+    },
+    "country": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Radio Gutt Laun",
+       "url": "http://rgl.selfip.net:8000"
+      },
+      {
+       "name": "RBV Luxembourg",
+       "url": "http://radio.rbv.lu:8002",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "country",
+        "rock",
+        "schlager_polka",
+        "oldies"
+       ]
+      }
+     ]
+    },
+    "decade_80s": {
+     "count": 6,
+     "stations": [
+      {
+       "name": "Air FM 24",
+       "url": "http://stream.airfm24.lu:8000/airfm24.mp3",
+       "tags": [
+        "decade_80s",
+        "decade_90s",
+        "decade_70s",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Eldoradio - 80's Channel",
+       "url": "https://sc-80s.eldoradio.lu/listen.pls"
+      },
+      {
+       "name": "Eldoradio 80s",
+       "url": "http://sc-alternative.eldoradio.lu:80/",
+       "tags": [
+        "pop_hits",
+        "decade_80s"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Eldoradio 80s",
+       "url": "http://sc-eldo80s.newmedia.lu/"
+      },
+      {
+       "name": "EldoRadio 80s",
+       "url": "http://sc-80s.eldoradio.lu:80/stream/1/",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Jeansgeneration",
+       "url": "https://listen.radioking.com/radio/301645/stream/348328",
+       "tags": [
+        "decade_80s",
+        "decade_70s",
+        "decade_90s",
+        "oldies",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "decade_90s": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "EldoRadio 90s",
+       "url": "https://shoutcast.rtl.lu/eldo90s",
+       "bitrate": 256,
+       "logo": "http://radio.pervii.com/im/2/1555241792.jpg",
+       "language_inferred": true
+      }
+     ]
+    },
+    "disco_eurodance": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Free Radio Luxembourg (FRL)",
+       "url": "http://www.radioking.com/play/rfm-luxembourg",
+       "tags": [
+        "decade_70s",
+        "disco_eurodance",
+        "electronic",
+        "pop_hits",
+        "decade_80s"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Lusa",
+       "url": "http://176.9.88.190:9286/",
+       "tags": [
+        "electronic",
+        "disco_eurodance",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Rosengarten radio",
+       "url": "http://frontend.streamonkey.net/radiorosengarten-live",
+       "tags": [
+        "disco_eurodance",
+        "electronic",
+        "soul_rnb_funk",
+        "pop_hits",
+        "house",
+        "hip_hop_rap",
+        "jazz"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 10,
+     "stations": [
+      {
+       "name": "Eldoradio Alternative",
+       "url": "http://sc-alternative.eldoradio.lu:80/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio LRB",
+       "url": "http://zeus.lrb.lu:8000/lrb.live",
+       "tags": [
+        "pop_hits",
+        "easy_listening",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Radio Mess",
+       "url": "http://212.83.172.22/radio/25747/stream/58471",
+       "tags": [
+        "pop_hits",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Sympa",
+       "url": "http://www.radiocampusparis.org:8000/stream_rcp/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "RTBF VivaCité Luxembourg",
+       "url": "https://radios.rtbf.be/vivalux-128.mp3",
+       "tags": [
+        "easy_listening",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "RTBF VivaCité Luxembourg",
+       "url": "https://radio.rtbf.be/viva-lux/mp3-160/mt",
+       "language_inferred": true
+      },
+      {
+       "name": "RTL Radio",
+       "url": "https://rtlberlin.streamabc.net/rtlb-rtldenational-mp3-128-2770113?sABC=6002ns7s%230%2339845qns2n74309493on2n0734q787rq%23xbafbyr&ampcontext=fHA6LTE=&ampamsparams=playerid:konsoleskey:1610788735",
+       "language_inferred": true
+      },
+      {
+       "name": "RTL Radio - Luxembourg",
+       "url": "https://www.liveradio.es/http://sc-rtllive.newmedia.lu:80/stream/1",
+       "tags": [
+        "easy_listening",
+        "oldies"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "RTL Radio 93.3",
+       "url": "http://rtldtl.hoerradar.de/rtldtl-national-mp3-128",
+       "tags": [
+        "easy_listening",
+        "oldies"
+       ]
+      },
+      {
+       "name": "RTL Radio Lëtzebuerg",
+       "url": "http://81.92.238.32:/",
+       "language_inferred": true
+      }
+     ]
+    },
+    "electronic": {
+     "count": 9,
+     "stations": [
+      {
+       "name": "Eldoradio",
+       "url": "http://sc-eldolive.newmedia.lu/",
+       "language_inferred": true
+      },
+      {
+       "name": "Eldoradio radio",
+       "url": "https://live-edge.rtl.lu/eldotv/smil:eldotv.smil/720p.m3u8",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Jam Pro Electronica",
+       "url": "http://listen.radionomy.com/JamPRO-Electronica",
+       "language_inferred": true
+      },
+      {
+       "name": "Jam Pro Fashion",
+       "url": "http://listen.radionomy.com/JamPRO-Fashion",
+       "language_inferred": true
+      },
+      {
+       "name": "Jam Pro Groove and Dance Pop",
+       "url": "http://listen.radionomy.com/JamPRO-Groove-DancePop",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Jam Pro Rhythm",
+       "url": "http://listen.radionomy.com/JamPRO-Rhythm",
+       "language_inferred": true
+      },
+      {
+       "name": "Lounge radio",
+       "url": "https://live-edge.rtl.lu/radio/eldo/playlist.m3u8",
+       "tags": [
+        "electronic",
+        "chillout_lounge",
+        "rock"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "ROM 106.5 FM radio",
+       "url": "http://rs1.radiostreamer.com:8270/stream.nsv",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "RTL Radio - Party Listen live",
+       "url": "https://rtlberlin.streamabc.net/rtlb-rtlparty2-mp3-128-1083450",
+       "language_inferred": true
+      }
+     ]
+    },
+    "folk": {
+     "count": 5,
+     "stations": [
+      {
+       "name": "radio 100,7",
+       "url": "https://stream.100komma7.lu/100komma7/live/mp3/128/stream.mp3",
+       "tags": [
+        "easy_listening",
+        "folk"
+       ]
+      },
+      {
+       "name": "Radio Puls Luxembourg",
+       "url": "http://82.145.43.92/proxy/radiopul?mp=/stream",
+       "tags": [
+        "pop_hits",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Puls Luxembourg",
+       "url": "http://82.145.43.92:8312/listen.pls",
+       "language_inferred": true
+      },
+      {
+       "name": "RadioPuls radio",
+       "url": "https://cmr-hosting.com/8312/stream",
+       "tags": [
+        "folk",
+        "pop_hits",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio MCJ",
+       "url": "http://173.208.193.66:9998/stream.mp3"
+      }
+     ]
+    },
+    "hip_hop_rap": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Helix Radio",
+       "url": "http://51.255.235.165:5164/stream",
+       "tags": [
+        "hip_hop_rap",
+        "reggae_ska",
+        "soul_rnb_funk"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "house": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "InTheMix Radio",
+       "url": "http://cty.gocaster.net:8000/kfm_web",
+       "tags": [
+        "house",
+        "electronic"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "jazz": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "FCE Continuo",
+       "url": "https://listen.radioking.com/radio/551009/stream/610262",
+       "tags": [
+        "jazz",
+        "classical"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Groovetime",
+       "url": "http://kotdt.com:8000/groovetime?n=d9e91d4252d12f095c9c",
+       "tags": [
+        "soul_rnb_funk",
+        "electronic",
+        "jazz"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "radio 100,7",
+       "url": "http://213.166.52.107:8000",
+       "tags": [
+        "jazz",
+        "classical"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "RTL Gold",
+       "url": "https://shoutcast.rtl.lu/rtlgold",
+       "tags": [
+        "decade_70s",
+        "decade_80s",
+        "decade_90s",
+        "oldies",
+        "rock",
+        "jazz",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "kids": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "TOGGO Radio",
+       "url": "https://superrtl.streamabc.net/srtl-toggo-mp3-128-6356726",
+       "tags": [
+        "kids",
+        "pop_hits",
+        "hip_hop_rap"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "latin": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Radio Latina Lu",
+       "url": "https://ice.creacast.com/radio-latina-lu-mp3",
+       "tags": [
+        "latin",
+        "pop_hits",
+        "news_talk",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "RadioPortugalPeloMundo, Luxembourg radio",
+       "url": "https://s2.stmxp.net:7252/",
+       "tags": [
+        "pop_hits",
+        "latin"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 13,
+     "stations": [
+      {
+       "name": "Radio 100,7",
+       "url": "https://100komma7.cast.addradio.de/100komma7/live/mp3/128/stream.mp3",
+       "tags": [
+        "news_talk",
+        "classical",
+        "pop_hits",
+        "alternative_indie",
+        "easy_listening",
+        "various_eclectic",
+        "rock",
+        "blues"
+       ]
+      },
+      {
+       "name": "Radio 100,7",
+       "url": "https://stream.100komma7.lu/100komma7/live/mp3/320/stream.mp3",
+       "tags": [
+        "news_talk",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 100komma7",
+       "url": "http://100komma7.cast.addradio.de/100komma7/live/mp3/320/stream.mp3",
+       "tags": [
+        "news_talk",
+        "classical"
+       ]
+      },
+      {
+       "name": "Radio Aktiv",
+       "url": "http://stream.radioaktiv.org:8233/HiFi/stream.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Aktiv 106,5 - Echternach",
+       "url": "https://www.liveradio.es/http://zeus.lrb.lu:8000/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Ara radio",
+       "url": "http://s1.voscast.com:11186/RadioARA.mp3",
+       "tags": [
+        "news_talk",
+        "folk",
+        "pop_hits",
+        "college_community"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "RetroSonic Mix",
+       "url": "https://rsra.net:8000/mix.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "decade_80s",
+        "alternative_indie",
+        "oldies"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "RTL Luxemburg",
+       "url": "http://81.92.238.32/stream/1/",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "RTL Radio Letzebuerg",
+       "url": "http://sc-rtllive.newmedia.lu/",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "RTL Radio Letzebuerg 92.5 FM",
+       "url": "http://live.newmedia.lu:80/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "RTL Radio Lëtzebuerg",
+       "url": "https://shoutcast.rtl.lu/rtl",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "rock",
+        "sports",
+        "oldies"
+       ]
+      },
+      {
+       "name": "RTL Radio Lëtzebuerg",
+       "url": "http://sc-rtllive.newmedia.lu/stream.nvs",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Vivacite Luxembourg",
+       "url": "http://vivaciteluxembourg.ice.rtbf.be/vivalux-64.aac/stream.mp3",
+       "language_inferred": true
+      }
+     ]
+    },
+    "oldies": {
+     "count": 7,
+     "stations": [
+      {
+       "name": "Eldoradio - 25 Joer Chartbreaker",
+       "url": "https://shoutcast.rtl.lu/eldo25years",
+       "tags": [
+        "decade_90s",
+        "pop_hits",
+        "oldies"
+       ]
+      },
+      {
+       "name": "EldoRadio 80s - Luxembourg",
+       "url": "https://www.liveradio.es/http://81.92.238.33:80/",
+       "tags": [
+        "oldies",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "EldoRadio 80s Listen live",
+       "url": "https://shoutcast.rtl.lu/eldo80s",
+       "tags": [
+        "decade_80s",
+        "oldies",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 2-0-8",
+       "url": "https://stream.zeno.fm/3xzaqgvyk2zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "RetroSonic 100% Greatest 70s 80s",
+       "url": "https://rsra.net:8060/hits.mp3",
+       "tags": [
+        "oldies",
+        "decade_80s",
+        "electronic",
+        "rock",
+        "soul_rnb_funk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "RTL Radio 93.3 – 93.3 FM – Dudelange – Luxembourg – LU",
+       "url": "http://grundig.radiosetup.com/pls/pls32004.m3u",
+       "language_inferred": true
+      },
+      {
+       "name": "RTL Radio lu",
+       "url": "http://sc-rtllive.newmedia.lu/stream.mp3",
+       "tags": [
+        "oldies",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 33,
+     "stations": [
+      {
+       "name": "AIR FM 24",
+       "url": "http://stream.airfm24.lu:8000/airfm24.mp3?1520680245523",
+       "language_inferred": true
+      },
+      {
+       "name": "Antena Mais",
+       "url": "https://sp0.redeaudio.com/8084/stream",
+       "tags": [
+        "pop_hits",
+        "various_eclectic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Dream Stream",
+       "url": "http://listento.dreamstream.mobi/hits.mp3",
+       "tags": [
+        "pop_hits",
+        "decade_70s"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Eldoradio",
+       "url": "http://eldoradiolive.newmedia.lu/",
+       "tags": [
+        "pop_hits",
+        "decade_80s",
+        "college_community",
+        "rock"
+       ]
+      },
+      {
+       "name": "Eldoradio - Top 25 Channel",
+       "url": "http://sc-eldotop25.newmedia.lu/"
+      },
+      {
+       "name": "EldoRadio 105 FM",
+       "url": "http://eldoradiolive.newmedia.lu:80/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "Eldoradio 25 Joer Chartbreaker",
+       "url": "https://eldo-streaming.eldo.lu/radio/eldo25years/playlist.m3u8"
+      },
+      {
+       "name": "Eldoradio 25 Joer Chartbreaker",
+       "url": "https://live-edge.rtl.lu/radio/eldo25years/playlist.m3u8",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Eldoradio 80s",
+       "url": "https://eldo-streaming.eldo.lu/radio/eldo80s/playlist.m3u8"
+      },
+      {
+       "name": "Eldoradio 80s",
+       "url": "https://live-edge.rtl.lu/radio/eldo80s/playlist.m3u8",
+       "tags": [
+        "pop_hits",
+        "decade_80s"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Eldoradio 90s",
+       "url": "https://live-edge.rtl.lu/radio/eldo90s/playlist.m3u8",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "EldoRadio Chill - Luxembourg",
+       "url": "https://www.liveradio.es/http://sc-chill.eldoradio.lu:80/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "EldoRadio Live",
+       "url": "http://eldoradiolive.newmedia.lu:/",
+       "language_inferred": true
+      },
+      {
+       "name": "Eldoradio Top 25",
+       "url": "https://eldo-streaming.eldo.lu/radio/eldotop25/playlist.m3u8"
+      },
+      {
+       "name": "EldoRadio Top 25",
+       "url": "https://shoutcast.rtl.lu/eldotop25",
+       "language_inferred": true
+      },
+      {
+       "name": "Eldoradio Top 25",
+       "url": "http://sc-eldotop25.newmedia.lu/listen.pls"
+      },
+      {
+       "name": "Eldoradio TOP25",
+       "url": "https://live-edge.rtl.lu/radio/eldotop25/playlist.m3u8",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Free Radio Luxembourg",
+       "url": "https://listen.radioking.com/radio/66160/stream/137599",
+       "tags": [
+        "pop_hits",
+        "decade_70s",
+        "decade_80s",
+        "decade_90s",
+        "oldies",
+        "various_eclectic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "LUX Listen live",
+       "url": "https://stream.laut.fm/lux",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "folk",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "MUSIC RADIO 1",
+       "url": "https://carina.streamerr.co:8038/TheLateShow",
+       "language_inferred": true
+      },
+      {
+       "name": "Ni Haody",
+       "url": "https://nihaody.stream.laut.fm/ni_haody?t302=2018-04-05_11-52-53&uuid=10350c4f-cfb2-42c9-82dd-4d1cbbd58714",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Cents radio",
+       "url": "http://onairradio.dyndns.org:8000/stream.nsv",
+       "tags": [
+        "pop_hits",
+        "decade_2000s",
+        "rock",
+        "decade_70s",
+        "decade_80s",
+        "oldies",
+        "decade_90s"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Mess",
+       "url": "https://www.radioking.com/play/radio-mess"
+      },
+      {
+       "name": "Radio Pétange OnAir",
+       "url": "http://stream.petangeonair.lu:9000/live",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "easy_listening",
+        "rock",
+        "world"
+       ]
+      },
+      {
+       "name": "Radio RBV",
+       "url": "https://rbv.lu/radio/rbv/",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "RadioPortugalPeloMundo radio",
+       "url": "https://streamssl.hospedandosites.com.br/sc_rmp.php/",
+       "language_inferred": true
+      },
+      {
+       "name": "RBV Radio Belle Vallee",
+       "url": "http://radio.rbv.lu:8002/stream.mp3",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "oldies"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "RetroSonic Hits radio",
+       "url": "https://retrosonic.online:8060/hits.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "ROM 106.5 FM",
+       "url": "http://rs1.radiostreamer.com:8270",
+       "tags": [
+        "pop_hits",
+        "classical",
+        "news_talk",
+        "easy_listening",
+        "oldies",
+        "rock",
+        "various_eclectic",
+        "electronic",
+        "hip_hop_rap",
+        "kids"
+       ]
+      },
+      {
+       "name": "RTL Radio",
+       "url": "https://stream.rtlradio.de/rtl-de-national/mp3-128/konsole/",
+       "language_inferred": true
+      },
+      {
+       "name": "RTL Radio - DSDS Radio Listen live",
+       "url": "https://rtlberlin.streamabc.net/rtlb-dsds-mp3-128-4250633",
+       "tags": [
+        "pop_hits",
+        "rock"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "RTL Radio - UKW 93.3 & 97.0 Listen live",
+       "url": "https://rtlberlin.streamabc.net/rtlb-rtldeukw-mp3-128-2318218",
+       "language_inferred": true
+      },
+      {
+       "name": "Ràdio Rmg radio",
+       "url": "https://mixlr.com/r%C3%A1dio-rmg-loc/",
+       "language_inferred": true
+      }
+     ]
+    },
+    "rock": {
+     "count": 17,
+     "stations": [
+      {
+       "name": "Antenne Luxemburg",
+       "url": "http://streamplus52.leonex.de:11376/&type=mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Eldoradio Alternative",
+       "url": "https://eldo-streaming.eldo.lu/radio/eldoalt/playlist.m3u8"
+      },
+      {
+       "name": "F.G.L Free Radio Luxmbourg",
+       "url": "http://213.222.25.84:8326/stream",
+       "tags": [
+        "rock",
+        "disco_eurodance"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "party-beats-radio",
+       "url": "http://party-beats-radio.com:8000/",
+       "tags": [
+        "rock",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Aktiv",
+       "url": "http://zeus.lrb.lu:8000/stream",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "easy_listening",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Radio C Luxemburg",
+       "url": "https://stream.pcradio.ru/rad_rdclxmbrg-med",
+       "tags": [
+        "rock",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Cents",
+       "url": "http://onairradio.dyndns.org:8000/live",
+       "tags": [
+        "rock",
+        "oldies",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Cor Dos Teus Olhos",
+       "url": "https://sslradio.servsonic.com/8008/stream",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "easy_listening",
+        "blues"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Gutt Laun",
+       "url": "https://streams.radio.co/sa631ff66a/listen",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "schlager_polka",
+        "news_talk",
+        "world",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Radio LRB",
+       "url": "http://zeus.lrb.lu:8000/lrb.live?1553151972397",
+       "tags": [
+        "rock",
+        "easy_listening",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "RemixColor",
+       "url": "http://137.74.193.0:8000/stream",
+       "tags": [
+        "rock",
+        "latin",
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "RetroSonic Rock",
+       "url": "https://rsra.net:8070/rock.mp3",
+       "tags": [
+        "rock",
+        "alternative_indie",
+        "oldies",
+        "gothic_industrial",
+        "news_talk",
+        "blues",
+        "reggae_ska",
+        "punk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "RetroSonic Rock radio",
+       "url": "https://retrosonic.online:8070/rock.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "RFM Luxembourg",
+       "url": "http://listen.radionomy.com/rfmluxembourgagain",
+       "tags": [
+        "rock",
+        "disco_eurodance"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "RTL LX",
+       "url": "https://shoutcast.rtl.lu/rtllx",
+       "tags": [
+        "rock",
+        "pop_hits"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "RTL – Weihnachtsradio",
+       "url": "https://stream.104.6rtl.com/rtl-event/mp3-128/radiovolna/",
+       "tags": [
+        "pop_hits",
+        "rock"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio larochette",
+       "url": "https://stream.zeno.fm/4gcku833wwzuv",
+       "tags": [
+        "rock",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "soul_rnb_funk": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "RetroSonic Grooves",
+       "url": "https://rsra.net:8000/grooveshd.mp3",
+       "tags": [
+        "soul_rnb_funk",
+        "disco_eurodance",
+        "decade_70s",
+        "jazz"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "RetroSonic Grooves radio",
+       "url": "https://retrosonic.online:8010/grooves.mp3",
+       "tags": [
+        "soul_rnb_funk",
+        "jazz",
+        "disco_eurodance",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "soundtrack": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Tomo Ni Shoutcast",
+       "url": "http://r165.server.lu:8000/stream/1",
+       "country_inferred": true,
+       "language_inferred": true
+      }
+     ]
+    },
+    "trance_goa": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Liquid FM Radio",
+       "url": "https://br-br1-obb.sslcast.addradio.de/br/br1/obb/mp3/128/stream.mp3",
+       "tags": [
+        "news_talk",
+        "trance_goa"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "various_eclectic": {
+     "count": 7,
+     "stations": [
+      {
+       "name": "Antena Mais",
+       "url": "https://www.evsportugal.com/antenamais/player.php/mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Antena Mais – Esch-sur-Alzette – Luxembourg – LU",
+       "url": "http://95.217.75.38:9394/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Crazy Poisons Radio",
+       "url": "http://85.25.246.8:20720/",
+       "language_inferred": true
+      },
+      {
+       "name": "Lusitana 106.1 FM",
+       "url": "https://10.stmip.net/player_mp3.php?porta=10582",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Gutt Laun",
+       "url": "http://213.135.228.157:8000/mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Puls",
+       "url": "http://82.145.43.92:8312/stream/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "RemixColor",
+       "url": "http://137.74.193.0:8000/Title1=RemixColorLength1=-1Version=2",
+       "language_inferred": true
+      }
+     ]
+    },
+    "world": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Radio Puls Luxembourg",
+       "url": "https://uk1.listen2myradio.com:2199/listen.php?port=8312&amptype=s2&ampmount=/stream",
+       "tags": [
+        "world",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "RBV - Radio Belle Vallée",
+       "url": "http://radio.rbv.lu/listen.pls",
+       "country_inferred": true,
+       "language_inferred": true
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 72,
+     "stations": [
+      {
+       "name": "19-20 TIKTOK FM",
+       "url": "https://stream.zeno.fm/df9pkfqpc0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Antena + Radio",
+       "url": "http://rs2.ptservidor.com:8066/stream"
+      },
+      {
+       "name": "Antenne Luxemburg",
+       "url": "http://streamplus5.leonex.de:11376/"
+      },
+      {
+       "name": "Beatz Radio",
+       "url": "https://stream.zeno.fm/3cwz3namqd0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Bitter Sweet Music LU",
+       "url": "http://bittersweetmusic.24-7.ro:8520/lu",
+       "language_inferred": true
+      },
+      {
+       "name": "CCMI LUX",
+       "url": "https://stream.zeno.fm/ep8dp0pvrnhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Diddeleng",
+       "url": "https://stream.zeno.fm/vzktm30uvs8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "ECFAH LATINOAMERICA",
+       "url": "https://stream.zeno.fm/txpw5sn1zf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "EldoRadio",
+       "url": "https://live-edge.rtl.lu/eldotv/smil:eldotv.smil/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "EldoRadio 80s",
+       "url": "http://shoutcast.rtl.lu/eldo80sstream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "Eldoradio Chill",
+       "url": "http://shoutcast.rtl.lu/eldochill/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Eldoradio Chill",
+       "url": "https://eldo-streaming.eldo.lu/radio/eldochill/playlist.m3u8"
+      },
+      {
+       "name": "Eldoradio Chill",
+       "url": "http://sc-eldochill.newmedia.lu:80/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "EldoRadio Chill",
+       "url": "http://shoutcast.rtl.lu/eldochillstream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "European Council for Accreditation in Healthcare",
+       "url": "https://stream.zeno.fm/y4ez7240zf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Groovetime",
+       "url": "http://icecast.kotdt.com:8000/groovetime",
+       "language_inferred": true
+      },
+      {
+       "name": "HIGH FM",
+       "url": "https://stream.zeno.fm/khp9ex0pc0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Ice and Fire",
+       "url": "https://stream.zeno.fm/glhsnmgzgf4vv",
+       "language_inferred": true
+      },
+      {
+       "name": "Jam Pro",
+       "url": "http://listen.radionomy.com/JamPRO-WelcomeAsia?type=.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Jam Pro Ambiance Lounge",
+       "url": "http://listen.radionomy.com/JamPRO-AmbianceLounge",
+       "language_inferred": true
+      },
+      {
+       "name": "Jam Pro Classique",
+       "url": "http://listen.radionomy.com/JamPRO-Classique?type=.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Jam Pro Experience",
+       "url": "http://listen.radionomy.com/JamPRO-Experience?type=.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Jam Pro Fitness",
+       "url": "http://listen.radionomy.com/JamPRO-Fitness?type=.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Jam Pro Hot Rock",
+       "url": "http://listen.radionomy.com/JamPRO-HotRock?type=.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Jam Pro Parking",
+       "url": "http://listen.radionomy.com/JamPRO-Parking?type=.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Jam Pro Pop Rock",
+       "url": "http://listen.radionomy.com/JamPRO-PopRock?type=.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Jam Pro Romantique",
+       "url": "http://listen.radionomy.com/JamPRO-Romantique?type=.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Jam Pro Soleil",
+       "url": "http://listen.radionomy.com/JamPRO-Soleil?type=.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Jam Pro Tour du Monde",
+       "url": "http://listen.radionomy.com/JamPRO-TourduMonde",
+       "language_inferred": true
+      },
+      {
+       "name": "Jam Pro Trendy Soft",
+       "url": "http://listen.radionomy.com/JamPRO-TrendySoft?type=.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Jam Pro Zen",
+       "url": "http://listen.radionomy.com/JamPRO-Zen?type=.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Kirchberg FM",
+       "url": "https://stream.zeno.fm/hg43ee0bfwzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "LONDON -  Unknow Station",
+       "url": "https://stream.zeno.fm/hokcrlp8tmitv",
+       "language_inferred": true
+      },
+      {
+       "name": "mourizradio",
+       "url": "https://stream.zeno.fm/smdta52w9vzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Nostalgia FM",
+       "url": "https://stream.zeno.fm/y9xpgduv6whvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Npt ykn doggs",
+       "url": "https://stream.zeno.fm/c7two9eqxbluv",
+       "language_inferred": true
+      },
+      {
+       "name": "Positiva LUX WEB",
+       "url": "http://213.239.218.99:7134/"
+      },
+      {
+       "name": "Progressive FM – Luxembourg – LU",
+       "url": "http://stream.zeno.fm/xxmfpdaa7ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Progressive Melodic – Esch-sur-Alzette – Luxembourg – LU",
+       "url": "http://stream.zeno.fm/hlhchsujcoyuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 100,7",
+       "url": "http://stream2.100komma7.lu/100komma7/live/aac/48/stream.aac"
+      },
+      {
+       "name": "Radio 100,7 – 1007 AM – Luxembourg – LU",
+       "url": "http://stream2.100komma7.lu/100komma7/live/mp3/128/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 1007 FM",
+       "url": "https://100komma7-ice-edge-1105-fra-eco-cdn.cast.addradio.de/100komma7/live/mp3/128/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 4 Amigos",
+       "url": "https://node-34.zeno.fm/7r6rfa1nhuquv.aac?rj-tok=AAABcjuPePAAcLCrrkKusSKR_w&rj-token=AAABbHhP6E6Xf63L2hNXqIkH4TULhNPKfWwIlRAhzbTyffb5o3G32g&rj-ttl=3"
+      },
+      {
+       "name": "Radio Aktiv 106.5",
+       "url": "https://stream.pcradio.ru/aktiv_1065-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio C Luxembourg – Kehlen – Luxembourg – LU",
+       "url": "https://frontend.streamonkey.net/radioc-live?aggregator=mytuner",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Estereo Cristo Viene – Guatemala City – GT-GU",
+       "url": "http://freeuk21.listen2myradio.com:32866/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Larochete",
+       "url": "https://node-31.zeno.fm/4gcku833wwzuv?1596944685451=&amprj-tok=AAABc9FbS7kAuOyRuiC0tVAFqw&amprj-ttl=5",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Latina",
+       "url": "http://broadcast.infomaniak.net:80/start-latina-high.mp3?type=.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "radio lusa",
+       "url": "https://stream.zeno.fm/qhm6mggqbc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Lusitana radio",
+       "url": "https://11.stmip.net:8404/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Puls Luxembourg",
+       "url": "https://uk1.listen2myradio.com:2199/listen.php?port=8312&type=s2&mount=/stream?n=4089b022ad42ae82a548",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Rosengarten",
+       "url": "http://edge67.streamonkey.net/radiorosengarten-live",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Trance Passion | Luxemburg",
+       "url": "https://stream.zeno.fm/n18anfff6f8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Tsonami",
+       "url": "https://stream.zeno.fm/lklh3cf28s5tv?n=3f146e4fb3fa54fa080c",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Tugalux",
+       "url": "http://195.154.176.199:9328/",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO4AMIGOS",
+       "url": "https://stream.zeno.fm/7r6rfa1nhuquv",
+       "language_inferred": true
+      },
+      {
+       "name": "RadioARA",
+       "url": "https://stream.ara.lu/stream.mp3.pls"
+      },
+      {
+       "name": "RADIOFAYL",
+       "url": "https://stream.zeno.fm/eneaaq1z9lauv",
+       "language_inferred": true
+      },
+      {
+       "name": "RadioTegucigalpa live brazil",
+       "url": "https://stream2.svrdedicado.org/8182/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Rap station FM",
+       "url": "https://stream.zeno.fm/ftqetq3mr0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "RBV - Radio Belle Vallée",
+       "url": "http://radio.rbv.lu/"
+      },
+      {
+       "name": "RetroSonic Alternative",
+       "url": "http://rsra.net:8000/alternative.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Ridvan - راديو مناجات",
+       "url": "https://stream.zeno.fm/twrgy7tf0k8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RTL Gold – Luxembourg – LU",
+       "url": "https://rtlradio-streaming.rtl.lu/radio/rtlgold/aac_256k.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "RTL LX – Luxembourg – LU",
+       "url": "https://rtlradio-streaming.rtl.lu/radio/rtllx/aac_256k.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "RTL Radio - Deutschlands Hit-Radio",
+       "url": "http://stream.rtlradio.de/rtl-de-national/mp3-192/",
+       "language_inferred": true
+      },
+      {
+       "name": "RTL Radio Lëtzebuerg",
+       "url": "https://live-edge.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8"
+      },
+      {
+       "name": "RTL Schlagerliebe",
+       "url": "http://stream.rtlradio.de/schlagerliebe/mp3-192/",
+       "language_inferred": true
+      },
+      {
+       "name": "RTL Today Radio – Luxembourg – LU",
+       "url": "https://stream.rtl.lu/live/hls/radio/rtltodayradio",
+       "language_inferred": true
+      },
+      {
+       "name": "RustPhonk",
+       "url": "https://stream.zeno.fm/k8gfsxxnh48uv",
+       "language_inferred": true
+      },
+      {
+       "name": "StandAndDeliver",
+       "url": "https://stream.zeno.fm/us8dpsfqe5zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "WebRadio IBM",
+       "url": "https://stream.zeno.fm/mwtar7xko06uv",
+       "language_inferred": true
+      }
+     ]
+    }
+   }
+  },
+  "German": {
+   "count": 25,
+   "genres": {
+    "alternative_indie": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "EldoRadio Alternative",
+       "url": "http://sc-alternative.eldoradio.lu:80/stream"
+      },
+      {
+       "name": "Radio C Luxembourg",
+       "url": "https://edge02.streamonkey.net/radioc-live",
+       "tags": [
+        "alternative_indie",
+        "rock"
+       ]
+      }
+     ]
+    },
+    "blues": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "panachee",
+       "url": "http://panachee.stream.laut.fm/panachee",
+       "tags": [
+        "blues",
+        "jazz",
+        "ambient_relax",
+        "comedy",
+        "electronic",
+        "classical",
+        "chillout_lounge",
+        "rock"
+       ]
+      }
+     ]
+    },
+    "decade_90s": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Eldoradio 90s",
+       "url": "https://sc-eldo90s.newmedia.lu/",
+       "tags": [
+        "pop_hits",
+        "decade_90s"
+       ]
+      }
+     ]
+    },
+    "electronic": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Lux",
+       "url": "https://lux.stream.laut.fm/lux?",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "holiday": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "RTL Radio - Weihnachtsradio",
+       "url": "http://rtldtl.hoerradar.de/rtldtl-event01-mp3-128"
+      }
+     ]
+    },
+    "metal": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "ASBL Crazy Poisons Radio International",
+       "url": "https://server4.streamserver24.com:8080/proxy/crazypoi?mp=/stream",
+       "tags": [
+        "gothic_industrial",
+        "rock",
+        "metal",
+        "alternative_indie"
+       ]
+      },
+      {
+       "name": "Crazy Poisons Radio",
+       "url": "http://server4.streamserver24.com:26607",
+       "tags": [
+        "various_eclectic",
+        "schlager_polka",
+        "metal"
+       ]
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "Radio ARA",
+       "url": "https://stream.ara.lu/stream.mp3",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "various_eclectic",
+        "world",
+        "electronic",
+        "jazz",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Radio LNW 102.2 FM",
+       "url": "mms://213.135.229.13:80/",
+       "tags": [
+        "various_eclectic",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Radio Northsea International",
+       "url": "http://radionorthsea.zapto.org:8008",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "oldies"
+       ]
+      },
+      {
+       "name": "RTL Radio - Deutschlands Hit-Radio 93.3 - 97.0",
+       "url": "http://stream.rtlradio.de/rtl-de-ukw/mp3-128/vtuner/",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "oldies": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "EldoRadio - 25 Joer Chartbreaker",
+       "url": "http://sc-eldo25years.eldo.lu/",
+       "tags": [
+        "pop_hits",
+        "oldies"
+       ]
+      },
+      {
+       "name": "EldoRadio 90s",
+       "url": "http://sc-eldo90s.eldo.lu/",
+       "tags": [
+        "pop_hits",
+        "oldies"
+       ]
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 8,
+     "stations": [
+      {
+       "name": "EldoRadio - Top 25",
+       "url": "http://sc-eldotop25.eldo.lu/"
+      },
+      {
+       "name": "EldoRadio 105 FM",
+       "url": "http://eldoradiolive.newmedia.lu:80/stream?origine=1djfkg"
+      },
+      {
+       "name": "EldoRadio 80s",
+       "url": "http://sc-80s.eldoradio.lu:80/stream"
+      },
+      {
+       "name": "EldoRadio Chill",
+       "url": "http://sc-chill.eldoradio.lu:80/stream"
+      },
+      {
+       "name": "RTL - Deutschlands Hit-Radio",
+       "url": "https://stream.rtlradio.de/rtl-de-national/aac-64/RadioDE/"
+      },
+      {
+       "name": "RTL Radio - Deutschlands Hit-Radio",
+       "url": "http://stream.rtlradio.de/rtl-de-national/mp3-128/vtuner/"
+      },
+      {
+       "name": "RTL – Deutschlands Hit-Radio 93.3 – 97.0",
+       "url": "https://stream.rtlradio.de/rtl-de-ukw/aac-64/RadioDE/"
+      },
+      {
+       "name": "RTL – Weihnachtsradio",
+       "url": "https://stream.rtlradio.de/rtl-de-event01/aac-64/RadioDE/"
+      }
+     ]
+    },
+    "rock": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "RTL - Die besten Hits aller Zeiten",
+       "url": "https://stream.rtlradio.de/rtl-de-beste-hits/aac-64/RadioDE/",
+       "tags": [
+        "pop_hits",
+        "rock"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "RTL Die besten Hits aller Zeiten",
+       "url": "http://stream.rtlradio.de/rtl-de-beste-hits/aac-64"
+      },
+      {
+       "name": "RTL Radio - Die besten Hits aller Zeiten",
+       "url": "https://stream.rtlradio.de/rtl-de-beste-hits/mp3-192/"
+      }
+     ]
+    }
+   }
+  },
+  "English": {
+   "count": 13,
+   "genres": {
+    "alternative_indie": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "RetroSonic Alternative",
+       "url": "http://backup.retrosonic.pp.ua:8030/alternative.mp3"
+      }
+     ]
+    },
+    "classical": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Opus Classical",
+       "url": "http://retrosonic.pp.ua:8020/rohd.mp3"
+      }
+     ]
+    },
+    "country": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Country Radio Gilsdorf",
+       "url": "http://streaming.aoip.international:8000/cr-gilsdorf",
+       "tags": [
+        "country",
+        "news_talk",
+        "pop_hits",
+        "folk"
+       ]
+      }
+     ]
+    },
+    "jazz": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Panachee",
+       "url": "https://stream.laut.fm/panachee",
+       "tags": [
+        "jazz",
+        "news_talk",
+        "electronic",
+        "pop_hits",
+        "rock",
+        "classical",
+        "blues",
+        "chillout_lounge",
+        "alternative_indie",
+        "easy_listening",
+        "world",
+        "ambient_relax"
+       ]
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Radio Gutt Laun",
+       "url": "https://rgl.selfip.net:8000/mp3"
+      },
+      {
+       "name": "RTL Luxembourg",
+       "url": "http://81.92.238.32/",
+       "tags": [
+        "news_talk",
+        "various_eclectic",
+        "easy_listening",
+        "oldies"
+       ]
+      }
+     ]
+    },
+    "oldies": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Luxembourg Memories",
+       "url": "https://stream.zeno.fm/3384cgvyk2zuv",
+       "tags": [
+        "oldies",
+        "pop_hits",
+        "decade_70s",
+        "decade_80s"
+       ]
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Rujnica",
+       "url": "https://r.name.ba:7115/stream.mp3"
+      }
+     ]
+    },
+    "rock": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "ni_haody",
+       "url": "https://stream.laut.fm/ni_haody",
+       "tags": [
+        "pop_hits",
+        "world",
+        "rock",
+        "country",
+        "alternative_indie"
+       ]
+      },
+      {
+       "name": "Radio Luxembourg",
+       "url": "http://s8.mediastreaming.it:7050"
+      },
+      {
+       "name": "REDDROCKRADIO",
+       "url": "https://stream.laut.fm/reddrock",
+       "tags": [
+        "rock",
+        "metal",
+        "blues"
+       ]
+      }
+     ]
+    },
+    "various_eclectic": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Helix Radio",
+       "url": "http://51.255.235.165:5164/"
+      },
+      {
+       "name": "Radio Art Zone",
+       "url": "https://partneraudio.wavefarm.org/radioartzone.mp3"
+      }
+     ]
+    }
+   }
+  },
+  "French": {
+   "count": 13,
+   "genres": {
+    "classical": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Classique",
+       "url": "https://radioclassique.ice.infomaniak.ch/radioclassique-low.mp3"
+      }
+     ]
+    },
+    "decade_90s": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Eldoradio 90's",
+       "url": "http://sc-eldo90s.newmedia.lu/listen.pls"
+      }
+     ]
+    },
+    "electronic": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Generation Dance Radio (64 Kbps)",
+       "url": "https://generationdance.lu/radio/8030/mobile",
+       "tags": [
+        "electronic",
+        "house",
+        "techno",
+        "trance_goa",
+        "disco_eurodance"
+       ]
+      },
+      {
+       "name": "Generation Dance Radio (64 Kbps)",
+       "url": "http://generationdance.lu:8010/mobile",
+       "tags": [
+        "electronic",
+        "trance_goa",
+        "disco_eurodance",
+        "house"
+       ]
+      }
+     ]
+    },
+    "house": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Generation Dance",
+       "url": "https://generationdance.lu/radio/8030/hd",
+       "tags": [
+        "electronic",
+        "house",
+        "techno",
+        "trance_goa",
+        "disco_eurodance",
+        "ambient_relax",
+        "gothic_industrial",
+        "reggae_ska",
+        "soul_rnb_funk",
+        "folk",
+        "easy_listening",
+        "jpop_kpop_asia",
+        "rock"
+       ]
+      }
+     ]
+    },
+    "oldies": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Belle Vallée",
+       "url": "https://shoutcast.datateam.center/index.html",
+       "tags": [
+        "oldies",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "FRL - Free Radio Luxembourg Listen live",
+       "url": "https://listen.radioking.com/radio/66160/stream/103807",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "decade_70s",
+        "decade_80s",
+        "decade_90s"
+       ]
+      },
+      {
+       "name": "L'essentiel Radio",
+       "url": "https://lessentielradio.ice.infomaniak.ch/lessentielradio-128.mp3",
+       "tags": [
+        "pop_hits",
+        "soul_rnb_funk",
+        "rock",
+        "easy_listening",
+        "various_eclectic",
+        "latin",
+        "house",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Radio Dudelange",
+       "url": "https://radiodudelange.ice.infomaniak.ch/radiodudelange-128.mp3",
+       "tags": [
+        "pop_hits",
+        "electronic",
+        "rock",
+        "easy_listening",
+        "house",
+        "jazz",
+        "various_eclectic",
+        "news_talk"
+       ]
+      }
+     ]
+    },
+    "rock": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "EldoRadio 80s",
+       "url": "http://eldowebradio3.newmedia.lu/",
+       "tags": [
+        "pop_hits",
+        "rock"
+       ]
+      }
+     ]
+    },
+    "trance_goa": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Generation Dance Radio",
+       "url": "http://generationdance.lu:8010/hd",
+       "tags": [
+        "trance_goa",
+        "electronic",
+        "house",
+        "disco_eurodance"
+       ]
+      },
+      {
+       "name": "Progressive FM",
+       "url": "https://stream.zeno.fm/6vu8pug96ehvv",
+       "tags": [
+        "trance_goa",
+        "rock",
+        "news_talk",
+        "electronic"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Larochete Christmas Radio",
+       "url": "https://stream.zeno.fm/uhdqcq2c1d0uv"
+      }
+     ]
+    }
+   }
+  },
+  "Portuguese": {
+   "count": 11,
+   "genres": {
+    "country": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Rádio Larochete Portuguesa",
+       "url": "https://stream.zeno.fm/kt7mee5z71zuv",
+       "tags": [
+        "pop_hits",
+        "country"
+       ]
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Larochete Romantic",
+       "url": "https://stream.zeno.fm/we3uuwraf2zuv",
+       "tags": [
+        "easy_listening",
+        "oldies",
+        "decade_80s",
+        "decade_90s"
+       ]
+      }
+     ]
+    },
+    "latin": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Radio Latina 101.2 FM",
+       "url": "https://stream.latinaplayer.wort.lu:9443/stream",
+       "tags": [
+        "various_eclectic",
+        "latin"
+       ]
+      },
+      {
+       "name": "Radio Lusa",
+       "url": "http://95.217.75.38:9286/",
+       "tags": [
+        "latin",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Radio MCJ",
+       "url": "http://207.180.239.211:9300",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "world"
+       ]
+      },
+      {
+       "name": "Rádio Paiquerê Listen live",
+       "url": "https://player-ssl.kshost.com.br:9652/live",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "rock": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Rádio Larochete",
+       "url": "https://servidor14.brlogic.com:8150/live",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "decade_70s",
+        "decade_60s",
+        "decade_80s",
+        "oldies"
+       ]
+      },
+      {
+       "name": "Rádio Larochete",
+       "url": "https://stream.zeno.fm/b584n833wwzuv",
+       "tags": [
+        "rock",
+        "pop_hits",
+        "folk",
+        "latin"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Progressive Melodic",
+       "url": "https://stream.zeno.fm/oay7sq2bs4luv"
+      },
+      {
+       "name": "RADIO 20.21",
+       "url": "https://sonic.servsonic.com/8020/stream"
+      },
+      {
+       "name": "Radio MCJ",
+       "url": "http://173.208.193.66:9998"
+      }
+     ]
+    }
+   }
+  },
+  "Multilingual": {
+   "count": 5,
+   "genres": {
+    "alternative_indie": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Eldoradio Alternative-Channel",
+       "url": "http://eldowebradio1.newmedia.lu/",
+       "tags": [
+        "rock",
+        "alternative_indie"
+       ]
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "radio 100,7",
+       "url": "http://stream2.100komma7.lu/100komma7/live/mp3/320/stream.mp3",
+       "tags": [
+        "news_talk",
+        "classical",
+        "various_eclectic",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Eldoradio",
+       "url": "https://shoutcast.rtl.lu/eldo",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Radio Cents",
+       "url": "http://onairradio.dyndns.org:8000",
+       "tags": [
+        "pop_hits",
+        "various_eclectic",
+        "decade_80s",
+        "rock"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Eldoradio Chill-Channel",
+       "url": "http://sc-chill.eldoradio.lu:80/"
+      }
+     ]
+    }
+   }
+  },
+  "Serbian": {
+   "count": 2,
+   "genres": {
+    "folk": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Radio Puls Luxembourg",
+       "url": "https://uk1.listen2myradio.com:2199/listen.php?port=8312\\u0026type=s2\\u0026mount=/stream"
+      },
+      {
+       "name": "Radio Puls Luxembourg",
+       "url": "http://82.145.43.92:8312/stream",
+       "tags": [
+        "pop_hits",
+        "folk"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Chinese": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "laut.fm / ni_haody",
+       "url": "https://nihaody.stream.laut.fm/ni_haody?t302=2020-04-23_06-21-56&uuid=6ecf679b-b7ea-4011-a107-561a73a8d546"
+      }
+     ]
+    }
+   }
+  },
+  "Ukrainian": {
+   "count": 1,
+   "genres": {
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio ARA",
+       "url": "https://s1.voscast.com:11187/RadioARA.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "alternative_indie",
+        "rock",
+        "jazz",
+        "world",
+        "college_community"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Dutch": {
+   "count": 1,
+   "genres": {
+    "various_eclectic": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "RTL Radio Letzebuerg 92.5 FM",
+       "url": "http://live.newmedia.lu:80/stream"
+      }
+     ]
+    }
+   }
+  },
+  "Spanish": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Libre - Luxembourg",
+       "url": "https://stream.zeno.fm/7wztreh00a0uv"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

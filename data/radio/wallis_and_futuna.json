@@ -1,0 +1,83 @@
+{
+ "country": "Wallis and Futuna",
+ "count": 5,
+ "languages": {
+  "French": {
+   "count": 4,
+   "genres": {
+    "christian_gospel": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Tzgospel Swahili (Wallis) radio",
+       "url": "https://stream.zeno.fm/1vh9ypdnffhvv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Romantic Radio",
+       "url": "https://vm3919115.25ssd.had.wf:1045/stream",
+       "tags": [
+        "easy_listening",
+        "world",
+        "decade_80s",
+        "decade_90s"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Wallis et Futuna 1ère",
+       "url": "https://wallisetfutuna.ice.infomaniak.ch/wallisetfutuna-128.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "hip_hop_rap",
+        "folk",
+        "world",
+        "electronic",
+        "soul_rnb_funk",
+        "latin",
+        "college_community"
+       ]
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Station Beta, Alele radio",
+       "url": "https://stream.zeno.fm/mww0az1i30muv",
+       "language_inferred": true
+      }
+     ]
+    }
+   }
+  },
+  "Russian": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Novoe Radio",
+       "url": "http://vm2083793.42ssd.had.wf:8000/online",
+       "country_inferred": true
+      }
+     ]
+    }
+   }
+  }
+ }
+}

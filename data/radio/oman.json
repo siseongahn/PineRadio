@@ -1,0 +1,705 @@
+{
+ "country": "Oman",
+ "count": 89,
+ "languages": {
+  "Arabic": {
+   "count": 74,
+   "genres": {
+    "bollywood_indian": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Chaska Oman",
+       "url": "https://www.liveradio.es/http://qurum.ddns.net:8000/radio.mp3",
+       "language_inferred": true
+      }
+     ]
+    },
+    "christian_gospel": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "LA Z 97.7 FM",
+       "url": "https://freeus4.listen2myradio.com/live.mp3?typeportmount=s1_7631_stream_14266419",
+       "language_inferred": true
+      }
+     ]
+    },
+    "classical": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "T FM",
+       "url": "https://stream.timesofoman.fm:9018/tfm",
+       "tags": [
+        "pop_hits",
+        "classical",
+        "rock"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "decade_90s": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "HI HITS - THE 90'S",
+       "url": "http://5.63.145.172:7162/",
+       "language_inferred": true
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Al Son De Tu Corazon radio",
+       "url": "https://stream.zeno.fm/cri82cfsketvv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "folk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Al Shabab Radio Oman Youth",
+       "url": "https://streaming.zaytonatube.com/test2.aac",
+       "tags": [
+        "folk",
+        "islamic_quran"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "house": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "100% Deep - 100FM רדיוס Listen live",
+       "url": "https://a25.streamgates.net/radios-audio/100Deep/chunks.m3u8",
+       "tags": [
+        "house",
+        "chillout_lounge"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Hi FM Oman - (هاي إف إم عمان)",
+       "url": "http://s8.viastreaming.net:7840",
+       "tags": [
+        "pop_hits",
+        "house",
+        "easy_listening"
+       ]
+      }
+     ]
+    },
+    "kids": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "GOFOX2019",
+       "url": "https://stream.zeno.fm/ts8qffd3cf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "GOFOX2019 :)",
+       "url": "https://stream.zeno.fm/dvu2mad3cf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Music",
+       "url": "https://stream.zeno.fm/4vdzvk3d408uv",
+       "language_inferred": true
+      },
+      {
+       "name": "The Sisters Radio",
+       "url": "https://stream.zeno.fm/e38z2e8n5f0uv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 7,
+     "stations": [
+      {
+       "name": "Al Wisal",
+       "url": "http://uk7.internet-radio.com:8067/"
+      },
+      {
+       "name": "Al Wisal FM",
+       "url": "https://securestreams3.autopo.st:1380/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "FMالشبيبة",
+       "url": "http://93.104.209.32:8000",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "freefm.lk - Oman Sinhala Radio",
+       "url": "https://stream.zeno.fm/t0jwd83zaayvv",
+       "tags": [
+        "news_talk",
+        "classical",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Hala FM 102.7 FM -  هلا اف ام Listen live",
+       "url": "https://edge-audio-05-gos2.sharp-stream.com/halafmhigh.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Al Salam",
+       "url": "http://37.59.32.115:5117/",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "إذاعة الوصال",
+       "url": "http://212.71.250.12:8067/stream",
+       "tags": [
+        "news_talk",
+        "sports"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "oldies": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "T FM",
+       "url": "http://93.104.209.32:8028/",
+       "tags": [
+        "pop_hits",
+        "oldies",
+        "rock"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 12,
+     "stations": [
+      {
+       "name": "95.9 HI FM Radio",
+       "url": "http://s8.viastreaming.net:7840/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "Al Wisal",
+       "url": "http://uk7.internet-radio.com:8067/stream",
+       "tags": [
+        "pop_hits",
+        "easy_listening",
+        "various_eclectic",
+        "world",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Alsu Mood FM / إذاعة الصمود FM",
+       "url": "https://us3.internet-radio.com/proxy/alsumoodfm2020?mp=/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Hala FM",
+       "url": "https://edge-audio-05-gos2.sharp-stream.com/halafmlow.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Hala FM",
+       "url": "https://listen-halafm.sharp-stream.com/halafmmid.mp3",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "world"
+       ]
+      },
+      {
+       "name": "Hala FM (هلا)",
+       "url": "http://s8.viastreaming.net:7850/",
+       "tags": [
+        "pop_hits",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Merge 104.8 FM",
+       "url": "http://uk7.internet-radio.com:8040/stream/1/",
+       "language_inferred": true
+      },
+      {
+       "name": "Merge FM",
+       "url": "http://212.71.250.12:8040/stream",
+       "tags": [
+        "pop_hits",
+        "soul_rnb_funk",
+        "hip_hop_rap"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Muscat FM",
+       "url": "http://77.68.3.90:8022/stream/"
+      },
+      {
+       "name": "Muscat FM radio",
+       "url": "https://www.instagram.com/radiomuscat/?hl=enstream.nsv"
+      },
+      {
+       "name": "Shabiba FM",
+       "url": "http://stream.shabiba.fm:8000/",
+       "tags": [
+        "pop_hits",
+        "various_eclectic",
+        "world",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Shabiba FM",
+       "url": "http://stream.shabiba.fm:8000/Live"
+      }
+     ]
+    },
+    "various_eclectic": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Oman FM",
+       "url": "http://stream.zenolive.com/g0cuyd4h5xmtv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "world": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Al Wisal 96.5 FM",
+       "url": "https://securestreams3.autopo.st:1380/stream/1/",
+       "tags": [
+        "world",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Muscat FM",
+       "url": "http://rss-streaming.co.uk:8022/mp3"
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 39,
+     "stations": [
+      {
+       "name": "69STATION",
+       "url": "https://stream.zeno.fm/3xppbu32xnhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "90.4 FM   الإذاعة-الإنجليزية",
+       "url": "https://partwota.cdn.mgmlcdn.com/omengrdoorg/omengrdo.stream_aac/chunklist.m3u8?n=023ce07e17be2bc7967d",
+       "language_inferred": true
+      },
+      {
+       "name": "Al Wisal",
+       "url": "https://stream.zeno.fm/84652g7meg8uv"
+      },
+      {
+       "name": "Al-Shabab Channel (Oman Youth)",
+       "url": "http://38.96.148.30:1935/live/youth/playlist.m3u8"
+      },
+      {
+       "name": "Al-Shabab Channel (Oman Youth, إذاعة الشباب) – 90.3 FM – Muscat – OM",
+       "url": "https://partne.cdn.mangomolo.com/shababrdoorg/shababrdo.stream_aac/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "Alconradio",
+       "url": "https://stream.zeno.fm/yrb4nccyvk8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "alhijari sound",
+       "url": "https://stream.zeno.fm/nnk4k3xq6e9uv"
+      },
+      {
+       "name": "alsmood",
+       "url": "https://stream.zeno.fm/raqu51dn8hhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Awesome Radio",
+       "url": "https://stream.zeno.fm/8kb6vgy167zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Desert FM",
+       "url": "https://stream.zeno.fm/43yvbw63qxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Euphoria Radio",
+       "url": "https://stream.zeno.fm/t6th8258ckhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "FMالشبيبة",
+       "url": "http://stream.shabiba.fm:8000/shabiba"
+      },
+      {
+       "name": "Hala FM",
+       "url": "https://listen-halafm.sharp-stream.com/halafmlow.mp3"
+      },
+      {
+       "name": "Hala FM",
+       "url": "https://stream.zeno.fm/rm3tuk8meg8uv"
+      },
+      {
+       "name": "jabel shams",
+       "url": "https://stream.zeno.fm/ubg3p3vtu38uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Merge 104.8",
+       "url": "https://stream.zeno.fm/q4evgeaneg8uv"
+      },
+      {
+       "name": "Muscat FM",
+       "url": "https://playoutonestreaming.com/proxy/muscatfm/?mp=/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Muscat FM",
+       "url": "https://playoutonestreaming.com/proxy/muscatfm/?mp=/stream&r=0.08381912881745279",
+       "language_inferred": true
+      },
+      {
+       "name": "NAZAL54 Radio",
+       "url": "https://stream.zeno.fm/9u5nmzg8z98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Oman radio (الإذاعة العامة)",
+       "url": "https://partne.cdn.mangomolo.com/omanrdoorg/omanrdo.stream_aac/playlist.m3u8"
+      },
+      {
+       "name": "Oman Run Radio",
+       "url": "https://listen.radionomy.com/omanrun?type=.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Omani song  samp",
+       "url": "https://stream.zeno.fm/dpgkpqospopvv",
+       "language_inferred": true
+      },
+      {
+       "name": "PSO RADIO",
+       "url": "https://stream.zeno.fm/8skycn2qzc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "PSO Radio – Muscat – OM",
+       "url": "https://s52.radiolize.com/radio/8010/radio.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "PSORADIO 2023 – Muscat – OM",
+       "url": "https://radio.hornhost.com/8034/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Quran Program Oman   إذاعة-القرآن-الكريم",
+       "url": "https://partwota.cdn.mgmlcdn.com/quranrdoorg/quranrdo.stream_aac/chunklist.m3u8?n=bab2e4b09cf4d7845115",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Chaska Oman",
+       "url": "https://stream.zeno.fm/62wkmtpv868uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio29",
+       "url": "https://stream.zeno.fm/2cekuadhys8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RecRadio",
+       "url": "https://s4.radio.co/s2df476325/listen"
+      },
+      {
+       "name": "Shabiba FM",
+       "url": "https://stream.shabiba.fm:9010/shabiba"
+      },
+      {
+       "name": "Shabiba FM",
+       "url": "https://stream.zeno.fm/e6vkkm70nfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Shabiba FM – Muscat – OM",
+       "url": "http://stream.shabiba.fm:8000/live",
+       "language_inferred": true
+      },
+      {
+       "name": "Space Oman",
+       "url": "https://stream.zeno.fm/zawkaq1mychvv",
+       "language_inferred": true
+      },
+      {
+       "name": "T FM - Let's Talk",
+       "url": "https://cors.bitwize.com.lb/http:/stream.timesofoman.fm:8028/"
+      },
+      {
+       "name": "T FM Oman",
+       "url": "https://stream.zeno.fm/azbkb7q0nfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Tzgospel swahili (OMAN)",
+       "url": "https://stream.zeno.fm/32xzrpd3tchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "West coast clasic",
+       "url": "https://stream.zeno.fm/a2aacn1wketuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Zam paradise",
+       "url": "https://stream.zeno.fm/63sr2qqswxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "إذاعة بوارق الحب",
+       "url": "https://stream.zeno.fm/rh6v7vav7bhvv"
+      }
+     ]
+    }
+   }
+  },
+  "English": {
+   "count": 7,
+   "genres": {
+    "electronic": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Merge 104.8",
+       "url": "http://uk7.internet-radio.com:8040/stream",
+       "tags": [
+        "pop_hits",
+        "electronic",
+        "easy_listening",
+        "decade_80s",
+        "decade_90s",
+        "hip_hop_rap"
+       ]
+      }
+     ]
+    },
+    "hip_hop_rap": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Virgin Radio Oman",
+       "url": "http://uk5.internet-radio.com:8115/stream",
+       "tags": [
+        "pop_hits",
+        "hip_hop_rap",
+        "soul_rnb_funk",
+        "electronic"
+       ]
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Hi FM Oman",
+       "url": "https://listen-hifmtemp.sharp-stream.com/hifmmid.mp3",
+       "tags": [
+        "pop_hits",
+        "soul_rnb_funk",
+        "electronic",
+        "hip_hop_rap",
+        "easy_listening",
+        "house"
+       ]
+      },
+      {
+       "name": "Merge",
+       "url": "http://uk7.internet-radio.com:8040/"
+      },
+      {
+       "name": "T FM",
+       "url": "http://stream.timesofoman.fm:8028/"
+      }
+     ]
+    },
+    "soul_rnb_funk": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Euphoria Radio",
+       "url": "https://streamer.radio.co/s55000a8b6/listen",
+       "tags": [
+        "world",
+        "soul_rnb_funk",
+        "pop_hits",
+        "classical",
+        "rock",
+        "house",
+        "various_eclectic",
+        "kids",
+        "decade_80s"
+       ]
+      },
+      {
+       "name": "Virgin Radio Oman",
+       "url": "http://uk5.internet-radio.com:8115/stream?type=http&ampnocache=234",
+       "tags": [
+        "soul_rnb_funk",
+        "pop_hits",
+        "hip_hop_rap"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Hindi": {
+   "count": 3,
+   "genres": {
+    "bollywood_indian": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Radio Chaska",
+       "url": "https://stream.zeno.fm/9ewe7smrbrzuv",
+       "tags": [
+        "bollywood_indian",
+        "various_eclectic",
+        "decade_90s"
+       ]
+      },
+      {
+       "name": "Radio Chaska Oman",
+       "url": "http://qururm.ddns.net:8000/radio.mp3",
+       "tags": [
+        "bollywood_indian",
+        "decade_70s",
+        "decade_60s",
+        "decade_80s",
+        "decade_90s"
+       ]
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Chaska Omn",
+       "url": "http://qurum.ddns.net:8000/radio.mp3"
+      }
+     ]
+    }
+   }
+  },
+  "Malayalam": {
+   "count": 2,
+   "genres": {
+    "unclassified": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Mridulam",
+       "url": "https://stream.zeno.fm/v175wsxd3v8uv"
+      },
+      {
+       "name": "RADIO NIRANJAN FM",
+       "url": "https://stream.zeno.fm/1rznwyh5yf8uv"
+      }
+     ]
+    }
+   }
+  },
+  "Multilingual": {
+   "count": 1,
+   "genres": {
+    "pop_hits": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Virgin Radio Oman",
+       "url": "http://139.162.245.57:8115/stream",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "soul_rnb_funk",
+        "easy_listening"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Sinhala": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "freefm.lk - Oman Sinhala Radio",
+       "url": "https://stream.zeno.fm/tauqhhmhbpguv"
+      }
+     ]
+    }
+   }
+  },
+  "Filipino": {
+   "count": 1,
+   "genres": {
+    "easy_listening": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "PSO Radio",
+       "url": "https://s2.radio.co/sdef478cd2/listen",
+       "tags": [
+        "easy_listening",
+        "decade_80s",
+        "decade_90s"
+       ]
+      }
+     ]
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,1970 @@
+{
+ "country": "Cuba",
+ "count": 305,
+ "languages": {
+  "Spanish": {
+   "count": 302,
+   "genres": {
+    "alternative_indie": {
+     "count": 8,
+     "stations": [
+      {
+       "name": "Ciudad Monumento - Granma",
+       "url": "https://icecast.teveo.cu/KR43FF7C",
+       "tags": [
+        "classical",
+        "alternative_indie"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "CMIX Radio Moron - Lo Cotidiano en Imagen Sonora",
+       "url": "https://icecast.teveo.cu/jJ4JV3FK",
+       "tags": [
+        "alternative_indie",
+        "world"
+       ]
+      },
+      {
+       "name": "CMKO Radio Angulo",
+       "url": "https://icecast.teveo.cu/hmVcdgM7"
+      },
+      {
+       "name": "La voz del níquel",
+       "url": "https://icecast.teveo.cu/nj4PLTHR",
+       "tags": [
+        "classical",
+        "alternative_indie"
+       ]
+      },
+      {
+       "name": "Radio Caibarien",
+       "url": "https://icecast.teveo.cu/srJ4vqkv",
+       "tags": [
+        "alternative_indie",
+        "world"
+       ]
+      },
+      {
+       "name": "Radio Ciudad del Mar",
+       "url": "https://icecast.teveo.cu/CL7jRXqn?1618098425296"
+      },
+      {
+       "name": "Radio Sagua",
+       "url": "https://icecast.teveo.cu/wHm3qrMx",
+       "tags": [
+        "classical",
+        "alternative_indie",
+        "world"
+       ]
+      },
+      {
+       "name": "Radio Sancti Spíritus Listen live",
+       "url": "https://icecast.teveo.cu/NqWrgw7j",
+       "tags": [
+        "classical",
+        "alternative_indie",
+        "news_talk",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "christian_gospel": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "Radio ciudad fm en vivo radio",
+       "url": "https://sonicpanel.oficialserver.com:7199/",
+       "tags": [
+        "christian_gospel",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Iglecuba",
+       "url": "http://198.24.172.74:8150"
+      },
+      {
+       "name": "Radio María de la Caridad radio",
+       "url": "https://stream.zeno.fm/lm5higqbg93vv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Verdad",
+       "url": "http://cdn26.siscompnetwork.com:7002/stream",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "classical": {
+     "count": 5,
+     "stations": [
+      {
+       "name": "Jiguani - Granma",
+       "url": "https://icecast.teveo.cu/nkz3TCfR",
+       "language_inferred": true
+      },
+      {
+       "name": "Prensa Latina",
+       "url": "https://cdn4.onstream.audio:9267/stream?n=9bc29dc69ad549a2c5f4",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Banes",
+       "url": "https://icecast.teveo.cu/9cMzdkK7",
+       "tags": [
+        "classical",
+        "world"
+       ]
+      },
+      {
+       "name": "Radio Granma",
+       "url": "https://icecast.teveo.cu/9RLhkmRH",
+       "tags": [
+        "classical",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Radio Musical Nacional",
+       "url": "https://icecast.teveo.cu/Nbtz7HT3",
+       "tags": [
+        "classical",
+        "jazz",
+        "easy_listening",
+        "folk",
+        "opera",
+        "alternative_indie"
+       ]
+      }
+     ]
+    },
+    "college_community": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Universitaria",
+       "url": "https://stream.zeno.fm/24384q1wkchvv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "comedy": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Dembow",
+       "url": "https://stream.zeno.fm/ptu1bck26jdvv",
+       "language_inferred": true
+      },
+      {
+       "name": "TRapshit",
+       "url": "https://stream.zeno.fm/8e1g13eqwrhvv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "decade_70s": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Plus 101.3 FM",
+       "url": "http://media.dominiocreativo.com:9006/monumental",
+       "tags": [
+        "decade_70s",
+        "decade_80s",
+        "decade_60s"
+       ]
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Mil-80",
+       "url": "http://23.239.68.75:8104/stream/",
+       "tags": [
+        "pop_hits",
+        "easy_listening",
+        "various_eclectic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Archipiélago",
+       "url": "http://radios.blumhost.es:8006/stream",
+       "tags": [
+        "easy_listening",
+        "various_eclectic",
+        "latin",
+        "decade_90s"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "electronic": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "CUBA HE",
+       "url": "https://listen.radionomy.com/cubahe.m3u",
+       "tags": [
+        "electronic",
+        "latin"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "folk": {
+     "count": 5,
+     "stations": [
+      {
+       "name": "Radio Campesina Cubana",
+       "url": "https://streamingv2.shoutcast.com/RadioCampesinaCubana",
+       "tags": [
+        "world",
+        "folk",
+        "latin"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Campesina Cubana",
+       "url": "https://stream.laut.fm/radiocampesinacubana",
+       "tags": [
+        "folk",
+        "latin",
+        "world",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Vivencias 103.1",
+       "url": "http://63.247.91.178:14299/stream/",
+       "tags": [
+        "folk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Salsa Radio",
+       "url": "https://stream.pcradio.ru/rad_slsrd-med",
+       "tags": [
+        "folk",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "SeductorasVip radio",
+       "url": "https://xat.com/seductorasvip",
+       "tags": [
+        "folk",
+        "electronic",
+        "reggae_ska",
+        "latin"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "jazz": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Radio Cubana",
+       "url": "https://listen.radionomy.com/radio-cubana"
+      },
+      {
+       "name": "Radio Guamá",
+       "url": "https://icecast.teveo.cu/ngcdcV3k",
+       "tags": [
+        "world",
+        "jazz",
+        "latin"
+       ]
+      },
+      {
+       "name": "Radio Jaruco",
+       "url": "https://icecast.teveo.cu/KH9tVwrC",
+       "tags": [
+        "classical",
+        "alternative_indie",
+        "world",
+        "news_talk",
+        "jazz",
+        "latin"
+       ]
+      }
+     ]
+    },
+    "kids": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Cartagena",
+       "url": "https://stream.zeno.fm/pkwmx2xu0nhvv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "latin": {
+     "count": 21,
+     "stations": [
+      {
+       "name": "Cuba HE",
+       "url": "https://streamingv2.shoutcast.com/CubaHE",
+       "tags": [
+        "latin",
+        "soul_rnb_funk",
+        "world",
+        "hip_hop_rap"
+       ]
+      },
+      {
+       "name": "CubanFlow Radio",
+       "url": "http://nap.casthost.net:9194/stream",
+       "tags": [
+        "latin",
+        "house",
+        "electronic",
+        "reggae_ska",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Cubania Radio",
+       "url": "http://listen.radionomy.com/cubania.m3u",
+       "tags": [
+        "pop_hits",
+        "latin"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Mi Paisito Radio",
+       "url": "https://stream.zenolive.com/3qgddw35yuquv.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "NeonRadio-XL",
+       "url": "https://37.59.37.6:16754/",
+       "tags": [
+        "latin",
+        "easy_listening",
+        "decade_70s"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Punto 105",
+       "url": "http://178.32.62.163:9506/stream/",
+       "tags": [
+        "pop_hits",
+        "latin",
+        "world",
+        "alternative_indie"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 26",
+       "url": "https://icecast.teveo.cu/LsxKNz7b",
+       "tags": [
+        "latin",
+        "world",
+        "classical",
+        "alternative_indie",
+        "rock",
+        "hip_hop_rap",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Ariguanabo Listen live",
+       "url": "https://icecast.teveo.cu/LHNf74bt",
+       "tags": [
+        "latin",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Campesina Cubana Listen live",
+       "url": "https://radiocampesinacubana.stream.laut.fm/radiocampesinacubana",
+       "tags": [
+        "latin",
+        "schlager_polka",
+        "folk",
+        "classical",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Caribe Listen live",
+       "url": "https://icecast.teveo.cu/dXhtHs4P",
+       "tags": [
+        "latin",
+        "soul_rnb_funk",
+        "pop_hits",
+        "house"
+       ]
+      },
+      {
+       "name": "Radio Ciudad Bandera Listen live",
+       "url": "https://icecast.teveo.cu/rvNtC9rC",
+       "tags": [
+        "news_talk",
+        "latin",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Cuba Libre Internacional",
+       "url": "http://198.27.127.246:5002/",
+       "tags": [
+        "latin",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Radio Cubana",
+       "url": "https://listen.radionomy.com/radio-cubana.m3u",
+       "tags": [
+        "pop_hits",
+        "latin"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Rabel",
+       "url": "https://eu1.lhdserver.es:3093/stream"
+      },
+      {
+       "name": "Radio Revolución Listen live",
+       "url": "https://icecast.teveo.cu/C9vVPN7h",
+       "tags": [
+        "news_talk",
+        "latin",
+        "classical",
+        "alternative_indie",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Rumba Latina",
+       "url": "http://stream3.mexiserver.com:8254/stream/",
+       "tags": [
+        "latin",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Salsa",
+       "url": "http://tropicalisima.net:8020/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Zona 503",
+       "url": "http://mx.hdaudiostreaming.com:8034/stream"
+      },
+      {
+       "name": "Salsa4te",
+       "url": "http://server1.visiotec.it:8100/",
+       "tags": [
+        "latin",
+        "decade_70s",
+        "decade_60s"
+       ]
+      },
+      {
+       "name": "Scan 96.1",
+       "url": "http://158.69.200.1:8022/radio.mp3/",
+       "language_inferred": true
+      },
+      {
+       "name": "Tocame 100.7",
+       "url": "http://stream20.usastreams.com:8004/stream/",
+       "tags": [
+        "latin",
+        "oldies"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 25,
+     "stations": [
+      {
+       "name": "Habana Radio",
+       "url": "https://media.ohc.cu/habanaradio?n=b9f73163912da671eb4c",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "folk",
+        "latin"
+       ]
+      },
+      {
+       "name": "Radio Artemisa",
+       "url": "https://icecast.teveo.cu/9HzjRcjX",
+       "tags": [
+        "news_talk",
+        "sports",
+        "latin",
+        "folk",
+        "classical",
+        "alternative_indie",
+        "rock",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Baragua",
+       "url": "https://icecast.teveo.cu/3CMM7zph",
+       "tags": [
+        "news_talk",
+        "classical",
+        "alternative_indie",
+        "world"
+       ]
+      },
+      {
+       "name": "Radio Cadena Agramonte",
+       "url": "https://icecast.teveo.cu/j99xztkT",
+       "tags": [
+        "news_talk",
+        "world",
+        "classical",
+        "alternative_indie",
+        "latin",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Camoa",
+       "url": "https://icecast.teveo.cu/7vCk4tnh",
+       "tags": [
+        "news_talk",
+        "classical",
+        "world"
+       ]
+      },
+      {
+       "name": "Radio Ciudad de la Habana",
+       "url": "https://icecast.teveo.cu/g73XCjCH",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "classical"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Ciudad del Mar",
+       "url": "https://icecast.teveo.cu/CL7jRXqn",
+       "tags": [
+        "news_talk",
+        "world",
+        "latin",
+        "pop_hits",
+        "alternative_indie"
+       ]
+      },
+      {
+       "name": "Radio CMHW",
+       "url": "https://icecast.teveo.cu/TsxMM94R",
+       "tags": [
+        "news_talk",
+        "classical",
+        "alternative_indie",
+        "world",
+        "latin"
+       ]
+      },
+      {
+       "name": "Radio COCO",
+       "url": "https://icecast.teveo.cu/fvc4RVRz",
+       "tags": [
+        "news_talk",
+        "sports",
+        "pop_hits",
+        "classical"
+       ]
+      },
+      {
+       "name": "Radio Cuba Libre Internacional radio",
+       "url": "http://usa8.fastcast4u.com:5002/",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "folk",
+        "latin"
+       ]
+      },
+      {
+       "name": "Radio Enciclopedia",
+       "url": "https://icecast.teveo.cu/9Rnrbjzq",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "easy_listening",
+        "world",
+        "classical",
+        "latin"
+       ]
+      },
+      {
+       "name": "Radio Grito de Baire",
+       "url": "https://icecast.teveo.cu/PMxFRLK7",
+       "tags": [
+        "news_talk",
+        "world",
+        "rock",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Habana Cuba - RHC",
+       "url": "https://icecast.teveo.cu/McW3fLhs",
+       "tags": [
+        "news_talk",
+        "latin",
+        "folk",
+        "pop_hits",
+        "alternative_indie",
+        "world"
+       ]
+      },
+      {
+       "name": "Radio Habana Cuba Canal 1",
+       "url": "http://media.enet.cu/radiohabanacuba"
+      },
+      {
+       "name": "Radio Marti Listen live",
+       "url": "https://ample-07.radiojar.com/3ds9yqpgq3quv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Mayabeque Listen live",
+       "url": "https://icecast.teveo.cu/Rsrm7P9h",
+       "tags": [
+        "news_talk",
+        "classical",
+        "punk"
+       ]
+      },
+      {
+       "name": "Radio Metropolitana",
+       "url": "https://icecast.teveo.cu/ktW3mW74",
+       "tags": [
+        "news_talk",
+        "classical",
+        "alternative_indie",
+        "various_eclectic",
+        "metal",
+        "folk",
+        "electronic",
+        "latin"
+       ]
+      },
+      {
+       "name": "Radio Minas 104.9 FM Listen live",
+       "url": "https://icecast.teveo.cu/X9XNRkW4",
+       "tags": [
+        "news_talk",
+        "decade_80s"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Progreso",
+       "url": "https://icecast.teveo.cu/XjfW7qWN",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "rock",
+        "alternative_indie"
+       ]
+      },
+      {
+       "name": "Radio Rebelde AM",
+       "url": "https://icecast.teveo.cu/kHKL7tWd",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "rock",
+        "latin",
+        "alternative_indie",
+        "sports",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Radio Rebelde FM",
+       "url": "https://icecast.teveo.cu/zrXXWK9F",
+       "tags": [
+        "news_talk",
+        "sports",
+        "rock",
+        "alternative_indie",
+        "easy_listening",
+        "pop_hits",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Radio Reloj",
+       "url": "https://icecast.teveo.cu/b3jbfThq",
+       "tags": [
+        "news_talk",
+        "latin",
+        "alternative_indie",
+        "hip_hop_rap",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Surco Listen live",
+       "url": "https://icecast.teveo.cu/F9tgnJVT",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "classical",
+        "alternative_indie"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Taino",
+       "url": "https://icecast.teveo.cu/3MCwWg3V",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "alternative_indie",
+        "various_eclectic",
+        "folk",
+        "easy_listening",
+        "latin"
+       ]
+      },
+      {
+       "name": "Tiempo21",
+       "url": "https://icecast.teveo.cu/P77NJX4X",
+       "tags": [
+        "news_talk",
+        "classical",
+        "alternative_indie",
+        "world"
+       ]
+      }
+     ]
+    },
+    "oldies": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Cuba80s radio",
+       "url": "https://stream3.305stream.com/proxy/cubashec/stream",
+       "tags": [
+        "oldies",
+        "decade_80s",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "FM Globo 93.3",
+       "url": "http://158.69.219.162:8026/radio.mp3/"
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 7,
+     "stations": [
+      {
+       "name": "Canal Radio Cruces Cienfuegos",
+       "url": "https://stream.laut.fm/canalradio?ref=radiode"
+      },
+      {
+       "name": "LaZonaCubana Radio",
+       "url": "http://whsh4u-panel.com:14083/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Archipiélago",
+       "url": "https://radios.blumhost.es/8006/stream",
+       "tags": [
+        "pop_hits",
+        "world"
+       ]
+      },
+      {
+       "name": "Radio Archipiélago Listen live",
+       "url": "https://radios.blumhost.es/8006/server",
+       "tags": [
+        "pop_hits",
+        "christian_gospel"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Cadena Habana",
+       "url": "https://icecast.teveo.cu/Jdq3Rbrg",
+       "tags": [
+        "pop_hits",
+        "world",
+        "news_talk",
+        "latin"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Fiesta 104.9",
+       "url": "http://167.114.113.192:8062/stream",
+       "tags": [
+        "pop_hits",
+        "latin"
+       ]
+      },
+      {
+       "name": "Radio Siboney",
+       "url": "https://icecast.teveo.cu/Hb9jFPns",
+       "language_inferred": true
+      }
+     ]
+    },
+    "reggae_ska": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Cuban Flow Radio",
+       "url": "http://nap.casthost.net:9194/stream.mp3?n=e40625a57f23423383ac",
+       "tags": [
+        "reggae_ska",
+        "folk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "CubanFlow Radio",
+       "url": "http://nap.casthost.net:9194/?n=09ac23f53529a413fd62",
+       "tags": [
+        "reggae_ska",
+        "pop_hits",
+        "folk"
+       ]
+      },
+      {
+       "name": "Radio Sandino Listen live",
+       "url": "https://icecast.teveo.cu/fc79vKJX",
+       "tags": [
+        "world",
+        "reggae_ska",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "rock": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Cubana",
+       "url": "https://streamingv2.shoutcast.com/Radio-Cubana",
+       "tags": [
+        "rock",
+        "pop_hits",
+        "latin",
+        "jazz",
+        "folk"
+       ]
+      }
+     ]
+    },
+    "schlager_polka": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Llanura de Colón Listen live",
+       "url": "https://icecast.teveo.cu/sjcNk3Jb",
+       "tags": [
+        "news_talk",
+        "schlager_polka",
+        "decade_70s"
+       ]
+      }
+     ]
+    },
+    "sports": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "nuestra pasion",
+       "url": "https://stream.zeno.fm/aavz9rxxvchvv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "various_eclectic": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Mayarí Cuba",
+       "url": "https://icecast.teveo.cu/hv3TpzMv"
+      }
+     ]
+    },
+    "world": {
+     "count": 10,
+     "stations": [
+      {
+       "name": "CMJB Radio Titán",
+       "url": "https://icecast.teveo.cu/nXwsVz4N"
+      },
+      {
+       "name": "CMKX Radio Bayamo Listen live",
+       "url": "https://icecast.teveo.cu/7hdNcTbM",
+       "tags": [
+        "world",
+        "classical",
+        "alternative_indie",
+        "news_talk",
+        "latin",
+        "punk"
+       ]
+      },
+      {
+       "name": "Cubania Radio Listen live",
+       "url": "https://streamingv2.shoutcast.com/cubania",
+       "tags": [
+        "world",
+        "latin",
+        "news_talk",
+        "folk"
+       ]
+      },
+      {
+       "name": "Emisora Estereo Centro",
+       "url": "https://icecast.teveo.cu/mHFR9zFb"
+      },
+      {
+       "name": "Radio Archipilago Cubano",
+       "url": "https://players.rcast.net/stream/66397"
+      },
+      {
+       "name": "Radio Fomento",
+       "url": "https://icecast.teveo.cu/XzFz3xdK"
+      },
+      {
+       "name": "Radio Juvenil",
+       "url": "https://icecast.teveo.cu/XRHCz9jx"
+      },
+      {
+       "name": "Radio Trinidad Digital",
+       "url": "https://icecast.teveo.cu/pxPv4cWR"
+      },
+      {
+       "name": "Radio Varadero",
+       "url": "https://icecast.teveo.cu/jWCmP3Fj",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Vertientes",
+       "url": "https://icecast.teveo.cu/7mw4Jvfh",
+       "language_inferred": true
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 197,
+     "stations": [
+      {
+       "name": "11J Radio",
+       "url": "https://stream.zeno.fm/dbvkq896p48uv"
+      },
+      {
+       "name": "Actualidad Ahora",
+       "url": "https://stream.zeno.fm/b7xwnutk268uv"
+      },
+      {
+       "name": "AFN 360 Guantanamo Bay",
+       "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_GMO_SC"
+      },
+      {
+       "name": "AG 41 RADIO",
+       "url": "https://stream.zeno.fm/ez83pzz08nhvv"
+      },
+      {
+       "name": "Alejandrofonc",
+       "url": "https://stream.zeno.fm/ws8hih9bphzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Animat",
+       "url": "https://stream.zeno.fm/v28wqdug9hhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "AnomisRD",
+       "url": "https://stream.zeno.fm/c5m8vuwfyrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "ArchiCHAGO SANTIAGO DE CUBA",
+       "url": "https://stream.zeno.fm/duqe4ndz6bhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "AvivaVoz",
+       "url": "https://stream.zeno.fm/h6u5gh87dchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Aweawe",
+       "url": "https://stream.zeno.fm/bkuoanhs61qvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Bad bunny",
+       "url": "https://stream.zeno.fm/mbohcjwvs84vv",
+       "language_inferred": true
+      },
+      {
+       "name": "BEMBA DJ",
+       "url": "https://stream.zeno.fm/96gak0zs9bhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "CAIBARIEN HITS",
+       "url": "https://stream.zeno.fm/t6x7wr34w0hvv"
+      },
+      {
+       "name": "CANAL RADIO",
+       "url": "https://stream.zeno.fm/qhgvx2vgashvv"
+      },
+      {
+       "name": "Canal Radio 64Kb Cruces Cienfuegos",
+       "url": "https://stream.zeno.fm/ktfyf1jfkzsuv?n=71912cb519b5cad44547"
+      },
+      {
+       "name": "Cansionesepicas",
+       "url": "https://stream.zeno.fm/1hcmhmsygyitv",
+       "language_inferred": true
+      },
+      {
+       "name": "cfCuba",
+       "url": "https://stream.zeno.fm/79vf50bm6e9uv"
+      },
+      {
+       "name": "CMDY Radio La Voz de la Victoria",
+       "url": "https://icecast.teveo.cu/7XPwcVbL"
+      },
+      {
+       "name": "CMEP Radio Placetas",
+       "url": "https://icecast.teveo.cu/wnW3hTrw"
+      },
+      {
+       "name": "CMHE Radio Esmeralda - Esmeralda, Cuba",
+       "url": "https://icecast.teveo.cu/NnvHhH9z",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "CMHM Radio La Voz del Bayatabo - Minas, Cuba",
+       "url": "https://icecast.teveo.cu/sXzH3Lfp",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "CMHS RADIO CAIBARIEN",
+       "url": "https://stream.zeno.fm/z36q6w308p8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "CMKW Radio Mambí",
+       "url": "https://icecast.teveo.cu/f3Hnc9tP"
+      },
+      {
+       "name": "Compartiendo la Palabra",
+       "url": "https://stream.zeno.fm/9fypm2m4p98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Criollito UCLV",
+       "url": "https://stream.zeno.fm/r25eu8sbfc9uv"
+      },
+      {
+       "name": "Criollito UCLV 2",
+       "url": "https://stream.zeno.fm/tp5g22sbfc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Criollito UCLV 3",
+       "url": "https://stream.zeno.fm/f41uyysbfc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Cuba HE",
+       "url": "https://listen.radionomy.com/cubahe"
+      },
+      {
+       "name": "Cuba80s",
+       "url": "https://node-05.zeno.fm/x7985548u18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "cubaestacion",
+       "url": "https://stream.zeno.fm/m66nuv4m1uhvv"
+      },
+      {
+       "name": "Cubaton",
+       "url": "https://stream.zeno.fm/63nc7f3dmf9uv"
+      },
+      {
+       "name": "David YA",
+       "url": "https://stream.zeno.fm/qoyw4phpkynvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Dayanmartinez",
+       "url": "https://stream.zeno.fm/3gups4gygrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Digital MAster GT",
+       "url": "https://stream.zeno.fm/hr2bc6z8t0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "DJ RANDOFLOW",
+       "url": "https://stream.zeno.fm/hsasvxkbuwzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "DJ ReAcH",
+       "url": "https://stream.zeno.fm/6ddmr41hjlktv",
+       "language_inferred": true
+      },
+      {
+       "name": "djdiyoma",
+       "url": "https://stream.zeno.fm/ymnbvatsxrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "El oscuro2003",
+       "url": "https://stream.zeno.fm/xlmdd3eliwgvv",
+       "language_inferred": true
+      },
+      {
+       "name": "El Templo Eres Tú",
+       "url": "https://stream.zeno.fm/7zt9prwnx38uv"
+      },
+      {
+       "name": "Emisora Radio Bahía – CU-14",
+       "url": "https://icecast.teveo.cu/PKWhw37L",
+       "language_inferred": true
+      },
+      {
+       "name": "Emisora Radio Playita",
+       "url": "https://icecast.teveo.cu/MJTK4tnh"
+      },
+      {
+       "name": "erty gt mta",
+       "url": "https://stream.zeno.fm/nvkhx9t3pjgtv",
+       "language_inferred": true
+      },
+      {
+       "name": "Faranduleando",
+       "url": "https://stream.zeno.fm/gr6sh89v338uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Gabriel",
+       "url": "https://stream.zeno.fm/xqvam2nee0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Good Cuban Music",
+       "url": "https://stream.zeno.fm/a93w6u8zs5nuv"
+      },
+      {
+       "name": "Havana Radio",
+       "url": "https://stream.zeno.fm/8mt9ktvmffhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Horóscopo y Tarot",
+       "url": "https://stream.zeno.fm/e943f5pakuhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "HUELLA DIGITAL FM",
+       "url": "https://stream.zeno.fm/kbrm13rb7nhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Jhomthong Cityradio",
+       "url": "http://node-20.zeno.fm/r6e4t3s0pg0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "JKVIDA",
+       "url": "https://stream.zeno.fm/dsmz22ma8ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Jonny production",
+       "url": "https://stream.zeno.fm/0apwxdw8ckhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Jorge_luis",
+       "url": "https://stream.zeno.fm/tfhfofk1g1duv",
+       "language_inferred": true
+      },
+      {
+       "name": "Jota Jota",
+       "url": "https://stream.zeno.fm/07extbmeprhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Jota Jota",
+       "url": "https://stream.zeno.fm/h0et0zkeprhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "kenjiii",
+       "url": "https://stream.zeno.fm/h4kdsedhuvnuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Kirasama12",
+       "url": "https://stream.zeno.fm/yca7yn3wrnhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Kitoradio",
+       "url": "https://stream.zeno.fm/tar3d52qv98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "La Cubanita",
+       "url": "https://stream.zeno.fm/x2bmxtzwnc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "La Voz de Yaguajay",
+       "url": "https://icecast.teveo.cu/3pxTqXw9"
+      },
+      {
+       "name": "La Voz del Este",
+       "url": "https://stream.zeno.fm/59fukzc35k0uv"
+      },
+      {
+       "name": "La Voz del Este",
+       "url": "https://stream.zeno.fm/6hvyfuhnrp8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "La Voz del Faro",
+       "url": "https://stream.zeno.fm/1vkfsytpxs8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "La Zona Cubana Radio",
+       "url": "http://centova2.whsh4u.com:9287/stream/1/",
+       "language_inferred": true
+      },
+      {
+       "name": "La Zona Cubana Radio",
+       "url": "https://stream.zeno.fm/wr95sm7t2f8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "La_Doble_uncion",
+       "url": "https://stream.zeno.fm/vey9abfvkchvv"
+      },
+      {
+       "name": "LaMegaCubanita",
+       "url": "https://stream.zeno.fm/mtvnd1ampc9uv"
+      },
+      {
+       "name": "LatinosPlus",
+       "url": "https://stream.zeno.fm/srpaf35ke0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "leonel2000",
+       "url": "https://stream.zeno.fm/jnpngarmaqovv",
+       "language_inferred": true
+      },
+      {
+       "name": "linjë fonti",
+       "url": "https://stream1.svrdedicado.org:7177/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Logaritmo",
+       "url": "https://stream.zeno.fm/8orqjbe0pgjuv",
+       "language_inferred": true
+      },
+      {
+       "name": "LokuraFM Cuba",
+       "url": "https://stream.zeno.fm/8kzt115kzhhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Manduca Radio 507 63103957",
+       "url": "https://stream.zeno.fm/3s10qs17twzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "mi radio",
+       "url": "https://stream.zeno.fm/s996srb5echvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Mira-mira FM",
+       "url": "https://stream.zeno.fm/z305tgsv2ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "music aa",
+       "url": "https://stream.zeno.fm/xikxzmghyaovv",
+       "language_inferred": true
+      },
+      {
+       "name": "Music.com",
+       "url": "https://stream.zeno.fm/v3cz6r3ua0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "MusicMP3",
+       "url": "https://stream.zeno.fm/9ihrsqr9icxvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Nandoteca",
+       "url": "https://stream.zeno.fm/vcllksc6irkvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Ohh La La Music",
+       "url": "https://stream.zeno.fm/e8tsu9c9z4zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Palabra Fiel Radio",
+       "url": "https://stream.zeno.fm/kwb06r9r4s4uv",
+       "language_inferred": true
+      },
+      {
+       "name": "piko123",
+       "url": "https://stream.zeno.fm/3hiyy6broh6uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Portal de Éxitos",
+       "url": "https://stream.zeno.fm/iul79k0h1hquv",
+       "language_inferred": true
+      },
+      {
+       "name": "Prensa Latina - Agencia Informativa Latinoamericana",
+       "url": "https://cdn4.onstream.audio:9267/stream?download=false?n=213395a7fa4c0482850d",
+       "language_inferred": true
+      },
+      {
+       "name": "Project Music Radio",
+       "url": "https://stream.zeno.fm/hq13rcr6qy8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 015 Sabac",
+       "url": "http://node-08.zeno.fm/7xcqwvxf0k8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 015 Šabac",
+       "url": "https://stream.zeno.fm/7xcqwvxf0k8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Amanecer",
+       "url": "https://icecast.teveo.cu/HpM9FCwR"
+      },
+      {
+       "name": "Radio Archipielago Cubano",
+       "url": "https://stream.zeno.fm/c6sx2adrzd0uv"
+      },
+      {
+       "name": "Radio Ariguanabo",
+       "url": "https://icecast.teveo.icrt.cu/LHNf74bt",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Arimao",
+       "url": "https://icecast.teveo.cu/4fNcwkpC"
+      },
+      {
+       "name": "Radio Azul 18.FM",
+       "url": "https://stream.zeno.fm/d8krzpyz298uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Azul 18.FM",
+       "url": "https://stream.zeno.fm/6dvkr8wz298uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Baracoa",
+       "url": "https://icecast.teveo.cu/srfcdPC7"
+      },
+      {
+       "name": "Radio Biblia Abierta",
+       "url": "https://stream.zeno.fm/fz4r4v1e5ehvv"
+      },
+      {
+       "name": "Radio Brisas",
+       "url": "https://stream.zeno.fm/7wppnet8v0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Cabaniguán – Jobabo – CU-10",
+       "url": "https://icecast.teveo.cu/PPFsPfF4",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Camaguey 1140",
+       "url": "https://stream.zeno.fm/bsret26t2f8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Campesina Cubana – Havana – CU-02",
+       "url": "https://radiocampesinacubana.stream.laut.fm/radiocampesinacubana?t302=2022-10-11_16-20-10&uuid=ff3a781b-8812-4e8b-83b4-60196ae6b1af",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Chambas",
+       "url": "https://icecast.teveo.cu/bxKRMpX4"
+      },
+      {
+       "name": "Radio Chaparra",
+       "url": "https://icecast.teveo.cu/tW3JjWph"
+      },
+      {
+       "name": "Radio Coral",
+       "url": "https://icecast.teveo.cu/svzd4KHw"
+      },
+      {
+       "name": "Radio Cristiana Cuba",
+       "url": "https://stream.zeno.fm/qvx9qdsxcfhvv"
+      },
+      {
+       "name": "Radio Cristiana Lite2",
+       "url": "https://stream.zeno.fm/r71czmvpdfhvv"
+      },
+      {
+       "name": "Radio Cruces",
+       "url": "https://icecast.teveo.cu/pLC7FJpp",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Cuba Libre Internacional",
+       "url": "http://192.99.0.170:5002",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Cubana",
+       "url": "http://streaming211.radionomy.com:80/Radio-Cubana",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Cubitas – Cubitas – CU-09",
+       "url": "https://icecast.teveo.cu/FRKq3RTV",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Dimension Latina TV",
+       "url": "https://stream.zeno.fm/yw96cma3vv8uv"
+      },
+      {
+       "name": "RADIO EBEN-HEZER",
+       "url": "https://stream.zeno.fm/25c88xbn1uhvv"
+      },
+      {
+       "name": "Radio Ecos de Sagua",
+       "url": "https://icecast.teveo.cu/3vfVjmNm"
+      },
+      {
+       "name": "Radio El Salvador del Mundo",
+       "url": "http://radio15.servidorderadio.net:8036/stream/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Escarlata",
+       "url": "https://stream.zeno.fm/zc08kn0bkf9uv"
+      },
+      {
+       "name": "Radio Fe Cuba",
+       "url": "https://stream.zeno.fm/vzy36fqfzchvv"
+      },
+      {
+       "name": "Radio Ferreteria",
+       "url": "https://stream.zeno.fm/6q20qers6s8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Florida",
+       "url": "https://icecast.teveo.icrt.cu/4N4Mfsgd",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Florida",
+       "url": "https://icecast.teveo.cu/4N4Mfsgd"
+      },
+      {
+       "name": "Radio Futura",
+       "url": "https://stream.zeno.fm/4mqprqcqf48uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Futura",
+       "url": "https://stream.zeno.fm/2xeha8vnva0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Gibara",
+       "url": "https://icecast.teveo.cu/KLp4WrKL"
+      },
+      {
+       "name": "Radio Glance",
+       "url": "https://stream.zeno.fm/3dedaqur8o5tv"
+      },
+      {
+       "name": "Radio Glance radio",
+       "url": "https://radio.mediacp.eu:8094/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Guáimaro",
+       "url": "https://icecast.teveo.cu/gXgMFKp9",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Holguín",
+       "url": "https://icecast.teveo.cu/dn9JTKtH"
+      },
+      {
+       "name": "Radio IBEC-AV",
+       "url": "https://stream.zeno.fm/9fwqqg8vvhhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio IIDMA Stereo",
+       "url": "https://stream.zeno.fm/1n0a9067am8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Impacto",
+       "url": "https://stream.zeno.fm/wuvz4pgh3zhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Jatibonico",
+       "url": "https://icecast.teveo.cu/hW7WL4v9"
+      },
+      {
+       "name": "Radio LA REVOLUCION Z-F",
+       "url": "https://stream.zeno.fm/vx9guvdg8yzuv"
+      },
+      {
+       "name": "Radio La Voz de Cabaiguán",
+       "url": "https://icecast.teveo.cu/XK3Ttwmj",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio La Voz del Bayatabo",
+       "url": "https://ia600602.us.archive.org/28/items/identificacion/IDENTIFICACIONN.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Libertad",
+       "url": "https://icecast.teveo.cu/kcLKb4qv"
+      },
+      {
+       "name": "Radio LOVEMUSIC",
+       "url": "http://stream.zeno.fm/68x8540bwnhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO LUMBRE",
+       "url": "https://stream.zeno.fm/ttmqk09eqchvv"
+      },
+      {
+       "name": "Radio Lumbre – CU",
+       "url": "http://stream.zeno.fm/en6ds09eqchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Maisí",
+       "url": "https://icecast.teveo.cu/3xW3qJdm"
+      },
+      {
+       "name": "Radio Majaguabo",
+       "url": "https://icecast.teveo.cu/7P4nbVPK",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Mambí",
+       "url": "https://icecast.teveo.icrt.cu/f3Hnc9tP",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Manatí",
+       "url": "https://icecast.teveo.icrt.cu/ck7LxsjX",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Manatí",
+       "url": "https://icecast.teveo.cu/ck7LxsjX"
+      },
+      {
+       "name": "Radio María de la Caridad",
+       "url": "https://stream.zeno.fm/gn0bf55htnhvv"
+      },
+      {
+       "name": "Radio Miami",
+       "url": "http://ample-zeno-16.radiojar.com/68rczv3wwyduv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Nuevitas",
+       "url": "https://icecast.teveo.icrt.cu/9VVnwcww",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Nuevitas",
+       "url": "https://icecast.teveo.cu/9VVnwcww"
+      },
+      {
+       "name": "Radio Portada de la Libertad",
+       "url": "https://icecast.teveo.cu/mN9kqbNs"
+      },
+      {
+       "name": "Radio Queen",
+       "url": "https://stream.zeno.fm/fo2hqubqg4dvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Reformada",
+       "url": "https://stream.zeno.fm/0d0e6z34dkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Retro Musical",
+       "url": "https://stream.zeno.fm/h69s074nunhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Santa Cruz – 104.3 FM – Santa Cruz del Sur – CU-09",
+       "url": "https://icecast.teveo.cu/Nmb4HvkL",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio SG",
+       "url": "https://icecast.teveo.cu/TqqKTLP9"
+      },
+      {
+       "name": "Radio Sibanicú – CU-09",
+       "url": "https://icecast.teveo.cu/4WxdHctd",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Sonera",
+       "url": "http://5.135.183.124:8391/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Sonido SM",
+       "url": "https://icecast.teveo.cu/HmwFH4V4",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Surco",
+       "url": "https://stream.zeno.fm/na7gz0lk0o7uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Trinchera",
+       "url": "https://icecast.teveo.cu/Csb3zdfv"
+      },
+      {
+       "name": "Radio Victoria de Girón",
+       "url": "https://icecast.teveo.icrt.cu/cgMTxX9V",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Victoria de Girón",
+       "url": "https://icecast.teveo.cu/cgMTxX9V"
+      },
+      {
+       "name": "Radio Vision Cuba para Cristo",
+       "url": "https://stream.zeno.fm/3ccn4tqz6mruv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Vitral",
+       "url": "http://node-23.zeno.fm/5z7czcze2k0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Vitral",
+       "url": "https://stream.zeno.fm/5z7czcze2k0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Vitral – 103.9 FM – CU-07",
+       "url": "https://icecast.teveo.cu/7NgVjcqX",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Vivencias 103.1",
+       "url": "http://streaming1.locucionar.com:14299/stream/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Xpress",
+       "url": "https://stream.zeno.fm/m7x520bxyuhvv"
+      },
+      {
+       "name": "Radio-EME",
+       "url": "https://stream.zeno.fm/dqe4rgrkychvv"
+      },
+      {
+       "name": "Radio-Mia",
+       "url": "https://stream.zeno.fm/ewygk8zc508uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RadioClubHabana",
+       "url": "https://stream.zeno.fm/tohwu7an0lntv",
+       "language_inferred": true
+      },
+      {
+       "name": "RadioLa Digital.cu",
+       "url": "https://stream.zeno.fm/yafv490ztchvv"
+      },
+      {
+       "name": "RadioMia",
+       "url": "https://stream.zeno.fm/raf2xnzc508uv",
+       "language_inferred": true
+      },
+      {
+       "name": "radiomiloaccademy",
+       "url": "https://stream.zeno.fm/x88pnyudxzzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "radiont2",
+       "url": "https://stream.zeno.fm/ck0vs9kxjdgtv",
+       "language_inferred": true
+      },
+      {
+       "name": "RankingFm",
+       "url": "https://stream.zeno.fm/e6hfq33vrf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RankingFm",
+       "url": "https://stream.zeno.fm/f6kxfx4vrf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RAVE E55EX",
+       "url": "https://stream.zeno.fm/ac7w2mynffhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Rc mastera",
+       "url": "https://stream.zeno.fm/gj88t5lc5mavv",
+       "language_inferred": true
+      },
+      {
+       "name": "Regueton",
+       "url": "https://stream.zeno.fm/j5zhvmdwydhuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Romance Radio",
+       "url": "https://stream.zeno.fm/0rg6tz5twchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "RomanticaRadio",
+       "url": "https://stream.zeno.fm/bqw0n1ytsnhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "RSCuba",
+       "url": "https://stream.zeno.fm/6avu8jhth5juv",
+       "language_inferred": true
+      },
+      {
+       "name": "RussianRadioFM",
+       "url": "https://stream.zeno.fm/4v9gmfd01ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Salsa Mania – Havana – CU-02",
+       "url": "https://ca2ssl.rcast.net/stream/60446.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "SDCARCHIPELAGO",
+       "url": "https://stream.zeno.fm/n0zhdfdz6bhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Serendipia",
+       "url": "https://stream.zeno.fm/qvcx8gt7sc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Sergio sounds",
+       "url": "https://stream.zeno.fm/2xsc7enffvovv",
+       "language_inferred": true
+      },
+      {
+       "name": "Siboney Radio",
+       "url": "https://stream.zeno.fm/gq17tzp0zuhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "SONANDO EN CUBA.MUSIC",
+       "url": "https://stream.zeno.fm/nw3auuzwkchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Sonora Latina",
+       "url": "https://stream.zeno.fm/d5sw3c7w398uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Trinidad en vivo Radio",
+       "url": "https://stream1.svrdedicado.org:7165/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Tzgospel swahili",
+       "url": "https://stream.zeno.fm/5g2u4vpdhfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "URBAN 40",
+       "url": "https://stream.zeno.fm/ep0t8mttsnhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Varadero radio IN BRAZIL",
+       "url": "https://stream1.svrdedicado.org/8334/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Veillez Et Priez",
+       "url": "https://stream.zeno.fm/ck1se96zxuhvv"
+      },
+      {
+       "name": "Vibra Digital",
+       "url": "https://stream.zeno.fm/mwzv7u70vd0uv"
+      },
+      {
+       "name": "Xtodos",
+       "url": "https://stream.zeno.fm/vsqyqzsaaf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Yosvany URL1",
+       "url": "https://stream.zeno.fm/ndabgejy1kltv",
+       "language_inferred": true
+      },
+      {
+       "name": "yuyoonline",
+       "url": "https://stream.zeno.fm/h315pcfn1uhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "yyyyyy",
+       "url": "https://stream.zeno.fm/9vvy27zbt68uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Zona Espectaculo",
+       "url": "https://stream.zeno.fm/rzqw2cp52rhvv"
+      },
+      {
+       "name": "Zona Espectaculo Play",
+       "url": "https://stream.zeno.fm/w0tmbaq52rhvv"
+      }
+     ]
+    }
+   }
+  },
+  "English": {
+   "count": 2,
+   "genres": {
+    "rock": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "NEONRADIOXL",
+       "url": "https://s12.myradiostream.com/16754/listen.mp3",
+       "tags": [
+        "rock",
+        "pop_hits",
+        "latin"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "AFN 360 Guantanamo Bay",
+       "url": "http://playerservices.streamtheworld.com/m3u/AFNE_GMO.m3u"
+      }
+     ]
+    }
+   }
+  },
+  "Portuguese": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "ALCÂNTARA FM",
+       "url": "https://stream.zeno.fm/zwzsbb0e3p8uv"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

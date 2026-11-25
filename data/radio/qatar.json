@@ -1,0 +1,1206 @@
+{
+ "country": "Qatar",
+ "count": 170,
+ "languages": {
+  "Arabic": {
+   "count": 143,
+   "genres": {
+    "bollywood_indian": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Mirchi One Qatar",
+       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/QAT_HIN_GSTAAC_HI.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Olive",
+       "url": "http://20863.live.streamtheworld.com:80/OLIVE1063AAC_SC",
+       "language_inferred": true
+      }
+     ]
+    },
+    "christian_gospel": {
+     "count": 6,
+     "stations": [
+      {
+       "name": "MixMashup Radio",
+       "url": "http://listen.radionomy.com/mixmashupradio",
+       "tags": [
+        "christian_gospel",
+        "pop_hits",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Quran Radio",
+       "url": "https://622ea98e0a84c.streamlock.net/QURAN/myStream/chunklist_w237839478.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "Quran Radio 2",
+       "url": "https://622ea98e0a84c.streamlock.net/QURAN2/myStream/chunklist_w533024410.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "Quran Radio Qatar",
+       "url": "http://52.178.28.223:1935/QURAN/myStream/playlist.m3u8",
+       "tags": [
+        "christian_gospel",
+        "islamic_quran"
+       ]
+      },
+      {
+       "name": "Sri India Doha Tamil 81.98FM radio",
+       "url": "http://freeuk21.listen2myradio.com:11582/",
+       "language_inferred": true
+      },
+      {
+       "name": "Uthamiyae FM",
+       "url": "http://162.244.80.20:4712",
+       "tags": [
+        "christian_gospel",
+        "kids"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "comedy": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "1variraamuddu",
+       "url": "https://stream.zeno.fm/3rmk51f9938uv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "country": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Friends-FM",
+       "url": "http://144.91.119.63:8012/stream",
+       "tags": [
+        "country",
+        "decade_90s"
+       ]
+      },
+      {
+       "name": "Hott 95.3 FM Listen live",
+       "url": "https://prod-34-83-135-79.wostreaming.net/starcom-hott95mp3-ibc1",
+       "tags": [
+        "pop_hits",
+        "country"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Habaieb FM",
+       "url": "https://www.liveradio.es/http://188.166.95.19:8000/live_habaiebfm.mp3"
+      }
+     ]
+    },
+    "electronic": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Qabayan Radio",
+       "url": "https://c2.radioboss.fm/stream/478",
+       "language_inferred": true
+      }
+     ]
+    },
+    "hip_hop_rap": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Mental Grooves",
+       "url": "https://s3.voscast.com:10241/stream",
+       "tags": [
+        "hip_hop_rap",
+        "house"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "islamic_quran": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "QBS Radio",
+       "url": "http://52.178.28.223:1935/QBS/myStream/Playlist.m3u8",
+       "tags": [
+        "islamic_quran",
+        "christian_gospel"
+       ]
+      },
+      {
+       "name": "إذاعة الريان",
+       "url": "http://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8",
+       "tags": [
+        "islamic_quran",
+        "christian_gospel"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "kids": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "Egyptian",
+       "url": "https://stream.zeno.fm/yfg7kvymr18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Olive Kids",
+       "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_OLIVE_CLUB_S04AAC_SC",
+       "language_inferred": true
+      },
+      {
+       "name": "Subzero",
+       "url": "https://stream.zeno.fm/pp57bz8kzhhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Uthamiyae FM",
+       "url": "http://51.89.173.53:8173/stream",
+       "language_inferred": true
+      }
+     ]
+    },
+    "latin": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Golfo Radio 98.3 FM Listen live",
+       "url": "https://01.solumedia.com.ar:10061/stream.mp3/",
+       "tags": [
+        "sports",
+        "various_eclectic",
+        "latin"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 14,
+     "stations": [
+      {
+       "name": "Al Jazeera Arabic",
+       "url": "https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/index.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "world"
+       ]
+      },
+      {
+       "name": "Al Jazeera Arabic",
+       "url": "https://live-hls-web-aja.getaj.net/AJA-b/index.m3u8"
+      },
+      {
+       "name": "Al Jazeera English",
+       "url": "http://66.226.10.51:8000/AljazeeraEnglish",
+       "language_inferred": true
+      },
+      {
+       "name": "freefm.lk - Qatar Sinhala Radio",
+       "url": "https://stream.zeno.fm/4awq6kvoezttv",
+       "tags": [
+        "news_talk",
+        "classical",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Qatar Radio - إذاعة قطر",
+       "url": "https://622ea98e0a84c.streamlock.net/QRS/myStream/chunklist_w1345467719.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Al Jazeera English",
+       "url": "https://live-hls-audio-web-aje.getaj.net/VOICE-AJE/index.m3u8"
+      },
+      {
+       "name": "Radio Olive",
+       "url": "http://22603.live.streamtheworld.com:80/OLIVE1063AAC_SC",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "bollywood_indian"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Olive Nepal",
+       "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_OLIVE_HITS_S02AAC_SC",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Sout Al Khaleej FM radio",
+       "url": "https://live.amperwave.net/direct/ihorizonsradio-sakfmaac-ibc1",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Uganda Qatar",
+       "url": "https://stream.zeno.fm/b24fqp4n5tzuv",
+       "tags": [
+        "news_talk",
+        "folk"
+       ]
+      },
+      {
+       "name": "إذاعة صوت الخليج FM",
+       "url": "http://ruby.streamguys.com:8120/sar-qatar-2"
+      },
+      {
+       "name": "إذاعة قطر",
+       "url": "http://52.178.28.223:1935/QRS/myStream/Playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "folk"
+       ]
+      },
+      {
+       "name": "راديو اوريكس أف أم",
+       "url": "http://52.178.28.223:1935/ORYX/myStream/Playlist.m3u8"
+      },
+      {
+       "name": "قناة اﻟﺠﺰﻳﺮﺓ اﻟﻌﺮﺑﻴﺔ",
+       "url": "https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/01.m3u8",
+       "tags": [
+        "news_talk",
+        "classical"
+       ]
+      }
+     ]
+    },
+    "oldies": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Olive Retro – Doha – QA-DA",
+       "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_OLIVE_RETRO_S03AAC_SC",
+       "language_inferred": true
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 8,
+     "stations": [
+      {
+       "name": "Fame FM Qatar",
+       "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM03AAC389_SC",
+       "tags": [
+        "pop_hits",
+        "electronic",
+        "world"
+       ]
+      },
+      {
+       "name": "Inta FM 103.7",
+       "url": "https://s4.radio.co/s907eaefbe/listen",
+       "tags": [
+        "pop_hits",
+        "decade_80s",
+        "decade_90s"
+       ]
+      },
+      {
+       "name": "Oryx FM",
+       "url": "https://622ea98e0a84c.streamlock.net/ORYX/myStream/chunklist_w201781413.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "Qabayan Radio",
+       "url": "https://c2.radioboss.fm:18478/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "QMC Sout al Khaleej",
+       "url": "https://live.wostreaming.net/direct/ihorizonsradio-sakfmmp3-ibc1",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Radio Sawa 92.6 FM radio",
+       "url": "https://stream.radiojar.com/mzw8z62r92quv",
+       "tags": [
+        "pop_hits",
+        "folk",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Radio Suno Lanka",
+       "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_SUNO_HITS_S05AAC_SC",
+       "language_inferred": true
+      },
+      {
+       "name": "Urdu Radio",
+       "url": "https://622ea98e0a84c.streamlock.net/URDU/myStream/chunklist_w1188455970.m3u8",
+       "language_inferred": true
+      }
+     ]
+    },
+    "rock": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "FM Siempre Listen live",
+       "url": "https://radio.tvstream.cl/8104/server",
+       "tags": [
+        "rock",
+        "christian_gospel",
+        "easy_listening",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "soul_rnb_funk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "egoFM Live Listen live",
+       "url": "https://egofm-ais-edge-3005-fra-eco-cdn.cast.addradio.de/egofm/live/mp3/high/stream.mp3",
+       "tags": [
+        "soul_rnb_funk",
+        "schlager_polka",
+        "alternative_indie",
+        "electronic"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "sports": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Argentina vs France",
+       "url": "https://stream.zeno.fm/icol8dgum3huv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "world": {
+     "count": 8,
+     "stations": [
+      {
+       "name": "QBS Radio 97.5",
+       "url": "https://622ea98e0a84c.streamlock.net/QBS/myStream/Playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "QBS Radio 97.5 FM",
+       "url": "http://89.211.63.14:1935/qbs/mp3:qbs/chunklist.m3u8"
+      },
+      {
+       "name": "QN Radio - Qatar Nepal Internet Radio",
+       "url": "http://nebula.shoutca.st:8612",
+       "tags": [
+        "world",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Suno 91.7 Listen live",
+       "url": "https://20133.live.streamtheworld.com/SUNO917.mp3",
+       "tags": [
+        "news_talk",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Sout Al-Khaleej",
+       "url": "https://icy-e-01-cr.sharp-stream.com/spectrum4.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Sout Al-Khaleej 100.8 FM",
+       "url": "http://live.wostreaming.net/direct/ihorizonsradio-sakfmaac-ibc1"
+      },
+      {
+       "name": "Sout Al-Khaleej 100.8 FM",
+       "url": "https://prod-35-197-88-50.wostreaming.net/ihorizonsradio-sakfmaac-ibc1"
+      },
+      {
+       "name": "Urdu Radio",
+       "url": "https://wowzaprod134-i.akamaihd.net/hls/live/577826/4745c18c/playlist.m3u8"
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 88,
+     "stations": [
+      {
+       "name": "038kolllihits",
+       "url": "https://stream.zeno.fm/wmz0tb63138uv"
+      },
+      {
+       "name": "18.13 Bhadz online radio",
+       "url": "https://stream.zeno.fm/6bh1gnboa4evv",
+       "language_inferred": true
+      },
+      {
+       "name": "21st century Vibes ( Rap + Hip/Hop)",
+       "url": "https://stream.zeno.fm/yyg1pscpua0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "African Radio In Qatar",
+       "url": "https://stream.zeno.fm/s1vrs4wfxzzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "AGORA RADIO",
+       "url": "https://stream.zeno.fm/34zmxmd9huhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Ahmed FM",
+       "url": "https://stream.zeno.fm/ev3y0yfa3hhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "AL BIDDA",
+       "url": "https://stream.zeno.fm/u5yt9duw2a0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Al Jazeera (English)",
+       "url": "https://live-hls-audio-aje-ak.getaj.net/VOICE-AJE/index.m3u8"
+      },
+      {
+       "name": "Al Jazeera Arabic",
+       "url": "http://66.226.10.51:8000/AljazeeraArabic"
+      },
+      {
+       "name": "Al Jazeera English Radio Frequency Qatar",
+       "url": "https://live-hls-audio-apps-aje.getaj.net/VOICE-AJE/01.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "Aljazeera Arabic",
+       "url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8"
+      },
+      {
+       "name": "almhandi",
+       "url": "https://stream.zeno.fm/pnhpafwt6x8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "avalum nanumfm",
+       "url": "https://stream.zeno.fm/vcs488rkka0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "DJ Wizard Online Radio",
+       "url": "https://stream.zeno.fm/ncupc6h35c9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Doha music",
+       "url": "https://stream.zeno.fm/ixkfyupfjlsuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Doha music",
+       "url": "https://stream.zeno.fm/hpcs5pvoodcuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Doom666",
+       "url": "https://stream.zeno.fm/cqws7t20bf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Dream For Life",
+       "url": "https://stream.zeno.fm/7ebkdt650phtv",
+       "language_inferred": true
+      },
+      {
+       "name": "EL MAMO PROUTICTION",
+       "url": "https://stream.zeno.fm/qkn45rmc0rhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "FAME FM",
+       "url": "http://s1.viastreaming.net:9175/"
+      },
+      {
+       "name": "FAME FM Qatar",
+       "url": "https://stream.zeno.fm/efm355q2ag0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "FYouRadio",
+       "url": "https://stream.zeno.fm/t67c17nnffhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Golfo Radio 983 FM",
+       "url": "http://streaming.dinesat.com:7006/",
+       "language_inferred": true
+      },
+      {
+       "name": "Hola Qatar Radio",
+       "url": "http://640b79a5c9ef3.streamlock.net:1935/SPANISH/myStream/Playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "Holy Quran Radio Of Qatar",
+       "url": "http://wowzaprod134-i.akamaihd.net/hls/live/577826/63529851/playlist.m3u8"
+      },
+      {
+       "name": "HYES FM – QA",
+       "url": "http://stream.zeno.fm/hw4bwe0kffhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "ilayanilafm",
+       "url": "https://stream.zeno.fm/x4y8rrkuea0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "ISLAHI RADIO 2",
+       "url": "https://stream.zeno.fm/3msc0wzhpchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "J7S CREATION",
+       "url": "https://stream.zeno.fm/mxkh5bvydf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Khutout Station",
+       "url": "https://stream.zeno.fm/udzmx78kzhhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Kimo hits",
+       "url": "https://stream.zeno.fm/87k12d44xnhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "LUVBUTNP HOST 1011",
+       "url": "https://stream.zeno.fm/wfb19er8998uv",
+       "language_inferred": true
+      },
+      {
+       "name": "LUVMALNP HOST 1012",
+       "url": "https://stream.zeno.fm/xcqyfr8qbc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "LUVQNRQA HOST 1009",
+       "url": "https://stream.zeno.fm/gkh0qtz7fc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "LUVRESNP HOST 1010",
+       "url": "https://stream.zeno.fm/r0t4yer8998uv",
+       "language_inferred": true
+      },
+      {
+       "name": "M1 Radio",
+       "url": "https://stream.zeno.fm/wut0h5z81n6vv",
+       "language_inferred": true
+      },
+      {
+       "name": "MaxRP.",
+       "url": "https://stream.zeno.fm/wxnuc505rm0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "MrNMrs_Smith",
+       "url": "https://stream.zeno.fm/ruj0frzsoactv",
+       "language_inferred": true
+      },
+      {
+       "name": "OGR-NP-BDOOF",
+       "url": "https://stream.zeno.fm/b54cykf8ay8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "OGR-NP-HFBHB",
+       "url": "https://stream.zeno.fm/3gq0vzgsfy8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "OGR-NP-LAMAN",
+       "url": "https://stream.zeno.fm/s9fzyv3eay8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "OGR-NP-XHDOP",
+       "url": "https://stream.zeno.fm/dw5dw0dday8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "ONLYY99",
+       "url": "https://stream.zeno.fm/4ksi3fzpgattv",
+       "language_inferred": true
+      },
+      {
+       "name": "ORG-NP-NGOGF",
+       "url": "https://stream.zeno.fm/kqf09hdfay8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Oryx FM راديو اوريكس أف أم – 94.0 FM – Doha – QA-DA",
+       "url": "https://622ea98e0a84c.streamlock.net/ORYX/myStream/Playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "Pinoy Heart Radio",
+       "url": "http://198.178.123.8:7710",
+       "bitrate": 96,
+       "logo": "http://radio.pervii.com/im/2/1550972232.jpg"
+      },
+      {
+       "name": "pinoyofwstation",
+       "url": "https://stream.zeno.fm/mf3ny2r0qa0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Q Tamil Radio – Doha – QA-DA",
+       "url": "https://castcloud.pvtwebs.com/proxy/qtamilra?mp=/live",
+       "language_inferred": true
+      },
+      {
+       "name": "Qabayan Radio",
+       "url": "https://streamingv2.shoutcast.com/qabayan-radio"
+      },
+      {
+       "name": "Qabayan Radio – 94.3 FM – Doha – QA-DA",
+       "url": "https://streamingv2.shoutcast.com/qabayan",
+       "language_inferred": true
+      },
+      {
+       "name": "Qatar Lanka Radio",
+       "url": "https://stream.zeno.fm/ol4uavvwdgauv",
+       "language_inferred": true
+      },
+      {
+       "name": "Qatar Radio إذاعة قطر",
+       "url": "https://640b79a5c9ef3.streamlock.net/QRS/myStream/chunklist_w1430080778.m3u8?n=9f3e99ea894e47bd15be"
+      },
+      {
+       "name": "qatar974",
+       "url": "https://stream.zeno.fm/4fdbgk274v8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "QBS Radio",
+       "url": "https://640b79a5c9ef3.streamlock.net/QBS/myStream/Playlist.m3u8?n=4480168cd448ac6cc6cd",
+       "language_inferred": true
+      },
+      {
+       "name": "QF Radio 91.7 (English)",
+       "url": "http://stream.qfradio.org.qa:1935/live/live.stream/playlist.m3u8"
+      },
+      {
+       "name": "QF Radio 93.7 راديو مؤسسة قطر",
+       "url": "http://stream.qfradio.org.qa:1935/live-ar/live-ar.stream/playlist.m3u8"
+      },
+      {
+       "name": "qqqhassan",
+       "url": "https://stream.zeno.fm/z3z94z9c408uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Quran Radio 2",
+       "url": "https://qmclivestreaming.qa/QURAN2/myStream/Playlist.m3u8"
+      },
+      {
+       "name": "Radio Olive 106.3",
+       "url": "https://21233.live.streamtheworld.com/OLIVE1063.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Olive 106.3",
+       "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLIVE1063AAC.aac?n=20ddef789a3efb050ebb",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Sout Al Khaleej FM",
+       "url": "https://prod-34-82-94-205.wostreaming.net/ihorizonsradio-sakfmaac-ibc1",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Suno Melody",
+       "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_SUNO_MELODY_S06_SC"
+      },
+      {
+       "name": "Radio_Amna",
+       "url": "https://stream.zeno.fm/9115ufyf0d0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radionagai radio",
+       "url": "https://stream.zeno.fm/63nkaqk24d0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "rede brazil live Doha radio",
+       "url": "https://sonicpanel.oficialserver.com:7164/",
+       "language_inferred": true
+      },
+      {
+       "name": "Revolt 256",
+       "url": "https://stream.zeno.fm/gz24tum1h18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RV7 QATAR",
+       "url": "https://stream.zeno.fm/dlm6sv8eoaytv",
+       "language_inferred": true
+      },
+      {
+       "name": "Station CAnRa OGR",
+       "url": "https://stream.zeno.fm/1gyqxpyzra0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Station DGthK OGR",
+       "url": "https://stream.zeno.fm/hzd1ew4zra0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Station HtLUm OGR",
+       "url": "https://stream.zeno.fm/4mugen4pga0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Station JbLxD OGR",
+       "url": "https://stream.zeno.fm/0b47vekana0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Station kuZFl OGR",
+       "url": "https://stream.zeno.fm/9ff59nrusa0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Station RXnTh OGR",
+       "url": "https://stream.zeno.fm/xucy1w2nga0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Station XaTHv OGR",
+       "url": "https://stream.zeno.fm/d0y9ntrnga0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Stuffss",
+       "url": "https://stream.zeno.fm/iixny8eu8entv",
+       "language_inferred": true
+      },
+      {
+       "name": "Tamil quran",
+       "url": "https://stream.zeno.fm/h9rd9b3rmchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "The six and the nine",
+       "url": "https://stream.zeno.fm/toup1fb6rl9vv",
+       "language_inferred": true
+      },
+      {
+       "name": "TILAWAT-E-QURAN",
+       "url": "https://stream.zeno.fm/gfwesn7k0hhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Transformation InforTech",
+       "url": "https://stream.zeno.fm/ndre9k5m4ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Tzgospel swahili",
+       "url": "https://stream.zeno.fm/fg0qhkw9rchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Urdu Radio",
+       "url": "https://qmclivestreaming.qa/URDU/myStream/Playlist.m3u8"
+      },
+      {
+       "name": "Urdu Radio – Doha – QA-DA",
+       "url": "https://622ea98e0a84c.streamlock.net/URDU/myStream/Playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "Uthamiyae FM Radio",
+       "url": "https://qmclivestreaming.qa/QRS/myStream/Playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "إذاعة الريان Al Rayyan",
+       "url": "http://msqbstreamer1.qatarbroadcast.qa:1935/HR03/RD03.stream/playlist.m3u8"
+      },
+      {
+       "name": "إذاعة الريان Al Rayyan – 102.0 FM – Doha – QA-DA",
+       "url": "https://svs.itworkscdn.net/alrayyanradiolive/sawtrayyan/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "إذاعة القرأن الكريم",
+       "url": "http://52.178.28.223:1935/QURAN/myStream/Playlist.m3u8"
+      },
+      {
+       "name": "حبايب اف ام",
+       "url": "http://188.166.95.19:8000/stream/"
+      },
+      {
+       "name": "قناة الجزيرة",
+       "url": "https://live-hls-web-aja.getaj.net/AJA/06.m3u8"
+      }
+     ]
+    }
+   }
+  },
+  "Malayalam": {
+   "count": 5,
+   "genres": {
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Suno",
+       "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUNO917_SC",
+       "tags": [
+        "news_talk",
+        "world",
+        "christian_gospel",
+        "classical",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "world": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Malayalam 98.6",
+       "url": "http://vokcast.bluecast.in:8227/986fm",
+       "tags": [
+        "world",
+        "folk",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "ISLAHI RADIO",
+       "url": "https://stream.zeno.fm/4w4ww7tgpchvv"
+      },
+      {
+       "name": "WIWO Live Webcast",
+       "url": "https://stream.zeno.fm/9y7faphwbfhvv"
+      },
+      {
+       "name": "YQRADIO",
+       "url": "https://stream.zeno.fm/1cfdt0n57p8uv"
+      }
+     ]
+    }
+   }
+  },
+  "Tamil": {
+   "count": 5,
+   "genres": {
+    "christian_gospel": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Radio Uthamiyae FM Listen live",
+       "url": "https://ssl.aloncast.com:1595",
+       "tags": [
+        "christian_gospel",
+        "kids",
+        "trance_goa",
+        "soul_rnb_funk"
+       ]
+      },
+      {
+       "name": "Sri India Tamil 81.98FM radio",
+       "url": "http://freeuk27.listen2myradio.com:11438/"
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Hello Machi FM",
+       "url": "https://stream.zeno.fm/us6vf397f2zuv"
+      },
+      {
+       "name": "Radio Suno Tamil",
+       "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_SUNO_TAMIL_S01AAC_SC"
+      },
+      {
+       "name": "Uthamiyae FM",
+       "url": "https://stream.zeno.fm/m8x88upxem8uv"
+      }
+     ]
+    }
+   }
+  },
+  "English": {
+   "count": 3,
+   "genres": {
+    "news_talk": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Al Jazeera Audio – English",
+       "url": "https://live-hls-audio-web-aje.getaj.net/VOICE-AJE/01.m3u8",
+       "tags": [
+        "news_talk",
+        "sports"
+       ]
+      },
+      {
+       "name": "AlJazeera English Audio",
+       "url": "https://live-hls-audio-aje-ak.getaj.net/VOICE-AJE/01.m3u8"
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Qatar Broadcasting Station (QBS)",
+       "url": "https://qmclivestreaming.qa/QBS/myStream/Playlist.m3u8"
+      }
+     ]
+    }
+   }
+  },
+  "Spanish": {
+   "count": 3,
+   "genres": {
+    "soundtrack": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "GolfoRadio",
+       "url": "http://streaming.dinesat.com:7006/stream/"
+      }
+     ]
+    },
+    "sports": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Golfo Radio 98.3 FM",
+       "url": "https://radiov2.golforadio.com/stream",
+       "tags": [
+        "sports",
+        "latin",
+        "news_talk",
+        "soundtrack",
+        "folk",
+        "various_eclectic"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Fire Destiny",
+       "url": "https://stream.zeno.fm/c53837nutzzuv"
+      }
+     ]
+    }
+   }
+  },
+  "Urdu": {
+   "count": 2,
+   "genres": {
+    "news_talk": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Qatar Radio",
+       "url": "https://640b79a5c9ef3.streamlock.net/QRS/myStream/playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "URDU Radio",
+       "url": "http://52.178.28.223:1935/URDU/myStream/Playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "folk",
+        "college_community"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "French": {
+   "count": 2,
+   "genres": {
+    "rock": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "ORYX Radio FM",
+       "url": "https://qmclivestreaming.qa/ORYX/myStream/Playlist.m3u8"
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "ORYX Radio",
+       "url": "https://640b79a5c9ef3.streamlock.net/ORYX/myStream/playlist.m3u8"
+      }
+     ]
+    }
+   }
+  },
+  "Persian": {
+   "count": 2,
+   "genres": {
+    "unclassified": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Rahmani Air",
+       "url": "https://stream.zeno.fm/9bt2en5k9bhvv"
+      },
+      {
+       "name": "Rahmani P Air",
+       "url": "https://stream.zeno.fm/fw4fww5k9bhvv"
+      }
+     ]
+    }
+   }
+  },
+  "Turkish": {
+   "count": 1,
+   "genres": {
+    "soul_rnb_funk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Habaieb FM radio",
+       "url": "http://188.166.95.19:8000/live_habaiebfm.mp3",
+       "tags": [
+        "soul_rnb_funk",
+        "world",
+        "hip_hop_rap",
+        "electronic",
+        "pop_hits"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Hindi": {
+   "count": 1,
+   "genres": {
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Olive 106.3 radio",
+       "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLIVE1063_SC",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "world",
+        "rock"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Portuguese": {
+   "count": 1,
+   "genres": {
+    "latin": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Golfo Radio",
+       "url": "http://01.solumedia.com.ar:10061/"
+      }
+     ]
+    }
+   }
+  },
+  "Filipino": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Queen C.",
+       "url": "https://stream.zeno.fm/iuolwmaiqi6uv"
+      }
+     ]
+    }
+   }
+  },
+  "Sinhala": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "freefm.lk - Qatar Sinhala Radio",
+       "url": "https://stream.zeno.fm/lecjivuwu7btv"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

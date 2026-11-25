@@ -1,0 +1,340 @@
+{
+ "country": "French Polynesia",
+ "count": 34,
+ "languages": {
+  "French": {
+   "count": 32,
+   "genres": {
+    "christian_gospel": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Radio LVDL",
+       "url": "https://listen.radioking.com/radio/3318/stream/63163",
+       "tags": [
+        "christian_gospel",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Maria No Te Hau",
+       "url": "https://stric6.streamakaci.com/radiomarianotehau.mp3",
+       "tags": [
+        "christian_gospel",
+        "ambient_relax",
+        "oldies",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Radio Te Vevo",
+       "url": "http://radio.pftnstv.com:8000/rtv-tahiti"
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "La Poderosa Radio Online Romantica Listen live",
+       "url": "https://sonicpanel.totalstreaming.net/8030/server",
+       "language_inferred": true
+      }
+     ]
+    },
+    "electronic": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "NRJ Tahiti",
+       "url": "https://listen.radioking.com/radio/397660/stream/449635",
+       "tags": [
+        "pop_hits",
+        "electronic",
+        "hip_hop_rap",
+        "rock",
+        "soul_rnb_funk"
+       ]
+      },
+      {
+       "name": "Tiare FM radio",
+       "url": "https://live.tiarefm.pf:8443/tiarefm?ver=982991",
+       "tags": [
+        "electronic",
+        "folk",
+        "pop_hits",
+        "news_talk",
+        "reggae_ska",
+        "christian_gospel"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "jazz": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Hits 1 latina Listen live",
+       "url": "https://radio10.pro-fhi.net/live/Hits1latina?ver=600898",
+       "tags": [
+        "big_band_swing",
+        "soul_rnb_funk",
+        "pop_hits",
+        "jazz",
+        "electronic",
+        "latin"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "latin": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Api FM",
+       "url": "https://listen.radioking.com/radio/397657/stream/449632",
+       "tags": [
+        "pop_hits",
+        "latin"
+       ]
+      },
+      {
+       "name": "Radio Te Reo o Tefana",
+       "url": "http://us1freenew.listen2myradio.com:6268/",
+       "language_inferred": true
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 5,
+     "stations": [
+      {
+       "name": "Hiti FM",
+       "url": "http://stream.radiojar.com/u0yz7p0mb.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Polynésie 1ère",
+       "url": "https://polynesie.ice.infomaniak.ch/polynesie-128.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "hip_hop_rap",
+        "soul_rnb_funk",
+        "latin",
+        "college_community",
+        "world",
+        "electronic"
+       ]
+      },
+      {
+       "name": "Radio 1 Tahiti",
+       "url": "https://live.radio1.pf:8443/radio1",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "various_eclectic",
+        "latin"
+       ]
+      },
+      {
+       "name": "Radio Maria (French Polynesia)",
+       "url": "http://str81.streamakaci.com:6750",
+       "tags": [
+        "news_talk",
+        "christian_gospel"
+       ]
+      },
+      {
+       "name": "Tahiti Web Radio",
+       "url": "https://s10.myradiostream.com/:36098/listen.mp3",
+       "tags": [
+        "news_talk",
+        "christian_gospel",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Hiti FM",
+       "url": "https://stream.radiojar.com/u0yz7p0mb"
+      },
+      {
+       "name": "Radio 1 Tahiti",
+       "url": "http://live.radio1.pf:8001/radio1",
+       "tags": [
+        "pop_hits",
+        "various_eclectic",
+        "easy_listening",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Station Beta, Papeete radio",
+       "url": "https://stream.zeno.fm/yaloqrl3w2fuv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "reggae_ska": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Tiare FM",
+       "url": "https://live.tiarefm.pf:8443/tiarefm",
+       "tags": [
+        "pop_hits",
+        "reggae_ska",
+        "latin",
+        "news_talk",
+        "world",
+        "rock",
+        "christian_gospel",
+        "hip_hop_rap"
+       ]
+      }
+     ]
+    },
+    "rock": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Skylegend",
+       "url": "https://listen.radioking.com/radio/270172/stream/315577",
+       "tags": [
+        "rock",
+        "electronic",
+        "techno",
+        "oldies",
+        "pop_hits",
+        "decade_90s",
+        "easy_listening",
+        "gothic_industrial",
+        "alternative_indie",
+        "soul_rnb_funk",
+        "house",
+        "decade_80s",
+        "disco_eurodance",
+        "blues",
+        "jpop_kpop_asia",
+        "reggae_ska",
+        "punk",
+        "folk"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "various_eclectic": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Marevareva Tahiti",
+       "url": "http://www.radioking.com/play/marevareva-radio-tahiti/515585"
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 12,
+     "stations": [
+      {
+       "name": "1dance hit",
+       "url": "https://stream.zeno.fm/9g0dwkqg838uv",
+       "language_inferred": true
+      },
+      {
+       "name": "gvvhvhJMS",
+       "url": "https://stream.zeno.fm/pazr6g5w0ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "HITI FM",
+       "url": "http://n0a.radiojar.com/u0yz7p0mb.mp3"
+      },
+      {
+       "name": "NRJ Tahiti",
+       "url": "http://www.radioking.com/play/nrj-tahiti1",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Marevareva",
+       "url": "https://listen.radioking.com/radio/459392/stream/515585"
+      },
+      {
+       "name": "Radio Marevareva",
+       "url": "https://www.radioking.com/play/marevareva-radio-tahiti",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Maria No Te Hau 93.8 FM",
+       "url": "http://str81.streamakaci.com:6750/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Maria No te Hau French Polynesia – Punaauia – PF",
+       "url": "http://str81.streamakaci.com:6750/streamakaci",
+       "language_inferred": true
+      },
+      {
+       "name": "Romain",
+       "url": "https://stream.zeno.fm/wavdv5ur498uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Rtv Pacifika",
+       "url": "https://stream.zeno.fm/f73ewknpmxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Tahiti Web Radio (TWR)",
+       "url": "http://s10.myradiostream.com:36098/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Traphhu",
+       "url": "https://stream.zeno.fm/2mb3bdw5xuhvv",
+       "language_inferred": true
+      }
+     ]
+    }
+   }
+  },
+  "English": {
+   "count": 1,
+   "genres": {
+    "pop_hits": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Hiti FM",
+       "url": "https://n01.radiojar.com/u0yz7p0mb.mp3"
+      }
+     ]
+    }
+   }
+  },
+  "Swahili": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Tzgospel swahili",
+       "url": "https://stream.zeno.fm/c8b3p71mffhvv"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

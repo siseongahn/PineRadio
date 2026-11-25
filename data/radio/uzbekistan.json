@@ -1,0 +1,751 @@
+{
+ "country": "Uzbekistan",
+ "count": 100,
+ "languages": {
+  "Uzbek": {
+   "count": 94,
+   "genres": {
+    "ambient_relax": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Ambient Radio Listen live",
+       "url": "https://stream.laut.fm/ambient",
+       "tags": [
+        "ambient_relax",
+        "oldies",
+        "rock"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "christian_gospel": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Dawn FM Listen live",
+       "url": "https://radiodawn.radioca.st/server",
+       "tags": [
+        "islamic_quran",
+        "christian_gospel"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "classical": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "2000's (Радио нулевых)",
+       "url": "https://stream.zeno.fm/fwstad5837zuv",
+       "tags": [
+        "pop_hits",
+        "classical",
+        "electronic",
+        "hip_hop_rap",
+        "rock",
+        "kids",
+        "decade_2000s"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Classic FM",
+       "url": "https://classicfm.uz:8444/classic.ogg",
+       "language_inferred": true
+      },
+      {
+       "name": "Classic FM Uzbekistan",
+       "url": "http://80.80.222.26:8000/classicfm.ogg",
+       "tags": [
+        "classical",
+        "jazz"
+       ]
+      }
+     ]
+    },
+    "college_community": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "NurHack",
+       "url": "https://stream.zeno.fm/85hv9a9tkchvv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "comedy": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "A'lo FM Radio",
+       "url": "https://stream.pcradio.ru/rad_tbssmz-med",
+       "tags": [
+        "comedy",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "country": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Mumtoz FM",
+       "url": "http://81.19.85.200:80/megapolis128.mp3",
+       "tags": [
+        "country",
+        "classical"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "electronic": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "LifeFM radio",
+       "url": "http://lifefm.uz:8000/radio-64.aac",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "folk": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Mars FM Uzbekistan Radio",
+       "url": "https://stream.pcradio.ru/rad_marszbkistn-med",
+       "tags": [
+        "electronic",
+        "folk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Timsol Online Radiosi",
+       "url": "https://stream.pcradio.ru/rad_timslfmuz-med",
+       "tags": [
+        "folk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Uzbek radio",
+       "url": "rtsp://realaudio.rferl.org/UZ/2014/03/26/20140326-140000-UZ-program.mp3",
+       "tags": [
+        "folk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "hip_hop_rap": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "2000's (Радио нулевых)",
+       "url": "https://www.liveradio.es/http://node-03.zeno.fm:80/fwstad5837zuv",
+       "tags": [
+        "decade_2000s",
+        "hip_hop_rap"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "RustikOneFM",
+       "url": "https://stream.zeno.fm/zfzfqjxe0kuvv",
+       "tags": [
+        "hip_hop_rap",
+        "opera",
+        "comedy",
+        "world"
+       ]
+      }
+     ]
+    },
+    "kids": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "VeleecoFM",
+       "url": "https://stream.zeno.fm/v97qrh4pv38uv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 6,
+     "stations": [
+      {
+       "name": "NamDU FM radio",
+       "url": "https://listen.radioking.com/radio/480107/stream/536543",
+       "language_inferred": true
+      },
+      {
+       "name": "Navruz FM",
+       "url": "http://navruzfm.uz:9000/navruz_low",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "RADIO MAXIMA radio",
+       "url": "http://80.80.222.26:8000/maximafm.ogg",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Uzbek.FM",
+       "url": "http://yayin.turkhosted.com:7034"
+      },
+      {
+       "name": "РАДИО \"Uzbek.FM\" radio",
+       "url": "http://yayin.turkhosted.com:7034/stream.nsv",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "РАДИО \"Ориат Доно\" radio",
+       "url": "http://www.oriatdono.uz/",
+       "tags": [
+        "news_talk",
+        "folk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "oldies": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "NavoOnline radio",
+       "url": "https://navo.online:8000/stream",
+       "tags": [
+        "pop_hits",
+        "oldies",
+        "classical"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 14,
+     "stations": [
+      {
+       "name": "Avtoradio",
+       "url": "https://st2.mediabay.tv/Radio_AvtoradioUz/tracks-a1/mono.m3u8?token=f5061a7473ec8282e4a9a515818d3ce1a046e435-5f5015975246913a9eb24cbc5fe81c12-1673263445-1673252645",
+       "language_inferred": true
+      },
+      {
+       "name": "Mars FM Uzbekistan",
+       "url": "https://stream.zeno.fm/ugzz955srnhvv",
+       "tags": [
+        "pop_hits",
+        "various_eclectic",
+        "decade_70s",
+        "metal",
+        "decade_80s"
+       ]
+      },
+      {
+       "name": "Maxima 105.4 FM (Tashkent) Radio",
+       "url": "https://stream.pcradio.ru/rad_mxmz-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Oriat Dono",
+       "url": "http://194.5.152.248:8000/dono"
+      },
+      {
+       "name": "Oriat FM",
+       "url": "http://194.5.152.248:8000/fm"
+      },
+      {
+       "name": "Qalbim Navosi",
+       "url": "http://s1.muz.uz:9000/alo_low"
+      },
+      {
+       "name": "Qalbim navosi",
+       "url": "http://213.230.109.7:9000/alo_low",
+       "tags": [
+        "pop_hits",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Qalbim Navosi",
+       "url": "http://91.203.172.88:8000/qalbimnavosi",
+       "language_inferred": true
+      },
+      {
+       "name": "Qalbim Navosi Radio",
+       "url": "https://stream.pcradio.ru/rad_qalb-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio O’zbegim Taronasi",
+       "url": "http://fm101.uz:9900/fm101_low",
+       "tags": [
+        "pop_hits",
+        "rock"
+       ]
+      },
+      {
+       "name": "Radio Tabassum",
+       "url": "http://tabassum.uz:9000/alo_low",
+       "tags": [
+        "pop_hits",
+        "comedy",
+        "folk",
+        "easy_listening",
+        "classical"
+       ]
+      },
+      {
+       "name": "Radio Yoshlar Ovozi",
+       "url": "http://radiofm.uz:8000/yoshlarovoziaac",
+       "language_inferred": true
+      },
+      {
+       "name": "Sezam FM radio",
+       "url": "http://sezamfm.com:8000/stream",
+       "tags": [
+        "pop_hits",
+        "various_eclectic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Радио Вышка Узбекистан",
+       "url": "https://stream.vyshka24.ru/uzbekistan",
+       "language_inferred": true
+      }
+     ]
+    },
+    "punk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Punk FM Brasil Listen live",
+       "url": "https://audio8.cmaudioevideo.com:10231/server",
+       "tags": [
+        "pop_hits",
+        "punk"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "rock": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Oriat FM",
+       "url": "http://oriat.mediabay.uz/oriatfm.m3u8",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Pink Unicorn Radio",
+       "url": "https://listen6.myradio24.com/unicorn",
+       "tags": [
+        "rock",
+        "metal",
+        "alternative_indie",
+        "classical",
+        "electronic",
+        "ambient_relax",
+        "gothic_industrial",
+        "house",
+        "blues",
+        "kids",
+        "reggae_ska",
+        "punk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Pink Unicorn Radio",
+       "url": "https://myradio24.org/unicorn",
+       "language_inferred": true
+      }
+     ]
+    },
+    "soul_rnb_funk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Chillizet Soul Listen live",
+       "url": "https://ch02.cdn.eurozet.pl/CHISOU.mp3",
+       "language_inferred": true
+      }
+     ]
+    },
+    "various_eclectic": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Dushanbe Navo Radio",
+       "url": "https://s0.radioheart.ru:8000/RH24189",
+       "tags": [
+        "various_eclectic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 52,
+     "stations": [
+      {
+       "name": "109.9 FM",
+       "url": "https://stream.zeno.fm/h4c5s84q3ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "2000's (Радио нулевых)",
+       "url": "https://stream.zeno.fm/8zys5c5837zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "697.1 Fire Alarm Tab FM",
+       "url": "https://stream.zeno.fm/twcfstc0mfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Alo FM",
+       "url": "http://tabassum.uz:9000/",
+       "language_inferred": true
+      },
+      {
+       "name": "Antares",
+       "url": "https://stream.zeno.fm/a4t942vw1ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Avtoradio Hamroh",
+       "url": "https://st5.mediabay.uz/radio/Hamroh/index.m3u8"
+      },
+      {
+       "name": "AxTeD_AD",
+       "url": "https://stream.zeno.fm/gnsnxsq1znhvv"
+      },
+      {
+       "name": "BassTeD",
+       "url": "https://stream.zeno.fm/h6dbebwv0nhvv"
+      },
+      {
+       "name": "DemisDrakares",
+       "url": "https://stream.zeno.fm/jrxcvmepehnuv",
+       "language_inferred": true
+      },
+      {
+       "name": "DJ GUNTER",
+       "url": "https://stream.zeno.fm/fh8nhrvakuhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "DUSHANBE NAVO radio",
+       "url": "http://us4freenew.listen2myradio.com:39287/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Green71",
+       "url": "https://stream.zeno.fm/aw17h99gpchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Islom – UZ-NG",
+       "url": "http://radio.islom.uz:8000/islomuz",
+       "language_inferred": true
+      },
+      {
+       "name": "Khalifa FM",
+       "url": "https://stream.zeno.fm/y8gdyaatxhhvv"
+      },
+      {
+       "name": "Kspi.uz",
+       "url": "https://stream.zeno.fm/u8s8gvcgbkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "LifeFm",
+       "url": "http://lifefm.uz:8000/radio-128.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "Mars FM Uzbekistan",
+       "url": "https://stream.zeno.fm/yc88555srnhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Minor-rap",
+       "url": "https://stream.zeno.fm/8xgzkuypnchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "My Play Home House",
+       "url": "https://stream.zeno.fm/eaj6nz4wa0lvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Nara Queen",
+       "url": "https://stream.zeno.fm/dsf5b7vebchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Navo online",
+       "url": "https://navo.online/"
+      },
+      {
+       "name": "NAVO Online – Tashkent – Toshkent Shahri – UZ",
+       "url": "https://navo.online:8005/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Navroz FM",
+       "url": "http://ns9.jethost.uz:9000/navruz_low"
+      },
+      {
+       "name": "Navruz FM – Durdonalari",
+       "url": "http://navruzfm.uz:9000/navruz_durdonalari",
+       "language_inferred": true
+      },
+      {
+       "name": "Navruz FM – Qur’oni Karim 24",
+       "url": "http://navruzfm.uz:9000/quroni_karim",
+       "language_inferred": true
+      },
+      {
+       "name": "Navruz FMdan – Hikmatli Dunyo",
+       "url": "http://navruzfm.uz:9000/navruz_hikmatlidunyo",
+       "language_inferred": true
+      },
+      {
+       "name": "Navruz FMdan – Maqom",
+       "url": "http://navruzfm.uz:9000/navruz_maqom",
+       "language_inferred": true
+      },
+      {
+       "name": "Navruz FMdan – Tabassum",
+       "url": "http://navruzfm.uz:9000/navruz_tabassum",
+       "language_inferred": true
+      },
+      {
+       "name": "Onigiri UZ",
+       "url": "https://stream.zeno.fm/ggwptxfvpfhvv"
+      },
+      {
+       "name": "Oriat Dono",
+       "url": "http://46.8.35.26:8012/dono"
+      },
+      {
+       "name": "Oriat Dono – 106.5 FM – Samarkand – Samarqand – UZ",
+       "url": "http://oriat.mediabay.uz/oriatdono.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "PARVOZ FM",
+       "url": "https://stream.zeno.fm/p38kes0t498uv",
+       "language_inferred": true
+      },
+      {
+       "name": "pepon x siempre",
+       "url": "https://stream.zeno.fm/4y15r3gwwchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Frankie Valli",
+       "url": "https://stream.zeno.fm/xd1x0m0mb8zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Grande",
+       "url": "http://melody.uz:8003/grand"
+      },
+      {
+       "name": "Radio Maxima Uzbekistan",
+       "url": "http://185.196.214.26:8004/maxima.ogg"
+      },
+      {
+       "name": "Radio Ozbegim Taronasi",
+       "url": "http://fm101.uz:9900/fm101_mobile.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Ozodlik Uzbek",
+       "url": "http://rfe-channel-13.akacast.akamaistream.net/7/371/229663/v1/ibb.akacast.akamaistream.net/rfe_channel_13.mp3"
+      },
+      {
+       "name": "Radio Uzbegim Taronasi",
+       "url": "http://fm101.uz:9900/fm101_low.ogg",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Yoshlar Ovozi",
+       "url": "https://liveonlineradio.net/fr/radio-yoshlar-ovozi"
+      },
+      {
+       "name": "Radioactiva FM",
+       "url": "http://s3.myradiostream.com:10878/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radyo Cuma",
+       "url": "https://stream.zeno.fm/qxinyzscsuwuv",
+       "language_inferred": true
+      },
+      {
+       "name": "SUPER uz",
+       "url": "https://stream.zeno.fm/b7ye4q0k3zhvv"
+      },
+      {
+       "name": "TECHNORADIO",
+       "url": "https://stream.zeno.fm/64ox9cg1w0quv",
+       "language_inferred": true
+      },
+      {
+       "name": "Tzgospel swahili",
+       "url": "https://stream.zeno.fm/ub6z9twvcfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Uzbekistan Radio NurHack",
+       "url": "https://stream.zeno.fm/gxmd95smefhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "VISUAL MUSIC",
+       "url": "https://stream.zeno.fm/hcwsmd4tkchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "VITIN NE BB",
+       "url": "https://stream.zeno.fm/epfqak10kc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "VITIN NE BB",
+       "url": "https://stream.zeno.fm/3agspb10kc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "YangiGAP",
+       "url": "https://stream.zeno.fm/pt2htrb6h0hvv"
+      },
+      {
+       "name": "yonarprime",
+       "url": "https://stream.zeno.fm/n4tbrrr8h0hvv"
+      },
+      {
+       "name": "Yoshlar Ovozi",
+       "url": "http://ns10.jethost.uz:8000/yoshlarovoziaac?n=64d9495ddf1f54924e0a"
+      }
+     ]
+    }
+   }
+  },
+  "Russian": {
+   "count": 4,
+   "genres": {
+    "easy_listening": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio O'zbegim Taronasi Listen live",
+       "url": "https://fm101.uz:9943/fm101_low.aac",
+       "tags": [
+        "pop_hits",
+        "easy_listening"
+       ]
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Maxima",
+       "url": "https://classicfm.uz:8444/maxima.ogg"
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "nostalgia FM",
+       "url": "https://classicfm.uz:8444/nostalgie.ogg?n=7fd091808b46a96328ea"
+      },
+      {
+       "name": "RADIO SFGM",
+       "url": "https://stream.zeno.fm/cedrawrvpfhvv"
+      }
+     ]
+    }
+   }
+  },
+  "English": {
+   "count": 2,
+   "genres": {
+    "techno": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "See The Sea FM",
+       "url": "https://listen5.myradio24.com/seethesea",
+       "tags": [
+        "techno",
+        "house",
+        "electronic",
+        "chillout_lounge",
+        "classical",
+        "gothic_industrial",
+        "trance_goa",
+        "drum_and_bass",
+        "kids",
+        "world",
+        "news_talk"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "PUFF DIDDY SAMARKAND",
+       "url": "https://stream.zeno.fm/cpw8c8zg7autv"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

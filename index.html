@@ -1,0 +1,814 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PineRadio</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/hls.js/1.5.13/hls.min.js"></script>
+<style>
+:root {
+  --bg: #f6f7f5; --panel: #ffffff; --line: #e3e6e1; --text: #1d211c; --muted: #6b7268;
+  --accent: #2f7d4f; --accent-soft: #e2f1e7; --danger: #b3412f; --chip: #eef0ec;
+  --shadow: 0 1px 3px rgba(0,0,0,.06);
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #141714; --panel: #1c201c; --line: #2c322c; --text: #e6eae4; --muted: #949c91;
+    --accent: #5fc286; --accent-soft: #1f3327; --danger: #e07a68; --chip: #262b26; --shadow: none;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #141714; --panel: #1c201c; --line: #2c322c; --text: #e6eae4; --muted: #949c91;
+  --accent: #5fc286; --accent-soft: #1f3327; --danger: #e07a68; --chip: #262b26; --shadow: none;
+}
+* { box-sizing: border-box; }
+html, body { height: 100%; margin: 0; }
+body {
+  background: var(--bg); color: var(--text);
+  font: 14px/1.45 -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Segoe UI", sans-serif;
+  display: grid; grid-template-rows: auto 1fr auto; overflow: hidden;
+}
+button, input, select { font: inherit; color: inherit; }
+button { cursor: pointer; }
+
+/* header */
+header {
+  display: flex; gap: 12px; align-items: center; padding: 10px 16px;
+  background: var(--panel); border-bottom: 1px solid var(--line); flex-wrap: wrap;
+}
+.brand { font-weight: 700; font-size: 16px; display: flex; align-items: center; gap: 6px; }
+.brand svg { color: var(--accent); }
+.tabs { display: flex; background: var(--chip); border-radius: 8px; padding: 3px; }
+.tabs button { border: 0; background: none; padding: 5px 14px; border-radius: 6px; color: var(--muted); }
+.tabs button.on { background: var(--panel); color: var(--text); box-shadow: var(--shadow); font-weight: 600; }
+.search { flex: 1; min-width: 220px; display: flex; gap: 8px; align-items: center; }
+.search input {
+  flex: 1; min-width: 0; padding: 7px 12px; border: 1px solid var(--line); border-radius: 8px; background: var(--bg);
+}
+.search input:focus { outline: 2px solid var(--accent); outline-offset: -1px; }
+.search select { padding: 6px 8px; border: 1px solid var(--line); border-radius: 8px; background: var(--bg); }
+
+.ui-lang { display: flex; align-items: center; gap: 6px; color: var(--muted); }
+.ui-lang select { padding: 6px 8px; border: 1px solid var(--line); border-radius: 8px; background: var(--bg); color: var(--text); }
+
+/* layout */
+main { display: grid; grid-template-columns: 260px 1fr; min-height: 0; }
+aside { border-right: 1px solid var(--line); background: var(--panel); display: flex; flex-direction: column; min-height: 0; }
+aside .filter { padding: 10px; border-bottom: 1px solid var(--line); }
+aside .filter input { width: 100%; padding: 6px 10px; border: 1px solid var(--line); border-radius: 6px; background: var(--bg); }
+#side { overflow-y: auto; flex: 1; padding: 4px 0; }
+.side-item {
+  display: flex; justify-content: space-between; gap: 8px; width: 100%; border: 0; background: none;
+  padding: 6px 14px; text-align: left;
+}
+.side-item:hover { background: var(--chip); }
+.side-item.on { background: var(--accent-soft); color: var(--accent); font-weight: 600; }
+.side-item .n { color: var(--muted); font-variant-numeric: tabular-nums; font-size: 12px; }
+
+#content { overflow-y: auto; min-height: 0; padding: 14px 18px 30px; }
+.crumb { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; margin-bottom: 8px; }
+.crumb h2 { margin: 0; font-size: 20px; }
+.crumb .meta { color: var(--muted); }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; margin: 8px 0; }
+.chips .label { color: var(--muted); font-size: 12px; width: 44px; padding-top: 4px; flex-shrink: 0; }
+.chip {
+  border: 1px solid transparent; background: var(--chip); border-radius: 999px; padding: 3px 10px; font-size: 13px;
+}
+.chip .n { color: var(--muted); font-size: 11px; margin-left: 4px; }
+.chip.on { background: var(--accent); color: #fff; }
+.chip.on .n { color: rgba(255,255,255,.8); }
+.status { color: var(--muted); margin: 10px 0; min-height: 20px; }
+
+.list { display: flex; flex-direction: column; gap: 2px; }
+.row {
+  display: grid; grid-template-columns: 36px 40px 1fr auto; gap: 10px; align-items: center;
+  padding: 6px 8px; border-radius: 8px; background: var(--panel); border: 1px solid transparent;
+}
+.row:hover { border-color: var(--line); }
+.row.playing { border-color: var(--accent); background: var(--accent-soft); }
+.play {
+  width: 32px; height: 32px; border-radius: 50%; border: 0; background: var(--chip);
+  display: grid; place-items: center; color: var(--text);
+}
+.play:hover, .row.playing .play { background: var(--accent); color: #fff; }
+.logo {
+  width: 40px; height: 40px; border-radius: 6px; background: var(--chip); object-fit: cover;
+  display: grid; place-items: center; color: var(--muted); font-weight: 700; overflow: hidden;
+}
+.info { min-width: 0; }
+.name { font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.sub { color: var(--muted); font-size: 12px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.sub .tag { display: inline-block; margin-right: 6px; }
+.sub .guess { opacity: .7; font-style: italic; }
+.actions { display: flex; gap: 4px; }
+.icon-btn { border: 0; background: none; color: var(--muted); padding: 6px; border-radius: 6px; display: grid; place-items: center; }
+.icon-btn:hover { background: var(--chip); color: var(--text); }
+.icon-btn.fav-on { color: #d9a400; }
+.more { margin: 12px auto; display: block; padding: 8px 20px; border: 1px solid var(--line); background: var(--panel); border-radius: 8px; }
+
+.tracks { margin: 2px 0 8px 46px; display: flex; flex-direction: column; gap: 1px; }
+.track {
+  display: flex; gap: 8px; align-items: center; border: 0; background: none; text-align: left; padding: 4px 8px;
+  border-radius: 6px; width: 100%; font-size: 13px;
+}
+.track:hover { background: var(--chip); }
+.track.playing { color: var(--accent); font-weight: 600; }
+.track .i { color: var(--muted); width: 32px; font-variant-numeric: tabular-nums; flex-shrink: 0; }
+.track .t { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+/* player */
+footer {
+  background: var(--panel); border-top: 1px solid var(--line); padding: 8px 16px;
+  display: grid; grid-template-columns: auto 1fr auto; gap: 14px; align-items: center;
+}
+.ctrls { display: flex; gap: 6px; align-items: center; }
+.big { width: 40px; height: 40px; border-radius: 50%; border: 0; background: var(--accent); color: #fff; display: grid; place-items: center; }
+.big:disabled { opacity: .4; cursor: default; }
+.now { min-width: 0; }
+.now .name { font-size: 14px; }
+.now .sub.err { color: var(--danger); }
+.seek { display: flex; gap: 8px; align-items: center; font-size: 12px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.seek input { flex: 1; accent-color: var(--accent); }
+.vol { display: flex; gap: 6px; align-items: center; }
+.vol input { width: 90px; accent-color: var(--accent); }
+.hidden { display: none !important; }
+.empty { color: var(--muted); padding: 40px 0; text-align: center; }
+
+@media (max-width: 760px) {
+  body { overflow: auto; }
+  header { padding: 10px 16px; }
+  main { grid-template-columns: 1fr; }
+  aside { max-height: 38vh; border-right: 0; border-bottom: 1px solid var(--line); }
+  #content { padding: 12px 16px 24px; }
+  .row { grid-template-columns: 34px 1fr auto; }
+  .row .logo { display: none; }
+  footer { grid-template-columns: auto 1fr; }
+  .vol { display: none; }
+}
+</style>
+</head>
+<body>
+<header>
+  <div class="brand">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4.9 19.1C1 15.2 1 8.8 4.9 4.9"/><path d="M7.8 16.2c-2.3-2.3-2.3-6.1 0-8.5"/><circle cx="12" cy="12" r="2"/><path d="M16.2 7.8c2.3 2.3 2.3 6.1 0 8.5"/><path d="M19.1 4.9C23 8.8 23 15.1 19.1 19"/></svg>
+    PineRadio
+  </div>
+  <div class="tabs" role="tablist">
+    <button data-tab="radio" class="on" data-i18n="tab_radio"></button>
+    <button data-tab="audiobooks" data-i18n="tab_audiobooks"></button>
+    <button data-tab="favorites" data-i18n="tab_favorites"></button>
+  </div>
+  <div class="search">
+    <input id="q" type="search" autocomplete="off">
+    <select id="scope">
+      <option value="current" data-i18n="scope_current"></option>
+      <option value="all" data-i18n="scope_all"></option>
+    </select>
+  </div>
+  <label class="ui-lang">
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15 15 0 0 1 0 20M12 2a15 15 0 0 0 0 20"/></svg>
+    <select id="uiLang"></select>
+  </label>
+</header>
+
+<main>
+  <aside>
+    <div class="filter"><input id="sideFilter" type="search"></div>
+    <div id="side"></div>
+  </aside>
+  <section id="content"></section>
+</main>
+
+<footer>
+  <div class="ctrls">
+    <button class="icon-btn" id="prev"><svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M6 6h2v12H6zM9.5 12 18 18V6z"/></svg></button>
+    <button class="big" id="toggle" disabled></button>
+    <button class="icon-btn" id="next"><svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M16 6h2v12h-2zM6 18l8.5-6L6 6z"/></svg></button>
+  </div>
+  <div class="now">
+    <div class="name" id="nowName"></div>
+    <div class="sub" id="nowSub"></div>
+    <div class="seek hidden" id="seekBox"><span id="tCur">0:00</span><input id="seek" type="range" min="0" max="1000" value="0"><span id="tDur">0:00</span></div>
+  </div>
+  <div class="vol">
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M11 5 6 9H2v6h4l5 4z"/><path d="M15.5 8.5a5 5 0 0 1 0 7"/></svg>
+    <input id="vol" type="range" min="0" max="1" step="0.01" value="0.8">
+  </div>
+</footer>
+
+<audio id="audio" preload="none"></audio>
+
+<script>
+"use strict";
+// ---------- i18n ----------
+// column order of every translation row below
+const LOCALES = ["en", "zh-Hans", "zh-Hant", "fr", "de", "ja", "ko", "ru", "es"];
+const LOCALE_NAMES = ["English", "简体中文", "繁體中文", "Français", "Deutsch", "日本語", "한국어", "Русский", "Español"];
+
+const UI = {
+  tab_radio:        ["Radio", "电台", "電台", "Radio", "Radio", "ラジオ", "라디오", "Радио", "Radio"],
+  tab_audiobooks:   ["Audiobooks", "有声书", "有聲書", "Livres audio", "Hörbücher", "オーディオブック", "오디오북", "Аудиокниги", "Audiolibros"],
+  tab_favorites:    ["Favorites", "收藏", "收藏", "Favoris", "Favoriten", "お気に入り", "즐겨찾기", "Избранное", "Favoritos"],
+  search_radio:     ["Search station name or URL", "搜索电台名称或网址", "搜尋電台名稱或網址", "Rechercher un nom ou une URL", "Sender oder URL suchen", "局名またはURLで検索", "방송 이름 또는 주소 검색", "Поиск по названию или URL", "Buscar emisora o URL"],
+  search_books:     ["Search playlist titles", "搜索播放列表标题", "搜尋播放清單標題", "Rechercher une playlist", "Playlist-Titel suchen", "プレイリスト名で検索", "플레이리스트 제목 검색", "Поиск по названию плейлиста", "Buscar listas de reproducción"],
+  search_favs:      ["Search favorites", "搜索收藏", "搜尋收藏", "Rechercher dans les favoris", "Favoriten durchsuchen", "お気に入りを検索", "즐겨찾기 검색", "Поиск в избранном", "Buscar en favoritos"],
+  scope_title:      ["Search scope", "搜索范围", "搜尋範圍", "Portée de la recherche", "Suchbereich", "検索範囲", "검색 범위", "Область поиска", "Ámbito de búsqueda"],
+  scope_current:    ["In current selection", "当前选择", "目前選擇", "Sélection actuelle", "Aktuelle Auswahl", "現在の選択内", "현재 선택에서", "В текущем выборе", "En la selección actual"],
+  scope_all:        ["Everywhere", "全部", "全部", "Partout", "Überall", "すべて", "전체에서", "Везде", "En todo"],
+  ui_language:      ["Interface language", "界面语言", "介面語言", "Langue de l'interface", "Sprache der Oberfläche", "表示言語", "화면 언어", "Язык интерфейса", "Idioma de la interfaz"],
+  find_country:     ["Find a country", "查找国家", "尋找國家", "Trouver un pays", "Land suchen", "国を探す", "국가 찾기", "Найти страну", "Buscar país"],
+  find_collection:  ["Find a collection", "查找合集", "尋找合集", "Trouver une collection", "Sammlung suchen", "コレクションを探す", "컬렉션 찾기", "Найти коллекцию", "Buscar colección"],
+  unknown_country:  ["Unknown country", "未知国家", "未知國家", "Pays inconnu", "Unbekanntes Land", "国不明", "국가 미상", "Страна неизвестна", "País desconocido"],
+  unknown_lang:     ["Unknown language", "未知语言", "未知語言", "Langue inconnue", "Unbekannte Sprache", "言語不明", "언어 미상", "Язык неизвестен", "Idioma desconocido"],
+  unknown_short:    ["Unknown", "未知", "未知", "Inconnue", "Unbekannt", "不明", "미상", "Неизвестно", "Desconocido"],
+  label_language:   ["Language", "语言", "語言", "Langue", "Sprache", "言語", "언어", "Язык", "Idioma"],
+  label_genre:      ["Genre", "类型", "類型", "Genre", "Genre", "ジャンル", "장르", "Жанр", "Género"],
+  all:              ["All", "全部", "全部", "Tout", "Alle", "すべて", "전체", "Все", "Todo"],
+  loading:          ["Loading…", "加载中…", "載入中…", "Chargement…", "Wird geladen…", "読み込み中…", "불러오는 중…", "Загрузка…", "Cargando…"],
+  load_failed:      ["Failed to load: {e}", "加载失败：{e}", "載入失敗：{e}", "Échec du chargement : {e}", "Laden fehlgeschlagen: {e}", "読み込みに失敗しました: {e}", "불러오기 실패: {e}", "Ошибка загрузки: {e}", "Error al cargar: {e}"],
+  n_results:        ["{n} results", "{n} 个结果", "{n} 個結果", "{n} résultats", "{n} Ergebnisse", "{n} 件", "{n}개", "Результатов: {n}", "{n} resultados"],
+  results_for:      ["results for “{q}”", "“{q}”的搜索结果", "「{q}」的搜尋結果", "résultats pour « {q} »", "Ergebnisse für „{q}“", "「{q}」の検索結果", "\"{q}\" 검색 결과", "результаты по запросу «{q}»", "resultados para «{q}»"],
+  n_stations:       ["{n} stations", "{n} 个电台", "{n} 個電台", "{n} stations", "{n} Sender", "{n} 局", "방송 {n}개", "Станций: {n}", "{n} emisoras"],
+  n_playlists_tracks: ["{p} playlists · {t} tracks", "{p} 个播放列表 · {t} 个音轨", "{p} 個播放清單 · {t} 首曲目", "{p} playlists · {t} pistes", "{p} Playlists · {t} Titel", "プレイリスト {p} · トラック {t}", "플레이리스트 {p}개 · 트랙 {t}개", "Плейлистов: {p} · треков: {t}", "{p} listas · {t} pistas"],
+  n_tracks:         ["{n} tracks", "{n} 个音轨", "{n} 首曲目", "{n} pistes", "{n} Titel", "{n} トラック", "{n}트랙", "Треков: {n}", "{n} pistas"],
+  n_items:          ["{n} items", "{n} 项", "{n} 項", "{n} éléments", "{n} Einträge", "{n} 件", "{n}개", "Элементов: {n}", "{n} elementos"],
+  global_search:    ["Search everywhere", "全局搜索", "全域搜尋", "Recherche globale", "Überall suchen", "すべてを検索", "전체 검색", "Поиск везде", "Buscar en todo"],
+  n_found:          ["{n} found", "找到 {n} 个", "找到 {n} 個", "{n} trouvés", "{n} gefunden", "{n} 件見つかりました", "{n}개 찾음", "Найдено: {n}", "{n} encontrados"],
+  searching:        ["searching {d}/{t}", "搜索中 {d}/{t}", "搜尋中 {d}/{t}", "recherche {d}/{t}", "Suche {d}/{t}", "検索中 {d}/{t}", "검색 중 {d}/{t}", "поиск {d}/{t}", "buscando {d}/{t}"],
+  no_results:       ["No results", "没有结果", "沒有結果", "Aucun résultat", "Keine Ergebnisse", "見つかりませんでした", "결과가 없습니다", "Ничего не найдено", "Sin resultados"],
+  show_more:        ["Show more ({n} left)", "显示更多（还有 {n} 个）", "顯示更多（還有 {n} 個）", "Afficher plus ({n} restants)", "Mehr anzeigen ({n} übrig)", "さらに表示（残り {n}）", "더 보기 ({n}개 남음)", "Показать ещё (осталось {n})", "Mostrar más (quedan {n})"],
+  fav_side:         ["Your favorite stations and playlists", "收藏的电台和播放列表", "收藏的電台與播放清單", "Vos stations et playlists favorites", "Deine Lieblingssender und Playlists", "お気に入りの局とプレイリスト", "즐겨찾기한 방송과 플레이리스트", "Избранные станции и плейлисты", "Tus emisoras y listas favoritas"],
+  play:             ["Play", "播放", "播放", "Lire", "Abspielen", "再生", "재생", "Слушать", "Reproducir"],
+  play_from_start:  ["Play from the beginning", "从头播放", "從頭播放", "Lire depuis le début", "Von Anfang an abspielen", "最初から再生", "처음부터 재생", "Слушать с начала", "Reproducir desde el principio"],
+  track_count:      ["Number of tracks", "音轨数", "曲目數", "Nombre de pistes", "Anzahl der Titel", "トラック数", "트랙 수", "Количество треков", "Número de pistas"],
+  favorite:         ["Favorite", "收藏", "收藏", "Favori", "Favorit", "お気に入り", "즐겨찾기", "В избранное", "Favorito"],
+  copy_url:         ["Copy URL", "复制网址", "複製網址", "Copier l'URL", "URL kopieren", "URLをコピー", "주소 복사", "Копировать URL", "Copiar URL"],
+  guess_country:    ["Guessed from the stream's domain", "根据流地址域名推测", "依串流網址網域推測", "Déduit du domaine du flux", "Aus der Domain des Streams geschätzt", "ストリームのドメインから推定", "스트림 주소 도메인으로 추정", "Определено по домену потока", "Deducido del dominio del stream"],
+  guess_lang:       ["Guessed from the country", "根据国家推测", "依國家推測", "Déduite du pays", "Aus dem Land geschätzt", "国から推定", "국가 기준으로 추정", "Определён по стране", "Deducido del país"],
+  pick_station:     ["Select a station to play", "选择要播放的电台", "選擇要播放的電台", "Choisissez une station", "Wähle einen Sender", "再生する局を選んでください", "재생할 방송을 선택하세요", "Выберите станцию", "Elige una emisora"],
+  st_connecting:    ["Connecting…", "连接中…", "連線中…", "Connexion…", "Verbinde…", "接続中…", "연결 중…", "Подключение…", "Conectando…"],
+  st_playing:       ["Playing", "正在播放", "正在播放", "Lecture", "Läuft", "再生中", "재생 중", "Играет", "Reproduciendo"],
+  st_buffering:     ["Buffering…", "缓冲中…", "緩衝中…", "Mise en mémoire tampon…", "Puffern…", "バッファリング中…", "버퍼링…", "Буферизация…", "Cargando búfer…"],
+  st_paused:        ["Paused", "已暂停", "已暫停", "En pause", "Pausiert", "一時停止", "일시정지", "Пауза", "En pausa"],
+  st_ended:         ["Stream ended", "播放结束", "播放結束", "Flux terminé", "Stream beendet", "配信終了", "방송 종료", "Трансляция завершена", "Transmisión finalizada"],
+  err_hls:          ["This HLS stream can't be played", "无法播放此 HLS 流", "無法播放此 HLS 串流", "Impossible de lire ce flux HLS", "Dieser HLS-Stream kann nicht abgespielt werden", "このHLSストリームは再生できません", "HLS 스트림을 재생할 수 없습니다", "Не удаётся воспроизвести HLS-поток", "No se puede reproducir este stream HLS"],
+  err_tap:          ["Press play again", "请再次点击播放", "請再按一次播放", "Appuyez à nouveau sur lecture", "Bitte erneut auf Abspielen drücken", "もう一度再生を押してください", "재생 버튼을 다시 눌러주세요", "Нажмите «Слушать» ещё раз", "Pulsa reproducir de nuevo"],
+  err_stream:       ["This stream can't be played", "无法播放此流", "無法播放此串流", "Impossible de lire ce flux", "Dieser Stream kann nicht abgespielt werden", "このストリームは再生できません", "재생할 수 없는 스트림입니다", "Не удаётся воспроизвести поток", "No se puede reproducir este stream"],
+  err_hint:         ["(the station may be offline or the format unsupported by your browser)", "（电台可能已停播，或浏览器不支持该格式）", "（電台可能已停播，或瀏覽器不支援此格式）", "(la station est peut-être hors ligne ou le format non pris en charge)", "(der Sender ist evtl. offline oder das Format wird nicht unterstützt)", "（放送終了か、ブラウザが対応していない形式の可能性があります）", "(방송이 종료됐거나 브라우저가 지원하지 않는 형식일 수 있어요)", "(станция может быть недоступна или формат не поддерживается)", "(puede que la emisora esté desconectada o el formato no sea compatible)"],
+  prev:             ["Previous", "上一个", "上一個", "Précédent", "Zurück", "前へ", "이전", "Назад", "Anterior"],
+  next:             ["Next", "下一个", "下一個", "Suivant", "Weiter", "次へ", "다음", "Далее", "Siguiente"],
+  toggle:           ["Play/Pause (Space)", "播放/暂停（空格）", "播放/暫停（空白鍵）", "Lecture/Pause (Espace)", "Abspielen/Pause (Leertaste)", "再生/一時停止（Space）", "재생/정지 (Space)", "Пуск/пауза (пробел)", "Reproducir/pausa (Espacio)"],
+  volume:           ["Volume", "音量", "音量", "Volume", "Lautstärke", "音量", "음량", "Громкость", "Volumen"],
+  books_all_warn:   ["Searching all audiobooks loads about 140 MB the first time.", "首次搜索全部有声书需加载约 140 MB。", "首次搜尋全部有聲書需載入約 140 MB。", "La première recherche dans tous les livres audio charge environ 140 Mo.", "Die erste Suche in allen Hörbüchern lädt etwa 140 MB.", "オーディオブック全体の検索は初回に約140MBを読み込みます。", "오디오북 전체 검색은 처음 한 번 약 140MB를 불러옵니다.", "Первый поиск по всем аудиокнигам загружает около 140 МБ.", "La primera búsqueda en todos los audiolibros descarga unos 140 MB."],
+  index_fail:       ["Couldn't load data/index.json. This page doesn't work when opened directly as a file. Run 'python3 -m http.server 8000' in the PineRadio folder and open http://localhost:8000.",
+                     "无法加载 data/index.json。直接以文件方式打开时本页面无法工作。请在 PineRadio 文件夹中运行 'python3 -m http.server 8000'，然后打开 http://localhost:8000。",
+                     "無法載入 data/index.json。直接以檔案方式開啟時本頁面無法運作。請在 PineRadio 資料夾中執行 'python3 -m http.server 8000'，然後開啟 http://localhost:8000。",
+                     "Impossible de charger data/index.json. Cette page ne fonctionne pas ouverte directement comme fichier. Lancez 'python3 -m http.server 8000' dans le dossier PineRadio puis ouvrez http://localhost:8000.",
+                     "data/index.json konnte nicht geladen werden. Die Seite funktioniert nicht, wenn sie direkt als Datei geöffnet wird. Führe im Ordner PineRadio 'python3 -m http.server 8000' aus und öffne http://localhost:8000.",
+                     "data/index.json を読み込めませんでした。ファイルを直接開くとこのページは動作しません。PineRadio フォルダで 'python3 -m http.server 8000' を実行し、http://localhost:8000 を開いてください。",
+                     "data/index.json 을 불러오지 못했습니다. 파일을 직접 열면 이 페이지는 동작하지 않습니다. PineRadio 폴더에서 'python3 -m http.server 8000' 을 실행한 뒤 http://localhost:8000 으로 열어주세요.",
+                     "Не удалось загрузить data/index.json. Страница не работает при открытии как файла. Выполните 'python3 -m http.server 8000' в папке PineRadio и откройте http://localhost:8000.",
+                     "No se pudo cargar data/index.json. Esta página no funciona si se abre directamente como archivo. Ejecuta 'python3 -m http.server 8000' en la carpeta PineRadio y abre http://localhost:8000."],
+};
+
+const GENRES = {
+  decade_1920s_50s:  ["1920s–50s", "1920–50年代", "1920–50年代", "Années 1920–50", "1920er–50er", "1920〜50年代", "1920~50년대", "1920–50-е", "Años 20–50"],
+  decade_60s:        ["60s", "60年代", "60年代", "Années 60", "60er", "60年代", "60년대", "60-е", "Años 60"],
+  decade_70s:        ["70s", "70年代", "70年代", "Années 70", "70er", "70年代", "70년대", "70-е", "Años 70"],
+  decade_80s:        ["80s", "80年代", "80年代", "Années 80", "80er", "80年代", "80년대", "80-е", "Años 80"],
+  decade_90s:        ["90s", "90年代", "90年代", "Années 90", "90er", "90年代", "90년대", "90-е", "Años 90"],
+  decade_2000s:      ["2000s & later", "2000年代以后", "2000年代以後", "Années 2000 et après", "2000er und später", "2000年代以降", "2000년대 이후", "2000-е и позже", "Años 2000 en adelante"],
+  smooth_jazz:       ["Smooth Jazz", "柔顺爵士", "柔順爵士", "Smooth jazz", "Smooth Jazz", "スムースジャズ", "스무스 재즈", "Смус-джаз", "Smooth jazz"],
+  acid_jazz:         ["Acid Jazz", "酸爵士", "酸爵士", "Acid jazz", "Acid Jazz", "アシッドジャズ", "애시드 재즈", "Эйсид-джаз", "Acid jazz"],
+  jazz:              ["Jazz", "爵士", "爵士", "Jazz", "Jazz", "ジャズ", "재즈", "Джаз", "Jazz"],
+  big_band_swing:    ["Big Band & Swing", "大乐队·摇摆", "大樂隊·搖擺", "Big band & swing", "Big Band & Swing", "ビッグバンド・スウィング", "빅밴드·스윙", "Биг-бэнд и свинг", "Big band y swing"],
+  blues:             ["Blues", "布鲁斯", "藍調", "Blues", "Blues", "ブルース", "블루스", "Блюз", "Blues"],
+  soul_rnb_funk:     ["Soul, R&B & Funk", "灵魂乐·R&B·放克", "靈魂樂·R&B·放克", "Soul, R&B & funk", "Soul, R&B & Funk", "ソウル・R&B・ファンク", "소울·R&B·펑크", "Соул, R&B и фанк", "Soul, R&B y funk"],
+  hip_hop_rap:       ["Hip-Hop & Rap", "嘻哈·说唱", "嘻哈·饒舌", "Hip-hop & rap", "Hip-Hop & Rap", "ヒップホップ・ラップ", "힙합·랩", "Хип-хоп и рэп", "Hip hop y rap"],
+  reggae_ska:        ["Reggae & Ska", "雷鬼·斯卡", "雷鬼·斯卡", "Reggae & ska", "Reggae & Ska", "レゲエ・スカ", "레게·스카", "Регги и ска", "Reggae y ska"],
+  metal:             ["Metal", "金属", "金屬", "Metal", "Metal", "メタル", "메탈", "Метал", "Metal"],
+  punk:              ["Punk", "朋克", "龐克", "Punk", "Punk", "パンク", "펑크 록", "Панк", "Punk"],
+  gothic_industrial: ["Gothic & Industrial", "哥特·工业", "哥德·工業", "Gothique & industriel", "Gothic & Industrial", "ゴシック・インダストリアル", "고딕·인더스트리얼", "Готик и индастриал", "Gótico e industrial"],
+  alternative_indie: ["Alternative & Indie", "另类·独立", "另類·獨立", "Alternatif & indé", "Alternative & Indie", "オルタナティブ・インディー", "얼터너티브·인디", "Альтернатива и инди", "Alternativo e indie"],
+  rock:              ["Rock", "摇滚", "搖滾", "Rock", "Rock", "ロック", "록", "Рок", "Rock"],
+  country:           ["Country", "乡村", "鄉村", "Country", "Country", "カントリー", "컨트리", "Кантри", "Country"],
+  folk:              ["Folk", "民谣", "民謠", "Folk", "Folk", "フォーク", "포크", "Фолк", "Folk"],
+  drum_and_bass:     ["Drum & Bass", "鼓打贝斯", "鼓打貝斯", "Drum & bass", "Drum & Bass", "ドラムンベース", "드럼앤베이스", "Драм-н-бейс", "Drum and bass"],
+  trance_goa:        ["Trance", "迷幻舞曲", "迷幻舞曲", "Trance", "Trance", "トランス", "트랜스", "Транс", "Trance"],
+  techno:            ["Techno", "铁克诺", "鐵克諾", "Techno", "Techno", "テクノ", "테크노", "Техно", "Techno"],
+  house:             ["House", "浩室", "浩室", "House", "House", "ハウス", "하우스", "Хаус", "House"],
+  disco_eurodance:   ["Disco & Eurodance", "迪斯科·欧陆舞曲", "迪斯可·歐陸舞曲", "Disco & eurodance", "Disco & Eurodance", "ディスコ・ユーロダンス", "디스코·유로댄스", "Диско и евроданс", "Disco y eurodance"],
+  electronic:        ["Electronic", "电子", "電子", "Électronique", "Elektronisch", "エレクトロニック", "일렉트로닉", "Электроника", "Electrónica"],
+  chillout_lounge:   ["Chillout & Lounge", "休闲·沙发音乐", "休閒·沙發音樂", "Chillout & lounge", "Chillout & Lounge", "チルアウト・ラウンジ", "칠아웃·라운지", "Чилаут и лаунж", "Chill out y lounge"],
+  ambient_relax:     ["Ambient & Relaxation", "氛围·放松", "氛圍·放鬆", "Ambient & détente", "Ambient & Entspannung", "アンビエント・リラックス", "앰비언트·휴식", "Эмбиент и релакс", "Ambient y relajación"],
+  classical:         ["Classical", "古典", "古典", "Classique", "Klassik", "クラシック", "클래식", "Классика", "Clásica"],
+  opera:             ["Opera", "歌剧", "歌劇", "Opéra", "Oper", "オペラ", "오페라", "Опера", "Ópera"],
+  easy_listening:    ["Easy Listening", "轻音乐", "輕音樂", "Easy listening", "Easy Listening", "イージーリスニング", "이지리스닝", "Лёгкая музыка", "Easy listening"],
+  soundtrack:        ["Soundtracks", "原声·电影音乐", "原聲·電影音樂", "Bandes originales", "Soundtracks", "サウンドトラック", "OST·영화음악", "Саундтреки", "Bandas sonoras"],
+  oldies:            ["Oldies", "怀旧金曲", "懷舊金曲", "Oldies", "Oldies", "オールディーズ", "올디스", "Ретро-хиты", "Oldies"],
+  jpop_kpop_asia:    ["J-Pop & K-Pop", "日韩流行", "日韓流行", "J-pop & K-pop", "J-Pop & K-Pop", "J-POP・K-POP", "J-POP·K-POP", "J-pop и K-pop", "J-pop y K-pop"],
+  bollywood_indian:  ["Bollywood & Indian", "宝莱坞·印度", "寶萊塢·印度", "Bollywood & musique indienne", "Bollywood & Indisch", "ボリウッド・インド", "볼리우드·인도", "Болливуд и индийская", "Bollywood y música india"],
+  latin:             ["Latin", "拉丁", "拉丁", "Latino", "Latin", "ラテン", "라틴", "Латино", "Latina"],
+  schlager_polka:    ["Schlager & Polka", "流行歌·波尔卡", "流行歌·波卡", "Schlager & polka", "Schlager & Polka", "シュラーガー・ポルカ", "슐라거·폴카", "Шлягер и полька", "Schlager y polca"],
+  world:             ["World Music", "世界音乐", "世界音樂", "Musiques du monde", "Weltmusik", "ワールドミュージック", "월드뮤직", "Мировая музыка", "Música del mundo"],
+  news_talk:         ["News & Talk", "新闻·谈话", "新聞·談話", "Infos & débats", "Nachrichten & Talk", "ニュース・トーク", "뉴스·토크", "Новости и ток-шоу", "Noticias y charla"],
+  pop_hits:          ["Pop & Hits", "流行·热门", "流行·熱門", "Pop & tubes", "Pop & Hits", "ポップ・ヒット", "팝·히트", "Поп и хиты", "Pop y éxitos"],
+  christian_gospel:  ["Christian & Gospel", "基督教·福音", "基督教·福音", "Chrétien & gospel", "Christlich & Gospel", "クリスチャン・ゴスペル", "기독교·가스펠", "Христианская и госпел", "Cristiana y gospel"],
+  islamic_quran:     ["Islamic & Quran", "伊斯兰·古兰经", "伊斯蘭·古蘭經", "Islam & Coran", "Islam & Koran", "イスラム・コーラン", "이슬람·코란", "Ислам и Коран", "Islam y Corán"],
+  sports:            ["Sports", "体育", "體育", "Sports", "Sport", "スポーツ", "스포츠", "Спорт", "Deportes"],
+  comedy:            ["Comedy", "喜剧", "喜劇", "Humour", "Comedy", "コメディ", "코미디", "Юмор", "Comedia"],
+  kids:              ["Kids", "儿童", "兒童", "Enfants", "Kinder", "キッズ", "어린이", "Детям", "Infantil"],
+  holiday:           ["Holidays", "节日", "節日", "Fêtes", "Feiertage", "ホリデー", "시즌·홀리데이", "Праздники", "Festividades"],
+  college_community: ["College & Community", "校园·社区", "校園·社區", "Universitaire & associative", "Campus & Community", "大学・コミュニティ", "대학·커뮤니티", "Студенческое и местное", "Universitaria y comunitaria"],
+  various_eclectic:  ["Various", "综合", "綜合", "Variés", "Verschiedenes", "いろいろ", "다양한 장르", "Разное", "Variado"],
+  unclassified:      ["Unclassified", "未分类", "未分類", "Non classé", "Nicht zugeordnet", "未分類", "미분류", "Без жанра", "Sin clasificar"],
+};
+
+const storeGet = (k, d) => { try { const v = localStorage.getItem("pineradio:" + k); return v == null ? d : JSON.parse(v); } catch { return d; } };
+let LOCALE = LOCALES.includes(storeGet("locale", "en")) ? storeGet("locale", "en") : "en";
+let LI = LOCALES.indexOf(LOCALE);
+let regionNames, languageNames;
+function setLocale(loc) {
+  LOCALE = loc; LI = LOCALES.indexOf(loc);
+  document.documentElement.lang = loc;
+  try { regionNames = new Intl.DisplayNames([loc, "en"], { type: "region" }); } catch { regionNames = null; }
+  try { languageNames = new Intl.DisplayNames([loc, "en"], { type: "language" }); } catch { languageNames = null; }
+}
+setLocale(LOCALE);
+
+const t = (key, vars) => {
+  const row = UI[key];
+  let s = row ? (row[LI] || row[0]) : key;
+  if (vars) for (const [k, v] of Object.entries(vars)) s = s.replaceAll("{" + k + "}", v);
+  return s;
+};
+const num = n => Number(n).toLocaleString(LOCALE);
+const genreName = g => GENRES[g] ? (GENRES[g][LI] || GENRES[g][0]) : g;
+function countryName(name) {
+  if (name === "Unknown") return t("unknown_country");
+  const code = S.index?.radio.countries[name]?.code;
+  try { return (code && regionNames?.of(code)) || name; } catch { return name; }
+}
+function langName(name, short) {
+  if (name === "Unknown") return t(short ? "unknown_short" : "unknown_lang");
+  const code = S.index?.radio.language_codes?.[name];
+  try {
+    const n = code && languageNames?.of(code);
+    return n && n !== code ? n.charAt(0).toLocaleUpperCase(LOCALE) + n.slice(1) : name;
+  } catch { return name; }
+}
+
+// ---------- constants ----------
+const PAGE = 200;
+const ICON_PLAY = '<svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M7 4v16l13-8z"/></svg>';
+const ICON_PAUSE = '<svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M6 4h4v16H6zM14 4h4v16h-4z"/></svg>';
+const ICON_BIG_PLAY = '<svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M7 4v16l13-8z"/></svg>';
+const ICON_BIG_PAUSE = '<svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M6 4h4v16H6zM14 4h4v16h-4z"/></svg>';
+const ICON_STAR = '<svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="m12 2 3.1 6.3 6.9 1-5 4.9 1.2 6.8L12 17.8 5.8 21l1.2-6.8-5-4.9 6.9-1z"/></svg>';
+const ICON_COPY = '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="12" height="12" rx="2"/><path d="M5 15V5a2 2 0 0 1 2-2h10"/></svg>';
+
+// ---------- tiny helpers ----------
+const $ = s => document.querySelector(s);
+const el = (tag, cls, text) => { const e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; };
+const store = {
+  get: storeGet,
+  set(k, v) { try { localStorage.setItem("pineradio:" + k, JSON.stringify(v)); } catch {} },
+};
+const fmtTime = s => {
+  if (!isFinite(s)) return "LIVE";
+  const h = Math.floor(s / 3600), m = Math.floor(s / 60) % 60, sec = Math.floor(s % 60);
+  return (h ? h + ":" + String(m).padStart(2, "0") : m) + ":" + String(sec).padStart(2, "0");
+};
+const trackTitle = url => { try { return decodeURIComponent(url.split("/").pop()).replace(/\.[a-z0-9]+$/i, ""); } catch { return url.split("/").pop(); } };
+const norm = s => (s || "").toLowerCase();
+
+const cache = new Map();
+function loadJSON(path) {
+  if (!cache.has(path)) {
+    cache.set(path, fetch(path).then(r => { if (!r.ok) throw new Error(r.status + " " + path); return r.json(); })
+      .catch(e => { cache.delete(path); throw e; }));
+  }
+  return cache.get(path);
+}
+
+// ---------- state ----------
+const S = {
+  tab: "radio", index: null,
+  country: store.get("country", null), lang: null, genre: null,
+  collection: store.get("collection", null),
+  query: "", scope: "current",
+  rows: [], shown: PAGE, openPlaylist: null,
+  favs: store.get("favs", []),
+  runId: 0,
+};
+
+// ---------- data shaping ----------
+const radioRowsCache = new Map();
+async function radioRows(country) {
+  if (radioRowsCache.has(country)) return radioRowsCache.get(country);
+  const info = S.index.radio.countries[country];
+  const doc = await loadJSON("data/" + info.file);
+  const rows = [];
+  for (const [lang, L] of Object.entries(doc.languages))
+    for (const [genre, G] of Object.entries(L.genres))
+      for (const s of G.stations)
+        rows.push({ kind: "radio", ...s, country, lang, genre, _k: norm(s.name) + " " + norm(s.url) });
+  radioRowsCache.set(country, rows);
+  return rows;
+}
+const bookRowsCache = new Map();
+async function bookRows(slug) {
+  if (bookRowsCache.has(slug)) return bookRowsCache.get(slug);
+  const doc = await loadJSON(`data/audiobooks/${slug}.json`);
+  const rows = doc.items.map((p, i) => ({ kind: "book", id: slug + "#" + i, collection: slug, collectionName: doc.collection,
+    title: p.title, folder: p.folder, tracks: p.tracks, _k: norm(p.title) + " " + norm(p.folder) }));
+  bookRowsCache.set(slug, rows);
+  return rows;
+}
+const matches = (r, q) => !q || q.every(w => r._k.includes(w));
+const terms = () => norm(S.query).split(/\s+/).filter(Boolean);
+const statusText = n => t("n_results", { n: num(n) }) + (S.query ? " · " + t("results_for", { q: S.query }) : "");
+
+// ---------- static labels ----------
+function applyStaticText() {
+  document.querySelectorAll("[data-i18n]").forEach(e => { e.textContent = t(e.dataset.i18n); });
+  $("#q").placeholder = t(S.tab === "audiobooks" ? "search_books" : S.tab === "favorites" ? "search_favs" : "search_radio");
+  $("#scope").title = t("scope_title");
+  $("#uiLang").title = t("ui_language");
+  $("#sideFilter").placeholder = t(S.tab === "audiobooks" ? "find_collection" : "find_country");
+  $("#prev").title = t("prev"); $("#next").title = t("next"); $("#toggle").title = t("toggle");
+  $("#vol").title = t("volume");
+}
+
+// ---------- sidebar ----------
+function renderSide() {
+  const side = $("#side"); side.textContent = "";
+  const f = norm($("#sideFilter").value);
+  const frag = document.createDocumentFragment();
+  if (S.tab === "radio") {
+    const list = Object.entries(S.index.radio.countries).sort((a, b) => b[1].count - a[1].count);
+    for (const [name, info] of list) {
+      const label = countryName(name);
+      if (f && !norm(label).includes(f) && !norm(name).includes(f)) continue;
+      const b = el("button", "side-item" + (name === S.country ? " on" : ""));
+      b.append(el("span", null, label), el("span", "n", num(info.count)));
+      b.onclick = () => { S.country = name; S.lang = S.genre = null; store.set("country", name); resetAndRender(); };
+      frag.append(b);
+    }
+  } else if (S.tab === "audiobooks") {
+    const list = Object.entries(S.index.audiobooks).sort((a, b) => a[0].localeCompare(b[0]));
+    for (const [slug, info] of list) {
+      const label = slug.replace(/_/g, " ");
+      if (f && !label.includes(f)) continue;
+      const b = el("button", "side-item" + (slug === S.collection ? " on" : ""));
+      b.append(el("span", null, label), el("span", "n", num(info.playlists)));
+      b.onclick = () => { S.collection = slug; store.set("collection", slug); resetAndRender(); };
+      frag.append(b);
+    }
+  } else {
+    side.append(el("div", "empty", t("fav_side")));
+    return;
+  }
+  side.append(frag);
+  side.querySelector(".on")?.scrollIntoView({ block: "nearest" });
+}
+
+// ---------- main content ----------
+function resetAndRender() { S.shown = PAGE; S.openPlaylist = null; renderSide(); renderContent(); }
+
+async function renderContent() {
+  const run = ++S.runId;
+  const c = $("#content"); c.textContent = "";
+  const q = terms();
+  const global = S.scope === "all" && q.length && S.tab !== "favorites";
+
+  if (S.tab === "favorites") {
+    S.rows = S.favs.filter(r => matches({ _k: norm(r.name || r.title) + " " + norm(r.url || r.collection) }, q));
+    c.append(crumb(t("tab_favorites"), t("n_items", { n: num(S.rows.length) })));
+    return renderRows(c);
+  }
+
+  if (global) return renderGlobal(c, q, run);
+
+  if (S.tab === "radio") {
+    const countries = S.index.radio.countries;
+    if (!S.country || !countries[S.country]) S.country = "United States" in countries ? "United States" : Object.keys(countries)[0];
+    const info = countries[S.country];
+    c.append(crumb(countryName(S.country), t("n_stations", { n: num(info.count) })));
+    c.append(chipsRow(t("label_language"), Object.entries(info.languages).map(([l, v]) => [l, langName(l, true), v.count]), S.lang,
+      v => { S.lang = v; S.genre = null; S.shown = PAGE; renderContent(); }));
+    const gcount = {};
+    for (const [l, v] of Object.entries(info.languages)) if (!S.lang || S.lang === l)
+      for (const [g, n] of Object.entries(v.genres)) gcount[g] = (gcount[g] || 0) + n;
+    const gs = Object.entries(gcount).sort((a, b) => (a[0] === "unclassified") - (b[0] === "unclassified") || b[1] - a[1]);
+    c.append(chipsRow(t("label_genre"), gs.map(([g, n]) => [g, genreName(g), n]), S.genre,
+      v => { S.genre = v; S.shown = PAGE; renderContent(); }));
+    const status = c.appendChild(el("div", "status", t("loading")));
+    let rows;
+    try { rows = await radioRows(S.country); } catch (e) { status.textContent = t("load_failed", { e: e.message }); return; }
+    if (run !== S.runId) return;
+    S.rows = rows.filter(r => (!S.lang || r.lang === S.lang) && (!S.genre || r.genre === S.genre) && matches(r, q));
+    status.textContent = statusText(S.rows.length);
+    return renderRows(c);
+  }
+
+  // audiobooks
+  if (!S.collection || !S.index.audiobooks[S.collection]) S.collection = Object.keys(S.index.audiobooks).sort()[0];
+  const info = S.index.audiobooks[S.collection];
+  c.append(crumb(S.collection.replace(/_/g, " "), t("n_playlists_tracks", { p: num(info.playlists), t: num(info.tracks) })));
+  const status = c.appendChild(el("div", "status", t("loading")));
+  let rows;
+  try { rows = await bookRows(S.collection); } catch (e) { status.textContent = t("load_failed", { e: e.message }); return; }
+  if (run !== S.runId) return;
+  S.rows = rows.filter(r => matches(r, q));
+  status.textContent = statusText(S.rows.length);
+  renderRows(c);
+}
+
+async function renderGlobal(c, q, run) {
+  const isRadio = S.tab === "radio";
+  c.append(crumb(t("global_search"), `“${S.query}”`));
+  const status = c.appendChild(el("div", "status"));
+  const listBox = c.appendChild(el("div"));
+  const keys = isRadio
+    ? Object.entries(S.index.radio.countries).sort((a, b) => a[1].count - b[1].count).map(e => e[0])
+    : Object.entries(S.index.audiobooks).sort((a, b) => a[1].tracks - b[1].tracks).map(e => e[0]);
+  S.rows = []; let done = 0, i = 0, lastPaint = 0;
+  const paint = final => {
+    status.textContent = t("n_found", { n: num(S.rows.length) }) + (final ? "" : " · " + t("searching", { d: done, t: keys.length }));
+    if (final || performance.now() - lastPaint > 400) { lastPaint = performance.now(); listBox.textContent = ""; renderRows(listBox); }
+  };
+  const worker = async () => {
+    while (i < keys.length && run === S.runId) {
+      const k = keys[i++];
+      try {
+        const rows = isRadio ? await radioRows(k) : await bookRows(k);
+        if (run !== S.runId) return;
+        for (const r of rows) if (matches(r, q)) S.rows.push(r);
+      } catch (e) { console.warn(e); }
+      done++; paint(false);
+    }
+  };
+  paint(false);
+  await Promise.all(Array.from({ length: 4 }, worker));
+  if (run === S.runId) paint(true);
+}
+
+function crumb(title, meta) {
+  const d = el("div", "crumb"); d.append(el("h2", null, title), el("span", "meta", meta)); return d;
+}
+function chipsRow(label, items, current, onPick) {
+  const d = el("div", "chips"); d.append(el("span", "label", label));
+  const mk = (val, text, n) => {
+    const b = el("button", "chip" + (current === val ? " on" : ""), text);
+    if (n != null) b.append(el("span", "n", num(n)));
+    b.onclick = () => onPick(current === val ? null : val);
+    d.append(b);
+  };
+  mk(null, t("all"));
+  for (const [v, txt, n] of items) mk(v, txt, n);
+  return d;
+}
+
+function renderRows(c) {
+  if (!S.rows.length) { c.append(el("div", "empty", t("no_results"))); return; }
+  const list = el("div", "list");
+  const frag = document.createDocumentFragment();
+  for (const r of S.rows.slice(0, S.shown)) frag.append(r.kind === "book" ? bookRow(r) : stationRow(r));
+  list.append(frag); c.append(list);
+  if (S.rows.length > S.shown) {
+    const more = el("button", "more", t("show_more", { n: num(S.rows.length - S.shown) }));
+    more.onclick = () => { S.shown += PAGE * 2; more.remove(); list.remove(); renderRows(c); };
+    c.append(more);
+  }
+}
+
+function stationRow(r) {
+  const row = el("div", "row" + (P.current?.url === r.url ? " playing" : ""));
+  row.dataset.url = r.url;
+  const btn = el("button", "play"); btn.innerHTML = P.current?.url === r.url && !audio.paused ? ICON_PAUSE : ICON_PLAY;
+  btn.title = t("play");
+  btn.onclick = () => P.current?.url === r.url ? P.toggle() : P.playStation(r, S.rows);
+  let logo;
+  if (r.logo) {
+    logo = el("img", "logo"); logo.loading = "lazy"; logo.referrerPolicy = "no-referrer"; logo.alt = "";
+    logo.src = r.logo; logo.onerror = () => logo.replaceWith(initial(r.name));
+  } else logo = initial(r.name);
+  const info = el("div", "info");
+  info.append(el("div", "name", r.name));
+  const sub = el("div", "sub");
+  const tag = (txt, guess, title) => { const s = el("span", "tag" + (guess ? " guess" : ""), txt); if (title) s.title = title; sub.append(s); };
+  if (r.country) tag(countryName(r.country), r.country_inferred, r.country_inferred ? t("guess_country") : "");
+  if (r.lang) tag(langName(r.lang), r.language_inferred, r.language_inferred ? t("guess_lang") : "");
+  if (r.genre) tag(genreName(r.genre));
+  if (r.bitrate) tag(r.bitrate + " kbps");
+  sub.title = r.url;
+  info.append(sub);
+  const acts = el("div", "actions");
+  const fav = el("button", "icon-btn" + (isFav(r.url) ? " fav-on" : "")); fav.innerHTML = ICON_STAR; fav.title = t("favorite");
+  fav.onclick = () => { toggleFav(r); fav.classList.toggle("fav-on", isFav(r.url)); };
+  const copy = el("button", "icon-btn"); copy.innerHTML = ICON_COPY; copy.title = t("copy_url");
+  copy.onclick = () => navigator.clipboard?.writeText(r.url).then(() => { copy.style.color = "var(--accent)"; setTimeout(() => copy.style.color = "", 800); });
+  acts.append(fav, copy);
+  row.append(btn, logo, info, acts);
+  return row;
+}
+function initial(name) { return el("div", "logo", (name || "?").trim().charAt(0).toUpperCase()); }
+
+function bookRow(r) {
+  const wrap = el("div");
+  const row = el("div", "row" + (P.current?.playlistId === r.id ? " playing" : ""));
+  const btn = el("button", "play"); btn.innerHTML = ICON_PLAY; btn.title = t("play_from_start");
+  btn.onclick = () => P.playBook(r, 0);
+  const cover = el("div", "logo", String(r.tracks.length));
+  cover.title = t("track_count");
+  const info = el("div", "info");
+  info.append(el("div", "name", r.title));
+  const showColl = S.tab === "favorites" || (S.scope === "all" && S.query);
+  info.append(el("div", "sub", [showColl ? r.collection.replace(/_/g, " ") : null, r.folder, t("n_tracks", { n: num(r.tracks.length) })].filter(Boolean).join(" · ")));
+  info.style.cursor = "pointer";
+  info.onclick = () => { S.openPlaylist = S.openPlaylist === r.id ? null : r.id; wrap.replaceWith(bookRow(r)); };
+  const acts = el("div", "actions");
+  const fav = el("button", "icon-btn" + (isFav(r.id) ? " fav-on" : "")); fav.innerHTML = ICON_STAR; fav.title = t("favorite");
+  fav.onclick = () => { toggleFav(r); fav.classList.toggle("fav-on", isFav(r.id)); };
+  acts.append(fav);
+  row.append(btn, cover, info, acts);
+  wrap.append(row);
+  if (S.openPlaylist === r.id) {
+    const tl = el("div", "tracks");
+    r.tracks.forEach((u, i) => {
+      const tr = el("button", "track" + (P.current?.url === u ? " playing" : ""));
+      tr.append(el("span", "i", String(i + 1)), el("span", "t", trackTitle(u)));
+      tr.onclick = () => P.playBook(r, i);
+      tl.append(tr);
+    });
+    wrap.append(tl);
+  }
+  return wrap;
+}
+
+// ---------- favorites ----------
+const favKey = r => r.kind === "book" ? r.id : r.url;
+const isFav = k => S.favs.some(f => favKey(f) === k);
+function toggleFav(r) {
+  const k = favKey(r);
+  if (isFav(k)) S.favs = S.favs.filter(f => favKey(f) !== k);
+  else { const { _k, ...clean } = r; S.favs.unshift(clean); }
+  store.set("favs", S.favs);
+}
+
+// ---------- player ----------
+const audio = $("#audio");
+let hls = null;
+// status is stored as a key (+ error flag) so it can be re-rendered when the language changes
+let nowState = { key: null, err: false };
+const P = {
+  current: null, queue: [], qi: -1,
+  load(url) {
+    if (hls) { hls.destroy(); hls = null; }
+    audio.removeAttribute("src");
+    const isHls = /\.m3u8(\?|$)/i.test(url);
+    if (isHls && !audio.canPlayType("application/vnd.apple.mpegurl") && window.Hls?.isSupported()) {
+      hls = new Hls();
+      hls.on(Hls.Events.ERROR, (_, d) => { if (d.fatal) showErr("err_hls"); });
+      hls.loadSource(url); hls.attachMedia(audio);
+    } else {
+      audio.src = url;
+    }
+    audio.play().catch(e => { if (e.name !== "AbortError") showErr(e.name === "NotAllowedError" ? "err_tap" : "err_stream"); });
+  },
+  playStation(r, list) {
+    this.queue = list.filter(x => x.kind === "radio"); this.qi = this.queue.indexOf(r);
+    this.current = { kind: "radio", url: r.url, title: r.name, r };
+    this.load(r.url); updateNow("st_connecting"); refreshPlaying();
+  },
+  playBook(r, i) {
+    this.queue = r.tracks.map(u => ({ url: u, r })); this.qi = i;
+    this.current = { kind: "book", url: r.tracks[i], playlistId: r.id, title: trackTitle(r.tracks[i]), r, i };
+    this.load(r.tracks[i]); updateNow("st_connecting"); refreshPlaying();
+  },
+  step(d) {
+    const ni = this.qi + d;
+    if (!this.current || ni < 0 || ni >= this.queue.length) return;
+    if (this.current.kind === "radio") this.playStation(this.queue[ni], this.queue);
+    else this.playBook(this.queue[ni].r, ni);
+  },
+  toggle() {
+    if (!this.current) return;
+    if (audio.paused) {
+      // live streams: reconnect instead of resuming a stale buffer
+      if (this.current.kind === "radio") this.load(this.current.url); else audio.play();
+    } else audio.pause();
+  },
+};
+function currentSub() {
+  const c = P.current; if (!c) return "";
+  if (c.kind === "book") return `${c.r.title} · ${c.i + 1}/${c.r.tracks.length}`;
+  const r = c.r;
+  return [r.country === "Unknown" ? null : countryName(r.country), r.lang === "Unknown" ? null : langName(r.lang),
+          genreName(r.genre), r.bitrate && r.bitrate + " kbps"].filter(Boolean).join(" · ");
+}
+function updateNow(key, err) {
+  if (key !== undefined) nowState = { key, err: !!err };
+  $("#nowName").textContent = P.current ? P.current.title : t("pick_station");
+  const sub = $("#nowSub");
+  const state = nowState.key ? t(nowState.key) + (nowState.err ? " " + t("err_hint") : "") : "";
+  sub.textContent = [state, currentSub()].filter(Boolean).join(" — ");
+  sub.classList.toggle("err", nowState.err);
+  $("#toggle").disabled = !P.current;
+  $("#toggle").innerHTML = audio.paused ? ICON_BIG_PLAY : ICON_BIG_PAUSE;
+  $("#seekBox").classList.toggle("hidden", !(P.current?.kind === "book" && isFinite(audio.duration)));
+  document.title = P.current && !audio.paused ? `▶ ${P.current.title} · PineRadio` : "PineRadio";
+  if ("mediaSession" in navigator && P.current) {
+    navigator.mediaSession.metadata = new MediaMetadata({ title: P.current.title, artist: currentSub() || "PineRadio" });
+  }
+}
+function showErr(key) { audio.pause(); updateNow(key, true); refreshPlaying(); }
+function refreshPlaying() {
+  document.querySelectorAll(".row[data-url]").forEach(row => {
+    const on = P.current?.url === row.dataset.url;
+    row.classList.toggle("playing", on);
+    row.querySelector(".play").innerHTML = on && !audio.paused ? ICON_PAUSE : ICON_PLAY;
+  });
+  if (P.current?.kind === "book") {
+    document.querySelectorAll(".track").forEach(x => x.classList.remove("playing"));
+    const open = S.rows.find(r => r.id === S.openPlaylist);
+    if (open) document.querySelectorAll(".track")[open.tracks.indexOf(P.current.url)]?.classList.add("playing");
+  }
+}
+audio.addEventListener("playing", () => { updateNow("st_playing"); refreshPlaying(); });
+audio.addEventListener("waiting", () => updateNow("st_buffering"));
+audio.addEventListener("pause", () => { if (!nowState.err) updateNow("st_paused"); refreshPlaying(); });
+audio.addEventListener("error", () => { if (audio.getAttribute("src")) showErr("err_stream"); });
+audio.addEventListener("ended", () => P.current?.kind === "book" ? P.step(1) : updateNow("st_ended"));
+audio.addEventListener("loadedmetadata", () => updateNow(audio.paused ? "st_paused" : "st_playing"));
+audio.addEventListener("timeupdate", () => {
+  if (P.current?.kind !== "book" || !isFinite(audio.duration)) return;
+  $("#tCur").textContent = fmtTime(audio.currentTime); $("#tDur").textContent = fmtTime(audio.duration);
+  if (!seeking) $("#seek").value = Math.round(audio.currentTime / audio.duration * 1000);
+});
+let seeking = false;
+$("#seek").addEventListener("input", () => { seeking = true; });
+$("#seek").addEventListener("change", e => { seeking = false; if (isFinite(audio.duration)) audio.currentTime = e.target.value / 1000 * audio.duration; });
+$("#toggle").onclick = () => P.toggle();
+$("#prev").onclick = () => P.step(-1);
+$("#next").onclick = () => P.step(1);
+const vol = $("#vol");
+vol.value = store.get("volume", 0.8); audio.volume = +vol.value;
+vol.oninput = () => { audio.volume = +vol.value; store.set("volume", +vol.value); };
+if ("mediaSession" in navigator) {
+  navigator.mediaSession.setActionHandler("previoustrack", () => P.step(-1));
+  navigator.mediaSession.setActionHandler("nexttrack", () => P.step(1));
+}
+document.addEventListener("keydown", e => {
+  if (e.target.matches("input, select, textarea")) return;
+  if (e.code === "Space") { e.preventDefault(); P.toggle(); }
+  else if (e.key === "/") { e.preventDefault(); $("#q").focus(); }
+});
+
+// ---------- wiring ----------
+const uiLang = $("#uiLang");
+LOCALES.forEach((loc, i) => { const o = el("option", null, LOCALE_NAMES[i]); o.value = loc; o.lang = loc; uiLang.append(o); });
+uiLang.value = LOCALE;
+uiLang.onchange = () => {
+  setLocale(uiLang.value); store.set("locale", uiLang.value);
+  applyStaticText(); updateNow();
+  if (S.index) { renderSide(); renderContent(); }
+};
+
+document.querySelectorAll(".tabs button").forEach(b => b.onclick = () => {
+  S.tab = b.dataset.tab;
+  document.querySelectorAll(".tabs button").forEach(x => x.classList.toggle("on", x === b));
+  $("#sideFilter").value = "";
+  $("#sideFilter").parentElement.classList.toggle("hidden", S.tab === "favorites");
+  $("#scope").classList.toggle("hidden", S.tab === "favorites");
+  applyStaticText();
+  resetAndRender();
+});
+let qTimer;
+$("#q").addEventListener("input", e => {
+  clearTimeout(qTimer);
+  qTimer = setTimeout(() => { S.query = e.target.value.trim(); S.shown = PAGE; S.openPlaylist = null; renderContent(); }, S.scope === "all" ? 450 : 200);
+});
+$("#scope").onchange = e => {
+  S.scope = e.target.value;
+  if (S.scope === "all" && S.tab === "audiobooks" && !bookRowsCache.size)
+    $("#content").prepend(el("div", "status", t("books_all_warn")));
+  if (S.query) { S.shown = PAGE; renderContent(); }
+};
+$("#sideFilter").addEventListener("input", renderSide);
+
+applyStaticText();
+updateNow();
+(async () => {
+  try {
+    S.index = await loadJSON("data/index.json");
+  } catch (e) {
+    $("#content").append(el("div", "empty", t("index_fail")));
+    return;
+  }
+  resetAndRender();
+})();
+</script>
+</body>
+</html>

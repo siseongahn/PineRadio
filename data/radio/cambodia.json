@@ -1,0 +1,2561 @@
+{
+ "country": "Cambodia",
+ "count": 505,
+ "languages": {
+  "Khmer": {
+   "count": 499,
+   "genres": {
+    "classical": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Radio Samleng Khemara",
+       "url": "http://167.114.64.181:8570/",
+       "tags": [
+        "classical",
+        "world"
+       ]
+      },
+      {
+       "name": "វិទ្យុទន្លេអុំ កំពង់ចាម",
+       "url": "http://ample-zeno-05.radiojar.com/rt2ha8x0cuquv.mp3",
+       "tags": [
+        "pop_hits",
+        "classical"
+       ]
+      }
+     ]
+    },
+    "college_community": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Noches de pernicia",
+       "url": "https://stream.zeno.fm/mt63sa00hc9uv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Love FM 97.5 - Siam Reap",
+       "url": "http://radio99.servradio.com:9310/"
+      },
+      {
+       "name": "Love FM Phnom Penh",
+       "url": "http://radio99.servradio.com:9298/",
+       "tags": [
+        "pop_hits",
+        "easy_listening"
+       ]
+      }
+     ]
+    },
+    "electronic": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Tonle FM radio",
+       "url": "http://5.133.182.164:20512/stream",
+       "tags": [
+        "electronic",
+        "news_talk",
+        "pop_hits",
+        "classical",
+        "rock",
+        "folk"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "folk": {
+     "count": 14,
+     "stations": [
+      {
+       "name": "Radio Samleng Khemara - Khmer",
+       "url": "http://myradio.doscast.com:8570/stream",
+       "tags": [
+        "folk",
+        "world"
+       ]
+      },
+      {
+       "name": "Sweet FM - Battambang",
+       "url": "http://119.82.248.12:1950/shoutcashflash_FM88/FM88.stream/playlist.m3u8"
+      },
+      {
+       "name": "Sweet FM 100.5 - Pursat",
+       "url": "http://radio99.servradio.com:9302/stream.mp3"
+      },
+      {
+       "name": "Sweet FM 100.5 - Siem Riep",
+       "url": "http://radio99.servradio.com:9308/stream.mp3"
+      },
+      {
+       "name": "Sweet FM 100.5 - Sihanouk Ville",
+       "url": "http://radio99.servradio.com:9326/stream.mp3"
+      },
+      {
+       "name": "Sweet FM 100.5 - Takeo",
+       "url": "http://radio99.servradio.com:9330/stream.mp3"
+      },
+      {
+       "name": "Sweet FM 103.5 - Banteay Meanchey",
+       "url": "http://radio99.servradio.com:9306/stream.mp3"
+      },
+      {
+       "name": "Sweet FM 103.5 - Kampong Cham",
+       "url": "http://radio99.servradio.com:9314/stream.mp3"
+      },
+      {
+       "name": "Sweet FM 103.5 - Koh Kong",
+       "url": "http://radio99.servradio.com:9328/stream.mp3"
+      },
+      {
+       "name": "Sweet FM 103.5 - Kra Tie",
+       "url": "http://radio99.servradio.com:9318/"
+      },
+      {
+       "name": "Sweet FM 103.75 - Svay Rieng",
+       "url": "http://radio99.servradio.com:9322/stream.mp3"
+      },
+      {
+       "name": "Sweet FM 93.25 - Kompot",
+       "url": "http://radio99.servradio.com:9324/stream.mp3"
+      },
+      {
+       "name": "Sweet FM 99 - Preah Vihear",
+       "url": "http://radio99.servradio.com:9312/stream.mp3"
+      },
+      {
+       "name": "Tonle FM",
+       "url": "http://87.117.197.33:15929/",
+       "tags": [
+        "folk",
+        "world"
+       ]
+      }
+     ]
+    },
+    "holiday": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Preah Neareay FM",
+       "url": "http://ample-zeno-17.radiojar.com/xpg65nu7vreuv.mp3"
+      }
+     ]
+    },
+    "metal": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "វិទ្យុទន្លេ ភ្នំពេញ",
+       "url": "https://stream.zeno.fm/e8cgqh27vreuv"
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 21,
+     "stations": [
+      {
+       "name": "ABC Cambodia 107.5 FM",
+       "url": "https://stream.zeno.fm/q0ubt7f26wquv"
+      },
+      {
+       "name": "Fresh FM Takeo",
+       "url": "https://stream.zeno.fm/1n5d1uqvfpeuv"
+      },
+      {
+       "name": "Kampong Thom FM",
+       "url": "https://stream.zeno.fm/k8yqbq4wzreuv",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "LDP Radio",
+       "url": "http://s6.voscast.com:9000",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Lotus Radio",
+       "url": "http://136.228.129.13:8008/lotusradio",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Lotus Radio",
+       "url": "http://203.189.141.158:8008/lotusradio",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Free Asia radio",
+       "url": "http://rfalive3.akacast.akamaistream.net/7/986/433979/v1/ibb.akacast.akamaistream.net/RFALive3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Rasmey Hang Meas",
+       "url": "http://111.92.240.134:90/broadwave.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "world"
+       ]
+      },
+      {
+       "name": "Radio Samleng Khemara",
+       "url": "http://167.114.64.181:8570/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "oldies"
+       ]
+      },
+      {
+       "name": "Radio Samleng Khemara radio",
+       "url": "http://148.251.92.113:8570/stream",
+       "tags": [
+        "news_talk",
+        "oldies"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Sarika FM radio",
+       "url": "https://202.79.26.170:5000/province1.mp3?_=1",
+       "tags": [
+        "news_talk",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "RNK FM radio",
+       "url": "http://119.82.252.6:8181/broadwave.mp3"
+      },
+      {
+       "name": "Smile Radio FM 107",
+       "url": "https://stream.zeno.fm/887fswvrgpeuv",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Sweet FM 100.5 Siem Reab",
+       "url": "http://radio99.servradio.com:9308/stream/",
+       "language_inferred": true
+      },
+      {
+       "name": "Vayo FM",
+       "url": "http://50.21.176.38:8010/vayofm",
+       "tags": [
+        "news_talk",
+        "folk"
+       ]
+      },
+      {
+       "name": "Voice of Comfort Radio",
+       "url": "https://stream.zeno.fm/npxmsyx99ueuv",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "VOK - Voice of Khmer radio",
+       "url": "http://s1.voscast.com:10514/",
+       "tags": [
+        "news_talk",
+        "christian_gospel"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "VOY Radio FM",
+       "url": "http://www.voyfm.caster.fm/",
+       "language_inferred": true
+      },
+      {
+       "name": "Woman's Radio",
+       "url": "http://liveradio.wmc.org.kh:8090/radio.mp3",
+       "tags": [
+        "news_talk",
+        "folk"
+       ]
+      },
+      {
+       "name": "Woman's Radio Listen live",
+       "url": "https://96.9.79.25:8090/radio.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុគល់ទទឹង",
+       "url": "https://stream.zeno.fm/dfgvx1untf9uv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 13,
+     "stations": [
+      {
+       "name": "Daun Penh EFM",
+       "url": "http://36.37.219.226:9051/dpnefmpp"
+      },
+      {
+       "name": "Komsan FM",
+       "url": "https://crs.webdesign-flash.ro/?q=http://128.199.210.71:8000/stream/&plugin_id=7628&site_id=8520577",
+       "language_inferred": true
+      },
+      {
+       "name": "Love FM Phnom Penh",
+       "url": "http://202.44.52.243:9298/",
+       "language_inferred": true
+      },
+      {
+       "name": "NRG89FM",
+       "url": "http://119.82.248.12:1950/shoutcastflash_nrg/NRG/playlist.m3u8"
+      },
+      {
+       "name": "វិទ្យកល្យាណមិត្ត",
+       "url": "https://stream.zeno.fm/vbh1rhrvfpeuv"
+      },
+      {
+       "name": "វិទ្យុជាតិ កំពង់ធំ",
+       "url": "https://stream.zeno.fm/rze1eq4wzreuv"
+      },
+      {
+       "name": "វិទ្យុជាតិ ខេត្តឧត្តរមានជ័យ",
+       "url": "https://stream.zeno.fm/dc7gat912ueuv"
+      },
+      {
+       "name": "វិទ្យុជាតិគីរីរម្យ កំពង់ស្ពឺ",
+       "url": "https://stream.zeno.fm/cb5y5md27reuv"
+      },
+      {
+       "name": "វិទ្យុជាតិនគរភ្នំ សៀមរាប",
+       "url": "http://203.189.153.204:8080/broadwave.mp3?rate=1&src=1"
+      },
+      {
+       "name": "វិទ្យុជាតិរតនគីរី ខេត្តរតនគីរី",
+       "url": "https://stream.zeno.fm/qgy461vrgpeuv"
+      },
+      {
+       "name": "វិទ្យុដឹញូវស្ដាយ កំពង់ចាម",
+       "url": "http://203.223.40.122:84/broadwave.mp3?rate=1&src=1"
+      },
+      {
+       "name": "វិទ្យុលំអងសុរិន្ទម៉ារីយូ ខេត្តកំពង់ស្ពឺ",
+       "url": "https://stream.zeno.fm/s1bceqsvftzuv"
+      },
+      {
+       "name": "សំលេងយុវជន",
+       "url": "https://stream.zeno.fm/b8zf7yr9r8quv"
+      }
+     ]
+    },
+    "rock": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Kampot Radio Listen live",
+       "url": "https://james.shoutca.st/radio/8020/32.aac",
+       "tags": [
+        "rock",
+        "news_talk",
+        "latin",
+        "pop_hits",
+        "world"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "soul_rnb_funk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "វិទ្យុ NRG ភ្នំពេញ",
+       "url": "https://node-19.zeno.fm/x05fre6fmpeuv.mp3",
+       "tags": [
+        "pop_hits",
+        "soul_rnb_funk"
+       ]
+      }
+     ]
+    },
+    "various_eclectic": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Radio Cambodia",
+       "url": "https://listen.radionomy.com/AECRadioCambodia?type=.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio VOY FM 91.5",
+       "url": "http://shaincast.caster.fm:30570/listen.mp3?type=.flv&ampauthnc5069f5076406e841445e2c75b1a2494",
+       "language_inferred": true
+      }
+     ]
+    },
+    "world": {
+     "count": 5,
+     "stations": [
+      {
+       "name": "Cool FM",
+       "url": "http://119.82.248.12:1950/shoutcashflash_CoolFM/CoolFM.stream/playlist.m3u8"
+      },
+      {
+       "name": "Hang Meas FM",
+       "url": "http://111.92.240.134:89/broadwave.mp3"
+      },
+      {
+       "name": "Radio NRG89FM Listen live",
+       "url": "https://stream.zeno.fm/x05fre6fmpeuv.mp3",
+       "tags": [
+        "pop_hits",
+        "world",
+        "soul_rnb_funk",
+        "house",
+        "classical",
+        "decade_90s"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុនាគព័ន្ធ FM",
+       "url": "https://stream.zenolive.com/764txx1ufpeuv.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុហ្វ្រេស ​ ភ្នំពេញ / Fresh FM",
+       "url": "https://stream.zenolive.com/d1rf8wqvfpeuv.aac",
+       "language_inferred": true
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 434,
+     "stations": [
+      {
+       "name": "127 Online radiO",
+       "url": "https://stream.zeno.fm/rauc2e60mg8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "1karhi_new",
+       "url": "https://stream.zeno.fm/brsum64n638uv",
+       "language_inferred": true
+      },
+      {
+       "name": "ABC Cambodia",
+       "url": "https://stream.zeno.fm/hm639fk1epeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "AM 918KHz",
+       "url": "https://stream.zeno.fm/nahgba7pwueuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Apsara TV",
+       "url": "http://203.176.130.123:8989/live/apsaratv_480k.stream/playlist.m3u8"
+      },
+      {
+       "name": "AWR Cambodia",
+       "url": "https://stream.zeno.fm/43durpzxng8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Banteay Meanchey FM 90.00",
+       "url": "https://stream.zeno.fm/vdhv7s912ueuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Bayon News TV",
+       "url": "http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8"
+      },
+      {
+       "name": "Bayon TV",
+       "url": "http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8"
+      },
+      {
+       "name": "Beehive Radio FM វិទ្យុសំបុកឃ្មុំ",
+       "url": "http://69.12.80.119:8000/stream"
+      },
+      {
+       "name": "Bopha Pursat FM96.70",
+       "url": "https://stream.zeno.fm/7rg1z00ufpeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Cambodia Radio FM",
+       "url": "https://stream.zeno.fm/0fkx0bcw298uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Chan Kong",
+       "url": "https://stream.zeno.fm/z85904tr3uquv",
+       "language_inferred": true
+      },
+      {
+       "name": "CheaAlone",
+       "url": "https://stream.zeno.fm/arndcdzczrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "chmielny",
+       "url": "https://stream.zeno.fm/rumjbmaqon4tv",
+       "language_inferred": true
+      },
+      {
+       "name": "Daunpenh eFM",
+       "url": "http://icecast.khmerlive.tv:8000/daunpenhefm?hash=1486995248250.mp3"
+      },
+      {
+       "name": "Dayyyyyy",
+       "url": "https://stream.zeno.fm/qfdcqx50dxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Dombong Kranhong FM100",
+       "url": "https://stream.zeno.fm/28ub4t5hbd0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Eternal Life",
+       "url": "https://stream.zeno.fm/nh4xnhusbv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Fake me",
+       "url": "https://stream.zeno.fm/r3a444ndfv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Fresh FM87.70",
+       "url": "https://stream.zeno.fm/d1rf8wqvfpeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Fresh News",
+       "url": "https://stream.zeno.fm/vxcbwucw298uv",
+       "language_inferred": true
+      },
+      {
+       "name": "funk rj",
+       "url": "https://stream.zeno.fm/ypqgd35drjftv",
+       "language_inferred": true
+      },
+      {
+       "name": "Gracis",
+       "url": "https://stream.zeno.fm/8wk9qzk6e2zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Green Wave FM",
+       "url": "https://stream.zeno.fm/mg9ypbpb7a0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "GREEN WAVE FM 98Mhz",
+       "url": "https://stream.zeno.fm/x5e9hbpb7a0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hala Breeha Hala Song",
+       "url": "https://stream.zeno.fm/p5500vg5xdmuv",
+       "language_inferred": true
+      },
+      {
+       "name": "HEANG LY",
+       "url": "https://stream.zeno.fm/ncjwyy76o4wvv",
+       "language_inferred": true
+      },
+      {
+       "name": "istrijanski",
+       "url": "https://stream.zeno.fm/q51hg885af9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Kampot Radio",
+       "url": "https://ams1.reliastream.com/proxy/kampotr1?mp=/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Kampot Radio",
+       "url": "https://aurora.shoutca.st:8440/32k.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "Kanha Slek Rith FM106.30",
+       "url": "https://stream.zeno.fm/d3s1f3wufpeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Khemra FM 91",
+       "url": "https://stream.zeno.fm/sfn1u6170ueuv"
+      },
+      {
+       "name": "Khlang Moerng FM90.00",
+       "url": "https://stream.zeno.fm/k2andft3em0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "KHMER CHRISTIAN FM RADIO ONLINE 24/7",
+       "url": "https://stream.zeno.fm/vhnc2zrsbq8uv"
+      },
+      {
+       "name": "KHMER CHRISTIAN TV",
+       "url": "https://stream.zeno.fm/uyhd01nkms8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Komsan FM",
+       "url": "http://128.199.210.71:8000/",
+       "language_inferred": true
+      },
+      {
+       "name": "LemonFlamingo2",
+       "url": "https://stream.zeno.fm/uwtg56xndv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Lith.homemusic.fm",
+       "url": "https://stream.zeno.fm/xck55hdxfkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Lith.homemusic.fm",
+       "url": "https://stream.zeno.fm/89zdxhdxfkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Meanchey FM91.50",
+       "url": "https://stream.zeno.fm/bagqnr6hbd0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Meanchey FM91.50",
+       "url": "https://stream.zeno.fm/1tbabmqvfpeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Mekong FM88.70",
+       "url": "https://stream.zeno.fm/8z4gyf85queuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Metta Radio 96.7",
+       "url": "https://stream.zeno.fm/5qvqfawf4reuv"
+      },
+      {
+       "name": "Ministry Of Information MBC",
+       "url": "http://ample-zeno-20.radiojar.com/1618yyq6wreuv.mp3"
+      },
+      {
+       "name": "MNN Radio",
+       "url": "https://stream.zeno.fm/v18vnrg1epeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Moha Nokor Khemra FM88.30",
+       "url": "https://stream.zeno.fm/4xs0r7zwb6quv",
+       "language_inferred": true
+      },
+      {
+       "name": "Mohasal FM97.50",
+       "url": "https://stream.zeno.fm/8ddamf2bpueuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Mohasal FM99.30",
+       "url": "https://stream.zeno.fm/km7791pvfpeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "MOI Radio Cambodia",
+       "url": "https://stream.zeno.fm/65wy3f7u1ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "MOI Radio Testing",
+       "url": "https://stream.zeno.fm/rkg0vsrxrf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Mongkul Panha FM101.50",
+       "url": "https://stream.zeno.fm/0w97bf80238uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Music FM",
+       "url": "https://stream.zeno.fm/z148zxeayuquv",
+       "language_inferred": true
+      },
+      {
+       "name": "MYFM FM98.70",
+       "url": "https://stream.zeno.fm/u0vxfsncxuquv",
+       "language_inferred": true
+      },
+      {
+       "name": "MYFM Radio",
+       "url": "https://stream.zeno.fm/7g1mbkutawzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "National Radio of Kampuchea",
+       "url": "http://119.82.252.6:8080/broadwave.mp3"
+      },
+      {
+       "name": "National Television of Kampuchea",
+       "url": "http://203.176.130.123:8989/live/tvk_480k.stream/playlist.m3u8"
+      },
+      {
+       "name": "Nokor Chum FM100.30",
+       "url": "https://stream.zeno.fm/cce3w35e2rquv",
+       "language_inferred": true
+      },
+      {
+       "name": "NRER Radio",
+       "url": "https://stream.zeno.fm/xz4yeqqvfpeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "NRG Radio FM89",
+       "url": "https://stream.zeno.fm/x05fre6fmpeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "NRG Radio FM89",
+       "url": "https://stream.zeno.fm/1kiwvjjrzu3vv",
+       "language_inferred": true
+      },
+      {
+       "name": "NRG89FM",
+       "url": "https://stream.zeno.fm/cmyvcskwm18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "NRKFM94-50",
+       "url": "https://stream.zeno.fm/zrmd99xf2v8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "ONETAP",
+       "url": "https://stream.zeno.fm/nuvbxueeckcuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Ordóñez",
+       "url": "https://stream.zeno.fm/3hxrsfl7ndrvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Orm TV Radio Memot",
+       "url": "https://stream.zeno.fm/bt0us751kc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Phnom Borey FM103.70",
+       "url": "https://stream.zeno.fm/sk3cbw69pueuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Preahneareayfm",
+       "url": "https://stream.zeno.fm/xpg65nu7vreuv",
+       "language_inferred": true
+      },
+      {
+       "name": "PSN FM 90.5 Phnom Penh",
+       "url": "https://stream.zeno.fm/vdhv7s912ueuv.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "PSN Radio Phnom Penh",
+       "url": "http://ample-zeno-15.radiojar.com/vdhv7s912ueuv.mp3"
+      },
+      {
+       "name": "PSN Radio Phnom Penh – 100.3 FM – Phnom Penh – KH",
+       "url": "http://111.118.154.44:6666/PSN.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Punnarea Radio",
+       "url": "https://stream.zeno.fm/awhwm1c5u18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Punreay FM92.50",
+       "url": "https://stream.zeno.fm/5rayxce6auquv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio FM 103 Phnom Penh",
+       "url": "http://radio99.servradio.com:9294/"
+      },
+      {
+       "name": "Radio live prnunes",
+       "url": "https://stream2.svrdedicado.org:7199/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Mariposita",
+       "url": "https://stream.zeno.fm/08eyrguez38uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Mongkul Sovann",
+       "url": "http://96.9.78.45:88/broadwavehigh.mp3?src=1"
+      },
+      {
+       "name": "Radio National of Kampuchea",
+       "url": "https://mytuner-radio.com/radio/country/cambodia-stations"
+      },
+      {
+       "name": "Radio net",
+       "url": "https://stream.zeno.fm/79rs79uwpfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Oun",
+       "url": "http://ams1.reliastream.com:7006/live",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Samleng Khemara – Khmer – Phnom Penh – KH",
+       "url": "http://myradio.doscast.com/tunein/samlengk.pls",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Sarika",
+       "url": "http://202.79.26.170:5000/sarika.mp3?_=1"
+      },
+      {
+       "name": "Radio7s-Info",
+       "url": "https://stream.zeno.fm/kh445r36ma0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "radiodedehsantos",
+       "url": "https://stream.zeno.fm/4xh2dh3wpv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RadioSochan",
+       "url": "https://stream.zeno.fm/1bt822rb5reuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Ratanak Angkor FM93.70",
+       "url": "https://stream.zeno.fm/9b2tcxpczueuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Ratanak FM90.30",
+       "url": "https://stream.zeno.fm/dqg44khgtreuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Ratanakiri FM89.50",
+       "url": "https://stream.zeno.fm/tkw731vrgpeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Reaksmey Preah Ang Khmao",
+       "url": "https://stream.zeno.fm/qz6shzccs18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RHM 95.7 Phnom Penh",
+       "url": "http://111.92.240.134:90/broadwavelow.mp3"
+      },
+      {
+       "name": "RNK Radio",
+       "url": "https://stream.zeno.fm/955dzeqvfpeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "SEA Radio",
+       "url": "http://203.189.147.211:1935/RADIO/myStream/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "Sek Meas FM89.30",
+       "url": "https://stream.zeno.fm/mst7r32kkpeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Seven FM 93.3",
+       "url": "https://stream.zeno.fm/9d4me1m0wrquv"
+      },
+      {
+       "name": "Silk Radio FM 104.7",
+       "url": "https://stream.zeno.fm/64c28wct2ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Sinn Sisamouth 2.0",
+       "url": "https://stream.zeno.fm/uwlpvdipztcvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Sinn Sisamouth Song Station 24-7",
+       "url": "https://stream.zeno.fm/02kmg80qrlxvv"
+      },
+      {
+       "name": "Sky Radio",
+       "url": "https://stream.zeno.fm/28wvr1qmmnruv"
+      },
+      {
+       "name": "Sky Radio FM 107.75Mhz",
+       "url": "https://stream.zeno.fm/xp56zk2s9k0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Smile Radio ភ្នំពេញ",
+       "url": "http://ample-zeno-15.radiojar.com/887fswvrgpeuv.mp3"
+      },
+      {
+       "name": "SoaresMta",
+       "url": "https://stream.zeno.fm/n0u97c7e3uhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Sokha FM",
+       "url": "https://stream.zeno.fm/h04nm5qvfpeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Soksan FM88.50",
+       "url": "https://stream.zeno.fm/hx2a0svrgpeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Solida 101.3",
+       "url": "https://stream.zeno.fm/smmpsq3aaveuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Southeast Asia TV",
+       "url": "http://203.176.130.123:8989/live/seatv_480k.stream/playlist.m3u8"
+      },
+      {
+       "name": "Sovan Phum FM106.70",
+       "url": "https://stream.zeno.fm/51w5s2h16wquv",
+       "language_inferred": true
+      },
+      {
+       "name": "Steng Meas FM104",
+       "url": "https://stream.zeno.fm/ffuknyk1epeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Strayed In The Woods",
+       "url": "https://stream.zeno.fm/4dkpedcvn0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Streaming - Relaxing Music",
+       "url": "https://stream.zeno.fm/nskeggmmbd0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Sweet FM 100.5 Siem Reab",
+       "url": "http://radio99.servradio.com:9308/",
+       "language_inferred": true
+      },
+      {
+       "name": "Sweet FM 104.7 - Kampong Chhnang",
+       "url": "http://radio99.servradio.com:9300/"
+      },
+      {
+       "name": "Tbong Khmum National Radio",
+       "url": "https://stream.zeno.fm/rt2ha8x0cuquv",
+       "language_inferred": true
+      },
+      {
+       "name": "Test Radio",
+       "url": "https://stream.zeno.fm/mqkuxrsc6ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Testing",
+       "url": "https://stream.zeno.fm/v2u97y9yxv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "The New Sky FM97.30",
+       "url": "https://stream.zeno.fm/1618yyq6wreuv",
+       "language_inferred": true
+      },
+      {
+       "name": "The Village FM",
+       "url": "https://stream.zeno.fm/664dxgdv1f9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Todasdbb",
+       "url": "https://stream.zeno.fm/urtf6lp8hqmvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Tonle Um FM105.30",
+       "url": "https://stream.zeno.fm/gzrgh0rvfpeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Town FM 102.25",
+       "url": "https://stream.zeno.fm/p6wss781xuhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "TV 5",
+       "url": "http://203.176.130.123:8989/live/tv5_480k.stream/playlist.m3u8"
+      },
+      {
+       "name": "urbanfm",
+       "url": "https://stream.zeno.fm/mqws9xdpcseuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Ven.Kong Bunny (Smot Khmer)",
+       "url": "https://stream.zeno.fm/p82sf9qvfpeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Ven.Kong Bunny (Smot Khmer)",
+       "url": "https://stream.zeno.fm/b8vm2e2dfphvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Vibing and chilling",
+       "url": "https://stream.zeno.fm/xu38eubkc18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "VOA Khmer",
+       "url": "https://stream.zeno.fm/51k28vyfqeruv"
+      },
+      {
+       "name": "Voice of Kampuchea Krom",
+       "url": "https://stream.zeno.fm/e3cq500sbq8uv"
+      },
+      {
+       "name": "VOY Radio FM91.50",
+       "url": "https://stream.zeno.fm/gx3hmhrvfpeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Watloung FM 97.00",
+       "url": "https://stream.zeno.fm/h22ctaf27reuv",
+       "language_inferred": true
+      },
+      {
+       "name": "WebRadio Amor e cia",
+       "url": "https://stream.zeno.fm/81kmev3m64zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Yanith Station",
+       "url": "https://stream.zeno.fm/22bm92vhe0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Youth FM",
+       "url": "https://stream.zeno.fm/g5x4xgy1kc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Yuntong Dharmar",
+       "url": "https://stream.zeno.fm/w3vy1qagnueuv",
+       "language_inferred": true
+      },
+      {
+       "name": "កម្មវិធី ពុទ្ធសាសនា៥០០០ឆ្នាំ ត្បូងឃ្មុំ",
+       "url": "https://stream.zeno.fm/3kg6ckcvfpeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "កម្មវិធី សំឡេងព្រះធម៌វត្តស្វាយជ្រំ",
+       "url": "https://node-25.zeno.fm/nyekvkpf08quv.mp3"
+      },
+      {
+       "name": "គ្រួសារសុរិន្ទម៉ារីយូ FM90.30MHz សៀមរាប",
+       "url": "https://stream.zeno.fm/fsnfa92t87zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "ជីវិត ពិតជាត្រូវការព្រះធម៌",
+       "url": "https://stream.zeno.fm/mwu80kgc9ueuv"
+      },
+      {
+       "name": "ទ្យុបារាំង​អន្តរជាតិ RFI ខេមរភាសា – Paris – Île-de-France Region – KH",
+       "url": "http://live02.rfi.fr/rfiencambodgien-64.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "នាទីពន្លឺឱវាទានុសាសនី",
+       "url": "https://stream.zeno.fm/bnub3g83buquv",
+       "language_inferred": true
+      },
+      {
+       "name": "ព្រះពុទ្ធសាសនា  ដើម្បី សន្តិភាព",
+       "url": "https://stream.zeno.fm/7n394vpr3a0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុ 7s-INFO ភ្នំពេញ",
+       "url": "https://stream.zeno.fm/nyekvkpf08quv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុ FM ជាតិ កំពង់សោម ព្រះសីហនុ",
+       "url": "https://stream.zeno.fm/vtw7t4pvfpeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុ FM ជាតិ កំពង់សោម ព្រះសីហនុ",
+       "url": "http://ample-zeno-01.radiojar.com/vtw7t4pvfpeuv.mp3"
+      },
+      {
+       "name": "វិទ្យុ FM ជាតិ កំពង់សោម ព្រះសីហនុ – KH",
+       "url": "https://stream.zeno.fm/ufvvw4pvfpeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុ FM102 ភ្នំពេញ",
+       "url": "http://167.179.6.109:8080/broadwave.mp3"
+      },
+      {
+       "name": "វិទ្យុ FM102 ភ្នំពេញ",
+       "url": "https://stream.zeno.fm/v72bgypvfpeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុ Friends ភ្នំពេញ",
+       "url": "https://stream.zeno.fm/0te634tr3uquv"
+      },
+      {
+       "name": "វិទ្យុ Joy 4U បន្ទាយមានជ័យ",
+       "url": "http://ample-zeno-14.radiojar.com/wrrbd0n3rueuv.mp3"
+      },
+      {
+       "name": "វិទ្យុ Seven FM 93.3 ប៉ោយប៉ែត",
+       "url": "http://stream.zeno.fm/6h8yg1m0wrquv"
+      },
+      {
+       "name": "វិទ្យុ Seven FM 93.3 ប៉ោយប៉ែត – 93.3 FM – Phnom Penh – KH",
+       "url": "http://119.82.253.102:8080/broadwave.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុ Solida FM101.3 ភ្នំពេញ",
+       "url": "https://stream.zeno.fm/yd0m860ufpeuv"
+      },
+      {
+       "name": "វិទ្យុ Solida FM104.3 ភ្នំពេញ",
+       "url": "https://stream.zeno.fm/xa22nsrvfpeuv"
+      },
+      {
+       "name": "វិទ្យុ Solida FM108 ភ្នំពេញ",
+       "url": "http://124.248.190.147:8080/broadwave.mp3"
+      },
+      {
+       "name": "វិទ្យុ Solida FM108 ភ្នំពេញ – 108.0 FM – Phnom Penh – KH",
+       "url": "http://124.248.190.147:8181/broadwave.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុ Solida FM90.0 ភ្នំពេញ",
+       "url": "https://stream.zeno.fm/q048uq3aaveuv"
+      },
+      {
+       "name": "វិទ្យុ Solida FM91.7នំពេញ",
+       "url": "https://stream.zeno.fm/k5pf9dpczueuv"
+      },
+      {
+       "name": "វិទ្យុ TOP ភ្នំពេញ – Phnom Penh – KH",
+       "url": "http://36.37.175.188:88/broadwave.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុ Town FM 102.25 ភ្នំពេញ",
+       "url": "http://42.115.11.106/live"
+      },
+      {
+       "name": "វិទ្យុ UFM បន្ទាយមានជ័យ",
+       "url": "http://ample-zeno-05.radiojar.com/3cyy6p1vfpeuv.mp3"
+      },
+      {
+       "name": "វិទ្យុ UFM បន្ទាយមានជ័យ",
+       "url": "https://stream.zeno.fm/3cyy6p1vfpeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុ ក្ដីសង្ឃឹម ព្រៃវែង (Hope FM)",
+       "url": "http://ample-zeno-14.radiojar.com/ssb3qpk1epeuv.mp3"
+      },
+      {
+       "name": "វិទ្យុ ខេមរា ខេត្តបាត់ដំបង (Khemara Radio)",
+       "url": "http://ample-zeno-02.radiojar.com/sfn1u6170ueuv.mp3"
+      },
+      {
+       "name": "វិទ្យុ ខ្មែរ ភ្នំពេញ",
+       "url": "http://ample-zeno-09.radiojar.com/yy2r79cy9reuv.mp3"
+      },
+      {
+       "name": "វិទ្យុ គុណធម៌ កំពង់ចាម",
+       "url": "https://stream.zeno.fm/g5mqh3341ueuv"
+      },
+      {
+       "name": "វិទ្យុ គុណធម៌ កំពង់ចាម",
+       "url": "https://stream.zeno.fm/xzrs45nzczzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុ គុណធម៌ កំពត",
+       "url": "https://stream.zeno.fm/xgppxc4vdzzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុ គុណធម៌ តាកែវ",
+       "url": "http://ample-zeno-19.radiojar.com/g5mqh3341ueuv.mp3"
+      },
+      {
+       "name": "វិទ្យុ គុណធម៌ តាកែវ – 98.7 FM – Takeo – KH",
+       "url": "http://stream.zeno.fm/9hcen3341ueuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុ គុណធម៌ ត្បូងឃ្មុំ",
+       "url": "https://stream.zeno.fm/zrq9kwswdzzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុ ជាតិប៉ៃលិន ខេត្តប៉ៃលិន",
+       "url": "http://36.37.187.80:8080/broadwave.mp3"
+      },
+      {
+       "name": "វិទ្យុ ជាតិភ្នំត្បែង ព្រះវិហារ",
+       "url": "http://ample-zeno-07.radiojar.com/kw2pwrcvfpeuv.mp3"
+      },
+      {
+       "name": "វិទ្យុ ជាតិភ្នំប្រុសភ្នំស្រី  កំពង់ចាម",
+       "url": "https://stream.zeno.fm/pnrz5kpvfpeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុ ជីវិតរស់រហូត Eternal Life ភ្នំពេញ",
+       "url": "http://162.210.196.145:30404/.mp3"
+      },
+      {
+       "name": "វិទ្យុ ជីវិតរស់រហូត Eternal Life ភ្នំពេញ",
+       "url": "https://stream.zeno.fm/a43mm836ppeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុ ជំនោរប៉ៃលិន",
+       "url": "http://ample-zeno-10.radiojar.com/gzxrscuufpeuv.mp3"
+      },
+      {
+       "name": "វិទ្យុ នាទីពន្លឺឱវាទានុសាសនី – KH",
+       "url": "https://stream.zeno.fm/wn1k6g83buquv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុ ផ្កាយព្រឹក បាត់ដំបង",
+       "url": "https://stream.zeno.fm/qph9xb2dbnruv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុ ម៉ាយអេហ្វអឹម  បន្ទាយមានជ័យ",
+       "url": "https://stream.zeno.fm/ga8x70f641zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុ ម៉ាយអេហ្វអឹម ខេត្តកំពង់ឆ្នាំង",
+       "url": "http://ample-zeno-15.radiojar.com/u0vxfsncxuquv.mp3"
+      },
+      {
+       "name": "វិទ្យុ លំអងសុរិន្ទម៉ារីយូ FM101.70MHzខេត្តសៀមរាប",
+       "url": "https://stream.zeno.fm/09c7qn6xh2zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុ វត្តអង្គថី ខេត្តកំពង់ស្ពឺ",
+       "url": "http://36.37.225.163:8080/broadwave.mp3"
+      },
+      {
+       "name": "វិទ្យុ សន្តិភាព",
+       "url": "https://stream.zeno.fm/4r5p7mxmbxquv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុ សារមរកត កំពង់ធំ",
+       "url": "https://stream.zeno.fm/exqxxgt9y4zuv"
+      },
+      {
+       "name": "វិទ្យុ សិង្ហមាស ព្រះសីហនុ (Soeungmeas FM)",
+       "url": "http://ample-zeno-17.radiojar.com/ffuknyk1epeuv.mp3"
+      },
+      {
+       "name": "វិទ្យុ សុរិន្ទខ្មែរ មន FM 93.70 MHz បន្ទាយមានជ័យ",
+       "url": "https://stream.zeno.fm/7f8pcpxe308uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុ សុរិន្ទខ្មែរ មន FM94.30Mhz សៀមរាប",
+       "url": "https://stream.zeno.fm/4w9xnmte308uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុ សូរលីដាFM 101.30 ភ្នំពេញ",
+       "url": "https://stream.zeno.fm/fvh3560ufpeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុ សូរលីដាFM 104.30 ភ្នំពេញ",
+       "url": "https://stream.zeno.fm/f6kaksrvfpeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុ សូរលីដាFM 108 ភ្នំពេញ",
+       "url": "https://stream.zeno.fm/f09evp1ufpeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុ សូរលីដាFM 91.70 ភ្នំពេញ",
+       "url": "https://stream.zeno.fm/cngx6dpczueuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុ សំមុកឃ្មុំ ខេត្តបាត់ដំបង",
+       "url": "http://ample-zeno-11.radiojar.com/rvexdqt9k0quv.mp3"
+      },
+      {
+       "name": "វិទ្យុ ស្ទឹងត្រែង ខេត្តស្ទឹងត្រែង",
+       "url": "https://stream.zeno.fm/ck6875355wquv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុ ស្ទឹងត្រែង ខេត្តស្ទឹងត្រែង",
+       "url": "http://ample-zeno-20.radiojar.com/ck6875355wquv.mp3"
+      },
+      {
+       "name": "វិទ្យុ ស្ទឹងត្រែង ខេត្តស្ទឹងត្រែង – 91.5 FM – Phnom Penh – KH",
+       "url": "http://203.223.44.178:8181/broadwave.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុ អនាគតថ្មី ភ្នំពេញ",
+       "url": "https://node-12.zeno.fm/y2mgm4g728quv.mp3"
+      },
+      {
+       "name": "វិទ្យុ អមធីវី FM87.70 ខេត្តព្រៃវែង – KH",
+       "url": "https://stream.zeno.fm/wh4sust3za0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុ អមធីវី FM87.75 ខេត្តព្រៃវែង",
+       "url": "https://stream.zeno.fm/wnvahrt3za0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុ អមធីវី FM93.70 ត្បូងឃ្មុំ",
+       "url": "https://stream.zeno.fm/ssycgnu3za0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុ អមធីវី FM93.70 ត្បូងឃ្មុំ – 93.70 FM – KH",
+       "url": "http://stream.zeno.fm/2sapmnu3za0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុ អូរតងប៉ៃលិន",
+       "url": "http://ample-zeno-20.radiojar.com/0c6e1x83qpeuv.mp3"
+      },
+      {
+       "name": "វិទ្យុ អេប៊ីស៊ី ភ្នំពេញ",
+       "url": "http://36.37.175.141:88/broadwave.mp3"
+      },
+      {
+       "name": "វិទ្យុ អេប៊ីស៊ី ភ្នំពេញ – KH",
+       "url": "http://117.20.114.122:5000/broadwave.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុ ៩៤ភ្នំពេញ FM 94.00",
+       "url": "http://119.82.248.12:1950/shoutcastflash_RoyalGroupFM/RoyalGroupFM.stream/playlist.m3u8"
+      },
+      {
+       "name": "វិទ្យុកម្សាន្ត កំពង់ធំ",
+       "url": "https://stream.zeno.fm/wv6a04k0qzzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុកម្សាន្ត កំពង់ធំ – KH",
+       "url": "http://stream.zeno.fm/x6p134k0qzzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុកល្យាណមិត្ត ខេត្ត​បាត់​ដំបង",
+       "url": "https://stream.zeno.fm/0bp1aw1mqrquv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុកល្យាណមិត្ត ខេត្ត​បាត់​ដំបង​",
+       "url": "http://203.189.151.191:8080/broadwave.mp3"
+      },
+      {
+       "name": "វិទ្យុក្រុងកម្ពុជា សៀមរាប",
+       "url": "http://162.210.196.142:6682/.mp3"
+      },
+      {
+       "name": "វិទ្យុក្រុងព្រះវិហារ",
+       "url": "http://ample-zeno-08.radiojar.com/vf4yn6tufpeuv.mp3"
+      },
+      {
+       "name": "វិទ្យុខ្ញុំពឹងព្រះធម៍ ផ្សាយចេញពីវត្តអូររអិលខេត្តប៉ៃលិន",
+       "url": "https://stream.zeno.fm/ttf4qwr1epeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុខ្មែរឦសាន FM97.50 ខេត្តរតនគិរី – 97.50 FM – KH",
+       "url": "http://stream.zeno.fm/86m3ca600a0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុខ្មែរឦសាន ពោធិសាត់",
+       "url": "https://stream.zeno.fm/0npx3fy0hwzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុខ្មែរឦសាន ពោធិសាត់ – KH",
+       "url": "https://stream.zeno.fm/f4tx7fy0hwzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុខ្មែរឦសានFM97.50 ខេត្តរតនគិរី",
+       "url": "https://stream.zeno.fm/6fau89500a0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុឃ្លាំងមឿង បាត់ដំបង",
+       "url": "https://stream.zeno.fm/6qh4zu8n2reuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុឃ្លាំងមឿង បាត់ដំបង",
+       "url": "http://ample-zeno-03.radiojar.com/6qh4zu8n2reuv.mp3"
+      },
+      {
+       "name": "វិទ្យុឃ្លាំងមឿង បាត់ដំបង – 90.2 FM – Kampong Cham – KH",
+       "url": "http://110.74.192.88:8080/stream/5/?type=http&nocache=3429",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុជាតិ FM 90.5MHz ខេត្តប៉ៃលិន",
+       "url": "https://stream.zeno.fm/39wk5wea8f0uv"
+      },
+      {
+       "name": "វិទ្យុជាតិ FM 90.5MHz ខេត្តប៉ៃលិន – 90.5 FM – Phnom Penh – KH",
+       "url": "https://stream.zeno.fm/2yss9wea8f0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុជាតិ FM97.00 ខេត្តមណ្ឌលគិរី",
+       "url": "https://stream.zeno.fm/dsc2znw351zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុជាតិ ឆ្នេរកែប",
+       "url": "https://stream.zeno.fm/y2mgm4g728quv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុជាតិ ឆ្នេរកែប – KH",
+       "url": "https://stream.zeno.fm/3uatr4g728quv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុជាតិ ត្បូងឃ្មុំ",
+       "url": "http://ample-zeno-01.radiojar.com/9x7hwyq1epeuv.mp3"
+      },
+      {
+       "name": "វិទ្យុជាតិ ត្បូងឃ្មុំ",
+       "url": "https://stream.zeno.fm/9x7hwyq1epeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុជាតិ បន្ទាយមានជ័យ",
+       "url": "http://ample-zeno-05.radiojar.com/yc43dk1ufpeuv.mp3"
+      },
+      {
+       "name": "វិទ្យុជាតិ បន្ទាយមានជ័យ",
+       "url": "https://stream.zeno.fm/z9qdcz3z05quv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុជាតិ ពោធិ៍សាត់",
+       "url": "https://stream.zeno.fm/bydc4wes1reuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុជាតិ ពោធិ៍សាត់ – KH",
+       "url": "https://stream.zeno.fm/gdzq7wes1reuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុជាតិ ៩មករា ខេត្តកំពត",
+       "url": "http://96.9.72.240:8080/broadwave.mp3"
+      },
+      {
+       "name": "វិទ្យុជាតិគីរីរម្យ FM89.30 កំពង់ស្ពឺ",
+       "url": "https://stream.zeno.fm/4wgx2md27reuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុជាតិចំការចេក ខេត្តបាត់តំបង",
+       "url": "http://124.108.50.44:8080/broadwavehigh.mp3"
+      },
+      {
+       "name": "វិទ្យុជាតិនគរភ្នំ ខេត្តសៀមរាប – KH",
+       "url": "http://203.189.153.204:8080/broadwave.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុជាតិនគរភ្នំ សៀមរាប – KH",
+       "url": "http://203.189.153.204:8080/broadwave.m3u",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុជាតិបារាយណ៍អណ្តែត ខេត្តព្រៃវែង",
+       "url": "http://ample-zeno-04.radiojar.com/d2zsm13z8reuv.mp3"
+      },
+      {
+       "name": "វិទ្យុជាតិបារាយណ៍អណ្តែត ខេត្តព្រៃវែង",
+       "url": "https://stream.zeno.fm/d2zsm13z8reuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុជាតិភ្នំក្រាំងដីមាស ខេត្តកំពង់ឆ្នាំង",
+       "url": "https://stream.zeno.fm/sgrmsgrsgpeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុជាតិភ្នំត្បែង ព្រះវិហារ",
+       "url": "https://stream.zeno.fm/kw2pwrcvfpeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុជាតិភ្នំប្រុសភ្នំស្រី កំពង់ចាម",
+       "url": "http://203.223.40.122:8182/broadwave.m3u?rate=1&src=1"
+      },
+      {
+       "name": "វិទ្យុជាតិភ្នំប្រុសភ្នំស្រី កំពង់ចាម – Phnom Penh – KH",
+       "url": "https://stream.zeno.fm/dg6f8kpvfpeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុជាតិរំដួល ស្វាយរៀង",
+       "url": "http://203.223.40.226:88/broadwave.mp3"
+      },
+      {
+       "name": "វិទ្យុជាតិរំដួល ស្វាយរៀង",
+       "url": "https://stream.zeno.fm/f5epxhwx3ueuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុជាតិសាគរ ខេត្តកោះកុង",
+       "url": "https://stream.zeno.fm/csd8f07wwxquv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុជាតិសេកុង ខេត្តស្ទឹងត្រែង",
+       "url": "https://stream.zeno.fm/0gx3q36bbxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុជោគជ័យ​ ប៉ោយប៉ែត",
+       "url": "http://ample-zeno-18.radiojar.com/ttf4qwr1epeuv.mp3"
+      },
+      {
+       "name": "វិទ្យុជំនោរប៉ៃលិន ប៉ៃលិន",
+       "url": "https://stream.zeno.fm/gzxrscuufpeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុញញឹម ភ្នំពេញ – 107.0 FM – Phnom Penh – KH",
+       "url": "https://stream.zeno.fm/qduc1xvrgpeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុដឹញូវស្ដាយ កំពង់ចាម – Phnom Penh – KH",
+       "url": "http://203.223.40.122:84/broadwave.m3u?src=1&rate=1",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុដំបងគ្រញូងបាត់ដំបង",
+       "url": "http://ample-zeno-14.radiojar.com/p82sf9qvfpeuv.mp3"
+      },
+      {
+       "name": "វិទ្យុតន្ត្រី កំពង់ធំ – KH",
+       "url": "http://stream.zeno.fm/2pqv2xeayuquv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុថោន ភ្នំពេញ – KH",
+       "url": "http://36.37.175.188:188/broadwave.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុទន្លេអុំ ត្បូងឃ្មុំ",
+       "url": "http://ample-zeno-17.radiojar.com/gzrgh0rvfpeuv.mp3"
+      },
+      {
+       "name": "វិទ្យុទន្លេអុំ ត្បូងឃ្មុំ – Phnom Penh – KH",
+       "url": "http://110.74.192.88:8080/stream/50/?type=http&nocache=4109",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុនគរជុំ ខេត្តកំពង់ឆ្នាំង",
+       "url": "http://ample-zeno-12.radiojar.com/cce3w35e2rquv.mp3"
+      },
+      {
+       "name": "វិទ្យុនគរបាជ័យ កំពង់ចាម",
+       "url": "https://stream.zeno.fm/51db3h3t2uquv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុនគរបាជ័យ កំពង់ចាម",
+       "url": "https://stream.zeno.fm/e1p2qnu5wreuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុនគរបាជ័យ កំពង់ចាម (Bachey Radio)",
+       "url": "http://ample-zeno-18.radiojar.com/xz4yeqqvfpeuv.mp3"
+      },
+      {
+       "name": "វិទ្យុនាគព័ន្ធ កំពង់ចាម",
+       "url": "https://stream.zeno.fm/764txx1ufpeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុនាគព័ន្ធ ត្បូងឃ្មុំ",
+       "url": "https://stream.zeno.fm/qcvw0c1ufpeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុនាគព័ន្ធ រតនគិរី",
+       "url": "http://ample-zeno-06.radiojar.com/k8yqbq4wzreuv.mp3"
+      },
+      {
+       "name": "វិទ្យុនាទីព្រះពុទ្ធសាសនា និង ដែនដីពុទ្ធភូមិ",
+       "url": "https://stream.zeno.fm/33bxgbdy9reuv"
+      },
+      {
+       "name": "វិទ្យុបុប្ផា FM105 ខេត្តក្រចេះ – 105 FM – KH",
+       "url": "https://stream.zeno.fm/6gdgk9qvfpeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុបុប្ផា ពោធិសាត់ – KH",
+       "url": "https://stream.zeno.fm/90de300ufpeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុប្រជាជន FM 100.7 ស្វាយរៀង – 100.7 FM – KH",
+       "url": "http://stream.zeno.fm/kv63zw1r87zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុប្រជាជន FM 90.5 កំពង់ចាម – 90.5 FM – Phnom Penh – KH",
+       "url": "https://stream.zeno.fm/qarzg0avfpeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុប្រជាជន FM 90.50 កំពង់ចាម",
+       "url": "https://stream.zeno.fm/s00ue0avfpeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុប្រជាជន FM 96.3 កំពង់ធំ – 96.3 FM – Phnom Penh – KH",
+       "url": "https://stream.zeno.fm/5p7y5htzb5zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុប្រជាជន ភ្នំពេញ",
+       "url": "http://111.118.138.160:88/broadwave.mp3"
+      },
+      {
+       "name": "វិទ្យុប្រជាជន ស្វាយរៀង",
+       "url": "https://stream.zeno.fm/ue2vqv1r87zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុផ្កាព្រៃ រតនគិរី",
+       "url": "https://stream.zeno.fm/x9b7c2mwe5zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុផ្កាយព្រឹក បាត់ដំបង",
+       "url": "http://ample-zeno-15.radiojar.com/sgrmsgrsgpeuv.mp3"
+      },
+      {
+       "name": "វិទ្យុផ្កាយព្រឹក បាត់ដំបង – KH",
+       "url": "http://stream.zeno.fm/2n6c3b2dbnruv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុផ្សាយសំឡេងព្រះពុទ្ធសាសនាកម្ពុជរដ្ សៀមរាប",
+       "url": "https://stream.zeno.fm/8t7adqsczueuv"
+      },
+      {
+       "name": "វិទ្យុពណ្ណរាយណ៍ ខេត្តកណ្តាល – KH",
+       "url": "http://stream.zeno.fm/y25u0ce6auquv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុពន្លឺត្រៃរតន៍ តាកែវ",
+       "url": "https://stream.zeno.fm/c2ys1m35fxquv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុពន្លឺត្រៃរតន៍ តាកែវ – KH",
+       "url": "https://stream.zeno.fm/xmrd5m35fxquv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុពន្លឺត្រៃរតន៍ ត្បូងឃ្មុំ",
+       "url": "https://stream.zeno.fm/97n039mscg8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុពន្លឺត្រៃរតន៍ ព្រះសីហនុ",
+       "url": "https://stream.zeno.fm/b73h5hnscg8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុពន្លឺធម៌ព្រះពុទ្ធ FM98.30  ភ្នំពេញ",
+       "url": "https://stream.zeno.fm/bf895yv8frquv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុពន្លឺធម៌ព្រះពុទ្ធ ភ្នំពេញ",
+       "url": "https://stream.zeno.fm/hxkk8yv8frquv"
+      },
+      {
+       "name": "វិទ្យុពន្លឺពុទ្ធចក្រ  ភ្នំពេញ",
+       "url": "https://stream.zeno.fm/qz83xg75cnruv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុពន្លឺពុទ្ធចក្រ ភ្នំពេញ",
+       "url": "http://ample-zeno-05.radiojar.com/qz83xg75cnruv.mp3"
+      },
+      {
+       "name": "វិទ្យុព្រះពុន្ធសាសនាកម្ពុជ្ធ  ខេត្តឧត្តរមានជ័យ",
+       "url": "https://stream.zeno.fm/k648z339ntzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុព្រះពុន្ធសាសនាកម្ពុជ្ធ  ព្រះវិហារ",
+       "url": "https://stream.zeno.fm/5nanyrqemy8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុព្រះពុន្ធសាសនាកម្ពុជ្ធ សៀមរាប",
+       "url": "https://stream.zeno.fm/aqdc4nsczueuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុព្រះពុន្ធសាសនាកម្ពុជ្ធ ស្ទឹងត្រែង",
+       "url": "https://stream.zeno.fm/1vqdapt1xuhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុភីអេសអិន កំពង់ចាម",
+       "url": "https://stream.zeno.fm/wph10evy0f9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុភីអេសអិន កំពង់ធំ",
+       "url": "https://stream.zeno.fm/fe5w3xy3echvv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុភីអេសអិន បាត់ដំបង",
+       "url": "https://stream.zeno.fm/6gh9e5y3echvv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុភីអេសអិន ពោធិ៍សាត់",
+       "url": "https://stream.zeno.fm/sx2v49y3echvv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុភីអេសអិន ភ្នំពេញ",
+       "url": "https://stream.zeno.fm/cufs07euvmzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុភីអេសអិន ភ្នំពេញ",
+       "url": "http://103.239.52.164:8080/broadwave.mp3"
+      },
+      {
+       "name": "វិទ្យុភីអេសអិន ភ្នំពេញ – 100.3 FM – Phnom Penh – KH",
+       "url": "http://111.118.154.44:8080/broadwave.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុភ្នំតូចមានជ័យ FM100.30 កំពត",
+       "url": "https://stream.zeno.fm/btaahp2h55quv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុភ្នំតូចមានជ័យ កំពត – Phnom Penh – KH",
+       "url": "https://stream.zeno.fm/k9wbnp2h55quv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុភ្នំពេញអេហ្វអឹម ភ្នំពេញ – KH",
+       "url": "http://stream.zeno.fm/kre2fft3em0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុភ្នំសន្ទុក កំពង់ធំ",
+       "url": "https://stream.zeno.fm/3wgh2htzb5zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុភ្នំសំពៅ បាត់ដំបង",
+       "url": "http://ample-zeno-02.radiojar.com/kqvz8117vreuv.mp3"
+      },
+      {
+       "name": "វិទ្យុភ្នំសំពៅ បាត់ដំបង",
+       "url": "https://stream.zeno.fm/kqvz8117vreuv"
+      },
+      {
+       "name": "វិទ្យុមង្គលបញ្ញា កំពង់ចាម – KH",
+       "url": "http://stream.zeno.fm/9e89df80238uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុមហាជន បាត់ដំបង",
+       "url": "https://node-11.zeno.fm/vhmz6pkfwuquv.mp3"
+      },
+      {
+       "name": "វិទ្យុមហាជន បាត់ដំបង",
+       "url": "https://stream.zeno.fm/vhmz6pkfwuquv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុមហាជន ភ្នំពេញ",
+       "url": "http://ample-zeno-16.radiojar.com/v18vnrg1epeuv.mp3"
+      },
+      {
+       "name": "វិទ្យុមហានគរខេមរា សៀមរាប – KH",
+       "url": "https://stream.zeno.fm/7tr7v7zwb6quv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុមហាផ្ទៃ-បណ្តាញ​ព័ត៌មាន​ក្រសួង​មហា​ផ្ទៃ",
+       "url": "https://stream.zeno.fm/21ktvuv9xuquv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុមហាផ្ទៃ-បណ្តាញ​ព័ត៌មាន​ក្រសួង​មហា​ផ្ទៃ – KH",
+       "url": "http://stream.zeno.fm/1ewzxuv9xuquv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុមហាសាល ស្វាយរៀង",
+       "url": "http://ample-zeno-19.radiojar.com/8ddamf2bpueuv.mp3"
+      },
+      {
+       "name": "វិទ្យុមានជ័យ FM 99.00 ខេត្តបន្ទាយមានជ័យ",
+       "url": "https://stream.zeno.fm/ay532ps3vrquv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុមានជ័យ ខេត្តបន្ទាយមានជ័យ",
+       "url": "https://stream.zeno.fm/ehfkcrs3vrquv"
+      },
+      {
+       "name": "វិទ្យុមានជ័យ​ ភ្នំពេញ",
+       "url": "http://ample-zeno-20.radiojar.com/4wgx2md27reuv.mp3"
+      },
+      {
+       "name": "វិទ្យុមានលាភ Mean Leap FM",
+       "url": "http://50.7.244.74:8126/stream.mp3"
+      },
+      {
+       "name": "វិទ្យុមិត្ដភាពកម្ពុជាចិន ភ្នំពេញ",
+       "url": "http://175.100.19.138:88/broadwave.mp3"
+      },
+      {
+       "name": "វិទ្យុមុនិន្ទ ភ្នំពេញ – Phnom Penh – KH",
+       "url": "http://203.189.136.12:8080/broadwave.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុមេគង្គ ខេត្តក្រចេះ (Mekong Radio)",
+       "url": "http://ample-zeno-10.radiojar.com/8z4gyf85queuv.mp3"
+      },
+      {
+       "name": "វិទ្យុមេត្តា ភ្នំពេញ",
+       "url": "http://ample-zeno-03.radiojar.com/5qvqfawf4reuv.mp3"
+      },
+      {
+       "name": "វិទ្យុមេត្រី ខេត្តកំពត – KH",
+       "url": "http://stream.zeno.fm/ghs9c2kw768uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុរតនះ បាត់ដំបង",
+       "url": "http://ample-zeno-05.radiojar.com/dqg44khgtreuv.mp3"
+      },
+      {
+       "name": "វិទ្យុរស្មីនៃការអប់រំ ត្បូងឃ្មុំ",
+       "url": "https://stream.zeno.fm/kyu65d5scg8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុរស្មីនៃការអប់រំ ត្បូងឃ្មុំ – KH",
+       "url": "https://stream.zeno.fm/zp9ybe5scg8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុរស្មីព្រះអង្គខ្មៅ បាត់ដំបង – KH",
+       "url": "http://stream.zeno.fm/28cnpzccs18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុរិទ្ធិសែន កំពង់ឆ្នាំង",
+       "url": "http://ample-zeno-22.radiojar.com/gywubb346reuv.mp3"
+      },
+      {
+       "name": "វិទ្យុលំអងសុរិន្ទម៉ារីយូ FM93.70MHzខេត្តស្វាយរៀង",
+       "url": "https://stream.zeno.fm/2kku3stvftzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុវង្សកញ្ញាស្លឹកមាស ភ្នំពេញ",
+       "url": "http://ample-zeno-13.radiojar.com/d3s1f3wufpeuv.mp3"
+      },
+      {
+       "name": "វិទ្យុវត្តម្រោម កំពត",
+       "url": "https://stream.zeno.fm/9a14snhrprquv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុវត្តម្រោម កំពត",
+       "url": "http://ample-zeno-15.radiojar.com/9a14snhrprquv.mp3"
+      },
+      {
+       "name": "វិទ្យុវត្តម្រោម កំពត – 101.5 FM – Kampot – KH",
+       "url": "http://111.118.149.112:8080/broadwave.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុវត្តហ្លួង បន្ទាយមានជ័យ",
+       "url": "http://ample-zeno-15.radiojar.com/h22ctaf27reuv.mp3"
+      },
+      {
+       "name": "វិទ្យុវត្តអង្គថី ខេត្តកំពង់ស្ពឺ",
+       "url": "https://stream.zeno.fm/3xcfsmamdg8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុវិមានអង្គរ សៀមរាប",
+       "url": "https://stream.zeno.fm/168wd477aveuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុវិមានអង្គរ សៀមរាប – KH",
+       "url": "http://175.100.66.157:8080/broadwave.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុវ័នអេហ្វអឹម កំពង់ចាម",
+       "url": "http://ample-zeno-14.radiojar.com/drub4uk1epeuv.mp3"
+      },
+      {
+       "name": "វិទ្យុសង្កែ  ខេត្តបាត់ដំបង",
+       "url": "https://stream.zeno.fm/5s9reqfkrrquv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុសង្កែ ខេត្តបាត់ដំបង",
+       "url": "https://stream.zeno.fm/0tc3fv7a508uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុសង្កែ បាត់ដំបង",
+       "url": "http://ample-zeno-16.radiojar.com/f52x1h327reuv.mp3"
+      },
+      {
+       "name": "វិទ្យុសង្កែ បាត់ដំបង – 104.5 FM – Kampong Cham – KH",
+       "url": "http://stream.zeno.fm/2k8wmv7a508uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុសន្តិភាព FM104.70 ភ្នំពេញ",
+       "url": "http://stream.zeno.fm/s2qag2mwe5zuv"
+      },
+      {
+       "name": "វិទ្យុសន្តិភាព FM104.70 ភ្នំពេញ",
+       "url": "https://stream.zeno.fm/f7wf4sw0yreuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុសម្លេងជីវិតថ្មី ភ្នំពេញ",
+       "url": "https://stream.zeno.fm/psk8mbnpn8quv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុសម្លេងព្រះធម៌ FM 102.70 កំពង់ចាម",
+       "url": "https://stream.zeno.fm/xbeha7kq498uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុសាគរ កោះកុង",
+       "url": "https://stream.zeno.fm/9gfgn07wwxquv"
+      },
+      {
+       "name": "វិទ្យុសិង្ហមាស ព្រះសីហនុ – KH",
+       "url": "https://stream.zeno.fm/4zm5qyk1epeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុសិទ្ធផល្លី កំពត",
+       "url": "http://ample-zeno-17.radiojar.com/8d921uvr3uquv.mp3"
+      },
+      {
+       "name": "វិទ្យុសុខសាន្ដមនោរម្យ FM 90.50 MHz ខេត្តមណ្ឌលគិរី",
+       "url": "https://stream.zeno.fm/m8z752ab1hhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុសុខសាន្ដមនោរម្យ ខេត្តមណ្ឌលគិរី – 90.5 FM – Phnom Penh – KH",
+       "url": "http://stream.zeno.fm/5c6za3ab1hhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុសុខា តាកែវ",
+       "url": "http://ample-zeno-18.radiojar.com/h04nm5qvfpeuv.mp3"
+      },
+      {
+       "name": "វិទ្យុសុចន្ទ ភ្នំពេញ",
+       "url": "https://stream.zeno.fm/5x1kwrd1f3quv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុសុភមង្គល FM105.30",
+       "url": "https://stream.zeno.fm/9bqveqnzx1zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុសុភមង្គល កំពង់ចាម",
+       "url": "http://ample-zeno-16.radiojar.com/s00ue0avfpeuv.mp3"
+      },
+      {
+       "name": "វិទ្យុសុភមង្គល ត្បូងឃ្មុំ",
+       "url": "http://ample-zeno-09.radiojar.com/vy48691sgpeuv.mp3"
+      },
+      {
+       "name": "វិទ្យុសុមាលា ភ្នំពេញ",
+       "url": "https://stream.zeno.fm/cmnqatr1epeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុសុរិន្ទនាគមាស",
+       "url": "http://stream.zeno.fm/k5z32nw351zuv"
+      },
+      {
+       "name": "វិទ្យុសុរិន្ទនាគមាស FM97.30 កំពង់ស្ពឺ",
+       "url": "https://stream.zeno.fm/2rhp1h946reuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុសុរិន្ទនាគមាស FM99MHz ខេត្តសៀមរាប",
+       "url": "https://stream.zeno.fm/35q0tmgyh2zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុសុរិន្ទនាគមាស កំពង់ឆ្នាំង",
+       "url": "https://stream.zeno.fm/ubeu2yr9r8quv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុសុវណ្ណភូមិ ខេត្តកំពង់ឆ្នាំង",
+       "url": "http://ample-zeno-08.radiojar.com/51w5s2h16wquv.mp3"
+      },
+      {
+       "name": "វិទ្យុសុវណ្ណភូមិ ភ្នំពេញ",
+       "url": "http://203.189.153.143:991/broadwavehigh.mp3"
+      },
+      {
+       "name": "វិទ្យុសូត្រ FM104.70MHz ភ្នំពេញ",
+       "url": "https://stream.zeno.fm/62vzr57n2reuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុសូត្រ ភ្នំពេញ – KH",
+       "url": "http://stream.zeno.fm/9p39v57n2reuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុសំបុកឃ្មុំ FM105 ភ្នំពេញ",
+       "url": "https://stream.zeno.fm/gywubb346reuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុសំបុកឃ្មុំ បាត់តំបង",
+       "url": "https://stream.zeno.fm/rvexdqt9k0quv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុសំលេងជនពិការភ្នែក បាត់ដំបង",
+       "url": "http://96.9.87.39:8080/broadwave.mp3"
+      },
+      {
+       "name": "វិទ្យុសំលេងជនពិការភ្នែក បាត់ដំបង",
+       "url": "https://stream.zeno.fm/3tkme4ndw5quv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុសំលេងជនពិការភ្នែក​ កំពង់ចាម",
+       "url": "http://96.9.73.142:8080/broadwave.mp3"
+      },
+      {
+       "name": "វិទ្យុសំលេងជនពិការភ្នែក​ កំពង់ចាម",
+       "url": "https://stream.zeno.fm/ef0cbf77frquv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុសំលេងជនពិការភ្នែក​ បន្ទាយមានជ័យ",
+       "url": "http://96.9.73.207:8080/broadwave.mp3"
+      },
+      {
+       "name": "វិទ្យុសំលេងជនពិការភ្នែក​ បន្ទាយមានជ័យ",
+       "url": "https://stream.zeno.fm/n2bfvux17reuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុសំលេងជនពិការភ្នែក​ ពោធិ៍សាត់",
+       "url": "http://96.9.86.143:88/broadwave.mp3"
+      },
+      {
+       "name": "វិទ្យុសំឡេង សុភមង្គល  ខេត្តស្វាយរៀង",
+       "url": "http://ample-zeno-07.radiojar.com/p3bygvrvfpeuv.mp3"
+      },
+      {
+       "name": "វិទ្យុសំឡេង សុភមង្គល  ខេត្តស្វាយរៀង – KH",
+       "url": "http://36.37.145.131:8080/broadwave.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុសំឡេងជនពិការភ្នែក",
+       "url": "https://stream.zeno.fm/p76amh27vreuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុសំឡេងបាណន់ FM106 បាត់ដំបង",
+       "url": "https://stream.zeno.fm/fprbd16s9wquv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុសំឡេងព្រះធម៌ 102.70 ពោធិសាត់",
+       "url": "https://stream.zeno.fm/1eqcmex17reuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុសំឡេងព្រះធម៌ FM 102.70 បាត់ដំបង",
+       "url": "https://stream.zeno.fm/qqxmmdmq498uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុសំឡេងព្រះធម៌ FM 104.70  ព្រៃវែង",
+       "url": "https://stream.zeno.fm/qmursd8zba9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុសំឡេងព្រះធម៌ FM 93.70 ខេត្តកំពង់ស្ពឺ",
+       "url": "https://stream.zeno.fm/md17w2gksfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុសំឡេងព្រះធម៌ FM 93.70 ខេត្តកំពង់ស្ពឺ",
+       "url": "https://stream.zeno.fm/5h5ybqsvftzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុសំឡេងព្រះធម៌ FM102.70 កំពង់ឆ្នាំង",
+       "url": "https://stream.zeno.fm/3zqugsmq498uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុសំឡេងព្រះធម៌ FM102.70 កំពង់ស្ពឺ",
+       "url": "https://stream.zeno.fm/8nem5h2a898uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុសំឡេងព្រះធម៌ FM102.70 បន្ទាយមានជ័យ",
+       "url": "https://stream.zeno.fm/e003h368898uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុសំឡេងព្រះធម៌ FM102.70 ព្រៃវែង",
+       "url": "https://stream.zeno.fm/cgkhq81a898uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុសំឡេងព្រះធម៌ FM102.70 ព្រះសីហនុ",
+       "url": "https://stream.zeno.fm/vgzh1r2a898uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុសំឡេងព្រះធម៌ FM94.70 ខេត្តកំពង់ធំ",
+       "url": "https://stream.zeno.fm/fynu2hca508uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុសំឡេងព្រះធម៌ FM94.70 ខេត្តសៀមរាប",
+       "url": "https://stream.zeno.fm/w5ym5naq498uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុសំឡេងព្រះធម៌ FM94.70 ខេត្តស្វាយរៀង",
+       "url": "https://stream.zeno.fm/mn4u7r5q498uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុសំឡេងព្រះធម៌ កំពង់ឆ្នាំង – KH",
+       "url": "http://stream.zeno.fm/2r14ksmq498uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុសំឡេងព្រះធម៌ ខេត្តកំពង់ធំ – KH",
+       "url": "http://stream.zeno.fm/t0e07hca508uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុសំឡេងព្រះធម៌ ខេត្តសៀមរាប – KH",
+       "url": "http://stream.zeno.fm/4vsge7kq498uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុសំឡេងព្រះធម៌ ខេត្តស្វាយរៀង – KH",
+       "url": "http://stream.zeno.fm/zhd89r5q498uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុសំឡេងព្រះធម៌ បាត់ដំបង – KH",
+       "url": "http://stream.zeno.fm/04q5pdmq498uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុសំឡេងព្រះធម៌ ព្រះសីហនុ – KH",
+       "url": "http://stream.zeno.fm/fywp5r2a898uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុសំឡេងព្រះធម៌ វត្តថាន់រាជធានីភ្នំពេញ – Phnom Penh – KH",
+       "url": "http://stream.zeno.fm/3h3x1s8k638uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុសំឡេងព្រះធម៌ ស្វាយរៀង",
+       "url": "http://ample-zeno-11.radiojar.com/npxmsyx99ueuv.mp3"
+      },
+      {
+       "name": "វិទ្យុសំឡេងព្រះធម៌FM102.70MHz វត្តថាន់រាជធានីភ្នំពេញ",
+       "url": "https://stream.zeno.fm/ywwsws8k638uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុសំឡេងព្រះធម៍វត្តស្វាយជ្រំ កណ្ដាល",
+       "url": "https://stream.zeno.fm/rmnas0d27reuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុសំឡេងយើង កំពង់ចាម",
+       "url": "http://ample-zeno-15.radiojar.com/7rg1z00ufpeuv.mp3"
+      },
+      {
+       "name": "វិទ្យុសំឡេងសុភមង្គល កំពង់ធំ",
+       "url": "http://111.118.134.7:8080/broadwave.mp3"
+      },
+      {
+       "name": "វិទ្យុសំឡេងសុភមង្គល កំពង់ធំ",
+       "url": "https://stream.zeno.fm/rwpbg5q1epeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុសំឡេងសុភមង្គល ខេត្តពោធិ៍សាត់",
+       "url": "https://stream.zeno.fm/15e8369eb8zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុសំឡេងសុភមង្គល ខេត្តស្វាយរៀង",
+       "url": "http://stream.zeno.fm/9m5amqnzx1zuv"
+      },
+      {
+       "name": "វិទ្យុស្គាយអេហ្វអឹម ភ្នំពេញ",
+       "url": "https://stream.zeno.fm/ksvtd3ewdzzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុស្ទឹងសែន FM 100 MHz Steung Sen FM Radio",
+       "url": "https://stream.zeno.fm/bh38baaekzzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុស្ទឹងសែន ដែនដីប្រវត្តិសាស្រ្",
+       "url": "http://175.100.91.215:8080/broadwave.mp3"
+      },
+      {
+       "name": "វិទ្យុស្ទឹងសែន ដែនដីប្រវត្តិសាស្រ្ត",
+       "url": "https://stream.zeno.fm/65fc7fffmpeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុស្រ្តី ភ្នំពេញ – KH",
+       "url": "http://96.9.77.178:8080/broadwave.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុហ្វ្រេស ​ ភ្នំពេញ (Fresh FM)",
+       "url": "http://116.212.142.178:88/broadwave.mp3"
+      },
+      {
+       "name": "វិទ្យុអប្សរាដើម្បីមាតុភូមិ FM 99 ភ្នំពេញ",
+       "url": "https://stream.zeno.fm/ezkx1w5gw98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុអប្សរាដើម្បីមាតុភូមិ ភ្នំពេញ – KH",
+       "url": "http://stream.zeno.fm/r31x3w5gw98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុអប្សរាដើម្បីយុវជន FM 97 ភ្នំពេញ",
+       "url": "https://stream.zeno.fm/0vudws1gw98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុអូរតងប៉ៃលិន ប៉ៃលិន",
+       "url": "https://stream.zeno.fm/0c6e1x83qpeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុអេជីជីញ៉ូ ភ្នំពេញ",
+       "url": "https://stream.zeno.fm/w511k7qa0ueuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុអេប៊ីស៊ីន័យជីវិត FM 92.70 ភ្នំពេញ",
+       "url": "http://stream.zeno.fm/25ad3kgc9ueuv"
+      },
+      {
+       "name": "វិទ្យុអេប៊ីស៊ីន័យជីវិត ភ្នំពេញ",
+       "url": "https://stream.zeno.fm/k7k75wgrqg8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុអេប៊ីស៊ីន័យជីវិត ភ្នំពេញ – Phnom Penh – KH",
+       "url": "http://117.20.114.122:5001/broadwave.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុអេហ្វអឹម FM 104.70 ភ្នំពេញ – 104.70 FM – KH",
+       "url": "http://stream.zeno.fm/t9m3sr6hbd0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុអែនជេលន៍ កំពត",
+       "url": "http://ample-zeno-20.radiojar.com/tubkcd8kkpeuv.mp3"
+      },
+      {
+       "name": "វិទ្យុអែនជេលន៍ បាត់ដំបង",
+       "url": "http://ample-zeno-05.radiojar.com/sgrmsgrsgpeuv.mp3"
+      },
+      {
+       "name": "វិទ្យុអំបិល ប្រហុក ភ្នំពេញ",
+       "url": "http://ample-zeno-23.radiojar.com/mwu80kgc9ueuv.mp3"
+      },
+      {
+       "name": "វិទ្យុឧត្ដរមានជ័យ",
+       "url": "http://ample-zeno-10.radiojar.com/1tbabmqvfpeuv.mp3"
+      },
+      {
+       "name": "វិទ្យុឯករាជ FM98.50 ភ្នំពេញ",
+       "url": "https://stream.zeno.fm/sdf0g3xb7a0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុឯករាជ FM98.50 ភ្នំពេញ – 98.50 FM – KH",
+       "url": "http://stream.zeno.fm/1b7vp3xb7a0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុឯករាជFM103.30 ភ្នំពេញ",
+       "url": "https://stream.zeno.fm/rpneys1vfpeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុឯករាជFM103.30 ភ្នំពេញ – 103.30 FM – KH",
+       "url": "http://stream.zeno.fm/kn2b1s1vfpeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុឯករាជ្យ FM100.70 ភ្នំពេញ – 100.70 FM – KH",
+       "url": "http://stream.zeno.fm/mh70h9aqrreuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុឯករាជ្យ FM93.70 ភ្នំពេញ",
+       "url": "https://stream.zeno.fm/v6u35btb7a0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុឯករាជ្យ FM93.70 ភ្នំពេញ – 93.70 FM – KH",
+       "url": "http://stream.zeno.fm/hgty9btb7a0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុឯករាជ្យ FM95.50 ភ្នំពេញ – 95.50 FM – KH",
+       "url": "http://stream.zeno.fm/ntdv3dwqrreuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុឯករាជ្យFM95.50 ភ្នំពេញ",
+       "url": "https://stream.zeno.fm/d9wd1dwqrreuv",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុឱវាទព្រះពុទ្ធ ភ្នំពេញ – KH",
+       "url": "http://111.118.155.106:8080/broadwave.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "វិទ្យុ​ ឯកភ្នំ បាត់ដំបង",
+       "url": "http://ample-zeno-18.radiojar.com/uzgkf2417reuv.mp3"
+      },
+      {
+       "name": "សំលេងយុវជន",
+       "url": "https://stream.zeno.fm/ws8hf16s9wquv"
+      },
+      {
+       "name": "ស្ថានីយវិទ្យុមុនិន្ទ ភ្នំពេញ – KH",
+       "url": "http://stream.zeno.fm/p445tpm3bveuv",
+       "language_inferred": true
+      },
+      {
+       "name": "ស្ថានីយ៍វិទ្យុ ពុទ្ធវង្ស ប្រទេសភូមា",
+       "url": "https://stream.zeno.fm/6w8q6rzde18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "ស្ថានីយ៍វិទ្យុ មេត្រី FM104.70 MHz ខេត្តកំពត",
+       "url": "https://stream.zeno.fm/87rna2kw768uv",
+       "language_inferred": true
+      },
+      {
+       "name": "ស្ថានីយ៍វិទ្យុជាតិសេកុង ស្ទឹងត្រែង",
+       "url": "http://ample-zeno-13.radiojar.com/eaupch4z8reuv.mp3"
+      },
+      {
+       "name": "ស្ថានីយ៍វិទ្យុជាតិសេកុង ស្ទឹងត្រែង – Phnom Penh – KH",
+       "url": "http://203.223.44.178:8080/broadwave.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "ស្ថានីយ៍វិទ្យុរីករាយ បន្ទាយមានជ័យ",
+       "url": "https://stream.zeno.fm/wrrbd0n3rueuv",
+       "language_inferred": true
+      }
+     ]
+    }
+   }
+  },
+  "English": {
+   "count": 5,
+   "genres": {
+    "news_talk": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Radio Phnom Penh",
+       "url": "https://s2.radio.co/s9046df8fd/listen",
+       "tags": [
+        "news_talk",
+        "various_eclectic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Un Deth",
+       "url": "https://stream.zeno.fm/eaupch4z8reuv"
+      }
+     ]
+    },
+    "various_eclectic": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Kampot Radio",
+       "url": "http://james.shoutca.st/radio/8020/64.aac"
+      }
+     ]
+    },
+    "world": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Samleng Khemara",
+       "url": "http://myradio.doscast.com:8570/"
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "វិទ្យុព្រះធម៏តាមបែបព្រះពុទ្ធសាសនា FM100.30  បាត់ដំបង",
+       "url": "https://stream.zeno.fm/fsytcuv4grquv"
+      }
+     ]
+    }
+   }
+  },
+  "Catalan": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Wat Kol ToTeng FM 97.80",
+       "url": "https://stream.zeno.fm/vnnpu1untf9uv"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

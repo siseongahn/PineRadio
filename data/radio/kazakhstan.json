@@ -1,0 +1,1908 @@
+{
+ "country": "Kazakhstan",
+ "count": 260,
+ "languages": {
+  "Russian": {
+   "count": 211,
+   "genres": {
+    "alternative_indie": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "Beu FM Radio",
+       "url": "https://stream.pcradio.ru/rad_befmkz-med",
+       "tags": [
+        "alternative_indie",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "NE FM Rock",
+       "url": "http://ps.ne.fm/ROCK_256k",
+       "tags": [
+        "rock",
+        "alternative_indie"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Palmera Blanca - Indie",
+       "url": "https://indie.palmerablanca.com/stream.mp3",
+       "tags": [
+        "alternative_indie",
+        "rock"
+       ]
+      },
+      {
+       "name": "Жаңа Rock",
+       "url": "https://live.zhanafm.kz:8443/zhanarock?n=4fb1fe3fe24566662d07",
+       "tags": [
+        "rock",
+        "classical",
+        "alternative_indie",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "ambient_relax": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "NS-Lounge",
+       "url": "https://icecast.ns.kz/radions-lounge?n=4fff2f5cee2adcaa4cd9"
+      },
+      {
+       "name": "Palmera Blanca - Ambient",
+       "url": "https://ambient.palmerablanca.com/stream.mp3",
+       "tags": [
+        "ambient_relax",
+        "easy_listening"
+       ]
+      }
+     ]
+    },
+    "blues": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Жаңа FM Listen live",
+       "url": "https://str1.pcradio.ru/zhana_fm-med",
+       "tags": [
+        "rock",
+        "oldies",
+        "classical",
+        "blues",
+        "world",
+        "decade_90s"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "chillout_lounge": {
+     "count": 6,
+     "stations": [
+      {
+       "name": "NE FM LOUNGE",
+       "url": "http://ne.fm/mp3/LOUNGE",
+       "language_inferred": true
+      },
+      {
+       "name": "Palmera Blanca - Lounge",
+       "url": "https://lounge.palmerablanca.com/stream.mp3"
+      },
+      {
+       "name": "Palmera Blanca radio",
+       "url": "http://onair.palmerablanca.com:8000/stream.mp3",
+       "tags": [
+        "chillout_lounge",
+        "ambient_relax",
+        "easy_listening",
+        "folk",
+        "latin"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio NS Lounge",
+       "url": "http://ne.fm/mp3/radions-lounge",
+       "language_inferred": true
+      },
+      {
+       "name": "Soul FM",
+       "url": "https://myradio24.org/37928",
+       "tags": [
+        "chillout_lounge",
+        "pop_hits",
+        "decade_90s"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Жаңа Lounge",
+       "url": "https://live.zhanafm.kz:8443/zhanalounge",
+       "tags": [
+        "ambient_relax",
+        "easy_listening",
+        "chillout_lounge"
+       ]
+      }
+     ]
+    },
+    "christian_gospel": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Radio Teos",
+       "url": "http://radioteos.ru:8004/",
+       "tags": [
+        "pop_hits",
+        "various_eclectic",
+        "christian_gospel"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Teos",
+       "url": "http://stream.teos.fm:8004/aac_hq_autodj",
+       "language_inferred": true
+      }
+     ]
+    },
+    "classical": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Classic (Astana) Radio",
+       "url": "https://stream.pcradio.ru/classicfm_kz-med",
+       "language_inferred": true
+      },
+      {
+       "name": "NE FM HIT",
+       "url": "http://ps.ne.fm/HIT",
+       "tags": [
+        "pop_hits",
+        "classical"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "comedy": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Humor FM Kazakhstan 102.0 FM Radio",
+       "url": "https://stream.pcradio.ru/humourfm_kz-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Lux FM Radio",
+       "url": "https://stream.pcradio.ru/rad_lxfm-med",
+       "tags": [
+        "comedy",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "mmsradio",
+       "url": "https://stream.zeno.fm/s8ztc51dwnhvv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "country": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Kiss Country Listen live",
+       "url": "https://igor.torontocast.com:1905/server",
+       "tags": [
+        "country",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "disco_eurodance": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Ретро ФМ Listen live",
+       "url": "https://a1.radioheart.ru:8001/retrofm-kz-128",
+       "tags": [
+        "disco_eurodance",
+        "easy_listening",
+        "sports",
+        "oldies",
+        "decade_90s"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 9,
+     "stations": [
+      {
+       "name": "Kazakh radio (Qazaq Radiolary)",
+       "url": "https://stream.pcradio.ru/kazradio_kz-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 102 KZ",
+       "url": "http://fm.kiwi.kz/radio102",
+       "tags": [
+        "easy_listening",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 7 Kz",
+       "url": "http://listen4.myradio24.com:9000/8334",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Ice",
+       "url": "https://onair.radio1922.ru/64.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Tandem",
+       "url": "https://stream.pcradio.ru/tandem_kz-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Shalkar Radio",
+       "url": "https://stream.pcradio.ru/shalkar_kz-med",
+       "language_inferred": true
+      },
+      {
+       "name": "ЖАНА FM",
+       "url": "https://live.zhanafm.kz:8443/zhanafm_onair",
+       "tags": [
+        "pop_hits",
+        "easy_listening",
+        "decade_90s"
+       ]
+      },
+      {
+       "name": "Моя Мелодия",
+       "url": "https://lux-radio.com:8025/stream",
+       "tags": [
+        "easy_listening",
+        "oldies"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Радио Тандем",
+       "url": "https://a1.radioheart.ru:9001/RH20072",
+       "tags": [
+        "pop_hits",
+        "easy_listening",
+        "news_talk",
+        "electronic"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "electronic": {
+     "count": 23,
+     "stations": [
+      {
+       "name": "Energy FM 102.2",
+       "url": "http://89.219.34.117:8008/NEWENERGY_256k",
+       "tags": [
+        "electronic",
+        "pop_hits",
+        "news_talk",
+        "soul_rnb_funk"
+       ]
+      },
+      {
+       "name": "Energy FM 102.2 Radio",
+       "url": "https://stream.pcradio.ru/energyfmkz-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Energy FM 1022",
+       "url": "http://89.219.34.117:8008/NEWENERGY_aac",
+       "language_inferred": true
+      },
+      {
+       "name": "GFM Listen live",
+       "url": "https://music.geometryfm.ru/radio/8000/geometryfm128?1601475007",
+       "tags": [
+        "pop_hits",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "GFM radio",
+       "url": "https://music.geometryfm.ru/radio/8010/geometryfm320",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "GREEN Dance radio",
+       "url": "https://radio.greendance.ml/listen/green_dance/greendance128",
+       "language_inferred": true
+      },
+      {
+       "name": "Ice",
+       "url": "http://onair.radioice.ru:8000/mp3_192",
+       "tags": [
+        "pop_hits",
+        "electronic",
+        "world",
+        "oldies",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Love Radio Kazakhstan",
+       "url": "http://stream2.n340.com/12_love_28_reg_23737?",
+       "tags": [
+        "pop_hits",
+        "easy_listening",
+        "electronic"
+       ]
+      },
+      {
+       "name": "Lux Radio",
+       "url": "https://stream.pcradio.ru/luxradiokz_com-med",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Klab FM",
+       "url": "http://s3.radioboss.fm:8015/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Vyshka (Kazahstan)",
+       "url": "https://stream.pcradio.ru/rad_vshkkz-med",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Russian Dance Listen live",
+       "url": "https://vps396786.cloudfox.online/radio/8000/russiandance",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Russian Dance Radio",
+       "url": "https://lux-radio.com:8015/stream"
+      },
+      {
+       "name": "Space Beat Radio",
+       "url": "https://stream.pcradio.ru/rad_spacbeatru-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Synthwave Club",
+       "url": "https://stream.zeno.fm/hutw7c7q9c0uv",
+       "tags": [
+        "electronic",
+        "house",
+        "reggae_ska"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Synthwave Club",
+       "url": "http://stream.zenolive.com/ay8y2c7q9c0uv",
+       "tags": [
+        "electronic",
+        "decade_80s"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Европа Плюс Казахстан",
+       "url": "https://hls-01-regions.emgsound.ru/11_kazakhstan/playlist.m3u8",
+       "tags": [
+        "pop_hits",
+        "electronic",
+        "disco_eurodance"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Жаңа MIX",
+       "url": "https://live.zhanafm.kz:8443/zhanamix",
+       "tags": [
+        "electronic",
+        "pop_hits",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Народное радио radio",
+       "url": "http://178.88.167.62:8080/DALA_192",
+       "tags": [
+        "pop_hits",
+        "electronic"
+       ]
+      },
+      {
+       "name": "Радио Nostalgie Listen live",
+       "url": "https://listen7.myradio24.com/alexx333",
+       "tags": [
+        "news_talk",
+        "oldies",
+        "electronic",
+        "pop_hits",
+        "decade_70s",
+        "decade_80s",
+        "decade_90s"
+       ]
+      },
+      {
+       "name": "Радио Талап",
+       "url": "https://streamingv2.shoutcast.com/radio-ao-talap",
+       "tags": [
+        "pop_hits",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Радио Талап radio",
+       "url": "https://streamingv2.shoutcast.com/talapuralsk",
+       "tags": [
+        "electronic",
+        "pop_hits",
+        "alternative_indie"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Радио Тандем Listen live",
+       "url": "https://a9.radioheart.ru:9013/RH20072",
+       "tags": [
+        "pop_hits",
+        "electronic"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "folk": {
+     "count": 12,
+     "stations": [
+      {
+       "name": "Aspan FM Radio",
+       "url": "https://stream.pcradio.ru/rad_spankz-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Bulbul",
+       "url": "https://radiobulbul.stream.laut.fm/radiobulbul?t302=2020-04-23_02-49-10&uuid=0e662e05-5e4b-442e-8341-d92ccad032f8",
+       "tags": [
+        "folk",
+        "oldies",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Astana",
+       "url": "https://stream.pcradio.ru/rad_astnakz-med",
+       "tags": [
+        "news_talk",
+        "folk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Bulbul",
+       "url": "https://stream.pcradio.ru/bulbul_kz-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio NS - Shanson",
+       "url": "https://stream.pcradio.ru/rad_rdshsnkz-med",
+       "tags": [
+        "folk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Sana (Rudny) 103.3 FM",
+       "url": "https://stream.pcradio.ru/rad_rdsana-med",
+       "tags": [
+        "easy_listening",
+        "folk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Toj Duman",
+       "url": "https://stream.pcradio.ru/rad_tdmnkz-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Zhuldyz FM Radio",
+       "url": "https://stream.pcradio.ru/zhuldyz_fm-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Радио NS-Шансон",
+       "url": "https://icecast.ns.kz/radions-shanson?n=7f596ca6b1159d7e3549"
+      },
+      {
+       "name": "Радио Азамат radio",
+       "url": "https://myradio24.org/8162",
+       "tags": [
+        "folk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Радио Тмк Listen live",
+       "url": "https://a4.radioheart.ru:9036/RH13170",
+       "tags": [
+        "folk",
+        "ambient_relax",
+        "easy_listening",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Русский Город",
+       "url": "https://myradio24.org/russgorod",
+       "tags": [
+        "electronic",
+        "disco_eurodance",
+        "decade_90s",
+        "folk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "house": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Boom Room",
+       "url": "https://a5.radioheart.ru:8037/studio?_ga=2.64488047.1724080751.1537417053-1424790351.1529079995",
+       "tags": [
+        "house",
+        "techno"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Kazantip FM",
+       "url": "http://live26.kiwi.kz:8000/radiokazantip",
+       "tags": [
+        "various_eclectic",
+        "house"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      }
+     ]
+    },
+    "jazz": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Aloha FM",
+       "url": "https://myradio24.org/alohafm",
+       "tags": [
+        "chillout_lounge",
+        "jazz",
+        "rock",
+        "electronic",
+        "blues",
+        "easy_listening",
+        "hip_hop_rap",
+        "techno",
+        "soul_rnb_funk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Palmera Blanca - Latino",
+       "url": "https://latino.palmerablanca.com/stream.mp3",
+       "tags": [
+        "jazz",
+        "reggae_ska",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Радио КН",
+       "url": "http://109.248.158.32:7000/256?n=a072deee4dde18468e26",
+       "tags": [
+        "news_talk",
+        "jazz",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "kids": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Айсын FM radio",
+       "url": "https://listen.myrh.ru/balalarfm",
+       "tags": [
+        "pop_hits",
+        "kids"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "latin": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Gakku FM Listen live",
+       "url": "https://stream.gakku.tv/radio/recordfm_192.mp3",
+       "tags": [
+        "pop_hits",
+        "latin"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 10,
+     "stations": [
+      {
+       "name": "Avtoradio Kazakhstan",
+       "url": "http://95.56.234.40:8080/AVTORADIO",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Business FM (Almaty) Radio",
+       "url": "https://stream.pcradio.ru/businessfm_kz-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Business FM 89.6",
+       "url": "http://94.247.130.243:5050/business",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "NS 106 FM",
+       "url": "http://89.219.35.26:8000/radions",
+       "bitrate": 192,
+       "logo": "http://radio.pervii.com/logo/94236.jpg",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "electronic",
+        "oldies",
+        "disco_eurodance",
+        "folk",
+        "easy_listening",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Orda FM",
+       "url": "https://orda.daitsuna.net/orda/orda/playlist.m3u8",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "world",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio City Almaty radio",
+       "url": "http://94.247.130.243:5050/city",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Радио КН radio",
+       "url": "http://radiokn.ddns.net:7000/56",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Радио Рассвет radio",
+       "url": "http://s1.radioheart.ru:8001/rassvet",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Русское Радио Костанай Listen live",
+       "url": "https://cp.time4radio.ru:8090/rusradiokostanai",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Юмор FM Казахстан radio",
+       "url": "https://live.zhanafm.kz:8443/veseloeradio_onair",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "oldies": {
+     "count": 6,
+     "stations": [
+      {
+       "name": "90s Eurodance radio",
+       "url": "https://myradio24.org/5967",
+       "tags": [
+        "oldies",
+        "disco_eurodance",
+        "decade_90s",
+        "pop_hits",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio City",
+       "url": "https://kvs01.businessfm.kz/city",
+       "tags": [
+        "oldies",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio ЖАНА FM",
+       "url": "http://nefm.kz/mp3/zhanafm",
+       "tags": [
+        "oldies",
+        "decade_80s",
+        "decade_90s"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Радио Дача - Казахстан",
+       "url": "https://stream.gakku.tv:8443/dacha",
+       "tags": [
+        "pop_hits",
+        "oldies"
+       ]
+      },
+      {
+       "name": "Радио Дача Listen live",
+       "url": "https://stream.gakku.tv/dacha",
+       "tags": [
+        "pop_hits",
+        "oldies"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Русское Радио Костанай",
+       "url": "https://cp.time4radio.ru/radio/8090/rusradiokostanai",
+       "tags": [
+        "oldies",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 31,
+     "stations": [
+      {
+       "name": "AktobeRadio",
+       "url": "http://85.29.144.124:8000/"
+      },
+      {
+       "name": "Alau",
+       "url": "http://ne.fm/mp3/alau",
+       "language_inferred": true
+      },
+      {
+       "name": "Avtoradio Kazakhstan",
+       "url": "https://stream.pcradio.ru/avtoradiokz-med"
+      },
+      {
+       "name": "beu",
+       "url": "https://stream.beufm.kz/beufm"
+      },
+      {
+       "name": "Dala FM 100.2",
+       "url": "http://95.56.234.40:8080/DALA_320",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Evropa Kazakhstan Radio",
+       "url": "https://stream.pcradio.ru/evropa_kazakhstan-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Gakku FM",
+       "url": "https://stream.gakku.tv/radio/live.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Love Radio KZ",
+       "url": "http://stream2.n340.com/12_love_28_reg_23737?type=.aac&ampUID=AC26841392938F60AC5FB1534F8A95A5",
+       "tags": [
+        "pop_hits",
+        "various_eclectic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Lux Radio",
+       "url": "https://lux-radio.com:8005/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "NEFM HIT",
+       "url": "http://ne.fm/mp3/hitfm",
+       "language_inferred": true
+      },
+      {
+       "name": "Pioner FM",
+       "url": "https://live.zhanafm.kz:8443/pionerfm?n=b0676d4d28c1fe20c719"
+      },
+      {
+       "name": "Radio 7 (Semey)",
+       "url": "https://stream.pcradio.ru/radio7_kz-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio ART radio",
+       "url": "https://onlineradiobox.com/json/kz/artk/play?platform=web",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Azamat",
+       "url": "https://listen4.myradio24.com/8162"
+      },
+      {
+       "name": "Radio Ice",
+       "url": "http://onair.radioice.ru:8000/mp3_128",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Lux FM",
+       "url": "https://icecast.luxfm.kz/luxfm"
+      },
+      {
+       "name": "Radio Lux FM",
+       "url": "http://89.219.35.26:8000/luxfm",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio NS",
+       "url": "https://stream.pcradio.ru/nskz-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Sana",
+       "url": "http://aska.ru-hoster.com:8021/stream.ogg"
+      },
+      {
+       "name": "RADIO24 Казахстан",
+       "url": "https://stream.vyshka24.ru/r24kz",
+       "language_inferred": true
+      },
+      {
+       "name": "Russkoe Radio Asia",
+       "url": "https://stream.pcradio.ru/rusradio_asia-med",
+       "language_inferred": true
+      },
+      {
+       "name": "russkoe-radio-kostanaj",
+       "url": "http://82.118.17.75:8000/RusRadio_Kostanai",
+       "language_inferred": true
+      },
+      {
+       "name": "TEKS Radio",
+       "url": "http://ne.fm/mp3/teks",
+       "language_inferred": true
+      },
+      {
+       "name": "ВАШЕ РАДИО",
+       "url": "https://live.zhanafm.kz:8443/vasheradio",
+       "tags": [
+        "pop_hits",
+        "electronic"
+       ]
+      },
+      {
+       "name": "ОстровОК!",
+       "url": "https://listen1.myradio24.com/27010",
+       "language_inferred": true
+      },
+      {
+       "name": "ОстровОК! radio",
+       "url": "https://myradio24.org/27010",
+       "language_inferred": true
+      },
+      {
+       "name": "Радио NS-Русский хит",
+       "url": "https://icecast.ns.kz/radions-russian?n=7fba6328ae1fc1d10765"
+      },
+      {
+       "name": "Радио SANA",
+       "url": "https://listen4.myradio24.com/radiosana?n=dd19c9c08db528270a3d"
+      },
+      {
+       "name": "Радио Вышка Казахстан",
+       "url": "https://stream.vyshka24.ru/kz",
+       "language_inferred": true
+      },
+      {
+       "name": "ХИТ FМ (Hit FM) – KZ-ALA",
+       "url": "https://hitfm.hostingradio.ru/hitfm96.aacp?0.22558728576139542",
+       "language_inferred": true
+      },
+      {
+       "name": "Юмор FM Казахстан",
+       "url": "https://s0.radioheart.ru:8000/RH41924",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "rock": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "NEFM Rock",
+       "url": "http://ne.fm/mp3/rockradio",
+       "language_inferred": true
+      },
+      {
+       "name": "Радио онлайн Житикара radio",
+       "url": "https://a8.radioheart.ru:9006/RH75633",
+       "tags": [
+        "rock",
+        "pop_hits",
+        "folk",
+        "world"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "soul_rnb_funk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "NE.FM - Urban",
+       "url": "http://episodes.ne.fm/mp3/URBAN",
+       "tags": [
+        "soul_rnb_funk",
+        "hip_hop_rap"
+       ]
+      }
+     ]
+    },
+    "techno": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "90s Eurodance",
+       "url": "https://listen1.myradio24.com/5967_128.mp3",
+       "tags": [
+        "techno",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Da Music Techno",
+       "url": "http://91.239.65.100:8002/techno/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Da Music Trance",
+       "url": "http://91.239.65.100:8001/trance/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "ТЕХНОСБОРНИКRADIO radio",
+       "url": "http://freeuk28.listen2myradio.com:4478/stream.nsv",
+       "tags": [
+        "electronic",
+        "techno"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "various_eclectic": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Aktobe Radio 101.4",
+       "url": "http://85.29.144.124:8000/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Qazaq",
+       "url": "http://stream.teos.fm:4000/stream",
+       "language_inferred": true
+      }
+     ]
+    },
+    "world": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Nostalgie Taldykorgan",
+       "url": "http://live.radionostalgie.kz:8777/live",
+       "tags": [
+        "world",
+        "news_talk"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 81,
+     "stations": [
+      {
+       "name": "018singavaasu",
+       "url": "https://stream.zeno.fm/w1qu9vzaa48uv",
+       "language_inferred": true
+      },
+      {
+       "name": "1tamil90",
+       "url": "https://stream.zeno.fm/cbcqt6af838uv",
+       "language_inferred": true
+      },
+      {
+       "name": "90s Eurodance Radio",
+       "url": "https://stream.pcradio.ru/eurodance90s_ucoz-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Aloha FM",
+       "url": "https://listen7.myradio24.com/alohafm",
+       "language_inferred": true
+      },
+      {
+       "name": "AYUEDU",
+       "url": "https://stream.zeno.fm/q3ah9tbxfs8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "AYUEDUKZ",
+       "url": "https://stream.zeno.fm/dz1nmz3wfs8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "BariBarFM",
+       "url": "https://stream.zeno.fm/ftp6zyf5vc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "BeautyCom",
+       "url": "https://stream.zeno.fm/cqtqroceviovv",
+       "language_inferred": true
+      },
+      {
+       "name": "BIG WETS MUSIC",
+       "url": "https://stream.zeno.fm/a267dyq5kuhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Blase Boys Club",
+       "url": "https://stream.zeno.fm/00m5uyvy908uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Da Music Radio",
+       "url": "http://damusic.info:8000/damusic?type=.mp3/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Da Music Techno",
+       "url": "http://91.239.65.100:8002/techno?type=.mp3/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Da Music Trance",
+       "url": "http://91.239.65.100:8001/trance?type=.mp3/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Dala FM",
+       "url": "https://cors-proxy.elfsight.com/http://178.88.167.42:8080/DALA_192"
+      },
+      {
+       "name": "Freedom Radio",
+       "url": "https://stream.zeno.fm/n1vs2cp1wwzuv"
+      },
+      {
+       "name": "GenesisFM",
+       "url": "https://stream.zeno.fm/tha6c06nfejuv",
+       "language_inferred": true
+      },
+      {
+       "name": "gtvfm",
+       "url": "https://stream.zeno.fm/whaakcg53d0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Kui radiosy",
+       "url": "https://stream.zeno.fm/vrmmq5kt97zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "kush coma",
+       "url": "https://stream.zeno.fm/36t8sw2pmkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Love Radio - Казахстан",
+       "url": "https://stream.gakku.tv:8443/love128.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Lux Radio",
+       "url": "http://lux-radio.com:8000/radio",
+       "language_inferred": true
+      },
+      {
+       "name": "MLG Radio KZ",
+       "url": "https://stream.zeno.fm/dez8tqm7fc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Morgenchlen",
+       "url": "https://stream.zeno.fm/9b66k1wenkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Nekshusha FM",
+       "url": "https://stream.zeno.fm/gfqhhgpv79dtv",
+       "language_inferred": true
+      },
+      {
+       "name": "Novoe TV",
+       "url": "http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8"
+      },
+      {
+       "name": "NS-Rock",
+       "url": "https://icecast.ns.kz/radions"
+      },
+      {
+       "name": "Orda FM",
+       "url": "https://85.29.129.134:8443/orda?n=af7bb951ccef9bec0ea7"
+      },
+      {
+       "name": "Palmera Blanca",
+       "url": "https://main.palmerablanca.com/stream.mp3"
+      },
+      {
+       "name": "Qainar Bulaq",
+       "url": "https://stream.zeno.fm/usx93d6hephvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Qarakesek",
+       "url": "https://stream.zeno.fm/yv492cvhakhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 1945",
+       "url": "http://78.46.66.184:1945/256",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Alau",
+       "url": "http://95.154.228.120:8335/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio ART",
+       "url": "https://listen.myrh.ru/id042551",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio ART FM",
+       "url": "http://s0.radioheart.ru:8000/radioart",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Deep",
+       "url": "https://stream.zeno.fm/f8phqgwwvk8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio GREEN Dance",
+       "url": "https://radio.greendance.ml/listen/greendance/greendance320?1675754394422",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio GREEN DANCE",
+       "url": "https://stream.zeno.fm/px4drvrht0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio KN",
+       "url": "https://stream.zeno.fm/azt7px8gd18uv"
+      },
+      {
+       "name": "Radio NS",
+       "url": "http://89.106.235.181/radions",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio NS Russian Heath",
+       "url": "http://ne.fm/mp3/radions-russian",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio NS – Jazz – KZ-ALA",
+       "url": "http://episodes.ne.fm/mp3/radions-jazz",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio PVL",
+       "url": "https://stream.zeno.fm/gvhmwch7mg0uv"
+      },
+      {
+       "name": "Radio Rauan 104 FM",
+       "url": "http://aska.ru-hoster.com:8025/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Tex",
+       "url": "http://www.texfm.ro:8000/rnbhiphop",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Tinel",
+       "url": "https://stream.zeno.fm/mr0ns1ew77zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio TVI",
+       "url": "https://stream.zeno.fm/uzafz0e7fc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio TVI - Hardbass",
+       "url": "https://stream.zeno.fm/scu1nrdf368uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio TVI - Midis",
+       "url": "https://stream.zeno.fm/me7273t8368uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio TVI Live",
+       "url": "https://stream.zeno.fm/ghn9ctw49ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Retro FM 80s",
+       "url": "http://retro80.hostingradio.ru:8026/retro80-128.mp3?type=.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Retro FM 90s",
+       "url": "http://retro90.hostingradio.ru:8027/retro90-128.mp3?type=.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "rrk_air",
+       "url": "https://stream.zeno.fm/3bhb6bwzgm0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "rrk_backup",
+       "url": "https://stream.zeno.fm/xuw54t7y298uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Sectorx Radio",
+       "url": "https://stream.zeno.fm/e5t4rpeua18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Shalkar FM",
+       "url": "http://onradio.kaztrk.kz:8000/shalkar",
+       "language_inferred": true
+      },
+      {
+       "name": "Shaman FM",
+       "url": "https://stream.zeno.fm/z75tyapfwa0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Siberia",
+       "url": "https://stream.zeno.fm/p917224gt0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Song By Adham Suleiman I Have Words For You",
+       "url": "https://stream.zeno.fm/ijlipbaokhivv",
+       "language_inferred": true
+      },
+      {
+       "name": "Special EDM",
+       "url": "https://stream.zeno.fm/8852wyq6v0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "studio10kanal",
+       "url": "https://stream.zeno.fm/v0u70x2reg0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Synthwave Club Radio",
+       "url": "https://stream.pcradio.ru/rad_snthwvclb-med",
+       "language_inferred": true
+      },
+      {
+       "name": "TestFM",
+       "url": "https://stream.zeno.fm/7gbcsrt2k0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "the epok radio",
+       "url": "https://stream.zeno.fm/q5fqf99kunhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "TMK Tatar Radio",
+       "url": "http://stream7.radiostyle.ru:8007/radio-tmk?type=.mp3/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Turkish",
+       "url": "https://stream.zeno.fm/qhupwvfdqkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Umax FM",
+       "url": "http://ne.fm/mp3/kazradio",
+       "language_inferred": true
+      },
+      {
+       "name": "UMAXFM",
+       "url": "http://panel.abcradio.kz:4010/stream",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Vostok FM",
+       "url": "https://91.201.214.229:8000/vostokfm"
+      },
+      {
+       "name": "XBEAMFM",
+       "url": "https://stream.zeno.fm/gav0c4xrkikvv",
+       "language_inferred": true
+      },
+      {
+       "name": "YuFM Dance Station 69.96 FM.",
+       "url": "https://stream.zeno.fm/ewn6nyzlfn4tv"
+      },
+      {
+       "name": "Zhana FM Radio",
+       "url": "https://stream.pcradio.ru/zhana_fm-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Актобе Радио",
+       "url": "http://85.29.144.124:8000/audio.mp3"
+      },
+      {
+       "name": "ЗОЛОТОЕ КОЛЕСО",
+       "url": "https://stream.zeno.fm/veq2icpm6pmtv"
+      },
+      {
+       "name": "Радио 7",
+       "url": "http://listen2.myradio24.com:9000/8334",
+       "language_inferred": true
+      },
+      {
+       "name": "Радио 7 Казахстан",
+       "url": "https://listen2.myradio24.com/8334?n=856ee9cd75fe8b8e578b"
+      },
+      {
+       "name": "Радио КН",
+       "url": "http://radiokn.ddns.net:7000/256"
+      },
+      {
+       "name": "Радио Сок Усть-Каменогорск",
+       "url": "https://s0.radioheart.ru:8000/RH70941?n=d6fc2e2c8cfa281f0ac9",
+       "language_inferred": true
+      },
+      {
+       "name": "Радио Талап",
+       "url": "https://okeyradio.ru/okey?n=82d91da9d85129bd5897"
+      },
+      {
+       "name": "Рауан",
+       "url": "https://myradio24.org/rauan",
+       "language_inferred": true
+      },
+      {
+       "name": "Русское Радио Азия - Алматы 104.7 FM",
+       "url": "https://rusradio.cdnqb.net/stream"
+      },
+      {
+       "name": "Русское Радио Костанай",
+       "url": "http://rusradio.xtv-media.ml:8000/RusRadio_Kostanai"
+      }
+     ]
+    }
+   }
+  },
+  "Kazakh": {
+   "count": 46,
+   "genres": {
+    "alternative_indie": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "NE.FM Rock",
+       "url": "http://ne.fm/mp3/ROCK",
+       "tags": [
+        "rock",
+        "alternative_indie"
+       ]
+      },
+      {
+       "name": "Радио NS-Rock",
+       "url": "https://icecast.ns.kz/radions-rock?n=0c26fca733cd637a5a40",
+       "tags": [
+        "rock",
+        "alternative_indie",
+        "classical",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "chillout_lounge": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio NS - Lounge",
+       "url": "http://89.219.35.26:8000/radions-lounge",
+       "bitrate": 192,
+       "logo": "http://radio.pervii.com/logo/94236.jpg"
+      }
+     ]
+    },
+    "classical": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Classic радиосы Listen live",
+       "url": "https://radio-streams.kaztrk.kz/classic/classic/icecast.audio",
+       "tags": [
+        "classical",
+        "news_talk"
+       ]
+      }
+     ]
+    },
+    "decade_70s": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Жаңа FM",
+       "url": "https://s0.radioheart.ru:8000/RH41867",
+       "tags": [
+        "decade_70s",
+        "decade_80s"
+       ]
+      }
+     ]
+    },
+    "electronic": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "NE.FM Dance",
+       "url": "http://ne.fm/mp3/NE.FM"
+      },
+      {
+       "name": "Orda FM",
+       "url": "https://edge01.daitsuna.net/orda/orda/icecast.audio",
+       "tags": [
+        "pop_hits",
+        "electronic",
+        "news_talk",
+        "jazz"
+       ]
+      },
+      {
+       "name": "Радиостанция 102.2",
+       "url": "http://89.219.34.117:8008/NEWENERGY",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "folk": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "Radio Bulbul",
+       "url": "https://stream.laut.fm/radiobulbul",
+       "tags": [
+        "pop_hits",
+        "folk",
+        "rock",
+        "classical",
+        "world",
+        "soul_rnb_funk",
+        "electronic",
+        "ambient_relax",
+        "house",
+        "country",
+        "drum_and_bass",
+        "kids",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Radio Bulbul",
+       "url": "http://bulbul.hostingradio.ru:8057/bulbul128.mp3",
+       "tags": [
+        "folk",
+        "pop_hits",
+        "world"
+       ]
+      },
+      {
+       "name": "radiobulbul",
+       "url": "https://radiobulbul.stream.laut.fm/radiobulbul?n=b501290ddd0a496eb3ae",
+       "tags": [
+        "folk",
+        "rock",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Той Думан Радиосы",
+       "url": "https://stream.gakku.tv:8443/live.mp3",
+       "tags": [
+        "folk",
+        "pop_hits",
+        "electronic"
+       ]
+      }
+     ]
+    },
+    "hip_hop_rap": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "NE FM Urban",
+       "url": "http://ne.fm/mp3/URBAN"
+      }
+     ]
+    },
+    "jazz": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Радио NS-Jazz",
+       "url": "https://icecast.ns.kz/radions-jazz?n=58d2c240c1bf763be32c",
+       "tags": [
+        "jazz",
+        "classical"
+       ]
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 5,
+     "stations": [
+      {
+       "name": "Qazaq Radiosy",
+       "url": "https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "folk",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Radio Astana",
+       "url": "https://radio-streams.kaztrk.kz/astana/astana/icecast.audio",
+       "tags": [
+        "news_talk",
+        "folk",
+        "pop_hits",
+        "various_eclectic",
+        "christian_gospel",
+        "house"
+       ]
+      },
+      {
+       "name": "Radio KN",
+       "url": "http://radiokn.ddns.net:7000/efir",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Russkoye Radio Asia 104.7 FM",
+       "url": "http://31.148.22.35:9000/stream",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Shalkar Radio",
+       "url": "https://radio-streams.kaztrk.kz/shalqar/shalqar/icecast.audio",
+       "tags": [
+        "news_talk",
+        "hip_hop_rap",
+        "various_eclectic",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 10,
+     "stations": [
+      {
+       "name": "Avtoradio",
+       "url": "http://178.88.167.62:8080/AVTORADIO_192"
+      },
+      {
+       "name": "Dala FM",
+       "url": "http://95.56.234.40:8080/DALA_128",
+       "tags": [
+        "pop_hits",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "LoveRadio",
+       "url": "http://stream2.n340.com/12_love_24_reg_23737"
+      },
+      {
+       "name": "NE.FM - Hit",
+       "url": "http://ne.fm/mp3/HIT"
+      },
+      {
+       "name": "Radio alau",
+       "url": "https://fps1.listen2myradio.com:2199/listen.php?ip=95.154.228.120&ampport=8335&amptype=s2&ampmount=1"
+      },
+      {
+       "name": "Radio Sana 1033",
+       "url": "http://46.105.180.202:8021/stream.ogg"
+      },
+      {
+       "name": "Zhulduz Radio",
+       "url": "http://91.201.214.229:8000/zhulduz",
+       "tags": [
+        "pop_hits",
+        "electronic",
+        "classical"
+       ]
+      },
+      {
+       "name": "Авторадио (Avtoradio)",
+       "url": "http://95.56.234.40:8080/AVTORADIO_AAC"
+      },
+      {
+       "name": "Алау radio",
+       "url": "https://s0.radioheart.ru:8000/RH67172"
+      },
+      {
+       "name": "Радио NS-KZ",
+       "url": "https://icecast.ns.kz/radions-kz?n=28045760ce2ac4bbcd61"
+      }
+     ]
+    },
+    "rock": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Radio Alau",
+       "url": "http://109.248.236.142:8000/"
+      },
+      {
+       "name": "Tengri FM",
+       "url": "http://91.201.214.229:8000/tengrifm",
+       "tags": [
+        "rock",
+        "pop_hits",
+        "classical",
+        "alternative_indie",
+        "easy_listening",
+        "folk"
+       ]
+      }
+     ]
+    },
+    "world": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Avtoradio 106.4 FM",
+       "url": "http://95.56.234.40:8080/AVTORADIO_256",
+       "tags": [
+        "world",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 14,
+     "stations": [
+      {
+       "name": "Almaty TV",
+       "url": "http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8"
+      },
+      {
+       "name": "Cursed",
+       "url": "https://stream.zeno.fm/ldkdbqnxdlstv"
+      },
+      {
+       "name": "Khabar 24 TV",
+       "url": "http://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8"
+      },
+      {
+       "name": "KTK TV",
+       "url": "http://89.218.30.37/ktklive/live.hq/playlist.m3u8"
+      },
+      {
+       "name": "Radio 102",
+       "url": "http://ne.fm/mp3/radio102"
+      },
+      {
+       "name": "Radio NS - Chanson",
+       "url": "http://89.219.35.26:8000/radions-shanson"
+      },
+      {
+       "name": "Radio NS - Jazz",
+       "url": "http://89.219.35.26:8000/radions-jazz"
+      },
+      {
+       "name": "Radio NS - Rock",
+       "url": "http://89.219.35.26:8000/radions-rock"
+      },
+      {
+       "name": "Radio Rauan",
+       "url": "http://46.105.180.202:8025/stream.ogg"
+      },
+      {
+       "name": "Radio Teos",
+       "url": "http://5.10.72.187:8004/mp3_128"
+      },
+      {
+       "name": "Umax FM",
+       "url": "http://stream.north.kz:8000/radioumax"
+      },
+      {
+       "name": "Ретро FM Казахстан",
+       "url": "http://s1.radioheart.ru:8001/retrofm-kz-128"
+      },
+      {
+       "name": "ТЕКС Радио (Radio TEX)",
+       "url": "http://ne.fm/mp3/zhanafm"
+      },
+      {
+       "name": "Теос Радио",
+       "url": "http://radioteos.ru:8002/"
+      }
+     ]
+    }
+   }
+  },
+  "English": {
+   "count": 3,
+   "genres": {
+    "alternative_indie": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Space Beat",
+       "url": "http://95.182.123.100/listen/space_beat/radio.mp3?n=e4e96f810cad4a80d558",
+       "tags": [
+        "rock",
+        "alternative_indie",
+        "electronic"
+       ]
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Business FM",
+       "url": "https://kvs01.businessfm.kz/businessfm"
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Радио Рауан",
+       "url": "https://listen4.myradio24.com/rauan?n=459674d475705692fb85"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

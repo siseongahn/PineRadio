@@ -1,0 +1,1478 @@
+{
+ "country": "Mauritius",
+ "count": 187,
+ "languages": {
+  "French": {
+   "count": 165,
+   "genres": {
+    "alternative_indie": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Rock Mauritius Radio",
+       "url": "https://stream.radiojar.com/2v1ydmukb.mp3"
+      },
+      {
+       "name": "Somos Uno Radio",
+       "url": "http://178.32.62.172:8333/stream.mp3",
+       "tags": [
+        "alternative_indie",
+        "classical"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Wazaa FM",
+       "url": "https://www.liveradio.es/http://wazaafm.ice.infomaniak.ch/wazaafm-192.mp3",
+       "tags": [
+        "decade_80s",
+        "alternative_indie",
+        "decade_90s"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "ambient_relax": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Maurice Listen live",
+       "url": "https://mbcmediaserver.mbcradio.tv/hls-live/radiomaurice/_definst_/liveevent/livestream.m3u8",
+       "tags": [
+        "pop_hits",
+        "ambient_relax",
+        "oldies",
+        "decade_90s"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "bollywood_indian": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "MBC Taal FM",
+       "url": "http://mbcmediaserver.mbcradio.tv:1935/taalfm/livestream/playlist.m3u8"
+      },
+      {
+       "name": "MBC – Taal FM",
+       "url": "http://www.mbcradio.tv/sites/all/themes/mbcradiotv/radiostreams/taalfm.m3u8",
+       "tags": [
+        "pop_hits",
+        "world",
+        "bollywood_indian"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "christian_gospel": {
+     "count": 8,
+     "stations": [
+      {
+       "name": "Faith Radio",
+       "url": "http://mu1stream.mushost.com:8230/128kbps",
+       "tags": [
+        "christian_gospel",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Faith Radio, Quatre Bornes",
+       "url": "http://mu1stream.mushost.com:8230/stream.nsv",
+       "language_inferred": true
+      },
+      {
+       "name": "Nu Radio",
+       "url": "http://91.121.29.128:8048/",
+       "language_inferred": true
+      },
+      {
+       "name": "OUI Radio",
+       "url": "http://mu1stream.mushost.com:8080/stream"
+      },
+      {
+       "name": "OUI Radio",
+       "url": "http://mu1stream.mushost.com:8080/stream.nsv",
+       "language_inferred": true
+      },
+      {
+       "name": "OUi Radio",
+       "url": "https://www.liveradio.es/http://mu1stream.mushost.com:8080/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "OUi Radio",
+       "url": "https://mu2stream.mushost.com:9443",
+       "language_inferred": true
+      },
+      {
+       "name": "OUi Radio",
+       "url": "https://mu1stream.mushost.com:8443/stream"
+      }
+     ]
+    },
+    "classical": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Klassik Radio - Klassik zum Weinabend Listen live",
+       "url": "https://stream.klassikradio.de/weinabend/mp3-192/",
+       "language_inferred": true
+      }
+     ]
+    },
+    "country": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "HITFM MAURITIUS",
+       "url": "http://node-12.zeno.fm/cyd07m0ecfeuv.mp3",
+       "tags": [
+        "news_talk",
+        "country"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "decade_80s": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radiocity Mauritius",
+       "url": "https://freeuk27.listen2myradio.com/live.mp3",
+       "language_inferred": true
+      }
+     ]
+    },
+    "electronic": {
+     "count": 10,
+     "stations": [
+      {
+       "name": "GigaIRC Network Radio",
+       "url": "http://r.gigairc.com:7240/"
+      },
+      {
+       "name": "GigaIRC Paradise Radio",
+       "url": "http://r.gigairc.com:7240/stream.nsv",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "HITFM MAURITIUS",
+       "url": "https://stream.zeno.fm/8e5h28q71bwtv.mp3",
+       "tags": [
+        "electronic",
+        "techno",
+        "house"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "HITFM MAURITIUS",
+       "url": "http://ample-zeno-11.radiojar.com/8e5h28q71bwtv.mp3",
+       "tags": [
+        "electronic",
+        "house",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "HITFM WEBRADIO",
+       "url": "http://ample-zeno-18.radiojar.com/8e5h28q71bwtv.mp3"
+      },
+      {
+       "name": "Hits FM",
+       "url": "https://stream.zenolive.com/8e5h28q71bwtv",
+       "tags": [
+        "electronic",
+        "pop_hits",
+        "house",
+        "folk",
+        "oldies",
+        "various_eclectic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "MBC Music FM",
+       "url": "https://mbcmediaserver.mbcradio.tv/hls-live/musicfm/_definst_/liveevent/livestream.m3u8",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "NRJ Maurice",
+       "url": "https://f5-th2-2.nrjaudio.fm/mu/55802/aac_64.mp3?cdn_path=adswizz_lbs11&ampadws_out_a2&ampaccess_token=3d425eb22c384086b9328f83a3877880",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Moris Roots Listen live",
+       "url": "https://cc.radiomoris.com:8443/autodj",
+       "tags": [
+        "latin",
+        "electronic",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Top Dj's Mauritius radio",
+       "url": "http://freeuk19.listen2myradio.com:29730/stream.nsv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "folk": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "Radio Moris",
+       "url": "https://azc.radiomoris.com:8010/radio.mp3",
+       "tags": [
+        "folk",
+        "reggae_ska",
+        "pop_hits",
+        "trance_goa",
+        "soul_rnb_funk",
+        "jazz",
+        "electronic",
+        "latin",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Moris Love – MU-PL",
+       "url": "https://azc.radiomoris.com:8030/radio.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "RadioMoris Roots",
+       "url": "https://azc.radiomoris.com:8000/radio.mp3",
+       "tags": [
+        "folk",
+        "hip_hop_rap",
+        "reggae_ska"
+       ]
+      },
+      {
+       "name": "Zero Alpha Radio",
+       "url": "https://samcloud.spacial.com/api/listen?sid=5692&amprid=118715&ampf=heaacv2,any&ampbr=64000,any&ampm=sc",
+       "language_inferred": true
+      }
+     ]
+    },
+    "jazz": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Moris - Mix",
+       "url": "https://azc.radiomoris.com:8020/radio.mp3",
+       "tags": [
+        "soul_rnb_funk",
+        "jazz",
+        "reggae_ska",
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "metal": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Rock Mauritius Radio",
+       "url": "http://n05.radiojar.com:80/2v1ydmukb",
+       "language_inferred": true
+      },
+      {
+       "name": "Rock Mauritius Radio",
+       "url": "http://n08.radiojar.com:80/2v1ydmukb",
+       "tags": [
+        "rock",
+        "metal"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 15,
+     "stations": [
+      {
+       "name": "MBC Radio Maurice",
+       "url": "http://mbcmediaserver.mbcradio.tv:1935/radiomaurice/livestream/playlist.m3u8"
+      },
+      {
+       "name": "Planet FM",
+       "url": "http://s10.myradiostream.com:35198/",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "bollywood_indian"
+       ]
+      },
+      {
+       "name": "Planet FM 91.2 radio",
+       "url": "http://s10.myradiostream.com:35198/audio.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "folk",
+        "bollywood_indian"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Mauritius Listen live",
+       "url": "https://mbcmediaserver.mbcradio.tv/hls-live/radiomauritius/_definst_/liveevent/livestream.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio One",
+       "url": "http://webstream.r1.mu:8000/stream",
+       "tags": [
+        "news_talk",
+        "sports",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio One 100.8-102.4 FM radio",
+       "url": "http://185.142.236.169:8000/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio One Mauritius",
+       "url": "https://webstream.r1.mu/proxy/r1stream128fm/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio One R1",
+       "url": "https://crs.webdesign-flash.ro/?q=http://91.121.134.182:8006/stream&plugin_id=7628&site_id=8520577",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "sports",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Plus",
+       "url": "https://stream.radio.co/s8cc7a5da4/listen",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "easy_listening",
+        "folk",
+        "country",
+        "world"
+       ]
+      },
+      {
+       "name": "Radio Plus Hits",
+       "url": "http://s4.voscast.com:8432/stream/1",
+       "tags": [
+        "pop_hits",
+        "decade_70s",
+        "decade_80s",
+        "decade_90s",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Plus Mauritius",
+       "url": "http://s4.voscast.com:8432",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "world",
+        "various_eclectic",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Radio Tamil FM radio",
+       "url": "https://stream.zeno.fm/31f63s0ke0hvv",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio230",
+       "url": "https://listen.radio230.com",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "folk",
+        "reggae_ska"
+       ]
+      },
+      {
+       "name": "Rodrigues FM",
+       "url": "https://radio.mbconline.xyz/hls/rodrigusfm.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Top FM",
+       "url": "http://s3.voscast.com:10152/stream.nsv",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "oldies": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Radio Maurice",
+       "url": "https://radio.mbconline.xyz/hls/radiomaurice.m3u8",
+       "tags": [
+        "oldies",
+        "pop_hits",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Top FM",
+       "url": "http://s3.voscast.com:10152/stream1591284514220/1",
+       "tags": [
+        "oldies",
+        "techno",
+        "electronic",
+        "decade_70s",
+        "decade_80s",
+        "decade_90s",
+        "world",
+        "rock",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Zero Alpha Radio",
+       "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM10AAC079_SC",
+       "tags": [
+        "oldies",
+        "easy_listening",
+        "blues"
+       ]
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 15,
+     "stations": [
+      {
+       "name": "DreamSky Radio  Fresh Hit",
+       "url": "http://151.80.44.127:8248/listen.pls",
+       "language_inferred": true
+      },
+      {
+       "name": "FERadio",
+       "url": "https://node-14.zeno.fm/mth9kwewfzzuv.aac?rj-ttl=5&amprj-tok=AAABc9c8L4MAqOsnaoEilBTZeA",
+       "language_inferred": true
+      },
+      {
+       "name": "Galaxy WebRadio",
+       "url": "http://151.80.44.127:8024/"
+      },
+      {
+       "name": "HITFM MAURITIUS",
+       "url": "http://ample-zeno-17.radiojar.com/8e5h28q71bwtv.mp3"
+      },
+      {
+       "name": "Kirpip Radio",
+       "url": "http://radio7.pro-fhi.net:9187/stream.nsv",
+       "language_inferred": true
+      },
+      {
+       "name": "MBC Kool FM",
+       "url": "http://mbcmediaserver.mbcradio.tv:1935/koolfm/livestream/playlist.m3u8"
+      },
+      {
+       "name": "MBC Music FM",
+       "url": "http://mbcmediaserver.mbcradio.tv:1935/musicfm/livestream/playlist.m3u8"
+      },
+      {
+       "name": "MBC – Kool FM",
+       "url": "https://mbcmediaserver.mbcradio.tv/hls-live/koolfm/_definst_/liveevent/livestream.m3u8",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "country",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "MBC – Music FM",
+       "url": "http://www.mbcradio.tv/sites/all/themes/mbcradiotv/radiostreams/musicfm.m3u8",
+       "tags": [
+        "pop_hits",
+        "soul_rnb_funk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "NRJ Maurice",
+       "url": "http://cdn.nrjaudio.fm/adwz1/mu/55802/aac_64.mp3",
+       "tags": [
+        "pop_hits",
+        "electronic"
+       ]
+      },
+      {
+       "name": "NRJ Maurice 92,4 FM",
+       "url": "http://cdn.nrjaudio.fm/adwz1/mu/55802/mp3_128.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "OUI Radio",
+       "url": "http://mu1stream.mushost.com:8080/stream2",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Plus - Hits",
+       "url": "https://s3.radio.co/s1769ca1ac/listen",
+       "language_inferred": true
+      },
+      {
+       "name": "Radiocity Mauritius radio",
+       "url": "https://s3.free-shoutcast.com/stream/18150/",
+       "tags": [
+        "pop_hits",
+        "decade_2000s",
+        "decade_80s",
+        "decade_90s"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "RadioMoris",
+       "url": "https://cc.radiomoris.com:9443/stream",
+       "tags": [
+        "pop_hits",
+        "world",
+        "trance_goa",
+        "easy_listening"
+       ]
+      }
+     ]
+    },
+    "reggae_ska": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "Best FM Listen live",
+       "url": "https://mbcmediaserver.mbcradio.tv/hls-live/bestfm/_definst_/liveevent/livestream.m3u8",
+       "tags": [
+        "pop_hits",
+        "reggae_ska",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Plus Fever",
+       "url": "https://streamer.radio.co/s3fe39a4a4/listen",
+       "tags": [
+        "reggae_ska",
+        "world",
+        "hip_hop_rap"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio230",
+       "url": "https://listen.shoutcast.com/radio230webradio",
+       "tags": [
+        "reggae_ska",
+        "news_talk",
+        "alternative_indie"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio230",
+       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SP_R4228214.mp3",
+       "language_inferred": true
+      }
+     ]
+    },
+    "rock": {
+     "count": 6,
+     "stations": [
+      {
+       "name": "Rock Mauritius Radio",
+       "url": "http://stream.radiojar.com/2v1ydmukb.m4a"
+      },
+      {
+       "name": "Rock Mauritius Radio",
+       "url": "https://162.13.25.174/2v1ydmukb",
+       "tags": [
+        "rock",
+        "alternative_indie",
+        "gothic_industrial",
+        "blues",
+        "reggae_ska",
+        "punk",
+        "metal"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Rock Mauritius Radio",
+       "url": "http://149.202.79.171/listen/2v1ydmukb",
+       "language_inferred": true
+      },
+      {
+       "name": "Zero Alpha",
+       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SAM02AAC154_SC",
+       "tags": [
+        "rock",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Zero Alpha Radio",
+       "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM10AAC078_SC",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Zero Alpha Radio",
+       "url": "http://sc9.spacialnet.com:30970/",
+       "tags": [
+        "rock",
+        "folk",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "soul_rnb_funk": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "Radio Moris - Street",
+       "url": "https://azc.radiomoris.com:8040/radio.mp3",
+       "tags": [
+        "soul_rnb_funk",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Rodrigues FM Listen live",
+       "url": "https://mbcmediaserver.mbcradio.tv/hls-live/rodfm/_definst_/liveevent/livestream.m3u8",
+       "tags": [
+        "soul_rnb_funk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Wazaa FM",
+       "url": "https://wazaafm.ice.infomaniak.ch/wazaafm-192.mp3",
+       "tags": [
+        "soul_rnb_funk",
+        "pop_hits",
+        "news_talk",
+        "bollywood_indian",
+        "hip_hop_rap",
+        "alternative_indie",
+        "decade_90s",
+        "classical",
+        "decade_80s",
+        "folk"
+       ]
+      },
+      {
+       "name": "Zero Alpha Radio Listen live",
+       "url": "https://18193.live.streamtheworld.com/SAM10AAC079_SC",
+       "tags": [
+        "rock",
+        "soul_rnb_funk",
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "soundtrack": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "GRF Web Radio",
+       "url": "https://listen.radioking.com/radio/154261/stream/194866",
+       "tags": [
+        "pop_hits",
+        "soundtrack"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "trance_goa": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Moris Live N Direk Listen live",
+       "url": "https://cc.radiomoris.com:9443/live",
+       "tags": [
+        "trance_goa",
+        "soundtrack",
+        "world"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "various_eclectic": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "HitFM Mauritius",
+       "url": "http://node-03.zeno.fm:80/8e5h28q71bwtv",
+       "language_inferred": true
+      },
+      {
+       "name": "Tamam Radio Tv",
+       "url": "http://freeuk27.listen2myradio.com:11748/",
+       "language_inferred": true
+      }
+     ]
+    },
+    "world": {
+     "count": 7,
+     "stations": [
+      {
+       "name": "GigaIRC Network Radio",
+       "url": "http://r.gigairc.com:7240/stream/",
+       "language_inferred": true
+      },
+      {
+       "name": "KREOLE FM MAURICE",
+       "url": "https://stream.zeno.fm/4apdu2whzrhvv"
+      },
+      {
+       "name": "MBC Rodrigues FM",
+       "url": "http://mbcmediaserver.mbcradio.tv:1935/rodfm/livestream/playlist.m3u8"
+      },
+      {
+       "name": "Moris Live",
+       "url": "http://cp.radiomoris.com:443/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 230",
+       "url": "https://streamingv2.shoutcast.com/Radio230webradio",
+       "tags": [
+        "world",
+        "reggae_ska",
+        "news_talk",
+        "pop_hits",
+        "soul_rnb_funk",
+        "latin"
+       ]
+      },
+      {
+       "name": "Radio Moris",
+       "url": "http://cc.radiomoris.com/autodj",
+       "bitrate": 128,
+       "logo": "http://radio.pervii.com/im/9/1554014989.jpg",
+       "tags": [
+        "world",
+        "pop_hits",
+        "electronic",
+        "latin",
+        "reggae_ska"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Moris",
+       "url": "http://cc.radiomoris.com/stream",
+       "tags": [
+        "world",
+        "latin",
+        "reggae_ska"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 73,
+     "stations": [
+      {
+       "name": "013JinguChikku",
+       "url": "https://stream.zeno.fm/qf6uznzaa48uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Andalucia Chill Radio",
+       "url": "https://via.vulstream.com/radio/8220/radio.mp3?1580892059",
+       "language_inferred": true
+      },
+      {
+       "name": "Andalucia Chill Radio",
+       "url": "https://via.vulstream.com/radio/8220/radio.mp3?1589532218",
+       "language_inferred": true
+      },
+      {
+       "name": "ANOINTED",
+       "url": "https://stream.zeno.fm/78mcpdv5cxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "artistsbookingradio",
+       "url": "https://stream.zeno.fm/7ux4tcpeyy8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Aryon Air",
+       "url": "https://listen.radioking.com/radio/267061/stream/312340"
+      },
+      {
+       "name": "Avy mnss",
+       "url": "https://stream.zeno.fm/916kn1022yzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "citiz.fm",
+       "url": "https://stream.zeno.fm/20mbxq7et68uv"
+      },
+      {
+       "name": "Danny Trance Moris",
+       "url": "https://stream.zeno.fm/ds6acvbkfuhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Dipolair Radio",
+       "url": "http://listen.radionomy.com/DIPOLAIRRADIO?type=.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Discover Mauritius™ Radio",
+       "url": "https://streamer.radio.co/s7207b77cd/listen"
+      },
+      {
+       "name": "DJ Olivia",
+       "url": "https://stream.zeno.fm/u5neshskakhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Double M Radio",
+       "url": "https://stream.zeno.fm/gf9fd2dnb18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "DreamSky Radio",
+       "url": "http://91.121.134.182:8000/"
+      },
+      {
+       "name": "DreamSky Radio - Fresh Hit",
+       "url": "http://151.80.44.127:8248/stream.mp3"
+      },
+      {
+       "name": "FERadio",
+       "url": "https://stream.zeno.fm/mth9kwewfzzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Fun Radio – MU-PL",
+       "url": "http://svr.s1.blackbay.org:8000/",
+       "language_inferred": true
+      },
+      {
+       "name": "Hit Smile Radio",
+       "url": "https://stream.zeno.fm/wn9vdbardphvv",
+       "language_inferred": true
+      },
+      {
+       "name": "HITFM MAURICE RADIO",
+       "url": "https://stream.zeno.fm/24w2nm8p4gruv"
+      },
+      {
+       "name": "HITFM MAURITIUS",
+       "url": "https://stream.zeno.fm/0g7buqsfaittv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hits FM Mauritius",
+       "url": "http://192.99.201.132/hgb5sm8p4gruv"
+      },
+      {
+       "name": "International Christian Music and Hymns",
+       "url": "https://stream.zeno.fm/x6e5csebnf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Kreol Fm Maurice",
+       "url": "https://stream.zeno.fm/s732nabca48uv",
+       "language_inferred": true
+      },
+      {
+       "name": "KREOLE FM MAURICE",
+       "url": "https://stream.zeno.fm/yuk8k6m0y98tv"
+      },
+      {
+       "name": "La Vida Loca",
+       "url": "https://stream.zeno.fm/7hk4mvh5zf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "LifeInACity Radio",
+       "url": "https://stream.zeno.fm/ce8w9rhfbkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Lionel Hits FM",
+       "url": "https://stream.zeno.fm/0su5yr1d6f8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "LIONPAWRADIO",
+       "url": "https://stream.zeno.fm/576m7xdcpy8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Louange Maurice",
+       "url": "http://www.radioking.com/play/louange-maurice"
+      },
+      {
+       "name": "Louange Maurice – MU-PL",
+       "url": "https://api.radioking.io/radio/76270/listen.m3u",
+       "language_inferred": true
+      },
+      {
+       "name": "MAURITIUS MUSIC RADIO",
+       "url": "https://stream.zeno.fm/bp6w9y6qvy8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "MBC Best FM",
+       "url": "http://mbcmediaserver.mbcradio.tv:1935/bestfm/livestream/playlist.m3u8"
+      },
+      {
+       "name": "Mknock",
+       "url": "https://stream.zeno.fm/ac52csx3hc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Mknock",
+       "url": "https://stream.zeno.fm/raqfspx3hc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "MOZAIKK FM RADIO",
+       "url": "https://stream.zeno.fm/sq4dphyun7zuv"
+      },
+      {
+       "name": "MRB radio",
+       "url": "https://stream.zeno.fm/xp3hms7y0ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Music radio",
+       "url": "https://stream.zeno.fm/yt3y074xqfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "music radio",
+       "url": "https://stream.zeno.fm/hmncn55xqfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "NouRadio",
+       "url": "https://stream.zeno.fm/g2xyzp6qgzzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Onex FM",
+       "url": "http://198.178.123.2:9134/stream/1/",
+       "language_inferred": true
+      },
+      {
+       "name": "OUI Radio",
+       "url": "http://mu1stream.mushost.com:8080/"
+      },
+      {
+       "name": "PA Studio",
+       "url": "https://stream.zeno.fm/16gtnmg1urhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "procare",
+       "url": "https://stream.zeno.fm/yzprnzmqyhhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 230",
+       "url": "https://18093.live.streamtheworld.com/SP_R4228214_SC",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 230 Live",
+       "url": "https://18123.live.streamtheworld.com/SP_R4228214_SC",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Fred",
+       "url": "https://stream.zeno.fm/m0ckfmcs3ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Mauritius",
+       "url": "https://stream-58.zeno.fm/hgb5sm8p4gruv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio zen",
+       "url": "https://stream.zeno.fm/udmq5r4y8vzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Zilwa – MU-PL",
+       "url": "https://www.radioking.com/play/radio-zilwa3/416206",
+       "language_inferred": true
+      },
+      {
+       "name": "RadioPlus",
+       "url": "https://stream.zeno.fm/qu6smn32ss8uv"
+      },
+      {
+       "name": "RADIOPSLWEB",
+       "url": "https://freeuk21.listen2myradio.com/live.mp3?typeportmount=s1_24755_stream_486518283",
+       "language_inferred": true
+      },
+      {
+       "name": "Real Estate Media News Network",
+       "url": "https://stream.zeno.fm/gzvqgk989e9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Real Estate Media News Network",
+       "url": "https://stream.zeno.fm/01q53v989e9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Real Estate Media News Network",
+       "url": "https://stream.zeno.fm/50thezc6af9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Rede Mori",
+       "url": "http://91.121.115.187:9000/stream?type=.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Rock Mauritius Radio",
+       "url": "http://n04.radiojar.com/2v1ydmukb",
+       "language_inferred": true
+      },
+      {
+       "name": "SheShines",
+       "url": "https://stream.zeno.fm/11a0phtv008uv",
+       "language_inferred": true
+      },
+      {
+       "name": "SugarWave",
+       "url": "https://stream.zeno.fm/rsw82u73c48uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Sun Voice",
+       "url": "https://stream.zeno.fm/5bm5qt3m3p8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "TAMAM RADIO",
+       "url": "http://uk9freenew.listen2myradio.com:37692/stream.nsv",
+       "language_inferred": true
+      },
+      {
+       "name": "TAMAM RADIO",
+       "url": "http://freeuk22.listen2myradio.com:13420/stream"
+      },
+      {
+       "name": "Tamizen Radio",
+       "url": "https://stream.zeno.fm/17n06dsvvs8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Top FM",
+       "url": "https://s1.radioforge.com:4433/topfmlive/stream?hash=1663883843609.mp3?n=0cea7d9a109f6159befb",
+       "language_inferred": true
+      },
+      {
+       "name": "Top FM - Mauritius",
+       "url": "https://stream.zeno.fm/31cew292ss8uv"
+      },
+      {
+       "name": "Top web Radio",
+       "url": "https://stream.zeno.fm/ezufcsydswzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Tune FM Mauritius",
+       "url": "http://node-12.zeno.fm/hgb5sm8p4gruv?rj-ttl=5&amprj-tok=AAABft6PqvAAHVyAyeD8OAPzvw",
+       "language_inferred": true
+      },
+      {
+       "name": "Tzgospel (Mauritius)",
+       "url": "https://stream.zeno.fm/xqhd31q00ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Urban Radio Fm",
+       "url": "https://stream.zeno.fm/bcuw2a1d4zhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Web Mru Tv",
+       "url": "https://stream.zeno.fm/yrk3drubvv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "World Tamil FM",
+       "url": "http://69.46.24.226:7038/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "WUKU WUKU",
+       "url": "https://stream.zeno.fm/vexqfbv3iswuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Zero Alpha",
+       "url": "https://18193.live.streamtheworld.com/SAM10AAC078_SC",
+       "language_inferred": true
+      },
+      {
+       "name": "Zero Alpha",
+       "url": "http://26453.live.streamtheworld.com/SAM10AAC079_SC?n=5efcceff03e04b4a10dd",
+       "language_inferred": true
+      }
+     ]
+    }
+   }
+  },
+  "Hindi": {
+   "count": 8,
+   "genres": {
+    "bollywood_indian": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Plus - Indiz",
+       "url": "https://streamer.radio.co/sed5c5a375/listen",
+       "tags": [
+        "world",
+        "bollywood_indian",
+        "electronic"
+       ]
+      }
+     ]
+    },
+    "electronic": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "NRJ Maurice",
+       "url": "https://radio.mbconline.xyz/hls/musicfm.m3u8",
+       "tags": [
+        "news_talk",
+        "electronic",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "MBC Radio Mauritius",
+       "url": "https://radio.mbconline.xyz/hls/radiomauritus.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "oldies": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Taal FM",
+       "url": "https://radio.mbconline.xyz/hls/tallfm.m3u8",
+       "tags": [
+        "oldies",
+        "news_talk",
+        "world",
+        "bollywood_indian",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "HIT FM Mauritius",
+       "url": "http://stream.zeno.fm/0w57nzzzveruv"
+      }
+     ]
+    },
+    "soul_rnb_funk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Top FM",
+       "url": "http://s3.voscast.com:10152/",
+       "tags": [
+        "soul_rnb_funk",
+        "hip_hop_rap",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "world": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Taal FM Listen live",
+       "url": "https://mbcmediaserver.mbcradio.tv/hls-live/taalfm/_definst_/liveevent/livestream.m3u8",
+       "tags": [
+        "world",
+        "oldies"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "MBC Radio Mauritius",
+       "url": "http://mbcmediaserver.mbcradio.tv:1935/radiomauritius/livestream/playlist.m3u8"
+      }
+     ]
+    }
+   }
+  },
+  "English": {
+   "count": 5,
+   "genres": {
+    "electronic": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Kool FM",
+       "url": "https://radio.mbconline.xyz/hls/koolfm.m3u8",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "MBC Best FM",
+       "url": "https://radio.mbconline.xyz/hls/bestfm.m3u8",
+       "tags": [
+        "news_talk",
+        "electronic",
+        "pop_hits",
+        "world",
+        "bollywood_indian"
+       ]
+      }
+     ]
+    },
+    "rock": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Biker Hart Radio",
+       "url": "https://iono.fm/s/158",
+       "tags": [
+        "rock",
+        "oldies",
+        "pop_hits",
+        "decade_70s",
+        "decade_60s",
+        "decade_80s",
+        "decade_90s"
+       ]
+      },
+      {
+       "name": "Rocking Paradise",
+       "url": "https://162.13.25.174/2v1ydmukb.mp3?type=.mp3/stream.mp3",
+       "tags": [
+        "pop_hits",
+        "rock"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "MBC Radio Maurice",
+       "url": "http://www.mbcradio.tv/sites/all/themes/mbcradiotv/radiostreams/radiomaurice.m3u8"
+      }
+     ]
+    }
+   }
+  },
+  "Multilingual": {
+   "count": 5,
+   "genres": {
+    "bollywood_indian": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "MBC – Best FM",
+       "url": "http://202.123.27.133/hls-live/audio-only/bestfm/_definst_/liveevent/livestream.m3u8",
+       "tags": [
+        "world",
+        "news_talk",
+        "bollywood_indian",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Top FM Radio",
+       "url": "https://s1.radioforge.com:4433/topfmlive/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "various_eclectic"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "MBC Kool FM",
+       "url": "http://www.mbcradio.tv/sites/all/themes/mbcradiotv/radiostreams/koolfm.m3u8"
+      },
+      {
+       "name": "MBC Radio Mauritius",
+       "url": "http://www.mbcradio.tv/sites/all/themes/mbcradiotv/radiostreams/radiomauritius.m3u8"
+      },
+      {
+       "name": "Rock Mauritius Radio",
+       "url": "http://ample-09.radiojar.com/2v1ydmukb"
+      }
+     ]
+    }
+   }
+  },
+  "Tamil": {
+   "count": 2,
+   "genres": {
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Tamizen Radio",
+       "url": "https://c34.radioboss.fm:18023/stream",
+       "tags": [
+        "news_talk",
+        "folk",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Onex FM radio",
+       "url": "https://stream.zeno.fm/0yghnxlsihdvv"
+      }
+     ]
+    }
+   }
+  },
+  "Afrikaans": {
+   "count": 1,
+   "genres": {
+    "decade_80s": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Biltong.mu Radio",
+       "url": "http://s3.radio.co/s135e9edde/listen",
+       "tags": [
+        "pop_hits",
+        "decade_80s"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Malagasy": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "FMFOI INTERNATIONAL LIVE",
+       "url": "https://stream.zeno.fm/rupeuytsspxtv"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

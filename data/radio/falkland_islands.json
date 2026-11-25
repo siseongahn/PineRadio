@@ -1,0 +1,127 @@
+{
+ "country": "Falkland Islands",
+ "count": 13,
+ "languages": {
+  "English": {
+   "count": 11,
+   "genres": {
+    "house": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "BEHAPPY FM Listen live",
+       "url": "https://stream.laut.fm/behappyfm?ref=radiode",
+       "language_inferred": true
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "BFBS Falkland Islands",
+       "url": "http://edge-audio-05-gos2.sharp-stream.com/ssvcbfbs6.mp3"
+      },
+      {
+       "name": "BFBS Falkland Islands radio",
+       "url": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs6.aac",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Falklands Radio",
+       "url": "http://streaming.broadcastradio.com:8330/flklnd",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Falklands Radio 530 Stanley",
+       "url": "https://streaming.broadcastradio.com:8332/flklnd",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "BFBS Falkland Islands",
+       "url": "http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs6.mp3",
+       "tags": [
+        "pop_hits",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 5,
+     "stations": [
+      {
+       "name": "BSR Radio",
+       "url": "https://stream.zeno.fm/hbeyechem48uv",
+       "language_inferred": true
+      },
+      {
+       "name": "E.B.M. Tube",
+       "url": "https://stream.zeno.fm/kztk16n7ifwvv",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO JM",
+       "url": "https://stream.zeno.fm/p4h6zuug1d0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "signuptest",
+       "url": "https://stream.zeno.fm/gmhabz7v2a0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Wetees.",
+       "url": "https://stream.zeno.fm/izhwn7dibkruv",
+       "language_inferred": true
+      }
+     ]
+    }
+   }
+  },
+  "Portuguese": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Pirata",
+       "url": "https://stream.zeno.fm/ff3c8bh6sk8uv"
+      }
+     ]
+    }
+   }
+  },
+  "Swahili": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Tzgospel swahili",
+       "url": "https://stream.zeno.fm/udzy88d7kfhvv"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

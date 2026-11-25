@@ -1,0 +1,148 @@
+{
+ "country": "Turkmenistan",
+ "count": 17,
+ "languages": {
+  "Turkmen": {
+   "count": 16,
+   "genres": {
+    "comedy": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Arabeskfm",
+       "url": "https://stream.zeno.fm/0vqhxmn9mf9uv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "folk": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Owaz",
+       "url": "http://217.174.238.20:8000/music.mp3",
+       "tags": [
+        "folk",
+        "news_talk",
+        "classical"
+       ]
+      },
+      {
+       "name": "Radio Owaz",
+       "url": "http://217.174.238.16:8000/Owaz.m3u",
+       "tags": [
+        "classical",
+        "folk"
+       ]
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 5,
+     "stations": [
+      {
+       "name": "Azatlyk Radiosy",
+       "url": "http://rfe-channel-08.akacast.akamaistream.net/7/873/229658/v1/ibb.akacast.akamaistream.net/rfe_channel_08.mp3",
+       "tags": [
+        "college_community",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Radio Miras",
+       "url": "https://radio.telecom.tm/miras.mp3"
+      },
+      {
+       "name": "Radio Miras radio",
+       "url": "http://217.174.238.16:8000/Miras",
+       "tags": [
+        "news_talk",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Watan",
+       "url": "https://radio.telecom.tm/watan.mp3",
+       "tags": [
+        "news_talk",
+        "islamic_quran"
+       ]
+      },
+      {
+       "name": "Radio Çar Tarapdan",
+       "url": "https://radio.telecom.tm/tarap.mp3"
+      }
+     ]
+    },
+    "rock": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "bigFM ROCK AM RING Listen live",
+       "url": "https://streams.bigfm.de/bigfm-rockamring-128-aac?usid=0-0-H-A-D-01",
+       "tags": [
+        "rock",
+        "pop_hits",
+        "decade_80s"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 7,
+     "stations": [
+      {
+       "name": "arabeskfm",
+       "url": "https://stream.zeno.fm/at0n3m4dxf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Music Radio",
+       "url": "http://217.174.238.16:8000/music.mp3"
+      },
+      {
+       "name": "Radio The Everly Brothers",
+       "url": "https://stream.zeno.fm/f14kffw9c8zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "testing 4",
+       "url": "https://stream.zeno.fm/rq888tznsg8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "TR1 Watan – TM",
+       "url": "http://217.174.238.16:8000/Watan",
+       "language_inferred": true
+      },
+      {
+       "name": "TR4 Owaz – TM",
+       "url": "https://radio.telecom.tm/owaz.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Türkmen Radio FM Online",
+       "url": "https://stream.zeno.fm/gdvbyz7zfgavv"
+      }
+     ]
+    }
+   }
+  },
+  "English": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Tzgospel",
+       "url": "https://stream.zeno.fm/4szvhrxvcfhvv"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,208 @@
+{
+ "country": "Mauritania",
+ "count": 19,
+ "languages": {
+  "Arabic": {
+   "count": 15,
+   "genres": {
+    "christian_gospel": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "إذاعة القرآن الكريم - Radio Coran Listen live",
+       "url": "https://radiocoran.ice.infomaniak.ch/radiocoran.aac",
+       "tags": [
+        "islamic_quran",
+        "christian_gospel",
+        "rock",
+        "pop_hits",
+        "decade_80s",
+        "news_talk"
+       ]
+      }
+     ]
+    },
+    "folk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Diiwaan Daarel Barka",
+       "url": "https://c4.radioboss.fm:18154/stream",
+       "tags": [
+        "news_talk",
+        "folk"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "metal": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Radio Interativa Listen live",
+       "url": "https://player-ssl.kshost.com.br:10416/live",
+       "tags": [
+        "rock",
+        "techno",
+        "news_talk",
+        "latin",
+        "ambient_relax",
+        "metal",
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Total Metal Radio",
+       "url": "http://www.enseignement-superieur.mr/stream/1listen.pls",
+       "tags": [
+        "metal",
+        "classical"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "RADIO CORAN",
+       "url": "https://www.radiomauritanie.mr/sites/default/files/audio/chre.mp3",
+       "tags": [
+        "news_talk",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Radio Mauritanie",
+       "url": "https://radiomauritaniechaine1.ice.infomaniak.ch/radiomauritaniechaine1.aac",
+       "tags": [
+        "news_talk",
+        "sports",
+        "pop_hits",
+        "christian_gospel",
+        "world"
+       ]
+      },
+      {
+       "name": "Radio Sawa Mauritania",
+       "url": "https://mbn-channel-08.akacast.akamaistream.net/7/22/233457/v1/ibb.akacast.akamaistream.net/mbn_channel_08",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "oldies"
+       ]
+      }
+     ]
+    },
+    "rock": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Giglio Listen live",
+       "url": "https://sr8.inmystream.it:8008/server",
+       "tags": [
+        "rock",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 7,
+     "stations": [
+      {
+       "name": "ARAC NEWS",
+       "url": "https://stream.zeno.fm/swr1bn2frd0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "DJSaed",
+       "url": "https://stream.zeno.fm/nd10q1bc8ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "FM Gabriel",
+       "url": "https://stream.zeno.fm/6459d2bzxc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Ouloumbonie Fm",
+       "url": "https://stream.zeno.fm/1155634pmxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "radiopekela Christmas station",
+       "url": "https://stream.zeno.fm/nf4umsv3qf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RIM H24",
+       "url": "https://stream.zeno.fm/3ypw0vp2echvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Salam FM CH 2",
+       "url": "https://stream.zeno.fm/ydsz0gx0gm0uv"
+      }
+     ]
+    }
+   }
+  },
+  "French": {
+   "count": 3,
+   "genres": {
+    "hip_hop_rap": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "RapRim Radio",
+       "url": "http://50.7.129.122:8466/"
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Medi1 Radio Afrique",
+       "url": "https://live.medi1.com/medi3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Mauritanie",
+       "url": "https://stream.zeno.fm/pfwwfma8uwzuv"
+      }
+     ]
+    }
+   }
+  },
+  "Swahili": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Tzgospel swahili",
+       "url": "https://stream.zeno.fm/2att16g8kfhvv"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

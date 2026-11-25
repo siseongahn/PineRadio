@@ -1,0 +1,5556 @@
+{
+ "country": "Nepal",
+ "count": 925,
+ "languages": {
+  "Nepali": {
+   "count": 905,
+   "genres": {
+    "alternative_indie": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Machhapuchhre FM",
+       "url": "http://fishtailfm.com:8000/stream2/stream.mp3",
+       "tags": [
+        "alternative_indie",
+        "country"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "WFAX Christian Radio for the Nation's Capital 1220AM|100.7FM",
+       "url": "http://38.86.49.3:9727",
+       "tags": [
+        "news_talk",
+        "alternative_indie",
+        "oldies",
+        "christian_gospel",
+        "bollywood_indian",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "ambient_relax": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Himal Radio - Bhajans",
+       "url": "http://streaming.webhostnepal.com:8070/stream/",
+       "tags": [
+        "christian_gospel",
+        "ambient_relax"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "blues": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Makalu 102 1 Mhz",
+       "url": "http://websoftuniversity.com.np:9912/stream/1",
+       "tags": [
+        "drum_and_bass",
+        "blues"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      }
+     ]
+    },
+    "bollywood_indian": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "CFM 94.7 MHz",
+       "url": "https://live.itech.host:8391/live",
+       "language_inferred": true
+      },
+      {
+       "name": "Himal Radio",
+       "url": "http://144.76.110.138:9900/"
+      },
+      {
+       "name": "Radio Thaha Sanchar",
+       "url": "http://streaming.softnep.net:8025/stream",
+       "tags": [
+        "world",
+        "bollywood_indian"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "christian_gospel": {
+     "count": 10,
+     "stations": [
+      {
+       "name": "Good News FM",
+       "url": "http://live.itech.host:8162/stream",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Good News FM",
+       "url": "https://live.itech.host:8167/stream?1611505122592",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Radio Buddha Awaaz",
+       "url": "http://live.itechnepal.com:9353/stream",
+       "tags": [
+        "christian_gospel",
+        "college_community",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Kantipur",
+       "url": "http://radio-broadcast.ekantipur.com:7248/stream",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Saligram radio",
+       "url": "http://live.itechnepal.com:9341/stream",
+       "tags": [
+        "pop_hits",
+        "christian_gospel",
+        "islamic_quran"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Siempre Cristo",
+       "url": "https://stream.zenolive.com/2w81t82wx3duv",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "True Life in God Radio Nepali",
+       "url": "https://stream.tligradio.org/listen/nepali/radio.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "True Life in God Radio Nepali",
+       "url": "http://46.28.49.164:7784/stream",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "True Life in God Radio Nepali",
+       "url": "https://stream.galaxywebsolutions.com/proxy/tligradio_ne?mp=/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "True Life In God Radio Nepali",
+       "url": "http://stream80.tligradio.org/proxy/tligradio_ne?mp=/",
+       "language_inferred": true
+      }
+     ]
+    },
+    "classical": {
+     "count": 8,
+     "stations": [
+      {
+       "name": "Classic FM",
+       "url": "https://radio-streaming-serv-1.hamropatro.com/radio/8060/radio.mp3",
+       "tags": [
+        "classical",
+        "oldies"
+       ]
+      },
+      {
+       "name": "Classic FM",
+       "url": "http://23.252.113.108:8060/stream.mp3",
+       "tags": [
+        "pop_hits",
+        "classical",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Himal Radio",
+       "url": "http://144.76.110.138:9950",
+       "language_inferred": true
+      },
+      {
+       "name": "Himal Radio - Nepali Classic",
+       "url": "https://streaming.webhostnepal.com/8060/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Jayaprithvi F.M. radio",
+       "url": "https://streaming.softnep.net:10824/stream.nsv",
+       "language_inferred": true
+      },
+      {
+       "name": "Jayaprithvi FM",
+       "url": "https://streaming.softnep.net:10824/"
+      },
+      {
+       "name": "Radio Annapurna",
+       "url": "http://live.itechnepal.com:8964/stream",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "classical",
+        "easy_listening",
+        "kids",
+        "folk"
+       ]
+      },
+      {
+       "name": "Radio Mithila",
+       "url": "http://streaming.hamropatro.com:8244/",
+       "tags": [
+        "classical",
+        "pop_hits",
+        "world",
+        "various_eclectic"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "college_community": {
+     "count": 7,
+     "stations": [
+      {
+       "name": "antennafoundation",
+       "url": "http://216.55.141.189:8290/",
+       "language_inferred": true
+      },
+      {
+       "name": "ARK FM",
+       "url": "https://stream.zeno.fm/bfeoaqiomuquv",
+       "language_inferred": true
+      },
+      {
+       "name": "Dinesh FM 938 MHZ",
+       "url": "https://live.itech.host:3985/stream"
+      },
+      {
+       "name": "Jagaran FM",
+       "url": "http://144.76.110.138:9340/stream"
+      },
+      {
+       "name": "Radio Saligram",
+       "url": "http://live.itech.host:9341/stream",
+       "tags": [
+        "various_eclectic",
+        "college_community"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Tanahun FM",
+       "url": "http://live.itechnepal.com:8976/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Zezo dos teclados",
+       "url": "https://stream.zeno.fm/fvwc8xueg0hvv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "comedy": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Audio Pvt Ltd",
+       "url": "https://stream.zeno.fm/8cshr82wx3duv"
+      }
+     ]
+    },
+    "country": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Chitwan Online FM",
+       "url": "https://crs.webdesign-flash.ro/?q=http://streaming.hamropatro.com:8603/&plugin_id=7628&site_id=8520577",
+       "tags": [
+        "news_talk",
+        "country"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Citizen FM 97.5",
+       "url": "http://144.76.110.138:9870/"
+      },
+      {
+       "name": "Radio Miteri",
+       "url": "http://streaming.softnep.net:8053/stream",
+       "tags": [
+        "country",
+        "classical"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 12,
+     "stations": [
+      {
+       "name": "Capital FM 92.4 MHz",
+       "url": "http://streaming.softnep.net:8037/stream",
+       "tags": [
+        "easy_listening",
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Image FM radio",
+       "url": "https://radio-streaming-serv-1.hamropatro.com:8100/radio.mp3",
+       "tags": [
+        "easy_listening",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Image News FM",
+       "url": "https://stream.zenolive.com/s8nwmkn7bq5tv",
+       "language_inferred": true
+      },
+      {
+       "name": "Image News FM radio",
+       "url": "https://radio-streaming-serv-1.hamropatro.com:8110/radio.mp3",
+       "tags": [
+        "pop_hits",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Annapurna Nepal radio",
+       "url": "https://shoutcast.prixa.live/annapurna",
+       "tags": [
+        "easy_listening",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Prabhu",
+       "url": "https://live.itech.host:8921/stream?1619181403867",
+       "tags": [
+        "pop_hits",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Radio Sagarmatha",
+       "url": "https://radiosagarmatha.org.np/wp-content/uploads/2018/01/Bhairab-Sir.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Sagarmatha radio",
+       "url": "http://194.233.67.236:9300/\\u0026autostart=true",
+       "tags": [
+        "easy_listening",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Triveni radio",
+       "url": "http://www.radiotriveni.org/live",
+       "tags": [
+        "pop_hits",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Sumhatlung FM radio",
+       "url": "http://144.76.110.138:9360",
+       "tags": [
+        "news_talk",
+        "easy_listening",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Times FM radio",
+       "url": "https://astream.nepalipatro.com.np:8119/index.html",
+       "tags": [
+        "easy_listening",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Tinau FM radio",
+       "url": "https://streaming.softnep.net:10854/stream.nsvtype=mp3\\u0026ampvolume=70",
+       "tags": [
+        "easy_listening",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "electronic": {
+     "count": 8,
+     "stations": [
+      {
+       "name": "All Free Nepali Geet radio",
+       "url": "http://192.190.84.25:9956/stream.mp3",
+       "tags": [
+        "electronic",
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "BFBS Gurkha Radio",
+       "url": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs3.aac",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Deuda Radio",
+       "url": "http://live.itechnepal.com:9088/stream"
+      },
+      {
+       "name": "Ganatantra FM radio",
+       "url": "http://live.itech.host:9162/stream",
+       "tags": [
+        "electronic",
+        "rock",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Nagarik FM 107.5",
+       "url": "https://live.itech.host:4675/stream?type=.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Nagarik FM radio",
+       "url": "http://live.itechnepal.com:7031/stream",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Chahana radio",
+       "url": "http://fm.mycomputersathi.com:5108/",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Dhading 106",
+       "url": "http://live.itechnepal.com:9449/stream",
+       "tags": [
+        "pop_hits",
+        "various_eclectic",
+        "electronic"
+       ]
+      }
+     ]
+    },
+    "folk": {
+     "count": 13,
+     "stations": [
+      {
+       "name": "Butwal FM",
+       "url": "http://streaming.softnep.net:8003/",
+       "tags": [
+        "news_talk",
+        "folk",
+        "classical"
+       ]
+      },
+      {
+       "name": "Choice FM",
+       "url": "http://live.itechnepal.com:8466/stream",
+       "tags": [
+        "soundtrack",
+        "pop_hits",
+        "folk",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Dinesh FM",
+       "url": "http://radio.itechnepal.com:8988/live",
+       "tags": [
+        "folk",
+        "various_eclectic",
+        "bollywood_indian",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Gurung Radio",
+       "url": "http://live.itechnepal.com:9052/stream"
+      },
+      {
+       "name": "HBC Shakti Radio",
+       "url": "http://live.itechnepal.com:8541/stream",
+       "tags": [
+        "folk",
+        "world",
+        "christian_gospel"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Lok Geet Radio",
+       "url": "http://167.114.64.181:8220/"
+      },
+      {
+       "name": "Nepali Radio",
+       "url": "https://onlineradiobox.com/json/np/himalaya/play?platform=web"
+      },
+      {
+       "name": "Radio Chitwan  radio",
+       "url": "http://148.66.135.69:9914/stream.nsv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Darpan radio",
+       "url": "http://streaming.softnep.net:8297/stream",
+       "tags": [
+        "pop_hits",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Namaste radio",
+       "url": "http://live.itechnepal.com:8338/stream?type=.mp3",
+       "tags": [
+        "pop_hits",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Resunga",
+       "url": "https://live.itech.host:3260/stream",
+       "tags": [
+        "folk",
+        "pop_hits",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Shaileshwori",
+       "url": "https://live.itech.host:8268/stream",
+       "tags": [
+        "folk",
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Unique FM",
+       "url": "https://streaming.softnep.net:10941/stream.nsv&type=mp3&volume=70",
+       "tags": [
+        "news_talk",
+        "folk"
+       ]
+      }
+     ]
+    },
+    "hip_hop_rap": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Saptakoshi FM",
+       "url": "https://live.itech.host:4535/stream",
+       "tags": [
+        "electronic",
+        "folk",
+        "hip_hop_rap",
+        "easy_listening",
+        "country",
+        "pop_hits",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Syangja Internet Radio",
+       "url": "http://stream.zeno.fm/fzqwdre3mp8uv",
+       "tags": [
+        "pop_hits",
+        "college_community",
+        "easy_listening",
+        "folk",
+        "oldies",
+        "hip_hop_rap",
+        "rock",
+        "classical",
+        "country",
+        "electronic",
+        "bollywood_indian",
+        "world"
+       ]
+      }
+     ]
+    },
+    "jazz": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Moksh Revolution Radio",
+       "url": "http://streaming.softnep.net:8073/",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "blues",
+        "classical",
+        "electronic",
+        "metal",
+        "jazz"
+       ]
+      }
+     ]
+    },
+    "kids": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "Prime FM",
+       "url": "http://radio.itechnepal.net:8080/primefm/"
+      },
+      {
+       "name": "Radio Swagatam",
+       "url": "https://stream.zeno.fm/6458619fxs8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Starclass",
+       "url": "https://stream.zeno.fm/e15rbnkana0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Superb",
+       "url": "https://stream.zeno.fm/3sw3xv7pfa0uv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 275,
+     "stations": [
+      {
+       "name": "24 Asal Sathi Radio",
+       "url": "https://stream.zeno.fm/0whuy4nsfa1uv",
+       "language_inferred": true
+      },
+      {
+       "name": "24 Asal Sathi Radio",
+       "url": "https://stream-26.zeno.fm/0whuy4nsfa1uv"
+      },
+      {
+       "name": "24 Asal Sathi Radio",
+       "url": "https://stream.zeno.fm/wm86wxh2zqruv",
+       "tags": [
+        "various_eclectic",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "24 Nepali Online Radio",
+       "url": "https://stream.zenolive.com/v3e78tqm5gruv.aac",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "world"
+       ]
+      },
+      {
+       "name": "24 Nepali Online Radio",
+       "url": "https://crs.webdesign-flash.ro/?q=http://stream.zenolive.com/v3e78tqm5gruv&plugin_id=7628&site_id=8520577"
+      },
+      {
+       "name": "3 Angels Community Radio",
+       "url": "https://live.itech.host:7559/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Aarambha FM radio",
+       "url": "http://192.190.84.25:9982/",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Afno FM",
+       "url": "http://streaming.softnep.net:8103/"
+      },
+      {
+       "name": "Anbu FM",
+       "url": "https://stream.zeno.fm/5csru2np4bruv"
+      },
+      {
+       "name": "Antenna Foundation Nepal radio",
+       "url": "https://live.itech.host:8175/radio",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "BBC Nepali",
+       "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_nepali_radio",
+       "tags": [
+        "news_talk",
+        "world"
+       ]
+      },
+      {
+       "name": "Bhaktapur",
+       "url": "https://streaming.softnep.net:10846/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Bhaktapur FM",
+       "url": "http://49.236.212.220:88/broadwave.mp3"
+      },
+      {
+       "name": "Bulbule FM radio",
+       "url": "https://live.itech.host:8385/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Butwal FM",
+       "url": "http://streaming.softnep.net:8003/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Capital FM 92.4",
+       "url": "http://streaming.softnep.net:8037/",
+       "tags": [
+        "news_talk",
+        "world",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Capital FM 92.4 radio",
+       "url": "https://streaming.softnep.net:10982/stream.nsv\\u0026type=mp3\\u0026volume=10",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Capital FM Nepal",
+       "url": "http://streaming.softnep.net:8037/stream/1/",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Chitwan Online FM",
+       "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM04AAC227_SC",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Choice FM (Gorkha)",
+       "url": "http://radio.itechnepal.com:8466/live"
+      },
+      {
+       "name": "CIN Khabar",
+       "url": "https://streaming.softnep.net:10996/stream.nsv&type=mp3&volume=60?n=c3fbceabbb57fef5ae02",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "CIN Khabar radio",
+       "url": "https://streaming.softnep.net:10996/stream.nsv\\u0026type=mp3\\u0026volume=60",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "CJMC FM",
+       "url": "http://208.43.81.168:8812"
+      },
+      {
+       "name": "Classic FM 101.2",
+       "url": "https://tv-ingest.hamropatro.com/radio-live/classic/icecast.audio",
+       "tags": [
+        "news_talk",
+        "classical"
+       ]
+      },
+      {
+       "name": "Classic FM 101.2 radio",
+       "url": "http://live.itechnepal.com:8530/stream",
+       "tags": [
+        "news_talk",
+        "classical",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Daami Radio",
+       "url": "https://streaming.webhostnepal.com/8056/stream",
+       "tags": [
+        "sports",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Damauli FM 94.2 MHz radio",
+       "url": "https://radio-streaming-serv-2.hamropatro.com:8310/radio.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Dhawalagiri FM",
+       "url": "http://shoutcast.itechnepal.net:8098/"
+      },
+      {
+       "name": "Dhukdhuki FM",
+       "url": "http://37.59.42.207:8238/",
+       "language_inferred": true
+      },
+      {
+       "name": "Eagle FM radio",
+       "url": "http://live.itechnepal.com:9048/stream",
+       "tags": [
+        "news_talk",
+        "folk"
+       ]
+      },
+      {
+       "name": "Everest Radio 24/7",
+       "url": "http://fm.mycomputersathi.net:5058/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "FL24 Radio Listen live",
+       "url": "https://fl24radio.radioca.st/server",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Galyang FM",
+       "url": "https://live.itech.host:9107/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "GoalNepal Radio",
+       "url": "http://206.51.239.96:8129/",
+       "tags": [
+        "news_talk",
+        "sports"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Good News FM",
+       "url": "http://radio.itechnepal.com:8162/live",
+       "tags": [
+        "news_talk",
+        "christian_gospel"
+       ]
+      },
+      {
+       "name": "Good News FM",
+       "url": "https://www.liveradio.es/http://live.itech.host:8162/stream",
+       "tags": [
+        "news_talk",
+        "christian_gospel"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Grace FM 107.6 radio",
+       "url": "http://live.itechnepal.com:9413/stream?type=.mp3",
+       "tags": [
+        "news_talk",
+        "folk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Gunjan FM",
+       "url": "https://onlineradiobox.com/json/np/gunjan/play?platform=web",
+       "tags": [
+        "news_talk",
+        "folk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Gunjan FM radio",
+       "url": "http://live.itechnepal.com:9437/stream",
+       "tags": [
+        "news_talk",
+        "folk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Guras Fm radio",
+       "url": "https://listen.shoutcast.com/guras-fm",
+       "tags": [
+        "news_talk",
+        "world"
+       ]
+      },
+      {
+       "name": "Hajurko Radio",
+       "url": "http://live.itechnepal.com:9515/stream",
+       "tags": [
+        "news_talk",
+        "sports",
+        "world"
+       ]
+      },
+      {
+       "name": "Hamro Malika FM",
+       "url": "http://radio.itechnepal.com:9533/live"
+      },
+      {
+       "name": "Hamro Radio (Dolakhā)",
+       "url": "http://radio.itechnepal.com:9551/live"
+      },
+      {
+       "name": "Hamro Radio 103.4",
+       "url": "http://live.itechnepal.com:9551/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "folk",
+        "college_community"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Himal FM",
+       "url": "http://38.135.36.125:9727/"
+      },
+      {
+       "name": "Himal FM 90.2",
+       "url": "http://streaming.hamropatro.com:8224/",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Himal Radio - Hindi Ghazals",
+       "url": "http://streaming.webhostnepal.com:8018/stream/",
+       "language_inferred": true
+      },
+      {
+       "name": "Himalaya FM Network radio",
+       "url": "http://streaming.hamropatro.com:8034/",
+       "tags": [
+        "news_talk",
+        "folk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Ilam FM",
+       "url": "http://radio.itechnepal.com:9635/live"
+      },
+      {
+       "name": "Image 97.9 FM",
+       "url": "http://streaming.hamropatro.com:8631/",
+       "tags": [
+        "news_talk",
+        "college_community"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Image FM",
+       "url": "https://radio-streaming-serv-1.hamropatro.com/radio/8040/radio.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "world"
+       ]
+      },
+      {
+       "name": "Image FM",
+       "url": "http://182.50.64.136:89/broadwave.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Image News",
+       "url": "http://streaming.hamropatro.com:8631/stream.mp3",
+       "tags": [
+        "news_talk",
+        "world"
+       ]
+      },
+      {
+       "name": "Image News FM",
+       "url": "https://radio-streaming-serv-1.hamropatro.com/radio/8050/radio.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Indreni FM (Ghorahi)",
+       "url": "http://shoutcast.itechnepal.net:8140/"
+      },
+      {
+       "name": "Jagaran FM (Surkhet)",
+       "url": "http://radio.itechnepal.com:9647/live"
+      },
+      {
+       "name": "Janaki FM",
+       "url": "http://radio.itechnepal.com:9671/live"
+      },
+      {
+       "name": "Kalika FM",
+       "url": "http://kalika-stream.softnep.com:7740/",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "world"
+       ]
+      },
+      {
+       "name": "Kalinchowk FM",
+       "url": "http://streaming.softnep.net:8109"
+      },
+      {
+       "name": "Kanchanjungha FM",
+       "url": "http://live.itechnepal.com:8420/live",
+       "language_inferred": true
+      },
+      {
+       "name": "Kanchanjungha FM (Jhāpā Bajār)",
+       "url": "http://radio.itechnepal.com:8420/live"
+      },
+      {
+       "name": "Kantipur FM",
+       "url": "http://broadcast.radiokantipur.com:7248/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Keeps FM",
+       "url": "http://streaming.hamropatro.com:8385/"
+      },
+      {
+       "name": "Khandbari FM 105.8",
+       "url": "http://live.itechnepal.com:8286/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "college_community"
+       ]
+      },
+      {
+       "name": "Khasyauli FM",
+       "url": "http://38.107.242.90:8016/"
+      },
+      {
+       "name": "Khumbu FM 93.2",
+       "url": "http://91.121.113.129:8278/stream"
+      },
+      {
+       "name": "Krishnasar FM",
+       "url": "http://live.itech.host:8429/live",
+       "tags": [
+        "news_talk",
+        "folk",
+        "college_community",
+        "world"
+       ]
+      },
+      {
+       "name": "Krishnasar FM",
+       "url": "https://live.itech.host:8434/live?type=.mp3",
+       "tags": [
+        "news_talk",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Krishnasar FM radio",
+       "url": "https://live.itech.host:8434/stream",
+       "tags": [
+        "news_talk",
+        "folk"
+       ]
+      },
+      {
+       "name": "Manakamana FM radio",
+       "url": "http://live.itechnepal.com:1745/stream?type=.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Mithilanchal FM radio",
+       "url": "http://radio.itechnepal.com:8640/live",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Namaste FM",
+       "url": "http://live.itech.host:7014/live",
+       "tags": [
+        "news_talk",
+        "college_community"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Namaste FM",
+       "url": "http://core.itech.host:7014/stream"
+      },
+      {
+       "name": "Narayani FM 103.8",
+       "url": "https://radio.appharu.com/8004/stream",
+       "tags": [
+        "various_eclectic",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Navajyoti FM radio",
+       "url": "http://live.itechnepal.com:8288/stream?type=.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Naya Fm",
+       "url": "https://eu4.fastcast4u.com/proxy/nayafm?mp=/mp3",
+       "tags": [
+        "news_talk",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Nepal FM 91.8",
+       "url": "http://streaming.hamropatro.com:8230/"
+      },
+      {
+       "name": "Nepal FM radio",
+       "url": "https://stream.zeno.fm/x6ha61ykvy8uv",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Nepal11 Radio",
+       "url": "http://s8.voscast.com:9552",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Nepaliko Radio",
+       "url": "https://streaming.webhostnepal.com/9888/",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Nepaliko Radio",
+       "url": "http://streaming.webhostnepal.com:9888/",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "world",
+        "college_community"
+       ]
+      },
+      {
+       "name": "Nepaliko Radio Network",
+       "url": "http://144.76.110.138:9888/",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Ninglasaini FM radio",
+       "url": "http://live.itechnepal.com:8622/stream?type=.mp3",
+       "tags": [
+        "news_talk",
+        "folk",
+        "christian_gospel",
+        "islamic_quran"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Pathibhara FM",
+       "url": "http://live.itechnepal.com:8744/stream",
+       "tags": [
+        "news_talk",
+        "easy_listening",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Pathibhara FM radio",
+       "url": "https://live.itech.host:8749/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Pradesh FM",
+       "url": "http://live.itechnepal.com:8021/stream?type=.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Aandhikhola",
+       "url": "https://live.itech.host:8863/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Amargadhi",
+       "url": "http://live.itech.host:8922/live",
+       "tags": [
+        "college_community",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Amargadhi radio",
+       "url": "https://live.itech.host:8927/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "various_eclectic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Annapurna Nepal",
+       "url": "http://streaming.softnep.net:8091/",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "world"
+       ]
+      },
+      {
+       "name": "Radio Arpan 104.5",
+       "url": "http://192.190.84.25:9950"
+      },
+      {
+       "name": "Radio Artha Sarokar",
+       "url": "http://live.itech.host:2430/stream"
+      },
+      {
+       "name": "Radio Audio",
+       "url": "https://crs.webdesign-flash.ro/?q=http://stream.zenolive.com/fvrx47wpg0quv&plugin_id=7628&site_id=8520577",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Audio",
+       "url": "http://streaming.softnep.net:8049/stream.mp3",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Audio 106.3 FM",
+       "url": "https://stream.zeno.fm/2w81t82wx3duv",
+       "tags": [
+        "news_talk",
+        "comedy",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Bandipur radio",
+       "url": "http://live.itechnepal.com:8368/stream?type=.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Barahi",
+       "url": "http://core.itech.host:7015/stream",
+       "tags": [
+        "news_talk",
+        "college_community"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Belauri radio",
+       "url": "http://live.itechnepal.com:9030/stream?type=.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Bheri",
+       "url": "https://live.itech.host:9065/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Bheri (Surkhet)",
+       "url": "http://radio.itechnepal.com:9060/live"
+      },
+      {
+       "name": "Radio Bheriganga radio",
+       "url": "http://live.itechnepal.com:8001/stream",
+       "tags": [
+        "news_talk",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO BHOJPUR",
+       "url": "http://live.itechnepal.com:9078/stream?type=.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Bhorukawa",
+       "url": "http://live.itechnepal.com:8374/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Bhorukawa",
+       "url": "http://radio.itechnepal.com:8374/live"
+      },
+      {
+       "name": "Radio Bhorukawa radio",
+       "url": "https://live.itech.host:8379/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Bihani",
+       "url": "http://live.itech.host:9108/live",
+       "tags": [
+        "news_talk",
+        "college_community"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Birat radio",
+       "url": "http://live.itechnepal.com:9168/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Buddha Awaaz",
+       "url": "https://live.itech.host:9358/stream",
+       "tags": [
+        "news_talk",
+        "christian_gospel"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Buddha Awaaz (Kapilavastu)",
+       "url": "http://radio.itechnepal.com:9353/live",
+       "tags": [
+        "news_talk",
+        "various_eclectic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Chautari",
+       "url": "http://radio.itechnepal.com:9383/live"
+      },
+      {
+       "name": "Radio Chhahari radio",
+       "url": "http://162.241.236.81:9300/",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Chitwan",
+       "url": "http://148.66.135.69:9914/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio City",
+       "url": "http://38.107.242.90:8006/"
+      },
+      {
+       "name": "Radio Cyber Sangam",
+       "url": "http://50.7.184.106:8659"
+      },
+      {
+       "name": "Radio Dhading",
+       "url": "http://radio.itechnepal.com:9449/live"
+      },
+      {
+       "name": "Radio Dhading",
+       "url": "http://live.itech.host:9449/live",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Dhading radio",
+       "url": "https://live.itech.host:9454/stream?1607165009841",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Dhangadhi radio",
+       "url": "http://streaming.hamropatro.com:8617/",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Dhorbarahi",
+       "url": "https://live.itech.host:9491/stream"
+      },
+      {
+       "name": "Radio Dhorbarahi (Tanahun)",
+       "url": "http://radio.itechnepal.com:9491/live"
+      },
+      {
+       "name": "Radio Dhorbarahi 103.8",
+       "url": "http://live.itech.host:9491/live",
+       "tags": [
+        "news_talk",
+        "college_community"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Dhorbarahi radio",
+       "url": "http://live.itechnepal.com:9491/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Dhurbatara Samudayik",
+       "url": "http://radio.itechnepal.com:8834/live"
+      },
+      {
+       "name": "Radio Dhurbatara Samudayik radio",
+       "url": "http://live.itechnepal.com:8834/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Didi Bahini",
+       "url": "http://live.itechnepal.com:8326/stream",
+       "tags": [
+        "news_talk",
+        "various_eclectic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Didi Bahini",
+       "url": "http://radio.itechnepal.com:8326/live"
+      },
+      {
+       "name": "Radio Dolpa radio",
+       "url": "http://live.itechnepal.com:8332/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Gandaki",
+       "url": "http://radio.itechnepal.com:9689/live"
+      },
+      {
+       "name": "Radio Gandaki radio",
+       "url": "http://live.itechnepal.com:9689/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Gurbaba",
+       "url": "http://radio.itechnepal.com:8658/live"
+      },
+      {
+       "name": "Radio Gurbaba radio",
+       "url": "http://live.itechnepal.com:8658/stream?type=.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Hamro Pahunch",
+       "url": "http://radio.itechnepal.com:8688/live"
+      },
+      {
+       "name": "Radio Hamro Paila radio",
+       "url": "https://live.itech.host:8719/stream",
+       "tags": [
+        "news_talk",
+        "folk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Harpal 90.9 MHz radio",
+       "url": "http://radio.online.org.np:9090/stream.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Jaljala (Liwang)",
+       "url": "http://radio.itechnepal.com:8144/live"
+      },
+      {
+       "name": "Radio Jaljala 964",
+       "url": "http://live.itechnepal.com:8144/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Janani",
+       "url": "http://live.itechnepal.com:8768/stream?type=.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Janapriya radio",
+       "url": "http://live.itechnepal.com:8792/stream",
+       "tags": [
+        "news_talk",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Janata 89.1",
+       "url": "https://streaming.webhostnepal.com/8032/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Janata 89.1 radio",
+       "url": "https://streaming.webhostnepal.com:7016/stream.nsv\\u0026type=mp3\\u0026volume=70",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Janata 891",
+       "url": "http://144.76.110.138:9610/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Jay Madhes radio",
+       "url": "https://live.itech.host:3140/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Kolhabi 104.1 Mhz radio",
+       "url": "http://freeuk22.listen2myradio.com:38820/stream.nsv",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Laligurans 1052",
+       "url": "http://live.itechnepal.com:8928/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Lumbini",
+       "url": "http://streaming.softnep.net:8085",
+       "tags": [
+        "news_talk",
+        "college_community"
+       ]
+      },
+      {
+       "name": "Radio Lumbini",
+       "url": "http://streaming.softnep.net:8085/stream/",
+       "tags": [
+        "news_talk",
+        "college_community"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Lumbini",
+       "url": "http://streaming.softnep.net:8085/stream.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Madhesh Malangwa",
+       "url": "http://streaming.hamropatro.com:8417/",
+       "tags": [
+        "news_talk",
+        "college_community"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Madhya Paschim",
+       "url": "http://live.itech.host:9006/live",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Madhyabindu",
+       "url": "http://streaming.softnep.net:8077/stream.nsv&type=mp3&volume=60",
+       "tags": [
+        "news_talk",
+        "folk"
+       ]
+      },
+      {
+       "name": "Radio Madhyabindu radio",
+       "url": "http://streaming.softnep.net:8077/stream.nsv\\u0026type=mp3\\u0026volume=60",
+       "tags": [
+        "news_talk",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Madhyapaschim",
+       "url": "http://live.itechnepal.com:9006/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "folk",
+        "islamic_quran",
+        "christian_gospel"
+       ]
+      },
+      {
+       "name": "Radio Madhyapaschim (Tribhuvannagar)",
+       "url": "http://radio.itechnepal.com:9006/live"
+      },
+      {
+       "name": "Radio Madi radio",
+       "url": "http://192.190.84.25:9924/",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Mahakali (Mahendranagar)",
+       "url": "http://radio.itechnepal.com:9024/live"
+      },
+      {
+       "name": "Radio Makalu radio",
+       "url": "http://live.itechnepal.com:9042/stream?type=.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "folk"
+       ]
+      },
+      {
+       "name": "Radio Makwanpur",
+       "url": "http://streaming.softnep.net:8057/"
+      },
+      {
+       "name": "Radio Makwanpur",
+       "url": "https://onlineradiobox.com/json/np/makwanpur/play?platform=web",
+       "tags": [
+        "news_talk",
+        "folk"
+       ]
+      },
+      {
+       "name": "Radio Makwanpur",
+       "url": "http://streaming.softnep.net:8057/stream.nsv&type=mp3&volume=60",
+       "tags": [
+        "news_talk",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Makwanpur radio",
+       "url": "http://streaming.softnep.net:8057/stream.nsv\\u0026type=mp3\\u0026volume=60",
+       "tags": [
+        "news_talk",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Malangwa",
+       "url": "https://crs.webdesign-flash.ro/?q=http://streaming.hamropatro.com:8711/&plugin_id=7628&site_id=8520577",
+       "tags": [
+        "news_talk",
+        "college_community"
+       ]
+      },
+      {
+       "name": "Radio Malika radio",
+       "url": "http://live.itechnepal.com:8574/stream",
+       "tags": [
+        "news_talk",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Mangsebung  radio",
+       "url": "http://live.itechnepal.com:8212/stream"
+      },
+      {
+       "name": "Radio Marsyangdi",
+       "url": "http://live.itechnepal.com:9120/stream",
+       "tags": [
+        "news_talk",
+        "college_community"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Marsyangdi",
+       "url": "http://radio.itechnepal.com:9120/live"
+      },
+      {
+       "name": "Radio Menchhyayem radio",
+       "url": "http://live.itechnepal.com:9090/stream",
+       "tags": [
+        "news_talk",
+        "christian_gospel",
+        "islamic_quran"
+       ]
+      },
+      {
+       "name": "Radio Mero FM",
+       "url": "http://streaming.hamropatro.com:8078/",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Mirmire",
+       "url": "http://live.itechnepal.com:9138/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Mirmire",
+       "url": "http://209.133.212.190:9984/"
+      },
+      {
+       "name": "Radio miteri radio",
+       "url": "https://buecrplb01.cienradios.com.ar/Mitre",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Mithila",
+       "url": "http://38.107.242.90:8244/"
+      },
+      {
+       "name": "Radio Mithila radio",
+       "url": "http://streaming.hamropatro.com:8246/stream.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Morning Star radio",
+       "url": "http://live.itechnepal.com:9211/stream",
+       "tags": [
+        "news_talk",
+        "folk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Mukti radio",
+       "url": "http://live.itechnepal.com:9156/stream",
+       "tags": [
+        "news_talk",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Naya Karnali radio",
+       "url": "http://live.itechnepal.com:8496/stream",
+       "tags": [
+        "news_talk",
+        "folk",
+        "christian_gospel",
+        "islamic_quran"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Naya Nepal",
+       "url": "http://live.itechnepal.com:8580/live",
+       "tags": [
+        "news_talk",
+        "college_community"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Naya Nepal (Darchula)",
+       "url": "http://radio.itechnepal.com:8580/live"
+      },
+      {
+       "name": "Radio Nepal",
+       "url": "https://radionepal.news/live"
+      },
+      {
+       "name": "Radio Nepal",
+       "url": "https://crs.webdesign-flash.ro/?q=http://radionepal.gov.np:40100/stream&plugin_id=7628&site_id=8520577",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Nepal",
+       "url": "http://202.45.144.110:8000/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Nepal",
+       "url": "https://stream1.radionepal.gov.np/live/?n=1d2cd62399ac476930d0"
+      },
+      {
+       "name": "Radio Nepal",
+       "url": "http://radionepal.gov.np/radio-nepal/wp-content/uploads/2015/11/Swet-Patra.mp3",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Nepal radio",
+       "url": "http://103.69.126.230:8000/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Nepalbani",
+       "url": "http://radio.itechnepal.com:8676/live"
+      },
+      {
+       "name": "Radio Nepalbani 94.9",
+       "url": "http://live.itechnepal.com:8676/stream",
+       "tags": [
+        "news_talk",
+        "college_community",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Nepalbani radio",
+       "url": "https://live.itech.host:8681/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pariwartan",
+       "url": "http://37.59.42.207:8166/stream"
+      },
+      {
+       "name": "Radio Pariwartan 89.4",
+       "url": "https://betelgeuse.dribbcast.com/proxy/radiopariwartan?mp=/stream",
+       "tags": [
+        "news_talk",
+        "college_community"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Prakriti",
+       "url": "http://live.itech.host:8934/live",
+       "tags": [
+        "news_talk",
+        "college_community"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Prakriti",
+       "url": "http://radio.itechnepal.com:8934/live"
+      },
+      {
+       "name": "Radio Prakriti radio",
+       "url": "https://live.itech.host:8939/stream"
+      },
+      {
+       "name": "Radio Rajdhani",
+       "url": "http://s6.voscast.com:7178/"
+      },
+      {
+       "name": "Radio Ramechhap radio",
+       "url": "https://stream.rcast.net/69218",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Ramgyanu radio",
+       "url": "http://live.itechnepal.com:9018/stream",
+       "tags": [
+        "news_talk",
+        "christian_gospel",
+        "islamic_quran"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Rastriya",
+       "url": "http://192.227.85.169:4753/"
+      },
+      {
+       "name": "Radio Resunga",
+       "url": "http://radio.itechnepal.com:9066/live"
+      },
+      {
+       "name": "Radio Rolpa (Libānggaon)",
+       "url": "http://radio.itechnepal.com:9084/live"
+      },
+      {
+       "name": "Radio Rolpa 93.8",
+       "url": "http://live.itech.host:9084/live",
+       "tags": [
+        "news_talk",
+        "college_community",
+        "various_eclectic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Rolpa radio",
+       "url": "https://live.itech.host:1240/stream?1607165086822",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Rudraksha radio",
+       "url": "https://streaming.softnep.net:10874/stream.nsv\\u0026type=mp3\\u0026volume=50",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Safalta",
+       "url": "http://live.itechnepal.com:9144/stream",
+       "tags": [
+        "news_talk",
+        "sports",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Safalta",
+       "url": "http://radio.itechnepal.com:9144/live"
+      },
+      {
+       "name": "Radio Sailung",
+       "url": "http://live.itechnepal.com:9174/stream",
+       "tags": [
+        "news_talk",
+        "college_community",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Sailung (Dolakha)",
+       "url": "http://radio.itechnepal.com:9174/live"
+      },
+      {
+       "name": "Radio Salhesh radio",
+       "url": "http://live.itech.host:8302/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Sanobheri radio",
+       "url": "http://live.itechnepal.com:9425/stream",
+       "tags": [
+        "news_talk",
+        "folk"
+       ]
+      },
+      {
+       "name": "Radio Shaileshwori radio",
+       "url": "https://live.itech.host:8273/stream",
+       "tags": [
+        "news_talk",
+        "folk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Solu 101.2",
+       "url": "http://live.itechnepal.com:9545/stream",
+       "tags": [
+        "news_talk",
+        "various_eclectic",
+        "college_community"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Sonamai radio",
+       "url": "http://live.itechnepal.com:7037/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Sudoorawaz radio",
+       "url": "http://live.itechnepal.com:8634/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Sunkoshi radio",
+       "url": "http://live.itechnepal.com:8738/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Sunwal radio",
+       "url": "http://live.itechnepal.com:8810/stream?type=.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Surkhet",
+       "url": "http://live.itechnepal.com:7001/stream",
+       "tags": [
+        "news_talk",
+        "folk"
+       ]
+      },
+      {
+       "name": "Radio Suseli",
+       "url": "http://radio.itechnepal.com:8846/live"
+      },
+      {
+       "name": "Radio Suseli 106.3",
+       "url": "http://live.itech.host:8846/live",
+       "tags": [
+        "news_talk",
+        "college_community"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Syangja radio",
+       "url": "http://live.itechnepal.com:8886/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Tahalka",
+       "url": "http://live.itechnepal.com:8910/stream?type=.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "folk"
+       ]
+      },
+      {
+       "name": "Radio Tahalka",
+       "url": "http://streaming.softnep.net:8025/stream.nsv&type=mp3&volume=60",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Tamor (Taplejung)",
+       "url": "http://38.107.242.90:8154/"
+      },
+      {
+       "name": "Radio Taplejung (Taplejung)",
+       "url": "http://shoutcast.itechnepal.net:8078/"
+      },
+      {
+       "name": "Radio Taplejung radio",
+       "url": "http://live.itechnepal.com:9012/stream",
+       "tags": [
+        "news_talk",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Taranga",
+       "url": "http://radio.itechnepal.com:9054/live"
+      },
+      {
+       "name": "Radio Taranga radio",
+       "url": "http://ujyaalo-stream.softnep.com:7710/stream.nsv",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Terai 107",
+       "url": "http://streaming.softnep.net:8031/",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Radio Terhathum radio",
+       "url": "http://live.itechnepal.com:9150/stream?type=.mp3",
+       "tags": [
+        "news_talk",
+        "folk"
+       ]
+      },
+      {
+       "name": "Radio Thaha Sanchar",
+       "url": "http://streaming.softnep.net:8025/",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "college_community"
+       ]
+      },
+      {
+       "name": "Radio Thaha Sanchar",
+       "url": "https://onlineradiobox.com/json/np/thahasanchar/play?platform=web",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "islamic_quran"
+       ]
+      },
+      {
+       "name": "Radio Thaha Sanchar radio",
+       "url": "http://streaming.softnep.net:8025/stream.nsv\\u0026type=mp3\\u0026volume=60",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "christian_gospel",
+        "islamic_quran"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Tharuhat",
+       "url": "https://stream.zeno.fm/pq0bz4vez38uv"
+      },
+      {
+       "name": "Radio Tikapur",
+       "url": "https://live.itech.host:9519/live",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Tikapur",
+       "url": "http://radio.itechnepal.com:9509/live"
+      },
+      {
+       "name": "Radio Tikapur 1010",
+       "url": "http://live.itech.host:9514/live",
+       "tags": [
+        "news_talk",
+        "college_community"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Times radio",
+       "url": "http://streaming.softnep.net:8173/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Tinlal",
+       "url": "http://radio.itechnepal.com:9192/live"
+      },
+      {
+       "name": "Radio Triveni",
+       "url": "http://streaming.softnep.net:8031/stream.nsv&type=mp3&volume=50&autostart=true",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Triveni 100.6",
+       "url": "http://streaming.softnep.net:8031/stream/",
+       "tags": [
+        "news_talk",
+        "college_community"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Tulsipur radio",
+       "url": "http://live.itechnepal.com:9210/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Radio Upatyaka",
+       "url": "http://ufm.online.org.np:5428/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Upatyaka radio",
+       "url": "http://ufm.online.org.np:5428/stream.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Radio Vision 91.6 FM radio",
+       "url": "https://live.itech.host:3765/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Rádio Bheri",
+       "url": "http://streaming.hamropatro.com:8313/",
+       "tags": [
+        "news_talk",
+        "college_community"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Saptarangi FM",
+       "url": "http://live.itechnepal.com:9629/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Saptarangi FM (Jhāpā Bajār)",
+       "url": "http://radio.itechnepal.com:9629/live"
+      },
+      {
+       "name": "Saptarangi FM 101.6",
+       "url": "http://live.itech.host:9629/stream",
+       "tags": [
+        "news_talk",
+        "college_community"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Saugaat FM (Baitadī)",
+       "url": "http://radio.itechnepal.com:9659/live"
+      },
+      {
+       "name": "Saugaat FM 103.6",
+       "url": "http://live.itechnepal.com:9659/stream",
+       "tags": [
+        "news_talk",
+        "college_community"
+       ]
+      },
+      {
+       "name": "Shreenagar fm radio",
+       "url": "http://live.itechnepal.com:9593/stream",
+       "tags": [
+        "news_talk",
+        "christian_gospel",
+        "islamic_quran"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Shuklaphanta FM radio",
+       "url": "https://streaming.webhostnepal.com/8010/stream",
+       "tags": [
+        "news_talk",
+        "folk",
+        "pop_hits",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Singhalila FM (Panchthar)",
+       "url": "http://shoutcast.itechnepal.net:8138/"
+      },
+      {
+       "name": "Sky FM (Butwāl)",
+       "url": "http://websoftuniversity.com.np:9976/"
+      },
+      {
+       "name": "Sky FM 106.6",
+       "url": "https://onlineradio.websoftitnepal.com/8022/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Sky FM 106.6 radio",
+       "url": "https://onlineradio.websoftitnepal.com/8002/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Solu FM",
+       "url": "http://radio.itechnepal.com:9545/live"
+      },
+      {
+       "name": "Star FM Nepal",
+       "url": "http://live.itechnepal.com:9539/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "electronic"
+       ]
+      },
+      {
+       "name": "Sumhatlung FM",
+       "url": "https://crs.webdesign-flash.ro/?q=http://streaming.softnep.net:8095/stream/&plugin_id=7628&site_id=8520577"
+      },
+      {
+       "name": "Swadesh FM",
+       "url": "http://216.55.141.189:8653/stream",
+       "tags": [
+        "news_talk",
+        "college_community",
+        "bollywood_indian"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Swadesh FM radio",
+       "url": "http://216.55.141.189:8653/stream/1",
+       "tags": [
+        "news_talk",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Synergy FM",
+       "url": "http://streaming.hamropatro.com:8399/",
+       "tags": [
+        "news_talk",
+        "college_community",
+        "various_eclectic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Tilottama Fm radio",
+       "url": "https://live.itech.host:4585/stream"
+      },
+      {
+       "name": "Times FM Nepal",
+       "url": "https://streaming.webhostnepal.com/8028/",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Tinau FM",
+       "url": "http://streaming.softnep.net:8293/stream/",
+       "tags": [
+        "news_talk",
+        "world",
+        "college_community"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Ujyaalo 90 Network",
+       "url": "https://stream.zenolive.com/wtuvp08xq1duv",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "folk",
+        "various_eclectic",
+        "college_community"
+       ]
+      },
+      {
+       "name": "Ujyaalo 90 Network",
+       "url": "https://stream.zeno.fm/h527zwd11uquv",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Ujyaalo 90 Network",
+       "url": "http://ujyaalo-stream.softnep.com:7710/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Ujyaalo Online",
+       "url": "https://stream.zeno.fm/wtuvp08xq1duv",
+       "tags": [
+        "news_talk",
+        "world"
+       ]
+      },
+      {
+       "name": "Unique FM",
+       "url": "http://streaming.softnep.net:8065/stream.nsv&type=mp3&volume=50",
+       "tags": [
+        "news_talk",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Unique FM radio",
+       "url": "https://streaming.softnep.net:10941/stream.nsv\\u0026type=mp3\\u0026volume=70",
+       "tags": [
+        "news_talk",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Vijaya FM",
+       "url": "http://streaming.hamropatro.com:8383/",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "various_eclectic",
+        "college_community"
+       ]
+      },
+      {
+       "name": "Vijaya FM 101.6",
+       "url": "https://live.itech.host:3320/stream",
+       "tags": [
+        "news_talk",
+        "college_community"
+       ]
+      },
+      {
+       "name": "Vijaypur FM",
+       "url": "https://live.itech.host:9484/stream?1607152537976",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "folk"
+       ]
+      },
+      {
+       "name": "Vijaypur FM 98.8",
+       "url": "http://live.itechnepal.com:9479/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "रेडियो टाइगर",
+       "url": "http://live.itechnepal.com:7057/stream"
+      },
+      {
+       "name": "रेडियो ताप्लेजुङ",
+       "url": "https://live.itech.host:9017/stream",
+       "tags": [
+        "news_talk",
+        "college_community"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "रेडियो हिमालय",
+       "url": "https://live.itech.host/himalayaradio"
+      },
+      {
+       "name": "रेडियो हिमालय",
+       "url": "http://live.itechnepal.com:8541/",
+       "tags": [
+        "news_talk",
+        "college_community"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 43,
+     "stations": [
+      {
+       "name": "B FM",
+       "url": "http://radio.itechnepal.com:8022/live",
+       "tags": [
+        "various_eclectic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "BFM Radio 91.2 FM",
+       "url": "http://streaming.hamropatro.com:8124/",
+       "tags": [
+        "pop_hits",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Chitwan Online Khabar Radio",
+       "url": "https://14833.live.streamtheworld.com/SAM04AAC227_SC",
+       "language_inferred": true
+      },
+      {
+       "name": "Damauli FM",
+       "url": "http://live.itechnepal.com:8786/stream"
+      },
+      {
+       "name": "Dead God Online Radio",
+       "url": "https://stream.zeno.fm/rm0kp78k5a0uv",
+       "tags": [
+        "pop_hits",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "FRIENDS FM 90.9",
+       "url": "http://live.itechnepal.com:8974/stream"
+      },
+      {
+       "name": "Guras FM",
+       "url": "http://streaming.shoutcast.com/guras-fm?lang=en-US",
+       "tags": [
+        "pop_hits",
+        "various_eclectic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Headlines  Music FM",
+       "url": "http://streaming.hamropatro.com:8246/"
+      },
+      {
+       "name": "Helambu FM",
+       "url": "http://live.itechnepal.com:8010/stream?type=.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Hetauda FM",
+       "url": "https://onlineradio.websoftitnepal.com/8054/stream"
+      },
+      {
+       "name": "Himal Radio Nepali Pop",
+       "url": "http://144.76.110.138:9910",
+       "language_inferred": true
+      },
+      {
+       "name": "Hits FM",
+       "url": "http://198.27.83.198:5098/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Hits FM 91.2",
+       "url": "https://usa15.fastcast4u.com/proxy/hitsfm912?mp=/1",
+       "tags": [
+        "pop_hits",
+        "easy_listening",
+        "various_eclectic",
+        "world",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Ilam FM",
+       "url": "http://live.itechnepal.com:9635/stream"
+      },
+      {
+       "name": "Kalika FM",
+       "url": "http://kalika-stream.softnep.com:7740/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Kanchanjungha FM radio",
+       "url": "http://live.itechnepal.com:8420/stream",
+       "tags": [
+        "pop_hits",
+        "various_eclectic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Krishnasar FM",
+       "url": "http://radio.itechnepal.com:8424/live",
+       "tags": [
+        "various_eclectic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Machhapuchhre FM radio",
+       "url": "http://167.114.131.90:5037/stream?type=.mp3/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Mithilanchal FM",
+       "url": "http://live.itechnepal.com:8640/stream?type=.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Nepal FM 91.8",
+       "url": "http://astream.nepalipatro.com.np:8147/",
+       "tags": [
+        "various_eclectic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Aakash ganga radio",
+       "url": "http://live.itechnepal.com:8828/stream"
+      },
+      {
+       "name": "Radio Aawaj radio",
+       "url": "http://live.itechnepal.com:8098/stream?type=.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Amargadhi",
+       "url": "http://radio.itechnepal.com:8922/live",
+       "tags": [
+        "pop_hits",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Radio Andhikhola (Khanbari)",
+       "url": "http://radio.itechnepal.com:8858/live",
+       "tags": [
+        "various_eclectic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Audio",
+       "url": "https://stream.zeno.fm/fvrx47wpg0quv"
+      },
+      {
+       "name": "Radio Chautari",
+       "url": "http://live.itechnepal.com:9383/stream"
+      },
+      {
+       "name": "Radio Hamro Sansar radio",
+       "url": "http://live.itechnepal.com:8172/stream?type=.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Kantipur",
+       "url": "http://kantipur-stream.softnep.com:7248",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Kantipur",
+       "url": "http://radiokantipur.ekantipur.com/audios/audioGallery/Radio_Kantipur_Song.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Nepalgunj FM",
+       "url": "http://107.150.32.26:9300/"
+      },
+      {
+       "name": "Radio Nikas",
+       "url": "https://live.itech.host:1580/stream?1614247081006"
+      },
+      {
+       "name": "Radio Nikas",
+       "url": "http://live.itechnepal.com:8756/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Prabhav 924",
+       "url": "http://37.59.42.207:8629/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Prabhu",
+       "url": "http://live.itechnepal.com:8916/stream?type=.mp3",
+       "tags": [
+        "pop_hits",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Resunga",
+       "url": "http://live.itechnepal.com:9066/stream"
+      },
+      {
+       "name": "Radio Sargam",
+       "url": "http://rstream.abgroupnepal.com:8000/radiosargam",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Sargam (Jhāpā Bajār)",
+       "url": "http://radio.itechnepal.com:9653/live",
+       "tags": [
+        "various_eclectic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Sindhu",
+       "url": "http://streaming.softnep.net:8041/"
+      },
+      {
+       "name": "Radio Suseli",
+       "url": "http://live.itechnepal.com:8846/stream"
+      },
+      {
+       "name": "Rajdevi FM",
+       "url": "http://206.225.83.154:9994"
+      },
+      {
+       "name": "Sunakhari Radio Live",
+       "url": "http://live.itechnepal.com:9521/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Synergy FM 91.6",
+       "url": "https://live.itech.host:3880/stream",
+       "tags": [
+        "pop_hits",
+        "various_eclectic",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Unique FM (Musikoṭ-Khalaṅgā)",
+       "url": "http://streaming.softnep.net:8065/"
+      }
+     ]
+    },
+    "rock": {
+     "count": 11,
+     "stations": [
+      {
+       "name": "A One FM",
+       "url": "https://stream.zeno.fm/zmn2w3up168uv",
+       "language_inferred": true
+      },
+      {
+       "name": "A One FM",
+       "url": "https://stream.zeno.fm/0ghbmuim5brvv"
+      },
+      {
+       "name": "A One FM 99",
+       "url": "http://148.66.135.69:9336/",
+       "tags": [
+        "rock",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "A One FM 99 MHz",
+       "url": "https://stream-47.zeno.fm/0ghbmuim5brvv"
+      },
+      {
+       "name": "Barahathawa fm 101.1Mhz",
+       "url": "https://stream.zeno.fm/gubb557z4k8uv",
+       "tags": [
+        "rock",
+        "pop_hits",
+        "christian_gospel"
+       ]
+      },
+      {
+       "name": "Big FM 101.2",
+       "url": "http://50.7.99.163:16118/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Jayaprithvi F.M.",
+       "url": "https://streaming.softnep.net:10824/stream",
+       "tags": [
+        "rock",
+        "news_talk",
+        "college_community",
+        "country",
+        "classical",
+        "world",
+        "kids"
+       ]
+      },
+      {
+       "name": "Kolhabi FM 104.1",
+       "url": "https://freeuk5.listen2myradio.com/live.mp3?typeportmount=s1_29877_stream",
+       "tags": [
+        "pop_hits",
+        "rock"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Kolhabi 104.1 Mhz",
+       "url": "https://freeuk11.listen2myradio.com/live.mp3?typeportmount=s1_24115_stream_425854467",
+       "tags": [
+        "rock",
+        "classical"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Nagarik 96.5",
+       "url": "http://s2.voscast.com:10720/",
+       "tags": [
+        "rock",
+        "various_eclectic",
+        "decade_90s",
+        "electronic",
+        "house"
+       ]
+      },
+      {
+       "name": "ए वान एफ.एम.",
+       "url": "http://148.66.135.69:9336/stream/",
+       "tags": [
+        "rock",
+        "ambient_relax",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "soundtrack": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Himal Radio",
+       "url": "http://144.76.110.138:9950/stream/",
+       "tags": [
+        "world",
+        "soundtrack",
+        "pop_hits",
+        "classical"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Himal Radio - Nepali Filmy",
+       "url": "http://streaming.webhostnepal.com:8022/stream"
+      }
+     ]
+    },
+    "sports": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "My fm online fm",
+       "url": "https://stream.zeno.fm/64mhmr98vp8uv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "various_eclectic": {
+     "count": 23,
+     "stations": [
+      {
+       "name": "Apostle FM 102.6",
+       "url": "http://streaming.hamropatro.com:8176/"
+      },
+      {
+       "name": "Dautari FM",
+       "url": "http://live.itechnepal.com:7042/stream"
+      },
+      {
+       "name": "Hyolmo Radio",
+       "url": "http://radio.itech.host:7149/stream"
+      },
+      {
+       "name": "Itahari FM 92.5",
+       "url": "https://live.itech.host:2880/stream"
+      },
+      {
+       "name": "Limbu Radio",
+       "url": "http://live.itechnepal.com:9040/stream"
+      },
+      {
+       "name": "Mahasagar Entertainment",
+       "url": "http://78.129.187.57:4741/"
+      },
+      {
+       "name": "Prime FM",
+       "url": "http://live.itechnepal.com:7067/stream"
+      },
+      {
+       "name": "Radio All Star Online",
+       "url": "http://live.itechnepal.com:7039/stream"
+      },
+      {
+       "name": "Radio Amargadhi 974",
+       "url": "http://live.itechnepal.com:8922/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Derby",
+       "url": "http://192.227.85.169:4367/"
+      },
+      {
+       "name": "Radio Langtang",
+       "url": "http://streaming.hamropatro.com:8032/"
+      },
+      {
+       "name": "Radio Masti 87.9",
+       "url": "https://live.itech.host:3190/stream"
+      },
+      {
+       "name": "Radio Miteri",
+       "url": "http://streaming.softnep.net:8053/"
+      },
+      {
+       "name": "Radio Myagdikali",
+       "url": "http://streaming.softnep.net:8141/"
+      },
+      {
+       "name": "Radio Rudraksha 988",
+       "url": "http://streaming.hamropatro.com:8114/"
+      },
+      {
+       "name": "Radio Satellite 1055",
+       "url": "http://streaming.hamropatro.com:8250/"
+      },
+      {
+       "name": "Radio Taranga",
+       "url": "http://live.itechnepal.com:9054/stream"
+      },
+      {
+       "name": "Radio Tharuhat",
+       "url": "https://streaming.webhostnepal.com/8014/stream"
+      },
+      {
+       "name": "Radio Tinlal FM",
+       "url": "http://live.itech.host:9192/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Tufan",
+       "url": "https://stream.zeno.fm/60tx8fw9dd0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Shubheksha FM 96.6",
+       "url": "http://216.55.141.189:8519/stream/1"
+      },
+      {
+       "name": "Tamang Radio",
+       "url": "http://live.itechnepal.com:9046/stream"
+      },
+      {
+       "name": "Websoft University",
+       "url": "http://144.76.110.138:9988/"
+      }
+     ]
+    },
+    "world": {
+     "count": 15,
+     "stations": [
+      {
+       "name": "City",
+       "url": "https://onlineradio.websoftitnepal.com/8036/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Himal Radio - Nepali Filmy",
+       "url": "https://streaming.webhostnepal.com/8022/stream"
+      },
+      {
+       "name": "Hits FM 91.2",
+       "url": "http://usa15.fastcast4u.com:5042/stream",
+       "tags": [
+        "world",
+        "news_talk",
+        "classical",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "KEEPS FM",
+       "url": "https://radio-streaming-serv-1.hamropatro.com/radio/8280/radio.mp3",
+       "tags": [
+        "world",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Naya Radio",
+       "url": "http://live.itech.host:1110/"
+      },
+      {
+       "name": "Pokhara FM 95.8",
+       "url": "http://live.itech.host:3060/stream"
+      },
+      {
+       "name": "Radio Annapurna FM 93.4",
+       "url": "http://live.itech.host:8964/stream"
+      },
+      {
+       "name": "Radio Annapurna Nepal",
+       "url": "http://streaming.softnep.net:8091/stream/1",
+       "tags": [
+        "news_talk",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Lekhnath",
+       "url": "http://streaming.softnep.net:8305/"
+      },
+      {
+       "name": "Radio Makwanpur",
+       "url": "http://streaming.softnep.net:8057/stream",
+       "tags": [
+        "world",
+        "college_community"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Mithila",
+       "url": "http://streaming.hamropatro.com:8244/stream.mp3"
+      },
+      {
+       "name": "Radio Sagarmatha",
+       "url": "http://161.97.67.77:9300/stream/",
+       "tags": [
+        "news_talk",
+        "world",
+        "college_community"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Shrenagar FM",
+       "url": "http://live.itech.host:9593/stream",
+       "tags": [
+        "christian_gospel",
+        "world",
+        "news_talk",
+        "college_community"
+       ]
+      },
+      {
+       "name": "RadioSagar",
+       "url": "http://178.33.135.244:3084/stream"
+      },
+      {
+       "name": "Ujyaalo 90 Network",
+       "url": "http://ample-zeno-15.radiojar.com/wtuvp08xq1duv"
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 459,
+     "stations": [
+      {
+       "name": "123456",
+       "url": "https://stream.zeno.fm/82q21acqfa0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "1Lee Muzik",
+       "url": "https://stream.zeno.fm/qx5tabhmr0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "24 Asal Sathi Radio",
+       "url": "https://node-21.zeno.fm/dx33bcg51mzuv.aac?rj-ttl=5&amprj-tok=AAABcis-Hp4A-V90cDRKpxsDIw",
+       "language_inferred": true
+      },
+      {
+       "name": "24 Asal Sathi Radio",
+       "url": "https://stream.zeno.fm/52brgcg51mzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "24 Express",
+       "url": "https://stream.zeno.fm/kpt6agxg8x8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "3 Angels Community Radio",
+       "url": "http://live.itechnepal.com:7554/stream"
+      },
+      {
+       "name": "3 Angels Community Radio",
+       "url": "http://radio.itechnepal.com:7554/live"
+      },
+      {
+       "name": "3Angels Radio",
+       "url": "http://live.itech.host:7554/live"
+      },
+      {
+       "name": "Aagan FM",
+       "url": "http://live.itech.host:8274/stream"
+      },
+      {
+       "name": "Aagan FM",
+       "url": "http://live.itechnepal.com:8274/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Aawaj FM 88 MHz",
+       "url": "https://stream.zeno.fm/f1zw20xm0k0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "accessible nepal",
+       "url": "https://stream.zeno.fm/y2m388c4srhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Ace Online Radio",
+       "url": "https://stream.zeno.fm/ce5dr3q3czzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "ad",
+       "url": "https://stream.zeno.fm/v3e78tqm5gruv"
+      },
+      {
+       "name": "All Touch Nep",
+       "url": "https://stream.zeno.fm/xtss01zzpnhvv"
+      },
+      {
+       "name": "Allpasal",
+       "url": "https://stream.zeno.fm/cv1czpg0uhhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Aman Fun Club",
+       "url": "https://stream.zeno.fm/z4cxzza4998uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Androrax",
+       "url": "https://stream.zeno.fm/xhmyheetcg8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Annapurna-fm",
+       "url": "https://stream.zeno.fm/kftgvdhqif6tv",
+       "language_inferred": true
+      },
+      {
+       "name": "Antenna Foundation",
+       "url": "http://streaming.hamropatro.com:8290/"
+      },
+      {
+       "name": "Asal Sathi Radio",
+       "url": "https://stream-154.zeno.fm/0whuy4nsfa1uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Baideshik Rojgar Radio",
+       "url": "http://s3.voscast.com:9120/"
+      },
+      {
+       "name": "bajne-nabajne",
+       "url": "https://stream.zeno.fm/petx1k538nhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Bara Dainik Online Radio",
+       "url": "https://stream.zeno.fm/kr0a27sy7k0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Barahathawa fm",
+       "url": "https://stream.zeno.fm/afqkp20f4f8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Barahathawa fm 24hrs",
+       "url": "https://stream.zeno.fm/as8n057z4k8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "BBC Nepali",
+       "url": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-nepla_backup"
+      },
+      {
+       "name": "BFM Radio 912 FM",
+       "url": "https://radio-streaming-serv-1.hamropatro.com/radio/8290/radio.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Bhairab radio",
+       "url": "https://stream.zeno.fm/qe715t14gwzuv"
+      },
+      {
+       "name": "Bhojpuriya FM",
+       "url": "http://streaming.softnep.net:8143/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Bhorukwa FM",
+       "url": "https://live.itech.host:8379/stream?1686719146434?n=b727781bea07f6f674ea",
+       "language_inferred": true
+      },
+      {
+       "name": "Bikalpa Sandesh Online Radio",
+       "url": "https://stream.zeno.fm/0kaxfds2tk8uv"
+      },
+      {
+       "name": "Birat Fm",
+       "url": "https://stream.zeno.fm/6hp6zpgu6k8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Bishwas FM",
+       "url": "https://stream.zeno.fm/2ga28kup6x8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "BISHWAS FM 93.6 MHz",
+       "url": "https://stream.zeno.fm/f7pzsxmkrc9uv"
+      },
+      {
+       "name": "Bulbule FM",
+       "url": "http://live.itechnepal.com:8380/stream"
+      },
+      {
+       "name": "Bulbule FM",
+       "url": "http://radio.itechnepal.com:8380/live"
+      },
+      {
+       "name": "Butwal FM 94.4",
+       "url": "http://www.surfmusic.de/m3u/butwal-fm-94-4,18031.m3u"
+      },
+      {
+       "name": "BuzzMe",
+       "url": "https://stream.zeno.fm/5zfwzxswkd0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Chharchhimek Radio Network",
+       "url": "https://stream.zeno.fm/r3549sv48ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Choice FM",
+       "url": "http://live.itech.host:8466/live"
+      },
+      {
+       "name": "Choice FM 90.4 FM",
+       "url": "http://streaming.hamropatro.com:8256/"
+      },
+      {
+       "name": "Choice FM 90.4 Nepal",
+       "url": "https://live.itech.host:8471/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Choice FM 904",
+       "url": "https://live.itech.host:8466/stream"
+      },
+      {
+       "name": "Chomolungma FM",
+       "url": "http://radio.itechnepal.com:8484/live"
+      },
+      {
+       "name": "CIN Nepal Online",
+       "url": "https://stream.zeno.fm/u9bhy0e9sd0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "CIN Nepal Online Radio (BSN)",
+       "url": "https://stream.zeno.fm/gbnx61zg12quv"
+      },
+      {
+       "name": "CIN-Nepal",
+       "url": "https://stream.zeno.fm/6dev548984zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Classic FM 101.2",
+       "url": "http://radio-streaming-serv-2.hamropatro.com:8410/radio.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Community Radio Harmi",
+       "url": "https://stream.zeno.fm/sahzfbk77nhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Community Radio Parasi 90.2",
+       "url": "http://streaming.softnep.net:8129/"
+      },
+      {
+       "name": "Community Radio Sky",
+       "url": "https://stream.zeno.fm/edf19150cy8uv"
+      },
+      {
+       "name": "Custom 1",
+       "url": "https://stream.zeno.fm/qdzzn4t1xv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Daami Radio",
+       "url": "http://streaming.webhostnepal.com:8056/stream/",
+       "language_inferred": true
+      },
+      {
+       "name": "Damauli FM",
+       "url": "http://172.106.113.81:8310/radio.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Damauli FM",
+       "url": "http://radio.itechnepal.com:8786/live"
+      },
+      {
+       "name": "Dead god",
+       "url": "https://stream.zeno.fm/taegh78k5a0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Dead God Online Radio",
+       "url": "https://node-09.zeno.fm/rm0kp78k5a0uv"
+      },
+      {
+       "name": "DHARMIK RADIO",
+       "url": "https://stream.zeno.fm/b1sry00dpm0uv"
+      },
+      {
+       "name": "Dhaulagiri FM",
+       "url": "https://stream.zeno.fm/4anpxhr5mg0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Dhurbatara Samudayik FM 898",
+       "url": "http://live.itech.host:8834/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Digital Rautahat",
+       "url": "https://stream.zeno.fm/a3f5nwyb94zuv"
+      },
+      {
+       "name": "dio",
+       "url": "https://stream.zeno.fm/dx33bcg51mzuv"
+      },
+      {
+       "name": "DJ Song",
+       "url": "https://stream.zeno.fm/s17shqvcma0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Dr.white mix",
+       "url": "https://stream.zeno.fm/cvkh7falaqltv",
+       "language_inferred": true
+      },
+      {
+       "name": "DTM Khabar",
+       "url": "https://stream.zeno.fm/vfybn9etqfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Eagle FM",
+       "url": "http://radio.itechnepal.net:8080/eaglefm/"
+      },
+      {
+       "name": "Eagle FM (Phidim)",
+       "url": "http://radio.itechnepal.com:9048/live"
+      },
+      {
+       "name": "Eagle FM – Panaoti – Central Region – NP",
+       "url": "https://live.itech.host:2960/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Entertain Nepal",
+       "url": "https://stream.zeno.fm/k4uztn56ckhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Everest Radio",
+       "url": "https://everestradio.com/shoutcast/stream"
+      },
+      {
+       "name": "Falaicha Online radio",
+       "url": "https://stream.zeno.fm/2gzn08kysy8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "FM Plus 89.1 Mhz",
+       "url": "https://stream.zeno.fm/sr8mnzmdbxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "fm radio station",
+       "url": "https://stream.zeno.fm/8ws2eeky5hhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Fusion Aawaj",
+       "url": "https://stream.zeno.fm/mexachnrduhvv"
+      },
+      {
+       "name": "Galyang FM",
+       "url": "http://live.itech.host:9102/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Gandaki Aawaj",
+       "url": "https://stream.zeno.fm/qgha8swwvchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Gandaki Sarokar",
+       "url": "https://stream.zeno.fm/xpb4bd5h208uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Ghanteswor FM",
+       "url": "https://canada1.reliastream.com/proxy/narendra?mp=/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Good News FM",
+       "url": "http://live.itech.host:8162/live"
+      },
+      {
+       "name": "Gorkha FM 93 MHz",
+       "url": "http://live.itechnepal.com:7011/stream?type=.mp3"
+      },
+      {
+       "name": "Grace FM",
+       "url": "http://live.itech.host:9413/stream"
+      },
+      {
+       "name": "Gunjan FM",
+       "url": "http://live.itech.host:9437/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Guransh FM",
+       "url": "http://radio.itechnepal.com:9461/live"
+      },
+      {
+       "name": "Guransh FM 97.2",
+       "url": "https://stream.zeno.fm/1hze9ae0k18uv"
+      },
+      {
+       "name": "Gurung Radio",
+       "url": "https://stream.zeno.fm/rb5qq2tfhfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hajurko Radio",
+       "url": "http://radio.itechnepal.com:9515/live"
+      },
+      {
+       "name": "HAMAR ONLINE RADIO",
+       "url": "https://stream.zeno.fm/s8y0ws9ua18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "hamro ashish",
+       "url": "https://stream.zeno.fm/rvbgh93tbv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hamro ashish",
+       "url": "https://stream.zeno.fm/44x41t8ubv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hamro ashish radio",
+       "url": "https://stream.zeno.fm/tsrnmzsxav8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hamro Fm Raw",
+       "url": "https://stream.zeno.fm/2kz3caxuaphvv",
+       "language_inferred": true
+      },
+      {
+       "name": "HAMRO ONLINE RADIO",
+       "url": "https://stream.zeno.fm/n3m7u3yx808uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hamro Radio",
+       "url": "https://stream.zeno.fm/wf4by6w9qrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hamro Radio",
+       "url": "https://stream.zeno.fm/8kqr56puhrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hamro Radio Dolakha",
+       "url": "https://stream.zeno.fm/e76hwtqtkchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hamro Rapti FM",
+       "url": "https://stream.zeno.fm/8fe4cvurxhhvv"
+      },
+      {
+       "name": "Harpal FM",
+       "url": "https://stream.zeno.fm/54p6h0e0vhhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Helambu FM",
+       "url": "http://live.itech.host:8010/live?n=aa04e2434e1e55730a09"
+      },
+      {
+       "name": "Himal FM 90.2",
+       "url": "http://sp14.instainternet.com:8180/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Himal Radio - Bhajans",
+       "url": "https://streaming.webhostnepal.com/8070/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Himal Radio - Hindi Filmy",
+       "url": "https://eu47-sonic.instainternet.com/8068/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Himal Radio - Hindi Ghazals",
+       "url": "https://streaming.webhostnepal.com/8018/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Himal Radio - Nepali Classic",
+       "url": "http://streaming.webhostnepal.com:8060/stream/"
+      },
+      {
+       "name": "Image News Default Relay",
+       "url": "https://stream.zeno.fm/g8vytuepya5tv",
+       "language_inferred": true
+      },
+      {
+       "name": "ING PRODUCTION",
+       "url": "https://stream.zeno.fm/v3n3rxw9pkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "ING PRODUCTION",
+       "url": "https://stream.zeno.fm/wxfrevw9pkhvv"
+      },
+      {
+       "name": "Instrumental Radio",
+       "url": "https://stream.zeno.fm/btp7ft418nhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "INTERNET RADIO STATION",
+       "url": "https://stream.zeno.fm/ud9u800huuhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Janasanchar",
+       "url": "https://online.net.np/8116/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Jayaprithvi F.M.",
+       "url": "http://streaming.softnep.net:8349/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Jayaprithvi F.M.",
+       "url": "https://stream.zeno.fm/hbanum1wkchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Jio fm",
+       "url": "https://stream.zeno.fm/mqnkz59nr0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "JK Advertise",
+       "url": "https://stream.zeno.fm/gphvmh356nhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "JK Rawat Music Live",
+       "url": "https://stream.zeno.fm/sgcwp770b5zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "justfortry",
+       "url": "https://stream.zeno.fm/rnuzaw9avuhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Kachuli Radio",
+       "url": "https://stream.zeno.fm/su1shveyafhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Kalika FM 95.2 FM",
+       "url": "http://www.surfmusic.de/m3u/kalika-fm-95-2-fm,16363.m3u"
+      },
+      {
+       "name": "Kalika Online",
+       "url": "https://stream.zeno.fm/52sacmec31zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Kantipur FM 96.1",
+       "url": "http://kantipur-stream.softnep.com:7248/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "Katahariya Musical FM",
+       "url": "https://stream.zeno.fm/k96kr3h4z98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Katahariya Musical FM",
+       "url": "https://stream.zeno.fm/g0m82376ed0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "KEEPS FM 98.3",
+       "url": "http://streaming.hamropatro.com:8385/stream/"
+      },
+      {
+       "name": "Khabar Birgunj",
+       "url": "https://stream.zeno.fm/xm5ya1ky1f9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Khabar Sanchar Network",
+       "url": "https://stream.zeno.fm/c1b90waars8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "KhabarQuick",
+       "url": "http://centauri.shoutca.st:8272/"
+      },
+      {
+       "name": "Khandbari FM",
+       "url": "http://radio.itechnepal.com:8286/live"
+      },
+      {
+       "name": "Khaptad Awaz",
+       "url": "https://stream.zeno.fm/wmmqus3n07zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Khaptad awaZ 977 MG",
+       "url": "https://stream.zeno.fm/4wmz8dws97zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Khaptad Sandesh",
+       "url": "https://stream.zeno.fm/exrygmc80k8uv"
+      },
+      {
+       "name": "Khasyauli FM",
+       "url": "http://streaming.softnep.net:8167/"
+      },
+      {
+       "name": "Khozee Radio",
+       "url": "http://216.55.141.189:8060/stream/1/?n=66758e87122de2460d9b",
+       "language_inferred": true
+      },
+      {
+       "name": "kirtinepal fm",
+       "url": "https://stream.zeno.fm/r8quahytv38uv"
+      },
+      {
+       "name": "Kool FM",
+       "url": "http://streaming.softnep.net:8059/stream.mp3"
+      },
+      {
+       "name": "Kripa Fm",
+       "url": "https://stream.zeno.fm/w83qavartg0uv"
+      },
+      {
+       "name": "Krishnasar FM",
+       "url": "http://streaming.hamropatro.com:8381/",
+       "language_inferred": true
+      },
+      {
+       "name": "Kumar Sanu Songs",
+       "url": "https://stream.zeno.fm/xpp502dr97zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "LBC Changathali",
+       "url": "https://stream.zeno.fm/mcw0bs989yzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Live Radio",
+       "url": "https://stream.zeno.fm/r9qqt9t7xnhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Living Baptist Church",
+       "url": "https://stream.zeno.fm/9bvnp6vszv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "lokradio",
+       "url": "http://167.114.64.181:8329/",
+       "language_inferred": true
+      },
+      {
+       "name": "MADHESH FM",
+       "url": "https://stream.zeno.fm/4sdd5pkyag8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Madhesh Jan Aawaj FM 98.6 MHz",
+       "url": "https://stream.zeno.fm/8jom9icy7aduv"
+      },
+      {
+       "name": "Madi Seti FM",
+       "url": "http://live.itech.host:7036/live"
+      },
+      {
+       "name": "Madikhabar Online Radio",
+       "url": "https://stream.zeno.fm/de5uxznhrc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "MadLabs FM",
+       "url": "https://stream.zeno.fm/v082bbevz08uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Magar Radio",
+       "url": "http://live.itechnepal.com:9058/stream"
+      },
+      {
+       "name": "Magar Radio",
+       "url": "https://stream.zeno.fm/3sw9b989hfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "MAGIC1",
+       "url": "https://stream.zeno.fm/kdxdr6vpvy8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Malika Khabar",
+       "url": "https://stream.zeno.fm/8n8vycwwvchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Mayadevi Radio",
+       "url": "https://radio.appharu.com/8002/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Mero maya",
+       "url": "https://stream.zeno.fm/t58wr3wqmrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Mero Sathi FM (Tanahun)",
+       "url": "http://shoutcast.itechnepal.net/tunein.php/merosathi/playlist.pls"
+      },
+      {
+       "name": "Metro FM",
+       "url": "http://streaming.softnep.net:8035/"
+      },
+      {
+       "name": "Mithilanchal FM",
+       "url": "http://radio.itech.host:8640/stream"
+      },
+      {
+       "name": "Mithilanchal FM 1050",
+       "url": "http://live.itech.host:8640/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Mithilanchal Today Online Radio",
+       "url": "https://stream.zeno.fm/215088d73k0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Mithlanchal FM",
+       "url": "https://live.itech.host:8645/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Music_Dream",
+       "url": "https://stream.zeno.fm/05buy9ugy38uv",
+       "language_inferred": true
+      },
+      {
+       "name": "my fm 94.3 mhz",
+       "url": "https://stream.zeno.fm/t3pfgdf7xf8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "My Fm 94.3 Mhz",
+       "url": "https://stream.zeno.fm/skp0wv0xnabvv",
+       "language_inferred": true
+      },
+      {
+       "name": "My Online Radio",
+       "url": "https://stream.zeno.fm/3vtr3e1h7tzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Nabin Radio",
+       "url": "https://stream.zeno.fm/q8y25fzsvxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "namas-galko",
+       "url": "https://stream.zeno.fm/v222zuemmrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Namaste Sapna",
+       "url": "https://stream.zeno.fm/5uxmsh30sy8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Navajyoti FM",
+       "url": "http://radio.itechnepal.com:8288/live"
+      },
+      {
+       "name": "Naya FM Arghakhanchi",
+       "url": "https://stream.zeno.fm/ywzr6tcsv38uv",
+       "language_inferred": true
+      },
+      {
+       "name": "NCS Radio",
+       "url": "https://stream.zeno.fm/6nebafwnky8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "NDS RADIO",
+       "url": "https://stream.zeno.fm/kcrvs3wctv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Nectar Digit",
+       "url": "https://stream.zeno.fm/4a4w0nmkx38uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Nepal FM",
+       "url": "http://radio.itechnepal.com:8878/"
+      },
+      {
+       "name": "Nepal FM 91.8",
+       "url": "http://streaming.softnep.net:7740/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Nepal FM 91.8 ONAIR",
+       "url": "https://stream.zeno.fm/q5g3y1ykvy8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Nepal FM Network 91.8",
+       "url": "https://stream.zeno.fm/p5qeszac5f8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "nepal help",
+       "url": "https://stream.zeno.fm/97hqh25ekf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Nepal Networks",
+       "url": "https://stream.zeno.fm/2zrhwwqd4uhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Nepal24express",
+       "url": "https://stream.zeno.fm/sc6whkwg8x8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Nepali 90s Songs",
+       "url": "https://stream.zeno.fm/xdsgfdukb8zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Nepali Network FM 90.5MHz",
+       "url": "https://stream.zeno.fm/wb07csnkmrhvv"
+      },
+      {
+       "name": "Nepali Old Radio",
+       "url": "https://stream.zeno.fm/21m10xuf8s8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Nepali Online Radio",
+       "url": "https://stream.zeno.fm/cqnw9839xa0uv"
+      },
+      {
+       "name": "Nepali Radio",
+       "url": "https://stream.zeno.fm/gak71uvb9e9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Nepali Radioo",
+       "url": "https://stream.zeno.fm/p9fm8ewb9e9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Nepali Sanchar Radio",
+       "url": "https://stream.zeno.fm/ak6yc4wr40duv"
+      },
+      {
+       "name": "Nepali Sangsar Online Radio",
+       "url": "https://stream.zeno.fm/7tf3ghq3mp8uv"
+      },
+      {
+       "name": "Nepali Song",
+       "url": "https://stream.zeno.fm/7nh11y5ha8zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Nepaliko Radio 88.8 FM",
+       "url": "http://144.76.110.154:9888/"
+      },
+      {
+       "name": "NepalikoRadio",
+       "url": "https://stream.zeno.fm/v1n5mw5gaxhvv"
+      },
+      {
+       "name": "Nepse Bajar",
+       "url": "https://stream.zeno.fm/tzs4qth6kuhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "nepsong",
+       "url": "https://stream.zeno.fm/kg2ktp14qxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Newa FM",
+       "url": "http://216.55.141.189:8683/stream.mp3"
+      },
+      {
+       "name": "Newa Radio",
+       "url": "http://live.itechnepal.com:9064/stream"
+      },
+      {
+       "name": "Newa Radio",
+       "url": "https://stream.zeno.fm/26cgdyyckfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "News Nepal",
+       "url": "https://stream.zeno.fm/g792kbssu38uv",
+       "language_inferred": true
+      },
+      {
+       "name": "news nepal- niru gautam",
+       "url": "https://stream.zeno.fm/760rw8x64v8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "NeXiS Radio",
+       "url": "https://stream.zeno.fm/pq53hsniww1vv",
+       "language_inferred": true
+      },
+      {
+       "name": "NileKhabar FM",
+       "url": "https://stream.zeno.fm/mg2b16tf6f0uv"
+      },
+      {
+       "name": "oaslive",
+       "url": "https://stream.zeno.fm/u8k19yfwx7zuv"
+      },
+      {
+       "name": "OGR-NP-DOHAL",
+       "url": "https://stream.zeno.fm/z8qr71tday8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Online Aafnai Radio",
+       "url": "https://stream.zeno.fm/uun4c3n9m48uv"
+      },
+      {
+       "name": "Online FM",
+       "url": "https://stream.zeno.fm/0cu4ikikynntv",
+       "language_inferred": true
+      },
+      {
+       "name": "Online Radio AGMT",
+       "url": "https://stream.zeno.fm/9zwvp2hv9c0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Online Radio Nabin Sansar",
+       "url": "https://stream.zeno.fm/f37ewk23gd0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Online Radio Tribeni",
+       "url": "https://stream.zeno.fm/n8ey05ydbxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Online Radio Tribeni Rolpa",
+       "url": "https://stream.zeno.fm/xwispkjqnrgvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Pahilo Radio",
+       "url": "http://shoutcast.itechnepal.net:7506/stream.mp3"
+      },
+      {
+       "name": "Pathibhara fm",
+       "url": "https://live.itech.host:8749/live",
+       "language_inferred": true
+      },
+      {
+       "name": "Phoolbari FM",
+       "url": "http://shoutcast.itechnepal.net:8102/"
+      },
+      {
+       "name": "Popular FM",
+       "url": "http://radio.itechnepal.com:8774/live"
+      },
+      {
+       "name": "Pradesh FM 105",
+       "url": "https://live.itech.host:8021/stream"
+      },
+      {
+       "name": "PRESS UNION ITAHARI",
+       "url": "https://stream.zeno.fm/fmkw3hsvqnhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Prime FM Live",
+       "url": "https://live.itech.host:3070/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Prime FM – 104.5 FM – Banepa – Central Region – NP",
+       "url": "https://streaming.softnep.net:10910/",
+       "language_inferred": true
+      },
+      {
+       "name": "Prixa Radio",
+       "url": "https://stream.zeno.fm/4337d5raay8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "ProSaugat",
+       "url": "https://stream.zeno.fm/rfd28gkf22quv",
+       "language_inferred": true
+      },
+      {
+       "name": "PUBLIC FM",
+       "url": "https://stream.zeno.fm/qs9qse8h7yzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Rachit",
+       "url": "https://stream.zeno.fm/pafkf6199yzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "rad-sans",
+       "url": "https://stream.zeno.fm/3vmqtsmwurhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "rad-upa",
+       "url": "https://stream.zeno.fm/vb1a5bo44qquv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio  malangwa 95.6 Mhz",
+       "url": "https://stream.zeno.fm/g1cs2f7ndv8uv"
+      },
+      {
+       "name": "Radio Aandhikhola",
+       "url": "http://live.itech.host:8858/live",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Aandhikhola Online",
+       "url": "https://stream.zeno.fm/z21td188fxquv"
+      },
+      {
+       "name": "Radio Aarambha  LISTEN LIVE",
+       "url": "https://stream.zeno.fm/fu1rhrn9z38uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Amurta",
+       "url": "http://192.190.84.25:9974"
+      },
+      {
+       "name": "Radio Annapurna",
+       "url": "http://streaming.softnep.net:8091/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Annapurna Nepal",
+       "url": "https://stream.zeno.fm/0us9r5qmh48uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Arpan",
+       "url": "https://stream.zeno.fm/v744zbwd74zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Arpan 104.5",
+       "url": "http://streaming.hamropatro.com:8138/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Arun",
+       "url": "http://live.itech.host:7076/live?n=ecc68053d22435413cc4"
+      },
+      {
+       "name": "Radio Attariya",
+       "url": "https://stream.zeno.fm/n8y7ys5sb0hvv"
+      },
+      {
+       "name": "radio bajh",
+       "url": "https://stream.zeno.fm/8e4q065xznhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Balmiki",
+       "url": "http://s9.myradiostream.com:45598/listen.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Bara",
+       "url": "https://stream.zeno.fm/cx7gme4t1nhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Bara 1",
+       "url": "https://stream.zeno.fm/yp1z3dcu1nhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Belauri",
+       "url": "http://live.itech.host:9030/stream"
+      },
+      {
+       "name": "Radio Bhairavi",
+       "url": "https://stream.zeno.fm/kagbuzdmnrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Bhajan",
+       "url": "https://stream.zeno.fm/yhsq6kqerd0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Bhimeshwor",
+       "url": "https://stream.zeno.fm/hxe1sm5nw38uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Bhorukawa",
+       "url": "http://live.itech.host:8374/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio birat",
+       "url": "https://stream.zeno.fm/seuvv0xqmrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Birgunj FM",
+       "url": "http://streaming.softnep.net:8017/"
+      },
+      {
+       "name": "Radio Budhinanda FM",
+       "url": "https://stream.zeno.fm/xrxhqggpq7zuv"
+      },
+      {
+       "name": "Radio Burtibang",
+       "url": "https://stream.zeno.fm/wp23dfun2p8uv"
+      },
+      {
+       "name": "Radio Chhaharu",
+       "url": "https://stream.zeno.fm/3k9yvh7uquhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Chhathar 103.9",
+       "url": "https://www.radiochhathar.com/?fbclid=IwAR3ybqQXviC6liWsBKiH9419i2vLBy2y7adil2Jk-HY-3Wwo08-5-dcdpVY"
+      },
+      {
+       "name": "Radio Chimkeshwori",
+       "url": "http://live.itech.host:7128/live"
+      },
+      {
+       "name": "Radio Chitwan 94.6 Mhz",
+       "url": "https://stream.zeno.fm/2t0a45f77ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio dadadara FM",
+       "url": "https://stream.zeno.fm/97e6u9vg0hhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Damkada",
+       "url": "https://stream.zeno.fm/wqzm8k45138uv"
+      },
+      {
+       "name": "Radio Deshantar",
+       "url": "https://stream.zeno.fm/9902wue4pzzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Deshbyapi",
+       "url": "https://stream.zeno.fm/8ams0dku538uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Dhalkewar",
+       "url": "https://stream.zeno.fm/vsd8ng7xsltuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Dhankuta",
+       "url": "https://live.itech.host:9478/radio",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Dharan",
+       "url": "http://live.itechnepal.com:7064/stream"
+      },
+      {
+       "name": "Radio Didibahini",
+       "url": "http://live.itech.host:8326/live?n=c06c2eb96f288f38a36c"
+      },
+      {
+       "name": "radio dorbista",
+       "url": "https://stream.zeno.fm/ua7a3hn0trhvv"
+      },
+      {
+       "name": "Radio Hamro Jalpa",
+       "url": "https://stream.zeno.fm/2quytby1ekhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio hamro Jalpa",
+       "url": "https://stream.zeno.fm/ce9ntey1ekhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Hamro Pahunch",
+       "url": "http://live.itech.host:8688/live",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Hatemalo",
+       "url": "https://stream.zeno.fm/tmhvu398n98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Himalaya",
+       "url": "https://live.itech.host/himalayaradio?1588276425741"
+      },
+      {
+       "name": "Radio Himalaya",
+       "url": "http://core.itech.host:8541/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Himalaya",
+       "url": "https://live.itech.host/himalayaradio?1588276425741?n=1b3328ee15d6203d97c0",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Himalaya",
+       "url": "http://radio.itech.host:8541/stream"
+      },
+      {
+       "name": "Radio Himalaya",
+       "url": "http://live.itech.host:8541/"
+      },
+      {
+       "name": "Radio Himalaya",
+       "url": "https://stream.zeno.fm/07r4sm1uqg0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Himalayan",
+       "url": "https://stream.zeno.fm/aw5dpd62238uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Holeri FM",
+       "url": "https://stream.zeno.fm/wm6khfwvdf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO HOPE",
+       "url": "http://192.190.84.25:9302/"
+      },
+      {
+       "name": "RADIO HOPE – Kathmandu – Central Region – NP",
+       "url": "https://live.itech.host:2190/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO HUMSAFAR",
+       "url": "https://stream.zeno.fm/szfmr54krc9uv"
+      },
+      {
+       "name": "Radio Jaljala 96.4",
+       "url": "https://live.itech.host:8149/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Janakpur",
+       "url": "http://streaming.hamropatro.com:8002/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Janasanchar",
+       "url": "https://radio.online.net.np/8116/stream",
+       "country_inferred": true
+      },
+      {
+       "name": "Radio Janasanchar",
+       "url": "http://jfm.online.org.np:5998/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Janata 89.1",
+       "url": "https://streaming.webhostnepal.com:7016/stream.nsv&type=mp3&volume=70?n=2d7f285a799e0b01539c",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Kalaiya",
+       "url": "https://stream.zeno.fm/yvibkj7zroctv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Kanyam",
+       "url": "https://stream.zeno.fm/xxu6k57yx68uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Khashkhabar",
+       "url": "https://stream.zeno.fm/q6rtz01q638uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Khot",
+       "url": "https://stream.zeno.fm/s1gyrdk37nhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio King FM",
+       "url": "https://stream.zeno.fm/mef816srgy8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Kolhabi",
+       "url": "https://stream.zeno.fm/3ekwshwgewzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "radio kutumba",
+       "url": "https://stream.zeno.fm/x03772awdg0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Laligurans 105.2",
+       "url": "https://live.itech.host:8933/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Langtang",
+       "url": "https://stream.zeno.fm/bgavfkbsf48uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Madanpokhara",
+       "url": "http://streaming.hamropatro.com:8236/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio madhaypahad",
+       "url": "https://stream.zeno.fm/mma5h4x57zhvv"
+      },
+      {
+       "name": "Radio Madhuban",
+       "url": "https://stream.zeno.fm/fng8829fqd0uv"
+      },
+      {
+       "name": "Radio Madhya Pahad",
+       "url": "https://stream.zeno.fm/rc6ty0s2rxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Madhyabindu 101.0",
+       "url": "http://streaming.softnep.net:8077/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Madhyapaschim",
+       "url": "https://live.itech.host:9011/stream"
+      },
+      {
+       "name": "Radio Madi",
+       "url": "https://stream.zeno.fm/xyghv6gydzzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Madi Aawaj Rolpa",
+       "url": "https://stream.zeno.fm/p9aeucp3mp8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Mahakali",
+       "url": "http://rstream.abgroupnepal.com:8074/radiomahakali"
+      },
+      {
+       "name": "Radio malagawa",
+       "url": "https://stream.zeno.fm/eey4q1e9kg0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Malangwa 95.6 MHz",
+       "url": "https://stream.zeno.fm/9s1m7m3zsxhvv"
+      },
+      {
+       "name": "Radio Malarani",
+       "url": "https://stream.zeno.fm/5qx6a4z3b48uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Manoj",
+       "url": "https://stream.zeno.fm/sfn44nfq9c0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Matribhumi Dailekh",
+       "url": "https://stream.zeno.fm/rn943s6bzxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Matribhumi Dailekh",
+       "url": "https://stream.zeno.fm/4tphhhr4db8vv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Mission Kohalpur",
+       "url": "https://stream.zeno.fm/yew1ytk8a48uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Mixvoice",
+       "url": "https://stream.zeno.fm/ahxtc3tw4s8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Nagarik 1004",
+       "url": "http://live.websoftitnepal.com:9988/"
+      },
+      {
+       "name": "Radio Nagarik 90.8 FM",
+       "url": "https://stream.zeno.fm/wvqw9zw1em8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Namaste",
+       "url": "http://radio.itechnepal.com:9395/live"
+      },
+      {
+       "name": "Radio Namaste Nepal (RNN)",
+       "url": "http://centova47.instainternet.com:8038/stream/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Namobuddha",
+       "url": "http://live.itech.host:8460/stream"
+      },
+      {
+       "name": "Radio Nayabazar",
+       "url": "https://stream.zeno.fm/etmd86b3cy8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Nayabook",
+       "url": "https://stream.zeno.fm/dbnkwu2ftg8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Nepal Jyoti",
+       "url": "https://stream.zeno.fm/0b8v65bhgg0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Nepalbani 94.9",
+       "url": "http://live.itech.host:9635/live",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Next Nepal",
+       "url": "https://stream.zeno.fm/pdaxz18a6p8uv"
+      },
+      {
+       "name": "Radio Next Nepal",
+       "url": "https://stream.zeno.fm/muuw3sf28f8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Nikas",
+       "url": "http://live.itech.host:8756/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio NPS",
+       "url": "https://stream.zeno.fm/hclkxiq36xltv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Nuwakot",
+       "url": "https://stream.zeno.fm/446xpz586zhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Open",
+       "url": "https://stream.zeno.fm/4phh2kycrd0uv"
+      },
+      {
+       "name": "Radio Paribartan",
+       "url": "http://shoutcast.controls.com.np:8406/"
+      },
+      {
+       "name": "Radio Paschim Aawaj",
+       "url": "https://live.itech.host:7022/stream"
+      },
+      {
+       "name": "Radio Paschim Today",
+       "url": "http://live.itech.host:7023/live"
+      },
+      {
+       "name": "Radio Pokhariya",
+       "url": "https://stream.zeno.fm/rocru7c9cltvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Prabhu FM",
+       "url": "http://live.itech.host:8916/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio pradeshpost",
+       "url": "https://stream.zeno.fm/tnt8hz0tqfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Prakriti",
+       "url": "http://radio.itech.host:8934/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Prakriti",
+       "url": "http://live.itech.host:8934/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Ramechhap 958",
+       "url": "http://live.itechnepal.com:8994/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Rangin",
+       "url": "https://stream.zeno.fm/px0v25c95zhvv"
+      },
+      {
+       "name": "Radio Rangin – NP",
+       "url": "https://stream-40.zeno.fm/px0v25c95zhvv?zs=SQ7C1MLXR4OogNH7_T_YyQ",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Rastriya 89.8 FM",
+       "url": "http://37.59.42.207:8232/"
+      },
+      {
+       "name": "Radio Resunga",
+       "url": "https://stream.zeno.fm/5cm2t3shdphvv"
+      },
+      {
+       "name": "RADIO RHYTHM 99.7 MHz",
+       "url": "https://stream.zeno.fm/q0cgx3a8qchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Rolpa",
+       "url": "http://live.itech.host:9084/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Rolpa",
+       "url": "http://radio.itech.host:9084/live?1546415738344",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Rudraksha",
+       "url": "https://stream.zeno.fm/zkpqy0x2h18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Rupantaran",
+       "url": "https://stream.zeno.fm/vbs5nb3tfy8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Rupantaran",
+       "url": "https://stream.zeno.fm/7a4k4b3tfy8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Sadvab",
+       "url": "http://streaming.softnep.net:8199/stream.nsv"
+      },
+      {
+       "name": "Radio Safalta",
+       "url": "https://live.itech.host:9149/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Sagar – Hobart – AU-TAS",
+       "url": "https://eu1.fastcast4u.com/proxy/radiosag?mp=/1",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Sagarmatha 102.4",
+       "url": "http://143.95.89.54:9322/"
+      },
+      {
+       "name": "Radio Sagarmatha 102.4 FM – 102.4 FM – Kathmandu – Central Region – NP",
+       "url": "http://161.97.67.77:9300/&autostart=true",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Sahino",
+       "url": "http://live.itech.host:7093/live"
+      },
+      {
+       "name": "Radio Saligram (Kushma)",
+       "url": "http://radio.itechnepal.com:9341/live"
+      },
+      {
+       "name": "Radio Samagra",
+       "url": "http://radio.itechnepal.com:9389/live"
+      },
+      {
+       "name": "Radio Samarpan",
+       "url": "https://stream.zeno.fm/2r0ke90cdd0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Sandesh",
+       "url": "http://live.itechnepal.com:7170/stream?type=.mp3"
+      },
+      {
+       "name": "Radio Sanket",
+       "url": "https://stream.zeno.fm/cg0pt545sk8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Sankhuwasava",
+       "url": "http://live.itech.host:7016/live"
+      },
+      {
+       "name": "Radio Sanobheri",
+       "url": "https://live.itech.host:9430/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Sarangi Morang",
+       "url": "http://streaming.softnep.net:8115",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Sarathi",
+       "url": "http://live.itech.host:9467/stream"
+      },
+      {
+       "name": "Radio Sarokar 98.5 fm",
+       "url": "https://stream.zeno.fm/fyea7c0yzf8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Sathi",
+       "url": "http://live.itech.host:7115/live?n=f35f0df5fc3c99ce1ceb"
+      },
+      {
+       "name": "Radio Shahidnagar 106.3 MHz",
+       "url": "https://stream.zeno.fm/d0ss4vn67ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Shreenagar Humla",
+       "url": "https://stream.zeno.fm/bv2ek4ta1hhvv"
+      },
+      {
+       "name": "Radio Shringeshwor 104.4 Mhz",
+       "url": "http://stream.zeno.fm/1qgfbe6sz1zuv/"
+      },
+      {
+       "name": "Radio Shubham",
+       "url": "http://suv.online.org.np:9996/stream.mp3",
+       "country_inferred": true
+      },
+      {
+       "name": "radio sscpn",
+       "url": "https://stream.zeno.fm/2zr4wu9fh48uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Sudoorawaz",
+       "url": "https://live.itech.host:8634/stream"
+      },
+      {
+       "name": "Radio Sunchhahari FM",
+       "url": "https://stream.zeno.fm/pj8g84bl04qtv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Suryamukhi FM",
+       "url": "https://stream.zeno.fm/92f1q3r85zhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Syangja",
+       "url": "https://live.itech.host:8891/stream?1618729077008",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Tamor",
+       "url": "https://live.itech.host:8940/stream"
+      },
+      {
+       "name": "Radio Tanahun FM",
+       "url": "https://live.itech.host:8981/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Terhathum",
+       "url": "https://live.itech.host:9150/stream"
+      },
+      {
+       "name": "Radio Test",
+       "url": "https://stream.zeno.fm/m025pfgugkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio thaha sanchar",
+       "url": "https://stream.zeno.fm/f1e3pza9ay8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Tharuhat",
+       "url": "http://streaming.webhostnepal.com:8014/stream/"
+      },
+      {
+       "name": "Radio Tiger",
+       "url": "http://live.itech.host:7057/live"
+      },
+      {
+       "name": "Radio Tufan",
+       "url": "https://stream.zeno.fm/e2a0wew9dd0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO TUFAN",
+       "url": "https://stream.zeno.fm/xfsde6aiqbnvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Vision 916",
+       "url": "http://streaming.hamropatro.com:8427/",
+       "language_inferred": true
+      },
+      {
+       "name": "radio-akas",
+       "url": "https://stream.zeno.fm/q77n31gmmrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radiodhanush",
+       "url": "https://stream.zeno.fm/5e8vtz25mg0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "radiohamrojalpa",
+       "url": "https://stream.zeno.fm/43rv09askchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radiokhabarsansaar",
+       "url": "https://stream.zeno.fm/z9k09us0pryuv",
+       "language_inferred": true
+      },
+      {
+       "name": "radiotourism",
+       "url": "https://stream.zeno.fm/a6bx3kmex4zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Rai Radio Nepal",
+       "url": "http://live.itechnepal.com:9076/stream"
+      },
+      {
+       "name": "Ramailo Music Radio",
+       "url": "https://stream.zeno.fm/y3vvwupm2p8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "ramnagar",
+       "url": "https://stream.zeno.fm/4rk8cyp4qxhvv"
+      },
+      {
+       "name": "Rapti FM",
+       "url": "https://stream.zeno.fm/ynbwyustzayuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Rastriya sandesh",
+       "url": "https://stream.zeno.fm/50ph1t14gwzuv"
+      },
+      {
+       "name": "Red FM",
+       "url": "http://live.websoftitnepal.com:9300/",
+       "language_inferred": true
+      },
+      {
+       "name": "Red FM",
+       "url": "http://192.190.84.25:9900/"
+      },
+      {
+       "name": "Relation FM",
+       "url": "http://streaming.softnep.net:8119"
+      },
+      {
+       "name": "Relation FM 88MHz",
+       "url": "https://stream.zeno.fm/txg060uzpnhvv"
+      },
+      {
+       "name": "Relaxing",
+       "url": "https://stream.zeno.fm/sp6zqbrqefhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Republic Madhesh Online",
+       "url": "https://stream.zeno.fm/hz2d8cvp6x8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RN Media Network",
+       "url": "https://stream.zeno.fm/1c028vwe1hhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Rubaru FM",
+       "url": "https://live.itech.host:9101/radio",
+       "language_inferred": true
+      },
+      {
+       "name": "Ruru Fm",
+       "url": "http://node-13.zeno.fm/be8hr3kr44zuv?rj-ttl=5\\u0026rj-tok=AAABfeYm2VoAdLfcHQV-IBGaWA"
+      },
+      {
+       "name": "ruru fm",
+       "url": "https://stream.zeno.fm/4pfph3kr44zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Bheri",
+       "url": "http://live.itech.host:9060/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "sagar_kadel",
+       "url": "https://stream.zeno.fm/xewn2p7usf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Sajha Dabali",
+       "url": "https://stream.zeno.fm/39x74u3p6tzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Sajhadainik",
+       "url": "https://stream.zeno.fm/83hekuxbxf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Sama Radio",
+       "url": "https://stream.zeno.fm/dam98g9ejntuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Sanatan Radio Network",
+       "url": "http://216.55.141.189:8769/streamstream.nsv",
+       "language_inferred": true
+      },
+      {
+       "name": "Sanatan Sarokar",
+       "url": "https://stream.zeno.fm/18a8b7pk8x8uv"
+      },
+      {
+       "name": "Sapna Media",
+       "url": "https://stream.zeno.fm/gbtq0g20sy8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Saptakoshi FM",
+       "url": "http://streaming.hamropatro.com:8214/",
+       "language_inferred": true
+      },
+      {
+       "name": "Saroj Fm",
+       "url": "https://stream.zeno.fm/pgvfmw6zsxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Saugaat FM 103.6",
+       "url": "http://live.itech.host:9659/live",
+       "language_inferred": true
+      },
+      {
+       "name": "Sayapatri Fm",
+       "url": "https://stream.zeno.fm/wehq6k0z71zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "SBM Fm",
+       "url": "https://stream.zeno.fm/r6d1yapc9e9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Sherpa Radio",
+       "url": "http://live.itechnepal.com:9070/stream"
+      },
+      {
+       "name": "Shramik Sanjal Radio",
+       "url": "https://stream.zeno.fm/x4r5xmp0kwzuv"
+      },
+      {
+       "name": "Shreecha Online Radio",
+       "url": "https://stream.zeno.fm/0zvdyawn108uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Shreengeshwor",
+       "url": "https://stream.zeno.fm/5wqa0c6sz1zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Shubhakamana FM",
+       "url": "https://stream.zeno.fm/rtc47bt5v68uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Siddhartha FM",
+       "url": "http://radio.itechnepal.com:9575/live"
+      },
+      {
+       "name": "Simle FM",
+       "url": "https://stream.zeno.fm/ez9fupr5py8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Singhalila FM 97.3",
+       "url": "https://live.itech.host:3330/stream"
+      },
+      {
+       "name": "SkyFM 106.6",
+       "url": "http://onair.websoftitnepal.com:8058/"
+      },
+      {
+       "name": "Smart F.M",
+       "url": "https://stream.zeno.fm/fre3geeja8quv",
+       "language_inferred": true
+      },
+      {
+       "name": "SMMN FM",
+       "url": "https://stream.zeno.fm/aezzs6f7af9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "SMMN Station",
+       "url": "https://stream.zeno.fm/4bgknrf7af9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Smp awaj",
+       "url": "https://stream.zeno.fm/df91vqkr7x8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Space Station",
+       "url": "https://stream.zeno.fm/man5hxrabsxvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Star FM",
+       "url": "http://live.itech.host:9544/live"
+      },
+      {
+       "name": "STAR FM 95.2 MHz",
+       "url": "https://live.itech.host:9544/stream"
+      },
+      {
+       "name": "Station ID",
+       "url": "https://stream.zeno.fm/xer16g8phy8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "sumanadh",
+       "url": "https://stream.zeno.fm/yxma9xb41xhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Sunaulo Fm",
+       "url": "http://live.itechnepal.com:8014/stream"
+      },
+      {
+       "name": "Sunne Katha",
+       "url": "https://stream.zeno.fm/zvy2mg34kfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Swadesh FM",
+       "url": "http://streaming.hamropatro.com:8653/"
+      },
+      {
+       "name": "Swadesh FM",
+       "url": "https://radio.garden/api/ara/content/listen/ApPqIXdm/channel.mp3?1700834587158?n=2ed60606eba1e3900347",
+       "language_inferred": true
+      },
+      {
+       "name": "Swadesh FM 93.2",
+       "url": "https://stream.zeno.fm/z1tw5avnephvv"
+      },
+      {
+       "name": "Swarnim Fm 96.3 Mhz",
+       "url": "https://stream.zeno.fm/kb5r8vu0c48uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Syangja Internet Radio",
+       "url": "https://stream.zeno.fm/bx7t5muk8k8uv"
+      },
+      {
+       "name": "Syav Studios",
+       "url": "https://stream.zeno.fm/gnpk3m7fy38uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Synergy FM",
+       "url": "https://live.itech.host:3880/live",
+       "language_inferred": true
+      },
+      {
+       "name": "Tamakoshi FM 91Mhz",
+       "url": "https://stream.zeno.fm/ngk87ghmx38uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Tamang Radio",
+       "url": "https://stream.zeno.fm/nz9qgd36hfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Tatokhabar Radio",
+       "url": "https://stream.zeno.fm/kgycmwcgkf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "testNEpal Radio",
+       "url": "https://stream.zeno.fm/kdoj7ptncwzvv",
+       "language_inferred": true
+      },
+      {
+       "name": "ThahaOnline Radio",
+       "url": "https://stream.zeno.fm/ckcgh2q78a0uv"
+      },
+      {
+       "name": "The Nepali Online Radio",
+       "url": "https://stream.zeno.fm/mp9argpqgf9uv"
+      },
+      {
+       "name": "The Radio Hot",
+       "url": "http://184.154.90.186:8032/",
+       "language_inferred": true
+      },
+      {
+       "name": "Times Fm 90.6",
+       "url": "https://stream.zeno.fm/v8lrneqey9iuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Times FM 90.6",
+       "url": "http://144.76.110.138:9999/tfmpls.m3u"
+      },
+      {
+       "name": "Times FM 90.6 MHz",
+       "url": "https://stream.zeno.fm/4q8smr827zhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Times90.6 FM",
+       "url": "https://stream.zeno.fm/kvxchbfqme9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Tinau FM",
+       "url": "http://217.79.245.66:8293/stream/",
+       "language_inferred": true
+      },
+      {
+       "name": "Tinau Radio",
+       "url": "http://streaming.softnep.net:8293/"
+      },
+      {
+       "name": "Ujyaalo Mail",
+       "url": "https://stream.zeno.fm/qqw4u0k9t18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Ujyaalo Radio Network",
+       "url": "https://stream.zeno.fm/yesqm08xq1duv"
+      },
+      {
+       "name": "Unique FM",
+       "url": "https://stream.zeno.fm/cdk5a9q937zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Vijaya FM",
+       "url": "http://live.itech.host:3310/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Vijayapur FM",
+       "url": "https://live.itech.host:9479/stream"
+      },
+      {
+       "name": "Vijaypur FM (Dharān)",
+       "url": "http://radio.itechnepal.com:9479/live"
+      },
+      {
+       "name": "Wedding",
+       "url": "https://stream.zeno.fm/1u1rfrhfzrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "White FM",
+       "url": "https://stream.zeno.fm/hx2g4tn4q98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Whitemix",
+       "url": "https://stream.zeno.fm/stk4djmpafkuv",
+       "language_inferred": true
+      },
+      {
+       "name": "WLTTI Radio",
+       "url": "https://stream.zeno.fm/8atats57vuhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Yesmobile FM",
+       "url": "https://stream.zeno.fm/0vbx03myurhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Your Osho",
+       "url": "https://stream.zeno.fm/vsclhh8it6otv",
+       "language_inferred": true
+      },
+      {
+       "name": "Zerone Live",
+       "url": "https://stream.zeno.fm/crszuf0nguquv",
+       "language_inferred": true
+      },
+      {
+       "name": "कालजयी नेपाली पुराना गीतहरु",
+       "url": "http://209.95.50.189:8106/stream/1/?fbclid=IwAR23mjjmHllb--s59PzUC3WueP-alzPIQcc8IGBCI7EucZ0PpFc1yQBQQBg?n=cc18bf0eedfb0cf4ff74",
+       "language_inferred": true
+      }
+     ]
+    }
+   }
+  },
+  "Hindi": {
+   "count": 12,
+   "genres": {
+    "college_community": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Nepali Online Radio",
+       "url": "https://stream.zeno.fm/v2jtf324s2ktv"
+      }
+     ]
+    },
+    "soundtrack": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Himal Radio - Hindi Filmy",
+       "url": "http://streaming.webhostnepal.com:8020/stream/"
+      }
+     ]
+    },
+    "sports": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "my fm 94.3 mhz",
+       "url": "https://stream.zeno.fm/8xga0gwdhg0uv"
+      }
+     ]
+    },
+    "world": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Himal Radio - Hindi Classic",
+       "url": "https://streaming.webhostnepal.com/8012/stream"
+      },
+      {
+       "name": "Himal Radio - Hindi Filmy",
+       "url": "http://streaming.webhostnepal.com/8020/stream"
+      },
+      {
+       "name": "क्युएन खबर",
+       "url": "http://188.165.232.7:8612/stream",
+       "tags": [
+        "world",
+        "news_talk"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 6,
+     "stations": [
+      {
+       "name": "dj cynide",
+       "url": "https://stream.zeno.fm/gq2012s4zehvv"
+      },
+      {
+       "name": "Himal Radio -  Online Radio",
+       "url": "https://streaming.webhostnepal.com/8026/stream"
+      },
+      {
+       "name": "Himal Radio - Hindi Classic",
+       "url": "http://streaming.webhostnepal.com:8012/stream/"
+      },
+      {
+       "name": "Hits FM 91.2",
+       "url": "https://usa15.fastcast4u.com/proxy/hitsfm912?mp=/1?n=d6cf7c5ace4ef7d05282"
+      },
+      {
+       "name": "Radio Kantipur",
+       "url": "https://stream.zeno.fm/nufpexq4gd0uv"
+      },
+      {
+       "name": "Radiomadhesh",
+       "url": "https://stream.zeno.fm/kdhfr939hg0uv"
+      }
+     ]
+    }
+   }
+  },
+  "English": {
+   "count": 6,
+   "genres": {
+    "news_talk": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Radio Kantipur",
+       "url": "https://radio-broadcast.ekantipur.com/stream",
+       "tags": [
+        "news_talk",
+        "world",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Sarangi Pokhara radio",
+       "url": "http://streaming.softnep.net:8107/",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "world": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Swadesh FM",
+       "url": "http://216.55.141.189:8653/live",
+       "tags": [
+        "pop_hits",
+        "world"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Devamobg",
+       "url": "https://stream.zeno.fm/prtmuggnd3rtv"
+      },
+      {
+       "name": "Khoj Radio",
+       "url": "http://198.178.123.11:7628/"
+      },
+      {
+       "name": "Radio Aaha",
+       "url": "http://fm.mycomputersathi.com:5122/"
+      }
+     ]
+    }
+   }
+  },
+  "Malayalam": {
+   "count": 2,
+   "genres": {
+    "pop_hits": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Bhojpuriya FM",
+       "url": "http://streaming.softnep.net:8143/stream.nsv&type=mp3&volume=60"
+      },
+      {
+       "name": "Bhojpuriya FM radio",
+       "url": "http://streaming.softnep.net:8143/stream.nsv\\u0026type=mp3\\u0026volume=60"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

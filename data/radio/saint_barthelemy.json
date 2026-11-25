@@ -1,0 +1,71 @@
+{
+ "country": "Saint Barthelemy",
+ "count": 5,
+ "languages": {
+  "French": {
+   "count": 4,
+   "genres": {
+    "latin": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "TROPIK FM",
+       "url": "https://sv1.vestaradio.com/TROPIKFM",
+       "tags": [
+        "latin",
+        "reggae_ska",
+        "folk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "TROPIK FM",
+       "url": "http://live1.vestaradio.com:4330/",
+       "language_inferred": true
+      }
+     ]
+    },
+    "rock": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "TheRebels1952 Listen live",
+       "url": "https://stream.laut.fm/1952rebelsradio?ref=radiode",
+       "tags": [
+        "rock",
+        "oldies",
+        "country",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Tropik FM",
+       "url": "https://stream.vestaradio.com/TROPIKFM",
+       "language_inferred": true
+      }
+     ]
+    }
+   }
+  },
+  "English": {
+   "count": 1,
+   "genres": {
+    "pop_hits": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Sun FM Music",
+       "url": "http://streamantille.com:8270/stream.mp3"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

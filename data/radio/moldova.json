@@ -1,0 +1,2389 @@
+{
+ "country": "Moldova",
+ "count": 304,
+ "languages": {
+  "Romanian": {
+   "count": 268,
+   "genres": {
+    "alternative_indie": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Moldova Muzical",
+       "url": "http://radiolive.trm.md:8000/RM-Muzical-aacp?n=114eba05d18bd83229b7",
+       "tags": [
+        "oldies",
+        "alternative_indie",
+        "rock",
+        "classical",
+        "jazz",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "ambient_relax": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "OM Radio",
+       "url": "http://188.138.237.167:8002/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Relax - Oasis",
+       "url": "https://stream.pcradio.ru/rad_rdrelxsis-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio ZUM4",
+       "url": "https://streams.radiozum.md/listen/zum4/ZUM4?n=082bd907659e0173d285"
+      }
+     ]
+    },
+    "chillout_lounge": {
+     "count": 6,
+     "stations": [
+      {
+       "name": "Maestro FM",
+       "url": "http://live.maestrofm.md:8000/maestro",
+       "tags": [
+        "chillout_lounge",
+        "news_talk",
+        "easy_listening",
+        "electronic",
+        "jazz",
+        "classical",
+        "ambient_relax"
+       ]
+      },
+      {
+       "name": "Maestro FM",
+       "url": "https://www.radio.md/stream/maestrofm",
+       "tags": [
+        "chillout_lounge",
+        "easy_listening"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Maestro FM - Chisinau",
+       "url": "https://www.liveradio.es/http://live.muzfm.md:8000/maestro",
+       "tags": [
+        "chillout_lounge",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Maestro FM 97.7 radio",
+       "url": "https://onlineradiobox.com/json/md/maestrofm/play?platform=web",
+       "tags": [
+        "chillout_lounge",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "OM Radio",
+       "url": "http://188.138.198.247:8002/stream.nsv",
+       "tags": [
+        "chillout_lounge",
+        "ambient_relax",
+        "house"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Relax Moldova radio",
+       "url": "https://stream.dixi.md:9443/RadioRelax",
+       "tags": [
+        "chillout_lounge",
+        "easy_listening",
+        "ambient_relax"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "christian_gospel": {
+     "count": 6,
+     "stations": [
+      {
+       "name": "LSM Radio Network",
+       "url": "https://crs.webdesign-flash.ro/?q=http://162.251.160.26:80/stream/&plugin_id=7628&site_id=8520577",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Radio Logos Moldova",
+       "url": "http://asculta.logos.md:10000/live"
+      },
+      {
+       "name": "Radio LOGOS Moldova",
+       "url": "http://188.138.201.97:10000/live256",
+       "tags": [
+        "christian_gospel",
+        "classical"
+       ]
+      },
+      {
+       "name": "Radio Logos radio",
+       "url": "https://www.radio.md/stream/radiologos",
+       "tags": [
+        "christian_gospel",
+        "news_talk",
+        "various_eclectic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Micul Samaritean",
+       "url": "https://stream.pcradio.ru/rad_mclsmrtn-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Micul Samaritean FM 104.2",
+       "url": "http://162.251.160.26:80/streamstream/1",
+       "language_inferred": true
+      }
+     ]
+    },
+    "comedy": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Stariy Portfel Radio",
+       "url": "https://stream.pcradio.ru/rad_oldportfl-med",
+       "language_inferred": true
+      }
+     ]
+    },
+    "decade_80s": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio 7",
+       "url": "http://87.255.90.94:8000/",
+       "language_inferred": true
+      }
+     ]
+    },
+    "disco_eurodance": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Zdob si Zdub Radio",
+       "url": "https://stream.pcradio.ru/Zdob_si_Zdub-med",
+       "language_inferred": true
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 9,
+     "stations": [
+      {
+       "name": "Autoradio (Chisinau)",
+       "url": "https://stream.pcradio.ru/rad_avtchishnu-med",
+       "tags": [
+        "easy_listening",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "OM Radio",
+       "url": "https://www.radio.md/stream/omradio",
+       "tags": [
+        "easy_listening",
+        "ambient_relax",
+        "house",
+        "chillout_lounge",
+        "trance_goa",
+        "electronic"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Albena",
+       "url": "http://109.185.191.129:49400/stream.nsv",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio ONE",
+       "url": "https://stream.pcradio.ru/rad_raonemd-med",
+       "tags": [
+        "easy_listening",
+        "rock",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Relax Contemporan",
+       "url": "https://stream.dixi.md:9443/Relax_cont_aacp_64",
+       "tags": [
+        "easy_listening",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Relax Instrumental",
+       "url": "https://stream.dixi.md:9443/Relax_Instrumental_aacp64",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Relax Moldova",
+       "url": "https://stream.hitfm.md:8443/RadioRelax",
+       "tags": [
+        "easy_listening",
+        "news_talk",
+        "ambient_relax",
+        "chillout_lounge"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Relax Tricolor",
+       "url": "https://stream.dixi.md:9443/Relax_Tricolor_aacp64",
+       "tags": [
+        "easy_listening",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Vocea Basarabiei",
+       "url": "http://arhiva.voceabasarabiei.net:8000/vb_radio?type=.flash/stream.mp3",
+       "tags": [
+        "easy_listening",
+        "pop_hits",
+        "news_talk",
+        "folk"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "electronic": {
+     "count": 32,
+     "stations": [
+      {
+       "name": "7SSR Dance radio",
+       "url": "http://5.32.169.230:8007/",
+       "language_inferred": true
+      },
+      {
+       "name": "Dance FM 101.3 radio",
+       "url": "https://stream.mmgmoldova.md:8443/dancefm",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Euro Dance Radio (EDR)",
+       "url": "http://195.201.129.237:8200/stream.nsv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hit FM 101,7 (Chisinau) Radio",
+       "url": "https://stream.pcradio.ru/hitfm_kishinev-med",
+       "language_inferred": true
+      },
+      {
+       "name": "HIT FM 101.7 radio",
+       "url": "https://stream.dixi.md:9443/HitFM",
+       "tags": [
+        "pop_hits",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "HIT FM Best Hits",
+       "url": "https://stream.hitfm.md:8443/best_hits",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "HIT FM Russkoe Hitovoe Radio",
+       "url": "https://stream.pcradio.ru/rad_hitfmrsskymd-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Kiss Fm Chișinău",
+       "url": "https://live.kissfm.ro/kissfm.chisinau?n=e16cd36d1f40882cd824",
+       "tags": [
+        "pop_hits",
+        "electronic"
+       ]
+      },
+      {
+       "name": "Maestro FM 97.7 (Kishinev) Radio",
+       "url": "https://stream.pcradio.ru/rad_mstrmd-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Master Class FM Radio",
+       "url": "https://stream.pcradio.ru/rad_mstrclassmd-med",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Megapolis FM",
+       "url": "https://megapolisfm.md:8443/886aac",
+       "tags": [
+        "electronic",
+        "pop_hits",
+        "house",
+        "disco_eurodance"
+       ]
+      },
+      {
+       "name": "Megapolis FM",
+       "url": "https://crs.webdesign-flash.ro/?q=http://109.233.194.251:8009/megapolis&plugin_id=7628&site_id=8520577",
+       "tags": [
+        "electronic",
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Megapolis FM (Chisinau) Radio",
+       "url": "https://stream.pcradio.ru/rad_megaplisfmmd-med",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "NRJ Moldova Radio®",
+       "url": "https://s0.radioheart.ru:8000/livemaruseafmmoldova",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "OM Activ",
+       "url": "http://178.17.171.21:8068/om",
+       "tags": [
+        "pop_hits",
+        "electronic",
+        "news_talk",
+        "house"
+       ]
+      },
+      {
+       "name": "OM Radio",
+       "url": "http://188.138.198.247:8002/?type=http&ampnocache=13884",
+       "tags": [
+        "ambient_relax",
+        "various_eclectic",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "OM Radio 2",
+       "url": "http://188.138.198.247:8002/stream.mp3",
+       "tags": [
+        "electronic",
+        "chillout_lounge",
+        "trance_goa"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "OMactiv Cardio Radio Listen live",
+       "url": "https://radio.omactiv.md:8443/om",
+       "tags": [
+        "chillout_lounge",
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "PRO Dj Radio",
+       "url": "http://live.prodjradio.net:8050/",
+       "tags": [
+        "electronic",
+        "pop_hits",
+        "house"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 911",
+       "url": "http://185.181.229.197:8000/live",
+       "tags": [
+        "electronic",
+        "news_talk",
+        "rock",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Albena",
+       "url": "http://109.185.191.129:49400/stream.mp3",
+       "tags": [
+        "pop_hits",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Moldova Muzical",
+       "url": "http://radiolive.trm.md:8000/RM-muzical-64",
+       "tags": [
+        "pop_hits",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Moldova Tineret",
+       "url": "http://radiolive.trm.md:8000/RM-tineret-64",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Moldova Tineret",
+       "url": "http://radiolive.trm.md:8000/RM-Tineret-320?n=2006150cf8d80609c9ce",
+       "tags": [
+        "pop_hits",
+        "electronic"
+       ]
+      },
+      {
+       "name": "Radio Moldova Tineret FM 99.4",
+       "url": "http://radiolive.trm.md:8000/RM-tineret-128",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "electronic"
+       ]
+      },
+      {
+       "name": "Radio OM Activ",
+       "url": "https://stream.pcradio.ru/om_activ-med",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Orhei FM",
+       "url": "http://live.prodjradio.net:8030",
+       "tags": [
+        "electronic",
+        "news_talk",
+        "house"
+       ]
+      },
+      {
+       "name": "Radio Studentus",
+       "url": "http://185.147.49.30:8000/live",
+       "tags": [
+        "electronic",
+        "pop_hits",
+        "house"
+       ]
+      },
+      {
+       "name": "RECORD Moldova Radio",
+       "url": "https://stream.pcradio.ru/rad_rdrcrdmd-med",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Vocal Trance FM",
+       "url": "http://176.9.36.203:8000/vocaltrance_320"
+      },
+      {
+       "name": "Vocal Trance FM - Vocal Chillout",
+       "url": "http://176.9.36.203:8000/vocalchillout_320"
+      },
+      {
+       "name": "xTream Dance",
+       "url": "http://xradio.ovh:8020/radio.mp3?n=59c0f71b7db46e52e3e3",
+       "tags": [
+        "electronic",
+        "trance_goa"
+       ]
+      }
+     ]
+    },
+    "folk": {
+     "count": 17,
+     "stations": [
+      {
+       "name": "FM Radio Manele",
+       "url": "http://213.141.131.10:8000/manele",
+       "tags": [
+        "folk",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "GRT FM (GAGAUZRADIOSU) radio",
+       "url": "https://a9.radioheart.ru:8010/RH76673",
+       "tags": [
+        "folk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "HalizGagauzRadiosu",
+       "url": "https://crs.webdesign-flash.ro/?q=http://s02.radio-tochka.com:8020/radio&plugin_id=7628&site_id=8520577",
+       "tags": [
+        "folk",
+        "world",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Bucovina",
+       "url": "http://live.radiobucovina.ro:8000/?1510244251076.mp3",
+       "tags": [
+        "pop_hits",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Bucovina",
+       "url": "http://167.114.207.232:8000/stream/"
+      },
+      {
+       "name": "Radio Dar Moldova radio",
+       "url": "http://188.138.191.214:8000/RadioDar",
+       "tags": [
+        "folk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Moldova Muzical",
+       "url": "http://radiolive.trm.md:8000/RM-muzical-128"
+      },
+      {
+       "name": "Radio Noroc",
+       "url": "http://live.noroc.tv:8000/radionoroc.aacp",
+       "bitrate": 128,
+       "logo": "http://radio.pervii.com/logo/1403576829.png",
+       "tags": [
+        "pop_hits",
+        "folk"
+       ]
+      },
+      {
+       "name": "Radio Noroc",
+       "url": "https://stream.pcradio.ru/rad_rdnorfolk-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Noroc",
+       "url": "https://storage.voceabasarabiei.md:8001/radionoroc.mp3",
+       "tags": [
+        "folk",
+        "pop_hits"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Noroc radio",
+       "url": "https://stream.noroc.tv/radionoroc_aac",
+       "tags": [
+        "pop_hits",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Plai",
+       "url": "https://www.liveradio.es/http://stream.radioplai.md:8000/live",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Plai Moldova",
+       "url": "http://stream.radioplai.md:8000/live?=1",
+       "bitrate": 128,
+       "logo": "http://radio.pervii.com/im/3/1550202663.jpg",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Plai radio",
+       "url": "https://www.radio.md/stream/radioplai",
+       "tags": [
+        "pop_hits",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio ZUM 3",
+       "url": "https://streams.radiozum.md/listen/zum3/ZUM3",
+       "tags": [
+        "folk",
+        "world",
+        "house",
+        "electronic"
+       ]
+      },
+      {
+       "name": "Vocea Basarabiei",
+       "url": "http://live.noroc.tv:8000/radiovb_96kb"
+      },
+      {
+       "name": "Радио 1 Тирасполь",
+       "url": "https://www.radio.md/stream/radio1tiraspol",
+       "tags": [
+        "news_talk",
+        "folk"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      }
+     ]
+    },
+    "hip_hop_rap": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Diaspora MEDIA Listen live",
+       "url": "https://n07.radiojar.com/58ts0hd5hrquv",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Difusora 98,9 FM Listen live",
+       "url": "https://8024.brasilstream.com.br/server",
+       "tags": [
+        "hip_hop_rap",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "house": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "OM Radio",
+       "url": "http://188.138.198.247:8002/",
+       "tags": [
+        "house",
+        "ambient_relax",
+        "trance_goa",
+        "chillout_lounge",
+        "classical",
+        "easy_listening",
+        "techno",
+        "various_eclectic",
+        "electronic"
+       ]
+      },
+      {
+       "name": "OM Radio",
+       "url": "https://www.liveradio.es/http://188.138.237.167:8002/stream.mp3",
+       "tags": [
+        "ambient_relax",
+        "house",
+        "chillout_lounge"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Positive House",
+       "url": "http://176.9.36.203:8000/positive_128",
+       "language_inferred": true
+      },
+      {
+       "name": "PRODJ Radio",
+       "url": "http://live.prodjradio.net:8000",
+       "tags": [
+        "house",
+        "electronic",
+        "pop_hits",
+        "news_talk",
+        "techno"
+       ]
+      }
+     ]
+    },
+    "jazz": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Relax Funk & Soul",
+       "url": "https://stream.pcradio.ru/rad_rlxfunkslmd-med",
+       "tags": [
+        "jazz",
+        "ambient_relax"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "latin": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Metropolitana - POP Listen live",
+       "url": "https://paineldj.com.br:2510/server",
+       "tags": [
+        "latin",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 43,
+     "stations": [
+      {
+       "name": "Aquarelle FM",
+       "url": "http://live.aquarellefm.md:8000/Aquarellefm.aac",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Discovery FM – Chişinău – Chișinău Municipality – Republic of Moldova",
+       "url": "https://discovery.md/online/radio.m3u",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Drive FM radio",
+       "url": "http://109.185.236.241:8000/DriveFM192",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Eco FM",
+       "url": "http://188.138.204.98:8080/ecoFM",
+       "tags": [
+        "news_talk",
+        "rock",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Filadelfia Moldova",
+       "url": "http://usa9-vn.webcast-server.net:8088/"
+      },
+      {
+       "name": "imago.fm",
+       "url": "http://109.233.192.78:8000/_a",
+       "language_inferred": true
+      },
+      {
+       "name": "Jurnal FM",
+       "url": "https://audio.jurnalfm.md/lq",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Jurnal FM",
+       "url": "https://live.jurnalfm.md/index/",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Jurnal FM 100.1",
+       "url": "http://live.jurnalfm.md:8000",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Kiss FM 100.9 radio",
+       "url": "https://live.kissfm.md/kissfm.chisinau",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "OM Radio 2",
+       "url": "http://om.md/radio/play2/listen.pls",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Pro FM",
+       "url": "http://m.protv.md:8000/profm-128.mp3.m3u",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Publika FM",
+       "url": "http://live.maestrofm.md:8000/publikafm"
+      },
+      {
+       "name": "Publika FM",
+       "url": "https://publikafm.md/publikafm?n=d642a7af74ffa55fc7be"
+      },
+      {
+       "name": "Publika FM radio",
+       "url": "https://www.publika.md/live",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Albena",
+       "url": "https://www.radio.md/stream/radioalbena",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Albena radio",
+       "url": "https://onlineradiobox.com/json/md/radioalbena/play?platform=web",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Aquarelle radio",
+       "url": "http://93.115.137.75:8000/aquarellefm.mp3",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "decade_80s",
+        "decade_90s"
+       ]
+      },
+      {
+       "name": "Radio Chișinău",
+       "url": "https://radiochisinau.md/hls/RChisinau.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Chișinău radio",
+       "url": "https://onlineradiobox.com/json/md/radiochisinau/play?platform=web",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Europa Libera Moldovan",
+       "url": "http://rfe-channel-18.akacast.akamaistream.net/7/380/229668/v1/ibb.akacast.akamaistream.net/rfe_channel_18.mp3",
+       "tags": [
+        "news_talk",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Moldova",
+       "url": "http://radiolive.trm.md:8000/PGM1_256kb",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Moldova",
+       "url": "http://radiolive.trm.md:8000/PGM1_128kb",
+       "tags": [
+        "news_talk",
+        "world"
+       ]
+      },
+      {
+       "name": "Radio Moldova",
+       "url": "https://live.trm.md/live/RMActualitati/playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Moldova Muzical",
+       "url": "http://radiolive.trm.md:8000/RM-muzical-256/stream.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Moldova Muzical - Chisinau",
+       "url": "https://www.liveradio.es/http://radiolive.trm.md:8000/RM-muzical-128",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Moldova radio",
+       "url": "https://radiomoldova.md/live",
+       "tags": [
+        "news_talk",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Moldova Tineret",
+       "url": "https://radiolive.trm.md:8001/hls_rmt/tineret.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Noroc",
+       "url": "http://live.noroc.tv:8000/radionoroc.mp3",
+       "bitrate": 128,
+       "logo": "http://radio.pervii.com/logo/1302924400.jpg",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "world",
+        "folk"
+       ]
+      },
+      {
+       "name": "Radio ONE Moldova",
+       "url": "http://radio1.md:8000/r1",
+       "country_inferred": true
+      },
+      {
+       "name": "Radio Sputnik Moldova Listen live",
+       "url": "https://icecast-ruvr.cdnvideo.ru/rian.voicemda",
+       "tags": [
+        "news_talk",
+        "soul_rnb_funk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Studentus",
+       "url": "http://45.137.229.69:8000/live",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Vocea Basarabiei",
+       "url": "https://storage.voceabasarabiei.md:8001/radiovb_aac",
+       "tags": [
+        "news_talk",
+        "folk",
+        "pop_hits",
+        "world"
+       ]
+      },
+      {
+       "name": "Radio Vocea Sperantei 87.6 FM radio",
+       "url": "http://31.131.2.5:8000/rvs_mp3",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Univers FM",
+       "url": "http://87.255.90.102:9000/UniversFm",
+       "tags": [
+        "news_talk",
+        "various_eclectic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Vocea Basarabiei – Taraclia – Republic of Moldova",
+       "url": "https://storage.voceabasarabiei.md:8001/radiocomvb",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Авторадио Молдова",
+       "url": "http://185.181.229.197:8000/autoradiolive",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Авторадио Молдова radio",
+       "url": "https://streams.radiozum.md/listen/autoradio/autoradio",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Новое Радио 103.7 FM radio",
+       "url": "http://77.89.206.126:7030/live",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Новое Радио Молдова",
+       "url": "http://89.28.72.10:7030/live",
+       "language_inferred": true
+      },
+      {
+       "name": "Радио 1 Тирасполь radio",
+       "url": "https://onlineradiobox.com/json/md/rad1tiras/play?platform=web",
+       "tags": [
+        "news_talk",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "России",
+       "url": "https://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_64kbps",
+       "language_inferred": true
+      },
+      {
+       "name": "Русское Любимое radio",
+       "url": "http://live.ruradio.md:8000/rr_balti",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "oldies"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "oldies": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Radio 7 105.2 FM",
+       "url": "http://87.255.90.94:8000/128.m3u",
+       "tags": [
+        "news_talk",
+        "oldies"
+       ]
+      },
+      {
+       "name": "Radio Moldova Tineret",
+       "url": "https://www.liveradio.es/http://radiolive.trm.md:8000/RM-tineret-128",
+       "tags": [
+        "oldies",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Ретро FM Кишинев 89,1 FM Listen live",
+       "url": "https://retro.hostingradio.ru:8043/retro256.mp3",
+       "tags": [
+        "oldies",
+        "decade_70s",
+        "decade_90s"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 43,
+     "stations": [
+      {
+       "name": "Aquarelle FM",
+       "url": "http://aquarelle.md:8000/Aquarellefm.aac.m3u",
+       "language_inferred": true
+      },
+      {
+       "name": "Aquarelle FM",
+       "url": "http://live.aquarellefm.md:8000/aquarellefm.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Deep House Moldova Radio",
+       "url": "https://s0.radioheart.ru:8000/livedeephousemoldovaradio",
+       "language_inferred": true
+      },
+      {
+       "name": "Diaspora FM",
+       "url": "https://hls.radiosolution.fr/n8k9kUqbV2W6B5a4v6RX/index.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "Discovery FM",
+       "url": "http://178.168.18.200:8080/stream.mp3",
+       "tags": [
+        "various_eclectic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Discovery FM",
+       "url": "http://37.233.26.246:8080/"
+      },
+      {
+       "name": "Eco FM",
+       "url": "http://188.138.204.98:8080/stream.aac",
+       "tags": [
+        "pop_hits",
+        "decade_90s"
+       ]
+      },
+      {
+       "name": "Eco FM",
+       "url": "http://astreaming.ecofm.md:8080/stream.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "EcoFM",
+       "url": "http://188.138.204.98:8000",
+       "language_inferred": true
+      },
+      {
+       "name": "Europa Plus Moldova radio",
+       "url": "https://onlineradiobox.com/json/md/europaplusmoldova/play?platform=web",
+       "language_inferred": true
+      },
+      {
+       "name": "Flor FM 106.0",
+       "url": "http://188.237.172.194:8000/"
+      },
+      {
+       "name": "Fresh FM",
+       "url": "http://96.31.83.87:8059/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "HIT \"NX\"",
+       "url": "https://myradio24.org/musicstyle",
+       "tags": [
+        "various_eclectic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "HIT FM TRICOLOR",
+       "url": "https://stream.dixi.md:9443/Tricolor_320",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Jurnal FM - Chisinau",
+       "url": "https://www.liveradio.es/http://live.jurnalfm.md:8000/",
+       "language_inferred": true
+      },
+      {
+       "name": "Kamonoff Radio",
+       "url": "https://stream.pcradio.ru/kamonoff_radio-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Kiss FM 100.9 FM",
+       "url": "http://89.28.66.205:8000/"
+      },
+      {
+       "name": "Kiss FM Chisinau",
+       "url": "http://89.149.54.198:9128/kissfm.chisinau",
+       "tags": [
+        "pop_hits",
+        "electronic"
+       ]
+      },
+      {
+       "name": "Kiss FM Moldova",
+       "url": "http://radio.is:443/kiss",
+       "language_inferred": true
+      },
+      {
+       "name": "La Mega Hit",
+       "url": "http://91.230.214.92:8000/megahit",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "latin"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Love radio 91.6 FM Chișinău",
+       "url": "https://stream.mmgmoldova.md:8443/lovefm",
+       "language_inferred": true
+      },
+      {
+       "name": "MUSI-Q Radio",
+       "url": "https://stream.pcradio.ru/rad_musiqmd-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Muz FM",
+       "url": "http://live.muzfm.md:8000/muzfm",
+       "bitrate": 128,
+       "logo": "http://radio.pervii.com/im/6/1537619626.jpg",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "house"
+       ]
+      },
+      {
+       "name": "Muz FM radio",
+       "url": "https://live.muzfm.md/muzfm"
+      },
+      {
+       "name": "Novoe Radio (Moldova)",
+       "url": "https://stream.pcradio.ru/novoe_md-med",
+       "language_inferred": true
+      },
+      {
+       "name": "PRO Dj Radio",
+       "url": "http://173.249.25.221:8000/",
+       "tags": [
+        "pop_hits",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Pro Life FM",
+       "url": "https://listen.radionomy.com/Pro-LifeRadio?type=.mp3/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 21 Moldova 102.7 FM",
+       "url": "http://217.26.167.180:8083/Radio21.mp3"
+      },
+      {
+       "name": "Radio 7",
+       "url": "http://radio7.md:8000/128/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio BEAT",
+       "url": "http://asculta.radiobeat.md:9998/stream.nsv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Moldova Muzical",
+       "url": "http://radiolive.trm.md:8000/RM-muzical-256",
+       "tags": [
+        "pop_hits",
+        "electronic",
+        "jazz",
+        "rock",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Orhei 97.5 FM",
+       "url": "http://178.76.72.235:8008/live",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "electronic"
+       ]
+      },
+      {
+       "name": "Radio Plai",
+       "url": "http://stream.radioplai.md:8000/live",
+       "bitrate": 128,
+       "logo": "http://radio.pervii.com/im/6/1552056216.jpg",
+       "tags": [
+        "pop_hits",
+        "folk",
+        "news_talk",
+        "easy_listening",
+        "world"
+       ]
+      },
+      {
+       "name": "Radio Pro Mingir",
+       "url": "http://92.115.109.44:8000/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pro Mingir Listen live",
+       "url": "https://onlineradiobox.com/json/md/promingir/play?platform=web",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Relax International",
+       "url": "https://stream.dixi.md:9443/Relax_int",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Relax Moldova - International",
+       "url": "https://stream.hitfm.md:8443/Relax_int_aacp_64",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio ZUM",
+       "url": "http://185.181.229.196:8000/live",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Radio ZUM 1",
+       "url": "https://streams.radiozum.md/listen/zum1/ZUM1",
+       "tags": [
+        "pop_hits",
+        "electronic"
+       ]
+      },
+      {
+       "name": "Radio Zum 93.3 FM",
+       "url": "https://stream.pcradio.ru/radiozum_933-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Smile FM",
+       "url": "https://sonicssl.namehost.ro/8050/?n=0760409115c3807403ed"
+      },
+      {
+       "name": "Авторадио",
+       "url": "https://pub0102.101.ru:8443/stream/air/mp3/256/100",
+       "language_inferred": true
+      },
+      {
+       "name": "Юмор FM",
+       "url": "https://ic6.101.ru:8000/stream/air/aac/64/102",
+       "language_inferred": true
+      }
+     ]
+    },
+    "rock": {
+     "count": 13,
+     "stations": [
+      {
+       "name": "Eco FM",
+       "url": "http://astreaming.ecofm.md:8080/ecoFM",
+       "tags": [
+        "rock",
+        "pop_hits",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Eco FM, Chișinău radio",
+       "url": "https://astreaming.ecofm.md:8443/stream.aac",
+       "tags": [
+        "rock",
+        "pop_hits",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "MONKEY.FM",
+       "url": "https://monkey.fm:8001/live",
+       "tags": [
+        "rock",
+        "metal",
+        "alternative_indie",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "MONKEY.FM radio",
+       "url": "https://radio.monkey.fm:8001/live",
+       "tags": [
+        "rock",
+        "alternative_indie",
+        "metal"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Nik FM",
+       "url": "http://217.19.221.228:8005",
+       "tags": [
+        "rock",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 7 (105.2 FM) radio",
+       "url": "http://5.32.169.229:8000/?1654143173164",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "decade_80s",
+        "decade_90s",
+        "decade_70s",
+        "oldies"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Albena 97.5 FM",
+       "url": "http://109.185.191.129:49450",
+       "tags": [
+        "rock",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Moldova Muzical",
+       "url": "https://radiolive.trm.md:8001/hls_rmm/muzical.m3u8",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "classical",
+        "electronic"
+       ]
+      },
+      {
+       "name": "Radio ONE radio",
+       "url": "http://live.maestrofm.md:8000/r1",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio ROKS 96.7 FM radio",
+       "url": "https://stream.dixi.md:9443/Roks_mp3_320",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio ROKS Moldova",
+       "url": "https://stream.dixi.md:9443/Roks?n=ff03f8f54feb0b851607"
+      },
+      {
+       "name": "Record Rock radio",
+       "url": "https://air.radiorecord.md/rock.aacp",
+       "language_inferred": true
+      },
+      {
+       "name": "Радио Nik FM radio",
+       "url": "https://stream.nikfm.ru/source",
+       "tags": [
+        "rock",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "soul_rnb_funk": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Radio BEAT",
+       "url": "https://ssl.omegahost.ro/9998/stream",
+       "tags": [
+        "pop_hits",
+        "soul_rnb_funk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Wilin Vision Radio",
+       "url": "http://streaming.radionomy.com/WilinVisionRadio",
+       "tags": [
+        "soul_rnb_funk",
+        "hip_hop_rap"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "ХHТ 101.7 FM",
+       "url": "http://87.255.67.132:8000/HitFM",
+       "tags": [
+        "soul_rnb_funk",
+        "pop_hits",
+        "hip_hop_rap",
+        "rock",
+        "easy_listening"
+       ]
+      }
+     ]
+    },
+    "sports": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Jurnal FM",
+       "url": "https://live.jurnalfm.md/stream/",
+       "tags": [
+        "sports",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Sputnik Moldova",
+       "url": "https://icecast-rian.cdnvideo.ru/voicemda",
+       "tags": [
+        "sports",
+        "news_talk"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "trance_goa": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "AudioBits Radio",
+       "url": "http://94.249.167.140:8000/audiobox2",
+       "tags": [
+        "trance_goa",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "OM Radio",
+       "url": "http://188.138.237.167:8002/stream.nsv",
+       "tags": [
+        "electronic",
+        "easy_listening",
+        "trance_goa",
+        "ambient_relax",
+        "chillout_lounge",
+        "house"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Uplifting Trance",
+       "url": "http://176.9.36.203:8000/uplifting_128",
+       "language_inferred": true
+      },
+      {
+       "name": "Vocal Trance",
+       "url": "http://vocaltrance.ru:8000/vocaltrance",
+       "tags": [
+        "electronic",
+        "trance_goa",
+        "news_talk"
+       ]
+      }
+     ]
+    },
+    "various_eclectic": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Radio Sim - non-stop",
+       "url": "http://sim.md:8000/non-stop",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Today",
+       "url": "http://stream.utoday.md:1040/radio",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "ÅÓ¾Ñ§ªÒ´àÃ´ÔâÍ",
+       "url": "http://sim.md:8000/egofm-nonstop",
+       "country_inferred": true,
+       "language_inferred": true
+      }
+     ]
+    },
+    "world": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "HIT FM",
+       "url": "https://stream.hitfm.md:8443/HitFM_aacp",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "HIT FM Русское Хитовое Listen live",
+       "url": "https://stream.hitfm.md:8443/ru_hit",
+       "tags": [
+        "pop_hits",
+        "various_eclectic",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Relax",
+       "url": "https://stream.hitfm.md:8443/Relax_mp3_320",
+       "tags": [
+        "world",
+        "pop_hits",
+        "ambient_relax"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 66,
+     "stations": [
+      {
+       "name": "1Ilaya_voice",
+       "url": "https://stream.zeno.fm/zrtwbe8a938uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Chanson \"NX\"",
+       "url": "https://myradio24.org/radionx",
+       "language_inferred": true
+      },
+      {
+       "name": "Călătorii cu Gust",
+       "url": "https://stream.zeno.fm/w7edxk3641zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Diaspora Media",
+       "url": "https://n01.radiojar.com/58ts0hd5hrquv?rj-ttl=5&rj-tok=AAABbdDdznQAS4mz5X2BNKzzdA?n=1cb4e1ffbeae8a2b43d5",
+       "language_inferred": true
+      },
+      {
+       "name": "Europa Plus",
+       "url": "http://217.26.167.180:8081/broadwave.mp3?src=1&kbps=128",
+       "language_inferred": true
+      },
+      {
+       "name": "Florin Radio",
+       "url": "https://stream-42.zeno.fm/mcasmawnctpvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Florin Radio",
+       "url": "https://stream.zeno.fm/fwua6kp7a48uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Fresh FM",
+       "url": "https://stream.zeno.fm/nm1hgq1p8rhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Heal and Chill",
+       "url": "https://stream.zeno.fm/ssrrshdva0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hit FM",
+       "url": "http://stream.hitfm.md:8000/HitFM_aacp",
+       "language_inferred": true
+      },
+      {
+       "name": "Hit FM - Best Hits",
+       "url": "http://stream.hitfm.md:8000/best_hits_320",
+       "language_inferred": true
+      },
+      {
+       "name": "Hit FM - Hot Hits",
+       "url": "https://stream.hitfm.md:8443/hothits_320",
+       "language_inferred": true
+      },
+      {
+       "name": "Hit FM - Tricolor de Hituri",
+       "url": "http://stream.hitfm.md:8000/Tricolor_320",
+       "language_inferred": true
+      },
+      {
+       "name": "Hit FM - Русское Хитовое",
+       "url": "http://stream.hitfm.md:8000/ru_hit_320",
+       "language_inferred": true
+      },
+      {
+       "name": "Inter FM 107.7",
+       "url": "http://217.19.221.228:8000",
+       "language_inferred": true
+      },
+      {
+       "name": "Jurnal FM",
+       "url": "https://stream.jurnalfm.md/static/streaming-playlists/hls/1a13080a-2f9a-4163-9d36-2f2282469277/master.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "Jurnal FM 100.1",
+       "url": "http://live.jurnalfm.md:8000/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "Kamonoff Radio",
+       "url": "https://lk.castnow.ru:8100/kamonoffm-320.mp3?n=0d1d6906ff63fe2457db",
+       "language_inferred": true
+      },
+      {
+       "name": "Kiss FM Chisinau",
+       "url": "http://89.28.66.205:8000/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "Maestro FM",
+       "url": "http://maestrofm.md:8000/maestro"
+      },
+      {
+       "name": "Meditation.MD",
+       "url": "https://stream.zeno.fm/kmxpdqr96zhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Megapolis FM",
+       "url": "http://megapolisfm.md:8000/886",
+       "language_inferred": true
+      },
+      {
+       "name": "Megapolis FM Moldova",
+       "url": "http://89.28.22.181:8000/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Megapolis-FM - Молдова",
+       "url": "http://live.megapolisfm.md:8009/megapolis",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "moldova fm",
+       "url": "https://stream.zeno.fm/7zg92r02098uv",
+       "language_inferred": true
+      },
+      {
+       "name": "myrock",
+       "url": "https://stream.zeno.fm/kn3ny9hf9e9uv"
+      },
+      {
+       "name": "myrock",
+       "url": "https://stream.zeno.fm/xqz794br6e9uv"
+      },
+      {
+       "name": "myrock",
+       "url": "https://stream.zeno.fm/uhq5y4daaf9uv"
+      },
+      {
+       "name": "OM Radio",
+       "url": "http://178.168.28.148:8000/"
+      },
+      {
+       "name": "Publika FM",
+       "url": "http://livebeta.publika.md/LIVE/P/6810.m3u8"
+      },
+      {
+       "name": "Radio 7 MD",
+       "url": "http://87.255.90.94:8000/radio7_128?type=.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Alla",
+       "url": "http://air-online2.radioalla.md/radioalla.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Bucovina",
+       "url": "http://ssl.hostclean.ro:8000/stream"
+      },
+      {
+       "name": "Radio Chisinau",
+       "url": "http://95.65.9.170:8000/"
+      },
+      {
+       "name": "Radio Eden",
+       "url": "http://184.154.90.186:8065/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio LOGOS",
+       "url": "http://asculta.logos.md:10000/live.m3u?n=a46a2a1c5c5b797d4aa8",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio LOGOS",
+       "url": "http://asculta.logos.md:10000/live256"
+      },
+      {
+       "name": "Radio Micul Samaritean",
+       "url": "http://s334.phx.icastcenter.com/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Moldova",
+       "url": "https://stream.zeno.fm/hkpdaehqqtxtv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Moldova - Muzical",
+       "url": "https://live.trm.md/live/RMMuzical/playlist.m3u8"
+      },
+      {
+       "name": "Radio Moldova - Tineret",
+       "url": "https://live.trm.md/live/RMTineret/playlist.m3u8"
+      },
+      {
+       "name": "Radio Moldova Tineret",
+       "url": "http://radiolive.trm.md:8000/RM-Tineret-aacp",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Prim Glodeni",
+       "url": "http://109.185.124.238:8000/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pro Mingir",
+       "url": "http://92.115.109.44:8000/mingir_stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio RFI Moldova",
+       "url": "https://asculta.radiorfi.ro/live.mp3?n=2e4fd8b6115fb077b00f"
+      },
+      {
+       "name": "Radio Sim - Enigma",
+       "url": "http://sim.md:8000/enigma",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Sport Moldova",
+       "url": "http://217.26.167.180:8083/radiosport128.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Sputnik Moldova",
+       "url": "https://riavoice.gcdn.co/voicemda",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Stil",
+       "url": "http://217.26.172.239/stil",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Van Morrison",
+       "url": "https://stream.zeno.fm/kg7mpr97rd0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Zum",
+       "url": "http://89.33.1.83/radiozum",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Zum 1 - Chișinău 93.3 FM",
+       "url": "https://stream.radiozum.md/live",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Zum 2 - Chișinău 91.1 FM",
+       "url": "https://stream.radio911.md/live",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "RadioFreshMD",
+       "url": "https://stream-43.zeno.fm/ttofovumhg1vv",
+       "language_inferred": true
+      },
+      {
+       "name": "Record Dance Radio",
+       "url": "http://air.radiorecord.md/recordmdhd",
+       "language_inferred": true
+      },
+      {
+       "name": "Red Mafia",
+       "url": "https://stream-50.zeno.fm/ynzfb0as538uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Red Mafia",
+       "url": "https://stream.zeno.fm/ynzfb0as538uv",
+       "language_inferred": true
+      },
+      {
+       "name": "sacry sounds",
+       "url": "https://stream.zeno.fm/vwiakv8vwxovv",
+       "language_inferred": true
+      },
+      {
+       "name": "Test Station",
+       "url": "https://stream.zeno.fm/mcasmawnctpvv",
+       "language_inferred": true
+      },
+      {
+       "name": "test v321",
+       "url": "https://stream.zeno.fm/0289qfkmcc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Trust ME FM",
+       "url": "https://stream.zeno.fm/rk9jf4lhzx3tv",
+       "language_inferred": true
+      },
+      {
+       "name": "Tweqzy FM",
+       "url": "https://stream.zeno.fm/kuct4u7akuhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Vocea Basarabiei Radio",
+       "url": "http://live.noroc.tv:8000/radiovb_aac",
+       "language_inferred": true
+      },
+      {
+       "name": "XHT FM",
+       "url": "http://air-online2.hitfm.md/hitfm.mp3?type=.mp3/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "xTream Radio",
+       "url": "https://stream.zeno.fm/z35nzzcnuqruv"
+      },
+      {
+       "name": "Авторадио",
+       "url": "https://zum2.radiozum.md/live",
+       "language_inferred": true
+      }
+     ]
+    }
+   }
+  },
+  "Russian": {
+   "count": 29,
+   "genres": {
+    "chillout_lounge": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Vocal Chillout Listen live",
+       "url": "http://176.9.36.203:8000/vocalchillout_128",
+       "tags": [
+        "chillout_lounge",
+        "hip_hop_rap"
+       ]
+      }
+     ]
+    },
+    "classical": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Drive FM",
+       "url": "http://109.185.236.241:8000/DriveFM?n=af2bee6ebc3063c2f08a",
+       "tags": [
+        "pop_hits",
+        "classical"
+       ]
+      }
+     ]
+    },
+    "decade_80s": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "radio-alla",
+       "url": "https://stream.hitfm.md:8443/Alla",
+       "tags": [
+        "pop_hits",
+        "decade_80s"
+       ]
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Albena",
+       "url": "http://109.185.191.129:49400/",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "easy_listening"
+       ]
+      }
+     ]
+    },
+    "electronic": {
+     "count": 7,
+     "stations": [
+      {
+       "name": "Dance Fm Moldova",
+       "url": "http://37.233.41.76:8000/dancefm?n=e0b3224663312cce22fd",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "HIT FM",
+       "url": "https://stream.hitfm.md:8443/HitFM",
+       "tags": [
+        "pop_hits",
+        "electronic",
+        "various_eclectic",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Megapolis Fm",
+       "url": "https://megapolisfm.md:8443/886",
+       "tags": [
+        "pop_hits",
+        "electronic",
+        "news_talk",
+        "classical"
+       ]
+      },
+      {
+       "name": "RADIO RECORD",
+       "url": "https://air.radiorecord.md:8000/RecordMD",
+       "tags": [
+        "pop_hits",
+        "electronic",
+        "techno"
+       ]
+      },
+      {
+       "name": "Radio Record Moldova",
+       "url": "http://212.56.220.74:8000/RecordMD?n=d9a4a380326fab1dfd6c",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio ZUM 2",
+       "url": "https://streams.radiozum.md/listen/zum2/ZUM2",
+       "tags": [
+        "decade_2000s",
+        "pop_hits",
+        "electronic",
+        "hip_hop_rap"
+       ]
+      },
+      {
+       "name": "Record Moldova",
+       "url": "https://air.radiorecord.md/RecordMD",
+       "tags": [
+        "pop_hits",
+        "electronic",
+        "world",
+        "house",
+        "trance_goa",
+        "news_talk",
+        "reggae_ska"
+       ]
+      }
+     ]
+    },
+    "jazz": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Moldova",
+       "url": "http://radiolive.trm.md:8000/RM-Actualitati-320",
+       "tags": [
+        "rock",
+        "news_talk",
+        "jazz",
+        "folk",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 7,
+     "stations": [
+      {
+       "name": "Diaspora Media",
+       "url": "https://stream.radiojar.com/58ts0hd5hrquv",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "electronic",
+        "disco_eurodance",
+        "house"
+       ]
+      },
+      {
+       "name": "Jurnal Fm",
+       "url": "https://audio.jurnalfm.md/hq",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "love radio",
+       "url": "http://37.233.41.76:8000/lovefm"
+      },
+      {
+       "name": "Radio 7",
+       "url": "http://radio7.md:8000/128",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "decade_80s"
+       ]
+      },
+      {
+       "name": "Radio Moldova",
+       "url": "https://radiolive.trm.md:8001/hls/actualitati.m3u8",
+       "tags": [
+        "news_talk",
+        "folk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Studentus",
+       "url": "http://radiolive.studentus.md:8000/live",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "electronic"
+       ]
+      },
+      {
+       "name": "Русское Радио",
+       "url": "http://live.ruradio.md:8000/ruradio",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "oldies",
+        "easy_listening",
+        "country"
+       ]
+      }
+     ]
+    },
+    "oldies": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Ретро FM",
+       "url": "https://efir.retrofm.md:8000/retro",
+       "tags": [
+        "oldies",
+        "electronic",
+        "disco_eurodance",
+        "pop_hits",
+        "news_talk"
+       ]
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 5,
+     "stations": [
+      {
+       "name": "Nik FM 102.5",
+       "url": "http://217.19.209.228:8005/"
+      },
+      {
+       "name": "RadioFreshMD",
+       "url": "https://stream.zeno.fm/ttofovumhg1vv"
+      },
+      {
+       "name": "Европа Плюс Молдова",
+       "url": "http://217.26.167.180:8081/broadwave.mp3",
+       "tags": [
+        "pop_hits",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Интер FM radio",
+       "url": "http://217.19.211.252:8022/InterFM"
+      },
+      {
+       "name": "Радио Русский Хит radio",
+       "url": "http://37.233.41.76:8000/ru_hit"
+      }
+     ]
+    },
+    "rock": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio ONE",
+       "url": "http://live.muzfm.md:8000/r1",
+       "tags": [
+        "rock",
+        "news_talk"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Shanson (Tiraspol) Radio",
+       "url": "https://stream.pcradio.ru/rad_shnsntrspl-med"
+      },
+      {
+       "name": "ПГТРК Радио 1 плюс",
+       "url": "http://pgtrk.ru:8000/radio2_192"
+      },
+      {
+       "name": "Радио 7",
+       "url": "http://radio7.md:8000/128?1515444530591.mp3"
+      }
+     ]
+    }
+   }
+  },
+  "Multilingual": {
+   "count": 3,
+   "genres": {
+    "news_talk": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Radio Micul Samaritean",
+       "url": "https://s5.radio.co/sfff7b7e97/listen",
+       "tags": [
+        "news_talk",
+        "christian_gospel",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "ПГТРК Радио 1",
+       "url": "http://pgtrk.ru:8000/stream",
+       "tags": [
+        "news_talk",
+        "classical",
+        "oldies",
+        "folk"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "GRT-FM",
+       "url": "https://s0.radioheart.ru:8000/gagauzradiosu"
+      }
+     ]
+    }
+   }
+  },
+  "English": {
+   "count": 2,
+   "genres": {
+    "pop_hits": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Hit FM Moldova",
+       "url": "https://stream.hitfm.md:8443/HitFM_mp3?n=698b3cfb2206b0390891"
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "HalizGagauzRadiosu",
+       "url": "http://halizgagauz.s02.radio-tochka.com:8020/radio"
+      }
+     ]
+    }
+   }
+  },
+  "Ukrainian": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "myrock",
+       "url": "https://stream.zeno.fm/1qxuwdbcehsuv"
+      }
+     ]
+    }
+   }
+  },
+  "Swahili": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Tzgospel swahili",
+       "url": "https://stream.zeno.fm/bb2hcvuchfhvv"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

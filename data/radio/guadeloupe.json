@@ -1,0 +1,788 @@
+{
+ "country": "Guadeloupe",
+ "count": 100,
+ "languages": {
+  "French": {
+   "count": 97,
+   "genres": {
+    "christian_gospel": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Blue Melody School Radio",
+       "url": "https://www.radioking.com/play/blue-melody-school-radio"
+      },
+      {
+       "name": "Radio Souffle de vie",
+       "url": "https://sv3.vestaradio.com/rsv",
+       "tags": [
+        "pop_hits",
+        "christian_gospel"
+       ]
+      },
+      {
+       "name": "Radio Souffle de Vie - RSV Listen live",
+       "url": "https://sv3.vestaradio.com/rsv?1610922181319",
+       "language_inferred": true
+      }
+     ]
+    },
+    "decade_70s": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "An Tan Lontan Radio",
+       "url": "https://listen.radioking.com/radio/319589/stream/367190",
+       "tags": [
+        "decade_70s",
+        "decade_80s",
+        "decade_90s"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "decade_80s": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Nostalgie Guadeloupe",
+       "url": "http://2stream.dyndns.org:8000/nostalgiegp",
+       "tags": [
+        "decade_80s",
+        "oldies",
+        "latin",
+        "decade_90s",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "RCI – Radio Caraïbes International Guadeloupe – Pointe-à-Pitre – GP-GP",
+       "url": "https://n04a-eu.rcs.revma.com/v4hf7bwspwzuv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "electronic": {
+     "count": 7,
+     "stations": [
+      {
+       "name": "Fun Radio Guadeloupe",
+       "url": "https://www.radioking.com/play/fun-radio-guadeloupe",
+       "tags": [
+        "pop_hits",
+        "electronic"
+       ]
+      },
+      {
+       "name": "Hits 1 Antilles",
+       "url": "https://radio12.pro-fhi.net/radio/9018/acc",
+       "tags": [
+        "pop_hits",
+        "electronic"
+       ]
+      },
+      {
+       "name": "Hits 1 Antilles Listen live",
+       "url": "https://radio4.pro-fhi.net/radio/9139/stream2",
+       "bitrate": 128,
+       "logo": "http://radio.pervii.com/im/0/1610986280.jpg",
+       "tags": [
+        "pop_hits",
+        "electronic",
+        "house"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Hits 1 Antilles radio",
+       "url": "https://radio7.pro-fhi.net/listen/xqahcorv/stream",
+       "tags": [
+        "electronic",
+        "pop_hits",
+        "house",
+        "folk",
+        "latin"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Les Stylprod radio",
+       "url": "https://listen.radioking.com/radio/421063/stream/474319",
+       "tags": [
+        "electronic",
+        "hip_hop_rap"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "NRJ Antilles",
+       "url": "http://185.52.127.168/fr_an/55248/mp3_128.mp3"
+      },
+      {
+       "name": "RADIO ALIZES97",
+       "url": "https://stream.zeno.fm/s9r0442nthruv",
+       "tags": [
+        "electronic",
+        "folk",
+        "world"
+       ]
+      }
+     ]
+    },
+    "folk": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Mega fm Guadeloupe radio",
+       "url": "https://ecmanager4.pro-fhi.net:2815/stream",
+       "tags": [
+        "news_talk",
+        "folk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO SOFAIA ALTITUDE",
+       "url": "https://broadcast.infomaniak.ch/radiosofaia-high.mp3",
+       "tags": [
+        "pop_hits",
+        "folk",
+        "latin",
+        "world"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "hip_hop_rap": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "TRACE FM Guadeloupe",
+       "url": "https://n03-as.rcs.revma.com/u98b8f5q54zuv",
+       "tags": [
+        "hip_hop_rap",
+        "reggae_ska",
+        "soul_rnb_funk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Trace FM Guadeloupe",
+       "url": "https://stream.trace.tv/trace_fm_guadeloupe-midfi.aac",
+       "tags": [
+        "pop_hits",
+        "hip_hop_rap"
+       ]
+      }
+     ]
+    },
+    "latin": {
+     "count": 15,
+     "stations": [
+      {
+       "name": "Bel'Radio Guadeloupe",
+       "url": "https://stream.rcs.revma.com/a7qacprtpwzuv",
+       "tags": [
+        "latin",
+        "oldies",
+        "reggae_ska",
+        "folk",
+        "world",
+        "decade_70s",
+        "decade_60s",
+        "decade_80s"
+       ]
+      },
+      {
+       "name": "Karata-RLK",
+       "url": "https://dynstreamgradioflux.fr:8060/stream",
+       "tags": [
+        "latin",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "MFM Retro Zouk",
+       "url": "http://163.172.16.107:5008/stream.mp3",
+       "tags": [
+        "latin",
+        "world"
+       ]
+      },
+      {
+       "name": "MFM Zouk Nouveautés",
+       "url": "http://163.172.16.107:5002/stream.mp3",
+       "tags": [
+        "latin",
+        "world"
+       ]
+      },
+      {
+       "name": "Radio Guadalupe LLallagua",
+       "url": "https://ares.disfrutaenlared.com/9304/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Kariba",
+       "url": "https://radiokariba.ice.infomaniak.ch/radiokariba-64.aac",
+       "tags": [
+        "latin",
+        "world",
+        "reggae_ska"
+       ]
+      },
+      {
+       "name": "Radio Saphir FM",
+       "url": "https://saphirfm.ice.infomaniak.ch/saphirfm-192.mp3",
+       "tags": [
+        "latin",
+        "pop_hits",
+        "folk",
+        "world"
+       ]
+      },
+      {
+       "name": "Radio Sofaia Altitude 88.5 FM",
+       "url": "http://radiosofaia.ice.infomaniak.ch/radiosofaia-high.mp3"
+      },
+      {
+       "name": "RHT Guadeloupe",
+       "url": "https://haute-tension.ice.infomaniak.ch/haute-tension-high.mp3",
+       "tags": [
+        "various_eclectic",
+        "news_talk",
+        "latin",
+        "world"
+       ]
+      },
+      {
+       "name": "Steevy FM",
+       "url": "https://listen.radioking.com/radio/561305/stream/620924",
+       "tags": [
+        "latin",
+        "reggae_ska",
+        "oldies",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Steevy FM - Guadeloupe",
+       "url": "https://stream.zeno.fm/h8xmj7cmfnqtv",
+       "tags": [
+        "latin",
+        "folk",
+        "reggae_ska"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "TELUS FM",
+       "url": "https://www.radioking.com/play/telus-fm-une-radio-pour-les-antillais-du-monde-entier",
+       "tags": [
+        "world",
+        "latin",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "VOGUE RADIO",
+       "url": "https://vogueradio2.ice.infomaniak.ch/vogueradio2-128.mp3",
+       "tags": [
+        "latin",
+        "reggae_ska",
+        "world",
+        "various_eclectic",
+        "decade_80s",
+        "decade_90s"
+       ]
+      },
+      {
+       "name": "Zouk Newz",
+       "url": "https://zouknews.ice.infomaniak.ch/zouknews-192.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Zouk Radio",
+       "url": "https://zouknews.ice.infomaniak.ch/zouknews-192",
+       "tags": [
+        "latin",
+        "world"
+       ]
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 7,
+     "stations": [
+      {
+       "name": "Fun Radio Antilles",
+       "url": "https://listen.radioking.com/radio/154186/stream/194791",
+       "tags": [
+        "news_talk",
+        "electronic"
+       ]
+      },
+      {
+       "name": "Guadeloupe 1ère",
+       "url": "https://guadeloupe.ice.infomaniak.ch/guadeloupe-128.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "latin",
+        "hip_hop_rap",
+        "world",
+        "soul_rnb_funk",
+        "electronic",
+        "rock",
+        "folk",
+        "jazz"
+       ]
+      },
+      {
+       "name": "Jobs & Musik",
+       "url": "https://listen.radioking.com/radio/220579/stream/263938",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Radio Contact Guadeloupe",
+       "url": "http://serveur2.wanastream.com:25600/stream.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Souffle de Vie",
+       "url": "https://radio.rsv-gpe.info/radio/8000/radio.mp3",
+       "tags": [
+        "christian_gospel",
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radyo Tanbou",
+       "url": "http://radyotanbou.myvnc.com:8000/live.ogg",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "RCI Guadeloupe",
+       "url": "https://stream.rcs.revma.com/v4hf7bwspwzuv",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "latin",
+        "easy_listening",
+        "world"
+       ]
+      }
+     ]
+    },
+    "oldies": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Antanlontan Radio",
+       "url": "https://www.radioking.com/play/an-tan-lontan-radio",
+       "tags": [
+        "oldies",
+        "latin"
+       ]
+      },
+      {
+       "name": "Planeteblack",
+       "url": "http://www.radioking.com/play/planeteblack"
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 6,
+     "stations": [
+      {
+       "name": "MFM GUADELOUPE",
+       "url": "https://madrasfm.ice.infomaniak.ch/madrasfm-192.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "MFM Guadeloupe",
+       "url": "http://163.172.16.107:5000/"
+      },
+      {
+       "name": "MFM Guadeloupe Zouk Nouveautes",
+       "url": "http://163.172.16.107:5002/"
+      },
+      {
+       "name": "MNS Radio",
+       "url": "https://crs.webdesign-flash.ro/?q=http://91.121.165.41:9117/stream/&plugin_id=7628&site_id=8520577",
+       "tags": [
+        "pop_hits",
+        "soul_rnb_funk"
+       ]
+      },
+      {
+       "name": "Radio Saint Barth FM",
+       "url": "http://2stream.dyndns.org:8000/rsb",
+       "tags": [
+        "pop_hits",
+        "easy_listening",
+        "rock"
+       ]
+      },
+      {
+       "name": "RTL 2 Guadeloupe",
+       "url": "http://163.172.96.134:8090/"
+      }
+     ]
+    },
+    "rock": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Radio Transat",
+       "url": "https://stream.rcs.revma.com/dy09pqzctwzuv",
+       "tags": [
+        "rock",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "RTL 2 Guadeloupe",
+       "url": "https://streaming.radio.rtl2.fr/rtl2-1-48-192",
+       "language_inferred": true
+      },
+      {
+       "name": "RTL 2 Guadeloupe radio",
+       "url": "http://163.172.96.134:8090/stream.qtl",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "soul_rnb_funk": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "NRJ Antilles Martinique",
+       "url": "http://185.52.127.157/fr_an/55248/mp3_128.mp3",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "soul_rnb_funk",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "TRACE FM",
+       "url": "https://stream.rcs.revma.com/nv1hu7644k0uv",
+       "tags": [
+        "soul_rnb_funk",
+        "reggae_ska",
+        "latin",
+        "folk",
+        "electronic",
+        "pop_hits",
+        "hip_hop_rap"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "trance_goa": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Bel'Radio - Guadeloupe Listen live",
+       "url": "https://n11a-eu.rcs.revma.com/a7qacprtpwzuv",
+       "tags": [
+        "trance_goa",
+        "oldies"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "various_eclectic": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "Chérie FM Guadeloupe",
+       "url": "http://2stream.dyndns.org:8000/cheriefmgp"
+      },
+      {
+       "name": "Dom Tom Radio",
+       "url": "https://www.radioking.com/play/dom-tom-radio-international"
+      },
+      {
+       "name": "Jobs et Musik",
+       "url": "http://51.178.136.146/1"
+      },
+      {
+       "name": "Média Caraïbes Metiss",
+       "url": "http://bertran1.radioca.st:9925/stream/"
+      }
+     ]
+    },
+    "world": {
+     "count": 6,
+     "stations": [
+      {
+       "name": "Belradio Guadeloupe",
+       "url": "http://n12.rcs.revma.com/a7qacprtpwzuv"
+      },
+      {
+       "name": "Dj Patos Radio",
+       "url": "http://163.172.16.107:5084/",
+       "tags": [
+        "world",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "MFM Compas Nouveautés",
+       "url": "http://163.172.16.107:5004/stream.mp3"
+      },
+      {
+       "name": "MFM Guadeloupe Compas New Generation",
+       "url": "http://163.172.16.107:5004/"
+      },
+      {
+       "name": "MFM Guadeloupe Retro Zouk",
+       "url": "http://163.172.16.107:5008/"
+      },
+      {
+       "name": "MFM Retro Compas",
+       "url": "http://163.172.16.107:5006/stream.mp3"
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 34,
+     "stations": [
+      {
+       "name": "Blue Melody School Radio – Les Abymes – GP-GP",
+       "url": "https://listen.radioking.com/radio/593/stream/2162",
+       "language_inferred": true
+      },
+      {
+       "name": "CANAL 12 PMR446",
+       "url": "https://stream.zeno.fm/fd7v42pfbkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "guadeloupe-971",
+       "url": "https://stream.zeno.fm/63w5dn2vvrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "HOLISTIQUE RADIO",
+       "url": "https://stream.zeno.fm/b2d0tk9mzhhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "KILTI FM",
+       "url": "http://81.248.29.103:8000/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "M4A RADIO",
+       "url": "https://stream.zeno.fm/cudahquat7zuv"
+      },
+      {
+       "name": "M4A RADIO WEST INDIES",
+       "url": "https://stream.zeno.fm/tpqxjs5rawatv"
+      },
+      {
+       "name": "M4A RADIO WORLD",
+       "url": "https://stream.zeno.fm/z217t82n6ixuv"
+      },
+      {
+       "name": "MFM GUADELOUPE Retro compas",
+       "url": "http://163.172.16.107:5006/stream"
+      },
+      {
+       "name": "MFM GUADELOUPE Retro Zouk",
+       "url": "http://163.172.16.107:5008/stream"
+      },
+      {
+       "name": "MFM Guadeloupe – Les Abymes – GP-GP",
+       "url": "http://163.172.16.107:5000/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Média Caraïbes Metiss",
+       "url": "http://bertran1.radioca.st:8004/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Nostalgie Guadeloupe",
+       "url": "https://go.2stream.net/nostalgiegp",
+       "language_inferred": true
+      },
+      {
+       "name": "NOT FM – GP",
+       "url": "http://live.radioking.com/notfm",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO BIOTE FLY",
+       "url": "https://stream.zeno.fm/kqku3f0kbchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO CLUB 446",
+       "url": "https://stream.zeno.fm/rx2mw61u8bhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Destreland live brazil",
+       "url": "https://stream1.svrdedicado.org/8372/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Haute Tension",
+       "url": "http://icepe4.infomaniak.ch:80/haute-tension-high",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO M4A",
+       "url": "https://stream.zeno.fm/izi77vvfjkrtv",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO M4A WEST INDIES",
+       "url": "https://stream.zeno.fm/jur1kisbp40tv"
+      },
+      {
+       "name": "Radio Madras FM",
+       "url": "http://163.172.16.107:5000/stream.mp3"
+      },
+      {
+       "name": "RADIO OMDMHYD GUADELOUPE",
+       "url": "https://stream.zeno.fm/fxf7y4leqhktv"
+      },
+      {
+       "name": "Radio Saphir FM",
+       "url": "http://ns354585.ovh.net:8000/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "RCI Compas – Les Abymes – GP-GP",
+       "url": "https://n08a-eu.rcs.revma.com/5dvn9urtpwzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "RCI Dancehall – Les Abymes – GP-GP",
+       "url": "https://n11a-eu.rcs.revma.com/5stt0yrtpwzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "RCI Live – Les Abymes – GP-GP",
+       "url": "https://n20a-eu.rcs.revma.com/gf7d96rtpwzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "RCI Tradition – Les Abymes – GP-GP",
+       "url": "https://n24a-eu.rcs.revma.com/mufppgzctwzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "RCI Zouk – Les Abymes – GP-GP",
+       "url": "https://n11a-eu.rcs.revma.com/wkf0thzctwzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "RFM Guadeloupe",
+       "url": "http://163.172.96.134:8090/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "RHT Guadeloupe",
+       "url": "http://haute-tension.ice.infomaniak.ch:80/haute-tension-high",
+       "language_inferred": true
+      },
+      {
+       "name": "Steevy FM - Guadeloupe",
+       "url": "https://stream.zeno.fm/bvh7vlexgtgvv"
+      },
+      {
+       "name": "STUDIO RADIO LIVE",
+       "url": "https://stream.zeno.fm/tqe60kdwgy8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "TELUS FM",
+       "url": "https://stream.zeno.fm/b58wybbb998uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Trace FM",
+       "url": "https://n20a-eu.rcs.revma.com/u98b8f5q54zuv?rj-ttl=5&rj-tok=AAABfibUTdcAG-HR7MPMj-5EYQ",
+       "language_inferred": true
+      }
+     ]
+    }
+   }
+  },
+  "Haitian Creole": {
+   "count": 3,
+   "genres": {
+    "easy_listening": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "WAPTOR MUSIC FM",
+       "url": "https://stream.zeno.fm/uscsupw0m5yuv",
+       "tags": [
+        "easy_listening",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "world": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radyo Tanbou",
+       "url": "http://radyotanbou.myvnc.com:8000/live",
+       "tags": [
+        "news_talk",
+        "world"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "RADIO SAPHIR GUADELOUPE",
+       "url": "https://stream.zeno.fm/9ewp2e87d78uv"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

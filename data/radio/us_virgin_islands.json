@@ -1,0 +1,574 @@
+{
+ "country": "US Virgin Islands",
+ "count": 48,
+ "languages": {
+  "English": {
+   "count": 41,
+   "genres": {
+    "alternative_indie": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Bypass FM Listen live",
+       "url": "https://node-07.zeno.fm/9umgbtf8ztzuv",
+       "tags": [
+        "rock",
+        "alternative_indie",
+        "world",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Питер FM Listen live",
+       "url": "https://radiokrug.ru/radio/piterfm/icecast.audio",
+       "tags": [
+        "rock",
+        "alternative_indie"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "christian_gospel": {
+     "count": 6,
+     "stations": [
+      {
+       "name": "The Reef - WAXJ radio",
+       "url": "https://147.135.84.28/waxj-fm",
+       "tags": [
+        "christian_gospel",
+        "soul_rnb_funk",
+        "reggae_ska",
+        "folk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "The Voice Of Hope - WIVH",
+       "url": "http://stream2314.egihosting.com:8000/",
+       "language_inferred": true
+      },
+      {
+       "name": "Victorious Radio",
+       "url": "http://s3.radio.co/s7a50ded51/listen",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "WTJC Radio",
+       "url": "http://s9.viastreaming.net:7820",
+       "tags": [
+        "christian_gospel",
+        "college_community",
+        "news_talk",
+        "world"
+       ]
+      },
+      {
+       "name": "WTJC-LP",
+       "url": "http://s9.viastreaming.net:7820/listen.pls"
+      },
+      {
+       "name": "WTJC-LP radio",
+       "url": "http://s9.viastreaming.net:7820/011411476069954stream.nsv",
+       "tags": [
+        "christian_gospel",
+        "world",
+        "folk"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "classical": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "104.9 The Mongoose radio",
+       "url": "https://jkc.streamguys1.com/WMNG",
+       "tags": [
+        "classical",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "country": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "104.9 The Mongoose - WMNG",
+       "url": "https://jkc.streamguys1.com/WMNG-FM",
+       "tags": [
+        "classical",
+        "oldies",
+        "country"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Caribbean Country – WVVI-FM",
+       "url": "http://208.84.199.84:8088/broadwave.mp3",
+       "tags": [
+        "country",
+        "folk",
+        "world"
+       ]
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Isle 95 - WJKC",
+       "url": "https://jkc.streamguys1.com/WJKC-FM",
+       "tags": [
+        "pop_hits",
+        "easy_listening",
+        "hip_hop_rap"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Sunny FM – WVIQ",
+       "url": "http://208.84.199.84:8085/broadwave.mp3",
+       "tags": [
+        "pop_hits",
+        "easy_listening",
+        "rock",
+        "soul_rnb_funk",
+        "oldies"
+       ]
+      }
+     ]
+    },
+    "folk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "WMYP-Rumba radio",
+       "url": "http://streamdb4.securenetsystems.net/v5/WMYP",
+       "tags": [
+        "folk",
+        "latin"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "hip_hop_rap": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Da Vybe 107.9 – WLDV",
+       "url": "https://ice3.securenetsystems.net/WLDV",
+       "tags": [
+        "hip_hop_rap",
+        "reggae_ska",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Isle 95",
+       "url": "http://208.84.199.84:8084/broadwave.mp3",
+       "tags": [
+        "pop_hits",
+        "hip_hop_rap",
+        "reggae_ska",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "The Reef - WAXJ 103.5 FM Listen live",
+       "url": "https://ic2.sslstream.com/waxj-fm",
+       "tags": [
+        "hip_hop_rap",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "jazz": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "RadioSky Music Jazz",
+       "url": "http://198.50.250.193:7020/stream"
+      }
+     ]
+    },
+    "latin": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "Rumba 98.3 - WMYP",
+       "url": "http://199.77.132.247:8087/broadwave.mp3?src=1&amprate=1&ampref=",
+       "tags": [
+        "latin",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "The Reef 103.5 - WAXJ",
+       "url": "https://ic2.mainstreamnetwork.com/waxj-fm",
+       "tags": [
+        "latin",
+        "reggae_ska",
+        "soul_rnb_funk",
+        "rock",
+        "pop_hits",
+        "hip_hop_rap"
+       ]
+      },
+      {
+       "name": "The Reef 1620 AM - WDHP",
+       "url": "http://147.135.84.28:80/wdhp-am",
+       "tags": [
+        "latin",
+        "soul_rnb_funk",
+        "reggae_ska"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "WUVI 97.3 FM Listen live",
+       "url": "https://sixminutes.com:9000/wuvi",
+       "tags": [
+        "news_talk",
+        "christian_gospel",
+        "latin",
+        "pop_hits",
+        "decade_80s"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 6,
+     "stations": [
+      {
+       "name": "News Talk AM 970 - WSTX",
+       "url": "http://162.244.81.33:8340",
+       "tags": [
+        "news_talk",
+        "latin",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "WDHP The Reef radio",
+       "url": "https://ic2.mainstreamnetwork.com/wdhp-am",
+       "tags": [
+        "news_talk",
+        "soul_rnb_funk",
+        "christian_gospel",
+        "various_eclectic",
+        "country",
+        "folk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "WSTA Lucky 13 Radio – WSTA",
+       "url": "https://crs.webdesign-flash.ro/?q=http://stream.1340wsta.com:8000/stream.mp3&plugin_id=7628&site_id=8520577",
+       "tags": [
+        "news_talk",
+        "sports",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "WSTX-AM 970 Christiansted",
+       "url": "http://wstxradio2.serverroom.net:8340/",
+       "tags": [
+        "news_talk",
+        "reggae_ska",
+        "christian_gospel",
+        "folk"
+       ]
+      },
+      {
+       "name": "WTJX NPR",
+       "url": "https://quarrel.streamguys1.com:7405/wtjxfm",
+       "tags": [
+        "news_talk",
+        "hip_hop_rap",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "WVIE Virgin Islands",
+       "url": "https://5e1d043cba697.streamlock.net/visland/visland/playlist.m3u8",
+       "tags": [
+        "news_talk",
+        "hip_hop_rap",
+        "pop_hits",
+        "reggae_ska",
+        "classical",
+        "oldies"
+       ]
+      }
+     ]
+    },
+    "oldies": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "104.9 MONGOOSE",
+       "url": "https://crs.webdesign-flash.ro/?q=http://208.84.199.84:8086/broadwave.mp3&plugin_id=7628&site_id=8520577",
+       "tags": [
+        "oldies",
+        "classical",
+        "rock",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Sunny FM-WVIQ radio",
+       "url": "https://jkc.streamguys1.com/WVIQ-FM",
+       "tags": [
+        "pop_hits",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "reggae_ska": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Isle 95",
+       "url": "https://jkc.streamguys1.com/WJKC",
+       "tags": [
+        "reggae_ska",
+        "hip_hop_rap",
+        "folk",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "WSTX – WSTX-FM",
+       "url": "http://162.244.81.33:7490",
+       "tags": [
+        "reggae_ska",
+        "world",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "WSTX-FM 100.3 Christiansted",
+       "url": "http://wstxradio.serverroom.net:7490/",
+       "tags": [
+        "reggae_ska",
+        "pop_hits",
+        "christian_gospel",
+        "world",
+        "folk"
+       ]
+      }
+     ]
+    },
+    "rock": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Aviva Radio",
+       "url": "https://stream.zenolive.com/gtpdd4k7a2wtv",
+       "tags": [
+        "rock",
+        "christian_gospel",
+        "folk",
+        "latin"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Nora Oldies 60er & 70er Listen live",
+       "url": "https://norawebstreams-stream23.radiohost.de/nora-oldies_mp3-192",
+       "tags": [
+        "rock",
+        "oldies",
+        "country",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "smooth_jazz": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "The Plum Radio",
+       "url": "http://streamer.radio.co/s738e802f0/listen",
+       "tags": [
+        "soul_rnb_funk",
+        "christian_gospel",
+        "smooth_jazz",
+        "world"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "soul_rnb_funk": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Hippie Soul Cafe",
+       "url": "http://ample-02.radiojar.com:80/a11mn5xkb",
+       "tags": [
+        "soul_rnb_funk",
+        "various_eclectic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radiokey",
+       "url": "https://live.audiradio.com:8006/key107",
+       "tags": [
+        "soul_rnb_funk",
+        "rock",
+        "easy_listening",
+        "electronic",
+        "oldies",
+        "decade_90s"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Latino 91.9 - WVSE",
+       "url": "http://server7.servistreaming.com:10020/autodj",
+       "language_inferred": true
+      },
+      {
+       "name": "RadioSky Music Jazz",
+       "url": "http://radioskymusicjazz.ddns.net:8000/radioskymusic",
+       "language_inferred": true
+      },
+      {
+       "name": "VAV Radio",
+       "url": "http://vavradio1.out.airtime.pro:8000/vavradio1_a",
+       "language_inferred": true
+      }
+     ]
+    }
+   }
+  },
+  "Spanish": {
+   "count": 3,
+   "genres": {
+    "latin": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "WMYP \"Rumba 98.3\" Frederiksted",
+       "url": "http://208.84.199.84:8087/broadwave.mp3"
+      }
+     ]
+    },
+    "rock": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "EXA FM: En Todas Partes Ponte Exa",
+       "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac?n=c107f51c6d3cd8a8c5c1",
+       "tags": [
+        "rock",
+        "pop_hits",
+        "folk"
+       ]
+      },
+      {
+       "name": "WZIN The Buzz 104.3 FM",
+       "url": "http://vip.livecastnet.com:8000/thebuzz.mp3"
+      }
+     ]
+    }
+   }
+  },
+  "Arabic": {
+   "count": 1,
+   "genres": {
+    "christian_gospel": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "BRN Radio - Arabic Channel",
+       "url": "http://192.241.185.108:8094/stream"
+      }
+     ]
+    }
+   }
+  },
+  "French": {
+   "count": 1,
+   "genres": {
+    "christian_gospel": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "BRN Radio - French Channel",
+       "url": "http://192.241.185.108:8106/stream"
+      }
+     ]
+    }
+   }
+  },
+  "Hebrew": {
+   "count": 1,
+   "genres": {
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "BRN Radio - Hebrew Channel",
+       "url": "http://192.241.185.108:8050/stream",
+       "tags": [
+        "news_talk",
+        "christian_gospel"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Greek": {
+   "count": 1,
+   "genres": {
+    "christian_gospel": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "BRN Radio - Greek Channel",
+       "url": "http://192.241.185.108:8112/stream"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

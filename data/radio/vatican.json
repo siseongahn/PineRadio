@@ -1,0 +1,686 @@
+{
+ "country": "Vatican",
+ "count": 61,
+ "languages": {
+  "Italian": {
+   "count": 22,
+   "genres": {
+    "christian_gospel": {
+     "count": 20,
+     "stations": [
+      {
+       "name": "Radio Vatican 9",
+       "url": "http://live.vaticanwebradio.org/channel9.mp3",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Vatican en français",
+       "url": "https://radio.vaticannews.va/stream-fr",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Radio Vaticana - Roma 103.8/105.0 FM",
+       "url": "https://radio.vaticannews.va/stream-it",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Vatican Radio 10",
+       "url": "https://rvl.azureedge.net/channel10.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Vatican Radio 11",
+       "url": "https://rvl.azureedge.net/channel11.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Vatican Radio 3",
+       "url": "https://rvl.azureedge.net/channel3.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Vatican Radio 4",
+       "url": "https://rvl.azureedge.net/channel4.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Vatican Radio 5",
+       "url": "https://rvl.azureedge.net/channel5.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Vatican Radio 6",
+       "url": "https://rvl.azureedge.net/channel6.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Vatican Radio 7",
+       "url": "https://rvl.azureedge.net/channel7.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Vatican Radio 8",
+       "url": "https://rvl.azureedge.net/channel8.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Vatican Radio 9",
+       "url": "https://rvl.azureedge.net/channel9.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Vatican Radio Amharic",
+       "url": "https://radio.vaticannews.va/stream-am"
+      },
+      {
+       "name": "Vatican Radio Arabic",
+       "url": "https://radio.vaticannews.va/stream-ar",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Vatican Radio Armenian",
+       "url": "https://radio.vaticannews.va/stream-hy",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Vatican Radio CH2",
+       "url": "https://rvl.azureedge.net/channel2.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Vatican Radio Channel 11",
+       "url": "http://live.vaticanwebradio.org/channel11.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Vatican Radio Hindi",
+       "url": "https://radio.vaticannews.va/stream-hi",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Vatican Radio Shqip",
+       "url": "https://radio.vaticannews.va/stream-sq",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Vatican Radio Tigrinya",
+       "url": "https://radio.vaticannews.va/stream-ti"
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Radio InBlu",
+       "url": "https://cldwz.tv2000.it/HLS/RadioInBlu/webradiolive/chunklist.m3u8",
+       "tags": [
+        "news_talk",
+        "christian_gospel",
+        "pop_hits",
+        "world"
+       ]
+      },
+      {
+       "name": "Radio Vaticana Italia",
+       "url": "http://rvl.vaticanmedia.va/channel5.mp3"
+      }
+     ]
+    }
+   }
+  },
+  "Multilingual": {
+   "count": 11,
+   "genres": {
+    "christian_gospel": {
+     "count": 5,
+     "stations": [
+      {
+       "name": "Radio Vaticana Italia",
+       "url": "http://live.vaticanwebradio.org/channel5.mp3"
+      },
+      {
+       "name": "Vatican Radio Channel 1",
+       "url": "https://stream.streema.com/?url=http://live.vaticanwebradio.org/channel1.mp3",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Vatican Radio Channel 2 (Asia, Africa)",
+       "url": "https://crs.webdesign-flash.ro/?q=http://live.vaticanwebradio.org/channel2.mp3&plugin_id=7628&site_id=8520577"
+      },
+      {
+       "name": "Vatican Radio Channel 3",
+       "url": "http://live.vaticanwebradio.org/channel3.mp3"
+      },
+      {
+       "name": "Vatican Radio Channel 4",
+       "url": "http://live.vaticanwebradio.org/channel4.mp3"
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 5,
+     "stations": [
+      {
+       "name": "Radio Vatican 2",
+       "url": "http://rvl.vaticanmedia.va/channel2.mp3",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Radio Vatican 3",
+       "url": "http://vatican.ic.llnwd.net/stream/vatican_vatican03.m3u",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Radio Vatican 4",
+       "url": "http://rvl.vaticanmedia.va/channel4.mp3"
+      },
+      {
+       "name": "Radio Vatican 8",
+       "url": "http://rvl.vaticanmedia.va/channel8.mp3",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Radio Vaticana 1",
+       "url": "http://rvl.vaticanmedia.va/channel1.mp3",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Vatican R 11",
+       "url": "http://rvl.vaticanmedia.va/channel11.mp3"
+      }
+     ]
+    }
+   }
+  },
+  "German": {
+   "count": 3,
+   "genres": {
+    "christian_gospel": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Radio Vatikan Kanal 10 - Deutsche Übertragungen",
+       "url": "http://live.vaticanwebradio.org/channel10.mp3"
+      },
+      {
+       "name": "Vatican Radio Deutsch",
+       "url": "https://radio.vaticannews.va/stream-de",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Vatican 10",
+       "url": "http://rvl.vaticanmedia.va/channel10.mp3",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "English": {
+   "count": 2,
+   "genres": {
+    "christian_gospel": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Vatican Radio English",
+       "url": "https://radio.vaticannews.va/stream-en",
+       "tags": [
+        "christian_gospel",
+        "news_talk",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Vatican 9",
+       "url": "http://rvl.vaticanmedia.va/channel9.mp3",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Spanish": {
+   "count": 2,
+   "genres": {
+    "christian_gospel": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Vaticano en español",
+       "url": "https://radio.vaticannews.va/stream-es"
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Vatican 6",
+       "url": "http://rvl.vaticanmedia.va/channel6.mp3",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Slovak": {
+   "count": 2,
+   "genres": {
+    "christian_gospel": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Vatican Radio 1",
+       "url": "https://rvl.azureedge.net/channel1.mp3"
+      },
+      {
+       "name": "Vatican Radio Slovenčina",
+       "url": "https://radio.vaticannews.va/stream-sk",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Czech": {
+   "count": 1,
+   "genres": {
+    "christian_gospel": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Vatican Radio Čeština",
+       "url": "https://radio.vaticannews.va/stream-cs",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Belarusian": {
+   "count": 1,
+   "genres": {
+    "christian_gospel": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Vatican Radio Belarusian",
+       "url": "https://radio.vaticannews.va/stream-be",
+       "tags": [
+        "christian_gospel",
+        "classical"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Latvian": {
+   "count": 1,
+   "genres": {
+    "christian_gospel": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Vatican Radio Latviešu",
+       "url": "https://radio.vaticannews.va/stream-lv",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Malayalam": {
+   "count": 1,
+   "genres": {
+    "christian_gospel": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Vatican Radio Malayalam",
+       "url": "https://radio.vaticannews.va/stream-ml",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Slovenian": {
+   "count": 1,
+   "genres": {
+    "christian_gospel": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Vatican Radio Slovenščina",
+       "url": "https://radio.vaticannews.va/stream-sl",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Bulgarian": {
+   "count": 1,
+   "genres": {
+    "christian_gospel": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Vaticana Bulgaria",
+       "url": "https://radio.vaticannews.va/stream-bg",
+       "tags": [
+        "christian_gospel",
+        "news_talk",
+        "folk"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Chinese": {
+   "count": 1,
+   "genres": {
+    "christian_gospel": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Vatican Radio Chinese",
+       "url": "https://radio.vaticannews.va/stream-zh",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Portuguese": {
+   "count": 1,
+   "genres": {
+    "christian_gospel": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Vatican Radio Português",
+       "url": "https://radio.vaticannews.va/stream-pt"
+      }
+     ]
+    }
+   }
+  },
+  "Croatian": {
+   "count": 1,
+   "genres": {
+    "christian_gospel": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Vatican Radio Hrvatski",
+       "url": "https://radio.vaticannews.va/stream-hr",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Hungarian": {
+   "count": 1,
+   "genres": {
+    "christian_gospel": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Vatikáni Rádió magyar nyelven",
+       "url": "https://radio.vaticannews.va/stream-hu",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Lithuanian": {
+   "count": 1,
+   "genres": {
+    "christian_gospel": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Vatican Radio Lietuvių",
+       "url": "https://radio.vaticannews.va/stream-lt",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Polish": {
+   "count": 1,
+   "genres": {
+    "christian_gospel": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Watykańskie w języku polskim",
+       "url": "https://radio.vaticannews.va/stream-pl"
+      }
+     ]
+    }
+   }
+  },
+  "Romanian": {
+   "count": 1,
+   "genres": {
+    "christian_gospel": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Vatican Radio Română",
+       "url": "https://radio.vaticannews.va/stream-ro",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Russian": {
+   "count": 1,
+   "genres": {
+    "christian_gospel": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Vatican Radio Russian",
+       "url": "https://radio.vaticannews.va/stream-ru",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Ukrainian": {
+   "count": 1,
+   "genres": {
+    "christian_gospel": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Vatican Radio Ukrainian",
+       "url": "https://radio.vaticannews.va/stream-uk",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Tamil": {
+   "count": 1,
+   "genres": {
+    "christian_gospel": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Vatican Radio Tamil",
+       "url": "https://radio.vaticannews.va/stream-ta",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Vietnamese": {
+   "count": 1,
+   "genres": {
+    "christian_gospel": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Vatican Radio Tiếng việt",
+       "url": "https://radio.vaticannews.va/stream-vi",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Swahili": {
+   "count": 1,
+   "genres": {
+    "christian_gospel": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Vatican Radio Kiswahili",
+       "url": "https://radio.vaticannews.va/stream-sw"
+      }
+     ]
+    }
+   }
+  },
+  "French": {
+   "count": 1,
+   "genres": {
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Vatican 7",
+       "url": "http://rvl.vaticanmedia.va/channel7.mp3",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      }
+     ]
+    }
+   }
+  }
+ }
+}

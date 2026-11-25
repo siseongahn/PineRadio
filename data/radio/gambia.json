@@ -1,0 +1,690 @@
+{
+ "country": "Gambia",
+ "count": 107,
+ "languages": {
+  "English": {
+   "count": 105,
+   "genres": {
+    "christian_gospel": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Am Healed Radio",
+       "url": "https://stream.zeno.fm/d0shddn0aphvv.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Dialakha Listen live",
+       "url": "https://stream.zeno.fm/zk8edcdydbruv",
+       "tags": [
+        "christian_gospel",
+        "country",
+        "islamic_quran",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Gloria, Banjul radio",
+       "url": "https://radiogloria.out.airtime.pro/radiogloria_b",
+       "language_inferred": true
+      }
+     ]
+    },
+    "country": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Capital FM 1004",
+       "url": "https://node-13.zeno.fm/bzfupqp8z4zuv?rj-ttl=5&amprj-tok=AAABea0wbnsAsk4itVnRimUPcQ",
+       "language_inferred": true
+      }
+     ]
+    },
+    "decade_60s": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Dialakha",
+       "url": "https://stream.zeno.fm/yr4418y7ybruv.mp3",
+       "tags": [
+        "decade_70s",
+        "decade_60s",
+        "decade_80s"
+       ]
+      }
+     ]
+    },
+    "hip_hop_rap": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Paradise FM 105.5",
+       "url": "http://paradisefm.streamguys.com:1935/live/paradise.stream/playlist.m3u8",
+       "language_inferred": true
+      }
+     ]
+    },
+    "islamic_quran": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Karantaa Baa Radio",
+       "url": "http://live.mp3quran.net:9720/",
+       "language_inferred": true
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 17,
+     "stations": [
+      {
+       "name": "AfriRadio Gambia",
+       "url": "http://usa9-vn.webcast-server.net:8120/",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Al Falaah FM radio",
+       "url": "http://radio.streamingcenter.net:5524/live",
+       "tags": [
+        "news_talk",
+        "christian_gospel",
+        "islamic_quran"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Amulragal FM",
+       "url": "http://78.129.159.25:8169/",
+       "language_inferred": true
+      },
+      {
+       "name": "BBC Worldservice",
+       "url": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-enafw_backup",
+       "tags": [
+        "news_talk",
+        "classical"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Freedom Radio, Banjul",
+       "url": "http://162.244.81.101:4340/stream.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Gainako Radio",
+       "url": "http://stream.radiojar.com/aushpszb52vtv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hot FM Gambia",
+       "url": "http://uk3-pn.mixstream.net:8062",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Islam in The Gambia radio",
+       "url": "http://192.95.39.65:5525/stream",
+       "tags": [
+        "islamic_quran",
+        "news_talk",
+        "christian_gospel"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Kairo Radio",
+       "url": "http://node-14.zeno.fm/aebmdah2uyduv",
+       "language_inferred": true
+      },
+      {
+       "name": "Manding Boulundala Radio Listen live",
+       "url": "https://listen.radioking.com/radio/594/stream/2165",
+       "tags": [
+        "news_talk",
+        "alternative_indie",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Paradise FM",
+       "url": "http://s1.voscast.com:10970/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "hip_hop_rap"
+       ]
+      },
+      {
+       "name": "Radio Kairo Gambia",
+       "url": "https://stream.zenolive.com/aebmdah2uyduv",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "West Coast Radio 1",
+       "url": "http://stream.westcoast.gm:8080/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "West Coast Radio 92.1",
+       "url": "http://stream.westcoast.gm:8080/westcoast921",
+       "tags": [
+        "news_talk",
+        "sports",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "West Coast Radio 92.1",
+       "url": "http://stream.westcoast.gm:8080/rtvkatwijk/",
+       "tags": [
+        "news_talk",
+        "sports"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "West Coast Radio 921",
+       "url": "http://stream.westcoast.gm:8002/relay",
+       "language_inferred": true
+      },
+      {
+       "name": "West Coast Radio 95.3",
+       "url": "http://stream.westcoast.gm:8080/westcoast953",
+       "tags": [
+        "news_talk",
+        "sports"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Hot FM",
+       "url": "https://rbx2.hnux.com/http://e14058.cloudrad.io:8062/",
+       "language_inferred": true
+      },
+      {
+       "name": "Unique FM",
+       "url": "http://uniquefm.serverroom.net:9796/stream.mp3/",
+       "language_inferred": true
+      }
+     ]
+    },
+    "rock": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Radio Dialakha",
+       "url": "http://stream.zenolive.com/zk8edcdydbruv",
+       "tags": [
+        "rock",
+        "easy_listening",
+        "christian_gospel"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Star FM 966",
+       "url": "http://usa9-vn.webcast-server.net:8120/stream.mp3",
+       "language_inferred": true
+      }
+     ]
+    },
+    "soul_rnb_funk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Capital FM Gambia radio",
+       "url": "http://s3.viastreaming.net:8815/",
+       "tags": [
+        "electronic",
+        "folk",
+        "soul_rnb_funk",
+        "hip_hop_rap",
+        "latin",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "sports": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "HOT FM Radio The Gambia - 104.3",
+       "url": "http://uk3-pn.webcast-server.net:8062/stream/1",
+       "tags": [
+        "sports",
+        "news_talk"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "world": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Gambia One Radio",
+       "url": "http://s4.streammonster.com:8629/stream.mp3"
+      },
+      {
+       "name": "Up Africa radio",
+       "url": "https://stream.zeno.fm/um48p4wgmkhvv"
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 73,
+     "stations": [
+      {
+       "name": "1FM XTRA",
+       "url": "https://stream.zeno.fm/mzhw6fgspv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Afri Radio",
+       "url": "http://s6.mediastreaming.it:9056/887369260559931stream.nsv",
+       "language_inferred": true
+      },
+      {
+       "name": "AfriRadio Gambia",
+       "url": "https://stream.zeno.fm/193z8dxcz4zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "AfriRadio Gambia 107.6FM",
+       "url": "https://stream.zeno.fm/6ay27kmu5yzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Asalam radio the gambia",
+       "url": "https://stream.zeno.fm/h9x2c6yqam0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "BoomSound Radio",
+       "url": "https://stream.zeno.fm/mq8car4uqnhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "BsRadio",
+       "url": "https://stream.zeno.fm/e22sky38fphvv",
+       "language_inferred": true
+      },
+      {
+       "name": "BymyraRadio",
+       "url": "https://stream.zeno.fm/ptf578snychvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Capital FM",
+       "url": "https://stream.zeno.fm/k4g5ubp8z4zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Capital FM",
+       "url": "http://zulu.streams4africa.com/6ug83kd2yk5tv",
+       "language_inferred": true
+      },
+      {
+       "name": "CAPITAL FM GAMBIA",
+       "url": "https://stream.zeno.fm/hzdxh7au5yzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Choice FM",
+       "url": "http://uk3-pn.webcast-server.net/8276/stream.mp3"
+      },
+      {
+       "name": "Choice FM",
+       "url": "http://94.76.216.200:8276/"
+      },
+      {
+       "name": "City Limit Gambia",
+       "url": "https://stream.zeno.fm/t7t05hgg838uv",
+       "language_inferred": true
+      },
+      {
+       "name": "DEEJAY EBSON SHOWS",
+       "url": "https://stream.zeno.fm/fphkhdg3dm8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "DHK RADIO FM",
+       "url": "https://stream.zeno.fm/a32mxeqva18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "DHK Radio Gambia",
+       "url": "https://stream.zeno.fm/ndxq7mqnyeruv",
+       "language_inferred": true
+      },
+      {
+       "name": "Diasporium Radio",
+       "url": "http://stream.zeno.fm/44xe8qkqw5vtv",
+       "language_inferred": true
+      },
+      {
+       "name": "DIASPORIUM RADIO",
+       "url": "https://stream.zeno.fm/ucgqyd0v2vduv"
+      },
+      {
+       "name": "Diasporium Radio",
+       "url": "http://ample-02.radiojar.com/aqb51kpmb",
+       "language_inferred": true
+      },
+      {
+       "name": "Empire Radio1 Gunjur",
+       "url": "http://s1.myradiostream.com:12058/"
+      },
+      {
+       "name": "ENERGY FM",
+       "url": "https://stream.zeno.fm/ndduyq9t0v8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "essaufm",
+       "url": "https://stream.zeno.fm/hxyfzfvncv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Fatu Radio",
+       "url": "https://node-18.zeno.fm/qqz89f0auy5tv",
+       "language_inferred": true
+      },
+      {
+       "name": "Fatu Radio",
+       "url": "https://stream.zenolive.com/k4cxrv3mb.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "Fatu Radio",
+       "url": "http://149.202.69.32/listen/utg96sxkb"
+      },
+      {
+       "name": "FAYDAL FM 90.9",
+       "url": "https://stream.zeno.fm/0xiblbs2kletv",
+       "language_inferred": true
+      },
+      {
+       "name": "Fish Radio Gambia",
+       "url": "https://stream.zeno.fm/r79f2c6f798uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Freedom Radio",
+       "url": "http://162.244.81.101:4348/stream.mp3/playlist.m3u8"
+      },
+      {
+       "name": "Gainako Radio",
+       "url": "http://149.202.69.29/listen/aushpszb52vtv"
+      },
+      {
+       "name": "Gamnews",
+       "url": "https://stream.zeno.fm/2b7yasr00nhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "GAMVIBEZ RADIO",
+       "url": "https://stream.zeno.fm/emycg8xfnrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Gassec Online Radio",
+       "url": "http://s9.voscast.com:9108/stream1627299913813/1",
+       "language_inferred": true
+      },
+      {
+       "name": "GoFlow Radio",
+       "url": "https://stream.zeno.fm/e4bb0ke0qf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "GTRS Radio",
+       "url": "http://162.244.80.52:6508/stream"
+      },
+      {
+       "name": "I Love Basse Gambia FM",
+       "url": "https://stream.zeno.fm/0et2gab64d0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Islam radio",
+       "url": "https://stream.zeno.fm/9ynygwracm0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Jamano Media and Radio",
+       "url": "https://stream.zeno.fm/aexpaxhyk2zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "jamdzfm",
+       "url": "https://stream.zeno.fm/ccq3nkbstf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Jubanti Gambia Online Radio",
+       "url": "https://stream.zeno.fm/kppxa18naxqvv",
+       "language_inferred": true
+      },
+      {
+       "name": "JUMP Online Radio",
+       "url": "http://s4.radio.co/s2d4faea47/listen",
+       "language_inferred": true
+      },
+      {
+       "name": "Kibaaro Radio",
+       "url": "http://yanks.serverroom.net:6316/stream.mp3"
+      },
+      {
+       "name": "Kingfm Gambia",
+       "url": "https://stream.zeno.fm/nhpvqu4xrf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Kora Fm  103.9",
+       "url": "https://stream.zeno.fm/ky859aqxbphvv",
+       "language_inferred": true
+      },
+      {
+       "name": "KORA FM 1039 Gambia",
+       "url": "https://stream.zeno.fm/4z29xwgv5yzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Kunta kinteh digital fm radio",
+       "url": "https://stream.zeno.fm/uvjvljpekmyuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Manding Boulundala Gambia",
+       "url": "https://stream.zeno.fm/9sn4gnp985quv",
+       "language_inferred": true
+      },
+      {
+       "name": "MS Online Radio",
+       "url": "https://stream.zeno.fm/vxdacwesa78uv",
+       "language_inferred": true
+      },
+      {
+       "name": "N24 RADIO",
+       "url": "https://stream.zeno.fm/xq2pgdgqv98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "NL RADIO",
+       "url": "https://stream.zeno.fm/sc1bt4m5dm0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "One Gambia radio",
+       "url": "https://stream.zeno.fm/dk1g732kqc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "QRadio",
+       "url": "http://s9.viastreaming.net/mobile.php?port=9560"
+      },
+      {
+       "name": "Radio Askanbi",
+       "url": "http://108.178.13.122:8193/?.mp3&1503746185867",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Boulundala Gambia",
+       "url": "http://www.radioking.com/play/manding-boulundala"
+      },
+      {
+       "name": "Radio Daily Iqra",
+       "url": "https://stream.zeno.fm/8as088bmzrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Dialakha",
+       "url": "http://node-04.zeno.fm/82q9w2f8eeruv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio GAMBIA GRTS",
+       "url": "https://stream.zeno.fm/c468uaf985quv",
+       "language_inferred": true
+      },
+      {
+       "name": "Salahari Media",
+       "url": "https://stream.zeno.fm/gatshdek638uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Seereer Radio",
+       "url": "http://37.59.47.192:8112/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "Senn FM Gambia",
+       "url": "https://stream.zeno.fm/rwwfz9bvz1zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Senn FM Radio",
+       "url": "http://www.partyviberadio.com:8000/stream.mp3"
+      },
+      {
+       "name": "Senn FM Radio 90.5",
+       "url": "http://185.17.186.228:8000/sennfm"
+      },
+      {
+       "name": "SMPRADIO",
+       "url": "https://stream.zeno.fm/tfs9q3kf7ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "SolidVibesSound Radio 220",
+       "url": "https://stream.zeno.fm/wwt8khzxbphvv",
+       "language_inferred": true
+      },
+      {
+       "name": "StarFM Gambia",
+       "url": "https://stream.zeno.fm/edfd6fhdps8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Sunnah fm gambia",
+       "url": "https://stream.zeno.fm/nu945tthvg0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Tawbah FM",
+       "url": "http://s2.voscast.com:7918"
+      },
+      {
+       "name": "TG24 FM radio",
+       "url": "https://stream.zeno.fm/v5t44ncn8x8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Third Shift Media",
+       "url": "https://stream.zeno.fm/p8x3p6dk638uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Touba Sahite Fm",
+       "url": "https://stream.zeno.fm/d9vp1yy6n48uv",
+       "language_inferred": true
+      },
+      {
+       "name": "TRIBAL MATTERS",
+       "url": "https://stream.zeno.fm/mbwprcg2ud0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "West Coast Radio",
+       "url": "https://stream.zeno.fm/1sd4br48z4zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "West Coast Radio 95.3",
+       "url": "http://stream.westcoast.gm:8000/stream/1"
+      }
+     ]
+    }
+   }
+  },
+  "Multilingual": {
+   "count": 1,
+   "genres": {
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "West Coast Radio Gambia",
+       "url": "http://stream.westcoast.gm:8002/",
+       "tags": [
+        "news_talk",
+        "various_eclectic"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Swahili": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Tzgospel swahili",
+       "url": "https://stream.zeno.fm/sqp7k687kfhvv"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

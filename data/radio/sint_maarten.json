@@ -1,0 +1,142 @@
+{
+ "country": "Sint Maarten",
+ "count": 10,
+ "languages": {
+  "English": {
+   "count": 8,
+   "genres": {
+    "latin": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Radio Fréquence Caraïbes",
+       "url": "http://163.172.59.44/player/",
+       "tags": [
+        "latin",
+        "smooth_jazz",
+        "jazz",
+        "world",
+        "reggae_ska"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Tropixx 105.5 FM",
+       "url": "http://stream.sxmradio.com:8060/channel2.mp3",
+       "tags": [
+        "latin",
+        "reggae_ska",
+        "folk",
+        "various_eclectic",
+        "world"
+       ]
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "PJD2 Voice of Sint Maarten radio",
+       "url": "https://pjd2radiofm.radioca.st/",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "oldies": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Oasis 96.3 FM",
+       "url": "http://stream.sxmradio.com:8060/channel5.mp3",
+       "tags": [
+        "oldies",
+        "easy_listening",
+        "pop_hits",
+        "decade_70s",
+        "decade_80s",
+        "decade_1920s_50s",
+        "decade_60s",
+        "decade_90s",
+        "country"
+       ]
+      }
+     ]
+    },
+    "rock": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Island 92 Listen live",
+       "url": "https://ais-sa1.streamon.fm/7338_48k.aac/playlist.m3u8",
+       "tags": [
+        "rock",
+        "chillout_lounge",
+        "electronic",
+        "blues"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Island 92 FM – 92 FM – Philipsburg",
+       "url": "https://pjil.streamon.fm/listen.m3u",
+       "language_inferred": true
+      },
+      {
+       "name": "PJD2 Radio",
+       "url": "http://pjd2radiofm.radioca.st:8181/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "PJD2 Radio",
+       "url": "http://pjd2radioam.radioca.st:8193/stream",
+       "language_inferred": true
+      }
+     ]
+    }
+   }
+  },
+  "Dutch": {
+   "count": 2,
+   "genres": {
+    "rock": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Island 92 FM",
+       "url": "http://pjil.streamon.fm:8000/pjil-32k.aac",
+       "tags": [
+        "rock",
+        "blues"
+       ]
+      }
+     ]
+    },
+    "world": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "FABRadio 90.3FM",
+       "url": "http://50.7.129.122:8377",
+       "tags": [
+        "world",
+        "news_talk",
+        "various_eclectic",
+        "pop_hits"
+       ]
+      }
+     ]
+    }
+   }
+  }
+ }
+}

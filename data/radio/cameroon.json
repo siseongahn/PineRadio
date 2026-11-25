@@ -1,0 +1,863 @@
+{
+ "country": "Cameroon",
+ "count": 135,
+ "languages": {
+  "French": {
+   "count": 131,
+   "genres": {
+    "blues": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "DIRTY30 BLUES",
+       "url": "http://209.159.147.242:9998/listen.pls",
+       "language_inferred": true
+      }
+     ]
+    },
+    "christian_gospel": {
+     "count": 5,
+     "stations": [
+      {
+       "name": "Radio Qahal Yahweh",
+       "url": "https://stream.zeno.fm/8b7mumdqvy8uv"
+      },
+      {
+       "name": "Radio Salaaman",
+       "url": "https://stream-41.zeno.fm/q9wtvbns7whvv"
+      },
+      {
+       "name": "Radio Veritas",
+       "url": "https://stream-41.zeno.fm/3vu1xwafzxhvv"
+      },
+      {
+       "name": "Radio Vie Nouvelle",
+       "url": "https://rvn-lafrequencedevie.ice.infomaniak.ch/rvn-lafrequencedevie-32.mp3",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Radio Voice of the Cross (RVC)",
+       "url": "https://www.radioking.com/play/radio-voice-of-the-cross-rvc",
+       "tags": [
+        "christian_gospel",
+        "world"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "college_community": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "BALFOURT RADIO",
+       "url": "https://stream.zeno.fm/vfr79kdcd8zuv"
+      },
+      {
+       "name": "BALFOURT RADIO",
+       "url": "https://stream.zeno.fm/s5k3qyvbd8zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Electrafm",
+       "url": "https://stream.zeno.fm/tbs4hwdcd8zuv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "comedy": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Teste lolo",
+       "url": "https://stream.zeno.fm/rtsgsmf34k0uv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "folk": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Balla Radio",
+       "url": "http://167.114.11.79:5730/",
+       "tags": [
+        "folk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Balafon",
+       "url": "https://uk4-vn.mixstream.net/8142/listen.mp3",
+       "tags": [
+        "pop_hits",
+        "various_eclectic",
+        "folk"
+       ]
+      }
+     ]
+    },
+    "hip_hop_rap": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "NEW AFRICA Station",
+       "url": "https://www.radioking.fr/play/new-africa-station",
+       "tags": [
+        "hip_hop_rap",
+        "house"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "kids": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Radio Informatik",
+       "url": "https://stream.zeno.fm/dc74qb1prg8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RVradio",
+       "url": "https://stream.zeno.fm/bbfdf9mdd8zuv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 7,
+     "stations": [
+      {
+       "name": "ICT University Radio",
+       "url": "https://icturadio.radioca.st/stream.nsv",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO SIANTOU BAFANG 90.5 radio",
+       "url": "http://uk3freenew.listen2myradio.com:36315/stream.nsv",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "sports"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Tiemeni Siantou",
+       "url": "https://stream.zeno.fm/gper1b4xc6quv",
+       "tags": [
+        "news_talk",
+        "various_eclectic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Rush FM Bamenda radio",
+       "url": "https://stream.zeno.fm/8ggdk1wbtc9uv",
+       "tags": [
+        "sports",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Sky One Radio",
+       "url": "http://de1.internet-radio.com:8028/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "folk",
+        "world",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "The Voice FM 96.8 radio",
+       "url": "https://stream.zeno.fm/aapwzw6h5bruv",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "comedy"
+       ]
+      },
+      {
+       "name": "Tiemeni Siantou",
+       "url": "https://stream.zenolive.com/gper1b4xc6quv.aac",
+       "language_inferred": true
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "RADIO  TIEMENI  SIANTOU station de BAFANG  RTS",
+       "url": "https://stream.zeno.fm/4ee68hzkzeruv"
+      },
+      {
+       "name": "The Voice FM",
+       "url": "https://node-13.zeno.fm/aapwzw6h5bruv.aac",
+       "tags": [
+        "pop_hits",
+        "comedy",
+        "news_talk"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "soul_rnb_funk": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "237KMER",
+       "url": "https://streaming.radionomy.com/-237KMER",
+       "tags": [
+        "soul_rnb_funk",
+        "country"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "BMS Radio",
+       "url": "http://streaming.radionomy.com/BMSRADIO?lang=en-gb",
+       "tags": [
+        "soul_rnb_funk",
+        "hip_hop_rap"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Brightstar Studios",
+       "url": "https://s17.ssl-stream.com/proxy/brightstar?mp=/stream",
+       "tags": [
+        "soul_rnb_funk",
+        "world",
+        "various_eclectic",
+        "hip_hop_rap",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "O RADIO",
+       "url": "http://stream.zeno.fm/7yq4szw28vzuv",
+       "tags": [
+        "soul_rnb_funk",
+        "news_talk"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "various_eclectic": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "AfricAvenir WebRadio",
+       "url": "https://node-12.zeno.fm/yf41xuncvhruv.aac?rj-ttl=5&amprj-tok=AAABbt-hxnsAHal0IZ0MDHKjdw",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Star Mundo",
+       "url": "http://91.121.164.210:8320/",
+       "tags": [
+        "various_eclectic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "ThevoiceFMBafang",
+       "url": "https://stream.zeno.fm/8tup3w6h5bruv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "world": {
+     "count": 7,
+     "stations": [
+      {
+       "name": "ABK Radio",
+       "url": "http://abkradio.ice.infomaniak.ch/abkradio-32.aac",
+       "tags": [
+        "pop_hits",
+        "world"
+       ]
+      },
+      {
+       "name": "ABK Radio Listen live",
+       "url": "https://sr6.inmystream.it/proxy/abkradio?mp=/stream.mp3",
+       "tags": [
+        "world",
+        "news_talk",
+        "various_eclectic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Balafon",
+       "url": "https://stream.streamgenial.stream/28fd7yt57vzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Balla Radio",
+       "url": "https://usa5.fastcast4u.com/proxy/cameroon?mp=/1"
+      },
+      {
+       "name": "Brightstar Studios",
+       "url": "http://74.91.125.187:8098/stream/",
+       "tags": [
+        "various_eclectic",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Brightstar Studios",
+       "url": "http://s17.ssl-stream.com:8098/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Magic FM 100.1",
+       "url": "http://stream.zeno.fm/eza2fd8zbfhvv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 93,
+     "stations": [
+      {
+       "name": "AfricAvenir FM",
+       "url": "https://stream.zeno.fm/ghr05b2qdg8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "AFRIQUE MEDIA RADIO",
+       "url": "https://stream.zeno.fm/zhxwdw7q6e9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Afriz4u",
+       "url": "https://stream.zeno.fm/3ra1v1a2p48uv",
+       "language_inferred": true
+      },
+      {
+       "name": "AIC RADIO",
+       "url": "https://stream.zeno.fm/0uqhm2vmzeruv"
+      },
+      {
+       "name": "AJ TMP",
+       "url": "https://stream.zeno.fm/honlrs35l4ttv",
+       "language_inferred": true
+      },
+      {
+       "name": "AMAZING WORD FM",
+       "url": "https://stream.zeno.fm/eamrerrsduhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "APMZIK WEB RADIO",
+       "url": "https://stream.zeno.fm/ue4m2szb6nhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "ARREPIENTETE Y PREPARATE RADIO",
+       "url": "https://stream.zeno.fm/bgwputs54bhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "AZERTYYYYYH",
+       "url": "https://stream.zeno.fm/olrxc0pipxguv",
+       "language_inferred": true
+      },
+      {
+       "name": "baby 237",
+       "url": "https://stream.zeno.fm/tbektsyvwrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Balafon FM Cameroun",
+       "url": "https://stream.zeno.fm/nfxmdtpm12quv"
+      },
+      {
+       "name": "Balla Radio",
+       "url": "http://167.114.11.79:5730/stream/1"
+      },
+      {
+       "name": "Bon Berger RTV",
+       "url": "https://stream.zeno.fm/vrxhjmfx7rztv",
+       "language_inferred": true
+      },
+      {
+       "name": "Brightstar Studios",
+       "url": "https://s17.ssl-stream.com/proxy/brightstar",
+       "language_inferred": true
+      },
+      {
+       "name": "Brightstar Studios – Yaoundé – CM-CE",
+       "url": "https://s17.ssl-stream.com/proxy/brightstar?mp=/stream&1646236837679",
+       "language_inferred": true
+      },
+      {
+       "name": "CEBCTC",
+       "url": "https://stream.zeno.fm/apkycm2hbchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "CERA RADIO",
+       "url": "https://stream.zeno.fm/p8bcrarffhutv",
+       "language_inferred": true
+      },
+      {
+       "name": "CHRISTRADIO Yaoundé",
+       "url": "https://stream.zeno.fm/gtb3znv0h2zuv"
+      },
+      {
+       "name": "CMCI Garoua",
+       "url": "https://stream.zeno.fm/80zna45uqfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Coach Christian Bardot",
+       "url": "https://stream.zeno.fm/bs7hu8n5gc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "COLMI-FM",
+       "url": "https://stream.zeno.fm/uba6dvx5p48uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Covenant FM",
+       "url": "https://stream.zeno.fm/ys40w23mrv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Digital Radio Erick",
+       "url": "https://stream.zeno.fm/50253u9s1zhvv"
+      },
+      {
+       "name": "DMCR NKAMBE",
+       "url": "https://stream.zeno.fm/ibemx2t9ibxvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Don Fizz radio",
+       "url": "https://stream.zeno.fm/a6huxez3ng0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Douala Marathon FM",
+       "url": "https://listen.radioking.com/radio/208498/stream/251383",
+       "language_inferred": true
+      },
+      {
+       "name": "DPHCmr.Association",
+       "url": "https://stream.zeno.fm/zqxmuz22rxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Eternity Gospel Radio",
+       "url": "https://stream.zeno.fm/ufkpkm4a1rhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Fire Gospel Radio",
+       "url": "https://stream.zeno.fm/rhyxdzpru98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "FM 90.0",
+       "url": "https://stream.zeno.fm/d0ehwu7hvnhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Fonte Gospel.",
+       "url": "https://stream.zeno.fm/dq6u0puvkm0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "FREQUENCE VIE",
+       "url": "https://stream.zeno.fm/q89pxveg1k0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Glorious FM",
+       "url": "https://stream.zeno.fm/55bcv4uk8yzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Glory FM",
+       "url": "https://stream.zeno.fm/5x61r9a8azzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "God's Love Line (GL Radio)",
+       "url": "http://listen.radioking.com/radio/246430/stream/290635",
+       "language_inferred": true
+      },
+      {
+       "name": "gospel message",
+       "url": "https://stream.zeno.fm/7a3wkskhzrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "GOSPEL PROMO WEB RADIO",
+       "url": "https://stream.zeno.fm/3cx8yx7a8a0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "gospelmusic",
+       "url": "https://stream.zeno.fm/tgc6tdfgugpvv",
+       "language_inferred": true
+      },
+      {
+       "name": "HOLO VIBE",
+       "url": "https://stream.zeno.fm/mhkoskaqqvvtv"
+      },
+      {
+       "name": "Houses of Allah",
+       "url": "https://stream.zeno.fm/vgc6w6teffhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "IL EST ECRIT FEDERATION CENTRE ET SUD",
+       "url": "https://stream.zeno.fm/wapsqs13xuhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "influence radio",
+       "url": "https://stream.zeno.fm/m0wzyiqzoe2uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Kairos Radio",
+       "url": "https://stream.zeno.fm/yx3v0665m5zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "King Salem FM",
+       "url": "https://stream.zeno.fm/dtzkcynou12uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Lambano Radio",
+       "url": "https://stream.zeno.fm/xm8zgbdbuv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "LePapyrus",
+       "url": "https://stream.zeno.fm/sf28nzrdnzzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Listen to Evra-Geraud",
+       "url": "https://stream.zeno.fm/7arq0kmy4hhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Manden Radio",
+       "url": "https://stream.zeno.fm/zqmus1qe308uv",
+       "language_inferred": true
+      },
+      {
+       "name": "MBOA FM",
+       "url": "https://stream.zeno.fm/cdewgegge2atv",
+       "language_inferred": true
+      },
+      {
+       "name": "MELO FM 97.2MHz",
+       "url": "https://stream.zeno.fm/bfc7wmvpduhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Metamorphose",
+       "url": "https://stream.zeno.fm/gg1sayr7cxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "mezcla",
+       "url": "https://stream.zeno.fm/3gv57wwbl6iuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Ndefcam Radio Bamenda",
+       "url": "https://listen.mixlr.com/59980ba2593a5d497db1ea720762183b",
+       "language_inferred": true
+      },
+      {
+       "name": "Obosso FM – Douala – CM-LT",
+       "url": "https://obossobroadcast.fr/otv/winmedia/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "OMEGAFM",
+       "url": "https://stream.zeno.fm/bhye71an97zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Para gari",
+       "url": "https://stream.zeno.fm/swnw644n4nhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Paul_Station",
+       "url": "https://stream.zeno.fm/tpkyvkzvpg8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Power Kingdom Voice",
+       "url": "https://stream.zeno.fm/nphgq1ks97zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Prnunes Yaoundé live brazil",
+       "url": "https://stream1.svrdedicado.org/8366/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "radio alhouda",
+       "url": "https://stream.zeno.fm/bzt4ysmgb8zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO BAFUNG",
+       "url": "https://stream.zeno.fm/43q33pgvbphvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Balafon",
+       "url": "http://usa1-vn.mixstream.net:8110/"
+      },
+      {
+       "name": "Radio Balafon – 90.2 FM – Douala – CM-LT",
+       "url": "https://stream.zeno.fm/br6yan7gewzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO BONABERI FM 95.7",
+       "url": "https://stream.zeno.fm/e7db27238nhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Bonne Nouvelle",
+       "url": "http://radiobonnenouvelle2.ice.infomaniak.ch/radiobonnenouvelle2-96.mp3"
+      },
+      {
+       "name": "RADIO BVS",
+       "url": "https://stream.zeno.fm/dva29gaj5llvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Evangelium Kumbo",
+       "url": "https://stream.zeno.fm/7y2bkzq8gg8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO FOUTOUNI-BANDJA",
+       "url": "https://stream.zeno.fm/cdqetk2bxzzuv"
+      },
+      {
+       "name": "radio hosanna",
+       "url": "https://stream.zeno.fm/1cvr7yqhbm0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO HOSSERE",
+       "url": "https://stream.zeno.fm/sqm4c5msv4zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO IUGET",
+       "url": "https://stream.zeno.fm/y9jgqrkvhjwvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Jeru",
+       "url": "https://stream.zeno.fm/2fbucqsxfm8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Jésus Vient",
+       "url": "https://stream.radio.co/sa6d1785e9/listen",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO MARIA",
+       "url": "https://stream.zeno.fm/nw4yxqnp3zhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Mbam FM",
+       "url": "https://stream.zeno.fm/h0g4eefuywzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio restauration de vie",
+       "url": "https://stream.zeno.fm/pgfh19a7ivluv",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO SALAAMAN",
+       "url": "https://stream.zeno.fm/q9wtvbns7whvv",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO SIANTOU BAFANG 90.5",
+       "url": "http://freeuk21.listen2myradio.com:17244/stream.nsv",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO TIEMENI SIANTOU",
+       "url": "https://stream.zeno.fm/yqos9l6z7f1uv"
+      },
+      {
+       "name": "Radio Voice of the Cross (RVC) - Yaounde",
+       "url": "http://www.radioking.com/play/rvc-yaounde1",
+       "language_inferred": true
+      },
+      {
+       "name": "RANBOW",
+       "url": "https://stream.zeno.fm/0whx9dkd2k0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Royal Prophetic FM",
+       "url": "https://stream.zeno.fm/77abkm0bfwzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "royal Radio",
+       "url": "https://stream.zeno.fm/tc23dby8huhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "SCAN connectet",
+       "url": "https://stream.zeno.fm/wqda3ee8qrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "SITE-DAR FM",
+       "url": "https://stream.zeno.fm/sy7cgws1b5zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Thevoicefm Radio",
+       "url": "http://5.133.182.174/records/radiouser2877190/record.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Tzgospel (Cameroon)",
+       "url": "https://stream.zeno.fm/17wat9q1uchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "VD22 RADIO",
+       "url": "https://stream.zeno.fm/gxw2uywo9titv",
+       "language_inferred": true
+      },
+      {
+       "name": "Wispering Piano",
+       "url": "http://live.str3am.com:3120/secure2?username=marusic%40gmx.ch\\u0026password=Hallopiano4fun",
+       "language_inferred": true
+      },
+      {
+       "name": "YAMO RADIO",
+       "url": "https://stream.zeno.fm/wf626q1dyy8uv"
+      },
+      {
+       "name": "YAMO Radio",
+       "url": "https://stream.zeno.fm/y3zvfcfmwy8uv"
+      },
+      {
+       "name": "YelloBroadcast",
+       "url": "https://stream.zeno.fm/1pv5p3s5mg0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "zertic",
+       "url": "https://stream.zeno.fm/1tpezcvyxc9uv",
+       "language_inferred": true
+      }
+     ]
+    }
+   }
+  },
+  "Multilingual": {
+   "count": 1,
+   "genres": {
+    "world": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Continental Radio Station",
+       "url": "https://streaming.radio.co/s29d4bdbd2/listen",
+       "tags": [
+        "world",
+        "various_eclectic",
+        "news_talk",
+        "classical",
+        "oldies",
+        "hip_hop_rap",
+        "country",
+        "drum_and_bass",
+        "kids"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Tamil": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Eagle FM HD",
+       "url": "http://streaming.radio.co/sf833cd785/listen"
+      }
+     ]
+    }
+   }
+  },
+  "English": {
+   "count": 1,
+   "genres": {
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Ndefcam Radio Bamenda",
+       "url": "http://listen1.mixlr.com/6d84b6a7265cdc8d241bd1a4d40e0d6f",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Portuguese": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "rádio matuto teimoso",
+       "url": "https://stream.zeno.fm/f7hyhsu4yf8uv"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

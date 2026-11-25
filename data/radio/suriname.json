@@ -1,0 +1,1691 @@
+{
+ "country": "Suriname",
+ "count": 225,
+ "languages": {
+  "Dutch": {
+   "count": 201,
+   "genres": {
+    "alternative_indie": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Shruti",
+       "url": "http://rs.suricloud.com:8000/radio.mp3",
+       "tags": [
+        "easy_listening",
+        "world",
+        "alternative_indie"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "blues": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Blue Ears Blues Radio",
+       "url": "http://78.47.140.170:8199",
+       "language_inferred": true
+      }
+     ]
+    },
+    "bollywood_indian": {
+     "count": 15,
+     "stations": [
+      {
+       "name": "ABC Radio",
+       "url": "http://abcd.bombelman.com:5472/stream.nsv",
+       "tags": [
+        "pop_hits",
+        "bollywood_indian"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Amor FM",
+       "url": "http://178.21.16.120:8012/stream?1558970122672",
+       "tags": [
+        "pop_hits",
+        "bollywood_indian"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Ishara Radio",
+       "url": "http://nickerie.webhop.net:8000/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Ishara Radio",
+       "url": "http://83.84.69.27:8000/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 10 magic FM",
+       "url": "http://streams.radio.co/s28bc986cd/listen?1558969149339",
+       "tags": [
+        "pop_hits",
+        "bollywood_indian"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Apintie",
+       "url": "http://radio.apintie.tv:8150/stream.nsv",
+       "tags": [
+        "pop_hits",
+        "bollywood_indian"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Garuda",
+       "url": "http://162.244.80.245:8012/stream/1/?1558970348684",
+       "tags": [
+        "pop_hits",
+        "bollywood_indian"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Ishara",
+       "url": "http://nickerie.webhop.net:8000",
+       "tags": [
+        "world",
+        "bollywood_indian",
+        "oldies",
+        "alternative_indie",
+        "folk",
+        "classical"
+       ]
+      },
+      {
+       "name": "Radio Koyeba",
+       "url": "http://174.127.117.137:8011/stream.nsv",
+       "tags": [
+        "pop_hits",
+        "bollywood_indian"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Noer",
+       "url": "http://168.195.218.193:8000/radio2-2?1558969244840",
+       "tags": [
+        "pop_hits",
+        "bollywood_indian"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Rapar",
+       "url": "http://168.195.218.193:8000/radio1-1?1558969007469",
+       "tags": [
+        "pop_hits",
+        "bollywood_indian"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "RTV Mustika",
+       "url": "http://168.195.218.193:8000/radio1-1?1558970253569",
+       "tags": [
+        "latin",
+        "pop_hits",
+        "bollywood_indian"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "RTV Rasonic",
+       "url": "http://108.59.9.147:8136/?1558970036283",
+       "tags": [
+        "pop_hits",
+        "bollywood_indian"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Sangam FM",
+       "url": "http://stream2.iqhosted.nl:8000/streamstream.nsv&type=mp3",
+       "tags": [
+        "pop_hits",
+        "bollywood_indian"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Ujala",
+       "url": "http://109.70.7.215/?1558969353385",
+       "tags": [
+        "pop_hits",
+        "bollywood_indian"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "christian_gospel": {
+     "count": 5,
+     "stations": [
+      {
+       "name": "Immanuel Suriname",
+       "url": "https://surilive.com:8030",
+       "tags": [
+        "christian_gospel",
+        "latin",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Immanuel Suriname - Powered by SuriLive.com",
+       "url": "https://surilive.com:8030/stream"
+      },
+      {
+       "name": "Radio Immanuel Suriname 95.9 FM",
+       "url": "http://bombelman.com:3052/random",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Immanuël",
+       "url": "https://surilive.com:8030/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Shalom Suriname radio",
+       "url": "https://worldstreaminglive.com/proxy/radioshalom/stream",
+       "tags": [
+        "christian_gospel",
+        "various_eclectic"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "classical": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "RP ACME",
+       "url": "https://audio-edge-es6pf.mia.g.radiomast.io/d7e8093b-6a7e-4442-a096-37f259cb7092",
+       "tags": [
+        "classical",
+        "oldies",
+        "pop_hits",
+        "world",
+        "bollywood_indian"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "college_community": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "pararadio",
+       "url": "https://stream.zeno.fm/y00y3hb0768uv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "comedy": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "ChuckieRadio 597",
+       "url": "https://stream.zeno.fm/uxv2t75ub0hvv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "decade_60s": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Neutralradio",
+       "url": "http://144.217.253.136:8530/stream",
+       "tags": [
+        "decade_70s",
+        "decade_60s",
+        "decade_80s"
+       ]
+      }
+     ]
+    },
+    "decade_70s": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Neutralradio",
+       "url": "http://fred.torontocast.com:2440/stream",
+       "language_inferred": true
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 10,
+     "stations": [
+      {
+       "name": "ABC Suriname",
+       "url": "http://bombelman.com:5472/",
+       "tags": [
+        "various_eclectic",
+        "news_talk",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Color Radio",
+       "url": "https://crs.webdesign-flash.ro/?q=http://stream.colorradiosuriname.com:8207/live/&plugin_id=7628&site_id=8520577",
+       "tags": [
+        "pop_hits",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Color Radio 102.5 FM - Powered by SuriLive.com",
+       "url": "https://surilive.com:8070/stream",
+       "tags": [
+        "easy_listening",
+        "soul_rnb_funk",
+        "pop_hits",
+        "disco_eurodance"
+       ]
+      },
+      {
+       "name": "NIO FM 107.5 - Feel The Music radio",
+       "url": "https://niofm.beheerstream.nl:8060/stream?",
+       "tags": [
+        "easy_listening",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 10 Magic FM",
+       "url": "https://streams.radio.co/s28bc986cd/listen",
+       "tags": [
+        "pop_hits",
+        "easy_listening",
+        "news_talk",
+        "classical"
+       ]
+      },
+      {
+       "name": "Radio 10 Magic FM",
+       "url": "https://s5.radio.co/s85a633f73/listen",
+       "tags": [
+        "pop_hits",
+        "easy_listening",
+        "classical",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Radio 9 Suriname",
+       "url": "https://rs.suricloud.com/radio/8060/radio.mp3",
+       "tags": [
+        "easy_listening",
+        "world",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio ABC Suriname - Powered by Bombelman.com",
+       "url": "https://surilive.com:8020/stream",
+       "tags": [
+        "easy_listening",
+        "news_talk",
+        "sports"
+       ]
+      },
+      {
+       "name": "Radio ABC Suriname 101.7 - Powered by Bombelman.com",
+       "url": "httpS://surilive.com:8020/stream.nsv",
+       "tags": [
+        "news_talk",
+        "easy_listening",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Garuda",
+       "url": "http://162.244.80.245:8012",
+       "tags": [
+        "pop_hits",
+        "easy_listening",
+        "world"
+       ]
+      }
+     ]
+    },
+    "hip_hop_rap": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Rp The Hot one",
+       "url": "https://audio-edge-es6pf.mia.g.radiomast.io/2ce0ffa5-dd88-491e-9f9f-925a7ce36b13",
+       "tags": [
+        "pop_hits",
+        "hip_hop_rap",
+        "electronic",
+        "rock",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "SCCN Radio",
+       "url": "http://sccn104.serverroom.us:5600/",
+       "tags": [
+        "hip_hop_rap",
+        "sports",
+        "news_talk",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "SMOOTH FM radio",
+       "url": "https://video1.getstreamhosting.com:8340/stream",
+       "tags": [
+        "pop_hits",
+        "electronic",
+        "hip_hop_rap",
+        "folk",
+        "reggae_ska",
+        "various_eclectic"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "islamic_quran": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Assalaam Radio",
+       "url": "http://node-30.zeno.fm/gmgdarrf1wzuv?rj-ttl=5&amprj-tok=AAABchvGaQAAsbYDsVOuxLxFkw",
+       "language_inferred": true
+      }
+     ]
+    },
+    "latin": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "ANDA Suriname",
+       "url": "http://kathy.torontocast.com:2940/stream",
+       "tags": [
+        "latin",
+        "electronic",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Anda",
+       "url": "http://listen.radionomy.com/anda",
+       "tags": [
+        "latin",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 22,
+     "stations": [
+      {
+       "name": "Apintie Radio",
+       "url": "http://s6.voscast.com:8150",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "easy_listening",
+        "world"
+       ]
+      },
+      {
+       "name": "Apintie Radio",
+       "url": "https://crs.webdesign-flash.ro/?q=http://31.186.172.137:7000/random/&plugin_id=7628&site_id=8520577",
+       "tags": [
+        "sports",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Apintie Suriname",
+       "url": "https://surilive.com:8000",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "world"
+       ]
+      },
+      {
+       "name": "Beat FM 92.1 radio",
+       "url": "https://audio-edge-cmc51.fra.h.radiomast.io/a263a766-cea5-49e2-87c7-b2e9c9f5740c",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "rock"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "DBC 1 Radio PRIME",
+       "url": "http://58.64.197.165:8001/dbc1",
+       "language_inferred": true
+      },
+      {
+       "name": "LIM FM SU",
+       "url": "http://radiostream.limfmsu.com:8000/radio",
+       "language_inferred": true
+      },
+      {
+       "name": "Pipel FM",
+       "url": "https://pipel.kloud.xyz:8010/radio.mp3",
+       "tags": [
+        "news_talk",
+        "various_eclectic",
+        "easy_listening",
+        "oldies",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Pipel FM",
+       "url": "https://rs.suricloud.com/radio/8010/radio.mp3",
+       "tags": [
+        "news_talk",
+        "oldies",
+        "easy_listening",
+        "pop_hits",
+        "various_eclectic",
+        "rock"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 101.3 FM Gold",
+       "url": "http://162.244.80.245:8006/",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "various_eclectic",
+        "oldies"
+       ]
+      },
+      {
+       "name": "Radio ABC Suriname",
+       "url": "https://surilive.com/abc/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Anjisa",
+       "url": "http://bombelman.com:3042/stream/1/",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Garuda",
+       "url": "http://162.244.80.245:8012/stream",
+       "tags": [
+        "news_talk",
+        "folk",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Immanuel",
+       "url": "http://imm.bombelman.net:3052/stream.nsv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Koyeba",
+       "url": "http://162.244.80.245:8020/",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "various_eclectic",
+        "world"
+       ]
+      },
+      {
+       "name": "Radio Koyeba Suriname",
+       "url": "http://162.244.80.245:8020/stream/",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO LPM radio",
+       "url": "https://surilive.com:8050/stream.nsv",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Ramasha",
+       "url": "http://ramasha-media-group.live-streams.nl:80/stream.nsv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio SRS 96.3",
+       "url": "https://surilive.com:8060/stream",
+       "tags": [
+        "news_talk",
+        "sports",
+        "oldies",
+        "pop_hits",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Radio SRS Suriname",
+       "url": "https://surilive.com:8060/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio SRS Suriname - Powered by SuriLive.com",
+       "url": "https://surilive.com:8060/stream.nsv",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Surja Vibes",
+       "url": "https://s5.radio.co/s1735f3c1d/listen",
+       "language_inferred": true
+      },
+      {
+       "name": "We Radio Suriname",
+       "url": "http://streaming.shoutcast.com/we-radio?lang=en-US%2cen%3bq%3d0.8",
+       "language_inferred": true
+      }
+     ]
+    },
+    "oldies": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "Color Radio 102.5 - Powered by SuriLive.com",
+       "url": "https://surilive.com:8070/stream.nsv",
+       "tags": [
+        "oldies",
+        "pop_hits",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Neutralradio",
+       "url": "https://cast1.torontocast.com:2225/stream",
+       "tags": [
+        "pop_hits",
+        "decade_70s",
+        "decade_80s",
+        "oldies",
+        "decade_60s",
+        "rock",
+        "decade_90s",
+        "country",
+        "decade_1920s_50s",
+        "soul_rnb_funk"
+       ]
+      },
+      {
+       "name": "Neutralradio",
+       "url": "https://larry.torontocast.com:1795/stream",
+       "tags": [
+        "decade_70s",
+        "decade_60s",
+        "decade_80s",
+        "oldies"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pehchaan",
+       "url": "http://radiopehchaan.live-streams.nl:8027/",
+       "language_inferred": true
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 30,
+     "stations": [
+      {
+       "name": "ABC Radio",
+       "url": "https://surilive.com:8020/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Anda",
+       "url": "https://node-28.zeno.fm/z80wv6ubed0uv"
+      },
+      {
+       "name": "Color Radio",
+       "url": "https://surilive.com:8070/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Color Radio 102.5",
+       "url": "http://95.154.193.6:8207/",
+       "language_inferred": true
+      },
+      {
+       "name": "FM.sr Suripop Radio Suriname",
+       "url": "https://surilive.com/suripop/stream"
+      },
+      {
+       "name": "MS Radio Suriname",
+       "url": "https://clare.shoutca.st/radio/8070/radio.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "ms radio suriname",
+       "url": "https://stream.rcast.net/66921",
+       "language_inferred": true
+      },
+      {
+       "name": "NIO FM",
+       "url": "https://surilive.com:8010/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "NIO FM",
+       "url": "https://surilive.com:8010"
+      },
+      {
+       "name": "Radio Anjisa",
+       "url": "http://bombelman.net:3042/"
+      },
+      {
+       "name": "Radio Apintie",
+       "url": "https://surilive.com:8000/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Apintie Suriname - Powered by Bombelman.com",
+       "url": "https://surilive.com:8000/stream",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "easy_listening",
+        "sports",
+        "world"
+       ]
+      },
+      {
+       "name": "Radio Boskopu",
+       "url": "http://213.247.51.9:8000/radio2-1",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Brasil Suriname",
+       "url": "http://streaming14.brlogic.com:8188/live",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Garuda",
+       "url": "http://162.244.80.245:8012/stream/1/",
+       "bitrate": 96,
+       "logo": "http://radio.pervii.com/im/1/1552143791.jpg",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Mart",
+       "url": "http://94.23.148.11:8380/stream.mp3/?1558964085013.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Rapar",
+       "url": "http://213.247.51.9:8000/radio2-3"
+      },
+      {
+       "name": "Radio SRS Suriname",
+       "url": "https://surilive.com:8060",
+       "tags": [
+        "pop_hits",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Radio Tamara",
+       "url": "http://85.214.68.70:8000/stream/3/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Top40 Suriname radio",
+       "url": "https://cc6.beheerstream.com/proxy/skurebce?mp=/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Zon",
+       "url": "http://bombelman.com:3062/",
+       "tags": [
+        "pop_hits",
+        "various_eclectic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio LPM",
+       "url": "https://surilive.com:8050/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Shalom Radio",
+       "url": "http://162.244.80.245:8014/",
+       "tags": [
+        "pop_hits",
+        "christian_gospel",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Siaran Pop Jawa",
+       "url": "http://srp1.shoutcaststream.com:8086/stream/1/",
+       "language_inferred": true
+      },
+      {
+       "name": "Suri Lite Internet Radio",
+       "url": "https://surilite1.radioca.st/stream",
+       "tags": [
+        "pop_hits",
+        "world"
+       ]
+      },
+      {
+       "name": "Suri-Lite Online Radio",
+       "url": "https://crs.webdesign-flash.ro/?q=http://144.217.129.213:8221/stream/&plugin_id=7628&site_id=8520577",
+       "language_inferred": true
+      },
+      {
+       "name": "Surilite",
+       "url": "http://184.154.185.172:8000/stream.nsv",
+       "language_inferred": true
+      },
+      {
+       "name": "SuriLite Online Radio",
+       "url": "http://equinox.shoutca.st:8221",
+       "language_inferred": true
+      },
+      {
+       "name": "Surinet radio - The sound of the nation!",
+       "url": "https://surilive.com:8310/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Surjavibes Radio",
+       "url": "http://listen.radionomy.com/surjavibes/",
+       "language_inferred": true
+      }
+     ]
+    },
+    "rock": {
+     "count": 5,
+     "stations": [
+      {
+       "name": "NIO FM",
+       "url": "http://31.186.170.12:3062/random/",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 92.7 FM GOLD",
+       "url": "http://174.127.117.137:8013/stream.nsv",
+       "tags": [
+        "rock",
+        "classical"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio ABC Suriname",
+       "url": "https://surilive.com:8020/"
+      },
+      {
+       "name": "Radio Rasonic 2",
+       "url": "http://108.59.9.147:8136/",
+       "tags": [
+        "rock",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Shalom Suriname Radio",
+       "url": "http://162.244.80.245:8014/stream/",
+       "tags": [
+        "rock",
+        "electronic",
+        "pop_hits",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "soul_rnb_funk": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Radio Glas Drine Listen live",
+       "url": "https://rtvglasdrine.com/radioStream/",
+       "tags": [
+        "pop_hits",
+        "soul_rnb_funk",
+        "latin",
+        "decade_80s"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Sky Radio",
+       "url": "http://pipel.kloud.xyz:8010/radio.mp3?1559030142736",
+       "tags": [
+        "soul_rnb_funk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "sports": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "abc – Ampies Broadcasting Corporation",
+       "url": "http://31.186.170.12:5472/random/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio SRS 96.3",
+       "url": "http://stream.zenolive.com/h47y3c35vwzuv",
+       "tags": [
+        "sports",
+        "news_talk"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "various_eclectic": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "Anjisa 101.3 FM",
+       "url": "http://31.186.170.12:3042/random/"
+      },
+      {
+       "name": "Anjisa FM",
+       "url": "http://bombelman.com:3042"
+      },
+      {
+       "name": "Radio Noer",
+       "url": "http://168.195.218.193:8000/radio1-2",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio SRS Suriname",
+       "url": "http://168.195.218.193:8000/radio2-0"
+      }
+     ]
+    },
+    "world": {
+     "count": 10,
+     "stations": [
+      {
+       "name": "Radio Boskopu Suriname",
+       "url": "http://186.179.192.191:8000/radio2-1"
+      },
+      {
+       "name": "Radio Pehchaan",
+       "url": "http://mscp3.live-streams.nl:8050/stream",
+       "tags": [
+        "world",
+        "bollywood_indian"
+       ]
+      },
+      {
+       "name": "Radio Shruti",
+       "url": "https://rs.suricloud.com/radio/8000/radio.mp3",
+       "tags": [
+        "world",
+        "easy_listening",
+        "alternative_indie",
+        "rock",
+        "soul_rnb_funk",
+        "soundtrack"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Rasonic 1",
+       "url": "https://us7.listen2myradio.com:2199/tunein/rasonic.pls"
+      },
+      {
+       "name": "Rasonic 2",
+       "url": "http://50.22.212.205:8058/"
+      },
+      {
+       "name": "Rp The Hot one",
+       "url": "https://crs.webdesign-flash.ro/?q=http://168.195.218.193:8000/radio1-3&plugin_id=7628&site_id=8520577",
+       "tags": [
+        "pop_hits",
+        "world",
+        "rock",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "RTV Mustika",
+       "url": "http://mustika.stream.designit.sr:7038/"
+      },
+      {
+       "name": "Sangeetmala Radio",
+       "url": "http://rs.suricloud.com:8030/radio.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Trishul Broadcasting Network",
+       "url": "https://rs.suricloud.com/radio/8050/radio.mp3",
+       "tags": [
+        "pop_hits",
+        "world",
+        "news_talk",
+        "bollywood_indian",
+        "folk",
+        "oldies",
+        "various_eclectic",
+        "christian_gospel"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Trishul Broadcasting Network",
+       "url": "https://tbn.kloud.xyz:8050/radio.mp3",
+       "tags": [
+        "various_eclectic",
+        "world",
+        "pop_hits",
+        "bollywood_indian"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 79,
+     "stations": [
+      {
+       "name": "ABC Live Stream",
+       "url": "https://stream.zeno.fm/gc1w5tfqefhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "ABC Suriname",
+       "url": "https://stream.zeno.fm/stvntd08qchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Ambra Radio Suriname",
+       "url": "https://stream.zeno.fm/8px03vqrfehtv",
+       "language_inferred": true
+      },
+      {
+       "name": "ASOSYE",
+       "url": "https://stream.zeno.fm/10gcc73b508uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Asosye media",
+       "url": "https://stream.zeno.fm/q4wkxqmdqchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "ASOSYE RADIO",
+       "url": "https://stream.zeno.fm/rvs7f72b508uv"
+      },
+      {
+       "name": "ASSALAAM RADIO",
+       "url": "https://stream.zeno.fm/xssh6qrf1wzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "AVS radio bollywood",
+       "url": "https://stream.zeno.fm/3px5vwqsduhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "AVS radio classic",
+       "url": "https://stream.zeno.fm/bu26ykfcxnhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "AVS radio dance",
+       "url": "https://stream.zeno.fm/drf1tvx5xnhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "AVS radio instrumental",
+       "url": "https://stream.zeno.fm/plriei9gnyytv",
+       "language_inferred": true
+      },
+      {
+       "name": "AVS radio mix",
+       "url": "https://stream.zeno.fm/p218h6ccxnhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "AVS radio sumix",
+       "url": "https://stream.zeno.fm/cnkyb0ksduhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "BlackBoyzMusicRadio",
+       "url": "https://stream.zeno.fm/acwbmtugmkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Bombelman Suriname",
+       "url": "https://stream.zeno.fm/ff4c2qnwy68uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Color Radio",
+       "url": "https://stream.prography.com/stream/8052",
+       "language_inferred": true
+      },
+      {
+       "name": "Color Radio Suriname",
+       "url": "https://surilive.com:8070",
+       "language_inferred": true
+      },
+      {
+       "name": "Color Radio Suriname",
+       "url": "https://stream.zeno.fm/y4ew48z8qchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Dc suriradio",
+       "url": "https://stream.zeno.fm/abb1cne92hhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "DJ OSO BOY RADIO STATION",
+       "url": "https://stream.zeno.fm/v4d3lvagy9ltv",
+       "language_inferred": true
+      },
+      {
+       "name": "DJBadJho Radio",
+       "url": "https://stream.zeno.fm/db9pak567ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "DjRegi",
+       "url": "https://stream.zeno.fm/w6hh0rqqwy8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Doubleb Boeskondee Media",
+       "url": "https://stream.zeno.fm/rnf3xu9tgs8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "doubleb radio2",
+       "url": "https://stream.zeno.fm/p0d98x5phs8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "DTV Radio",
+       "url": "https://stream.zeno.fm/u32bq5sfunhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Ek Sitara Q Radio",
+       "url": "https://rs.suricloud.com/radio/8120/radio.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Fan Da Libi - RADIO",
+       "url": "https://stream.zeno.fm/zduxspz4kv8uv"
+      },
+      {
+       "name": "Fan Da Libi - RADIO",
+       "url": "https://stream.zeno.fm/gtwdm23tnv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "FII MAN MEDIA",
+       "url": "https://stream.zeno.fm/1sqwfhqwra0uv"
+      },
+      {
+       "name": "FM Gold",
+       "url": "http://67.222.30.191:8006/stream"
+      },
+      {
+       "name": "FMRADIO",
+       "url": "https://stream.zeno.fm/bsekg39cqrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Fosten poku",
+       "url": "https://stream.zeno.fm/gd0ghfsmsuhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Fosten radio",
+       "url": "https://stream.zeno.fm/ydpvx8wnsuhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "general news",
+       "url": "https://stream.zeno.fm/zmx8zzav4gpvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Golden oldies Suriname",
+       "url": "https://stream.zeno.fm/93mh70awpuhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "GOVRADIO SURINAME",
+       "url": "https://stream.zeno.fm/084958y3ynhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Immanuel 95.9 FM Suriname",
+       "url": "https://stream.zeno.fm/fwqme3e2x68uv"
+      },
+      {
+       "name": "Jesherun Radio",
+       "url": "https://stream.zeno.fm/afxs427v438uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Jongeren Van Kracht",
+       "url": "https://stream.zeno.fm/9fx0zeb5srhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Joyce The Voice",
+       "url": "https://stream.zeno.fm/ctmsytc6em0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Kabar Katresnan - RK2",
+       "url": "http://server.jvhost.net:8120/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "KETEBUNA",
+       "url": "https://stream.zeno.fm/ysd1dvrtcv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Koyeba media",
+       "url": "https://stream.zeno.fm/evprnmwfqchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "LIM FM SU – SR",
+       "url": "https://radiostream.limfmsu.com/radio",
+       "language_inferred": true
+      },
+      {
+       "name": "Lime Radio",
+       "url": "https://stream.zeno.fm/0htp3wpbgwzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Ollies online radio",
+       "url": "https://stream.zeno.fm/y3k2cb2mpchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Online Radio Prisiri",
+       "url": "https://stream.zeno.fm/tvbxcty3w0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Poku suriname",
+       "url": "https://stream.zeno.fm/6te6g6ubed0uv"
+      },
+      {
+       "name": "Radio 804",
+       "url": "https://stream.zeno.fm/xsdmzxyhc18uv"
+      },
+      {
+       "name": "Radio Apintie",
+       "url": "http://surilive.com:8000/str?n=10952bb131aa7587ad52",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Apintie - Suriname",
+       "url": "http://www.apintie.sr/stream.pls"
+      },
+      {
+       "name": "Radio bollywood suriname",
+       "url": "https://stream.zeno.fm/putkar0p9k0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Boskopu Suriname – 93.5 FM – Nieuw Nickerie – SR-NI",
+       "url": "https://stream.zeno.fm/hxzsxv5xyv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Ishara",
+       "url": "https://stream.zeno.fm/nqm3a44vzv8uv"
+      },
+      {
+       "name": "Radio Koyeba",
+       "url": "https://worldstreaminglive.com/proxy/koyeba/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Maipa",
+       "url": "https://stream.zeno.fm/unz726g6kfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO MAKANDI",
+       "url": "https://stream.zeno.fm/gg7afgcuhkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio mArt - Powered by Bombelman.com",
+       "url": "https://beta.surilive.com:8380/"
+      },
+      {
+       "name": "Radio Sarnami  Paramaribo",
+       "url": "https://stream.zeno.fm/kzsmp5qs9k0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO SRS SURINAME",
+       "url": "http://46.4.5.234:8080/9107555.ogg",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio SRS Suriname",
+       "url": "https://stream.zeno.fm/qqcm6ey8qchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO TOTNESS",
+       "url": "https://stream.zeno.fm/kyve9mgds18uv"
+      },
+      {
+       "name": "Ramasha Media Group",
+       "url": "http://162.244.80.245:8016/"
+      },
+      {
+       "name": "Rasonic 1 – 105.3 FM – Nieuw Nickerie – SR-NI",
+       "url": "https://stream.zenolive.com/6etys88fup8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Red Shiloh  Music Suriname",
+       "url": "https://stream.zeno.fm/g31qbp9qpv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RiaFM",
+       "url": "https://stream.zeno.fm/mv614v9dxtzuv"
+      },
+      {
+       "name": "RK2 SKK",
+       "url": "http://server.jvhost.net:8010/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Sam Taki Radio",
+       "url": "https://stream.zeno.fm/ym53qqc53hhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Sky blue nemophila radio",
+       "url": "https://stream.zeno.fm/lgkrpz8n44suv",
+       "language_inferred": true
+      },
+      {
+       "name": "Sky Radio",
+       "url": "http://186.179.192.191:8000/radio1-0"
+      },
+      {
+       "name": "SMK TV (SAAMAKA TV )",
+       "url": "https://stream.zeno.fm/0ngvmq0xgkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Suri-Lite Internet Radio",
+       "url": "http://equinox.shoutca.st:8221/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Suri-Lite Online Radio",
+       "url": "https://stream.rcast.net/67505",
+       "language_inferred": true
+      },
+      {
+       "name": "Suri-Lite Radio – SR",
+       "url": "https://surilite1.radioca.st/",
+       "language_inferred": true
+      },
+      {
+       "name": "Surjavibes Radio",
+       "url": "https://streamingv2.shoutcast.com/surjavibes"
+      },
+      {
+       "name": "Tamanredjo Talents Radio Jawa",
+       "url": "https://stream.zeno.fm/u3abxhenhf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Trishul Radio",
+       "url": "https://surilive.com:8010/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Trishul Radio",
+       "url": "http://rs.surihost.com:9050/",
+       "language_inferred": true
+      },
+      {
+       "name": "Tzgospel Swahili",
+       "url": "https://stream.zeno.fm/31gfhb24kfhvv",
+       "language_inferred": true
+      }
+     ]
+    }
+   }
+  },
+  "Hindi": {
+   "count": 12,
+   "genres": {
+    "bollywood_indian": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "RASONIC RADIO 105.3 FM",
+       "url": "https://us5new.listen2myradio.com:2199/start/rasonic",
+       "tags": [
+        "bollywood_indian",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "folk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "RADIO ISHARA radio",
+       "url": "http://nickerie.webhop.net:8000/stream.nsv",
+       "tags": [
+        "folk",
+        "bollywood_indian",
+        "world"
+       ]
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Beat FM 92.1",
+       "url": "http://168.195.218.193:8000/radio2-2",
+       "tags": [
+        "pop_hits",
+        "various_eclectic"
+       ]
+      }
+     ]
+    },
+    "world": {
+     "count": 5,
+     "stations": [
+      {
+       "name": "ACME / Rapar",
+       "url": "https://crs.webdesign-flash.ro/?q=http://168.195.218.193:8000/radio1-1&plugin_id=7628&site_id=8520577",
+       "tags": [
+        "world",
+        "oldies",
+        "classical",
+        "easy_listening",
+        "hip_hop_rap",
+        "bollywood_indian"
+       ]
+      },
+      {
+       "name": "Radio Sangeetmala",
+       "url": "https://sgm.kloud.xyz:8030/radio.mp3",
+       "tags": [
+        "world",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Radio Shruti",
+       "url": "https://shruti.kloud.xyz:8000/radio.mp3",
+       "tags": [
+        "world",
+        "easy_listening",
+        "alternative_indie"
+       ]
+      },
+      {
+       "name": "Radio Shruti",
+       "url": "http://shruti.kloud.sr:8000/radio.mp3"
+      },
+      {
+       "name": "Sangeetmala Radio",
+       "url": "https://rs.suricloud.com/radio/8030/radio.mp3",
+       "tags": [
+        "world",
+        "news_talk",
+        "classical",
+        "bollywood_indian",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "Radio Ishara",
+       "url": "http://nickerie.webhop.net:8000/stream.mp3"
+      },
+      {
+       "name": "Radio Sargam",
+       "url": "https://stream.zeno.fm/c9hwuyc8mg0uv"
+      },
+      {
+       "name": "Radio Shruti",
+       "url": "https://stream.zeno.fm/mgkceeuhkzzuv"
+      },
+      {
+       "name": "RASONIC RADIO",
+       "url": "https://stream.zeno.fm/b5dxp88fup8uv"
+      }
+     ]
+    }
+   }
+  },
+  "English": {
+   "count": 4,
+   "genres": {
+    "holiday": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "FM.sr Christmas Radio",
+       "url": "https://surilive.com/xmas/stream",
+       "tags": [
+        "holiday",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "POSITIVE RADIO",
+       "url": "http://46.4.5.234:8080/9181316.ogg"
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Famii gospel Radio",
+       "url": "https://stream.zeno.fm/765nxgwwfy8uv"
+      },
+      {
+       "name": "Radio Tarang",
+       "url": "http://radio9.kloud.xyz:8060/radio.mp3"
+      }
+     ]
+    }
+   }
+  },
+  "Portuguese": {
+   "count": 4,
+   "genres": {
+    "news_talk": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Radio LPM",
+       "url": "http://bombelman.com:8036/",
+       "tags": [
+        "various_eclectic",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Rádio LPM",
+       "url": "http://bombelman.com:8036/random/",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ]
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "RÁDIO LPM",
+       "url": "https://surilive.com:8050"
+      }
+     ]
+    },
+    "world": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio LPM Suriname",
+       "url": "https://surilive.com:8050/stream",
+       "tags": [
+        "world",
+        "pop_hits",
+        "latin"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Multilingual": {
+   "count": 2,
+   "genres": {
+    "oldies": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Neutralradio",
+       "url": "https://fred.torontocast.com:2445/stream",
+       "tags": [
+        "oldies",
+        "rock",
+        "pop_hits",
+        "decade_70s",
+        "decade_60s",
+        "decade_80s",
+        "decade_90s"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "FM.sr Sranan Radio - 100% Suriname",
+       "url": "https://live.fm.sr/sranan/stream"
+      }
+     ]
+    }
+   }
+  },
+  "Spanish": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "DmsRadio",
+       "url": "https://stream.zeno.fm/4n6ftk63bgmvv"
+      }
+     ]
+    }
+   }
+  },
+  "Arabic": {
+   "count": 1,
+   "genres": {
+    "pop_hits": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Radika",
+       "url": "http://ks.kloud.xyz:8000/"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,268 @@
+{
+ "country": "Timor-Leste",
+ "count": 32,
+ "languages": {
+  "Portuguese": {
+   "count": 30,
+   "genres": {
+    "alternative_indie": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Sonline",
+       "url": "http://www.Radio-Sonline.es.tl",
+       "tags": [
+        "alternative_indie",
+        "decade_60s"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      }
+     ]
+    },
+    "christian_gospel": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Radio rede timor-leste live radio",
+       "url": "https://sonicpanel.oficialserver.com:7186/",
+       "tags": [
+        "christian_gospel",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Timor Kmanek",
+       "url": "http://rtk.indocaster.com:8800/stream"
+      },
+      {
+       "name": "Tzgospel Radio (Timor)",
+       "url": "https://stream.zeno.fm/ttpgp5da7ehvv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "comedy": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "buji watamtum",
+       "url": "https://stream.zeno.fm/w31n2dyhwf9uv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "kids": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Game music",
+       "url": "https://stream.zeno.fm/d3pfdg2pyd0uv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Radio Liberdade Dili",
+       "url": "http://radio.kalohan.net:8186/",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Liberdade Dili",
+       "url": "https://c2.siar.us/proxy/rld?mp=/:8132/",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Liberdade Dili radio",
+       "url": "https://streaming.kalohan.net/proxy/raliber?mp=/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "reggae_ska": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Music Okey Listen live",
+       "url": "https://sonica.cloudstreaming.eu:10969/stream?icy=http",
+       "tags": [
+        "rock",
+        "reggae_ska",
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "rock": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "RMF 2000 Listen live",
+       "url": "https://rs8-krk2-cyfronet.rmfstream.pl/2000",
+       "tags": [
+        "rock",
+        "pop_hits",
+        "decade_90s"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "soul_rnb_funk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Liberdade Dili FM 95.8 Listen live",
+       "url": "https://ssl.aloncast.com:1579/stream.mp3",
+       "tags": [
+        "rock",
+        "sports",
+        "soul_rnb_funk",
+        "pop_hits",
+        "various_eclectic"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 18,
+     "stations": [
+      {
+       "name": "Alone.",
+       "url": "https://stream.zeno.fm/jvkto0m5e4juv",
+       "language_inferred": true
+      },
+      {
+       "name": "Alone.",
+       "url": "https://stream.zeno.fm/mhdjfhwvxnctv",
+       "language_inferred": true
+      },
+      {
+       "name": "Alone.",
+       "url": "https://stream.zeno.fm/cxxk6ppb830uv",
+       "language_inferred": true
+      },
+      {
+       "name": "GMNFMRadio",
+       "url": "https://stream.zeno.fm/nrs367axfkhvv"
+      },
+      {
+       "name": "Larata",
+       "url": "https://stream.zeno.fm/tud52xq537zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO CATOLICA IRAPUATO – Dili – Díli – TP",
+       "url": "http://node-19.zeno.fm/smctf84agy5tv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Comunidade Cova Taroman – 94.5 FM – Liquica – Liquiçá – TP",
+       "url": "http://freeuk7.listen2myradio.com:16882/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Comunidade Maliana – Dili – Díli – TP",
+       "url": "https://ssl.aloncast.com:1494/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Comunidade Maubisse Mau-Loko – Maubara – Liquiçá – TP",
+       "url": "https://ssl.aloncast.com:1495/",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO RZO EAST TIMOR",
+       "url": "https://stream.zeno.fm/tsghtncm2p8uv"
+      },
+      {
+       "name": "Radio Timor Kmanek – 98.5 FM – Dili – Díli – TP",
+       "url": "https://a1.siar.us/radio/8250/radio.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Vinicus de Moraes",
+       "url": "https://stream.zeno.fm/k3r4q5rfma0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RádioNaEscola",
+       "url": "https://stream.zeno.fm/gyr8ntvzaphvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Siberian Mouses 1st Studio Mm 27 7l",
+       "url": "https://stream.zeno.fm/ekixtf7vckxuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Song Amer Mounib Our Days Btodina",
+       "url": "https://stream.zeno.fm/m0rahtx8z5qtv",
+       "language_inferred": true
+      },
+      {
+       "name": "TamilRockers Com Bad Genius",
+       "url": "https://stream.zeno.fm/imme1hqqgc9vv",
+       "language_inferred": true
+      },
+      {
+       "name": "TVREDEFJR.COM",
+       "url": "https://stream.zeno.fm/bdqaxyyn7s8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "VIVENCIA",
+       "url": "https://stream.zeno.fm/ww5nu009u68uv",
+       "language_inferred": true
+      }
+     ]
+    }
+   }
+  },
+  "Russian": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Sovereign radio",
+       "url": "https://stream.zeno.fm/v3gt2pefgq2vv"
+      }
+     ]
+    }
+   }
+  },
+  "Swahili": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Tzgospel swahili",
+       "url": "https://stream.zeno.fm/dv0mg5da7ehvv"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

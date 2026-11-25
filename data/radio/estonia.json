@@ -1,0 +1,2965 @@
+{
+ "country": "Estonia",
+ "count": 409,
+ "languages": {
+  "Estonian": {
+   "count": 377,
+   "genres": {
+    "alternative_indie": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "IDA Radio",
+       "url": "https://streams.radio.co/s053b51423/listen",
+       "tags": [
+        "alternative_indie",
+        "news_talk",
+        "ambient_relax",
+        "country",
+        "rock",
+        "techno",
+        "house",
+        "soul_rnb_funk",
+        "punk",
+        "electronic"
+       ]
+      },
+      {
+       "name": "Netiraadio - Teistsugune",
+       "url": "http://www.netiraadio.ee:8000/teistsugune",
+       "tags": [
+        "rock",
+        "alternative_indie",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "R2Altpop",
+       "url": "http://icecast.err.ee/r2alternatiiv.opus",
+       "tags": [
+        "alternative_indie",
+        "electronic",
+        "pop_hits",
+        "rock"
+       ]
+      },
+      {
+       "name": "Raadio Tre.ee",
+       "url": "http://sc1.treraadio.ee:8002/listen.pls?sid=1",
+       "tags": [
+        "alternative_indie",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "ambient_relax": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Netiraadio - Eesti loodus",
+       "url": "http://www.netiraadio.ee:8000/eestiloodus"
+      },
+      {
+       "name": "Relax loodus",
+       "url": "https://stream.relaxfm.ee/loodus_hd",
+       "tags": [
+        "ambient_relax",
+        "easy_listening"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      }
+     ]
+    },
+    "chillout_lounge": {
+     "count": 6,
+     "stations": [
+      {
+       "name": "R2 Chill",
+       "url": "http://icecast.err.ee:80/r2chill.mp3",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "r2chill",
+       "url": "http://icecast.err.ee/r2chill.opus",
+       "tags": [
+        "chillout_lounge",
+        "ambient_relax"
+       ]
+      },
+      {
+       "name": "Raadio Relax FM Listen live",
+       "url": "https://stream.relaxfm.ee:8443/relax",
+       "tags": [
+        "chillout_lounge",
+        "easy_listening",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Relax Cafe",
+       "url": "https://stream.relaxfm.ee:8443/cafe",
+       "language_inferred": true
+      },
+      {
+       "name": "Relax FM",
+       "url": "https://crs.webdesign-flash.ro/?q=http://stream.relaxfm.ee:8000/relax&plugin_id=7628&site_id=8520577",
+       "tags": [
+        "chillout_lounge",
+        "easy_listening",
+        "rock",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Relax Spa",
+       "url": "https://stream.relaxfm.ee/spa",
+       "tags": [
+        "pop_hits",
+        "easy_listening",
+        "chillout_lounge"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "christian_gospel": {
+     "count": 15,
+     "stations": [
+      {
+       "name": "Kuressaare Pereraadio",
+       "url": "http://icecast.pereraadio.ee:8000/Kuressaare",
+       "tags": [
+        "christian_gospel",
+        "college_community"
+       ]
+      },
+      {
+       "name": "Life TV",
+       "url": "https://lifetv.bitflip.ee/live/stream1.m3u8",
+       "tags": [
+        "christian_gospel",
+        "kids"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Pereraadio Kuressaare",
+       "url": "http://icecast.pereraadio.ee/Kuressaare"
+      },
+      {
+       "name": "Pereraadio Tallinn",
+       "url": "http://icecast.pereraadio.ee/Tallinn"
+      },
+      {
+       "name": "Pereraadio Tartu",
+       "url": "http://icecast.pereraadio.ee/Tartu"
+      },
+      {
+       "name": "Pereraadio Tartu",
+       "url": "https://www.liveradio.es/http://icecast.pereraadio.ee:8000/Tartu",
+       "language_inferred": true
+      },
+      {
+       "name": "Pereraadio Tartu",
+       "url": "http://icecast.pereraadio.ee:8000/Tartu",
+       "tags": [
+        "pop_hits",
+        "christian_gospel"
+       ]
+      },
+      {
+       "name": "Raadio 7",
+       "url": "https://raadio7.babahhcdn.com/raadio7"
+      },
+      {
+       "name": "Raadio 7",
+       "url": "https://edge05.cdn.bitflip.ee:8888/R7",
+       "tags": [
+        "christian_gospel",
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Raadio 7",
+       "url": "https://stream.skymedia.ee/live/R7"
+      },
+      {
+       "name": "Raadio 7",
+       "url": "https://edge03.cdn.bitflip.ee:8888/R7",
+       "language_inferred": true
+      },
+      {
+       "name": "Raadio 7",
+       "url": "http://icecast.mmm.elion.ee:8080/Raadio7",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Tallinn Pereraadio 89 FM",
+       "url": "http://icecast.pereraadio.ee:8000/Tallinn",
+       "tags": [
+        "christian_gospel",
+        "classical"
+       ]
+      },
+      {
+       "name": "Tartu Pereraadio",
+       "url": "http://bee.pereraadio.ee:8000/",
+       "tags": [
+        "christian_gospel",
+        "news_talk",
+        "various_eclectic",
+        "kids"
+       ]
+      },
+      {
+       "name": "Семейное радио Эли",
+       "url": "http://worker.pereraadio.ee:8000/stream.nsv",
+       "country_inferred": true,
+       "language_inferred": true
+      }
+     ]
+    },
+    "classical": {
+     "count": 9,
+     "stations": [
+      {
+       "name": "KlaRa Klassika",
+       "url": "https://icecast.err.ee/klaraklassika.mp3?n=7887341d13c31520bc7f",
+       "language_inferred": true
+      },
+      {
+       "name": "KlaRa Nostalgia",
+       "url": "https://icecast.err.ee/klaranostalgia.mp3?n=638d61203adabe482a03",
+       "tags": [
+        "classical",
+        "jazz"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Klassika Raadio",
+       "url": "https://icecast.err.ee/klassikaraadio.mp3",
+       "tags": [
+        "classical",
+        "jazz",
+        "news_talk",
+        "various_eclectic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Klassikaraadio - Tallinn",
+       "url": "https://www.liveradio.es/http://icecast.err.ee:80/klassikaraadio.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Netiraadio - Klassika",
+       "url": "http://www.netiraadio.ee:8000/klassika",
+       "tags": [
+        "classical",
+        "oldies"
+       ]
+      },
+      {
+       "name": "Raadio 4 - Tallinn",
+       "url": "https://www.liveradio.es/http://icecast.err.ee:80/raadio4.mp3",
+       "tags": [
+        "easy_listening",
+        "classical",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Retro FM Love",
+       "url": "https://stream.skymedia.ee/live/RetroJ6ulud"
+      },
+      {
+       "name": "Sky Gold",
+       "url": "https://stream.skymedia.ee/live/SKYgold",
+       "tags": [
+        "pop_hits",
+        "classical"
+       ]
+      },
+      {
+       "name": "VIKERRAADIO",
+       "url": "http://icecast.err.ee/vikerraadiokorge.mp3?n=03cbc04966995eafa146",
+       "language_inferred": true
+      }
+     ]
+    },
+    "comedy": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Jumor FM (Tallinn) Radio",
+       "url": "https://stream.pcradio.ru/jumorfm_ee-med",
+       "language_inferred": true
+      },
+      {
+       "name": "TXRAdio",
+       "url": "https://stream.zeno.fm/qsa8dghhkf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Yumor",
+       "url": "http://178.21.244.45:8000/source"
+      }
+     ]
+    },
+    "decade_60s": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "ЮFM Estonia",
+       "url": "http://ic6.101.ru:8000/p779448",
+       "tags": [
+        "decade_70s",
+        "decade_60s",
+        "decade_80s"
+       ]
+      }
+     ]
+    },
+    "decade_80s": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Raadio Retro FM - Eesti",
+       "url": "https://skymedia-live.bitflip.ee/RETRO",
+       "language_inferred": true
+      },
+      {
+       "name": "Sooviraadio",
+       "url": "http://media.uunox.net:8888/listen.pls",
+       "tags": [
+        "decade_80s",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "decade_90s": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Estonian Party Radio",
+       "url": "http://kathy.torontocast.com:2020/",
+       "tags": [
+        "pop_hits",
+        "decade_90s",
+        "electronic"
+       ]
+      }
+     ]
+    },
+    "disco_eurodance": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Power Hit Radio Listen live",
+       "url": "https://phr.babahhcdn.com/phr",
+       "tags": [
+        "pop_hits",
+        "electronic",
+        "disco_eurodance"
+       ]
+      }
+     ]
+    },
+    "drum_and_bass": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "#URBAN radio",
+       "url": "https://s1.vgs.ink/listen/urban/urban.mp3",
+       "tags": [
+        "drum_and_bass",
+        "pop_hits",
+        "electronic",
+        "hip_hop_rap"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "NRJ DnB",
+       "url": "https://nrj.babahhcdn.com/NRJdnb",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "drum_and_bass"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Sky Plus DNB",
+       "url": "https://skymedia.babahhcdn.com/NRJdnb",
+       "tags": [
+        "drum_and_bass",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Sky Plus DNB",
+       "url": "https://stream.skymedia.ee/live/NRJdnb",
+       "tags": [
+        "pop_hits",
+        "drum_and_bass",
+        "soul_rnb_funk",
+        "house",
+        "electronic"
+       ]
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 19,
+     "stations": [
+      {
+       "name": "ERR Raadio 2 Radio",
+       "url": "https://stream.pcradio.ru/err_raadio2-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Kaguraadio radio",
+       "url": "https://locomanoco.vlevelscdn.net/radio/kaguraadio.stream/playlist.m3u8",
+       "tags": [
+        "pop_hits",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Kuma FM 101.0",
+       "url": "http://5.39.16.62:8004/tre",
+       "tags": [
+        "easy_listening",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Marta FM",
+       "url": "https://crs.webdesign-flash.ro/?q=http://icecast.mmm.elion.ee:8080/MartaFM&plugin_id=7628&site_id=8520577",
+       "tags": [
+        "easy_listening",
+        "pop_hits",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "MyHits",
+       "url": "http://striiming.trio.ee:8008/myhits_high.mp3",
+       "tags": [
+        "easy_listening",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Narodnoe Radio 100.0",
+       "url": "http://striiming.trio.ee:8008/narodnoe.mp3",
+       "tags": [
+        "easy_listening",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Narodnoe Radio 100.0 FM",
+       "url": "https://striiming.trio.ee/narodnoe.mp3?type=.mp3/stream.mp3"
+      },
+      {
+       "name": "Netiraadio – Sinu Hetked",
+       "url": "http://www.netiraadio.ee:8000/sinuhetked",
+       "tags": [
+        "easy_listening",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Raadio Duo",
+       "url": "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/radioduo.aac",
+       "tags": [
+        "pop_hits",
+        "easy_listening",
+        "decade_90s"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Raadio Elmar",
+       "url": "http://le11.euddn.net/f472b2923801686af2a76faed40f5d1d134d3bd6c5521aa97ea7a50f5d22537a9dfc9dba44e2e8c22c3e0b0e88d263bd67f8eef6dc4bcadf2eb61ef5498231707da0cb3e71910c359156084bfaf9f9dd341d88e3be8a6ed66c5525e36f4f5511a4c405d3cd6104159d7e6dd02aab2555363d40b8aa2b14a2f61d98a64625b49285176adfe35a9e6e69dc7f58aba82f7f/elmar.mp3",
+       "tags": [
+        "easy_listening",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Raadio Kuku",
+       "url": "https://crs.webdesign-flash.ro/?q=http://striiming.trio.ee:8008/kuku.mp3&plugin_id=7628&site_id=8520577",
+       "tags": [
+        "pop_hits",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Radio Elmar",
+       "url": "https://stream.pcradio.ru/elmar_ee-med",
+       "tags": [
+        "easy_listening",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Relax FM",
+       "url": "https://stream.relaxfm.ee/relax",
+       "tags": [
+        "easy_listening",
+        "pop_hits",
+        "ambient_relax",
+        "jazz",
+        "decade_2000s",
+        "latin",
+        "chillout_lounge",
+        "rock",
+        "decade_70s",
+        "decade_80s",
+        "decade_90s",
+        "oldies",
+        "soundtrack",
+        "folk",
+        "various_eclectic",
+        "reggae_ska",
+        "soul_rnb_funk",
+        "smooth_jazz",
+        "blues",
+        "decade_60s"
+       ]
+      },
+      {
+       "name": "Relax Instrumental",
+       "url": "https://stream.relaxfm.ee/instrumental",
+       "tags": [
+        "easy_listening",
+        "jazz",
+        "ambient_relax",
+        "classical",
+        "world",
+        "smooth_jazz",
+        "folk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Relax International",
+       "url": "https://stream.relaxfm.ee/international",
+       "tags": [
+        "easy_listening",
+        "pop_hits",
+        "ambient_relax",
+        "world",
+        "rock",
+        "decade_2000s",
+        "jazz",
+        "decade_80s",
+        "decade_90s",
+        "folk",
+        "oldies",
+        "decade_70s",
+        "latin"
+       ]
+      },
+      {
+       "name": "Retro FM",
+       "url": "https://crs.webdesign-flash.ro/?q=http://skymedia.babahhcdn.com:7004/RETRO&plugin_id=7628&site_id=8520577",
+       "language_inferred": true
+      },
+      {
+       "name": "Ring FM Radio",
+       "url": "https://stream.pcradio.ru/ringfm_ee-med",
+       "tags": [
+        "easy_listening",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Star FM",
+       "url": "http://ice.leviracloud.eu:8000/star96-aac",
+       "language_inferred": true
+      },
+      {
+       "name": "Star FM Estonia",
+       "url": "https://ice.leviracloud.eu/star96-aac?t1605326834886",
+       "tags": [
+        "pop_hits",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "electronic": {
+     "count": 39,
+     "stations": [
+      {
+       "name": "Chat Raadio",
+       "url": "http://puma.streemlion.com:1810/stream",
+       "tags": [
+        "electronic",
+        "various_eclectic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "D FM",
+       "url": "https://striiming.trio.ee/dfm.mp3",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Dance 90.2 FM",
+       "url": "http://217.146.71.24/dfm.mp3"
+      },
+      {
+       "name": "DFM 90,2 (Tallinn) Radio",
+       "url": "https://stream.pcradio.ru/dfm_tallinn-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Doubleclap Radio",
+       "url": "https://stream.pcradio.ru/doubleclap_ee-med",
+       "language_inferred": true
+      },
+      {
+       "name": "HitMix Estonia radio",
+       "url": "https://stream.hitmix.ee:8443/HIT_320",
+       "tags": [
+        "electronic",
+        "oldies",
+        "pop_hits",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Hits Radio Online",
+       "url": "http://live.rcast.net:8714/",
+       "tags": [
+        "pop_hits",
+        "electronic"
+       ]
+      },
+      {
+       "name": "Hits Radio Online",
+       "url": "https://stream1.rcast.net/66038",
+       "language_inferred": true
+      },
+      {
+       "name": "Hits Radio Online",
+       "url": "https://www.liveradio.es/http://live.rcast.net:8714/stream.mp3",
+       "tags": [
+        "pop_hits",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Hits Radio Online",
+       "url": "https://rcast.live/stream/66070.mp3",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "IOFM",
+       "url": "http://misato.ru-hoster.com:8009/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "MyHits (Tallin) Radio",
+       "url": "https://stream.pcradio.ru/rad_mhts-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Netiraadio – Klubi Bit",
+       "url": "http://www.netiraadio.ee:8000/klubibiit",
+       "tags": [
+        "electronic",
+        "techno",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "NRJ DnB (Tallinn) Radio",
+       "url": "https://stream.pcradio.ru/nrj_ee_dnb-med",
+       "language_inferred": true
+      },
+      {
+       "name": "NRJ FM (Tallinn) Radio",
+       "url": "https://stream.pcradio.ru/nrj_ee_beat-med",
+       "language_inferred": true
+      },
+      {
+       "name": "NRJ Tallinn",
+       "url": "https://edge03.cdn.bitflip.ee:8888/NRJ?n=3c5ec6cbe0cbbb1cbd8a",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Power Hit Radio",
+       "url": "https://ice.leviracloud.eu/phr96-aac",
+       "tags": [
+        "pop_hits",
+        "electronic",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Power Hit Radio",
+       "url": "http://ice.leviracloud.eu:8000/phr96-aac",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Power Hit Radio",
+       "url": "https://ice.leviracloud.eu/phr96-aac?t1595966281252",
+       "language_inferred": true
+      },
+      {
+       "name": "Power Hit Radio (Tallinn)",
+       "url": "https://stream.pcradio.ru/pwr_hit_ee-med",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Ruut FM",
+       "url": "http://sc1.treraadio.ee:8010/tre",
+       "tags": [
+        "electronic",
+        "pop_hits",
+        "various_eclectic",
+        "college_community",
+        "folk"
+       ]
+      },
+      {
+       "name": "Sky Dance",
+       "url": "https://stream.skymedia.ee/live/SKYdance"
+      },
+      {
+       "name": "Sky Dance",
+       "url": "https://sky.babahhcdn.com/SKYdance"
+      },
+      {
+       "name": "Sky Plus Dance",
+       "url": "https://stream.skymedia.ee/live/skyplusdance",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Sky Plus DnB",
+       "url": "https://edge03.cdn.bitflip.ee:8888/NRJdnb?n=21810fc3c5a21503292f"
+      },
+      {
+       "name": "Sky Plus Raadio - Dance",
+       "url": "https://skymedia.babahhcdn.com/skyplus_dance.mp3"
+      },
+      {
+       "name": "Tre Raadio",
+       "url": "http://5.39.16.62:8004",
+       "tags": [
+        "electronic",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Tre Raadio",
+       "url": "https://www.liveradio.es/http://sc2.treraadio.ee/pohja-tre",
+       "language_inferred": true
+      },
+      {
+       "name": "Tre Raadio - Põhja-Eestis",
+       "url": "https://cdn.treraadio.ee/pohja-tre",
+       "tags": [
+        "electronic",
+        "drum_and_bass"
+       ]
+      },
+      {
+       "name": "Tre Raadio 91.3 FM",
+       "url": "http://sc1.treraadio.ee:8002/tre",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "TRE Raadio Pärnu Listen live",
+       "url": "https://cdn.treraadio.ee/parnu-tre",
+       "tags": [
+        "electronic",
+        "pop_hits",
+        "decade_80s"
+       ]
+      },
+      {
+       "name": "Tre Raadio Rapla 91.3 Radio",
+       "url": "https://stream.pcradio.ru/rapla_tre_ee-med",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Web Hit Radio",
+       "url": "http://webhitradio.ddns.net:8008/",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "WebHitRadio",
+       "url": "http://80.235.34.97:8008/",
+       "tags": [
+        "pop_hits",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Xl Radio - Estonia",
+       "url": "http://live.rcast.net:9172/stream.nsv",
+       "tags": [
+        "electronic",
+        "pop_hits",
+        "house"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "XLTRAX  RADIO ONE",
+       "url": "http://174.142.215.249:8300/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "XltraxEstonia",
+       "url": "http://www.xltrax.ee/stream/xltrax_estonia.m3u",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Радио DFM - Эстония",
+       "url": "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/dfm.mp3"
+      },
+      {
+       "name": "ЮFM",
+       "url": "http://eu3.radioboss.fm/proxy/ufmfan?mp=/lofm",
+       "tags": [
+        "christian_gospel",
+        "electronic"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "folk": {
+     "count": 5,
+     "stations": [
+      {
+       "name": "Netiraadio - Folk",
+       "url": "http://www.netiraadio.ee:8000/folgisobrad"
+      },
+      {
+       "name": "Raadio Elmar 91.5 FM",
+       "url": "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/elmar.mp3",
+       "tags": [
+        "pop_hits",
+        "folk"
+       ]
+      },
+      {
+       "name": "Raadio Tallinn",
+       "url": "https://www.liveradio.es/http://icecast.err.ee:80/raadiotallinn.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "TRE Raadio Põhja-Eesti radio",
+       "url": "https://sc2.treraadio.ee/pohja-tre",
+       "tags": [
+        "pop_hits",
+        "folk",
+        "world"
+       ]
+      },
+      {
+       "name": "Радио Волна Listen live",
+       "url": "https://volna.babahhcdn.com/volna",
+       "tags": [
+        "pop_hits",
+        "folk"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "hip_hop_rap": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "R2p",
+       "url": "http://icecast.err.ee:80/r2p.mp3",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Russkoe Radio Rap",
+       "url": "https://stream.skymedia.ee/live/rrap",
+       "tags": [
+        "hip_hop_rap",
+        "electronic"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "The Fumification Station.",
+       "url": "http://90.190.203.211:8000/.m3u",
+       "tags": [
+        "hip_hop_rap",
+        "electronic"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "jazz": {
+     "count": 7,
+     "stations": [
+      {
+       "name": "ETV",
+       "url": "https://sb.err.ee/live/etv.m3u8",
+       "tags": [
+        "jazz",
+        "classical"
+       ]
+      },
+      {
+       "name": "KlaRa Jazz",
+       "url": "https://icecast.err.ee/klarajazz.mp3?n=47e3c96943476b705daf",
+       "language_inferred": true
+      },
+      {
+       "name": "Klara Jazz",
+       "url": "http://icecast.err.ee/klarajazz.opus?n=31e3595a05a27532f938",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Netiraadio - Jazz",
+       "url": "http://www.netiraadio.ee:8000/jazzivarvid"
+      },
+      {
+       "name": "Relax Cafe",
+       "url": "https://stream.relaxfm.ee/cafe",
+       "tags": [
+        "jazz",
+        "easy_listening",
+        "chillout_lounge",
+        "ambient_relax",
+        "soundtrack",
+        "smooth_jazz",
+        "acid_jazz",
+        "folk",
+        "latin"
+       ]
+      },
+      {
+       "name": "Relax Instrumental",
+       "url": "https://stream.relaxfm.ee:8443/instrumental",
+       "language_inferred": true
+      },
+      {
+       "name": "Relax Jazz",
+       "url": "https://stream.relaxfm.ee/jazz",
+       "tags": [
+        "jazz",
+        "easy_listening",
+        "rock",
+        "big_band_swing",
+        "soul_rnb_funk",
+        "smooth_jazz",
+        "acid_jazz",
+        "blues"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "kids": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "DoSgFM",
+       "url": "https://stream.zeno.fm/spxqlbpbynyvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Kostivere Kooli Raadio",
+       "url": "https://stream.zeno.fm/p682sv5auv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "myowns",
+       "url": "https://stream.zeno.fm/kk0o1ro1hpsuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Netiraadio - Lastekanal",
+       "url": "http://www.netiraadio.ee:8000/lastekanal"
+      }
+     ]
+    },
+    "metal": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Netiraadio - Tumedad lood",
+       "url": "http://www.netiraadio.ee:8000/tumedadlood",
+       "tags": [
+        "rock",
+        "metal"
+       ]
+      },
+      {
+       "name": "Rock FM Metal",
+       "url": "https://stream.skymedia.ee/live/rckmetal",
+       "language_inferred": true
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 27,
+     "stations": [
+      {
+       "name": "Artekon",
+       "url": "https://listen1.myradio24.com/5566",
+       "language_inferred": true
+      },
+      {
+       "name": "Crypto24Radio",
+       "url": "https://n04.radiojar.com/exrd1tp5mceuv",
+       "language_inferred": true
+      },
+      {
+       "name": "ERR Raadio 2",
+       "url": "https://icecast.err.ee/raadio2.mp3",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "easy_listening",
+        "rock",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "ERR Raadio 2 - 320kbps",
+       "url": "http://icecast.err.ee/raadio2korge.mp3.m3u"
+      },
+      {
+       "name": "ERR Raadio Tallinn Radio",
+       "url": "https://stream.pcradio.ru/err_tallinn-med",
+       "language_inferred": true
+      },
+      {
+       "name": "ERR Vikerraadio Radio",
+       "url": "https://stream.pcradio.ru/err_vikerraadio-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Generaadio FM",
+       "url": "http://stream.generaadio.ee:8000/airtime_128?type=.mp3/stream/",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Nömme Raadio radio",
+       "url": "http://149.210.138.12:8000/nommeraadio",
+       "tags": [
+        "news_talk",
+        "various_eclectic",
+        "pop_hits",
+        "folk",
+        "rock"
+       ]
+      },
+      {
+       "name": "Paldiski Raadio 87.7",
+       "url": "http://46.22.208.116:8000/",
+       "tags": [
+        "news_talk",
+        "kids"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Paldiski Raadio radio",
+       "url": "http://46.22.208.116:8000/stream.nsv",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Postimees Raadio radio",
+       "url": "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/postimeesraadio.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Raadio 2 - Tallinn",
+       "url": "https://www.liveradio.es/http://icecast.err.ee:80/raadio2.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Raadio 4 - ER4",
+       "url": "https://icecast.err.ee/raadio4madal.mp3",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Raadio Elmar",
+       "url": "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/elmar.aac",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "rock",
+        "folk",
+        "easy_listening",
+        "world"
+       ]
+      },
+      {
+       "name": "Raadio Elmar",
+       "url": "http://striiming.trio.ee:8008/elmar.mp3",
+       "tags": [
+        "news_talk",
+        "easy_listening",
+        "pop_hits",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Raadio HappyU Listen live",
+       "url": "https://radio.streemlion.com:2525/server",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Raadio Kadi",
+       "url": "https://edge06.cdn.bitflip.ee:8888/kadi",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "easy_listening",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Raadio Kadi – Hiiumaa 90.1",
+       "url": "http://kadi.babahhcdn.com/kadi",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Raadio Kuku",
+       "url": "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuku.aac",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Raadio Kuku",
+       "url": "http://217.146.71.24:80/kuku.mp3?type=.mp3/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Raadio Tallinn",
+       "url": "https://icecast.err.ee/raadiotallinn.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "jazz",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Ring FM",
+       "url": "https://cdn.treraadio.ee/ringfm",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "rock"
+       ]
+      },
+      {
+       "name": "Ring FM radio",
+       "url": "https://sc2.treraadio.ee/ringfm",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Star FM Eesti",
+       "url": "https://ice.leviracloud.eu/starFMEesti96-aac",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Vikerraadio",
+       "url": "https://icecast.err.ee/vikerraadio.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Vikerraadio – ER1 Vikerraadio",
+       "url": "https://icecast.err.ee/vikerraadiomadal.mp3",
+       "tags": [
+        "news_talk",
+        "various_eclectic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Äripäeva Raadio",
+       "url": "https://www.aripaev.ee/raadio/stream.mp3"
+      }
+     ]
+    },
+    "oldies": {
+     "count": 17,
+     "stations": [
+      {
+       "name": "Neti Raadio",
+       "url": "http://www.netiraadio.ee:8000/kuldsedajad",
+       "tags": [
+        "oldies",
+        "news_talk",
+        "pop_hits",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Netiraadio - Jaak Joala",
+       "url": "http://www.netiraadio.ee:8000/jaakjoala",
+       "tags": [
+        "oldies",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Netiraadio - Retro",
+       "url": "http://www.netiraadio.ee:8000/retro"
+      },
+      {
+       "name": "Raadio Hit FM",
+       "url": "http://stream.hitfm.ee/HitFM_96.m3u",
+       "tags": [
+        "oldies",
+        "decade_80s",
+        "decade_90s"
+       ]
+      },
+      {
+       "name": "Raadio Star FM",
+       "url": "https://stream.power.ee/StarFM.m3u",
+       "tags": [
+        "pop_hits",
+        "oldies"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Retro FM",
+       "url": "https://stream.skymedia.ee/live/RETRO",
+       "tags": [
+        "oldies",
+        "pop_hits",
+        "classical",
+        "decade_80s",
+        "easy_listening",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Retro FM 97.8 FM",
+       "url": "http://sky.babahhcdn.com/RETRO"
+      },
+      {
+       "name": "Retro FM Disco",
+       "url": "https://stream.skymedia.ee/live/retro1.mp3",
+       "tags": [
+        "oldies",
+        "disco_eurodance",
+        "pop_hits",
+        "decade_80s"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Retro FM Eestikas",
+       "url": "https://stream.skymedia.ee/live/retro2.mp3",
+       "tags": [
+        "oldies",
+        "classical",
+        "folk",
+        "world",
+        "pop_hits",
+        "decade_80s"
+       ]
+      },
+      {
+       "name": "Retro FM Estonia",
+       "url": "https://edge02.cdn.bitflip.ee:8888/RETRO?_i=258f436b",
+       "language_inferred": true
+      },
+      {
+       "name": "Retro FM Hobe",
+       "url": "http://skymedia.babahhcdn.com/retro2.mp3"
+      },
+      {
+       "name": "Retro FM Kuld",
+       "url": "http://skymedia.babahhcdn.com/retro1.mp3"
+      },
+      {
+       "name": "Retro FM Listen live",
+       "url": "https://retro.babahhcdn.com/RETRO",
+       "tags": [
+        "oldies",
+        "rock",
+        "decade_70s",
+        "decade_80s",
+        "decade_90s"
+       ]
+      },
+      {
+       "name": "Sky Plus Gold",
+       "url": "https://skymedia.babahhcdn.com/skyplus_gold.mp3",
+       "tags": [
+        "oldies",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Sooviraadio",
+       "url": "http://media.uunox.net:8888/",
+       "language_inferred": true
+      },
+      {
+       "name": "TaifuunFM",
+       "url": "http://192.227.85.169/proxy/taifuunfm?mp=/stream",
+       "tags": [
+        "oldies",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Радио Ностальгия radio",
+       "url": "https://c16.radioboss.fm:8327/stream",
+       "tags": [
+        "oldies",
+        "rock",
+        "pop_hits",
+        "decade_70s",
+        "decade_60s",
+        "decade_80s",
+        "decade_90s"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 58,
+     "stations": [
+      {
+       "name": "Chat Radio",
+       "url": "https://puma.streemlion.com:1830/stream"
+      },
+      {
+       "name": "DFM 90.2",
+       "url": "https://le09.euddn.net/5f76aa6d8bfdb895a0ba3e197d1698cad9c4b19eaa5b43d8f2183fd84f38ac43fc7c30defd8e1c5d484b7af7d826a3c73ec45c97b25b5bc238db84ffd80d79f23fb45452183d5c2404a94bbea1d65900b4c3816cd3c71070fd498701aa582f5fbc609a7847caca948a22133bedc1be2e667c3638acb19a8961dafc18d93419d25e0389c9727d506a1e16197642ca4523/dfm.mp3",
+       "tags": [
+        "pop_hits",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Finest FM",
+       "url": "https://shoutcast.finestfm.fi/stream/1/:80/stream",
+       "tags": [
+        "pop_hits",
+        "folk",
+        "decade_80s",
+        "decade_90s",
+        "oldies"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "HappyU Radio",
+       "url": "https://radio.streemlion.com:2525/stream",
+       "tags": [
+        "pop_hits",
+        "folk",
+        "disco_eurodance",
+        "schlager_polka",
+        "country",
+        "decade_70s",
+        "decade_80s",
+        "decade_90s",
+        "oldies"
+       ]
+      },
+      {
+       "name": "My Hits Radio",
+       "url": "http://striiming.trio.ee:8008/myhits_low.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "MyHits",
+       "url": "https://streamer.eestimeedia.ee/myhits.aac"
+      },
+      {
+       "name": "MyHits",
+       "url": "http://217.146.71.24/myhits_low.mp3"
+      },
+      {
+       "name": "MyHits 97.2 FM",
+       "url": "http://striiming.trio.ee:8008/myhits.mp3"
+      },
+      {
+       "name": "Narodnoe radio",
+       "url": "https://stream.pcradio.ru/narodnoeradio_ee-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Netiraadio - Pop",
+       "url": "http://www.netiraadio.ee:8000/lahepop",
+       "tags": [
+        "pop_hits",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "NRJ FM",
+       "url": "https://nrj.babahhcdn.com/NRJ",
+       "tags": [
+        "pop_hits",
+        "electronic",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "NRJ FM Estonia",
+       "url": "https://stream.skymedia.ee/live/NRJ",
+       "tags": [
+        "pop_hits",
+        "electronic",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Oma Raadio",
+       "url": "http://194.204.33.1:8888/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "R2 Eesti",
+       "url": "https://icecast.err.ee/r2eestikorge.mp3?n=1a8ae1a6fd480a0d2be3",
+       "language_inferred": true
+      },
+      {
+       "name": "R2 Eesti",
+       "url": "http://icecast.err.ee:80/r2eesti.mp3",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "R2 Pop",
+       "url": "http://icecast.err.ee:80/r2pop.mp3",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "R2 Pop radio",
+       "url": "http://icecast.err.ee:80/r2popkorge.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "R2Pop",
+       "url": "http://icecast.err.ee/r2pop.opus"
+      },
+      {
+       "name": "Raadio Elmar",
+       "url": "https://le11.euddn.net/f472b2923801686af2a76faed40f5d1d134d3bd6c5521aa97ea7a50f5d22537a9dfc9dba44e2e8c22c3e0b0e88d263bd67f8eef6dc4bcadf2eb61ef5498231707da0cb3e71910c359156084bfaf9f9dd341d88e3be8a6ed66c5525e36f4f5511a4c405d3cd6104159d7e6dd02aab2555363d40b8",
+       "language_inferred": true
+      },
+      {
+       "name": "Raadio Kadi",
+       "url": "http://icecast.mmm.elion.ee:8080/Kadi",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Raadio Kuku",
+       "url": "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuku.mp3",
+       "tags": [
+        "pop_hits",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Raadio Kuku",
+       "url": "https://le02.euddn.net/7f52a0d97e64658280f781b6f51aed524bcee34e6ea9c9711745ab76ac1a16a780c215be89ad7b0102086e0ce1a772b0f637e8fcde0260c976f0f3daf77db42fba30ed4b218166c2f7b864ff9189a42f211c99f3abcdc2b152732149d8e49966d1d5ead36edaef877b1282dd4147fae297dd264b",
+       "language_inferred": true
+      },
+      {
+       "name": "Raadio Star FM Listen live",
+       "url": "https://starfm.babahhcdn.com/starfm",
+       "tags": [
+        "pop_hits",
+        "oldies"
+       ]
+      },
+      {
+       "name": "Radio MyHits",
+       "url": "http://le02.euddn.net/156a13c3c76210b67f9f09eda833443eeeedbadd19a7eaa80504aac4ca483b289fdb88daecfbe481f271b9a07a77472b7d9e554c37768d89f969d8b3e343905b43599afd97bff3e15b318c4f0d1b12488b972712baa51ae84a3c1a2d9b7de306597e9a74b65582940b926071f8cfffef65de1e1d280006a383e25bf3c1942f95a28dbea1224b7d59794683922d9e227b/myhits.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio MyHits",
+       "url": "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/myhits.aac",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Radio on line brazil",
+       "url": "https://stream2.svrdedicado.org/8494/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Ruut",
+       "url": "https://cdn.treraadio.ee/ruutfm",
+       "tags": [
+        "pop_hits",
+        "folk",
+        "electronic",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Radio Volna",
+       "url": "https://ice.leviracloud.eu/volna96-aac"
+      },
+      {
+       "name": "Rahvaraadio",
+       "url": "http://rahvaraadio.ee:8000/rahvaraadio"
+      },
+      {
+       "name": "Rahvaraadio radio",
+       "url": "http://streamer.tt.ee:8000/rahvaraadio",
+       "language_inferred": true
+      },
+      {
+       "name": "Retro Fm",
+       "url": "https://edge05.cdn.bitflip.ee:8888/RETRO?_i=02c850e6"
+      },
+      {
+       "name": "Ring FM",
+       "url": "https://www.liveradio.es/http://sc2.treraadio.ee/ringfm",
+       "language_inferred": true
+      },
+      {
+       "name": "Ring FM",
+       "url": "http://shout.babahh.com/ringfm",
+       "tags": [
+        "pop_hits",
+        "rock"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Ring FM",
+       "url": "http://sc2.treraadio.ee:8002/tre",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "various_eclectic",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Ring FM",
+       "url": "http://stream.ringfm.ee/?tag=tunein/",
+       "language_inferred": true
+      },
+      {
+       "name": "Russkoe Radio",
+       "url": "http://rr.babahhcdn.com/RR?/russkoeradio_low.ogg",
+       "language_inferred": true
+      },
+      {
+       "name": "Russkoe Radio",
+       "url": "https://skyplus.babahhcdn.com/RR"
+      },
+      {
+       "name": "Sky Plus",
+       "url": "https://stream.skymedia.ee/live/SKYPLUS",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "electronic",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Sky Plus",
+       "url": "https://skymedia-live.bitflip.ee/SKYPLUS",
+       "language_inferred": true
+      },
+      {
+       "name": "Sky Plus 95.4 FM",
+       "url": "https://skyplus.babahhcdn.com/SKYPLUS",
+       "tags": [
+        "pop_hits",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Sky Plus Dance",
+       "url": "https://skyplus.babahhcdn.com/skyplusdance",
+       "tags": [
+        "pop_hits",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Sky Plus Gold",
+       "url": "https://stream.skymedia.ee/live/skyplus_gold.mp3",
+       "tags": [
+        "pop_hits",
+        "classical"
+       ]
+      },
+      {
+       "name": "Sky Plus Listen live",
+       "url": "https://sky.babahhcdn.com/SKYPLUS",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "alternative_indie"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Sky Plus Radio",
+       "url": "https://stream.pcradio.ru/skyplus_fm-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Sky Plus Top",
+       "url": "https://skymedia.babahhcdn.com/skyplus_top40.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Sky Plus Top",
+       "url": "https://stream.skymedia.ee/live/skyplus_top40.mp3"
+      },
+      {
+       "name": "Sky Radio",
+       "url": "https://skymedia-live.bitflip.ee/SKY",
+       "tags": [
+        "pop_hits",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Sky Radio",
+       "url": "https://stream.pcradio.ru/sky_radio_fm-med",
+       "language_inferred": true
+      },
+      {
+       "name": "SkyPlus",
+       "url": "http://stream05.akaver.com/skyplus_hi.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Star FM",
+       "url": "https://ice.leviracloud.eu/star96-aac",
+       "tags": [
+        "pop_hits",
+        "rock"
+       ]
+      },
+      {
+       "name": "Star FM (Tallinn) Radio",
+       "url": "https://stream.pcradio.ru/starfm_tallinn-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Super Радио",
+       "url": "https://stream.pcradio.ru/russkoe_estonia-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Tre Raadio Parnu",
+       "url": "http://sc2.treraadio.ee:8012/",
+       "language_inferred": true
+      },
+      {
+       "name": "Volna 107,1 FM (Tallinn) Radio",
+       "url": "https://stream.pcradio.ru/volna_tallinn-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Vomba FM (Võmba FM) Radio",
+       "url": "https://stream.pcradio.ru/vomba_fm-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Web Hit radio",
+       "url": "http://sc2.treraadio.ee:8010/tre",
+       "language_inferred": true
+      },
+      {
+       "name": "Радио Волна",
+       "url": "https://ice.leviracloud.eu/volna96-aac?t1599154397289",
+       "language_inferred": true
+      },
+      {
+       "name": "Радио Волна (Radio Volna)",
+       "url": "http://volna.babahhcdn.com:8100/volna"
+      }
+     ]
+    },
+    "rock": {
+     "count": 11,
+     "stations": [
+      {
+       "name": "R2 Rock",
+       "url": "http://icecast.err.ee:80/r2rock.mp3",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "R2Rock",
+       "url": "http://icecast.err.ee/r2rock.opus"
+      },
+      {
+       "name": "Raadio Mania",
+       "url": "http://195.222.0.17:8000/mania.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Raadio Uuno",
+       "url": "https://le11.euddn.net/23681c69a044ae26b816b206d1f69625ac00349276191fbbaeefe70af0b99356cc7306cb88878a80d0263fe697fa98369b63cdc138334b541002e61a14a2e10a72f89bb17d81de881920102412016a2c6a09f52856ae9245938a27e1e1176f6061686c64b0ad3f996275047291ed864f65b5c4ab3928b2c5f95b05fa5f3ac0a95a9624a8c9065c4276d5e6996ab7c078c311bd07e22b19095d853701bf7c61ced2b9c1c3c7a0b32240e7ef74f86934f7/myhits.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Azathoth Revival radio",
+       "url": "https://cast4.my-control-panel.com/proxy/aadu/stream",
+       "tags": [
+        "rock",
+        "decade_70s",
+        "decade_60s",
+        "oldies"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Mania 888",
+       "url": "https://skymedia.babahhcdn.com/rck"
+      },
+      {
+       "name": "Relax International",
+       "url": "https://stream.relaxfm.ee:8443/international",
+       "language_inferred": true
+      },
+      {
+       "name": "Ring FM",
+       "url": "http://ringfm.babahhcdn.com/ringfm",
+       "tags": [
+        "rock",
+        "easy_listening",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Rock FM",
+       "url": "https://edge02.cdn.bitflip.ee:8888/rck?_i=5f5ab186",
+       "language_inferred": true
+      },
+      {
+       "name": "Rock FM Eesti",
+       "url": "https://stream.skymedia.ee/live/rck"
+      },
+      {
+       "name": "Russkoe Radio Listen live",
+       "url": "https://sky.babahhcdn.com/RR",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "easy_listening",
+        "soul_rnb_funk"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "soul_rnb_funk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "NRJ DnB",
+       "url": "https://skymedia-live.bitflip.ee/NRJ",
+       "tags": [
+        "soul_rnb_funk",
+        "electronic",
+        "pop_hits",
+        "easy_listening",
+        "hip_hop_rap"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "soundtrack": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Relax Loodus",
+       "url": "https://stream.relaxfm.ee/loodus",
+       "language_inferred": true
+      },
+      {
+       "name": "Tre Raadio Pärnu",
+       "url": "http://sc2.treraadio.ee:80/parnu-tre",
+       "language_inferred": true
+      }
+     ]
+    },
+    "sports": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "BB LIVE",
+       "url": "https://stream.zeno.fm/262wfm2z338uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Vikersport",
+       "url": "https://lonestarr.err.ee/live/vikerraadiokorge/index.m3u8",
+       "bitrate": 128,
+       "logo": "http://radio.pervii.com/im/9/1596550519.jpg",
+       "country_inferred": true,
+       "language_inferred": true
+      }
+     ]
+    },
+    "techno": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Hard FM",
+       "url": "https://s5.radio.co/s69e02764f/listen",
+       "tags": [
+        "techno",
+        "various_eclectic"
+       ]
+      }
+     ]
+    },
+    "trance_goa": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Power Hit Radio Estonia",
+       "url": "http://shout.babahh.com:9000/phr",
+       "tags": [
+        "pop_hits",
+        "electronic",
+        "trance_goa"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "world": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Raadio Elmar",
+       "url": "https://striiming.trio.ee/elmar.mp3?stream=elmar",
+       "tags": [
+        "world",
+        "pop_hits"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 129,
+     "stations": [
+      {
+       "name": "adfsdgdhd",
+       "url": "https://stream.zeno.fm/90xhu4gza0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Aleksandrys",
+       "url": "https://stream.zeno.fm/zbyvnbx1fkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Alexandry",
+       "url": "https://stream.zeno.fm/ckmz9eus8hhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "AllMusic",
+       "url": "https://stream.zeno.fm/d7u29hp8fd0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "AllMusicEst",
+       "url": "https://stream.zeno.fm/tvicx5tay2jvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Alpha Omega Coin Fm Africa",
+       "url": "https://stream.zeno.fm/avur4yfdl6dvv",
+       "language_inferred": true
+      },
+      {
+       "name": "ArMusic",
+       "url": "https://stream.zeno.fm/v55auvmctwwvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Artekon Raadio Tallinn",
+       "url": "http://listen1.myradio24.com:9000/5566",
+       "language_inferred": true
+      },
+      {
+       "name": "Banda Station",
+       "url": "https://stream.zeno.fm/aw6bu8cce2zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "BowTieFM",
+       "url": "https://stream.zeno.fm/c7kufnq2gfrtv",
+       "language_inferred": true
+      },
+      {
+       "name": "CHILLEST",
+       "url": "https://19013.live.streamtheworld.com/SP_R2320766_SC",
+       "language_inferred": true
+      },
+      {
+       "name": "Church of Debauchery",
+       "url": "https://stream.zeno.fm/j1u9cncgo5puv",
+       "language_inferred": true
+      },
+      {
+       "name": "deep99",
+       "url": "https://stream.zeno.fm/ckpve3cf6f8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "dewud radio fm",
+       "url": "https://stream.zeno.fm/1kgkcgvecchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "DFM 90.2",
+       "url": "https://le01.euddn.net/94e0433061b979b41c77e9542e9a80781883bb5fb4951506b3f2fc73fad03fe4e243f8156c8851d5750851f0a20ffc7567f5958ef97b5f2263be34bc44dd7303c1d51d832a4a4323d2055744668bdc3694d7521d5b4870463d41c0d239b01e9d54c3c26b6653a507862a09b7b47c0befc2068b230c3a6e859c1bed0339f0f27f4fb052fdcb3d44d7cb015c668cfb20685ba8d6a72b964c6886c4cf77d92ca880ec1beaf06f0d50e7bf35a2a1cdd9cf25d83dcc57118e3448ee892ffa9ebdfafe282dac7908a267cf8ffab5b594e21d8d8609abeb9701de79e34a236171174dbc390d93c9120ab93d3dac6a3c0abd688c9499a1e9bd0f629d809ea2c8ae24e30ba1589d02fa07bd0d0c13afa969cc68382a6322973a7c27ecc1d4cf4ba8ca96d175267ed2f680ec63a3a2aa52e0d63ac588fc15c521df880d7490770992400aa9b70776d9bdcf03010a38f362dad1a911f0c7eb27cb5b514bc3f870f536efdfcd688b420659c459dd4ab08630eb24817d8d0a88b79d427930dc1334a2e08a7fb161de41e68eb97fa2165a3d29b519cccc/dfm.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "DnBest FM",
+       "url": "https://stream.zeno.fm/5up32wgfs18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Dope ColdLava Music Radio",
+       "url": "https://stream.zeno.fm/mzce4v6nhzzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Eesti FM",
+       "url": "https://stream.zeno.fm/wwv26nijcbutv",
+       "language_inferred": true
+      },
+      {
+       "name": "Elpapu",
+       "url": "https://stream.zeno.fm/4ud4dfbb0xhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Energy FM 93.2",
+       "url": "https://edge04.cdn.bitflip.ee:8888/NRJ?_i=b4d38ff8",
+       "language_inferred": true
+      },
+      {
+       "name": "EPraadio",
+       "url": "https://stream.zeno.fm/7q7wetpxywzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "ERR Klassikaraadio Radio",
+       "url": "https://stream.pcradio.ru/err_klassika-med",
+       "language_inferred": true
+      },
+      {
+       "name": "ERR Raadio 2",
+       "url": "http://icecast.err.ee/raadio2madal.mp3"
+      },
+      {
+       "name": "ERR Raadio 2 – Tallinn – Harju – EE",
+       "url": "https://sb.err.ee/live/raadio2.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "ERR Vikerraadio",
+       "url": "https://sb.err.ee/live/vikerraadio.m3u8"
+      },
+      {
+       "name": "Estacion LIVE",
+       "url": "https://stream.zeno.fm/6xvxxfy1ra0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Eurodance",
+       "url": "https://stream.zeno.fm/vweva3xz6e8vv",
+       "language_inferred": true
+      },
+      {
+       "name": "facetoneRadio",
+       "url": "https://stream.zeno.fm/vdnkg8ptmd0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "FEELGOOD FM",
+       "url": "https://stream.zeno.fm/ifounufipwstv",
+       "language_inferred": true
+      },
+      {
+       "name": "Foxforfm",
+       "url": "https://stream.zeno.fm/qfl0wl3v2lvtv",
+       "language_inferred": true
+      },
+      {
+       "name": "GEZZE4",
+       "url": "https://stream.zeno.fm/svaaet0x81zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Glogiraadio",
+       "url": "https://raadio.hiiumaa.live:8010/radio.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "halb asd as",
+       "url": "https://stream.zeno.fm/t0rut93k268uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Happy U",
+       "url": "http://www.happyu.ee/streaming/happyu.m3u"
+      },
+      {
+       "name": "High On Life Radio",
+       "url": "https://stream.zeno.fm/0acs6d0v0p8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "HYPE FM",
+       "url": "https://stream.zeno.fm/znhbunzsmqruv",
+       "language_inferred": true
+      },
+      {
+       "name": "IGOR FM (BEST BANGERS AND LIT BEATS)",
+       "url": "https://stream.zeno.fm/pa11zso1bk9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "IkopitsiFM",
+       "url": "https://stream.zeno.fm/urh60e9k4zhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Jar Radio",
+       "url": "https://stream.zeno.fm/j5swfj0jzucvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Jutukas24",
+       "url": "https://stream.zeno.fm/hv4z7m1fguhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "KAERAADIO",
+       "url": "https://stream.zeno.fm/hzb7zdkhkf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Kesk-Eesti Tre Raadio",
+       "url": "http://sc2.treraadio.ee:8004/"
+      },
+      {
+       "name": "Kuressaare Pereraadio",
+       "url": "http://wms.mmm.elion.ee/kurpre"
+      },
+      {
+       "name": "Lia radio",
+       "url": "https://stream.zeno.fm/0av5bshthbguv",
+       "language_inferred": true
+      },
+      {
+       "name": "likeyradio",
+       "url": "https://stream.zeno.fm/sqssjnypzqitv",
+       "language_inferred": true
+      },
+      {
+       "name": "Linux fm",
+       "url": "https://stream.zeno.fm/zrfz87sz3s8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Los Santos Rock Radio",
+       "url": "https://stream.zeno.fm/9y10ycts1uhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Luua FM",
+       "url": "https://stream.zeno.fm/y4prtxs7ckhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "metalll",
+       "url": "https://stream.zeno.fm/y1ht4n9t8bhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "MileniON Radio",
+       "url": "https://stream.zeno.fm/zptxp8o6nhfvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Music for Bus Army",
+       "url": "https://stream.zeno.fm/vqcmnay2cf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Music From All Around",
+       "url": "http://stream.zeno.fm/dghp9excl67vv",
+       "language_inferred": true
+      },
+      {
+       "name": "Musico",
+       "url": "https://stream.zeno.fm/db4f26brwrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "MusicVision Estonia",
+       "url": "https://stream.zeno.fm/s3a8q2uwvchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "My music",
+       "url": "https://stream.zeno.fm/wapgqc9dup8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Nalja_ja_uudiseid",
+       "url": "https://stream.zeno.fm/vfr025t3uhhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Netiraadio - Jõulud",
+       "url": "http://www.netiraadio.ee:8000/joulud"
+      },
+      {
+       "name": "Netiraadio - Kuldsed Ajad",
+       "url": "http://netiraadio.ee:8000/kuldsedajad"
+      },
+      {
+       "name": "Netiraadio - Puhas traat",
+       "url": "http://www.netiraadio.ee:8000/puhastraat"
+      },
+      {
+       "name": "Netiraadio Jaak Joala",
+       "url": "https://edge02.cdn.bitflip.ee:8888/RETRO",
+       "language_inferred": true
+      },
+      {
+       "name": "Netiraadio.ee Retro",
+       "url": "http://skyplus.babahhcdn.com/skyplus_gold.mp3"
+      },
+      {
+       "name": "Netiraadio.ee Üllata mind",
+       "url": "http://www.netiraadio.ee:8000/yllatamind"
+      },
+      {
+       "name": "Nikitka Radio",
+       "url": "https://stream.zeno.fm/b045asnfeq8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Nonotech",
+       "url": "https://stream.zeno.fm/ca6qnpspx38uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Noorte Raadio",
+       "url": "http://listen.nofm.ee:9000/stream02?type=.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Overdose Radio",
+       "url": "https://stream.zeno.fm/3phwrwsmtuhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Pereraadio Tallinn - Eesti",
+       "url": "https://icecast.pereraadio.ee:9000/Tallinn",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Pereraadio Tartu - Eesti",
+       "url": "https://icecast.pereraadio.ee:9000/Tartu",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Poltsamaa Raadio",
+       "url": "https://stream.zeno.fm/dss5mse56p8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Power Hit Radio",
+       "url": "https://ice.leviracloud.eu/phr96-aac??n=3017c3169d5a02cfcc47",
+       "language_inferred": true
+      },
+      {
+       "name": "R2p",
+       "url": "https://icecast.err.ee/r2p.opus?n=020050ed6574547f53c0",
+       "language_inferred": true
+      },
+      {
+       "name": "Raadio 2 HQ",
+       "url": "http://icecast.err.ee/raadio2korge.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Raadio HIT FM",
+       "url": "http://stream.hitfm.ee/HitFM_192",
+       "language_inferred": true
+      },
+      {
+       "name": "Raadio Kivi",
+       "url": "https://stream.zeno.fm/aul8bb0ownkvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Raadio Kuku",
+       "url": "http://striiming.trio.ee:8008/kuku_high.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Raadio Kuku",
+       "url": "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuku_high.mp3?n=b37c92d75e735a423d1a",
+       "language_inferred": true
+      },
+      {
+       "name": "Raadio Star FM",
+       "url": "https://starfm.babahhcdn.com/starfm?t1590313676745",
+       "language_inferred": true
+      },
+      {
+       "name": "Raadio Tallinn",
+       "url": "https://sb.err.ee/live/raadiotallinn.m3u8"
+      },
+      {
+       "name": "Radio Azathoth Revival",
+       "url": "https://cast4.asurahosting.com/proxy/aadu/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Elmar",
+       "url": "https://streamer.eestimeedia.ee/elmar.aac"
+      },
+      {
+       "name": "Radio LASPD",
+       "url": "https://stream.zeno.fm/2xr4aw8cy98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Latin Passion",
+       "url": "http://streaming.radio.co/s6e6541328/listen",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio MyHits",
+       "url": "https://le03.euddn.net/2006feb359f3a8e8b234e6a78cf0191a0d6917af1d2441ebcd6337e0ecc2122f64e007cfd33f8eb5ea38926306756254d76ba686743f38346a0817ce7cf92dc6a974dc18e6c2ccd34da019b20c9bcf2a36241346a9c185e6f264ab5907412c6c29a6b73a5569cacdd1c88811bf84473ff9dca45cab4fe3b58d6b46020fc9d8d83b15ef171b500da2da896088243b09aaceb4a09fd047b89b8157acf885e6b02e13bafa4b26380ec21dba7b294d6f8235/myhits.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio MyHits",
+       "url": "https://le03.euddn.net/f37df4cf2e77b8a72afcd79cb678ce7b7a35f2db518291ee39dd0a14f3317dd5b4f2e2e26271140bb67f70ffe398778b073614428145ae8194cb51ba6132d264d774dc06bed9a3f9a9f8db04682de2a494a1017bebd033854501ff464d1bdadf069bf77aff1877fd26ea375a771e20f925ff694155ab5da5d9ee652ba10dfa917e135d80f559ee6f87f0da18a70bb001b96c648e03a931cdd47563942d6c4cfd0eaa5c0ef04a5a1498366f1719ce7195/myhits.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Sky Plus",
+       "url": "https://edge02.cdn.bitflip.ee:8888/SKYPLUS",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIOSALSP",
+       "url": "https://stream.zeno.fm/xzbs518cy98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIOSALSP",
+       "url": "https://stream.zeno.fm/8pbab58cy98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Rahvaraadio",
+       "url": "http://217.146.71.146:8000/live2"
+      },
+      {
+       "name": "reggea",
+       "url": "https://stream.zeno.fm/tieizbqebu5vv",
+       "language_inferred": true
+      },
+      {
+       "name": "Relax FM",
+       "url": "http://37.0.31.67:8000/relax",
+       "language_inferred": true
+      },
+      {
+       "name": "Relax International – Tallinn – Harju – EE",
+       "url": "https://stream.relaxfm.ee/international_HD",
+       "language_inferred": true
+      },
+      {
+       "name": "Relax Loodus 2 – Tallinn – Harju – EE",
+       "url": "https://relax-fm.radio-website.com/upload/Loodus/Relax_loodus2.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Retro FM Estonia",
+       "url": "https://stream.skymedia.ee/live/RETRO_AAC?n=b2fb979ea6c5af2219d0",
+       "language_inferred": true
+      },
+      {
+       "name": "Rock FM",
+       "url": "https://edge02.cdn.bitflip.ee:8888/rck?_i=5f5ab186?n=ff0c820241e2912c9477",
+       "language_inferred": true
+      },
+      {
+       "name": "Rock FM - Tallinn 88.8 FM",
+       "url": "https://skymedia-live.bitflip.ee/rck",
+       "language_inferred": true
+      },
+      {
+       "name": "Russkoe Radio Rap",
+       "url": "https://skymedia.babahhcdn.com/rrap",
+       "language_inferred": true
+      },
+      {
+       "name": "Russkoe Radio Rock",
+       "url": "https://skymedia.babahhcdn.com/rrock",
+       "language_inferred": true
+      },
+      {
+       "name": "Russkoe Rap Radio",
+       "url": "https://skymedia-live.bitflip.ee/rrap",
+       "language_inferred": true
+      },
+      {
+       "name": "Ruut FM – Tallinn – Harju – EE",
+       "url": "http://ringfm.ee/r_player/?pl=winamp&c=RuutFM",
+       "language_inferred": true
+      },
+      {
+       "name": "San Times Radio",
+       "url": "https://stream.zeno.fm/nbn218ge6f8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "SKY Dance",
+       "url": "https://skymedia-live.bitflip.ee/SKYdance",
+       "language_inferred": true
+      },
+      {
+       "name": "Sky Gold",
+       "url": "https://sky.babahhcdn.com/SKYgold"
+      },
+      {
+       "name": "Sky Plus Dance",
+       "url": "https://skymedia-live.bitflip.ee/skyplusdance",
+       "language_inferred": true
+      },
+      {
+       "name": "Sky Plus Gold",
+       "url": "https://skymedia-live.bitflip.ee/skyplus_gold.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Sky Plus Top40",
+       "url": "https://skymedia-live.bitflip.ee/skyplus_top40.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "SkyVision Roblox",
+       "url": "https://stream.zeno.fm/nuzvkhccqxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Slitronian Radio 1",
+       "url": "https://stream.zeno.fm/us0nfg7et68uv",
+       "language_inferred": true
+      },
+      {
+       "name": "sooviraadio.net",
+       "url": "https://play.sooviraadio.net/",
+       "language_inferred": true
+      },
+      {
+       "name": "Tagatuba FM",
+       "url": "https://stream.zeno.fm/2dyguezzzuhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Tallinna DNB Raadio",
+       "url": "https://stream.zeno.fm/01ftkkyrduhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "tarot y videncia  juan manuel",
+       "url": "https://stream.zeno.fm/7z6gz2rxt98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "TC Radio",
+       "url": "https://stream.zeno.fm/u5mgutx6xnhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Tre Raadio 91.3 FM",
+       "url": "http://sc1.treraadio.ee:8002/trestream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "Tre Raadio Kesk-Eesti",
+       "url": "http://cdn.treraadio.ee/kesk-eesti-tre?n=0a265e9ee889e2fb3e96"
+      },
+      {
+       "name": "Tre Raadio Pärnu",
+       "url": "http://icecast.mmm.elion.ee:8080/paikeseraadio"
+      },
+      {
+       "name": "Tre Raadio Rapla",
+       "url": "https://cdn.treraadio.ee/rapla-tre?n=4a5cae386668c195666b"
+      },
+      {
+       "name": "Tre Raadio Virumaa",
+       "url": "http://sc2.treraadio.ee/viru-tre?n=65e889c8c8d2ffdfd62f",
+       "language_inferred": true
+      },
+      {
+       "name": "Ukiyo Radio",
+       "url": "https://stream.zeno.fm/y213801r108uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Vanishare",
+       "url": "https://stream.zeno.fm/7ft9314yqg0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Verge 80s",
+       "url": "https://stream.zeno.fm/dk5f0z57ya0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Vikerraadio",
+       "url": "http://icecast.err.ee/vikerraadio.mp3.m3u"
+      },
+      {
+       "name": "Xl Radio - Xltrax Estonia",
+       "url": "http://xltrax.com:8300/index.htmlstream.nsv",
+       "language_inferred": true
+      },
+      {
+       "name": "XLTRAX Estonia",
+       "url": "http://174.142.215.249:8300/stream.mp3"
+      },
+      {
+       "name": "XXX TENTACION",
+       "url": "https://stream.zeno.fm/zvx2mztw5rhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "zRavage",
+       "url": "https://stream.zeno.fm/121akbppb78uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Äripäeva raadio - Tallinn 92.4 FM",
+       "url": "https://liveplay.aripaev.ee/stream.mp3",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Народноe Радио",
+       "url": "http://le09.euddn.net/9f33c2b5e2e37ae5f3dfe74e5026c8a69161e6025650b7f960760734c2a26264be3dcd07c31969c5091c051f1c9b7aa265ab17cb398a14595558e7dba8b0d484d797046b3c613b8b3d5817e7c4fa165a613546c58abace414df06da748ea4a5e430c1edd768e05d47743e230b6ab69dddf527d58f4576e8228321b41f99c51f019cc98bddb0aaded4fbe13a7c19b84ffc4a477dc838962c0339fb7977ab135522e4b760ec86f2cdf2a607432bb7350f0/narodnoe.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "Русское Радио - Эстония",
+       "url": "https://skymedia-live.bitflip.ee/RR",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Семейное Радио Эли 1035 кГц",
+       "url": "https://icecast.pereraadio.ee:9000/RadioEli",
+       "country_inferred": true,
+       "language_inferred": true
+      }
+     ]
+    }
+   }
+  },
+  "Russian": {
+   "count": 19,
+   "genres": {
+    "christian_gospel": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Radio Eli",
+       "url": "http://icecast.pereraadio.ee:8000/RadioEli",
+       "tags": [
+        "christian_gospel",
+        "classical"
+       ]
+      },
+      {
+       "name": "Semeinoje Radio",
+       "url": "http://icecast.pereraadio.ee:8000/Semeinoje"
+      },
+      {
+       "name": "Tartu Family Radio",
+       "url": "http://worker.pereraadio.ee:8000/",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      }
+     ]
+    },
+    "comedy": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Jumor FM",
+       "url": "http://178.21.244.45:8005/source"
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "ERR Raadio 4",
+       "url": "https://sb.err.ee/live/raadio4.m3u8"
+      },
+      {
+       "name": "Narodnoe Radio",
+       "url": "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/narodnoe.aac"
+      },
+      {
+       "name": "Russian Relax",
+       "url": "https://stream.relaxfm.ee/vene",
+       "tags": [
+        "easy_listening",
+        "pop_hits",
+        "rock",
+        "reggae_ska",
+        "alternative_indie",
+        "oldies",
+        "jazz",
+        "blues",
+        "latin",
+        "decade_70s",
+        "decade_60s",
+        "decade_80s",
+        "decade_90s"
+       ]
+      },
+      {
+       "name": "Народное Радио",
+       "url": "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/narodnoe.mp3",
+       "tags": [
+        "pop_hits",
+        "easy_listening",
+        "folk"
+       ]
+      }
+     ]
+    },
+    "electronic": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "D-FM 90.2",
+       "url": "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/dfm.aac",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Betelgeuse",
+       "url": "http://sat.radio-betelgeuse.com:8000/live",
+       "tags": [
+        "electronic",
+        "news_talk",
+        "chillout_lounge",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "SKY Радио Listen live",
+       "url": "https://sky.babahhcdn.com/SKY",
+       "tags": [
+        "pop_hits",
+        "electronic",
+        "christian_gospel",
+        "decade_70s"
+       ]
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Raadio 4",
+       "url": "https://icecast.err.ee/raadio4.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "easy_listening",
+        "various_eclectic",
+        "classical"
+       ]
+      },
+      {
+       "name": "Russkoe Radio",
+       "url": "https://stream.skymedia.ee/live/RR",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "folk",
+        "rock",
+        "easy_listening",
+        "hip_hop_rap"
+       ]
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "Artekon Raadio Tallinn",
+       "url": "https://myradio24.org/5566",
+       "tags": [
+        "pop_hits",
+        "electronic"
+       ]
+      },
+      {
+       "name": "D-FM",
+       "url": "https://le08.euddn.net/9e66fa7c09ac134a900eeabfb85702a059d3e6a13a958993bf09693079a363569f44b6838fa3a7eeaa6ff9a53ae24493457c078c3a932d5fd2a7001c8518b7a332320cf0d5c80218f2a0128feb18bcf31a1617f49f47af8effe6fdd7a48b3e56d5dce41b564cad8fac459b6ae1e0f4b57fbc5dfbe3d0ecbf46967d538b045101b48c1f4bab5db018097fc7579e51d9403e40240b33cac56675979aabf8e1f6fe/dfm.aac"
+      },
+      {
+       "name": "Russkoe Radio 90.6 FM",
+       "url": "http://rr.babahhcdn.com/RR"
+      },
+      {
+       "name": "Sky Radio",
+       "url": "https://stream.skymedia.ee/live/SKY",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "electronic"
+       ]
+      }
+     ]
+    },
+    "rock": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Russkoe Radio",
+       "url": "https://stream.skymedia.ee/live/rrock",
+       "tags": [
+        "rock",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Русское Радио",
+       "url": "http://edge02.cdn.bitflip.ee:8888/RR",
+       "tags": [
+        "pop_hits",
+        "rock"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "English": {
+   "count": 7,
+   "genres": {
+    "electronic": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Doubleclap Radio",
+       "url": "https://s3.radio.co/scfd7273b2/listen",
+       "tags": [
+        "electronic",
+        "chillout_lounge",
+        "house",
+        "trance_goa",
+        "ambient_relax",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "XLTRAX Estonia",
+       "url": "http://xltrax.com:8000/"
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Crypto24Radio",
+       "url": "http://n09.radiojar.com/exrd1tp5mceuv.mp3"
+      },
+      {
+       "name": "Crypto24Radio",
+       "url": "https://stream.radiojar.com/exrd1tp5mceuv",
+       "tags": [
+        "news_talk",
+        "world",
+        "techno",
+        "soul_rnb_funk",
+        "rock",
+        "pop_hits",
+        "country",
+        "drum_and_bass"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "SKY Gold",
+       "url": "https://skymedia-live.bitflip.ee/SKYgold"
+      },
+      {
+       "name": "Sky Plus DNB",
+       "url": "https://skymedia-live.bitflip.ee/NRJdnb"
+      },
+      {
+       "name": "sooviraadio.net",
+       "url": "http://play.sooviraadio.net:8888/stream.mp3"
+      }
+     ]
+    }
+   }
+  },
+  "Finnish": {
+   "count": 3,
+   "genres": {
+    "electronic": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "IDA",
+       "url": "https://broadcast.idaidaida.net:8000/stream?n=86ddcbdeee679e68cc92"
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Võmba FM",
+       "url": "https://c4.radioboss.fm:18123/stream.m3u?n=31185c14b4ec983b5864",
+       "tags": [
+        "pop_hits",
+        "decade_90s"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "SSS-Radio",
+       "url": "http://217.146.76.112:8000/sss-radio"
+      }
+     ]
+    }
+   }
+  },
+  "Ukrainian": {
+   "count": 1,
+   "genres": {
+    "christian_gospel": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Semeinoje Radio",
+       "url": "https://icecast.pereraadio.ee:9000/Semeinoje",
+       "tags": [
+        "christian_gospel",
+        "pop_hits"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Latvian": {
+   "count": 1,
+   "genres": {
+    "pop_hits": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Spin FM",
+       "url": "http://87.110.219.34:8000/spinmp3",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "electronic"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Swahili": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Tzgospel swahili",
+       "url": "https://stream.zeno.fm/5v2a0d7dgfhvv"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

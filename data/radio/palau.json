@@ -1,0 +1,52 @@
+{
+ "country": "Palau",
+ "count": 3,
+ "languages": {
+  "Macedonian": {
+   "count": 2,
+   "genres": {
+    "classical": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Vmro Makedonija",
+       "url": "http://s2.free-shoutcast.com:18158",
+       "tags": [
+        "pop_hits",
+        "classical",
+        "jazz",
+        "world",
+        "folk",
+        "decade_80s"
+       ]
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Station Beta, Koror radio",
+       "url": "https://stream.zeno.fm/bukxown5lsotv",
+       "language_inferred": true
+      }
+     ]
+    }
+   }
+  },
+  "English": {
+   "count": 1,
+   "genres": {
+    "christian_gospel": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Tzgospel swahili (Palau) radio",
+       "url": "https://stream.zeno.fm/hfwt090mffhvv"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

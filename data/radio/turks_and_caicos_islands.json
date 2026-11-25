@@ -1,0 +1,306 @@
+{
+ "country": "Turks and Caicos Islands",
+ "count": 33,
+ "languages": {
+  "English": {
+   "count": 26,
+   "genres": {
+    "christian_gospel": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Faith FM",
+       "url": "http://rojtc.homeip.net:8000",
+       "language_inferred": true
+      },
+      {
+       "name": "Hope Radio TCI",
+       "url": "http://5.135.158.214:19326",
+       "language_inferred": true
+      }
+     ]
+    },
+    "electronic": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Super Rede Boa Vontade DF AM 1210 Listen live",
+       "url": "https://9000.brasilstream.com.br/server",
+       "tags": [
+        "christian_gospel",
+        "electronic"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "hip_hop_rap": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Pulsar - Carpe Diem Listen live",
+       "url": "https://ns3059752.ip-5-135-166.eu/server",
+       "tags": [
+        "rock",
+        "reggae_ska",
+        "hip_hop_rap",
+        "classical",
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "kids": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "RADIO  PINTOS",
+       "url": "https://stream.zeno.fm/wya216admy8uv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "98.9 Faith FM radio",
+       "url": "http://204.13.104.119:8000",
+       "tags": [
+        "christian_gospel",
+        "news_talk",
+        "rock"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Turks &ampamp Caicos RTCFM",
+       "url": "https://allin1media.co.uk/rtc1",
+       "tags": [
+        "news_talk",
+        "hip_hop_rap",
+        "electronic",
+        "folk",
+        "soul_rnb_funk",
+        "pop_hits",
+        "reggae_ska"
+       ]
+      },
+      {
+       "name": "RTC Station Listen live",
+       "url": "https://streamingv2.shoutcast.com/radio-turks-caicos",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "reggae_ska",
+        "rock",
+        "latin",
+        "punk"
+       ]
+      }
+     ]
+    },
+    "oldies": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radyo Ayvalık",
+       "url": "https://radyo1.radyo-dinle.tc:7002/stream/1/",
+       "tags": [
+        "oldies",
+        "easy_listening"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "88 JAMZ",
+       "url": "http://198.143.144.226:8057/stream",
+       "tags": [
+        "pop_hits",
+        "various_eclectic",
+        "soul_rnb_funk",
+        "reggae_ska",
+        "latin",
+        "hip_hop_rap",
+        "world"
+       ]
+      },
+      {
+       "name": "Power 92.5 FM",
+       "url": "http://smi.ss32support.com:8092/",
+       "tags": [
+        "pop_hits",
+        "world"
+       ]
+      }
+     ]
+    },
+    "rock": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radiotiede",
+       "url": "http://www.radiotiede.net.tc",
+       "tags": [
+        "rock",
+        "pop_hits"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      }
+     ]
+    },
+    "soul_rnb_funk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Platinum Sounds Radio",
+       "url": "http://s2.yesstreaming.net:7212/",
+       "tags": [
+        "pop_hits",
+        "soul_rnb_funk",
+        "hip_hop_rap",
+        "electronic"
+       ]
+      }
+     ]
+    },
+    "world": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Island FM – 93.9 FM – Cockburn Town",
+       "url": "http://s2.voscast.com:11344",
+       "language_inferred": true
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 12,
+     "stations": [
+      {
+       "name": "Estacao Musical",
+       "url": "https://stream.zeno.fm/nk38rm3fqm0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "GABRIEL LIVE RADIO",
+       "url": "https://stream.zeno.fm/2c8vqek0808uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Island FM",
+       "url": "http://s2.voscast.com:11344/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Joy Radio",
+       "url": "https://stream.zeno.fm/ecxiuucbntbuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Kavanoz Radyo",
+       "url": "https://stream.zeno.fm/ew2th3x2pf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Lightbourne105",
+       "url": "https://stream.zeno.fm/udn3ns862hhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "R_R bingo",
+       "url": "https://stream.zeno.fm/471pchk72hhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "racionais",
+       "url": "https://stream.zeno.fm/5vxe1ctg9rhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Example of Christ",
+       "url": "http://rec951.primcast.com:6618/stream.mp3"
+      },
+      {
+       "name": "RTC Radio Turks and Caicos – Cockburn Town",
+       "url": "http://streamingv2.shoutcast.com/radio-turks-caicos?lang=en-GB%2Cen%3Bq%3D0.9/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "Trappa Hitman Minimal Techno",
+       "url": "https://stream.zeno.fm/wsq878e0janvv",
+       "language_inferred": true
+      },
+      {
+       "name": "TURN UP SONG FM",
+       "url": "https://stream.zeno.fm/cu3ekrrr008uv",
+       "language_inferred": true
+      }
+     ]
+    }
+   }
+  },
+  "Turkish": {
+   "count": 6,
+   "genres": {
+    "unclassified": {
+     "count": 6,
+     "stations": [
+      {
+       "name": "Biber FM",
+       "url": "https://radyo1.radyo-dinle.tc:8142/",
+       "country_inferred": true
+      },
+      {
+       "name": "Doksanlar FM",
+       "url": "https://radyo1.radyo-dinle.tc:8134/",
+       "country_inferred": true
+      },
+      {
+       "name": "Genç Türk FM oNaİR Radyo",
+       "url": "https://stream.zeno.fm/0mhfv2bgkf9uv"
+      },
+      {
+       "name": "Radyo Melon",
+       "url": "http://radyo1.radyo-dinle.tc:8128/stream",
+       "country_inferred": true
+      },
+      {
+       "name": "Radyo Next Star",
+       "url": "https://radyo1.radyo-dinle.tc:7082/",
+       "country_inferred": true
+      },
+      {
+       "name": "Radyo Niva",
+       "url": "http://radyo1.radyo-dinle.tc:8214/",
+       "country_inferred": true
+      }
+     ]
+    }
+   }
+  },
+  "Swahili": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Tzgospel swahili",
+       "url": "https://stream.zeno.fm/ry5wkqz4kfhvv"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

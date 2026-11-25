@@ -1,0 +1,3543 @@
+{
+ "country": "Belarus",
+ "count": 523,
+ "languages": {
+  "Russian": {
+   "count": 464,
+   "genres": {
+    "acid_jazz": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Monte Carlo",
+       "url": "http://ample-zeno-13.radiojar.com:80/cr5w3wtya24tv?rj-ttl=5&rj-token=AAABYo0G7zbqFuYGuEN7tPMx4NDeG6bwe1rZ-HV99cpfPZ_3RQcwtw",
+       "tags": [
+        "chillout_lounge",
+        "acid_jazz"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "alternative_indie": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "APlus – Rock",
+       "url": "http://live.bn.by:8000/aplus_rock_128",
+       "tags": [
+        "alternative_indie",
+        "techno"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "maladostc-",
+       "url": "http://195.133.75.39:8000/online",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Plato",
+       "url": "https://stream.pcradio.ru/rad_bypla-med",
+       "tags": [
+        "electronic",
+        "alternative_indie"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Маладосць",
+       "url": "http://46.29.114.161:8000/online",
+       "language_inferred": true
+      }
+     ]
+    },
+    "ambient_relax": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Monte Carlo Lounge Radio",
+       "url": "https://stream.pcradio.ru/montecarlo_cf-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Radyo Relax Radio",
+       "url": "https://stream.pcradio.ru/relax_by-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Канал Культура Listen live",
+       "url": "https://video.tvr.by:8443/culture",
+       "tags": [
+        "news_talk",
+        "ambient_relax"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "blues": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Wave Minsk",
+       "url": "http://streaming.telecom.by:8000/mvolna",
+       "tags": [
+        "rock",
+        "blues",
+        "soul_rnb_funk",
+        "hip_hop_rap",
+        "electronic",
+        "decade_90s",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "chillout_lounge": {
+     "count": 6,
+     "stations": [
+      {
+       "name": "Aplus Relax",
+       "url": "http://shoutcast.aplus.by:9000/aplus_relax_24.aac?type=.flv",
+       "tags": [
+        "chillout_lounge",
+        "ambient_relax"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "MEGA Light",
+       "url": "https://stream-40.zeno.fm/fmfx2uvvqg8uv",
+       "tags": [
+        "chillout_lounge",
+        "ambient_relax"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio SAR BY",
+       "url": "http://radio.sar.by:8000/aac/64.mp3",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO SAR BY",
+       "url": "http://radio.sar.by:8000/mp364/stream.mp3",
+       "tags": [
+        "pop_hits",
+        "chillout_lounge"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "RadioMIX",
+       "url": "https://stream.radiomix.dance/radiomix",
+       "tags": [
+        "pop_hits",
+        "chillout_lounge",
+        "electronic"
+       ]
+      },
+      {
+       "name": "Радио Гродно",
+       "url": "https://stream.radiogrodno.by:8005/rgfm",
+       "country_inferred": true,
+       "language_inferred": true
+      }
+     ]
+    },
+    "christian_gospel": {
+     "count": 7,
+     "stations": [
+      {
+       "name": "DWG Radio Slovo",
+       "url": "https://stream.pcradio.ru/dwg_radioslovo-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Mariya (Минск)",
+       "url": "https://stream.pcradio.ru/rad_rdmaryby-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Vechnost",
+       "url": "https://stream.pcradio.ru/rad_vechn-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio “123”",
+       "url": "http://93.84.112.253:8036/stream",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "TransWorld Radio Belarus (TWR)",
+       "url": "https://stream.pcradio.ru/twr_belarus-med",
+       "language_inferred": true
+      },
+      {
+       "name": "«Открытое Слово» - христианское радио Listen live",
+       "url": "https://rs.radioslovo.net:4055/server",
+       "language_inferred": true
+      },
+      {
+       "name": "Радио 123",
+       "url": "http://139.162.156.56:8173/stream"
+      }
+     ]
+    },
+    "classical": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "BR R Kultura",
+       "url": "http://stream2.datacenter.by:8000/kultura",
+       "language_inferred": true
+      },
+      {
+       "name": "BR R Kultura",
+       "url": "https://stream.hoster.by/tvrbyradio/cultura/icecast.audio",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Kultura",
+       "url": "https://stream.hoster.by/tvrby/culture/icecast.audio",
+       "country_inferred": true,
+       "language_inferred": true
+      }
+     ]
+    },
+    "college_community": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Fooligans",
+       "url": "https://stream.zeno.fm/v2ivremxeq0tv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "comedy": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "drimedaada",
+       "url": "https://stream.zeno.fm/15ew8h4up0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Humor FM (Minsk) Radio",
+       "url": "https://stream.pcradio.ru/humorfm_by-med",
+       "language_inferred": true
+      },
+      {
+       "name": "NieBC station",
+       "url": "https://stream.zeno.fm/h5ca7rhhdc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Юмор FM",
+       "url": "http://live.humorfm.by:8000/veseloeradio"
+      }
+     ]
+    },
+    "disco_eurodance": {
+     "count": 6,
+     "stations": [
+      {
+       "name": "Didyulya Radio",
+       "url": "https://stream.pcradio.ru/Didulya-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Kraski Radio",
+       "url": "https://stream.pcradio.ru/Kraski-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Leprikonsy Radio",
+       "url": "https://stream.pcradio.ru/leprikonsy-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Lyapis Trubetskoy Radio",
+       "url": "https://stream.pcradio.ru/Lyapis_Trubickoy-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Mogilev",
+       "url": "http://stream2.datacenter.by:8011/tvrmogilev",
+       "tags": [
+        "chillout_lounge",
+        "disco_eurodance"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Syabry Radio",
+       "url": "https://stream.pcradio.ru/syabry-med",
+       "language_inferred": true
+      }
+     ]
+    },
+    "drum_and_bass": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Аплюс - Beat",
+       "url": "http://s.aplus.fm:9000/aplus_beat_128",
+       "tags": [
+        "drum_and_bass",
+        "techno"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 21,
+     "stations": [
+      {
+       "name": "1st National Radio",
+       "url": "https://stream.hoster.by/tvrbyradio/radio1/icecast.audio",
+       "tags": [
+        "pop_hits",
+        "easy_listening",
+        "various_eclectic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Alpha Radio Belarus",
+       "url": "https://www.liveradio.es/http://live.alpha.by:7000/alpha",
+       "tags": [
+        "easy_listening",
+        "decade_80s",
+        "decade_90s",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Dushevnoe radio 105,7 FM",
+       "url": "https://stream.pcradio.ru/dushevnoeradio_by-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Gomel City Radio 107,4 FM",
+       "url": "https://stream.pcradio.ru/gomel_city_1074-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Love Is Radio",
+       "url": "http://listen1.myradio24.com:9000/3355",
+       "tags": [
+        "easy_listening",
+        "pop_hits",
+        "world",
+        "decade_90s"
+       ]
+      },
+      {
+       "name": "Love Is Radio",
+       "url": "https://myradio24.org/3355",
+       "tags": [
+        "easy_listening",
+        "pop_hits",
+        "world"
+       ]
+      },
+      {
+       "name": "Mir (Minsk) Radio",
+       "url": "https://stream.pcradio.ru/mir_minsk-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Molodechno FM - Молодечно FM",
+       "url": "http://82.209.204.146:8000/MolodechnoFM",
+       "language_inferred": true
+      },
+      {
+       "name": "Novoe Radio Belarus",
+       "url": "http://live.bn.by:8000/novoeradio_128/stream.mp3",
+       "tags": [
+        "pop_hits",
+        "easy_listening"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Pravda Radio Gomel",
+       "url": "https://stream.pcradio.ru/pravda_gomel-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Brest 104,8 FM",
+       "url": "https://stream.pcradio.ru/radiobrest_by-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Mir",
+       "url": "https://www.liveradio.es/http://217.23.126.106:8002/radio2.mir",
+       "tags": [
+        "news_talk",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Parallelniy mir",
+       "url": "https://stream.pcradio.ru/rad_parllelnmir-med",
+       "tags": [
+        "easy_listening",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "ROKS (Minsk) Radio",
+       "url": "https://stream.pcradio.ru/roks_minsk-med",
+       "tags": [
+        "easy_listening",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "S13 Radio",
+       "url": "https://stream.pcradio.ru/s13_grodno-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Skif 99,9 FM (Orsha) Radio",
+       "url": "https://stream.pcradio.ru/skif_orsha-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Unistar 99.5 FM - Minsk",
+       "url": "https://stream.hoster.by/unistar/unistar-128kb/icecast.audio",
+       "tags": [
+        "pop_hits",
+        "easy_listening",
+        "decade_90s"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Unistar Office Channel",
+       "url": "https://advertizer.hoster.by/unistar/unistar_lyric-128/icecast.audio",
+       "tags": [
+        "various_eclectic",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Барановичи FM (Baranovichi FM)",
+       "url": "http://radio.100fm.by:8000/100fm128",
+       "tags": [
+        "easy_listening",
+        "pop_hits",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Гомель Радио",
+       "url": "http://gomeltv.by:2015/gomelradio"
+      },
+      {
+       "name": "Народное Гродно 87.5 FM",
+       "url": "https://live.novoeradio.by:444/live/narodnoeradio_aac128/icecast.audio",
+       "tags": [
+        "pop_hits",
+        "easy_listening",
+        "various_eclectic"
+       ]
+      }
+     ]
+    },
+    "electronic": {
+     "count": 23,
+     "stations": [
+      {
+       "name": "Aplus Radio",
+       "url": "http://shoutcast.aplus.by:9000/aplus_128",
+       "tags": [
+        "electronic",
+        "trance_goa",
+        "various_eclectic",
+        "soundtrack",
+        "house",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Energy FM 100.4 Radio",
+       "url": "https://stream.pcradio.ru/energy1004_by-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Gomel FM Radio",
+       "url": "https://stream.pcradio.ru/gomelfm_by-med",
+       "language_inferred": true
+      },
+      {
+       "name": "IMPULSE RADIIO",
+       "url": "http://radio.dline-media.com/impulse",
+       "language_inferred": true
+      },
+      {
+       "name": "MEGA Gold",
+       "url": "https://stream-59.zeno.fm/o7j1seacdcivv?",
+       "language_inferred": true
+      },
+      {
+       "name": "MEGA Pulse",
+       "url": "https://stream-47.zeno.fm/8v33n6vvqg8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "NETradioWOT",
+       "url": "https://stream.pcradio.ru/rad_ntrdb-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Novoe Radio MEGAMIX",
+       "url": "https://live.novoeradio.by:444/live/novoeradio_megamix_aac128/icecast.audio",
+       "tags": [
+        "electronic",
+        "house"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Pilot FM Radio",
+       "url": "https://stream.pcradio.ru/pilotfm_com-med",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "PRORADIO (Minsk) Radio",
+       "url": "https://stream.pcradio.ru/rad_pradiobelrus-med",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 4YOU",
+       "url": "https://stream.pcradio.ru/fouryou_bel-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Aplus FM Deep",
+       "url": "https://s.aplus.fm/aplus_deep_128",
+       "tags": [
+        "electronic",
+        "house",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "RadioMIX",
+       "url": "http://gr2.koro.by:8000/radiomix"
+      },
+      {
+       "name": "Radius FM",
+       "url": "https://stream.radiusfm.by/tvrbyradio/radius_main/icecast.audio",
+       "tags": [
+        "news_talk",
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "SynthezNet",
+       "url": "http://air.synthez.net:8000/192.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "TFM Radio",
+       "url": "http://listen6.myradio24.com:9000/1102"
+      },
+      {
+       "name": "Wargaming FM 2",
+       "url": "https://sv.wargaming.fm/2/128",
+       "tags": [
+        "electronic",
+        "soundtrack",
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "WGFM Main Channel",
+       "url": "http://sv.wargaming.fm:8051/128",
+       "tags": [
+        "pop_hits",
+        "electronic"
+       ]
+      },
+      {
+       "name": "WGFM Second Channel",
+       "url": "http://sv.wargaming.fm:8052/128",
+       "tags": [
+        "electronic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "WGFM Trance",
+       "url": "http://sv.wargaming.fm:8053/128"
+      },
+      {
+       "name": "Новое радио - Wake Up Show",
+       "url": "https://live.novoeradio.by:444/live/novoeradio_wakeupshow_aac128/icecast.audio",
+       "language_inferred": true
+      },
+      {
+       "name": "Радио 4you Listen live",
+       "url": "https://a1.radioheart.ru:9003/RH17982",
+       "tags": [
+        "pop_hits",
+        "electronic",
+        "house",
+        "rock",
+        "gothic_industrial",
+        "news_talk",
+        "trance_goa",
+        "schlager_polka"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Радио Аплюс",
+       "url": "https://s.aplus.fm/aplus_128",
+       "tags": [
+        "pop_hits",
+        "electronic",
+        "rock",
+        "hip_hop_rap"
+       ]
+      }
+     ]
+    },
+    "folk": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Radio Syabry",
+       "url": "http://93.189.40.67:8131/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Rodnichok Radio",
+       "url": "https://stream.pcradio.ru/rodnichok_bel-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Радио Гродно",
+       "url": "http://178.124.203.233:8000/ogg",
+       "tags": [
+        "folk",
+        "electronic",
+        "pop_hits",
+        "chillout_lounge",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "hip_hop_rap": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "Blow Back Radio Listen live",
+       "url": "https://a9.radioheart.ru:9031/RH22303",
+       "language_inferred": true
+      },
+      {
+       "name": "HIPHOPBY Listen live",
+       "url": "https://myradio24.org/8000",
+       "tags": [
+        "hip_hop_rap",
+        "pop_hits",
+        "soul_rnb_funk",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "MEGA Live",
+       "url": "https://stream-28.zeno.fm/yhr1w9mvqg8uv?",
+       "language_inferred": true
+      },
+      {
+       "name": "MEGA Rap Live",
+       "url": "https://stream-39.zeno.fm/8fosacdrwkltv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "house": {
+     "count": 6,
+     "stations": [
+      {
+       "name": "Clubber FM",
+       "url": "https://streamingv2.shoutcast.com/Clubberby",
+       "tags": [
+        "electronic",
+        "house",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "MH•radio",
+       "url": "https://stream.mhradio.net/free.mp3",
+       "tags": [
+        "house",
+        "techno",
+        "electronic",
+        "drum_and_bass"
+       ]
+      },
+      {
+       "name": "Radio 4YOU",
+       "url": "https://listen7.myradio24.com/2455",
+       "tags": [
+        "house",
+        "techno",
+        "drum_and_bass",
+        "pop_hits",
+        "electronic",
+        "world",
+        "soul_rnb_funk",
+        "rock",
+        "gothic_industrial",
+        "country",
+        "news_talk",
+        "trance_goa"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 4you",
+       "url": "https://myradio24.org/2455",
+       "tags": [
+        "house",
+        "chillout_lounge"
+       ]
+      },
+      {
+       "name": "Soundeo FM",
+       "url": "https://listen7.myradio24.com/93299",
+       "language_inferred": true
+      },
+      {
+       "name": "Soundeo Radio",
+       "url": "http://listen1.myradio24.com:9000/2288"
+      }
+     ]
+    },
+    "jazz": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Aplus Radio Relax",
+       "url": "http://shoutcast.aplus.by:9000/aplus_relax_128",
+       "tags": [
+        "ambient_relax",
+        "jazz"
+       ]
+      },
+      {
+       "name": "Avtodom Radio",
+       "url": "http://37.17.18.122:8000/autodj",
+       "tags": [
+        "ambient_relax",
+        "jazz"
+       ]
+      },
+      {
+       "name": "HAZE",
+       "url": "https://streaming.radionomy.com/RadioPraetoria",
+       "tags": [
+        "techno",
+        "jazz"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "kids": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "RadiI bjk",
+       "url": "https://stream.zeno.fm/4atq2n25568uv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "metal": {
+     "count": 5,
+     "stations": [
+      {
+       "name": "Dzed Bardaitis",
+       "url": "https://samcloud.spacial.com/api/listen?sid=113442&m=sc&rid=195031",
+       "tags": [
+        "rock",
+        "metal"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Dzed Bardaitis Radio",
+       "url": "https://stream.pcradio.ru/dzed_bardaitis-med",
+       "tags": [
+        "rock",
+        "metal",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "MEGA Alter",
+       "url": "https://stream-29.zeno.fm/60mp6hvvqg8uv?",
+       "tags": [
+        "alternative_indie",
+        "metal"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio MetalHeads",
+       "url": "https://stream.pcradio.ru/rad_rdmtlhdsb-med",
+       "tags": [
+        "rock",
+        "metal"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "RAW SOUND/From Heavy to Grind [http://rawsound.by]",
+       "url": "http://www.rawsound.by:8080/stream/1",
+       "country_inferred": true,
+       "language_inferred": true
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 37,
+     "stations": [
+      {
+       "name": "1",
+       "url": "https://video.tvr.by:8443/radio1",
+       "tags": [
+        "news_talk",
+        "house"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Alfa Radio - Альфа Радио",
+       "url": "http://live.alpha.by:7000/alpha",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Alfa Radio 107,9 FM",
+       "url": "https://stream.pcradio.ru/rad_rdalphby-med",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Baranovichy 100 FM",
+       "url": "http://radio.100fm.by:8000/100fm",
+       "tags": [
+        "news_talk",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Channel Culture",
+       "url": "http://86.57.151.4:8009/stream.mp3",
+       "tags": [
+        "news_talk",
+        "classical",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "First channel of Belarusian radio",
+       "url": "https://stream.pcradio.ru/radio1_belarus-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Gomel Radio",
+       "url": "http://31.130.206.32:2015/gomelradio",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Kultura - Belarusian Radio",
+       "url": "https://stream.pcradio.ru/culture_by-med",
+       "language_inferred": true
+      },
+      {
+       "name": "MFM 105,0",
+       "url": "http://radio.105fm.by:8005/gpradio",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "various_eclectic",
+        "alternative_indie",
+        "blues",
+        "world"
+       ]
+      },
+      {
+       "name": "Minskaya volna (MV-Radio)",
+       "url": "https://stream.pcradio.ru/rad_minsnews-med",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Minskaya Volna FM",
+       "url": "https://stream2.datacenter.by/mvradio",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Narodnoe Radio",
+       "url": "http://live.novoeradio.by:8000/narodnoe-radio-128k",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "world",
+        "folk"
+       ]
+      },
+      {
+       "name": "Pershy Kanal",
+       "url": "https://stream2.datacenter.by/1kanal",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "classical",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Pravda Radio - Правда радио",
+       "url": "http://79.98.49.5:8132/pravda",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio 1 Belarus - 1 канал",
+       "url": "https://stream.hoster.by/tvrby/radio1/icecast.audio",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 123",
+       "url": "https://de1.internet-radio.com/proxy/belradio123/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Belarus",
+       "url": "https://stream.hoster.by/tvrbyradio/belarusfm/icecast.audio",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Belarus FM",
+       "url": "https://stream.pcradio.ru/belarus_by_fm-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Belarus Online",
+       "url": "https://stream.pcradio.ru/belarus_by_online-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Gomel Plus",
+       "url": "https://s1.radioheart.ru:8001/radiogomel",
+       "tags": [
+        "news_talk",
+        "classical",
+        "pop_hits",
+        "various_eclectic",
+        "disco_eurodance"
+       ]
+      },
+      {
+       "name": "Radio Grodno",
+       "url": "https://stream.radiogrodno.by:8005/live",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Radio Humor FM",
+       "url": "https://live.humorfm.by:8443/veseloeradio",
+       "tags": [
+        "comedy",
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Maria Belarus - Радыё Марыя",
+       "url": "https://server.radiorm.by:8443/aac",
+       "tags": [
+        "news_talk",
+        "christian_gospel",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Mir Belarus",
+       "url": "http://217.23.126.106:8002/radio2.mir",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "rock",
+        "classical",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Radio Mogilev",
+       "url": "https://stream2.datacenter.by/tvrmogilev",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Radio Mogilev",
+       "url": "https://stream.hoster.by/tvrmogilev/radiomogilev/icecast.audio",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "various_eclectic",
+        "chillout_lounge",
+        "disco_eurodance"
+       ]
+      },
+      {
+       "name": "Radio Pobeda",
+       "url": "https://stream.pcradio.ru/rad_rdpobdby-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Svaboda",
+       "url": "http://svobodanews.fvds.ru:8000/svoboda128",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio UNISTAR",
+       "url": "https://unistar.webcaramba.com/unistar_main128.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "rock",
+        "classical"
+       ]
+      },
+      {
+       "name": "Radio-Vitebsk",
+       "url": "https://stream.pcradio.ru/vtv_by-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Sputnik News - Belarus",
+       "url": "https://icecast-ruvr.cdnvideo.ru/rian.voicerus"
+      },
+      {
+       "name": "Transmitting radio in Belarus",
+       "url": "http://eu3.fastcast4u.com:5026",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Tvoe Radio",
+       "url": "http://lider-fm.by:8020/radio",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "БР Радыё Беларусь",
+       "url": "https://stream2.datacenter.by/belarusfm",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Лидер FM - 94.3 FM (Lider FM - 94.3 FM)",
+       "url": "https://lider-fm.by:8000/radio",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Рaдио Беларусь",
+       "url": "https://stream.hoster.by/tvrbyradio/belarus/icecast.audio",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Рaдио Беларусь Listen live",
+       "url": "https://video.tvr.by:8443/belfm",
+       "tags": [
+        "news_talk",
+        "world",
+        "easy_listening",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "oldies": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "Melodii Veka",
+       "url": "http://93.84.112.253:8010/MV128?1429182645609.mp3?type=.mp3/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Melodii Veka 96.2 FM",
+       "url": "http://93.84.112.253:8010/MV128",
+       "tags": [
+        "oldies",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "PEACE OF RADIO",
+       "url": "https://dr.volna.top/DushevnoeRadio48",
+       "tags": [
+        "pop_hits",
+        "oldies",
+        "classical"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Мелодии Века",
+       "url": "https://air.melodiiveka.by:8443/mv",
+       "tags": [
+        "oldies",
+        "decade_80s",
+        "decade_90s",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 54,
+     "stations": [
+      {
+       "name": "Alyaxen Radiostation",
+       "url": "https://stream.pcradio.ru/alyaxen_fm-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Aplus FM",
+       "url": "http://shoutcast.aplus.by:9000/aplus_relax_128/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Baranovichi FM 100,0 Radio",
+       "url": "https://stream.pcradio.ru/baranovichi_fm-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Center FM Radio",
+       "url": "https://stream.pcradio.ru/centerfm_by-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Energy FM 100.4 FM Listen live",
+       "url": "https://stream2.datacenter.by/energy",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "electronic",
+        "world"
+       ]
+      },
+      {
+       "name": "FM",
+       "url": "http://178.124.152.212:8008/Zefir?1502292331263",
+       "language_inferred": true
+      },
+      {
+       "name": "HZ Radio – Top 100",
+       "url": "http://radio1.hzradio.by:8000/top100",
+       "language_inferred": true
+      },
+      {
+       "name": "KryKey – Minsk Radio",
+       "url": "http://lyvstream.com:1935/KryKeyRadios/MNSK/126.stream_aac/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "Love Is Radio",
+       "url": "https://stream.pcradio.ru/loveis_by-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Mestnoe Radio",
+       "url": "http://www.mestnoe.com/pp_mestnoe_radio_2010.mp3/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Mestnoe Radio",
+       "url": "https://www.mestnoe.com/pp_mestnoe_radio_2010.mp3?type=.mp3/stream.mp3",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Narodnoe radio 87,9 FM",
+       "url": "https://stream.pcradio.ru/narodnoe_radio_1025-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Novoe Radio",
+       "url": "http://live.novoeradio.by:8000/novoeradio-128k",
+       "tags": [
+        "pop_hits",
+        "world",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Novoe Radio (Minsk)",
+       "url": "https://stream.pcradio.ru/novoeradio_by-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Novoe Radio - Top100",
+       "url": "https://stream.pcradio.ru/novoeradio_top-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Novoe Radio TOP 100",
+       "url": "https://live.novoeradio.by:444/live/novoeradio_TOP100_aac128/icecast.audio",
+       "language_inferred": true
+      },
+      {
+       "name": "Novoe Radio Top 100",
+       "url": "http://live.novoeradio.by:8000/novoeradio-TOP100-128k"
+      },
+      {
+       "name": "Pilot FM",
+       "url": "http://stream.hoster.by:8081/pilotfm/pilot/icecast.audio",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Pilot FM",
+       "url": "http://pf.volna.top/PilotBy128"
+      },
+      {
+       "name": "Pilot FM",
+       "url": "https://pf.volna.top/PilotBy48",
+       "tags": [
+        "pop_hits",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Pilot FM",
+       "url": "http://imgradio.pro/PilotBy128/stream.mp3",
+       "tags": [
+        "pop_hits",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Pilot FM - Пилот FM",
+       "url": "http://pf.volna.top:/",
+       "tags": [
+        "pop_hits",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio ART - Belarus",
+       "url": "https://listen.myrh.ru/id043279",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Ba",
+       "url": "http://mir.by:8000/radioba_48aac",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio BA 104.6 FM",
+       "url": "http://93.125.106.180:8000/BA128"
+      },
+      {
+       "name": "Radio Grodno",
+       "url": "https://stream.pcradio.ru/radio_grodno-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Minsk",
+       "url": "http://93.84.113.142:8000/radio.m3u",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Mogilev",
+       "url": "https://stream.pcradio.ru/mogilev_by-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Never",
+       "url": "https://stream.pcradio.ru/rad_rdnever-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Roks Hit Radio",
+       "url": "http://streams.radioplayer.by:8000/hit",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Vitebsk",
+       "url": "https://www.liveradio.es/http://radio.vtv.by:8000/radio_vitebsk_128",
+       "language_inferred": true
+      },
+      {
+       "name": "Radius FM Radio",
+       "url": "https://stream.pcradio.ru/radius_fm-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Rus Radio",
+       "url": "http://russkoe.ipfm.net:80/RusRadio/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "s13 Radio",
+       "url": "https://c28.radioboss.fm:18099/stream",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "jazz",
+        "electronic"
+       ]
+      },
+      {
+       "name": "TEPLOE RADIO",
+       "url": "http://radio2.teploe.net:8000/teploeradio"
+      },
+      {
+       "name": "Teploe Radio",
+       "url": "https://stream.pcradio.ru/teploe_net-med",
+       "language_inferred": true
+      },
+      {
+       "name": "transmirovoe-radio-v-belarusi",
+       "url": "http://eu3.fastcast4u.com:5026/stream/1.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Unistar  The Best",
+       "url": "https://advertizer.hoster.by/unistar/unistar_90e-128/icecast.audio",
+       "language_inferred": true
+      },
+      {
+       "name": "Unistar (Minsk) Radio",
+       "url": "https://stream.pcradio.ru/rad_nstrb-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Unistar 99.5 FM",
+       "url": "https://advertizer.hoster.by/unistar/unistar-128kb/icecast.audio",
+       "tags": [
+        "pop_hits",
+        "various_eclectic",
+        "rock",
+        "easy_listening",
+        "soul_rnb_funk"
+       ]
+      },
+      {
+       "name": "Unistar Radio",
+       "url": "http://unistar.by:8000/unistar-128kb/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Unistar Top Channel",
+       "url": "https://advertizer.hoster.by/unistar/unistar_top-128/icecast.audio"
+      },
+      {
+       "name": "Zefir FM",
+       "url": "http://178.124.152.212:8008/Zefir",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Zefir FM Radio",
+       "url": "https://stream.pcradio.ru/zefir_fm-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Альфа Радио",
+       "url": "http://listen.alpha.by:8009/",
+       "tags": [
+        "pop_hits",
+        "easy_listening",
+        "world"
+       ]
+      },
+      {
+       "name": "Гомель Плюс",
+       "url": "https://a1.radioheart.ru:8001/radiogomel",
+       "tags": [
+        "pop_hits",
+        "decade_90s",
+        "disco_eurodance"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Душевное Радио",
+       "url": "https://stream.hoster.by/pilotfm/audio/icecast.audio",
+       "tags": [
+        "pop_hits",
+        "oldies",
+        "decade_90s"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Пилот-FM",
+       "url": "https://stream.hoster.by/pilotfm/pilot/icecast.audio",
+       "tags": [
+        "pop_hits",
+        "easy_listening",
+        "rock",
+        "world",
+        "electronic"
+       ]
+      },
+      {
+       "name": "Радио s13.live",
+       "url": "https://s13.live/live"
+      },
+      {
+       "name": "Радио s13.ru",
+       "url": "http://c28.radioboss.fm:8099/autodj",
+       "language_inferred": true
+      },
+      {
+       "name": "Радио Мир - Беларусь (Межгосударственная телерадиокомпания «Мир»)",
+       "url": "https://stream2.datacenter.by/radiomir"
+      },
+      {
+       "name": "Радио Центр FM",
+       "url": "https://stream2.datacenter.by/stream",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Тёплое Радио Нетоп FM",
+       "url": "https://listen.teploe.net:8001/teploe",
+       "language_inferred": true
+      },
+      {
+       "name": "Чайная роза",
+       "url": "https://stream.volnorez.com/live-app/788219",
+       "tags": [
+        "pop_hits",
+        "folk"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "rock": {
+     "count": 49,
+     "stations": [
+      {
+       "name": "Alyaxen Radiostation Listen live",
+       "url": "https://myradio24.org/alyaxen",
+       "tags": [
+        "rock",
+        "pop_hits",
+        "world",
+        "kids"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Aplus Radio Rock",
+       "url": "https://s.aplus.fm/aplus_rock_64",
+       "tags": [
+        "rock",
+        "alternative_indie"
+       ]
+      },
+      {
+       "name": "Aplus Rock",
+       "url": "http://shoutcast.aplus.fm:9000/aplus_rock_128",
+       "language_inferred": true
+      },
+      {
+       "name": "Aplus Rock Radio",
+       "url": "https://stream.pcradio.ru/aplus_rock-med",
+       "language_inferred": true
+      },
+      {
+       "name": "AvtoRadio (Minsk)",
+       "url": "https://stream.pcradio.ru/avtoradio_by-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Avtoradio - Авторадио",
+       "url": "http://live.humorfm.by:8000/avtoradio",
+       "language_inferred": true
+      },
+      {
+       "name": "Bel-Muz радио",
+       "url": "https://radio.belmuz.by:8005/stream?ver=779363",
+       "tags": [
+        "rock",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "BelMuz",
+       "url": "https://radio.belmuz.by:8010/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Dzed Bardaitis Radio",
+       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SAM03AAC337.aac",
+       "tags": [
+        "rock",
+        "folk",
+        "metal",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Euroradio",
+       "url": "https://securestream.euroradio.fm/euroradio4?seed=1596963709",
+       "language_inferred": true
+      },
+      {
+       "name": "Euroradio FM - Alternative",
+       "url": "https://stream.pcradio.ru/euroradio_fm-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Euroradio FM - Only BY",
+       "url": "https://stream.pcradio.ru/euroradio_by-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Euroradio FM - Soft Rock",
+       "url": "https://stream.pcradio.ru/euroradio_soro-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Hitroe Radio",
+       "url": "https://stream.pcradio.ru/rad_behitroye-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Kompas FM 102,5 FM Radio",
+       "url": "https://stream.pcradio.ru/kompas_fm-med",
+       "tags": [
+        "rock",
+        "electronic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "MEGA Chanson",
+       "url": "https://stream-29.zeno.fm/30kubkgj9odtv?",
+       "tags": [
+        "rock",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "MEGA Rock Live",
+       "url": "https://stream-39.zeno.fm/b5nqnawvqg8uv",
+       "tags": [
+        "rock",
+        "metal"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "MetalHeads Listen live",
+       "url": "https://metalheads.space:666/radio/8000/radio",
+       "tags": [
+        "rock",
+        "hip_hop_rap",
+        "metal"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "MFM",
+       "url": "http://radio.105fm.by:8005/radio105.0mfm",
+       "tags": [
+        "rock",
+        "decade_80s",
+        "decade_90s"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Minsk Radio",
+       "url": "https://stream.pcradio.ru/radiominsk_by-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 97",
+       "url": "https://stream.pcradio.ru/radio97_net-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio @Plus",
+       "url": "http://shoutcast.byfly.by:8000",
+       "tags": [
+        "rock",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Minsk",
+       "url": "https://radio.mk.by:8443/mk128",
+       "tags": [
+        "rock",
+        "classical",
+        "pop_hits",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Radio Minsk",
+       "url": "https://www.liveradio.es/http://93.84.113.142:8000/radio",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Minsk - Радио Минск",
+       "url": "http://178.172.236.179:8000/mk128",
+       "tags": [
+        "rock",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Roks Classic Rock",
+       "url": "http://streams.radioplayer.by:8000/rock",
+       "tags": [
+        "rock",
+        "classical"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Roks M",
+       "url": "http://81.19.85.196:80/roks48.mp3/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Roks Russian Rock",
+       "url": "http://streams.radioplayer.by:8000/rusrock",
+       "language_inferred": true
+      },
+      {
+       "name": "radio-bi-ej",
+       "url": "http://93.125.106.180:8000/BA128?1531634611704.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radiofamily Sound",
+       "url": "https://server32854.streamplus.de/stream.mp3",
+       "tags": [
+        "rock",
+        "metal",
+        "schlager_polka",
+        "disco_eurodance",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Raw Sound",
+       "url": "http://www.rawsound.by:8080/",
+       "language_inferred": true
+      },
+      {
+       "name": "Rawsound",
+       "url": "http://stream.rawsound.by:8080/?n=6fb06503bee846895558"
+      },
+      {
+       "name": "Rawsound mobile",
+       "url": "http://stream.rawsound.by:8090/?n=1d379d015256fa7842fb"
+      },
+      {
+       "name": "RDE Listen live",
+       "url": "https://stream.laut.fm/rde?ref=radiode",
+       "tags": [
+        "rock",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Rock-omlet",
+       "url": "http://radio.rock-omlet.com:8000/live",
+       "tags": [
+        "rock",
+        "alternative_indie",
+        "blues",
+        "jazz",
+        "various_eclectic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Rock-omlet",
+       "url": "http://rock-omlet.us.to:8000/live",
+       "language_inferred": true
+      },
+      {
+       "name": "Rus Radio Minsk",
+       "url": "http://live.rusradio.by:8000/live/stream.mp3",
+       "tags": [
+        "pop_hits",
+        "rock"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Stalitsa Radio",
+       "url": "https://stream.pcradio.ru/radiostalica_by-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Unistar",
+       "url": "https://advertizer.hoster.by/unistar/unistar_rnr-128/icecast.audio",
+       "language_inferred": true
+      },
+      {
+       "name": "Wargaming.FM",
+       "url": "http://sv.wargaming.fm:8051/256",
+       "tags": [
+        "rock",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Авторадио",
+       "url": "http://live.humorfm.by:8000/avtoradio-high.m3u?n=f1a13eea65aa980a9f83"
+      },
+      {
+       "name": "Авторадио Беларусь",
+       "url": "http://live.humorfm.by:8000/avtoradio-high?n=62c6984e8fa1a2aacbd5",
+       "tags": [
+        "rock",
+        "classical"
+       ]
+      },
+      {
+       "name": "Авторадио Беларусь Low",
+       "url": "http://live.humorfm.by:8000/avtoradio-low?n=374978b50aade2907336",
+       "tags": [
+        "rock",
+        "classical"
+       ]
+      },
+      {
+       "name": "Компас FM",
+       "url": "https://radio.mil.by/live",
+       "tags": [
+        "rock",
+        "pop_hits",
+        "electronic"
+       ]
+      },
+      {
+       "name": "Радио Би-Эй",
+       "url": "https://air.radioba.by:8443/ba"
+      },
+      {
+       "name": "Радио Минск",
+       "url": "http://93.84.113.142:8000/ogg"
+      },
+      {
+       "name": "Радио Эксперимент Listen live",
+       "url": "https://rde.stream.laut.fm/rde",
+       "tags": [
+        "rock",
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Радыё Сталіца Listen live",
+       "url": "https://video.tvr.by:8443/stolica",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Рок-Омлет",
+       "url": "https://radio.rock-omlet.com/live",
+       "tags": [
+        "rock",
+        "blues",
+        "metal",
+        "punk",
+        "alternative_indie",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "soul_rnb_funk": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Hip-Hop by",
+       "url": "http://online.hiphop.by:9000/8000",
+       "tags": [
+        "soul_rnb_funk",
+        "hip_hop_rap"
+       ]
+      },
+      {
+       "name": "Radio Plato",
+       "url": "http://212.83.150.15:8271/stream",
+       "tags": [
+        "soul_rnb_funk",
+        "alternative_indie",
+        "electronic"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "soundtrack": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Wargaming FM TRANCE",
+       "url": "https://sv.wargaming.fm/3/128",
+       "tags": [
+        "news_talk",
+        "soundtrack"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "techno": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Новое радио - Fresh",
+       "url": "https://live.novoeradio.by:444/live/novoeradio_fresh_aac128/icecast.audio",
+       "tags": [
+        "techno",
+        "house"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "various_eclectic": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Euro Radio",
+       "url": "http://fr.euroradio.fm:8100/",
+       "language_inferred": true
+      },
+      {
+       "name": "Юмор FM - 93.7 FM (Humor FM - 93.7 FM)",
+       "url": "https://pub0302.101.ru:8443/stream/air/aac/64/102",
+       "tags": [
+        "various_eclectic",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "world": {
+     "count": 5,
+     "stations": [
+      {
+       "name": "MFM",
+       "url": "http://radio.105fm.by:8005/",
+       "language_inferred": true
+      },
+      {
+       "name": "Барановичи FM",
+       "url": "http://radio.100fm.by:8000/streamaac",
+       "tags": [
+        "pop_hits",
+        "world"
+       ]
+      },
+      {
+       "name": "Радио Unistar",
+       "url": "https://advertizer.hoster.by/unistar/unistar-128kb/playlist.m3u8",
+       "tags": [
+        "pop_hits",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Радио Беларусь FM/Radio Belarus FM",
+       "url": "http://stream2.datacenter.by:8009/belarusfm"
+      },
+      {
+       "name": "Русское радио - Минск Listen live",
+       "url": "https://stream.hoster.by/rusradio/russkoe/icecast.audio",
+       "tags": [
+        "pop_hits",
+        "world",
+        "rock",
+        "christian_gospel"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 206,
+     "stations": [
+      {
+       "name": "\"Radio \"\"123\"\"\"",
+       "url": "http://de1.internet-radio.com:8173/stream"
+      },
+      {
+       "name": "\"Radio \"\"Prabhupada\"\"\"",
+       "url": "https://prabhupada.info:8443/play"
+      },
+      {
+       "name": "100percent EVSEYCHIK",
+       "url": "https://stream.zeno.fm/necxub3bgphvv",
+       "language_inferred": true
+      },
+      {
+       "name": "1337 FM",
+       "url": "https://stream.zeno.fm/4t2zvqw4gd0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "4hunnid",
+       "url": "https://stream.zeno.fm/8zdd0dn13rhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "666_Acoustic",
+       "url": "https://stream.zeno.fm/o7j1seacdcivv",
+       "language_inferred": true
+      },
+      {
+       "name": "action_anime",
+       "url": "https://stream.zeno.fm/yzk6speatnltv",
+       "language_inferred": true
+      },
+      {
+       "name": "Alemao",
+       "url": "https://stream.zeno.fm/rvxcvpvpu98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "ALEX ALEDY WEB",
+       "url": "https://stream.zeno.fm/rmzs0m5bqrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Alfaradio",
+       "url": "http://live.alpha.by:8000/alpha?n=3c363d68bf9505047b28",
+       "language_inferred": true
+      },
+      {
+       "name": "Anathos",
+       "url": "https://stream.zeno.fm/ttogeknk32fuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Antipode Radio",
+       "url": "http://rs1.radiostreamer.com:8920/listen.mp3?type=.mp3/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Antipode Radio",
+       "url": "http://rs1.radiostreamer.com:8920/listen.mp3/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Aplus One aac, 16 kb/s",
+       "url": "http://s.aplus.fm:9000/aplus_16.aac?n=811d67df0a0068a2a8ef"
+      },
+      {
+       "name": "BeeLife",
+       "url": "https://stream.zeno.fm/hk07wqaana0uv"
+      },
+      {
+       "name": "Bel-Muz радио",
+       "url": "http://77.83.174.163:8030/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "BR 2 Kanal Kultura",
+       "url": "http://video.tvr.by:1935/radio/culture/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "Brega funk",
+       "url": "https://stream.zeno.fm/e319yx1xba9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Channel Culture",
+       "url": "http://video.tvr.by:8000/culture",
+       "language_inferred": true
+      },
+      {
+       "name": "Clubber",
+       "url": "https://stream.zeno.fm/e2wg0d2xurhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Dead Presidents",
+       "url": "https://stream.zeno.fm/2wicmca29oauv",
+       "language_inferred": true
+      },
+      {
+       "name": "DeadInside FM",
+       "url": "https://stream.zeno.fm/trhua3eyuhhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "DM RADIO",
+       "url": "https://stream.zeno.fm/rdcx3mc3cy8uv"
+      },
+      {
+       "name": "Dushevnoe Radio – 105.7 FM – Minsk – Minsk City – BY",
+       "url": "http://stream.hoster.by:8081/pilotfm/audio/icecast.audio?51",
+       "language_inferred": true
+      },
+      {
+       "name": "E.Point FM",
+       "url": "https://stream.zeno.fm/r0vhcdawrnhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "East Side.mp3",
+       "url": "https://stream.zeno.fm/u3yf2f63mfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "espinoza_fm",
+       "url": "https://stream.zeno.fm/9d1e1gqq3nhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "espinoza_fm",
+       "url": "https://stream.zeno.fm/zmvyqmqq3nhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Euroradio",
+       "url": "http://stream1.euroradio.fm:8000/euroradio3",
+       "language_inferred": true
+      },
+      {
+       "name": "FM",
+       "url": "http://93.125.31.151:8000/ont",
+       "language_inferred": true
+      },
+      {
+       "name": "Gomel Plus 103,7 FM Radio",
+       "url": "https://stream.pcradio.ru/gomelplus_by-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Guira FM",
+       "url": "https://streams.radiomast.io/ce42a7f0-b3a7-47ee-9eb2-97009bba3c2a",
+       "language_inferred": true
+      },
+      {
+       "name": "gujwno",
+       "url": "https://stream.zeno.fm/u94p4x83vc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Happy Radio",
+       "url": "https://stream.zeno.fm/v3h8m59s1zhvv"
+      },
+      {
+       "name": "Hard Salsa Bogotá",
+       "url": "http://usa1.fastcast4u.com:2126/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "HellRadio",
+       "url": "https://stream.zeno.fm/28eungtz71zuv"
+      },
+      {
+       "name": "HIPHOPBY",
+       "url": "https://stream.zeno.fm/9w9btwbsyhhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "HIT Radio 100.4",
+       "url": "http://87.252.227.241:8000/?1429178120740.mp3?type=.mp3/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "hristianskoe-radio-otkritoe-slovo",
+       "url": "https://rs.radioslovo.net:4055/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "LazyFM",
+       "url": "https://stream.zeno.fm/affgqygbg0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Legendy FM Radio",
+       "url": "https://stream.pcradio.ru/legendy_by-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Leproradio – Minsk – Minsk City – BY",
+       "url": "https://relay.leproradio.com/bender.ogg?effe0af3a412d9b918514219bf181951cb2a4934",
+       "language_inferred": true
+      },
+      {
+       "name": "LetsNestRadio",
+       "url": "https://stream.zeno.fm/mccutpd0sxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "LiaRadio",
+       "url": "https://stream.zeno.fm/3pgmg4fnyrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "lofi radios - DeadSoul live",
+       "url": "https://stream.zeno.fm/eub2a5kfzhduv",
+       "language_inferred": true
+      },
+      {
+       "name": "lpskira",
+       "url": "https://stream.zeno.fm/fzmxmy9811quv",
+       "language_inferred": true
+      },
+      {
+       "name": "Mandelaoooo",
+       "url": "https://stream.zeno.fm/p05ttayedc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "mao fm",
+       "url": "https://stream.zeno.fm/h8c6ny7tbhatv",
+       "language_inferred": true
+      },
+      {
+       "name": "MAXIMUM",
+       "url": "https://stream.zeno.fm/eyymscbvpv8uv"
+      },
+      {
+       "name": "MEGA Alter",
+       "url": "https://stream.zeno.fm/60mp6hvvqg8uv"
+      },
+      {
+       "name": "MEGA Alter – Gomel – BY",
+       "url": "http://194.67.200.84:8000/alter.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "MEGA BY – Gomel – BY",
+       "url": "http://194.67.200.84:8000/by.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "MEGA Chanson",
+       "url": "https://stream.zeno.fm/30kubkgj9odtv",
+       "language_inferred": true
+      },
+      {
+       "name": "MEGA Chanson – Gomel – BY",
+       "url": "http://194.67.200.84:8000/chanson.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "MEGA Fresh",
+       "url": "https://stream-42.zeno.fm/ufb4boupxrquv?",
+       "language_inferred": true
+      },
+      {
+       "name": "MEGA Fresh",
+       "url": "https://stream.zeno.fm/ufb4boupxrquv",
+       "language_inferred": true
+      },
+      {
+       "name": "MEGA Fresh – Gomel – BY",
+       "url": "http://194.67.200.84:8000/fresh.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "MEGA Gold",
+       "url": "https://stream.zeno.fm/y4euarvvqg8uv"
+      },
+      {
+       "name": "MEGA Gold – Gomel – BY",
+       "url": "http://194.67.200.84:8000/gold.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "MEGA Humor",
+       "url": "https://stream-62.zeno.fm/gkh0ti1oxsruv",
+       "language_inferred": true
+      },
+      {
+       "name": "MEGA Humor",
+       "url": "https://stream-55.zeno.fm/gkh0ti1oxsruv",
+       "language_inferred": true
+      },
+      {
+       "name": "MEGA Humor",
+       "url": "https://stream.zeno.fm/gkh0ti1oxsruv",
+       "language_inferred": true
+      },
+      {
+       "name": "MEGA Humor – Gomel – BY",
+       "url": "http://194.67.200.84:8000/humor.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "MEGA Kids",
+       "url": "https://stream-48.zeno.fm/l6w7tki467pvv",
+       "language_inferred": true
+      },
+      {
+       "name": "MEGA Kids",
+       "url": "https://stream.zeno.fm/l6w7tki467pvv",
+       "language_inferred": true
+      },
+      {
+       "name": "MEGA Kids – Gomel – BY",
+       "url": "http://194.67.200.84:8000/kids.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "MEGA Light – Gomel – BY",
+       "url": "http://194.67.200.84:8000/light.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "MEGA Mix",
+       "url": "https://stream.zeno.fm/v04ccyvvqg8uv"
+      },
+      {
+       "name": "MEGA Mix – Gomel – BY",
+       "url": "http://194.67.200.84:8000/mix.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "MEGA Popsa",
+       "url": "https://stream.zeno.fm/2hx7c3vvqg8uv"
+      },
+      {
+       "name": "MEGA Popsa live",
+       "url": "https://stream-18.zeno.fm/2hx7c3vvqg8uv?",
+       "language_inferred": true
+      },
+      {
+       "name": "MEGA Popsa – Gomel – BY",
+       "url": "http://194.67.200.84:8000/popsa.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "MEGA Pulse",
+       "url": "https://stream.zeno.fm/8v33n6vvqg8uv"
+      },
+      {
+       "name": "MEGA Pulse – Gomel – BY",
+       "url": "http://194.67.200.84:8000/pulse.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "MEGA Rap",
+       "url": "https://stream.zeno.fm/8fosacdrwkltv",
+       "language_inferred": true
+      },
+      {
+       "name": "MEGA Rap – Gomel – BY",
+       "url": "http://194.67.200.84:8000/rap.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "MEGA Rock",
+       "url": "https://stream.zeno.fm/b5nqnawvqg8uv"
+      },
+      {
+       "name": "MEGA Rock – Gomel – BY",
+       "url": "http://194.67.200.84:8000/rock.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "MEGA Star",
+       "url": "https://stream.zeno.fm/sph0gdwvqg8uv"
+      },
+      {
+       "name": "MEGA Star Live",
+       "url": "https://stream-55.zeno.fm/sph0gdwvqg8uv?",
+       "language_inferred": true
+      },
+      {
+       "name": "MEGA Star – Gomel – BY",
+       "url": "http://194.67.200.84:8000/star.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "MEGA UA",
+       "url": "https://stream.zeno.fm/zev8kitr5a7tv",
+       "language_inferred": true
+      },
+      {
+       "name": "MEGA UA – Gomel – BY",
+       "url": "http://194.67.200.84:8000/ua.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "MEGA Urbana",
+       "url": "https://stream.zeno.fm/1cuedqwvqg8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "MEGA Urbana – Gomel – BY",
+       "url": "http://194.67.200.84:8000/urbana.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "MEGA World",
+       "url": "https://stream.zeno.fm/guwak9qn3zhvv"
+      },
+      {
+       "name": "MEGA World – Gomel – BY",
+       "url": "http://194.67.200.84:8000/world.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "MEGA Xmas",
+       "url": "https://stream.zeno.fm/npppctwvqg8uv"
+      },
+      {
+       "name": "MEGA Xmas – Gomel – BY",
+       "url": "http://194.67.200.84:8000/xmas.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "MEGA Y2K",
+       "url": "https://stream.zeno.fm/9f9bvqpi1v1vv"
+      },
+      {
+       "name": "MEGA Y2K – Gomel – BY",
+       "url": "http://194.67.200.84:8000/y2k.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "MEGA – Gomel – BY",
+       "url": "http://194.67.200.84:8000/mega.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Megapolis",
+       "url": "https://stream.zeno.fm/mu701bruta0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Melodii Veka",
+       "url": "http://93.84.112.253:8010/MV128?1429182645609.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Melodiyi Veka",
+       "url": "http://87.252.252.78:8000/MV/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Mestnoe Radio",
+       "url": "http://mestnoe.com/pp_mestnoe_radio_2010.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Milky Way Radio",
+       "url": "https://milky-way.network/320kbps.m4a?n=fd8e2a49fa4ee40f0d13",
+       "language_inferred": true
+      },
+      {
+       "name": "Monte Carlo Lounge – Minsk – Minsk City – BY",
+       "url": "http://54.38.43.201:8074/stream-mp3-CoolMusic",
+       "language_inferred": true
+      },
+      {
+       "name": "MOUSE FM",
+       "url": "https://stream.zeno.fm/1cm5f4h7dkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "MV Radio",
+       "url": "http://mvolna.by:8000/mvolna?tupe=.mp3/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "MV-Radio – Minsk – Minsk City – BY",
+       "url": "https://mvr.mlyn.by/mlyn",
+       "language_inferred": true
+      },
+      {
+       "name": "MYRADIO",
+       "url": "https://stream.zeno.fm/tb97zacw6whvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Narodnoe Radio 102.5",
+       "url": "https://listen1.myradio24.com/2288",
+       "language_inferred": true
+      },
+      {
+       "name": "Nastoyashee",
+       "url": "https://stream.zeno.fm/yvnladxn1hnvv",
+       "language_inferred": true
+      },
+      {
+       "name": "New Radio Belarus",
+       "url": "http://212.98.181.84:8000/novoeradio_256?type=.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Noirrave",
+       "url": "https://stream.zeno.fm/49stp7325c9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Novoe Radio Belarus",
+       "url": "http://live.bn.by:8000/novoeradio_128?type=.mp3/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "padogao de churrasco",
+       "url": "https://stream.zeno.fm/xfhkbzizztvuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Pahak 88.4 FM",
+       "url": "http://www.draiv.by:8000/ranak?type=.mp3/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Pahak 88.4 FM",
+       "url": "http://www.draiv.by:8000/ranak/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Paimon",
+       "url": "https://stream.zeno.fm/vkcnq34hfsnuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Pilot FM",
+       "url": "http://imgradio.pro/PilotBy128?type=.mp3/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Prime Radio",
+       "url": "http://46.105.180.202:8126/Bel256"
+      },
+      {
+       "name": "Radio Aplus.FM Beat – Minsk – Minsk City – BY",
+       "url": "http://shoutcast.aplus.fm:9000/aplus_beat_128.m3u",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Aplus.FM Deep – Minsk – Minsk City – BY",
+       "url": "http://shoutcast.aplus.fm:9000/aplus_deep_128.m3u",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Aplus.FM ONE – Minsk – Minsk City – BY",
+       "url": "http://shoutcast.aplus.fm:9000/aplus_128.m3u",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Aplus.FM Relax – Minsk – Minsk City – BY",
+       "url": "http://shoutcast.aplus.fm:9000/aplus_relax_128.m3u",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Aplus.FM Rock – Minsk – Minsk City – BY",
+       "url": "http://shoutcast.aplus.fm:9000/aplus_rock_128.m3u",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio ART Belarus",
+       "url": "http://s0.radioheart.ru:8000/radioartby",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio BA International",
+       "url": "http://81.25.32.97:8000/BA",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Chisty Bereg",
+       "url": "http://radio.bereg.by:8000/aac64.mp3",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Radio MEGA",
+       "url": "https://stream.zeno.fm/yhr1w9mvqg8uv"
+      },
+      {
+       "name": "Radio Mir Belarus",
+       "url": "http://stream2.datacenter.by:8001/radiomir",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Radio New Era",
+       "url": "https://stream.zeno.fm/v99kt3scmg0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Ont",
+       "url": "http://shoutcast.byfly.by:8008/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio ONT - Радио ОНТ",
+       "url": "https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Paracels",
+       "url": "https://stream.zeno.fm/r7fwb6qp8rhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Relax - Радыё Relax",
+       "url": "http://live.humorfm.by:8000/relax",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Roks M",
+       "url": "http://81.19.85.196:80/roks48.mp3?type=.mp3/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Roks Relax",
+       "url": "http://streams.radioplayer.by:8000/relax?type=.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Roks Russian Songs",
+       "url": "http://streams.radioplayer.by:8000/rus_mc",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Roks Russian Top",
+       "url": "http://streams.radioplayer.by:8000/rushot_mc",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio S",
+       "url": "https://stream.zeno.fm/v4vuwfms538uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO SAR BY",
+       "url": "http://radio.sar.by:8000/mp364?type=.mp3/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Stalica – Minsk – Minsk City – BY",
+       "url": "https://stream.hoster.by/tvrbyradio/stalica/icecast.audio",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Svaboda",
+       "url": "https://rfeaudio-lh.akamaihd.net/i/PACKRFE_Axia10@828635/master.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Uvaga",
+       "url": "http://up.uvaga.by:8100/uvaga320/",
+       "language_inferred": true
+      },
+      {
+       "name": "radio-grodno",
+       "url": "http://178.124.203.233:8000/live",
+       "language_inferred": true
+      },
+      {
+       "name": "radio-nelli-info",
+       "url": "http://194.158.201.182:8000/life",
+       "language_inferred": true
+      },
+      {
+       "name": "radio-syabri",
+       "url": "http://109.68.190.202:8131/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "radiobroadcast",
+       "url": "https://stream.zeno.fm/i6mla0cnjueuv",
+       "language_inferred": true
+      },
+      {
+       "name": "RadioMIX – Minsk – Minsk City – BY",
+       "url": "http://stream.radiomix.dance:8000/radiomix",
+       "language_inferred": true
+      },
+      {
+       "name": "RazburyMury",
+       "url": "https://stream.zeno.fm/mk7nf2e78a0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RMC Monte Carlo 128",
+       "url": "https://stream.zeno.fm/60stu2y6vreuv"
+      },
+      {
+       "name": "RMC Monte Carlo 256",
+       "url": "https://stream.zeno.fm/8z39p1srrceuv"
+      },
+      {
+       "name": "RMC Radio",
+       "url": "https://stream.zeno.fm/rp2nxspcdxquv"
+      },
+      {
+       "name": "RockFM",
+       "url": "https://stream.zeno.fm/bbwkxtjtcikuv",
+       "language_inferred": true
+      },
+      {
+       "name": "ROCKGROUP",
+       "url": "https://stream.zeno.fm/ke2r6zn35c9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Rus Radio Minsk",
+       "url": "http://live.rusradio.by:8000/live?type=.mp3/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Russian Hits Shumilino",
+       "url": "https://stream.zeno.fm/btpn2pm3fchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "sergy_radio",
+       "url": "https://stream.zeno.fm/pnvcxfywaphvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Serpentes",
+       "url": "https://stream.zeno.fm/t2v5n5d1uchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Syeta music",
+       "url": "https://stream.zeno.fm/u7a6jjuhnynuv",
+       "language_inferred": true
+      },
+      {
+       "name": "TECHNOZHRETS",
+       "url": "https://stream.zeno.fm/m3jx2dnseqsvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Teploe Radio",
+       "url": "http://109.195.51.139:8100/netop/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Trance",
+       "url": "http://185.33.21.112/trance_64a?n=d237c9efb85d4f68a9cf",
+       "language_inferred": true
+      },
+      {
+       "name": "Tufos Contos Animados",
+       "url": "https://stream.zeno.fm/q2vd1tsgblmtv",
+       "language_inferred": true
+      },
+      {
+       "name": "Tvoe radio (Lida)",
+       "url": "https://stream.pcradio.ru/tvoe_radio_lida-med",
+       "language_inferred": true
+      },
+      {
+       "name": "Tzgospel ( belarus )",
+       "url": "https://stream.zeno.fm/ksnp674u2ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Unistar Radio",
+       "url": "http://unistar.by:8000/unistar-128kb?type=.mp3/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Unistar Radio",
+       "url": "https://advertizer.hoster.by/unistar/unistar-128kb/icecast.audio?hash=1567068596053369",
+       "language_inferred": true
+      },
+      {
+       "name": "UP FM Belarus",
+       "url": "http://listen.teploe.net:8100/upfm",
+       "language_inferred": true
+      },
+      {
+       "name": "VESPUCCI88",
+       "url": "https://stream.zeno.fm/3mtm3qg6rltuv",
+       "language_inferred": true
+      },
+      {
+       "name": "vintage radio",
+       "url": "https://stream.zeno.fm/07qdnffv1qruv"
+      },
+      {
+       "name": "Wargaming FM ROCK",
+       "url": "https://sv.wargaming.fm/4/128",
+       "language_inferred": true
+      },
+      {
+       "name": "Wargaming FM WGFEST",
+       "url": "http://sv1.wargaming.fm:8055/wgfest",
+       "language_inferred": true
+      },
+      {
+       "name": "Wargaming.FM - Rock",
+       "url": "http://wargaming.fm/4.aac"
+      },
+      {
+       "name": "Wargaming.FM - Trance",
+       "url": "http://wargaming.fm/3.aac"
+      },
+      {
+       "name": "Wargaming.FM - Второй канал",
+       "url": "http://wargaming.fm/2.aac"
+      },
+      {
+       "name": "zMagrin_shark",
+       "url": "https://stream.zeno.fm/ph4gv47p9hhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Авторадио",
+       "url": "http://live.avtoradio.by:8000/avtoradio"
+      },
+      {
+       "name": "Адкрытае Слова",
+       "url": "https://rs.radioslovo.net:4005/radio?1619348678875?n=51d40bda9426389c35e2",
+       "language_inferred": true
+      },
+      {
+       "name": "Альфа Радио - Беларусь",
+       "url": "https://stream.hoster.by/sovbel/alpha/icecast.audio"
+      },
+      {
+       "name": "БР Радио Могилёв",
+       "url": "http://stream.tvrmogilev.by:8035/live"
+      },
+      {
+       "name": "Гомельское городское радио",
+       "url": "http://wargaming.fm/mp3"
+      },
+      {
+       "name": "Гомельское городское радио 107.4 FM",
+       "url": "https://r.gomelradio.by:2020/gomelradio",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Город FM Брест 97,7",
+       "url": "https://stream2.datacenter.by/GorodFM",
+       "language_inferred": true
+      },
+      {
+       "name": "Дельта",
+       "url": "https://rusradio.tgarant.by/radio",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Душевное радио",
+       "url": "https://stream.hoster.by/pilotfm/audio_hd/icecast.audio",
+       "language_inferred": true
+      },
+      {
+       "name": "Еўрарадыё Alternative",
+       "url": "http://stream1.euroradio.fm:8000/euroradio1?seed=1493710910?n=1f0075a5c3d90cde8e10",
+       "language_inferred": true
+      },
+      {
+       "name": "Еўрарадыё Soft Rock",
+       "url": "http://stream1.euroradio.fm:8000/euroradio3?seed=1493711245?n=1c68d4bd55abeb5805d1",
+       "language_inferred": true
+      },
+      {
+       "name": "КИТ (Dance)",
+       "url": "http://93.84.85.122:8000/RadioKitDance"
+      },
+      {
+       "name": "Новое радио MEGAMIX",
+       "url": "http://live.novoeradio.by:8000/novoeradio-megamix-128k"
+      },
+      {
+       "name": "Правда Радио - Гомель 99.0 FM",
+       "url": "https://stream2.datacenter.by/gomelskayapravda",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Радио MFM - Гродно 105.0 МГц",
+       "url": "https://radio.105fm.by/radio.105.0mfm",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Радио s13.ru",
+       "url": "https://c28.radioboss.fm:18099/autodj",
+       "language_inferred": true
+      },
+      {
+       "name": "Радио Unistar",
+       "url": "https://hls-01-unistar.hostingradio.ru/unistar-main/playlist.m3u8?radiostatistica=sra",
+       "language_inferred": true
+      },
+      {
+       "name": "Радио Unistar - THE BEST",
+       "url": "https://hls-01-unistar.hostingradio.ru/unistar-best/playlist.m3u8?radiostatistica=orb"
+      },
+      {
+       "name": "Радио Unistar - Top Channel",
+       "url": "https://unistar.webcaramba.com/unistar_top128.mp3?radiostatistica=tunein"
+      },
+      {
+       "name": "Радио Unistar - Офисный канал",
+       "url": "https://hls-01-unistar.hostingradio.ru/unistar-office/playlist.m3u8?radiostatistica=tunein"
+      },
+      {
+       "name": "Радио Zефир FM - Бобруйск 95.4 FM",
+       "url": "https://stream2.datacenter.by/zefirfm",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Радио Брест",
+       "url": "http://178.124.131.35:8012/trkbrest",
+       "language_inferred": true
+      },
+      {
+       "name": "Радио Брест 104.8 Fm",
+       "url": "https://stream2.datacenter.by:2199/tunein/trkbres1.pls?n=cd8b24bb5d8bc03bd33a"
+      },
+      {
+       "name": "Радио Легенды FM - Минск 94.1 MHz",
+       "url": "https://livefm.legendy.by/legendy",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Радио Мир",
+       "url": "http://217.23.126.106:8002/radio.mir"
+      },
+      {
+       "name": "Радио Победа - Беларусь",
+       "url": "https://live.radiopobeda.by:8443/air",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Радио Рокс",
+       "url": "http://streams.radioplayer.by:8000/live"
+      },
+      {
+       "name": "Радио РОКС - Беларусь",
+       "url": "https://stream.hoster.by/radioroks/roks_hd/icecast.audio",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Радио-Витебск - Беларусь",
+       "url": "https://live.radiovitebsk.by/live",
+       "language_inferred": true
+      },
+      {
+       "name": "Радиус FM",
+       "url": "http://stream2.datacenter.by:8006/radiusfm_main",
+       "language_inferred": true
+      },
+      {
+       "name": "Радыё Марыя Беларусь",
+       "url": "http://server.radiorm.by:8000/aac",
+       "language_inferred": true
+      },
+      {
+       "name": "Твое Радио (100.6 FM Беларусь - Лида)",
+       "url": "https://www.liveradio.es/http://lider-fm.by:8020/radio"
+      },
+      {
+       "name": "Христианская Инструментальная музыка",
+       "url": "https://rs.radioslovo.net:4275/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Христианское АВТО радио",
+       "url": "https://rs.radioslovo.net:4145/stream?1597140569480",
+       "language_inferred": true
+      },
+      {
+       "name": "Христианское украинское радио",
+       "url": "https://rs.radioslovo.net:5000/radio",
+       "language_inferred": true
+      },
+      {
+       "name": "ЭТО Радио",
+       "url": "https://stream.zeno.fm/b7d3k22dgphvv"
+      }
+     ]
+    }
+   }
+  },
+  "Belarusian": {
+   "count": 52,
+   "genres": {
+    "alternative_indie": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Euroradio.FM Belarus Music",
+       "url": "http://stream.euroradio.fm:8000/euroradio4",
+       "tags": [
+        "alternative_indie",
+        "rock"
+       ]
+      }
+     ]
+    },
+    "ambient_relax": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Aplus Radio",
+       "url": "https://s.aplus.fm/aplus_relax_64",
+       "tags": [
+        "ambient_relax",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Радыё Relax",
+       "url": "http://live.humorfm.by:8000/radiorelax",
+       "tags": [
+        "pop_hits",
+        "ambient_relax",
+        "world"
+       ]
+      }
+     ]
+    },
+    "christian_gospel": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Maria Belarus",
+       "url": "https://server.radiorm.by:8443/live",
+       "tags": [
+        "christian_gospel",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "classical": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Канал Культура Беларускага радыё",
+       "url": "https://stream2.datacenter.by/kultura",
+       "tags": [
+        "classical",
+        "news_talk",
+        "jazz",
+        "pop_hits",
+        "various_eclectic",
+        "folk"
+       ]
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Ranak",
+       "url": "http://www.draiv.by:8000/ranak.m3u"
+      }
+     ]
+    },
+    "electronic": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "Aplus Radio Deep",
+       "url": "http://shoutcast.aplus.fm:9000/aplus_deep_128"
+      },
+      {
+       "name": "Radio A Plus Beat",
+       "url": "http://shoutcast.aplus.by:9000/aplus_beat_128"
+      },
+      {
+       "name": "Radio A Plus Deep",
+       "url": "http://shoutcast.aplus.by:9000/aplus_deep_128"
+      },
+      {
+       "name": "Radio Plato",
+       "url": "https://azura.radioplato.by/radio/8000/radio.mp3",
+       "tags": [
+        "electronic",
+        "alternative_indie",
+        "hip_hop_rap",
+        "soul_rnb_funk",
+        "ambient_relax",
+        "pop_hits",
+        "house"
+       ]
+      }
+     ]
+    },
+    "folk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Roks",
+       "url": "https://de.streams.radioplayer.by:8000/live",
+       "tags": [
+        "folk",
+        "pop_hits",
+        "soul_rnb_funk",
+        "rock"
+       ]
+      }
+     ]
+    },
+    "hip_hop_rap": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio A Plus Hip Hop",
+       "url": "http://shoutcast.aplus.by:9000/aplus_hiphop_128"
+      }
+     ]
+    },
+    "house": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio 4YOU",
+       "url": "http://a1.radioheart.ru:8003/RH17982",
+       "tags": [
+        "house",
+        "electronic",
+        "trance_goa",
+        "chillout_lounge"
+       ]
+      }
+     ]
+    },
+    "jazz": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Monte Carlo Lounge",
+       "url": "https://stream.zeno.fm/953wvvz4gseuv",
+       "tags": [
+        "jazz",
+        "chillout_lounge",
+        "easy_listening"
+       ]
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 9,
+     "stations": [
+      {
+       "name": "Euroradio.FM",
+       "url": "http://stream.euroradio.fm:8000/euroradio1",
+       "tags": [
+        "news_talk",
+        "rock",
+        "alternative_indie",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Humor FM",
+       "url": "http://live.humorfm.by:8000/veseloe",
+       "tags": [
+        "pop_hits",
+        "various_eclectic",
+        "comedy",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Lider FM",
+       "url": "https://icecast.lider-fm.by/liderfm",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Mestnoe Radio",
+       "url": "https://listen1.myradio24.com/3355",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "world",
+        "decade_90s"
+       ]
+      },
+      {
+       "name": "Radio Gomel FM",
+       "url": "https://s1.radioheart.ru:8001/radiogomelfm",
+       "bitrate": 64,
+       "logo": "http://radio.pervii.com/im/5/1550034445.jpg",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "easy_listening",
+        "classical",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Radio Racja",
+       "url": "http://air.racyja.com:8000/racja128",
+       "tags": [
+        "news_talk",
+        "rock",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Vitebsk",
+       "url": "http://radio.vtv.by:8000/radio_vitebsk_128",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Еўрарадыё BY",
+       "url": "http://stream1.euroradio.fm:8000/euroradio1"
+      },
+      {
+       "name": "Радыё Сталіца - Беларусь",
+       "url": "https://stream2.datacenter.by/stalica",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "rock",
+        "easy_listening"
+       ]
+      }
+     ]
+    },
+    "oldies": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "1st National Radio 105.1 FM",
+       "url": "http://video.tvr.by:1935/radio/radio1/playlist.m3u8"
+      },
+      {
+       "name": "Dushevnoe Radio 105.7 FM",
+       "url": "http://stream.hoster.by:8081/pilotfm/audio/icecast.audio",
+       "tags": [
+        "pop_hits",
+        "oldies"
+       ]
+      },
+      {
+       "name": "Dushevnoe Radio-105.7 FM",
+       "url": "https://air.volna.top:443/DushevnoeRadio48"
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 13,
+     "stations": [
+      {
+       "name": "Alpha Radio Belarus",
+       "url": "http://82.209.230.70:8009"
+      },
+      {
+       "name": "Legendy FM",
+       "url": "http://live.legendy.by:8000/legendyfm",
+       "tags": [
+        "pop_hits",
+        "oldies"
+       ]
+      },
+      {
+       "name": "Lider FM",
+       "url": "http://lider-fm.by:8000/radio.m3u"
+      },
+      {
+       "name": "Novoe Radio- 98.4 FM",
+       "url": "https://live.novoeradio.by:444/live/novoeradio_aac128/icecast.audio",
+       "tags": [
+        "pop_hits",
+        "easy_listening",
+        "classical"
+       ]
+      },
+      {
+       "name": "Radio Brest",
+       "url": "https://stream2.datacenter.by/trkbrest",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Radio Grodno",
+       "url": "https://stream.radiogrodno.by/live"
+      },
+      {
+       "name": "Radio Grodno",
+       "url": "http://82.209.229.171:8000/ogg"
+      },
+      {
+       "name": "Radio Novo FM",
+       "url": "http://listen.radionomy.com/radionovofm"
+      },
+      {
+       "name": "Radio skif",
+       "url": "http://178.172.150.248:2530",
+       "tags": [
+        "pop_hits",
+        "decade_90s",
+        "easy_listening",
+        "electronic"
+       ]
+      },
+      {
+       "name": "Radius FM",
+       "url": "https://stream2.datacenter.by/radiusfm_main",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "rock",
+        "world",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Ranak FM 88.4",
+       "url": "http://93.84.85.122:8000/ranak"
+      },
+      {
+       "name": "TEPLOE RADIO NETOP FM",
+       "url": "http://listen.teploe.net:8100/netopfm"
+      },
+      {
+       "name": "Гомель FM",
+       "url": "https://a1.radioheart.ru:8001/radiogomelfm",
+       "tags": [
+        "pop_hits",
+        "easy_listening",
+        "world"
+       ]
+      }
+     ]
+    },
+    "rock": {
+     "count": 5,
+     "stations": [
+      {
+       "name": "Euroradio.FM Soft Rock",
+       "url": "http://stream.euroradio.fm:8000/euroradio3"
+      },
+      {
+       "name": "Prime Radio",
+       "url": "https://myradio24.org/praims",
+       "tags": [
+        "rock",
+        "various_eclectic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio A Plus Rock",
+       "url": "http://shoutcast.aplus.by:9000/aplus_rock_128"
+      },
+      {
+       "name": "Radio Aplus Rock",
+       "url": "https://s.aplus.fm/aplus_rock_128"
+      },
+      {
+       "name": "Radio Minsk 92.4 FM",
+       "url": "http://93.84.113.142:8000/radio",
+       "tags": [
+        "rock",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "world": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "MV-Radio",
+       "url": "http://stream.mvolna.by:8000/mvolna"
+      },
+      {
+       "name": "Radio Brest 104.8 FM",
+       "url": "http://93.84.112.253:8039/stream",
+       "tags": [
+        "pop_hits",
+        "world"
+       ]
+      },
+      {
+       "name": "Radio Plato",
+       "url": "http://comet.shoutca.st:8271/stream",
+       "tags": [
+        "world",
+        "soul_rnb_funk",
+        "rock",
+        "classical",
+        "electronic",
+        "hip_hop_rap",
+        "country",
+        "drum_and_bass",
+        "kids",
+        "news_talk",
+        "alternative_indie"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 5,
+     "stations": [
+      {
+       "name": "@plus (Aplus) Radio",
+       "url": "https://s.aplus.fm/aplus_64"
+      },
+      {
+       "name": "RADIO MONTE CARLO",
+       "url": "https://stream.zeno.fm/mcassvz4gseuv"
+      },
+      {
+       "name": "Radio Relax Belarus Minsk 87.5 FM",
+       "url": "http://live.humorfm.by:8000/relax-high"
+      },
+      {
+       "name": "Radio Stalica",
+       "url": "http://video.tvr.by:1935/radio/stolica/playlist.m3u8"
+      },
+      {
+       "name": "Душевное Радио",
+       "url": "http://stream.euroradio.fm:8000/euroradio2"
+      }
+     ]
+    }
+   }
+  },
+  "English": {
+   "count": 3,
+   "genres": {
+    "easy_listening": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Skif (Радио Скиф) - 99.9 FM",
+       "url": "http://178.172.150.248:2530:11084"
+      }
+     ]
+    },
+    "electronic": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio.Uvaga.By",
+       "url": "http://up.uvaga.by:8100/uvaga128",
+       "tags": [
+        "pop_hits",
+        "electronic",
+        "rock",
+        "easy_listening",
+        "alternative_indie"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Minsk Radio",
+       "url": "http://lyvstream.com:1935/KryKeyRadios/MNSK/126.stream/playlist.m3u8"
+      }
+     ]
+    }
+   }
+  },
+  "Spanish": {
+   "count": 2,
+   "genres": {
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Belarus",
+       "url": "https://stream2.datacenter.by/belarus",
+       "tags": [
+        "news_talk",
+        "classical",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Радио Беларусь/Radio Belarus",
+       "url": "http://stream2.datacenter.by:8008/belarus?n=d3310050dc03941a6cc6"
+      }
+     ]
+    }
+   }
+  },
+  "Multilingual": {
+   "count": 1,
+   "genres": {
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "БР Радио Беларусь",
+       "url": "http://video.tvr.by:8000/belfm",
+       "tags": [
+        "news_talk",
+        "classical"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Croatian": {
+   "count": 1,
+   "genres": {
+    "latin": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Новое Радио Listen live",
+       "url": "https://live.novoeradio.by:8443/novoeradio-aac",
+       "tags": [
+        "latin",
+        "pop_hits"
+       ]
+      }
+     ]
+    }
+   }
+  }
+ }
+}

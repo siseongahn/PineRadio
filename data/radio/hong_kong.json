@@ -1,0 +1,1627 @@
+{
+ "country": "Hong Kong",
+ "count": 220,
+ "languages": {
+  "Chinese": {
+   "count": 192,
+   "genres": {
+    "alternative_indie": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Lantau",
+       "url": "http://geckonet.net:9302//listen.pls?sid=1",
+       "tags": [
+        "alternative_indie",
+        "rock"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "chillout_lounge": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "HKGFM Chill Out",
+       "url": "http://gfm.rastream.com/gfm-chillout.m3u",
+       "tags": [
+        "news_talk",
+        "chillout_lounge"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "christian_gospel": {
+     "count": 6,
+     "stations": [
+      {
+       "name": "Adventist Angels Watchman Radio",
+       "url": "http://listen.shoutcast.com/adventistangelswatchmanradio",
+       "language_inferred": true
+      },
+      {
+       "name": "Holy Vision Radio",
+       "url": "http://live.itechnepal.com:8236/stream?",
+       "tags": [
+        "christian_gospel",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Life Broadcast Network - Cantonese",
+       "url": "http://radio.cgbc.life:8000/2.mp3"
+      },
+      {
+       "name": "Life Broadcast Network - English",
+       "url": "http://radio.cgbc.life:8000/4.mp3"
+      },
+      {
+       "name": "Life Broadcast Network - Mandarin",
+       "url": "http://radio.cgbc.life:8000/1.mp3"
+      },
+      {
+       "name": "Life Broadcast Network - Praise",
+       "url": "http://radio.cgbc.life:8000/3.mp3"
+      }
+     ]
+    },
+    "classical": {
+     "count": 5,
+     "stations": [
+      {
+       "name": "DR P2 Klassisk",
+       "url": "http://live-icy.gss.dr.dk/A/A04L.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "RTHK Radio 4",
+       "url": "http://202.177.192.119/radio4?type=.mp3/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "RTHK Radio 4",
+       "url": "http://202.177.192.119/radio4/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "RTHK Radio 4",
+       "url": "https://bbx.xmgspace.me/radio/rthk4/i/radio4_1@355867/master.m3u8"
+      },
+      {
+       "name": "香港電台第四台 RTHK Radio 4",
+       "url": "http://stm1.rthk.hk/radio4"
+      }
+     ]
+    },
+    "college_community": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Saturday Report",
+       "url": "https://stream.zeno.fm/6q089n722s8uv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "comedy": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "gggggggggg",
+       "url": "https://stream.zeno.fm/fpdzsez1zf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "gggggggggg",
+       "url": "https://stream.zeno.fm/m69y6fz1zf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "gtsass",
+       "url": "https://stream.zeno.fm/06r0ykz1zf9uv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "country": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Todays Texas Country",
+       "url": "http://curiosity.shoutca.st:6435/stream/stream/1",
+       "tags": [
+        "country",
+        "rock"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "decade_80s": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "80s90s",
+       "url": "https://samcloud.spacial.com/api/listen?sid=131874&rid=277454&f=mp3,any&br=96000,any&m=sc&t=ssl",
+       "language_inferred": true
+      },
+      {
+       "name": "Billboard Radio China – 80/90后",
+       "url": "https://gfm.rastream.com/gfm-awesome80s",
+       "tags": [
+        "decade_80s",
+        "pop_hits",
+        "oldies",
+        "rock",
+        "classical",
+        "soul_rnb_funk",
+        "decade_90s"
+       ]
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "AXR Hong Kong",
+       "url": "http://21413.live.streamtheworld.com/AXR_SC"
+      },
+      {
+       "name": "Originalradio",
+       "url": "https://stream.zeno.fm/rzwzgu0dd8zuv",
+       "tags": [
+        "various_eclectic",
+        "easy_listening",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "electronic": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "gfm.fm Club GFM",
+       "url": "https://gfm.rastream.com/gfm-clubhkgfm",
+       "tags": [
+        "electronic",
+        "house",
+        "techno",
+        "trance_goa"
+       ]
+      },
+      {
+       "name": "Hong Kong Community Radio",
+       "url": "https://hkcr.live/audio/index.m3u8",
+       "tags": [
+        "electronic",
+        "alternative_indie",
+        "rock",
+        "techno",
+        "various_eclectic",
+        "easy_listening",
+        "hip_hop_rap"
+       ]
+      }
+     ]
+    },
+    "folk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "RTHK Radio 5 783 AM",
+       "url": "http://stm.rthk.hk/radio5",
+       "tags": [
+        "world",
+        "folk",
+        "oldies"
+       ]
+      }
+     ]
+    },
+    "hip_hop_rap": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "BB RADIO - Livestream Havelland Listen live",
+       "url": "https://streambbr.ir-media-tec.com/sc-brandenburg/mp3-128/",
+       "tags": [
+        "hip_hop_rap",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "house": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Best Beats",
+       "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BRIDGEHITS_S01.mp3",
+       "tags": [
+        "pop_hits",
+        "house",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "BEST BEATS",
+       "url": "https://samcloud.spacial.com/api/listen?sid=131875&rid=277458&f=mp3,any&br=96000,any&m=sc&t=ssl",
+       "tags": [
+        "electronic",
+        "house"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "kids": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Onyx Radio",
+       "url": "https://stream.zeno.fm/y3h5vtu3hv8uv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "latin": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "HK Latino Radio",
+       "url": "https://node-32.zeno.fm/0afmaf4x2tzuv.aac?rj-ttl=5\\u0026rj-tok=AAABceRsQvYAGRCBBAReImlHHg",
+       "language_inferred": true
+      },
+      {
+       "name": "HK Latino Radio",
+       "url": "https://stream.zeno.fm/rvd3ef4x2tzuv",
+       "tags": [
+        "latin",
+        "reggae_ska",
+        "rock",
+        "classical",
+        "electronic",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "HongKong Latino Radio",
+       "url": "http://eu10.fastcast4u.com:4070/?nocache=1584178673&type=http"
+      }
+     ]
+    },
+    "metal": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "HKGFM The Indie Underground",
+       "url": "http://sc.rastream.com:9060/",
+       "tags": [
+        "rock",
+        "metal"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "香港80年代樂隊盛世網台",
+       "url": "http://hkpopbandmusic80s.ddns.net:8000/",
+       "tags": [
+        "rock",
+        "metal"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 43,
+     "stations": [
+      {
+       "name": "Apple FM",
+       "url": "http://sc.apple-fm.net:9020/listen.pls",
+       "language_inferred": true
+      },
+      {
+       "name": "Axr Hong Kong",
+       "url": "http://axr.rastream.com/axr-mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "CNR 14 Hong Kong Radio (RTHK6)",
+       "url": "http://lhttp.qingting.fm/live/4986/64k.mp3"
+      },
+      {
+       "name": "CRHK 881 radio",
+       "url": "https://www.881903.com/live/881",
+       "language_inferred": true
+      },
+      {
+       "name": "CRHK 903 radio",
+       "url": "https://event.881903.com/hktbaudioplayer/player_token.php?ch=hd903",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "CRHK AM 864 radio",
+       "url": "https://www.881903.com/live/864",
+       "tags": [
+        "news_talk",
+        "rock",
+        "electronic",
+        "soul_rnb_funk",
+        "hip_hop_rap",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "D100 Home",
+       "url": "http://59.152.232.107:8000/Channel1-64MP3",
+       "tags": [
+        "various_eclectic",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "D100 PBS Radio",
+       "url": "https://crs.webdesign-flash.ro/?q=http://59.152.232.107:8000/Channel1-128MP3&plugin_id=7628&site_id=8520577"
+      },
+      {
+       "name": "D100 PBS Radio",
+       "url": "http://live.d100.net:8000/Channel1-128MP3"
+      },
+      {
+       "name": "D100 Radio Hong Kong 香港台",
+       "url": "http://213.229.118.8:8000/Channel2",
+       "language_inferred": true
+      },
+      {
+       "name": "DBC 2 Radio NEWS",
+       "url": "http://rtspoversea.dbc.hk/dbc_mp3_ch2?042242.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "DBC 3 Radio BUSINESS",
+       "url": "http://58.64.197.165:8001/dbc3",
+       "language_inferred": true
+      },
+      {
+       "name": "DBC 4 Radio CAMPUS",
+       "url": "http://rtspoversea.dbc.hk/dbc_mp3_ch4?221719.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "DBC 5 Radio SMILES",
+       "url": "http://58.64.197.165:8001/dbc5",
+       "language_inferred": true
+      },
+      {
+       "name": "Digital Radio Hong Kong",
+       "url": "http://ice.digitalradiohk.net:8000/drhk",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "world",
+        "oldies",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Fing Radio",
+       "url": "https://bluesfan.stream.laut.fm/bluesfan?t302=2020-11-06_13-46-59\\u0026uuid=28a2f040-51e1-44fe-899f-3519cbd5d4e9",
+       "tags": [
+        "news_talk",
+        "jazz",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Fing Radio",
+       "url": "https://bluesfan.stream.laut.fm/bluesfan?t302=2020-11-06_13-46-59&uuid=28a2f040-51e1-44fe-899f-3519cbd5d4e9?n=98208189f6bfd8d12877",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Metro Finance",
+       "url": "https://metroradio-lh.akamaihd.net/i/104_h@349798/master.m3u8",
+       "tags": [
+        "news_talk",
+        "world"
+       ]
+      },
+      {
+       "name": "Metro Info",
+       "url": "https://metroradio-lh.akamaihd.net/i/997_h@349799/master.m3u8",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "world"
+       ]
+      },
+      {
+       "name": "Metro Plus",
+       "url": "https://metroradio-lh.akamaihd.net/i/1044_h@349800/master.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Passion Times",
+       "url": "https://ptmirror3.passiontimes.hk/hls3/stream.m3u8?n=9babdc75caafb9a590d9",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Phoenix U Radio Music - 鳳凰音樂台",
+       "url": "http://www.881903.com/Resourse/VideoPlayback/res/cr2_local.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Phoenix U Radio 鳳凰綜合台",
+       "url": "http://202.181.185.182:8000/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Metro Finance",
+       "url": "http://metroradio-lh.akamaihd.net/i/104_h@349798/index_48_a-p.m3u8?sd=10&amprebase=on",
+       "language_inferred": true
+      },
+      {
+       "name": "RTHK Radio 1",
+       "url": "https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/master.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "world"
+       ]
+      },
+      {
+       "name": "RTHK Radio 1",
+       "url": "https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/master.m3u8?n=780b7e32c9559f7730e2",
+       "language_inferred": true
+      },
+      {
+       "name": "RTHK Radio 2",
+       "url": "https://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/master.m3u8",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "RTHK radio 2",
+       "url": "https://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/index_56_a-p.m3u8"
+      },
+      {
+       "name": "RTHK Radio 3",
+       "url": "http://202.177.192.119/radio3",
+       "tags": [
+        "college_community",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "RTHK Radio 3",
+       "url": "https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "world",
+        "college_community"
+       ]
+      },
+      {
+       "name": "RTHK Radio 3 97.9 FM",
+       "url": "http://stm.rthk.hk/radio3",
+       "tags": [
+        "news_talk",
+        "various_eclectic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "RTHK Radio 5",
+       "url": "https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/master.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "RTHK Radio 5",
+       "url": "https://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/master.m3u8"
+      },
+      {
+       "name": "RTHK Radio 6",
+       "url": "https://rthkaudio6cnr-lh.akamaihd.net/i/radio6cnr_1@575604/master.m3u8"
+      },
+      {
+       "name": "RTHK Radio 6 央廣香港之聲",
+       "url": "https://rthkradiocnrhk-live.akamaized.net/hls/live/2046111/radiocnrhk/master.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "RTHK Radio 6 央廣香港之聲",
+       "url": "http://satellitepull.cnr.cn/live/wxxgzs/playlist.m3u8"
+      },
+      {
+       "name": "RTHK Radio 6 央廣香港之聲",
+       "url": "https://rthkaudio6cnr-lh.akamaihd.net/i/radio6cnr_1@575604/index_56_a-p.m3u8"
+      },
+      {
+       "name": "RTHK Radio Putonghua",
+       "url": "https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/master.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "college_community",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "RTHK Radio-2",
+       "url": "http://stm.rthk.hk/radio2",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "various_eclectic",
+        "world"
+       ]
+      },
+      {
+       "name": "Sunny's Music Show radio",
+       "url": "http://procyon.shoutca.st:8492/listen.mp3"
+      },
+      {
+       "name": "新城知訊台",
+       "url": "https://1931121536.rsc.cdn77.org/1931121536/index.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "面包台",
+       "url": "https://video.bread-tv.com:8091/hls-live24/online/index.m3u8?n=d8dadc150e8bfe9a9a2e",
+       "language_inferred": true
+      },
+      {
+       "name": "香港普通话台",
+       "url": "https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/master.m3u8"
+      }
+     ]
+    },
+    "oldies": {
+     "count": 8,
+     "stations": [
+      {
+       "name": "80s&90s",
+       "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/80S90S_S01.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Apple FM",
+       "url": "http://sc.apple-fm.net:9020/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "Apple-FM radio",
+       "url": "http://sc7b.apple-fm.net:8188/stream.nsv",
+       "language_inferred": true
+      },
+      {
+       "name": "Apple-FM.net",
+       "url": "http://sc7b.apple-fm.net:8188/listen.pls",
+       "language_inferred": true
+      },
+      {
+       "name": "China Hits",
+       "url": "https://samcloud.spacial.com/api/listen?sid=131872&rid=277445&f=mp3,any&br=96000,any&m=sc&t=ssl",
+       "language_inferred": true
+      },
+      {
+       "name": "Classic Rock",
+       "url": "https://samcloud.spacial.com/api/listen?sid=131876&rid=277461&f=mp3,any&br=96000,any&m=sc&t=ssl",
+       "language_inferred": true
+      },
+      {
+       "name": "DBC 6 Radio MUSIC",
+       "url": "http://58.64.197.165:8001/dbc6",
+       "tags": [
+        "news_talk",
+        "oldies"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "DBC 7 Radio CO",
+       "url": "http://58.64.197.165:8001/dbc7",
+       "tags": [
+        "news_talk",
+        "oldies"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 15,
+     "stations": [
+      {
+       "name": "101.1 BIG HEART FM radio",
+       "url": "https://stream.zeno.fm/n8k2draytrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "101.1 BIG HEART FM – 101.1 FM – HK",
+       "url": "https://eu8.fastcast4u.com/proxy/jovie?mp=/1",
+       "language_inferred": true
+      },
+      {
+       "name": "Asia FM 亚洲天空台",
+       "url": "mms://funradio.cn/funradio"
+      },
+      {
+       "name": "Asia Hitz Kpop",
+       "url": "https://samcloud.spacial.com/api/listen?sid=131877&rid=277465&f=mp3,any&br=96000,any&m=sc&t=ssl",
+       "language_inferred": true
+      },
+      {
+       "name": "AsiaFm Gold FM",
+       "url": "mms://goldfm.cn/goldfm"
+      },
+      {
+       "name": "AsiaFM HD Music",
+       "url": "mms://asiafm.cn/asiahd"
+      },
+      {
+       "name": "AsiaFM Music Channel",
+       "url": "mms://asiafm.cn/asiafm"
+      },
+      {
+       "name": "Billboard华语HITS",
+       "url": "https://billboardradio.rastream.com/gfm-asiahitzchina?"
+      },
+      {
+       "name": "BRG - Asia Hits",
+       "url": "https://billboardradio.rastream.com/gfm-asiahitz.web"
+      },
+      {
+       "name": "BRG HOT HITS 100",
+       "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TOP50HITS_S01AAC.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "HKGFM Asia Hitz",
+       "url": "http://sc.rastream.com:9010/",
+       "language_inferred": true
+      },
+      {
+       "name": "Metro Radio Showbiz",
+       "url": "http://metroradio-lh.akamaihd.net/i/997_h@349799/index_48_a-b.m3u8"
+      },
+      {
+       "name": "RTHK Putonghua Radio",
+       "url": "http://202.177.192.119/radiopth",
+       "tags": [
+        "pop_hits",
+        "various_eclectic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "RTHK Radio 2",
+       "url": "http://stm2.rthk.hk/radio2",
+       "language_inferred": true
+      },
+      {
+       "name": "RTHK Radio 2",
+       "url": "https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/index_64_a.m3u8",
+       "language_inferred": true
+      }
+     ]
+    },
+    "rock": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "BRG Classic Rock",
+       "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BRIDGECLASSICROCK_S01.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "EGM 3 Radio",
+       "url": "http://eu10.fastcast4u.com:5920/stream.nsv",
+       "tags": [
+        "pop_hits",
+        "electronic",
+        "rock",
+        "oldies",
+        "soul_rnb_funk",
+        "hip_hop_rap",
+        "holiday",
+        "chillout_lounge",
+        "easy_listening",
+        "jazz"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "HKGFM The 90's",
+       "url": "http://gfm.rastream.com/gfm-the90s.m3u",
+       "tags": [
+        "rock",
+        "classical"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "OMG",
+       "url": "http://00-asia-128.akacast.akamaistream.net/7/841/148615/v1/00.akacast.akamaistream.net/00-asia-128",
+       "tags": [
+        "rock",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "soul_rnb_funk": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Altaro Radio Listen live",
+       "url": "https://manager.conceptradio.fr:1135/server",
+       "tags": [
+        "soul_rnb_funk",
+        "folk",
+        "various_eclectic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "China Hitz",
+       "url": "https://ais-edge106-live365-dal02.cdnstream.com/a57743",
+       "tags": [
+        "easy_listening",
+        "jpop_kpop_asia",
+        "rock",
+        "soul_rnb_funk",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Lantau",
+       "url": "https://radio.dripfeed.net/listen/radiolantau/radio.mp3",
+       "tags": [
+        "soul_rnb_funk",
+        "rock",
+        "jazz",
+        "punk",
+        "oldies",
+        "alternative_indie",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "techno": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "LBM Radio",
+       "url": "https://streams.radio.co/sfb4d7f31d/listen",
+       "tags": [
+        "electronic",
+        "techno",
+        "house",
+        "folk",
+        "jazz",
+        "pop_hits",
+        "disco_eurodance",
+        "soul_rnb_funk",
+        "reggae_ska",
+        "various_eclectic"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "world": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "Billboard Radio China Asia Hitz",
+       "url": "http://gfm.rastream.com/gfm-asiahitz",
+       "tags": [
+        "pop_hits",
+        "world"
+       ]
+      },
+      {
+       "name": "HKJ Radio",
+       "url": "http://listen.hkjradio.com:8009/live"
+      },
+      {
+       "name": "Kalaallit Nunaata Radioa",
+       "url": "http://radio.knr.gl:8000",
+       "tags": [
+        "various_eclectic",
+        "college_community",
+        "world",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Talibé",
+       "url": "http://listen.senemultimedia.net:5279/",
+       "language_inferred": true
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 80,
+     "stations": [
+      {
+       "name": "14.3 Bff Radio",
+       "url": "https://radio1.reans.net/radio/8040/radio.mp3"
+      },
+      {
+       "name": "18.3LDR OFW TAMBAYAN – HK",
+       "url": "http://stream.zeno.fm/oe1vmwsl2yetv",
+       "language_inferred": true
+      },
+      {
+       "name": "2betbau",
+       "url": "https://stream.zeno.fm/yzzoxidgmkmtv"
+      },
+      {
+       "name": "83.8 FOREVER LOVE FM – 83.8 FM – HK-HK",
+       "url": "http://centova72.instainternet.com:8271/stream?type=http&nocache=5",
+       "language_inferred": true
+      },
+      {
+       "name": "asdasd",
+       "url": "https://stream.zeno.fm/vkj37u0y08ptv",
+       "language_inferred": true
+      },
+      {
+       "name": "Ayse Teyze Sahin K",
+       "url": "https://stream.zeno.fm/bfuhlgetkcctv",
+       "language_inferred": true
+      },
+      {
+       "name": "BizPaye Radio",
+       "url": "http://stream.pattaya103.com:8100/pattaya103e"
+      },
+      {
+       "name": "Boss ains",
+       "url": "https://stream.zeno.fm/9c915ydexgzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "BOSS TSUNA",
+       "url": "https://stream.zeno.fm/s9qysh9fn1ntv",
+       "language_inferred": true
+      },
+      {
+       "name": "Brasil play moderno",
+       "url": "https://stream.zeno.fm/7dfkdt2qyc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "BREEZE 88 FM",
+       "url": "https://stream.zeno.fm/vb271muvkchvv"
+      },
+      {
+       "name": "BREEZE 88 GOLDEN",
+       "url": "https://stream.zeno.fm/vgqrq61wkchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "BREEZE 88 JAZZ",
+       "url": "https://stream.zeno.fm/h08n3x6mmchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Chill Out 86400",
+       "url": "https://stream.zeno.fm/g7yec7nsqfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "CJ Live",
+       "url": "https://stream.zeno.fm/yvw3cssmefhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "CMC加州音乐",
+       "url": "https://cmc-ono.amagi.tv/playlist720_p.m3u8?n=bbcac500532cdf196558",
+       "language_inferred": true
+      },
+      {
+       "name": "DBC 3 Radio Business",
+       "url": "http://rtspoversea.dbc.hk/dbc3?type=.mp3",
+       "country_inferred": true
+      },
+      {
+       "name": "DEYBMAOY",
+       "url": "https://stream.zeno.fm/lfou2hen8ktuv",
+       "language_inferred": true
+      },
+      {
+       "name": "DWBG-FM BIG SOUND FM BAGUIO",
+       "url": "https://stream.zeno.fm/ghdgndebpkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Faizan-e-Auliya Allah Radio HK",
+       "url": "http://api.spreaker.com/listen/user/8318340/episode/latest/shoutcast.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Flipside Radio",
+       "url": "http://205.134.253.103:9888/Sid=1"
+      },
+      {
+       "name": "FMtest",
+       "url": "https://stream.zeno.fm/0smara72u7zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "gdragon",
+       "url": "https://stream.zeno.fm/9hxch8qe408uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hail Mary Full of Grace Prayer",
+       "url": "https://stream.zeno.fm/umkmmmc22s8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "HAKDOG",
+       "url": "https://stream.zeno.fm/0rdwtjd4sgevv",
+       "language_inferred": true
+      },
+      {
+       "name": "Highfun Radios ( shows)",
+       "url": "https://stream.zeno.fm/vzgtzzs0x68uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hk Latino Radio",
+       "url": "https://stream.zeno.fm/0afmaf4x2tzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "HKYGC Channel 1",
+       "url": "https://stream.zeno.fm/qvyz5w1psg0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "HongKonger Station – HK",
+       "url": "https://s4.radio.co/s8adc4c466/listen",
+       "language_inferred": true
+      },
+      {
+       "name": "JOPAY 777",
+       "url": "https://stream.zeno.fm/ozengjd7vctvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Jopaymalakas",
+       "url": "https://stream.zeno.fm/szxdilz3it1vv",
+       "language_inferred": true
+      },
+      {
+       "name": "joyjoy",
+       "url": "https://stream.zeno.fm/4nnnkccabmfvv",
+       "language_inferred": true
+      },
+      {
+       "name": "kpop music",
+       "url": "https://stream.zeno.fm/xpnmkvcu008uv",
+       "language_inferred": true
+      },
+      {
+       "name": "KRadio 若望三電台",
+       "url": "https://stream.zeno.fm/4uih7z8lxj9uv"
+      },
+      {
+       "name": "La French Radio Honk-Kong et Macao",
+       "url": "https://www.radioking.com/play/la-french-radio-hong-kong-et-macao",
+       "language_inferred": true
+      },
+      {
+       "name": "LeslieC",
+       "url": "https://stream.zeno.fm/q44ytrpyyv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Lye Radio Station",
+       "url": "https://stream.zeno.fm/uchuyhgqtxxtv",
+       "language_inferred": true
+      },
+      {
+       "name": "M Groove",
+       "url": "https://stream.zeno.fm/jdacaz7rqlfvv",
+       "language_inferred": true
+      },
+      {
+       "name": "MAOYMAOY",
+       "url": "https://stream.zeno.fm/jp8zjmerfbhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "marlou",
+       "url": "https://stream.zeno.fm/jy8ok90ftj2tv",
+       "language_inferred": true
+      },
+      {
+       "name": "MutzikerLab",
+       "url": "https://stream.zeno.fm/3w0a8w2dbchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "NEW SHA",
+       "url": "https://stream.zeno.fm/e5g3r7jioqrvv",
+       "language_inferred": true
+      },
+      {
+       "name": "new shasha",
+       "url": "https://stream.zeno.fm/mjnrc0bkkrltv",
+       "language_inferred": true
+      },
+      {
+       "name": "NewsNet WH",
+       "url": "https://stream.zeno.fm/upwp4t6c7a0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Original Radio",
+       "url": "https://stream.zeno.fm/64w8au0dd8zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Originalradio.org",
+       "url": "https://node-35.zeno.fm/rzwzgu0dd8zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Pasaway10.11fm online radio – HK",
+       "url": "http://stream.zeno.fm/i7htwwqmmxuvv",
+       "language_inferred": true
+      },
+      {
+       "name": "PostMusic24FM",
+       "url": "https://stream.zeno.fm/1nr31szv1f9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "PostMusic24FM-ATB",
+       "url": "https://stream.zeno.fm/p313s6qx1f9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Prnunes Tsim Sha Tsui live brazil",
+       "url": "https://stream2.svrdedicado.org:7088/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Balkanci",
+       "url": "https://stream.zeno.fm/8tdb50td2c9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Lantau – HK-HK",
+       "url": "http://geckonet.net:9302/",
+       "language_inferred": true
+      },
+      {
+       "name": "radio live",
+       "url": "https://sonicpanel.oficialserver.com/8336/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Rzo China",
+       "url": "https://node-18.zeno.fm/5mx670rvzp8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Roquia from the Koran",
+       "url": "http://quraan.us:9798/",
+       "language_inferred": true
+      },
+      {
+       "name": "RTHK Radio 5",
+       "url": "http://202.177.192.119/radio5",
+       "language_inferred": true
+      },
+      {
+       "name": "RTHK Radio 8 央廣粵港澳大灣區之聲",
+       "url": "https://rthkradiocmgrgb-live.akamaized.net/hls/live/2046112/radiocmgrgb/master.m3u8?n=618621f5e045a50fa503",
+       "language_inferred": true
+      },
+      {
+       "name": "SADSHA",
+       "url": "https://stream.zeno.fm/kswff8ffhpgtv",
+       "language_inferred": true
+      },
+      {
+       "name": "Samp Android",
+       "url": "https://stream.zeno.fm/y5k8zf7qyc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "SHADEYB",
+       "url": "https://stream.zeno.fm/mt8tfxippxdvv",
+       "language_inferred": true
+      },
+      {
+       "name": "SHAGANDA",
+       "url": "https://stream.zeno.fm/ef7zhzf0atkuv",
+       "language_inferred": true
+      },
+      {
+       "name": "SHASHABOG",
+       "url": "https://stream.zeno.fm/llmx2h78lketv",
+       "language_inferred": true
+      },
+      {
+       "name": "SHASHAMAOY",
+       "url": "https://stream.zeno.fm/ihfl1h2evqrtv",
+       "language_inferred": true
+      },
+      {
+       "name": "SOWJ 2",
+       "url": "https://stream.zeno.fm/7ci62cgb61bvv",
+       "language_inferred": true
+      },
+      {
+       "name": "SOWJ 3",
+       "url": "https://stream.zeno.fm/pqeo49g9dd3vv",
+       "language_inferred": true
+      },
+      {
+       "name": "Star Global Fm",
+       "url": "https://stream.zeno.fm/dr68yeufkf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Talkonly Live!",
+       "url": "http://live.talkonly.net:8000/talkonly.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "TalkOnly Radio HK",
+       "url": "http://103.11.102.62:8000/offair.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Teen Talk",
+       "url": "https://stream.zeno.fm/794vzqx6xf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Tzgospel(swahili ) hongkong",
+       "url": "https://stream.zeno.fm/1atpwm3fzchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "VOA 美國之音",
+       "url": "http://bit.ly/voaradio"
+      },
+      {
+       "name": "傍晚新聞天地 18:30",
+       "url": "https://rthkaod3-vh.akamaihd.net/i/m4a/radio/archive/radio1/6oclocknews/m4a/20220113.m4a/master.m3u8?callback=jQuery112409800777413835493_1642074777532\\u0026_=1642074777533",
+       "language_inferred": true
+      },
+      {
+       "name": "恐怖在線 Edmond poon",
+       "url": "http://audiocast.kolorboxlab.com:8432/stream"
+      },
+      {
+       "name": "新城財經台 Metro Finance FM104 – 104 FM – HK-HK",
+       "url": "https://1295896862.rsc.cdn77.org/1295896862/tracks-a1/mono.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "良友电台",
+       "url": "https://listen.729ly.net:8001/ly729_a"
+      },
+      {
+       "name": "華語 HITS – HK-HK",
+       "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ASIAHITZ_S01.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "葉曦揚 Sunny Ip",
+       "url": "http://procyon.shoutca.st:8492/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "講台 Talkonly – HK-HK",
+       "url": "http://www.talkonly.net/local_live.pls",
+       "language_inferred": true
+      },
+      {
+       "name": "香港人網 HK Reporter 2 – HK-HK",
+       "url": "http://hkr2.no-ip.org:8000",
+       "language_inferred": true
+      },
+      {
+       "name": "香港人網 HK Reporter – HK-HK",
+       "url": "http://hkr1.no-ip.org:8000",
+       "language_inferred": true
+      }
+     ]
+    }
+   }
+  },
+  "English": {
+   "count": 21,
+   "genres": {
+    "alternative_indie": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Lantau",
+       "url": "http://radiolantau:9302/",
+       "tags": [
+        "rock",
+        "alternative_indie",
+        "metal",
+        "jazz",
+        "oldies",
+        "blues",
+        "decade_60s",
+        "decade_90s"
+       ]
+      }
+     ]
+    },
+    "classical": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "RTHK Radio 4",
+       "url": "https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/master.m3u8"
+      },
+      {
+       "name": "RTHK Radio 4",
+       "url": "https://rthkaudio4-lh.akamaihd.net/i/radio4_1@355867/master.m3u8",
+       "tags": [
+        "classical",
+        "news_talk",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "decade_80s": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "GFM Awesome 80s",
+       "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/80S90S_S01AAC.aac",
+       "tags": [
+        "decade_80s",
+        "decade_90s",
+        "oldies",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "electronic": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "BEST BEATS",
+       "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BRIDGEEDM_S01AAC.aac",
+       "tags": [
+        "electronic",
+        "house",
+        "techno",
+        "trance_goa"
+       ]
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 8,
+     "stations": [
+      {
+       "name": "Apple-FM",
+       "url": "http://server20.applesources.net:8000/apple-fm.mp3",
+       "tags": [
+        "news_talk",
+        "oldies",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "AXR Hong Kong",
+       "url": "https://hongkongstream.axr.online",
+       "tags": [
+        "news_talk",
+        "sports",
+        "easy_listening",
+        "pop_hits",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "IELTS Podcast",
+       "url": "https://streaming.radio.co/se151f189a/listen",
+       "tags": [
+        "news_talk",
+        "world",
+        "soul_rnb_funk",
+        "rock",
+        "college_community",
+        "country",
+        "drum_and_bass",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "METRO PLUS",
+       "url": "https://1435271937.rsc.cdn77.org/1435271937/index.m3u8",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Lantau",
+       "url": "http://205.134.253.103:9302/",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "RTHK Radio 1",
+       "url": "https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/index_56_a-p.m3u8"
+      },
+      {
+       "name": "RTHK Radio 3",
+       "url": "https://rthkradio3-live.akamaized.net/hls/live/2040079/radio3/master.m3u8?n=5073a4a0fa3bdf3115a7"
+      },
+      {
+       "name": "RTHK Radio 3- 97.9 FM",
+       "url": "http://stm1.rthk.hk/radio3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "oldies": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Apple FM",
+       "url": "http://sc.apple-fm.net:9020",
+       "bitrate": 64,
+       "logo": "http://radio.pervii.com/logo/105719.jpg",
+       "tags": [
+        "oldies",
+        "various_eclectic",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Apple FM",
+       "url": "http://ice.apple-fm.net:8000/apple-fm.mp3",
+       "tags": [
+        "oldies",
+        "alternative_indie",
+        "classical",
+        "pop_hits",
+        "rock",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "Apple-FM",
+       "url": "http://sc7b.apple-fm.net:8188/",
+       "tags": [
+        "oldies",
+        "latin",
+        "decade_70s",
+        "decade_60s",
+        "decade_80s",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "AXR Hong Kong",
+       "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AXR_HONGKONG.mp3"
+      },
+      {
+       "name": "AXR Hong Kong",
+       "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AXR_HONGKONGAAC.aac"
+      }
+     ]
+    },
+    "soul_rnb_funk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Fauve Radio",
+       "url": "https://streamer.radio.co/sde68d7e6b/listen",
+       "tags": [
+        "soul_rnb_funk",
+        "house",
+        "easy_listening",
+        "electronic",
+        "disco_eurodance",
+        "classical",
+        "world",
+        "ambient_relax",
+        "pop_hits",
+        "college_community",
+        "techno",
+        "trance_goa",
+        "rock",
+        "chillout_lounge",
+        "country",
+        "drum_and_bass",
+        "kids",
+        "reggae_ska",
+        "news_talk",
+        "jazz"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Bridge Radio Best Beats – HK-HK",
+       "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BRIDGEEDM_S01.mp3"
+      },
+      {
+       "name": "NightcoreSkies All-Day Live Nightcore and Slowed Radio",
+       "url": "https://stream.zeno.fm/xo1tkjqp1eevv"
+      }
+     ]
+    }
+   }
+  },
+  "Japanese": {
+   "count": 1,
+   "genres": {
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Lovehkradio.com",
+       "url": "https://streaming.radio.co/s6f4c5734d/listen"
+      }
+     ]
+    }
+   }
+  },
+  "French": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "La French Radio Honk-Kong et Macao",
+       "url": "https://listen.radioking.com/radio/333865/stream/382282"
+      }
+     ]
+    }
+   }
+  },
+  "Indonesian": {
+   "count": 1,
+   "genres": {
+    "christian_gospel": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "IMC Broadcasting",
+       "url": "http://server.jvhost.net.:8021/live"
+      }
+     ]
+    }
+   }
+  },
+  "Italian": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "radiovoceamore",
+       "url": "https://stream.zeno.fm/ycpgpbhxra0uv"
+      }
+     ]
+    }
+   }
+  },
+  "Filipino": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Testonlineradio",
+       "url": "https://stream.zeno.fm/yxgk57xuqfhvv"
+      }
+     ]
+    }
+   }
+  },
+  "Swedish": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Touching Energy",
+       "url": "https://stream.zeno.fm/795unxb23yzuv"
+      }
+     ]
+    }
+   }
+  },
+  "Spanish": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "rodeo musix",
+       "url": "https://stream.zeno.fm/71nxdyw5pa0uv"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

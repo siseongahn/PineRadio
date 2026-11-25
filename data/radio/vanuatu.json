@@ -1,0 +1,276 @@
+{
+ "country": "Vanuatu",
+ "count": 26,
+ "languages": {
+  "English": {
+   "count": 23,
+   "genres": {
+    "alternative_indie": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Universidad 92.1 FM Listen live",
+       "url": "https://stream.zenolive.com/xqbz7b86a0quv.aac",
+       "tags": [
+        "news_talk",
+        "alternative_indie",
+        "oldies",
+        "chillout_lounge"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "christian_gospel": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Laif FM",
+       "url": "https://livessl.rcast.net/stream/65809"
+      }
+     ]
+    },
+    "decade_90s": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Paradise 98 FM Listen live",
+       "url": "https://radio.vbtc.media/paradisefm",
+       "tags": [
+        "pop_hits",
+        "decade_90s"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "electronic": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "The People's Radio of Levski",
+       "url": "http://us1.streamingpulse.com:7058/stream",
+       "language_inferred": true
+      }
+     ]
+    },
+    "folk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Gyrbeti",
+       "url": "http://www.bini-voice.at.vu",
+       "country_inferred": true,
+       "language_inferred": true
+      }
+     ]
+    },
+    "latin": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Estilo FM Listen live",
+       "url": "https://estilofm.tustreamings2.cl/server",
+       "tags": [
+        "latin",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "Buzz FM 96",
+       "url": "http://103.75.20.93:9999/",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "rock"
+       ]
+      },
+      {
+       "name": "Capital FM107",
+       "url": "http://s1.wohooo.net:8021/",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "islamic_quran",
+        "reggae_ska",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Capitol FM107",
+       "url": "http://s1.wohooo.net:9420/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Mogán 107.8 FM Listen live",
+       "url": "https://streaming2.elitecomunicacion.es:8100/server",
+       "language_inferred": true
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Radio Bellissima Hits Listen live",
+       "url": "https://giorgia.radiobellissima.it/radio/8000/server",
+       "language_inferred": true
+      },
+      {
+       "name": "Station Beta, Port Vila radio",
+       "url": "https://stream.zeno.fm/hyfdqxwjzy8vv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "rock": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "DeluxFM Listen live",
+       "url": "https://s3streamingradio.desafiohosting.com:9022/server",
+       "tags": [
+        "rock",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Nora 80er Listen live",
+       "url": "https://norawebstreams-stream23.radiohost.de/nora-80er_mp3-192",
+       "tags": [
+        "rock",
+        "easy_listening",
+        "pop_hits",
+        "decade_80s"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "The Rock FM97",
+       "url": "http://s1.wohooo.net:9416/stream/",
+       "tags": [
+        "oldies",
+        "rock"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "soul_rnb_funk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Vanuatu - VBTC Listen live",
+       "url": "https://radio.vbtc.media/radiovanuatu",
+       "tags": [
+        "soul_rnb_funk",
+        "oldies"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "various_eclectic": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "FEMME FM Vanuatu",
+       "url": "http://radio.vbtc.vu:7000/femmefm",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Paradise FM Vanuatu",
+       "url": "http://radio.vbtc.vu:7000/paradisefm",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Vanuatu",
+       "url": "http://radio.vbtc.vu:7000/radiovanuatu",
+       "country_inferred": true,
+       "language_inferred": true
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "Alfa stereo radio",
+       "url": "https://stream.zeno.fm/p9bm2zugmzzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Arafa Song On The Stones",
+       "url": "https://stream.zeno.fm/yj9sucbqwytvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Femme Pawa 99FM – 99.0 FM – Port Vila – Shefa – VU",
+       "url": "https://radio.vbtc.media/femmefm",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio LatinoMix",
+       "url": "https://stream.zeno.fm/u4twkmp2ag0uv"
+      }
+     ]
+    }
+   }
+  },
+  "French": {
+   "count": 3,
+   "genres": {
+    "news_talk": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "96 Buzz FM",
+       "url": "https://streamer.dailypost.vu/live",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "islamic_quran",
+        "decade_90s",
+        "classical"
+       ]
+      },
+      {
+       "name": "Radio Vanuatu",
+       "url": "http://radio.vbtc.media:7000/radiovanuatu",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "islamic_quran"
+       ]
+      }
+     ]
+    },
+    "reggae_ska": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Paradise FM Vanuatu",
+       "url": "http://radio.vbtc.media:7000/paradisefm",
+       "tags": [
+        "electronic",
+        "news_talk",
+        "reggae_ska",
+        "pop_hits",
+        "islamic_quran"
+       ]
+      }
+     ]
+    }
+   }
+  }
+ }
+}

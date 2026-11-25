@@ -1,0 +1,6095 @@
+{
+ "country": "Pakistan",
+ "count": 1000,
+ "languages": {
+  "Urdu": {
+   "count": 884,
+   "genres": {
+    "acid_jazz": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Pakistan Makhdumpur Fm",
+       "url": "http://makhdumpurfm.webs.com//MakhdumpurFM.m3u/stream/1",
+       "language_inferred": true
+      }
+     ]
+    },
+    "alternative_indie": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Jannatfm",
+       "url": "http://172.245.181.18:9990/stream/1listen.pls",
+       "language_inferred": true
+      }
+     ]
+    },
+    "ambient_relax": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Aks Radio",
+       "url": "http://www.aksradio.com/",
+       "language_inferred": true
+      },
+      {
+       "name": "Apna Radio",
+       "url": "http://radio.apnaradio.net",
+       "tags": [
+        "ambient_relax",
+        "decade_90s"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "blues": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Libra FM Bagh Azad kashmir Pakistan",
+       "url": "https://freeuk15.listen2myradio.com/live.mp3?typeportmount=s2_11767_stream_412331214",
+       "tags": [
+        "rock",
+        "blues"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "bollywood_indian": {
+     "count": 17,
+     "stations": [
+      {
+       "name": "Apnaradio",
+       "url": "http://ksa.gulfhost.co:9999/stream/1",
+       "tags": [
+        "bollywood_indian",
+        "hip_hop_rap"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Crown Chat Room",
+       "url": "https://radio.crownchatroom.com/radio/8000/radio.mp3",
+       "tags": [
+        "bollywood_indian",
+        "electronic",
+        "world",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Desination Radio",
+       "url": "http://50.7.98.106:8681/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "Dhak Dhak Radio",
+       "url": "http://209.105.250.69:8404",
+       "language_inferred": true
+      },
+      {
+       "name": "FM 100 Lahore",
+       "url": "http://162.244.80.118:3058/stream/",
+       "tags": [
+        "bollywood_indian",
+        "world",
+        "easy_listening",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Fm 92 Music Highway Nooriabad",
+       "url": "http://freeuk30.listen2myradio.com:21763/",
+       "language_inferred": true
+      },
+      {
+       "name": "FM100 Lahore live",
+       "url": "http://38.96.148.141:5464/stream.mp3",
+       "tags": [
+        "bollywood_indian",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "FM91 Pakistan - Karachi",
+       "url": "https://crs.webdesign-flash.ro/?q=http://172.93.237.106:8147/stream/&plugin_id=7628&site_id=8520577",
+       "tags": [
+        "pop_hits",
+        "bollywood_indian",
+        "easy_listening",
+        "blues",
+        "various_eclectic",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "FunCafe",
+       "url": "http://radio.fun.cafe:8800/",
+       "tags": [
+        "bollywood_indian",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Hindi Radio Radio Chili",
+       "url": "http://50.7.70.58:8777/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "Jeay FM",
+       "url": "https://ssl.rockhost.com/proxy/larkana?mp=/stream/",
+       "language_inferred": true
+      },
+      {
+       "name": "Kompis FM",
+       "url": "https://eu2.fastcast4u.com/proxy/kompisfm?mp=/1",
+       "tags": [
+        "pop_hits",
+        "bollywood_indian",
+        "folk"
+       ]
+      },
+      {
+       "name": "MERA FM 107.4",
+       "url": "http://samaakhi107-itelservices.radioca.st:8876/stream/",
+       "tags": [
+        "bollywood_indian",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Bakwas",
+       "url": "https://stream.zeno.fm/9htu0k0vsuquv",
+       "tags": [
+        "various_eclectic",
+        "bollywood_indian",
+        "easy_listening",
+        "world"
+       ]
+      },
+      {
+       "name": "Radiolick Com Bhangra Desifm Desi Punjabi Vollywood Hitz 247",
+       "url": "http://136.243.130.139:7687/stream/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "The Magic Radio",
+       "url": "http://cc.vmakerhost.com:8173/autodj",
+       "language_inferred": true
+      },
+      {
+       "name": "Theradiofm",
+       "url": "http://172.245.24.229:9956/stream/1",
+       "language_inferred": true
+      }
+     ]
+    },
+    "christian_gospel": {
+     "count": 5,
+     "stations": [
+      {
+       "name": "Ash Fm",
+       "url": "http://streaming.radionomy.com/Ash-Fm?lang=en-US%2cen%3bq%3d0.8/Mlnwebradio.m3u",
+       "language_inferred": true
+      },
+      {
+       "name": "Ashbel Radio",
+       "url": "http://opportunity.shoutca.st:9129/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Love Islam Radio",
+       "url": "http://167.114.64.181:8368/stream",
+       "tags": [
+        "christian_gospel",
+        "islamic_quran"
+       ]
+      },
+      {
+       "name": "Love Islam Radio",
+       "url": "https://stream.zeno.fm/f9h69cgbu68uv",
+       "tags": [
+        "christian_gospel",
+        "islamic_quran"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Naat Radio",
+       "url": "http://radio.dawateislami.tv:8640/naat/stream/1",
+       "language_inferred": true
+      }
+     ]
+    },
+    "classical": {
+     "count": 8,
+     "stations": [
+      {
+       "name": "All4Masti",
+       "url": "https://stream.zeno.fm/bc1xq9y8u68uv",
+       "tags": [
+        "pop_hits",
+        "classical",
+        "folk",
+        "rock",
+        "world"
+       ]
+      },
+      {
+       "name": "Asianz FM",
+       "url": "http://89.39.189.47:7866/",
+       "tags": [
+        "classical",
+        "rock",
+        "folk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Awam Fm 94 Khushab",
+       "url": "https://server.mediacast4u.stream/8010/stream",
+       "tags": [
+        "classical",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Big Fm 98",
+       "url": "http://streaming.radionomy.com/BigFm98",
+       "tags": [
+        "classical",
+        "bollywood_indian"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Listen To GSChatrooms Live Web Radio",
+       "url": "http://radio.mastfm106.com:9974/stream/1",
+       "tags": [
+        "classical",
+        "kids",
+        "decade_90s"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Mast 105 FM",
+       "url": "http://37.59.114.102:9300/",
+       "tags": [
+        "pop_hits",
+        "classical"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Mianwali FM",
+       "url": "http://203.124.35.147:8048/relay",
+       "language_inferred": true
+      },
+      {
+       "name": "Voice Asia Radio Voiceasiaradio Com Aik Bandhan Pyar Ka Indian Pakistani Free Mu",
+       "url": "http://voiceasiaradio.com/chatroom.aspx",
+       "tags": [
+        "classical",
+        "bollywood_indian",
+        "house",
+        "kids",
+        "folk"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "college_community": {
+     "count": 8,
+     "stations": [
+      {
+       "name": "ABsList",
+       "url": "https://stream.zeno.fm/7rmrvvmrduhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "ILM Radio Renala",
+       "url": "https://stream.zeno.fm/7wre21u7xa0uv"
+      },
+      {
+       "name": "MAFIAradio",
+       "url": "https://stream.zeno.fm/s06hzfb3bm6vv",
+       "language_inferred": true
+      },
+      {
+       "name": "metroviille",
+       "url": "https://stream.zeno.fm/hdke7yxgijlvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Red Planet",
+       "url": "https://stream.zeno.fm/g3dgtvtu908uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RG Studio",
+       "url": "https://stream.zeno.fm/6fdq1ass7k8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "vitsolnet",
+       "url": "https://stream.zeno.fm/tuq27e4uxd0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "ZABFM106.6",
+       "url": "https://stream.zeno.fm/bdp8awkucuhvv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "comedy": {
+     "count": 5,
+     "stations": [
+      {
+       "name": ".devGaming Radio",
+       "url": "https://stream.zeno.fm/a08ykcr9sd0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hasi Mazhak",
+       "url": "https://stream.zeno.fm/hgp1g7qt8hhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "IA Dawran",
+       "url": "https://stream.zeno.fm/3mf5cmsz9nhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Rays Music",
+       "url": "https://stream.zeno.fm/wem3ycogu2huv",
+       "language_inferred": true
+      },
+      {
+       "name": "sumRadio",
+       "url": "https://stream.zeno.fm/4raywsvgbchvv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "decade_1920s_50s": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Global FM 91",
+       "url": "https://cc.vmakerhost.com/proxy/globalfm91?mp=/globalfm91",
+       "language_inferred": true
+      }
+     ]
+    },
+    "decade_70s": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Global FM 91",
+       "url": "http://server.a-xee.com:8500/globalfm?type=.mp3",
+       "tags": [
+        "decade_70s",
+        "decade_80s",
+        "decade_90s",
+        "decade_1920s_50s"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "decade_80s": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "FM91 - 80's Music",
+       "url": "http://172.93.237.106:8213/stream",
+       "language_inferred": true
+      }
+     ]
+    },
+    "decade_90s": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "FM91 Pakistan - 90s Music",
+       "url": "http://172.93.237.106:8217/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Pakistani radio fm",
+       "url": "http://philae.shoutca.st:8332/&amptype=mp3/stream/1",
+       "language_inferred": true
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 15,
+     "stations": [
+      {
+       "name": "FM 100 - Karachi",
+       "url": "http://162.244.80.118:3024/stream.mp3",
+       "tags": [
+        "easy_listening",
+        "bollywood_indian"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "FM 101",
+       "url": "https://whmsonic.radio.gov.pk:7008/stream?type=http&ampnocache=12",
+       "tags": [
+        "easy_listening",
+        "news_talk"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Hum FM",
+       "url": "http://icy1.abacast.com/humfm-humfmmp3-64/stream.mp3",
+       "tags": [
+        "pop_hits",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Kompis FM",
+       "url": "http://178.33.135.245:4196/stream/",
+       "tags": [
+        "easy_listening",
+        "world"
+       ]
+      },
+      {
+       "name": "Mast FM 103",
+       "url": "http://110.36.229.158:8000/stream/1/",
+       "tags": [
+        "pop_hits",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Mast fm 103",
+       "url": "http://110.36.229.158:8000/listen.pls?sid=8",
+       "language_inferred": true
+      },
+      {
+       "name": "Mast FM 103 Lahore",
+       "url": "http://110.36.229.158:8000/http:/110.36.229.158:8000",
+       "language_inferred": true
+      },
+      {
+       "name": "MusicMastiFM Web Radio",
+       "url": "https://stream.reinflux.com/radio/8020/radio.mp3",
+       "tags": [
+        "soundtrack",
+        "easy_listening",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Peace FM",
+       "url": "https://stream.zeno.fm/ry17km30x68uv",
+       "tags": [
+        "easy_listening",
+        "various_eclectic",
+        "news_talk",
+        "decade_90s",
+        "decade_80s",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio FM World Pakistan",
+       "url": "http://radio.itelservices.net:8612/stream/1",
+       "tags": [
+        "bollywood_indian",
+        "easy_listening",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radioactive 96 FM",
+       "url": "http://s2.voscast.com:8688/",
+       "tags": [
+        "pop_hits",
+        "easy_listening",
+        "bollywood_indian",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Rose FM 90",
+       "url": "http://uk6.internet-radio.com:8516/rosefm90?1493445419100",
+       "language_inferred": true
+      },
+      {
+       "name": "SAMAA FM",
+       "url": "http://212.83.138.48:8876/stream/",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "easy_listening",
+        "bollywood_indian",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Super Rádio Marajoara 1130 AM Listen live",
+       "url": "https://vip2.fastcast4u.com/proxy/sjtampaplus?mp=/1",
+       "tags": [
+        "various_eclectic",
+        "news_talk",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "The Hit FM radio",
+       "url": "http://rps.a-xee.com:8500/TheHitFM?type=.mp3",
+       "tags": [
+        "pop_hits",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "electronic": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "Cityfm89 Listen live",
+       "url": "https://video1.getstreamhosting.com:8112/server",
+       "tags": [
+        "christian_gospel",
+        "electronic",
+        "pop_hits",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Eeden Radio",
+       "url": "http://radio.dostiplace.com:9222/",
+       "tags": [
+        "various_eclectic",
+        "electronic",
+        "rock",
+        "soul_rnb_funk"
+       ]
+      },
+      {
+       "name": "Radio Dilber Charsadda",
+       "url": "https://cc.vmakerhost.com/proxy/charsadda93?mp=/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Suno FM",
+       "url": "http://streaming.radionomy.com/SUNOFMRADIO",
+       "tags": [
+        "pop_hits",
+        "various_eclectic",
+        "electronic"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "folk": {
+     "count": 10,
+     "stations": [
+      {
+       "name": "Awam Fm 94",
+       "url": "http://server.softlinepk.stream:8010/stream",
+       "tags": [
+        "pop_hits",
+        "folk",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Chiltan FM 88",
+       "url": "http://212.83.138.48:8284/stream.mp3",
+       "tags": [
+        "news_talk",
+        "folk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Dil FM Gujrat radio",
+       "url": "http://158.69.26.40:9302/",
+       "tags": [
+        "pop_hits",
+        "folk",
+        "bollywood_indian"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "FM100 Islamabad",
+       "url": "http://162.244.80.118:4900/stream/",
+       "tags": [
+        "folk",
+        "pop_hits",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "FM91 Pakistan - Gwadar",
+       "url": "http://172.93.237.106:8209/stream",
+       "tags": [
+        "easy_listening",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Madani Channel",
+       "url": "http://38.96.175.97:5568/?.mp3",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "folk",
+        "bollywood_indian"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Mix Chat Room Online Radio",
+       "url": "https://ec1.everestcast.host/awamichat",
+       "tags": [
+        "folk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Bakwas",
+       "url": "https://stream.zenolive.com/9htu0k0vsuquv.mp3",
+       "tags": [
+        "folk",
+        "various_eclectic",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan - FM100 Islamabad",
+       "url": "http://zainraja1.flashmediacast.com:1935/zainraja1/livestream/playlist.m3u8",
+       "tags": [
+        "world",
+        "folk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Rose FM 90",
+       "url": "https://cc.vmakerhost.com/proxy/rosefm90?mp=/rosefm90",
+       "tags": [
+        "pop_hits",
+        "folk",
+        "easy_listening",
+        "bollywood_indian"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "hip_hop_rap": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Spice FM 107 Listen live",
+       "url": "https://37.59.41.35/:12306listen.mp3",
+       "tags": [
+        "pop_hits",
+        "hip_hop_rap"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "house": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Shaska FM",
+       "url": "https://stream.zeno.fm/d4aec85tn2zuv",
+       "tags": [
+        "house",
+        "rock",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "islamic_quran": {
+     "count": 15,
+     "stations": [
+      {
+       "name": "AK-Radio Mirpur",
+       "url": "https://whmsonic.radio.gov.pk:8074/relay",
+       "language_inferred": true
+      },
+      {
+       "name": "Faizan-e-Farz Uloom Course",
+       "url": "http://37.59.28.208:8740/stream.nsv",
+       "language_inferred": true
+      },
+      {
+       "name": "FM 93 Rawalpindi",
+       "url": "https://whmsonic.radio.gov.pk:8036/relay",
+       "language_inferred": true
+      },
+      {
+       "name": "Jamia Suffah Radio",
+       "url": "http://listen.radionomy.com/jamiasuffahradio",
+       "language_inferred": true
+      },
+      {
+       "name": "Love Islam Radio",
+       "url": "http://myradio.doscast.com:8368/stream"
+      },
+      {
+       "name": "Love Islam Radio",
+       "url": "http://canada1.reliastream.com:8191/stream"
+      },
+      {
+       "name": "Love Islam Radio",
+       "url": "http://167.114.64.181:8368/stream?1604896677061",
+       "language_inferred": true
+      },
+      {
+       "name": "Love-Islam-Radio",
+       "url": "https://stream-52.zeno.fm/f9h69cgbu68uv",
+       "tags": [
+        "islamic_quran",
+        "christian_gospel"
+       ]
+      },
+      {
+       "name": "MERA FM",
+       "url": "https://samaakhi107-itelservices.radioca.st/stream.mp3"
+      },
+      {
+       "name": "Mera FM",
+       "url": "https://samaaisb107-itelservices.radioca.st/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Planet FM 87.6 - Islamadab, Pakistan",
+       "url": "https://whmsonic.radio.gov.pk:7042/stream",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan - Islamabad Station",
+       "url": "http://whmsonic.radio.gov.pk:8008/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan - Saut Ul Quran",
+       "url": "http://whmsonic.radio.gov.pk:8006/stream/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan Peshawar MW",
+       "url": "https://whmsonic.radio.gov.pk:8072/relay",
+       "language_inferred": true
+      },
+      {
+       "name": "Suno FM 89.4",
+       "url": "http://110.93.246.72:8000/SUNO",
+       "language_inferred": true
+      }
+     ]
+    },
+    "jazz": {
+     "count": 8,
+     "stations": [
+      {
+       "name": "AllForMasti",
+       "url": "https://stream.zeno.fm/bahhkuge5zhvv",
+       "tags": [
+        "jazz",
+        "pop_hits",
+        "classical",
+        "rock"
+       ]
+      },
+      {
+       "name": "City FM 89",
+       "url": "http://video1.getstreamhosting.com:18026/stream",
+       "tags": [
+        "soul_rnb_funk",
+        "disco_eurodance",
+        "jazz",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Cityfm89",
+       "url": "http://54.69.118.153:8081/live",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "jazz",
+        "electronic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Dhanak",
+       "url": "https://whmsonic.radio.gov.pk:7007/stream?type=http&ampnocache=12",
+       "tags": [
+        "folk",
+        "jazz",
+        "pop_hits",
+        "rock"
+       ],
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Dhanak",
+       "url": "http://58.65.171.102:8002/stream",
+       "tags": [
+        "rock",
+        "folk",
+        "jazz",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Dhanak radio",
+       "url": "https://whmsonic.radio.gov.pk:7007/stream",
+       "tags": [
+        "rock",
+        "jazz",
+        "folk",
+        "pop_hits",
+        "islamic_quran"
+       ]
+      },
+      {
+       "name": "Flare FM 99 KASUR",
+       "url": "http://119.152.247.218:8098/fm99",
+       "tags": [
+        "pop_hits",
+        "jazz"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Fm 103 Quetta",
+       "url": "http://fm103quetta.listen2myradio.com/",
+       "language_inferred": true
+      }
+     ]
+    },
+    "kids": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "chat4kids Radio",
+       "url": "https://stream.zeno.fm/41v29dh9dd0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Tigers Radio",
+       "url": "https://stream.zeno.fm/ycm74vzesc9uv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 130,
+     "stations": [
+      {
+       "name": "Aaj FM",
+       "url": "http://149.56.85.68:9300/",
+       "language_inferred": true
+      },
+      {
+       "name": "Aim Fm",
+       "url": "http://46.105.32.239:9892/",
+       "language_inferred": true
+      },
+      {
+       "name": "Apna Karachi FM 107",
+       "url": "http://72.255.62.220:7070/live107",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "easy_listening",
+        "rock"
+       ]
+      },
+      {
+       "name": "Azad Kashmir Radio",
+       "url": "http://203.124.35.147:8032/relay",
+       "language_inferred": true
+      },
+      {
+       "name": "BUZZ FM Lahore",
+       "url": "http://158.69.4.171:8100/stream/",
+       "language_inferred": true
+      },
+      {
+       "name": "Buzz FM, Karachi radio",
+       "url": "http://158.69.4.171:8100/stream.mp3",
+       "tags": [
+        "news_talk",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Chiltan FM 88 radio",
+       "url": "https://cc.vmakerhost.com/proxy/chiltanfm?mp=/stream",
+       "tags": [
+        "news_talk",
+        "folk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "CRSS Radio",
+       "url": "http://172.93.237.106:8084/autodj",
+       "language_inferred": true
+      },
+      {
+       "name": "Dabang FM",
+       "url": "http://78.129.229.120:31352/",
+       "language_inferred": true
+      },
+      {
+       "name": "Dhamaal FM 94",
+       "url": "http://199.217.119.214:8000/dhamal94fsd",
+       "language_inferred": true
+      },
+      {
+       "name": "Dhanak FM 94",
+       "url": "http://203.124.35.147:8002/relay?type=http&ampnocache=9",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Dunya News",
+       "url": "https://imob.dunyanews.tv/live/rddaudrgn.sdp/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "External Services",
+       "url": "https://whmsonic.radio.gov.pk:7006/stream",
+       "tags": [
+        "news_talk",
+        "christian_gospel",
+        "islamic_quran"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "External Services",
+       "url": "http://203.124.35.147:8042/relay",
+       "tags": [
+        "news_talk",
+        "islamic_quran"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Faisalabad-FM-101",
+       "url": "http://203.124.35.147:8096/relay?type=http&ampnocache=9",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "FM 100 Pakistan",
+       "url": "http://162.244.80.118:4900/stream.mp3",
+       "tags": [
+        "news_talk",
+        "folk",
+        "christian_gospel",
+        "pop_hits",
+        "islamic_quran",
+        "easy_listening",
+        "bollywood_indian"
+       ]
+      },
+      {
+       "name": "FM 101",
+       "url": "http://58.65.171.102:8006/stream"
+      },
+      {
+       "name": "FM 101 Islamabad",
+       "url": "http://203.124.35.147:8006/relay?type=http&ampnocache=9",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "FM 101 Karachi",
+       "url": "http://203.124.35.147:8036/relay?type=http&ampnocache=9",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "FM 101 Mirpur",
+       "url": "http://203.124.35.147:8030/relay?type=http&ampnocache=9",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "FM 101 Quetta",
+       "url": "http://203.124.35.147:8090/relay?type=http&ampnocache=9",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "FM 101 radio",
+       "url": "https://whmsonic.radio.gov.pk:7008/stream",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "easy_listening",
+        "electronic",
+        "various_eclectic",
+        "world",
+        "islamic_quran"
+       ]
+      },
+      {
+       "name": "FM 92 Nooriabad radio",
+       "url": "http://78.129.190.50:26805/stream.mp3",
+       "tags": [
+        "news_talk",
+        "folk",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "FM 93",
+       "url": "http://210.56.24.230:8004/"
+      },
+      {
+       "name": "FM 93 Lahore",
+       "url": "http://203.124.35.147:8056/stream?type=http&ampnocache=4",
+       "language_inferred": true
+      },
+      {
+       "name": "FM 93 Lahore",
+       "url": "https://whmsonic.radio.gov.pk:8088/stream"
+      },
+      {
+       "name": "FM 93 mirpur",
+       "url": "http://210.56.24.230:8030/stream.mp3"
+      },
+      {
+       "name": "FM RADIO92",
+       "url": "http://80.211.59.220:8000/stream/1",
+       "tags": [
+        "news_talk",
+        "classical",
+        "bollywood_indian",
+        "world",
+        "country",
+        "drum_and_bass",
+        "easy_listening",
+        "kids"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "FM World Pakistan",
+       "url": "https://stream-018.zeno.fm/tty4gmu30ehvv",
+       "tags": [
+        "news_talk",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "FM World Pakistan",
+       "url": "http://radio.itelservices.net:8612/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "FM World Pakistan radio",
+       "url": "https://stream.zeno.fm/tty4gmu30ehvv",
+       "tags": [
+        "news_talk",
+        "world",
+        "various_eclectic",
+        "soundtrack"
+       ]
+      },
+      {
+       "name": "FM-101-Lahore",
+       "url": "http://203.124.35.147:8084/relay?type=http&ampnocache=9",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "FM-93-Faisalabad",
+       "url": "http://203.124.35.147:8094/relay?type=http&ampnocache=9",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Hot FM 105",
+       "url": "http://172.93.237.106:8000/",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "world",
+        "sports",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Hot FM 105",
+       "url": "http://172.93.237.106:8000/listen.mp3",
+       "tags": [
+        "news_talk",
+        "sports"
+       ]
+      },
+      {
+       "name": "Hot FM 105 Karachi",
+       "url": "http://172.93.237.106:8000/stream",
+       "tags": [
+        "news_talk",
+        "sports"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Hot Fm 105 Nawabshah",
+       "url": "http://172.93.237.106:8072/",
+       "tags": [
+        "news_talk",
+        "sports"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Hot FM 105 Quetta",
+       "url": "http://172.93.237.106:8066/",
+       "tags": [
+        "news_talk",
+        "sports"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Hot Fm 105 Shikarpur",
+       "url": "http://172.93.237.106:8070/",
+       "tags": [
+        "news_talk",
+        "sports"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Hum FM 106",
+       "url": "https://server.mediacast4u.stream/8002/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "folk"
+       ]
+      },
+      {
+       "name": "Insaf Radio",
+       "url": "http://s5.voscast.com:8108/",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Islamabad Station",
+       "url": "http://203.124.35.147:8044/relay",
+       "language_inferred": true
+      },
+      {
+       "name": "Jeay FM",
+       "url": "http://108.163.245.230:9177/stream/",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "bollywood_indian"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Jeay FM Larkana",
+       "url": "https://ssl.rockhost.com/proxy/larkana?mp=/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "folk",
+        "bollywood_indian"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Live Geo News",
+       "url": "https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/playlist_dvr.m3u8"
+      },
+      {
+       "name": "Live Geo News radio",
+       "url": "https://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd46bf.sdp/GEONEWS/Backup1/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "LUMHS FM 96.6 radio",
+       "url": "http://s2.free-shoutcast.com:18200/",
+       "language_inferred": true
+      },
+      {
+       "name": "Mast FM 103",
+       "url": "http://110.36.229.158:8000/http://110.36.229.158:8008",
+       "tags": [
+        "news_talk",
+        "world",
+        "college_community"
+       ]
+      },
+      {
+       "name": "Mast FM 103 Lahore",
+       "url": "http://110.39.6.122:8000/http://www.mast103.com",
+       "tags": [
+        "news_talk",
+        "easy_listening",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "MERA FM 107.4 radio",
+       "url": "https://samaalhr107-itelservices.radioca.st/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "easy_listening",
+        "various_eclectic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Multan 101.0 FM",
+       "url": "http://203.124.35.147:8062/relay?type=http\\u0026_=1439993625\\u0026nocache=9?retry=0",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "NCAC",
+       "url": "https://whmsonic.radio.gov.pk:7004/stream",
+       "tags": [
+        "news_talk",
+        "christian_gospel",
+        "islamic_quran"
+       ]
+      },
+      {
+       "name": "NCAC",
+       "url": "https://radio.garden/api/ara/content/listen/wr22Qz3R/channel.mp3?1662820748702",
+       "tags": [
+        "news_talk",
+        "islamic_quran"
+       ]
+      },
+      {
+       "name": "NCAC",
+       "url": "http://203.124.35.147:8000/relay",
+       "tags": [
+        "news_talk",
+        "islamic_quran"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Power Radio FM 99",
+       "url": "http://23.235.206.127:8000",
+       "tags": [
+        "news_talk",
+        "college_community"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Power Radio, Islamabad",
+       "url": "https://cors-proxy.elfsight.com/http://141.136.42.250:9000/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Power99",
+       "url": "http://23.235.206.127:8000/stream.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Awaz Bahawalpur",
+       "url": "http://158.69.4.171:8168/stream/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Awaz Bhalwal",
+       "url": "http://158.69.4.171:8144/stream/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Awaz FM 104 Bhalwal",
+       "url": "http://158.69.4.171:8144/stream.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "classical"
+       ]
+      },
+      {
+       "name": "Radio Awaz FM 105 Gujrat",
+       "url": "http://158.69.4.171:8132/stream.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Awaz FM 105 Jhang",
+       "url": "http://158.69.4.171:8164/stream.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Awaz FM 105 Sahiwal",
+       "url": "http://158.69.4.171:8176/stream.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Awaz FM 105 Sheikhupura",
+       "url": "http://158.69.4.171:8140/stream.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Awaz FM 106 Gujranwala",
+       "url": "http://158.69.4.171:8136/stream.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Awaz FM 106 Khan Pur",
+       "url": "http://158.69.4.171:8152/stream.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Awaz FM 107 Attock",
+       "url": "http://158.69.4.171:8124/stream.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Awaz FM 107 Mandi Bahauddin",
+       "url": "http://fusion.shoutca.st:8096/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Awaz Gujranwala",
+       "url": "http://158.69.4.171:8136/stream/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Awaz Jhang",
+       "url": "http://158.69.4.171:8164/stream/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Awaz Khan pur",
+       "url": "http://158.69.4.171:8152/stream/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Awaz radio",
+       "url": "http://158.69.4.171:8132/stream/",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "world"
+       ]
+      },
+      {
+       "name": "Radio Awaz Sadiqabad",
+       "url": "http://192.95.35.65:9320/stream/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Awaz Sheikhupura",
+       "url": "http://192.95.35.65:9322/stream/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Dilber 93",
+       "url": "http://cc.vmakerhost.com:8040/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio FM100 Pakistan",
+       "url": "http://162.244.80.118:4900/stream/1/",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Jeevay Pakistan FM 100",
+       "url": "http://185.80.220.12:8124/",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Jeevay Pakistan FM 97",
+       "url": "http://174.37.159.206:8140/Tune-In%20Links/",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "world"
+       ]
+      },
+      {
+       "name": "Radio Jeevay Pakistan FM 98",
+       "url": "http://158.69.227.214:8070/Tune-In%20Links/",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Jeevay Pakistan FM 99",
+       "url": "http://185.80.220.12:8136/Tune-In%20Links/",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio One FM 91 Gwadar",
+       "url": "http://cc.vmakerhost.com:8147/stream",
+       "tags": [
+        "news_talk",
+        "bollywood_indian",
+        "world"
+       ]
+      },
+      {
+       "name": "Radio Pakistan",
+       "url": "https://www.liveradio.es/http://203.124.35.147:8004/relay",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan",
+       "url": "http://203.124.35.147:8008/relay",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan - World Service",
+       "url": "http://whmsonic.radio.gov.pk:8012/stream",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan Bahawalpur",
+       "url": "https://freeuk28.listen2myradio.com/records/radiouser1662031/record.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan Bahawalpur radio",
+       "url": "https://freeuk4.listen2myradio.com/live.mp3?typeportmount=s1_39538_stream_130319815stream.nsvstream.nsv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan Lahore",
+       "url": "http://203.124.35.147:8086/relay?type=http&ampnocache=9",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Pakistan Lahore",
+       "url": "http://203.124.35.147:8086/relay"
+      },
+      {
+       "name": "Radio Pakistan Lahore radio",
+       "url": "https://radio.gov.pk/images/Radio%20Kashmir%20-%20Stereo%20Out.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan Larkana",
+       "url": "https://whmsonic.radio.gov.pk:8050/stream/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan News",
+       "url": "http://210.56.24.230:8000/",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Pakistan Peshawar",
+       "url": "http://203.124.35.147:8088/relay?type=http&ampnocache=9",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Pakistan Quetta",
+       "url": "http://203.124.35.147:8092/relay?type=http&ampnocache=9",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Radio Pakistan – FM 101 Faisalabad",
+       "url": "http://203.124.35.147:8096/",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan – FM 101 Hyderabad",
+       "url": "http://203.124.35.147:9004/relay/",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan – FM 101 Islamabad",
+       "url": "http://203.124.35.147:8006/relay",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan – FM 101 Lahore",
+       "url": "http://203.124.35.147:8084/",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan – FM 101 Multan",
+       "url": "http://203.124.35.147:8062/",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan – FM 101 Peshawar",
+       "url": "https://crs.webdesign-flash.ro/?q=http://203.124.35.147:8052/relay/&plugin_id=7628&site_id=8520577",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan – FM 101 Quetta",
+       "url": "http://203.124.35.147:8090/",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan – FM 101 Sialkot",
+       "url": "https://crs.webdesign-flash.ro/?q=http://78.46.47.245:8000/FM101/&plugin_id=7628&site_id=8520577",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan – Saut Ul Quran",
+       "url": "http://58.65.171.102:8004/stream",
+       "tags": [
+        "news_talk",
+        "islamic_quran",
+        "christian_gospel"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan – World Service",
+       "url": "http://58.65.171.102:8008/stream/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Tarakhel Azad jamu Kashmir",
+       "url": "http://203.124.35.147:8098/relay?type=http\\u0026nocache=9"
+      },
+      {
+       "name": "Radio1 FM 91",
+       "url": "http://172.93.237.106:8147/",
+       "tags": [
+        "news_talk",
+        "easy_listening",
+        "various_eclectic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Riphah FM 102.2",
+       "url": "http://176.31.239.83:9087/stream",
+       "tags": [
+        "news_talk",
+        "islamic_quran"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Riphah FM 102.2 radio",
+       "url": "http://162.244.80.106:11470/stream/1/",
+       "tags": [
+        "news_talk",
+        "college_community",
+        "christian_gospel",
+        "islamic_quran"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Rose FM 90 live",
+       "url": "http://94.23.62.189:5980/",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Samaa FM 107.4",
+       "url": "https://samaakhi107-itelservices.radioca.st/stream",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "easy_listening"
+       ]
+      },
+      {
+       "name": "Sargodha radio",
+       "url": "https://stream.zeno.fm/7d7w85kxpfhvv",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Saut Ul Quran",
+       "url": "https://whmsonic.radio.gov.pk:7002/stream?type=http&ampnocache=12",
+       "tags": [
+        "news_talk",
+        "christian_gospel",
+        "islamic_quran"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Saut Ul Quran",
+       "url": "http://58.65.171.102:8004/stream?type=http&ampnocache=4",
+       "tags": [
+        "news_talk",
+        "islamic_quran"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Saut Ul Quran radio",
+       "url": "https://whmsonic.radio.gov.pk:7002/stream",
+       "tags": [
+        "news_talk",
+        "islamic_quran",
+        "christian_gospel",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Shalimar Radio FM 94.6",
+       "url": "http://s4.voscast.com:7272/?n=75de2ac2563765c05094"
+      },
+      {
+       "name": "Shamal Radio",
+       "url": "http://5.9.71.122:8320/stream.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Sindh Police FM 88.6",
+       "url": "https://sindhpolice-awazradionetwork.radioca.st/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "SMI University radio",
+       "url": "https://s30.myradiostream.com/28364/listen.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Smile Fm 88.6",
+       "url": "https://cc.vmakerhost.com/proxy/smile?mp=/live",
+       "tags": [
+        "news_talk",
+        "folk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Spice FM 107",
+       "url": "http://37.59.41.35:12306",
+       "tags": [
+        "pop_hits",
+        "news_talk",
+        "college_community"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Spice FM 107",
+       "url": "http://37.59.41.35:12306/listen.mp3"
+      },
+      {
+       "name": "Spice FM107 radio",
+       "url": "https://s5.myradiostream.com/sc1/:42724/listen.mp3",
+       "tags": [
+        "news_talk",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Suno Pakistan Balochi",
+       "url": "https://sunofm.anms.pk/BLN",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Suno Pakistan GB",
+       "url": "https://sunofm.anms.pk/GB",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Suno Pakistan Pashto",
+       "url": "https://sunofm.anms.pk/KPK",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Suno Pakistan Urdu",
+       "url": "http://suno.a-xee.com:8000/URDU",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Suno Pakistan Urdu radio",
+       "url": "https://sunofm.anms.pk/URDU",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "VOK FM radio",
+       "url": "https://cc.vmakerhost.com/proxy/voknetwork?mp=/bagh",
+       "tags": [
+        "news_talk",
+        "islamic_quran",
+        "christian_gospel"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "World Service",
+       "url": "https://whmsonic.radio.gov.pk:7005/stream",
+       "tags": [
+        "news_talk",
+        "christian_gospel",
+        "islamic_quran"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "World Service",
+       "url": "http://210.56.24.230:8008/",
+       "tags": [
+        "news_talk",
+        "islamic_quran"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Zindagi News",
+       "url": "http://76.164.217.100:7026",
+       "tags": [
+        "pop_hits",
+        "news_talk"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "oldies": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "FM91 Pakistan Listen live",
+       "url": "https://cc.vmakerhost.com/proxy/karachi?mp=/server",
+       "tags": [
+        "oldies",
+        "world"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 37,
+     "stations": [
+      {
+       "name": "7 Sur Hit FM",
+       "url": "http://217.79.179.162:7600",
+       "language_inferred": true
+      },
+      {
+       "name": "Aladin Radio",
+       "url": "https://cc.vmakerhost.com/proxy/magic?mp=/live",
+       "language_inferred": true
+      },
+      {
+       "name": "Aladin Radio",
+       "url": "http://s2.bizwebsolution.net:8173/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "All4Masti",
+       "url": "https://radio.ihostingzone.com/radio/8060/radio.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "AMZ FM",
+       "url": "http://174.142.215.249:9466",
+       "tags": [
+        "college_community",
+        "various_eclectic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Angelz Chat Room",
+       "url": "https://radio.angelzchatroom.com/radio/8070/radio.mp3?1595908275"
+      },
+      {
+       "name": "Apna FM Islamabad",
+       "url": "http://207.180.204.83:8678/",
+       "language_inferred": true
+      },
+      {
+       "name": "Awam FM 94 Khushab",
+       "url": "https://server.softlinepk.stream/8010/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "BCN FM",
+       "url": "http://188.40.135.197:8628/bcnfm",
+       "language_inferred": true
+      },
+      {
+       "name": "FM 100 Karachi",
+       "url": "http://162.244.80.118:3024/"
+      },
+      {
+       "name": "Fm 104 Kashmore radio",
+       "url": "http://freeuk22.listen2myradio.com:29618/",
+       "language_inferred": true
+      },
+      {
+       "name": "FM 93 Rawalpindi",
+       "url": "http://whmsonic.radio.gov.pk:8036/stream/",
+       "language_inferred": true
+      },
+      {
+       "name": "FM Radio",
+       "url": "https://stream.zenolive.com/wc4raeqww3duv",
+       "language_inferred": true
+      },
+      {
+       "name": "FM91 Pakistan - Islamabad",
+       "url": "http://172.93.237.106:8191/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Funnypaki",
+       "url": "http://radiopaki.funnypaki.com:8886/radio.mp3/",
+       "language_inferred": true
+      },
+      {
+       "name": "GupShup Corner",
+       "url": "http://173.249.10.23:8050/",
+       "language_inferred": true
+      },
+      {
+       "name": "HOT FM 105",
+       "url": "https://www.hotfm.com.pk/img/mp3/news2017-01-01090709.mp3",
+       "tags": [
+        "pop_hits",
+        "various_eclectic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Indus Radio FM Umerkot",
+       "url": "http://78.129.159.25:8006",
+       "language_inferred": true
+      },
+      {
+       "name": "Insaf Radio",
+       "url": "http://s5.voscast.com:8108/?1470950996557.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Jal FM",
+       "url": "http://192.3.28.186:9992/",
+       "tags": [
+        "pop_hits",
+        "various_eclectic"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Jan FM radio",
+       "url": "http://212.83.138.48:8200/",
+       "language_inferred": true
+      },
+      {
+       "name": "Jeay Sukkur FM 88",
+       "url": "http://50.7.98.106:8536",
+       "language_inferred": true
+      },
+      {
+       "name": "Karachi FM",
+       "url": "http://s3.voscast.com:8450/stream/1/",
+       "language_inferred": true
+      },
+      {
+       "name": "Mast FM Multan 103",
+       "url": "http://110.36.229.158:8000/http://110.36.229.158:8006"
+      },
+      {
+       "name": "Masti FM 101",
+       "url": "https://listen.radionomy.com/mastifm101com",
+       "language_inferred": true
+      },
+      {
+       "name": "Pakfunchat Radio",
+       "url": "http://new-york-ssd.myautodj.com:8030/",
+       "tags": [
+        "pop_hits",
+        "rock"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "ParistamilFM",
+       "url": "http://198.178.123.17:7108/",
+       "language_inferred": true
+      },
+      {
+       "name": "Prime FM 92 radio",
+       "url": "https://stream.zeno.fm/cxm3rzgbckhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 538 Hitzone Listen live",
+       "url": "https://21293.live.streamtheworld.com/TLPSTR11.mp3",
+       "tags": [
+        "pop_hits",
+        "easy_listening",
+        "decade_70s"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Junoon",
+       "url": "http://142.4.215.162:9930",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Revolutionary",
+       "url": "http://listen.radionomy.com/revolutionary",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Swat",
+       "url": "https://freeuk6.listen2myradio.com/live.mp3?typeportmount=s1_32867_stream_847622298",
+       "language_inferred": true
+      },
+      {
+       "name": "Rose FM 90",
+       "url": "http://69.197.169.178:34708/",
+       "language_inferred": true
+      },
+      {
+       "name": "SAMAA FM Lahore",
+       "url": "http://audio.samaafm.com:8884/",
+       "language_inferred": true
+      },
+      {
+       "name": "Shopen Anime Radio Station",
+       "url": "https://s97.radiolize.com:8040/radio.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Smile Fm 88.6",
+       "url": "http://s2.bizwebsolution.net:8011/live",
+       "language_inferred": true
+      },
+      {
+       "name": "Spice FM 107",
+       "url": "http://s6.myradiostream.com:12306/",
+       "language_inferred": true
+      }
+     ]
+    },
+    "rock": {
+     "count": 13,
+     "stations": [
+      {
+       "name": "AwamiChatRoom",
+       "url": "https://stream.zeno.fm/vhfngc5fka0uv",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "classical"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Dhanak",
+       "url": "http://203.124.35.147:8002/relay",
+       "language_inferred": true
+      },
+      {
+       "name": "Dosti FM",
+       "url": "http://142.4.215.162:9880",
+       "tags": [
+        "pop_hits",
+        "rock"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Dreammedia Radio",
+       "url": "https://streaming.radio.co/s10390b639/listen",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "soul_rnb_funk",
+        "bollywood_indian"
+       ]
+      },
+      {
+       "name": "FM 100 Pakistan - Karachi",
+       "url": "http://162.244.80.118:3024/stream/",
+       "tags": [
+        "rock",
+        "folk",
+        "decade_90s"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Libra FM Bagh Azad kashmir Pakistan radio",
+       "url": "https://stream.streamaudio.de:8000/libra-fm",
+       "tags": [
+        "rock",
+        "classical",
+        "blues"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Pakistanichatrooms",
+       "url": "https://stream.zeno.fm/uh4cw60df18uv",
+       "tags": [
+        "various_eclectic",
+        "rock",
+        "world"
+       ]
+      },
+      {
+       "name": "Radio Dilber Swabi",
+       "url": "https://cc.vmakerhost.com/proxy/swabi?mp=/stream.mp3",
+       "tags": [
+        "rock",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Dostii4ever",
+       "url": "https://radio.fun.cafe/radio/8850/radio.mp3",
+       "tags": [
+        "rock",
+        "electronic",
+        "soul_rnb_funk",
+        "chillout_lounge",
+        "house",
+        "country",
+        "drum_and_bass",
+        "easy_listening",
+        "world",
+        "news_talk"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Road Safety FM 95 NHMP National Highways & Motorway Police radio",
+       "url": "http://78.129.185.81:6664/stream.nsv",
+       "tags": [
+        "rock",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Sargam Radio Awaz",
+       "url": "http://46.105.32.239:9992/",
+       "tags": [
+        "rock",
+        "various_eclectic",
+        "folk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "UMT Radio",
+       "url": "http://umt-radio.com:8000/stream",
+       "tags": [
+        "various_eclectic",
+        "rock",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Xcluzive FM",
+       "url": "http://198.100.148.141:9992",
+       "language_inferred": true
+      }
+     ]
+    },
+    "soundtrack": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Radio Pakistan Faisalabad FM-93",
+       "url": "http://101.50.87.129:8022/stream",
+       "tags": [
+        "soundtrack",
+        "bollywood_indian"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan Faisalabad FM-93",
+       "url": "http://203.124.35.147:8094/",
+       "tags": [
+        "news_talk",
+        "soundtrack",
+        "college_community",
+        "bollywood_indian"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "sports": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "Cricket Live",
+       "url": "https://stream.zeno.fm/tfvzs3whdc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "female fitness club",
+       "url": "https://stream.zeno.fm/c0mzc6r7yf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "FM 97 Khanewal",
+       "url": "http://s7.reliastream.com:8218/Tune-In%20Links/",
+       "tags": [
+        "sports",
+        "news_talk",
+        "folk",
+        "pop_hits",
+        "world"
+       ]
+      },
+      {
+       "name": "Radio Super Cricket",
+       "url": "http://cast7.serverhostingcenter.com/tunein.php/qayyuali/stream/1playlist.pls",
+       "tags": [
+        "sports",
+        "various_eclectic"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "various_eclectic": {
+     "count": 23,
+     "stations": [
+      {
+       "name": "CBL Radio Pakistan",
+       "url": "http://178.32.62.172:8008/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Dhamaal Radio",
+       "url": "http://rps.a-xee.com:8500/fsd94",
+       "language_inferred": true
+      },
+      {
+       "name": "Dil FM Kasur",
+       "url": "http://69.30.231.173/sahiwal",
+       "language_inferred": true
+      },
+      {
+       "name": "Dil FM Smooth Jazz Florida",
+       "url": "https://usa6.fastcast4u.com/proxy/wsjfhd?mp=/1",
+       "language_inferred": true
+      },
+      {
+       "name": "FM 100 Lahore",
+       "url": "http://162.244.80.118:3058/"
+      },
+      {
+       "name": "FM91 Pakistan Gwadar",
+       "url": "http://172.93.237.106:8209/",
+       "language_inferred": true
+      },
+      {
+       "name": "FM91 Pakistan Gwadar",
+       "url": "https://cc.vmakerhost.com/proxy/karachi",
+       "language_inferred": true
+      },
+      {
+       "name": "Gupshup Point",
+       "url": "http://142.4.215.162:9312/",
+       "language_inferred": true
+      },
+      {
+       "name": "Hey Hello Bye",
+       "url": "http://158.69.25.217:9982/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Hot FM 105.6 Nushehro Feroz",
+       "url": "http://172.93.237.106:8004/",
+       "language_inferred": true
+      },
+      {
+       "name": "Jan FM",
+       "url": "http://172.93.237.106:8006/stream/",
+       "language_inferred": true
+      },
+      {
+       "name": "Jeet FM",
+       "url": "http://198.12.88.164:9972/",
+       "language_inferred": true
+      },
+      {
+       "name": "Mixchatroom",
+       "url": "https://eu7.fastcast4u.com/proxy/awamichat?mp=/1",
+       "tags": [
+        "various_eclectic",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Music Masti FM",
+       "url": "https://stream.zeno.fm/cp1xdzhzxv8uv"
+      },
+      {
+       "name": "mychatcafe",
+       "url": "https://stream.zeno.fm/8na18w2mcq8uv"
+      },
+      {
+       "name": "Radio Bakwas",
+       "url": "https://node-03.zeno.fm/9htu0k0vsuquv.aac?rj-ttl=5&amprj-token=AAABbOYlS26srUdzzQQHNDATzfZwjYsgyXKSJ1tKLZ-mo0ruZzLiyg",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakwafa",
+       "url": "https://ample-zeno-03.radiojar.com/4b2f4f6kpz4tv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Swat",
+       "url": "http://182.180.67.92:88/broadwave.mp3?_=2",
+       "language_inferred": true
+      },
+      {
+       "name": "Robson Silva Radio",
+       "url": "http://streaming14.hstbr.net:8002/live",
+       "language_inferred": true
+      },
+      {
+       "name": "Sargam FM 100",
+       "url": "http://radio.drifthosters.com:9302/",
+       "language_inferred": true
+      },
+      {
+       "name": "The Radio FM",
+       "url": "http://radio.theradiofm.net:9996",
+       "language_inferred": true
+      },
+      {
+       "name": "Urdu Channel Radio",
+       "url": "http://158.69.227.214:8049",
+       "language_inferred": true
+      },
+      {
+       "name": "Zab FM",
+       "url": "https://servidor13.brlogic.com:7770/live",
+       "language_inferred": true
+      }
+     ]
+    },
+    "world": {
+     "count": 17,
+     "stations": [
+      {
+       "name": "Dostiplace radio",
+       "url": "https://sonic.whitelabelservers.co.uk/9222/",
+       "language_inferred": true
+      },
+      {
+       "name": "FM 100 Karachi",
+       "url": "http://162.244.80.118:3024/stream/1",
+       "tags": [
+        "world",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "FM 100 Lahore",
+       "url": "http://162.244.80.118:4900/",
+       "tags": [
+        "news_talk",
+        "world",
+        "bollywood_indian"
+       ]
+      },
+      {
+       "name": "FunCafe",
+       "url": "https://radio.fun.cafe/radio/8800/radio.mp3?FunCafe",
+       "tags": [
+        "pop_hits",
+        "world"
+       ]
+      },
+      {
+       "name": "Islamabad Radio",
+       "url": "http://andromeda.shoutca.st:8383/stream/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "Mast FM 103",
+       "url": "http://110.39.6.122:8000/http://110.36.229.158:8000/",
+       "language_inferred": true
+      },
+      {
+       "name": "Mast FM 103",
+       "url": "http://110.39.6.122:8000/http://110.36.229.158:8006/",
+       "language_inferred": true
+      },
+      {
+       "name": "Mast FM Faisalabad 103",
+       "url": "http://110.36.229.158:8000/http://110.36.229.158:8004"
+      },
+      {
+       "name": "Mast FM Lahore 103",
+       "url": "http://110.36.229.158:8000/"
+      },
+      {
+       "name": "Mera FM",
+       "url": "https://samaastt107-itelservices.radioca.st/stream&ampnocache=id3",
+       "language_inferred": true
+      },
+      {
+       "name": "MixChatRoom",
+       "url": "http://eu7.fastcast4u.com/proxy/awamichat"
+      },
+      {
+       "name": "Pakistanlivefm radio",
+       "url": "https://sonic01.instainternet.com:7012/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio FM Just music",
+       "url": "https://live.wostreaming.net/direct/humfm-fm1062mp3-ibc1",
+       "tags": [
+        "world",
+        "islamic_quran"
+       ]
+      },
+      {
+       "name": "Radio FM Just music radio",
+       "url": "https://live.amperwave.net/direct/humfm-fm1062mp3-ibc1",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Jeevay 97.0 FM – 97.0 FM – Khānewāl – PK-PB",
+       "url": "http://s7.reliastream.com:8218/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Saraiki",
+       "url": "http://www.radioteentaal.com:8000/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio1 FM91",
+       "url": "https://karachi.turnmedia.com.pk/",
+       "country_inferred": true,
+       "language_inferred": true
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 548,
+     "stations": [
+      {
+       "name": "079station",
+       "url": "https://stream.zeno.fm/r567f884echvv",
+       "language_inferred": true
+      },
+      {
+       "name": "101music",
+       "url": "https://stream.zeno.fm/m4xed3x0138uv",
+       "language_inferred": true
+      },
+      {
+       "name": "101peshawar",
+       "url": "https://whmsonic.radio.gov.pk:8070/relay?type=http&nocache=9?n=4560414608c36ff5de93",
+       "language_inferred": true
+      },
+      {
+       "name": "110bhatti",
+       "url": "https://stream.zeno.fm/xh7ewx7saq8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "14August GupShuPFamily.com",
+       "url": "https://stream.zeno.fm/yt12eshq538uv",
+       "language_inferred": true
+      },
+      {
+       "name": "20 Musik FM",
+       "url": "https://stream.zeno.fm/qqtr06h0dzzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "221199",
+       "url": "https://stream.zeno.fm/nrz24n8pvzzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "8D Audio",
+       "url": "https://node-13.zeno.fm/g9e6s3bkbchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "8D Audio",
+       "url": "https://stream.zeno.fm/g9e6s3bkbchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "92 News TV",
+       "url": "http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8"
+      },
+      {
+       "name": "99 HipHop Station",
+       "url": "https://stream.zeno.fm/ytw2qvau0v8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "ABASEEN RADIO FM 88 BISHAM KPK",
+       "url": "https://stream.zeno.fm/fahsa3mk0c9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Abeehas Talk Box",
+       "url": "https://stream.zeno.fm/4hm62fw6rxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Adnan nadan studio",
+       "url": "https://stream.zeno.fm/ig9sbvgkl5yuv",
+       "language_inferred": true
+      },
+      {
+       "name": "AK INDUSTRY",
+       "url": "https://stream.zeno.fm/ezgw858h9whvv"
+      },
+      {
+       "name": "Akhand Path Radio",
+       "url": "http://radio.punjabrocks.com:9968/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "AkKhan",
+       "url": "https://stream.zeno.fm/6dacyxgwqg0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Al Quran with Kanzuleman",
+       "url": "http://radio.dawateislami.tv:8222"
+      },
+      {
+       "name": "Aladin Radio Network",
+       "url": "https://cc.vmakerhost.com/proxy/magic?mp=/live?n=7b5cc057f52e9259ea75"
+      },
+      {
+       "name": "All 4 Masti – PK-IS",
+       "url": "https://stream-37.zeno.fm/bahhkuge5zhvv?zs=ljHK5FU_QNaVr0itkhNgUQ",
+       "language_inferred": true
+      },
+      {
+       "name": "All4Masti",
+       "url": "https://stream.zeno.fm/31huk9y8u68uv"
+      },
+      {
+       "name": "AllForMasti",
+       "url": "https://stream-37.zeno.fm/bahhkuge5zhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Amazai FM",
+       "url": "https://node-05.zeno.fm/zr2sk5pks68uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Amazai FM",
+       "url": "https://stream.zeno.fm/zr2sk5pks68uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Amazai FM - Voice of Amazai",
+       "url": "https://stream.zeno.fm/vf2vac29d78uv",
+       "language_inferred": true
+      },
+      {
+       "name": "anas ali",
+       "url": "https://stream.zeno.fm/v2vnv59b2c9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "anas4726",
+       "url": "https://stream.zeno.fm/dvz12v8b2c9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Angelz Chat Room",
+       "url": "https://stream.zeno.fm/5ksb7p5k6f0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Apna Des",
+       "url": "https://stream.zeno.fm/ptbntthp0zvtv",
+       "language_inferred": true
+      },
+      {
+       "name": "Apna Funny Paki",
+       "url": "http://172.245.24.229:9986/",
+       "language_inferred": true
+      },
+      {
+       "name": "ApnaRadio",
+       "url": "https://radioindia.net/radio/apna/icecast.audio",
+       "language_inferred": true
+      },
+      {
+       "name": "Apni Awaz",
+       "url": "http://94.173.98.177:8000/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "Aptus Agri Radio",
+       "url": "https://stream.zeno.fm/ye63qtbwyv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "AR PAnhwar",
+       "url": "https://stream.zeno.fm/ar1pajqdqkcvv",
+       "language_inferred": true
+      },
+      {
+       "name": "ARHAMARA FM",
+       "url": "https://stream.zeno.fm/a3fbw5d5dkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Arman Radio",
+       "url": "https://stream.zeno.fm/r3fzqbsqw2hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Arn media",
+       "url": "https://stream.zeno.fm/tb6az31srnhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "ARSHAD LAGHARI",
+       "url": "https://stream.zeno.fm/7rhw78ta6uhvv"
+      },
+      {
+       "name": "ARSHAD Radio",
+       "url": "https://stream.zeno.fm/68ang2nm8whvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Ash FM",
+       "url": "http://streaming.radionomy.com/Ash-Fm?lang=en-US%2cen%3bq%3d0.8",
+       "language_inferred": true
+      },
+      {
+       "name": "Asia FM 99",
+       "url": "http://78.129.190.50:4093/",
+       "language_inferred": true
+      },
+      {
+       "name": "AtntPlace Networks",
+       "url": "https://stream.zeno.fm/h0h5gu05kg8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Audio Only",
+       "url": "https://stream.zeno.fm/qg05vwkrfa0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Auvid Radio",
+       "url": "http://50.22.218.197:28345/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "Awam Fm 94",
+       "url": "http://server.mediacast4u.stream:8010/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Awam Fm 94 Khushab",
+       "url": "http://107.172.105.133:8007/live",
+       "language_inferred": true
+      },
+      {
+       "name": "Awami Chat",
+       "url": "http://eu7.fastcast4u.com:5184/",
+       "language_inferred": true
+      },
+      {
+       "name": "Awaz PIRS",
+       "url": "https://node-31.zeno.fm/cd6yrfqdwg0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Awaz PIRS",
+       "url": "https://stream.zeno.fm/cd6yrfqdwg0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Awaz Radio",
+       "url": "http://server.a-xee.com:8000/",
+       "language_inferred": true
+      },
+      {
+       "name": "Awaz Radio Pakistan",
+       "url": "https://stream.zeno.fm/gyh8wsmc5uhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Awazdost",
+       "url": "https://stream.zeno.fm/qcr8qzxsrfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Azad Kashmir Radio",
+       "url": "http://203.124.35.147:8032/",
+       "language_inferred": true
+      },
+      {
+       "name": "Azad Kashmir Radio Trarkhal",
+       "url": "http://203.124.35.147:8098/",
+       "language_inferred": true
+      },
+      {
+       "name": "Bahisht e Char Saat",
+       "url": "https://stream.zeno.fm/h3947d71808uv"
+      },
+      {
+       "name": "Bajega Bajega",
+       "url": "https://stream.zeno.fm/bz6kukaw868uv",
+       "language_inferred": true
+      },
+      {
+       "name": "beapple",
+       "url": "https://stream.zeno.fm/01uaehdzpg0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Betaz Station",
+       "url": "https://stream.zeno.fm/q24bd56pad0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Big FM 98 Web Radio",
+       "url": "https://stream.zeno.fm/mmpaz6fhzetuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Big Socho",
+       "url": "https://stream.zeno.fm/eyrd3pf8038uv",
+       "language_inferred": true
+      },
+      {
+       "name": "BigFm98 Web Radio",
+       "url": "https://stream.zeno.fm/sgbnmqc60xhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Birds of God",
+       "url": "https://stream.zeno.fm/v7pun929368uv",
+       "language_inferred": true
+      },
+      {
+       "name": "BOL FM 88",
+       "url": "https://stream.zeno.fm/c65hrxz3llbuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Bolo Jawan",
+       "url": "https://node-09.zeno.fm/08qhzww95ceuv.aac?rj-ttl=5&amprj-tok=AAABbkUqYicAlsN60KCUqimr_g",
+       "language_inferred": true
+      },
+      {
+       "name": "Bolo Jawan",
+       "url": "https://stream.zeno.fm/08qhzww95ceuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Bore Radio",
+       "url": "https://node-25.zeno.fm/41k5dckh7f0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Brainiacs",
+       "url": "https://stream.zeno.fm/kg0qsfhn6e9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Bruh Broadcasts",
+       "url": "https://stream.zeno.fm/yb3cum504k8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Buzz FM 97",
+       "url": "http://fusion.shoutca.st:8112/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Buzz FM – Karachi – Sindh – PK",
+       "url": "http://fusion.shoutca.st:8112/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Care to Fun",
+       "url": "http://listen.radionomy.com/CaretoFUN?type=.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Cartoon Radio",
+       "url": "https://stream.zeno.fm/wvvgukw04hhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Champion",
+       "url": "https://stream.zeno.fm/sd533gkdsc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Champion Fm",
+       "url": "https://stream.zeno.fm/pcg7czhdsc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Chat4smile Radio",
+       "url": "http://207.180.208.217:8000/radio.mp3"
+      },
+      {
+       "name": "Chat4smile Radio",
+       "url": "http://radio.drifthosters.com:8040/radio.mp3/"
+      },
+      {
+       "name": "Chatmates Radio Station",
+       "url": "https://stream.zeno.fm/dsn2qtqbe78uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Chatmatez RaDio",
+       "url": "https://stream.zeno.fm/grb4dzyzmg8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "CHATMATEZ-ENGLISH",
+       "url": "https://stream.zeno.fm/zshzd5n3rs8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "ChatroomGroup",
+       "url": "https://stream.zeno.fm/gmnsk207v68uv",
+       "language_inferred": true
+      },
+      {
+       "name": "ChatroomGroup-RaDio",
+       "url": "https://stream.zeno.fm/9gadu30a8ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Chatting Corner",
+       "url": "https://stream.zeno.fm/vmt7db1r8hhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Chatzbook Radio",
+       "url": "http://142.4.215.162:9974",
+       "language_inferred": true
+      },
+      {
+       "name": "chaudhary",
+       "url": "https://stream.zeno.fm/69v9quha2hhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Choice",
+       "url": "https://stream.zeno.fm/u3xnwy4pyrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "CID Radio Mansehrasy",
+       "url": "http://cast.bizwebsolution.net:8138",
+       "language_inferred": true
+      },
+      {
+       "name": "Classics with hadi",
+       "url": "https://stream.zeno.fm/wwydv7hfec9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Client Insha",
+       "url": "https://stream.zeno.fm/12x03s70w0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Coffee Session - Nouman",
+       "url": "https://stream.zeno.fm/fty1s69uyc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Coffee Session - Nouman",
+       "url": "https://stream.zeno.fm/hhww3pavyc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "CRSS Radio",
+       "url": "http://172.93.237.106:8084/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Dabang FM",
+       "url": "http://server.mediacast4u.stream:8016/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Dabang FM Attock",
+       "url": "https://server.softlinepk.stream/8016/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Dabang FM – 90.4 FM – Attock City – PK-PB",
+       "url": "https://server.mediacast4u.stream/8016/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Dabang Radio fm 90.4 Attock",
+       "url": "https://stream.zeno.fm/p04xm8uc368uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Dara Adam Khel FM Radio",
+       "url": "https://stream.zeno.fm/qz02ha964bhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Dara Adam Khel Radio",
+       "url": "https://stream.zeno.fm/cx51n0f74bhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "DawateIslami Madani Urdu – Karachi – Sindh – PK",
+       "url": "https://live.mvdn.castnest.io/C561cchoADIo8PXtexw7Es2cKWRwx4x44VkHzfwT/index.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "DecentChat4Ever",
+       "url": "https://stream.zeno.fm/wmdcqam37p8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Demon_",
+       "url": "https://stream.zeno.fm/ybmqp1zw6whvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Desert Radio",
+       "url": "https://stream.zeno.fm/ar5sfnz1ftytv",
+       "language_inferred": true
+      },
+      {
+       "name": "Desichat",
+       "url": "https://stream.zeno.fm/vq9fxue5468uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Dhanak",
+       "url": "http://58.65.171.102:8002/stream?type=http&ampnocache=4",
+       "language_inferred": true
+      },
+      {
+       "name": "Dil Dil Pakistan",
+       "url": "https://stream.zeno.fm/ht922k838zhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Dil Dil Pakistan",
+       "url": "https://stream.zeno.fm/7nw0sz738zhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Dil FM Live",
+       "url": "http://fluoz-13.radiojar.com/62rrgm2n7yzuv?type=.mp3&amptoken=AAABchwZF1WM4DNBCDgU7098sXak6oB472XH5hNjgTzkfTtZ26emgQ",
+       "language_inferred": true
+      },
+      {
+       "name": "Dildastak",
+       "url": "http://176.31.107.8:8172/dildastak",
+       "language_inferred": true
+      },
+      {
+       "name": "DJ Set - Ace Music",
+       "url": "https://stream.zeno.fm/q6y2p7v0fs8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "DJMusic",
+       "url": "https://stream.zeno.fm/v64d5b72138uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Dogar FM",
+       "url": "https://stream.zeno.fm/6cvfrwtgzhhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Dostii4ever FM radio",
+       "url": "https://stream.zeno.fm/srioe7d4q8uuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Dostii4ever Radio",
+       "url": "https://radio.fun.cafe/radio/8850/radio.mp3?1616509207",
+       "language_inferred": true
+      },
+      {
+       "name": "Dostiplace",
+       "url": "http://radio.dostiplace.com:9222/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Dream FM 106",
+       "url": "http://radio.dreamfm106.com:8086/",
+       "language_inferred": true
+      },
+      {
+       "name": "Dunya FM",
+       "url": "http://198.148.81.70:9984/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Dunya News TV",
+       "url": "http://imob.dunyanews.tv:1935/live/_definst_/dunyalive_1/playlist.m3u8"
+      },
+      {
+       "name": "ElementRADIO",
+       "url": "https://stream.zeno.fm/abe1mz3uxsjuv",
+       "language_inferred": true
+      },
+      {
+       "name": "English Station",
+       "url": "https://stream.zeno.fm/fzt738aq2zhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "External Services",
+       "url": "http://58.65.171.102:8042/stream?type=http&ampnocache=4",
+       "language_inferred": true
+      },
+      {
+       "name": "Fail Folks",
+       "url": "https://stream.zeno.fm/mbu37852srhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Faizan-e-Farz Uloom",
+       "url": "http://37.59.28.208:8740"
+      },
+      {
+       "name": "Faizan-e-Madani Muzakra",
+       "url": "http://37.59.28.208:8841/"
+      },
+      {
+       "name": "Faizan-e-Naat",
+       "url": "http://radio.dawateislami.tv:8640"
+      },
+      {
+       "name": "Fajur News Radio",
+       "url": "https://node-09.zeno.fm/c3qcsqwc7f0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Fajur News Radio",
+       "url": "https://stream.zeno.fm/c3qcsqwc7f0uv"
+      },
+      {
+       "name": "FlameFM107",
+       "url": "http://orion.shoutca.st:8629/stream2?type=.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "FM 100 Lahore",
+       "url": "http://162.244.80.118:3058/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "FM 100 Pakistan Gujrat",
+       "url": "http://162.244.80.118:4900/stream.mp3?ver=682776?n=e408d7043e50beb4b931",
+       "language_inferred": true
+      },
+      {
+       "name": "FM 100 Pakistan Hyderabad",
+       "url": "http://162.244.80.118:3024/stream.mp3?ver=517748?n=33d561ec4d6ce01a7a54"
+      },
+      {
+       "name": "FM 100 Pakistan Islamabad",
+       "url": "http://162.244.80.118:4900/stream.mp3?ver=604498?n=a4f5ef3b19af4169df9d"
+      },
+      {
+       "name": "FM 100 Pakistan Karachi",
+       "url": "http://162.244.80.118:3024/stream.mp3?ver=349829?n=e4205f3ddd7ed391ad26"
+      },
+      {
+       "name": "FM 101",
+       "url": "http://210.56.24.230:8006/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "FM 101 Abbottabad – 101.4 FM – Abbottābād – Khyber Pakhtunkhwa – PK",
+       "url": "http://stream.radio.gov.pk:9300/Abbottabad",
+       "language_inferred": true
+      },
+      {
+       "name": "FM 101 Bahawalpur",
+       "url": "http://whmsonic.radio.gov.pk:8020/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "FM 101 Faisalabad – 101 FM – Faisalabad – PK-PB",
+       "url": "http://203.124.35.147:8096/relay?type=http&nocache=9",
+       "language_inferred": true
+      },
+      {
+       "name": "FM 101 Islamabad – 101.0 FM – PK-IS",
+       "url": "https://whmsonic.radio.gov.pk:7008/stream/1/",
+       "language_inferred": true
+      },
+      {
+       "name": "FM 101 Karachi",
+       "url": "https://whmsonic.radio.gov.pk:8048/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "FM 101 Karachi",
+       "url": "http://203.124.35.147:8036/relay?type=http&nocache=9"
+      },
+      {
+       "name": "FM 101 Kohat – 101 FM – Kohāt – Khyber Pakhtunkhwa – PK",
+       "url": "http://203.124.35.147:9300/Kohat?type=http&nocache=9",
+       "language_inferred": true
+      },
+      {
+       "name": "FM 101 Larkana – 101 FM – Larkana – Sindh – PK",
+       "url": "http://203.124.35.147:9300/larkana?type=http&nocache=9",
+       "language_inferred": true
+      },
+      {
+       "name": "FM 101 Mirpur",
+       "url": "http://whmsonic.radio.gov.pk:8078/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "FM 101 Mirpur Radio Pakistan",
+       "url": "https://whmsonic.radio.gov.pk:8078/relay",
+       "language_inferred": true
+      },
+      {
+       "name": "FM 101 Mithi",
+       "url": "https://whmsonic.radio.gov.pk:8052/stream?n=ca313293231c3d889d20",
+       "language_inferred": true
+      },
+      {
+       "name": "FM 101 Mithi",
+       "url": "http://203.124.35.147:9300/Mithi",
+       "language_inferred": true
+      },
+      {
+       "name": "FM 101 Sargodha",
+       "url": "https://whmsonic.radio.gov.pk:7000/101sargodha",
+       "language_inferred": true
+      },
+      {
+       "name": "FM 101 Sialkot – 101 FM – Siālkot – PK-PB",
+       "url": "http://203.124.35.147:9300/101sialkot?type=http&nocache=9",
+       "language_inferred": true
+      },
+      {
+       "name": "FM 101Hyderabad – 101 FM – Hyderābād – Sindh – PK",
+       "url": "http://203.124.35.147:9300/101Hyd?type=http&nocache=9",
+       "language_inferred": true
+      },
+      {
+       "name": "FM 106.2",
+       "url": "https://prod-54-224-203-182.wostreaming.net/humfm-fm1062mp3-ibc1?session-id=58a0474c1729527c42e768ea48285425",
+       "language_inferred": true
+      },
+      {
+       "name": "FM 106.2",
+       "url": "https://prod-34-145-122-31.wostreaming.net/humfm-fm1062mp3-ibc1?session-id=890126d042a57ad16f01aba11f25762b",
+       "language_inferred": true
+      },
+      {
+       "name": "FM 92 Khairpur",
+       "url": "https://stream.zeno.fm/06tt3phhzchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "FM 92 Nooriabad",
+       "url": "http://95.154.196.33:15484/",
+       "language_inferred": true
+      },
+      {
+       "name": "FM 93",
+       "url": "http://210.56.24.230:8004/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "FM 93 Chitral",
+       "url": "https://whmsonic.radio.gov.pk:8066/relay?n=ecdb39c220fd230099ad",
+       "language_inferred": true
+      },
+      {
+       "name": "FM 93 Faisalabad",
+       "url": "https://whmsonic.radio.gov.pk:8022/relay?n=d2bd5446c3daae6f7fc8",
+       "language_inferred": true
+      },
+      {
+       "name": "FM 93 Faisalabad – 93 FM – Faisalabad – PK-PB",
+       "url": "http://203.124.35.147:8094/relay?type=http&nocache=9",
+       "language_inferred": true
+      },
+      {
+       "name": "FM 93 Karachi",
+       "url": "https://whmsonic.radio.gov.pk:7022/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "FM 93 Karachi",
+       "url": "http://whmsonic.radio.gov.pk:8046/stream/",
+       "language_inferred": true
+      },
+      {
+       "name": "FM 93 Lahore – 93 FM – Lahore – PK-PB",
+       "url": "http://203.124.35.147:8056/stream?type=http&nocache=4",
+       "language_inferred": true
+      },
+      {
+       "name": "FM 93 Mianwali",
+       "url": "https://whmsonic.radio.gov.pk:8028/relay?n=6f41917ac364850e46ca",
+       "language_inferred": true
+      },
+      {
+       "name": "FM 93 Multan",
+       "url": "https://whmsonic.radio.gov.pk:8032/stream?n=3e21db7ad2b66ec27a06",
+       "language_inferred": true
+      },
+      {
+       "name": "FM 93 Multan",
+       "url": "http://whmsonic.radio.gov.pk:8030/stream/",
+       "language_inferred": true
+      },
+      {
+       "name": "FM 93 Multan – 93 FM – Multan – PK-PB",
+       "url": "https://whmsonic.radio.gov.pk:7014/stream?type=http&nocache=12",
+       "language_inferred": true
+      },
+      {
+       "name": "FM 96 Suno Pakistan",
+       "url": "https://202.69.62.66:8000/SUNO?ver=825464",
+       "language_inferred": true
+      },
+      {
+       "name": "FM BEAT STATION",
+       "url": "https://stream.zeno.fm/l4wpuwhru3nvv",
+       "language_inferred": true
+      },
+      {
+       "name": "FM Pakistan",
+       "url": "https://stream.zeno.fm/cq5lbujzygutv",
+       "language_inferred": true
+      },
+      {
+       "name": "FM Sargodha.NET",
+       "url": "https://stream.zeno.fm/9q21zbg6kfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "FM-PFA",
+       "url": "https://stream.zeno.fm/pwm4ss9any8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "FM101 Mirpur",
+       "url": "https://stream.zeno.fm/ydi8pxvftbruv",
+       "language_inferred": true
+      },
+      {
+       "name": "fm110lahore",
+       "url": "https://stream.zeno.fm/1e7568e9ed0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "FM91 Pakistan",
+       "url": "https://stream.zeno.fm/yn5f9ga0238uv"
+      },
+      {
+       "name": "FM99 Muslim Bagh",
+       "url": "https://stream.zeno.fm/zw1fcsmyfztuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Frips0",
+       "url": "https://stream.zeno.fm/fvzfthtypuhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "FUI FM",
+       "url": "http://fluoz-03.radiojar.com/27stz3kxdbruv?token=AAABb3VveUEqfO-UzgPbLUXQ7dNZQF2rd891ogSHlH85qnOKQsiSaA",
+       "language_inferred": true
+      },
+      {
+       "name": "Fulljoy",
+       "url": "https://stream.zeno.fm/2r8phwpu0nhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Funcafe Radio Network",
+       "url": "http://radio.fun.cafe:8800/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Funny Paki",
+       "url": "http://funnypakiradio.mooo.com:8886/",
+       "language_inferred": true
+      },
+      {
+       "name": "Galaxy FM 189",
+       "url": "http://radio.drifthosters.com/radio/8220/radio.mp3?1594716672",
+       "language_inferred": true
+      },
+      {
+       "name": "GapShap",
+       "url": "https://stream.zeno.fm/84fdht77y4zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Geeks Root",
+       "url": "https://stream.zeno.fm/cyuayfr6q98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Geo News Radio – Karachi – Sindh – PK",
+       "url": "https://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd46bf.sdp/GEONEWS/Backup1/chunks.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "Ghotki 91 Radio FM",
+       "url": "http://109.169.26.216:8006/",
+       "language_inferred": true
+      },
+      {
+       "name": "GlobalChatClub",
+       "url": "https://stream.zeno.fm/vnwgq3zsg48uv",
+       "language_inferred": true
+      },
+      {
+       "name": "GoldChatZone",
+       "url": "https://stream.zeno.fm/ypxwhg62za0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "GoodAfterNews",
+       "url": "https://stream.zeno.fm/wiwinphxxyhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Greenwich Radio",
+       "url": "https://node-10.zeno.fm/qhk86k78gg8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "gta sa songs",
+       "url": "https://stream.zeno.fm/47fl7yrashjuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Gujrat Express",
+       "url": "https://node-28.zeno.fm/2h2nnwy4py8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Gujrat Express",
+       "url": "https://stream.zeno.fm/2h2nnwy4py8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Gup Shup Chat Room",
+       "url": "http://listen.radionomy.com/gupshupchatroomc0m",
+       "language_inferred": true
+      },
+      {
+       "name": "Gup Shup Chat Rooms",
+       "url": "http://164.132.159.236:9974/",
+       "language_inferred": true
+      },
+      {
+       "name": "Gup Shup Corner Radio",
+       "url": "http://51.254.122.134:9308/",
+       "language_inferred": true
+      },
+      {
+       "name": "gupshupchats.com",
+       "url": "https://stream.zeno.fm/5xruafxsotpvv",
+       "language_inferred": true
+      },
+      {
+       "name": "GuriyaChatRoom Radio",
+       "url": "https://stream.zeno.fm/bzakd3z0098uv",
+       "language_inferred": true
+      },
+      {
+       "name": "HA Radio",
+       "url": "https://stream.zeno.fm/8gq80yb3muhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hadiz FM radio",
+       "url": "http://173.249.10.23:9599/stream.nsv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hakro Welfare",
+       "url": "https://stream.zeno.fm/kbhqkf5ffphvv",
+       "language_inferred": true
+      },
+      {
+       "name": "hamdosana",
+       "url": "https://stream.zeno.fm/2ye0revfbchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hap Radio Pakistan",
+       "url": "http://fm.hapradio.com:9982/",
+       "language_inferred": true
+      },
+      {
+       "name": "Hatler Rp",
+       "url": "https://stream.zeno.fm/7m09z90muf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hazrat Mumtaz",
+       "url": "https://stream.zeno.fm/fs28cpfuv38uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hellopakistan",
+       "url": "https://stream.zeno.fm/cgeez5wd838uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hot 143",
+       "url": "https://stream.zeno.fm/3ed405z9n48uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hot FM 105 Larkana – 105 FM – Larkana – Sindh – PK",
+       "url": "http://172.93.237.106:8032/",
+       "language_inferred": true
+      },
+      {
+       "name": "Hot FM 89 Layyah",
+       "url": "http://78.129.224.13:35756/",
+       "language_inferred": true
+      },
+      {
+       "name": "Hot FM 89 Layyah",
+       "url": "http://freeuk27.listen2myradio.com:11613/",
+       "language_inferred": true
+      },
+      {
+       "name": "Hot FM 97 Chitral – 97 FM – Chitrāl – Khyber Pakhtunkhwa – PK",
+       "url": "http://172.93.237.106:8042/",
+       "language_inferred": true
+      },
+      {
+       "name": "Hot FM 98 Mirpurkhas",
+       "url": "http://172.93.237.106:8052/",
+       "language_inferred": true
+      },
+      {
+       "name": "hot mirchi",
+       "url": "https://stream.zeno.fm/rfhgyszbkfhvv"
+      },
+      {
+       "name": "Http Www Madhursangeet Com Hindi 50s 60s 70s 80s Melodies",
+       "url": "http://ct5.fast-serv.com:9620/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "Hujra.pk",
+       "url": "https://stream.zeno.fm/r5wbhaf77ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hum Awaz FM",
+       "url": "https://node-21.zeno.fm/y0zhe5kq9eeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hum FM",
+       "url": "http://icy1.abacast.com/humfm-humfmmp3-64?type=.mp3/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Hum FM 101",
+       "url": "https://stream.zeno.fm/75eqt2dvqfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hum FM 106",
+       "url": "http://164.132.159.236:9970/",
+       "language_inferred": true
+      },
+      {
+       "name": "Hum Samaj Radio",
+       "url": "https://node-14.zeno.fm/5dz366ddx98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hum Tum Fm",
+       "url": "https://stream.zeno.fm/qqaat7z2xp8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Humawazfm",
+       "url": "https://stream.zeno.fm/y0zhe5kq9eeuv",
+       "language_inferred": true
+      },
+      {
+       "name": "HumFm106",
+       "url": "https://server.softlinepk.stream:10998/",
+       "language_inferred": true
+      },
+      {
+       "name": "HumYouth",
+       "url": "https://cc.vmakerhost.com/proxy/humyouth?mp=/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Hz dr syed khurram sajid shb",
+       "url": "https://stream.zeno.fm/emz8tngyd48uv",
+       "language_inferred": true
+      },
+      {
+       "name": "ILM Radio Renala",
+       "url": "https://node-23.zeno.fm/7wre21u7xa0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "ILMA Stars Live",
+       "url": "https://node-02.zeno.fm/6ddqxds7v68uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Infinity Ideal Solution",
+       "url": "https://stream.zeno.fm/a5a3qh7tz1zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Insaf Radio",
+       "url": "https://cdn.voscast.com/resources/?key=4e1e2d7ac97ea7ad9493c529df2ab16c&c=wmp?n=0cd496995e59a9bcd0ad",
+       "language_inferred": true
+      },
+      {
+       "name": "Islamabad Station",
+       "url": "http://58.65.171.102:8044/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Islamic Information Channel",
+       "url": "https://stream.zeno.fm/3k030amxfkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Jeay fm 88",
+       "url": "https://ssl.rockhost.com/proxy/sukkur?mp=/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "JEAY FM 88 | MORO-NAUSHERO – 88.8 FM – Moro – Sindh – PK",
+       "url": "https://ssl.rockhost.com/proxy/moro?mp=/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "JEAY FM 90.4 | MATLI – 90.4 FM – Mātli – Sindh – PK",
+       "url": "https://cc.vmakerhost.com/proxy/jeayfm2?mp=/matli",
+       "language_inferred": true
+      },
+      {
+       "name": "JEAY FM 91.6 | MATIARI HYDERABAD – 91.6 FM – Matiāri – Sindh – PK",
+       "url": "https://cc.vmakerhost.com/proxy/jeayfm?mp=/matiari",
+       "language_inferred": true
+      },
+      {
+       "name": "Jeay Larkana FM 88",
+       "url": "http://50.7.98.106:8543/",
+       "language_inferred": true
+      },
+      {
+       "name": "Jeay Moro Naushero FM 88",
+       "url": "http://50.7.98.106:8534/",
+       "language_inferred": true
+      },
+      {
+       "name": "JHOKERADIO",
+       "url": "https://stream.zeno.fm/sfu47qmnsg8uv"
+      },
+      {
+       "name": "Jugnuspot Jugnu ki Dunya",
+       "url": "https://node-15.zeno.fm/xhvvvxzfr7zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Kay 2 TV",
+       "url": "http://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/index_150_av-p.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "Khairpur FM",
+       "url": "http://whmsonic.radio.gov.pk:8054/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Khalid",
+       "url": "https://stream.zeno.fm/41zg1pzh9hhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "KhalidKK",
+       "url": "https://node-13.zeno.fm/9mt42zggcd0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "KhalidKK",
+       "url": "https://stream.zeno.fm/9mt42zggcd0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Khutba E Jummah GupshupFamily",
+       "url": "https://node-15.zeno.fm/f1936v63em0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Khutba E Jummah GupshupFamily",
+       "url": "https://stream.zeno.fm/f1936v63em0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "King Station (Urdu)",
+       "url": "https://stream.zeno.fm/vrb4qbqu498uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Kompis FM",
+       "url": "http://eu2.fastcast4u.com:4196/",
+       "language_inferred": true
+      },
+      {
+       "name": "Kompis FM",
+       "url": "http://eu2.fastcast4u.com:4196/stream"
+      },
+      {
+       "name": "lahorichatfm",
+       "url": "https://stream.zeno.fm/gn056ug59f0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Layalpur Post Radio  Pakistan",
+       "url": "https://stream.zeno.fm/wgzv2mf91d0uv"
+      },
+      {
+       "name": "Layalpur Post Radio Pakistan",
+       "url": "https://node-14.zeno.fm/wgzv2mf91d0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Lecture Radio",
+       "url": "https://node-17.zeno.fm/xmreh6nrhy8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Lecture Radio",
+       "url": "https://stream.zeno.fm/xmreh6nrhy8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Lifes Sucks",
+       "url": "https://stream.zeno.fm/726bw18z0f9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Lifestyleradio.online",
+       "url": "https://stream.zeno.fm/yot7dzfor3ntv",
+       "language_inferred": true
+      },
+      {
+       "name": "Live hut 2.",
+       "url": "https://stream.zeno.fm/be7n1hy34hhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Live Radio 101",
+       "url": "http://198.148.87.57:9933/",
+       "language_inferred": true
+      },
+      {
+       "name": "Love Quran Radio – Karachi – Sindh – PK",
+       "url": "https://canada1.reliastream.com/proxy/umfarooq?mp=/stream&1666625356229",
+       "language_inferred": true
+      },
+      {
+       "name": "Lovers",
+       "url": "https://stream.zeno.fm/gkxqshvuuxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Madani Channel",
+       "url": "https://madnitv.vdn.dstreamone.net/madnitvurdu/madniurdu_audio/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "Madani Muzakra Internet Radio",
+       "url": "http://37.59.28.208:8841/muzakra",
+       "language_inferred": true
+      },
+      {
+       "name": "Malangi",
+       "url": "https://stream.zeno.fm/h7mrqw5vmc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Malangi FM",
+       "url": "https://node-34.zeno.fm/h7mrqw5vmc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "ManiRadio",
+       "url": "https://node-07.zeno.fm/x0q381wg6f0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "ManiRadio",
+       "url": "https://stream.zeno.fm/x0q381wg6f0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Mascow",
+       "url": "https://stream.zeno.fm/p4pbuap8ckhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Mashaal Radio",
+       "url": "http://stream.radiojar.com/x9zb3ycpn3quv",
+       "language_inferred": true
+      },
+      {
+       "name": "Massimo Kpop and HipHop Radio",
+       "url": "https://stream.zeno.fm/efva0qnefphvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Mast FM 101",
+       "url": "http://fm.mastfm101.com:9988/",
+       "language_inferred": true
+      },
+      {
+       "name": "Mast FM 103",
+       "url": "http://110.39.6.122:8000/http://110.36.229.158:8004/",
+       "language_inferred": true
+      },
+      {
+       "name": "Mast FM Lahore",
+       "url": "http://110.36.229.158:8000/http://110.36.229.158:8000"
+      },
+      {
+       "name": "Masti Mazak",
+       "url": "https://stream.zeno.fm/34ppmcg9eq8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Mastifm95",
+       "url": "https://stream.zeno.fm/9s2u7aewxd0uv"
+      },
+      {
+       "name": "Mehran Radio",
+       "url": "https://stream.zeno.fm/zfe76cwb1hhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "MEME_AKM",
+       "url": "https://stream.zeno.fm/r02fh1hc0chvv",
+       "language_inferred": true
+      },
+      {
+       "name": "MERA FM 107.4 – Bahawalpur – 107.4 FM – Bahāwalpur – PK-PB",
+       "url": "https://samaabwp107-itelservices.radioca.st/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "MERA FM 107.4 – Karachi – 107.4 FM – Karachi – Sindh – PK",
+       "url": "https://samaakhi107-itelservices.radioca.st/stream&nocache=id1",
+       "language_inferred": true
+      },
+      {
+       "name": "MERA FM 107.4 – Sialkot – 107.4 FM – Siālkot – PK-PB",
+       "url": "https://samaastt107-itelservices.radioca.st/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Mirchi Music FM",
+       "url": "http://54.36.166.45:9304/icy=http",
+       "language_inferred": true
+      },
+      {
+       "name": "Mishal Radio",
+       "url": "https://node-33.zeno.fm/q2suy3q8mg0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "mishalradio",
+       "url": "https://stream.zeno.fm/q2suy3q8mg0uv"
+      },
+      {
+       "name": "Mix Chat and Radio",
+       "url": "http://198.46.155.2:9300/",
+       "language_inferred": true
+      },
+      {
+       "name": "Mix Chat Room Online Radio",
+       "url": "https://radio.ihostingzone.com/radio/8000/radio.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Mix FM 99 Kasur",
+       "url": "https://node-34.zeno.fm/2qtc6yrag18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Mix FM 99 Kasur",
+       "url": "https://stream.zeno.fm/2qtc6yrag18uv"
+      },
+      {
+       "name": "MixChatroom Radio 📻",
+       "url": "https://stream.zeno.fm/h8ts0mk3cm8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "MixGupShup Radio",
+       "url": "https://shoutcast.k-planet.eu/8008/",
+       "language_inferred": true
+      },
+      {
+       "name": "Mobi De Rocker",
+       "url": "https://stream.zeno.fm/geqnfuufdcduv",
+       "language_inferred": true
+      },
+      {
+       "name": "Moon Star Radio",
+       "url": "https://stream.zeno.fm/quk7c4wvywzuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Motikaari",
+       "url": "https://stream.zeno.fm/ha463r4xhrhvv"
+      },
+      {
+       "name": "MsKlyar staion",
+       "url": "https://stream.zeno.fm/ykx4er7sad0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Music FM SDK",
+       "url": "https://stream.zeno.fm/7tk0mx4g698uv",
+       "language_inferred": true
+      },
+      {
+       "name": "MUSIC24H",
+       "url": "https://stream.zeno.fm/ers1mv8vkm0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "MusicMastiFM | Online Pakistani Chatroom | Music Zara Hat Ky",
+       "url": "https://stream.reinflux.com/radio/8010/radio.mp3"
+      },
+      {
+       "name": "MusicRadio24.com – Karachi – Sindh – PK",
+       "url": "https://radio.chat4smile.com/radio/8000/radio.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Muzaffarabad SUNO FM",
+       "url": "https://stream.zeno.fm/n63wnjcwtintv",
+       "language_inferred": true
+      },
+      {
+       "name": "Muzaffarabad VOK FM",
+       "url": "http://172.93.237.106:8054"
+      },
+      {
+       "name": "MWPBNP",
+       "url": "https://stream.zeno.fm/luj5n1dttwkuv"
+      },
+      {
+       "name": "MWStudio",
+       "url": "https://stream.zeno.fm/v30w5eguqg8uv"
+      },
+      {
+       "name": "My Radio",
+       "url": "https://stream.zeno.fm/8catv20p3nhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "MyChatCafe",
+       "url": "https://shoutcast.lionhost.gr:7006/",
+       "language_inferred": true
+      },
+      {
+       "name": "mychatcafe radio – Lahore – PK-PB",
+       "url": "https://radio.ihostingzone.com/radio/8010/radio.mp3?1599427819",
+       "language_inferred": true
+      },
+      {
+       "name": "National Highways and Motorways Police FM95",
+       "url": "http://158.69.26.40:9336/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Nativemedia",
+       "url": "https://stream.zeno.fm/bpha2qxaz98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "NAWA e RASHDI",
+       "url": "https://stream.zeno.fm/m68h1bga7nhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "NCAC",
+       "url": "http://58.65.171.102:8000/stream?type=http&ampnocache=4",
+       "language_inferred": true
+      },
+      {
+       "name": "Ngentot Anak Kecilgolkes",
+       "url": "https://stream.zeno.fm/1mlxfipbdpctv",
+       "language_inferred": true
+      },
+      {
+       "name": "organ seller",
+       "url": "https://stream.zeno.fm/u6akxlgxsdlvv",
+       "language_inferred": true
+      },
+      {
+       "name": "OULC Radio",
+       "url": "https://stream.zeno.fm/ktnkfxdtcg8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Pak Africa FM",
+       "url": "http://usa12.fastcast4u.com:5348/",
+       "language_inferred": true
+      },
+      {
+       "name": "Pak Radio",
+       "url": "https://stream.zeno.fm/aqtt1ghkirpuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Pakchaturdu",
+       "url": "https://stream.zeno.fm/nq4ydca9ashvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Pakhtunkhwa Radio Mohmand",
+       "url": "https://stream.zeno.fm/rp0ss5u6v68uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Pakistan Live FM",
+       "url": "https://centova47.instainternet.com:8161/?1589212574743",
+       "language_inferred": true
+      },
+      {
+       "name": "Pakistan LiveFM",
+       "url": "https://stream.zeno.fm/euykms8qw38uv"
+      },
+      {
+       "name": "Pakistanchatrooms",
+       "url": "https://stream.zeno.fm/ahzenut7t18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Pakistani Chat Rooms – Miānwāli – PK-PB",
+       "url": "https://radio.chatroomradio.com/listen/goldchatfm/radio.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Pakistani Rap 101",
+       "url": "https://stream.zeno.fm/5pkh93uk1v8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Pakistanichatrooms",
+       "url": "http://node-34.zeno.fm/uh4cw60df18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Pakistanlivefm",
+       "url": "http://164.132.159.236:9958/",
+       "language_inferred": true
+      },
+      {
+       "name": "Panjab Radio",
+       "url": "https://stream.zeno.fm/01g488hasd0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Papa Johns Pizza Pakistan",
+       "url": "http://162.252.85.85:7086/listen.pls?sid=1?n=bc2d6da3d897684f5f7d"
+      },
+      {
+       "name": "party songs",
+       "url": "https://stream.zeno.fm/u2my4vy60xhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Parwaaz Live",
+       "url": "https://stream.zeno.fm/3u78hqeb7nhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "PBC FM 101",
+       "url": "https://stream.zeno.fm/qfbhzmh87f8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "PBC ISB",
+       "url": "http://210.56.24.230:8044/",
+       "language_inferred": true
+      },
+      {
+       "name": "PBC NBS",
+       "url": "http://58.65.171.102:8000/stream?type=http\\u0026nocache=669120%3b",
+       "language_inferred": true
+      },
+      {
+       "name": "PBC Planet 94",
+       "url": "https://stream.zeno.fm/8gdxyfvvbv8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "PCR RaDio",
+       "url": "https://node-11.zeno.fm/bv1mz7kwxc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "PCR RaDio",
+       "url": "https://stream.zeno.fm/bv1mz7kwxc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Peace FM",
+       "url": "https://stream.zeno.fm/dhz2dm30x68uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Peace FM Pakistan",
+       "url": "http://node-21.zeno.fm/ry17km30x68uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Pikachu FM",
+       "url": "https://node-24.zeno.fm/cdm7ua1cashvv",
+       "language_inferred": true
+      },
+      {
+       "name": "PIKACHU FM",
+       "url": "https://stream.zeno.fm/cdm7ua1cashvv"
+      },
+      {
+       "name": "PKRadio",
+       "url": "https://node-15.zeno.fm/qssv313abshvv",
+       "language_inferred": true
+      },
+      {
+       "name": "pkradio",
+       "url": "https://stream.zeno.fm/qssv313abshvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Planet 94",
+       "url": "http://210.56.24.230:8002/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "Planet FM 87.6",
+       "url": "http://whmsonic.radio.gov.pk:8086/stream/",
+       "language_inferred": true
+      },
+      {
+       "name": "PM Radio",
+       "url": "https://stream.zeno.fm/q1kf87xdgfhvv"
+      },
+      {
+       "name": "Poetry",
+       "url": "https://stream.zeno.fm/pubh53wx6k0uv"
+      },
+      {
+       "name": "Power 99",
+       "url": "https://stream.zeno.fm/xh2e8vsz1uquv",
+       "language_inferred": true
+      },
+      {
+       "name": "Power 99 – 99.0 FM – PK-IS",
+       "url": "https://cors-proxy.elfsight.com/http://23.235.206.127:8000/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Power Radio",
+       "url": "http://23.235.206.127:8006/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Power99",
+       "url": "https://stream.zeno.fm/06d94vsz1uquv"
+      },
+      {
+       "name": "power99 Abbottabad",
+       "url": "https://stream.zeno.fm/gvc7573x9p8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "power99 Link",
+       "url": "https://stream.zeno.fm/ff6lp1mhoqcuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Power99 Vehari",
+       "url": "https://node-02.zeno.fm/sh2rb1nuqp8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Power99 Vehari",
+       "url": "https://stream.zeno.fm/sh2rb1nuqp8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Prime FM 92",
+       "url": "https://cast1.my-control-panel.com/proxy/armuneeb/primefm?ver=204429",
+       "language_inferred": true
+      },
+      {
+       "name": "Prime FM 92 – Daska – 92 FM – Daska – PK-PB",
+       "url": "https://stream-51.zeno.fm/cxm3rzgbckhvv?zs=vDa__Zf3TZmf0_6ZxHWryQ&ver=519656",
+       "language_inferred": true
+      },
+      {
+       "name": "Prime FM92 Daska",
+       "url": "https://stream.zeno.fm/qdp0hzgbckhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Prime FM92 Digri",
+       "url": "https://stream.zeno.fm/nzd10sxv968uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Prime FM92 none",
+       "url": "https://stream.zeno.fm/epnnzzgbckhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Prime FM92 Shahdadpur",
+       "url": "https://stream.zeno.fm/uf6baknkh98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Quran Pak",
+       "url": "https://node-07.zeno.fm/qy5zy5mfeq8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Quran Pak",
+       "url": "https://stream.zeno.fm/qy5zy5mfeq8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "R Pakistan Multi",
+       "url": "http://210.56.24.230:8042",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 25HRS",
+       "url": "https://node-30.zeno.fm/gmk4bkw59f0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 381",
+       "url": "http://108.178.13.122:8381/stream.mp3"
+      },
+      {
+       "name": "Radio 7",
+       "url": "https://node-27.zeno.fm/073q5amakuhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio 7",
+       "url": "https://stream.zeno.fm/073q5amakuhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Asian World",
+       "url": "http://stream.zeno.fm/6pfmnvcp7s8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Asian World",
+       "url": "https://stream.zeno.fm/t827cvcp7s8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RADIO AVIVAMIENTO",
+       "url": "https://stream.zeno.fm/7de44mk7038uv"
+      },
+      {
+       "name": "Radio Awaz FM 105.4 Okara – 105.4 FM – Okāra – PK-PB",
+       "url": "http://158.69.4.171:8172/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Bakwas – Karachi – Sindh – PK",
+       "url": "https://stream-44.zeno.fm/9htu0k0vsuquv?zs=eC_7-vm7Rgq4djhVxWeErg&aw_0_req_lsid=047ec97d3858914fd93e011c8d6ecdef",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Buraq Mardan",
+       "url": "http://audio.buraq.fm:8092/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Dilber",
+       "url": "http://s2.bizwebsolution.net:8040/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Dilber FM 94",
+       "url": "http://cc.vmakerhost.com:8080/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Dilber Swabi",
+       "url": "https://stream.zeno.fm/7vsyl6j1ljivv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Djk2",
+       "url": "https://stream.zeno.fm/qiwnjap5x3rtv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio FM Just Music",
+       "url": "https://prod-35-227-177-94.wostreaming.net/humfm-fm1062mp3-ibc1",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Hazara",
+       "url": "https://node-35.zeno.fm/u7suwt8erd0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Hazara",
+       "url": "https://stream.zeno.fm/u7suwt8erd0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Jeevay Pakistan FM 100",
+       "url": "http://185.80.220.12:8124/Tune-In%20Links/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Jeevay Pakistan FM 99",
+       "url": "http://str1.exsyshost.com:8060",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Jeevay Pakistan FM Network",
+       "url": "https://stream.zeno.fm/w8bzmxen2uhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Jeevay Pakistan FM – PK",
+       "url": "http://158.69.227.214:8155/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Meezan FM 96.6 Peshawar",
+       "url": "https://stream.zeno.fm/fewlsrxwh5htv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio One FM 91",
+       "url": "https://cc.vmakerhost.com/proxy/karachi?mp=/stream?n=a66710176e65e6843fdb"
+      },
+      {
+       "name": "Radio Pak Filmi",
+       "url": "http://50.7.77.178:8412/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pak Filmi",
+       "url": "https://stream.zeno.fm/qeg64k977f8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan - External Service",
+       "url": "http://whmsonic.radio.gov.pk:8014/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan - FM 101 Abbotabad",
+       "url": "http://whmsonic.radio.gov.pk:8064/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan - FM 101 Islamabad",
+       "url": "http://whmsonic.radio.gov.pk:8018/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan - FM 101 Lahore",
+       "url": "https://whmsonic.radio.gov.pk:7000/101lahore",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan - FM 101 Peshawar",
+       "url": "http://101.50.87.129:8070/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan - FM 101 Quetta",
+       "url": "http://whmsonic.radio.gov.pk:8058/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan - FM 94 Sports",
+       "url": "http://whmsonic.radio.gov.pk:8016/stream/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan - News and Current Affairs Channel (NCAC)",
+       "url": "http://whmsonic.radio.gov.pk:8010/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan Bahawalpur",
+       "url": "https://freeuk4.listen2myradio.com/live.mp3?typeportmount=s1_39538_stream_130319815stream.nsv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan Bahawalpur",
+       "url": "http://203.124.35.147:8010/relay?type=http&nocache=9"
+      },
+      {
+       "name": "Radio Pakistan Bahawalpur",
+       "url": "http://whmsonic.radio.gov.pk:8092/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan Bahawalpur",
+       "url": "https://whmsonic.radio.gov.pk:8092/relay?n=00b6765275a2aa75cc0a",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan Hyderabad",
+       "url": "https://whmsonic.radio.gov.pk:8044/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan Hyderabad MW 1008 KHz",
+       "url": "https://whmsonic.radio.gov.pk:8042/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan Karachi",
+       "url": "http://101.50.87.129:8004/MW639khi",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan Karachi MW 639 KHz",
+       "url": "https://whmsonic.radio.gov.pk:7000/MW639khi",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan Khairpur",
+       "url": "https://stream.zeno.fm/fvdce031nfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan Khuzdar",
+       "url": "https://whmsonic.radio.gov.pk:8062/stream/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan Lahore",
+       "url": "http://whmsonic.radio.gov.pk:8026/stream/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan Lahore AM 630 KHZ",
+       "url": "https://whmsonic.radio.gov.pk:8026/relay",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan Multan",
+       "url": "http://203.124.35.147:8066/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan Multan MW",
+       "url": "https://whmsonic.radio.gov.pk:8034/stream?n=106086b2d5879790e018",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan Muzaffarabad",
+       "url": "http://101.50.87.129:8080/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan Quetta MW",
+       "url": "https://whmsonic.radio.gov.pk:8060/relay/",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan – FM 93 Chitral – 93 FM – Chitrāl – Khyber Pakhtunkhwa – PK",
+       "url": "http://203.124.35.147:9300/chitral?type=http&nocache=9",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan – FM 93 Muzaffarabad – 93 FM – Muzaffarabad – PK-JK",
+       "url": "http://203.124.35.147:8028/relay?type=http&nocache=9",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan – FM 93 Rawalpindi – 93 FM – Rawalpindi – PK-PB",
+       "url": "http://203.124.35.147:8046/relay?type=http&nocache=9",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan – Khuzdar MW – Khuzdār – Balochistan – PK",
+       "url": "http://stream.radio.gov.pk:9300/khuzdar?type=http&nocache=9",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan – MW Bahawalpur – Bahāwalpur – PK-PB",
+       "url": "http://203.124.35.147:8012/relay?type=http&nocache=9",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Pakistan – Quetta MW – Quetta – Balochistan – PK",
+       "url": "http://203.124.35.147:8092/relay",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Peshawar MW",
+       "url": "http://101.50.87.129:8072/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Tnn",
+       "url": "https://stream.zeno.fm/ac6y8q3cwg0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RadioFm.09",
+       "url": "https://stream.zeno.fm/282s7vhmnkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radiokarachi",
+       "url": "https://stream.zeno.fm/b9bhx0p4tchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Rana Baseer",
+       "url": "https://stream.zeno.fm/pfzalaxgkrgvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Randoms",
+       "url": "https://stream.zeno.fm/4mrnfxgdmy8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Ranrra",
+       "url": "https://stream.zeno.fm/2zf0h6z4cy8uv"
+      },
+      {
+       "name": "Ranrra Radio",
+       "url": "https://node-08.zeno.fm/2zf0h6z4cy8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Raza Radio",
+       "url": "https://stream.zeno.fm/n0sfq8py67zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "reinflux",
+       "url": "https://stream.zeno.fm/9gns42yp9hhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Riphah radio",
+       "url": "http://176.31.239.83:9146/stream"
+      },
+      {
+       "name": "Rizla21",
+       "url": "https://stream.zeno.fm/eaxr2a63668uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RJ Papy",
+       "url": "https://stream.zeno.fm/hfxihibgwpptv",
+       "language_inferred": true
+      },
+      {
+       "name": "Rj Sehar100",
+       "url": "http://s2.myradiostream.com/9414.htm",
+       "language_inferred": true
+      },
+      {
+       "name": "RJ Ushna",
+       "url": "https://stream.zeno.fm/q4c16w7hk98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Rjadeelshahid",
+       "url": "http://www.facebook.com/RJAdeelShahid",
+       "language_inferred": true
+      },
+      {
+       "name": "Rksjc Radio",
+       "url": "https://node-12.zeno.fm/1zp745047nhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Rksjc radio",
+       "url": "https://stream.zeno.fm/1zp745047nhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Road Safety FM 95",
+       "url": "https://stream.zeno.fm/tw4uu15m8hhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "romieo",
+       "url": "https://stream.zeno.fm/h9dkxv3a3c9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RoomRadio",
+       "url": "https://stream.zeno.fm/b7sf9t1gys8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Rose Tv",
+       "url": "https://stream.zeno.fm/mmhv7rxfqchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Royal Masti Corner",
+       "url": "http://164.132.159.236:9946/",
+       "language_inferred": true
+      },
+      {
+       "name": "Royalfm",
+       "url": "https://stream.zeno.fm/yddl5atvuvauv",
+       "language_inferred": true
+      },
+      {
+       "name": "Rreezz",
+       "url": "https://stream.zeno.fm/v8usm7gey38uv",
+       "language_inferred": true
+      },
+      {
+       "name": "RW Fashion Show",
+       "url": "https://stream.zeno.fm/ayebasv19zhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Saaz Radio Online",
+       "url": "http://streaming.radionomy.com/saaz",
+       "language_inferred": true
+      },
+      {
+       "name": "Sab FM Ghazals",
+       "url": "https://node-13.zeno.fm/rs84ve7mvf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Sab FM Ghazals",
+       "url": "https://stream.zeno.fm/rs84ve7mvf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Sab FM Hindi",
+       "url": "https://node-29.zeno.fm/pwptdh524k0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Sab FM Hindi",
+       "url": "https://stream.zeno.fm/pwptdh524k0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Sab FM Live",
+       "url": "https://stream.zeno.fm/nxuwmwdmgg0uv"
+      },
+      {
+       "name": "Sab FM Punjabi",
+       "url": "https://stream.zeno.fm/t0658vfq2uhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Sab FM Sufi",
+       "url": "https://node-20.zeno.fm/8myvv14ecchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Sab FM Sufi",
+       "url": "https://stream.zeno.fm/8myvv14ecchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Samaa FM",
+       "url": "http://audio.samaafm.com:8884/stream.nsv",
+       "language_inferred": true
+      },
+      {
+       "name": "Samaa FM",
+       "url": "http://audio.samaafm.com:8876/stream/1/"
+      },
+      {
+       "name": "Samaj Radio",
+       "url": "https://node-15.zeno.fm/3vd6dpgay98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Samaj Radio",
+       "url": "https://stream.zeno.fm/3vd6dpgay98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "samp dax",
+       "url": "https://stream.zeno.fm/42z3nzw72c9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Sargodha Online",
+       "url": "https://node-11.zeno.fm/ppzh0ndxuchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Sargodha Online",
+       "url": "https://stream.zeno.fm/ppzh0ndxuchvv"
+      },
+      {
+       "name": "Sastay Muftay",
+       "url": "https://stream.zeno.fm/vfygmfr47nhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Saut-ul-Quran",
+       "url": "https://stream.zeno.fm/mheru3jthleuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Sawera909",
+       "url": "https://stream.zeno.fm/h7du40zds7zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "SedooshaFM",
+       "url": "https://stream.zeno.fm/7ssnxgw5mfhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Sehat.FM",
+       "url": "https://stream.zeno.fm/5sr5a3eeakhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "ShaheeR21.",
+       "url": "https://stream.zeno.fm/hf6fgnec468uv",
+       "language_inferred": true
+      },
+      {
+       "name": "SHAJAAT",
+       "url": "https://stream.zeno.fm/4v549dfg9whvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Shamal Radio",
+       "url": "http://5.9.71.122:8320/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "Shami Kabab Radio",
+       "url": "https://stream.zeno.fm/cug56dbpgf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Shami Kabab Radio",
+       "url": "https://stream.zeno.fm/bxwbmabpgf9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "SHASHKA Broadcasting Network",
+       "url": "https://stream.zeno.fm/gs82wdyynuhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Shashka FM",
+       "url": "https://node-31.zeno.fm/d4aec85tn2zuv.aac",
+       "language_inferred": true
+      },
+      {
+       "name": "Shashka FM – PK-IS",
+       "url": "https://stream-41.zeno.fm/d4aec85tn2zuv?zs=j_F3r7cNThmRskTDcSGtNA",
+       "language_inferred": true
+      },
+      {
+       "name": "Shaykh Hakeem Muhammad Akhtar - Karachi Pakistan",
+       "url": "https://stream.zeno.fm/82y0h7n5mp8uv"
+      },
+      {
+       "name": "Sikh Katha Radio",
+       "url": "http://radio.punjabrocks.com:9978/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "Sikh Kirtan Radio",
+       "url": "http://radio.punjabrocks.com:9958/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "Sindh Police FM",
+       "url": "http://s33.myradiostream.com:12558/",
+       "language_inferred": true
+      },
+      {
+       "name": "Sindh Police Radio – Karachi – Sindh – PK",
+       "url": "http://158.69.4.171:8556/listen.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "SKY RADIO",
+       "url": "https://stream.zeno.fm/qz6rfdadgphvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Smash Hits",
+       "url": "https://stream.zeno.fm/we301u23srhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Smile Fm 88.6 Haripur Abbotabad Mansehra – 88.6 FM – Harīpur – Khyber Pakhtunkhwa – PK",
+       "url": "http://cc.vmakerhost.com:8011/live",
+       "language_inferred": true
+      },
+      {
+       "name": "SMIU FM 96.6",
+       "url": "https://s30.myradiostream.com/:28364/listen.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "SOLS SHIT",
+       "url": "https://stream.zeno.fm/sqwfwd434hhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Spectrum LLC",
+       "url": "https://node-28.zeno.fm/t98f2mh1pnhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Spectrum LLC",
+       "url": "https://stream.zeno.fm/t98f2mh1pnhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Streamer",
+       "url": "https://stream.zeno.fm/9zxf4y63u18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Streams Pakistan",
+       "url": "http://204.45.41.148/",
+       "language_inferred": true
+      },
+      {
+       "name": "String",
+       "url": "https://stream.zeno.fm/w15hatwn2nhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "SumRadio",
+       "url": "https://node-16.zeno.fm/4raywsvgbchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "sumradio",
+       "url": "https://stream.zeno.fm/tz0s0v79cchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Suno Balochistan 96",
+       "url": "http://sunofm.anms.pk:8000/BLN",
+       "language_inferred": true
+      },
+      {
+       "name": "SUNO FM",
+       "url": "https://stream.zeno.fm/u9hkurj5kjkuv",
+       "language_inferred": true
+      },
+      {
+       "name": "SUNO FM 89.4 Saraiki – 89.4 FM – Multan – PK-PB",
+       "url": "https://stream-11.zeno.fm/evbchqja5oetv?zs=D3i1bM_xQ6C4RchKKrJYtQ",
+       "language_inferred": true
+      },
+      {
+       "name": "SUNO FM AJK",
+       "url": "https://stream.zeno.fm/vmuemial8ietv",
+       "language_inferred": true
+      },
+      {
+       "name": "SUNO FM ATHAR RIZVI",
+       "url": "https://stream.zeno.fm/frmdk29srmutv",
+       "language_inferred": true
+      },
+      {
+       "name": "SUNO FM BAHRAIN",
+       "url": "https://stream.zeno.fm/p0nmosuc3o8tv",
+       "language_inferred": true
+      },
+      {
+       "name": "SUNO FM BLN",
+       "url": "https://stream.zeno.fm/rupdjglocbvtv",
+       "language_inferred": true
+      },
+      {
+       "name": "SUNO FM GAWADAR",
+       "url": "https://stream.zeno.fm/cs2tv3wzlzouv",
+       "language_inferred": true
+      },
+      {
+       "name": "SUNO FM GB",
+       "url": "https://stream.zeno.fm/nv2hpnb8husuv",
+       "language_inferred": true
+      },
+      {
+       "name": "SUNO FM GILGIT BACKUP",
+       "url": "https://stream.zeno.fm/y3nowki0cs3tv",
+       "language_inferred": true
+      },
+      {
+       "name": "SUNO FM KK",
+       "url": "https://stream.zeno.fm/k6jtqct3o8evv",
+       "language_inferred": true
+      },
+      {
+       "name": "SUNO FM KPK",
+       "url": "https://stream.zeno.fm/vgco9utdqwjvv",
+       "language_inferred": true
+      },
+      {
+       "name": "SUNO FM MULTAN",
+       "url": "https://stream.zeno.fm/9i2ykmjmcugvv",
+       "language_inferred": true
+      },
+      {
+       "name": "SUNO FM PARACHNAR",
+       "url": "https://stream.zeno.fm/vrgrft3wfvsvv",
+       "language_inferred": true
+      },
+      {
+       "name": "SUNO FM TIMERGIRAH",
+       "url": "https://stream.zeno.fm/9qqtf5tqwwxuv",
+       "language_inferred": true
+      },
+      {
+       "name": "SUNO FM UK",
+       "url": "https://stream.zeno.fm/sgnoulfdl2ftv",
+       "language_inferred": true
+      },
+      {
+       "name": "Suno Pakistan",
+       "url": "http://110.93.246.72:8000/AJK",
+       "language_inferred": true
+      },
+      {
+       "name": "Suno Pakistan",
+       "url": "https://202.69.62.66:8000/ajk?ver=787583",
+       "language_inferred": true
+      },
+      {
+       "name": "Suno Pakistan AJK",
+       "url": "https://sunofm.anms.pk/AJK",
+       "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "Suno Pakistan Urdu",
+       "url": "https://sunofm.anms.pk/URDU?ver=182349"
+      },
+      {
+       "name": "Superchat",
+       "url": "https://stream.zeno.fm/cuadefty908uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Superchatzone",
+       "url": "https://stream.zeno.fm/1ctrp0ty908uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Swat Live FM",
+       "url": "http://37.59.114.102:9308/",
+       "language_inferred": true
+      },
+      {
+       "name": "Taal Radio",
+       "url": "http://radio.punjabrocks.com:9998/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "Tahirtaran",
+       "url": "https://stream.zeno.fm/fzjporvs1knvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Talkingatradio",
+       "url": "https://stream.zeno.fm/0vh4gxscdd0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "test radio",
+       "url": "https://stream.zeno.fm/rycy8lhlikuvv",
+       "language_inferred": true
+      },
+      {
+       "name": "test43434",
+       "url": "https://stream.zeno.fm/2rysegdygchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Thall Hangu News",
+       "url": "https://stream.zeno.fm/3kmhcbn2ekhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "The Bro",
+       "url": "https://stream.zeno.fm/m005atu7n48uv",
+       "language_inferred": true
+      },
+      {
+       "name": "The Hit FM 102",
+       "url": "http://server.a-xee.com:8500/TheHitFM",
+       "language_inferred": true
+      },
+      {
+       "name": "The Music Masti",
+       "url": "http://89.37.67.150:9430/",
+       "language_inferred": true
+      },
+      {
+       "name": "The Voice Pakistan",
+       "url": "https://node-18.zeno.fm/dc29gurh268uv",
+       "language_inferred": true
+      },
+      {
+       "name": "The Voice Pakistan",
+       "url": "https://stream.zeno.fm/dc29gurh268uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Tilawat Quran",
+       "url": "https://node-02.zeno.fm/n486ww4g21zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Tilawat-e-Quran (Hadar)",
+       "url": "http://37.187.93.104:8641/hadar",
+       "language_inferred": true
+      },
+      {
+       "name": "TIP-Radio",
+       "url": "https://stream.zeno.fm/3148brkenkhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Transmitter Live",
+       "url": "https://stream.zeno.fm/4ytr22m0qnhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "UO Radio",
+       "url": "https://node-07.zeno.fm/p5xe67nuwk8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "UO Radio",
+       "url": "https://stream.zeno.fm/p5xe67nuwk8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Uppal Radio",
+       "url": "https://node-02.zeno.fm/r39zcrahyrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Uppal Radio",
+       "url": "https://stream.zeno.fm/r39zcrahyrhvv"
+      },
+      {
+       "name": "Urdumazachat",
+       "url": "https://stream.zeno.fm/bc50rmxqsuhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "VALLEY FM",
+       "url": "https://stream.zeno.fm/rruspe1kachvv",
+       "language_inferred": true
+      },
+      {
+       "name": "VALLEY FM 103",
+       "url": "http://stream.zeno.fm/zv4a0ngas2zuv",
+       "language_inferred": true
+      },
+      {
+       "name": "veer07",
+       "url": "https://stream.zeno.fm/wz0uh5qxwhhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Vehowa FM",
+       "url": "https://node-04.zeno.fm/prykd15bkg0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Voice Asia Radio",
+       "url": "http://198.50.156.215:9310",
+       "language_inferred": true
+      },
+      {
+       "name": "Voice Of Heart",
+       "url": "https://node-14.zeno.fm/1vb5pf24trhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Voice Of Heart",
+       "url": "https://stream.zeno.fm/1vb5pf24trhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Voice Of Time Hassanabdal 105.6 – 105.6 FM – PK-IS",
+       "url": "https://server.softlinepk.stream/8030/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "VOK FM",
+       "url": "https://streamingv2.shoutcast.com/vok-fm-radio_128.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "VOM 96",
+       "url": "https://stream.zeno.fm/c93wbn27mg0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Wafa72",
+       "url": "https://stream.zeno.fm/ct7brfm3rxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Word Alivee",
+       "url": "https://stream.zeno.fm/x5839rhd2d0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "World Service",
+       "url": "http://203.124.35.147:8004/relay?type=http&ampnocache=9",
+       "language_inferred": true
+      },
+      {
+       "name": "www.radiochill.net",
+       "url": "https://stream.zeno.fm/atw7dvyqmzntv",
+       "language_inferred": true
+      },
+      {
+       "name": "Xatchatzone.com",
+       "url": "https://stream.zeno.fm/gm6178rd7f0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "xHunTer Station",
+       "url": "https://stream.zeno.fm/4pt7fy23srhvv"
+      },
+      {
+       "name": "YS RAP",
+       "url": "https://stream.zeno.fm/6d1dgg2qq0hvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Ysa5 Broadcasting Station",
+       "url": "http://217.147.94.171:34647/stream/1",
+       "language_inferred": true
+      },
+      {
+       "name": "ZAB FM",
+       "url": "https://node-06.zeno.fm/2b5wsghucuhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Zab FM",
+       "url": "http://110.34.37.106:8000/live"
+      },
+      {
+       "name": "zamanfm",
+       "url": "https://stream.zeno.fm/dkg7xcqgxy8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "zenomusic",
+       "url": "https://stream.zeno.fm/9c4zqkk6echvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Zstation",
+       "url": "https://stream.zeno.fm/yv0ww0wge7jvv",
+       "language_inferred": true
+      },
+      {
+       "name": "ZU FM 98.2",
+       "url": "http://radio.itelservices.net:8102/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "مدرس: شیخ القرآن ولحدیث مولانا ہدایت اللہ حفظہ اللہ - جامعہ احیاءالعلوم بلامبٹ ضلع دیر",
+       "url": "https://stream.zeno.fm/85yp9zx2wwzuv",
+       "language_inferred": true
+      }
+     ]
+    }
+   }
+  },
+  "English": {
+   "count": 83,
+   "genres": {
+    "alternative_indie": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Smiu 96.6 FM",
+       "url": "http://69.30.218.190:28364"
+      }
+     ]
+    },
+    "bollywood_indian": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "Dildastak",
+       "url": "https://stream.rcast.live/64829"
+      },
+      {
+       "name": "Kompis FM",
+       "url": "http://37.187.90.121:4196/listen.pls"
+      },
+      {
+       "name": "My Masti Radio",
+       "url": "http://144.217.203.184:9056/"
+      },
+      {
+       "name": "The Magic Radio",
+       "url": "http://s2.bizwebsolution.net:8173/",
+       "tags": [
+        "bollywood_indian",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "christian_gospel": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "چاپرښته پښتو ريډيو",
+       "url": "https://pashtoradio.org:9444/stream/2.mp3",
+       "tags": [
+        "christian_gospel",
+        "islamic_quran"
+       ]
+      }
+     ]
+    },
+    "classical": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Planet 94",
+       "url": "http://210.56.24.230:8002",
+       "tags": [
+        "classical",
+        "various_eclectic"
+       ]
+      },
+      {
+       "name": "Radio Pak Filmi",
+       "url": "http://74.91.125.187:8214/stream",
+       "tags": [
+        "classical",
+        "oldies",
+        "soundtrack"
+       ]
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "FM 100 - Lahore",
+       "url": "http://162.244.80.118:3058/stream.mp3",
+       "tags": [
+        "easy_listening",
+        "bollywood_indian"
+       ]
+      },
+      {
+       "name": "Mast FM 103 Faisalabad",
+       "url": "http://110.36.229.158:8000/http:/110.36.229.158:8004"
+      },
+      {
+       "name": "Mast FM 103 Karachi",
+       "url": "http://110.36.229.158:8000/http:/110.36.229.158:8008"
+      },
+      {
+       "name": "Mast FM 103 Multan",
+       "url": "http://110.36.229.158:8000/http:/110.36.229.158:8006"
+      }
+     ]
+    },
+    "folk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio1 FM91",
+       "url": "https://cc.vmakerhost.com/proxy/karachi?mp=/stream",
+       "tags": [
+        "pop_hits",
+        "folk",
+        "news_talk",
+        "islamic_quran",
+        "world",
+        "christian_gospel",
+        "easy_listening"
+       ]
+      }
+     ]
+    },
+    "hip_hop_rap": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Libra FM",
+       "url": "http://78.129.224.15:19800/stream",
+       "tags": [
+        "pop_hits",
+        "folk",
+        "hip_hop_rap",
+        "bollywood_indian"
+       ]
+      }
+     ]
+    },
+    "jazz": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Jazba Radio",
+       "url": "http://s8.voscast.com:8344"
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 6,
+     "stations": [
+      {
+       "name": "FM 101",
+       "url": "http://210.56.24.230:8006/",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "bollywood_indian"
+       ]
+      },
+      {
+       "name": "Hot Fm 105 Hyderabad",
+       "url": "http://172.93.237.106:8030/",
+       "tags": [
+        "news_talk",
+        "various_eclectic",
+        "sports",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Islamabad Station radio",
+       "url": "https://whmsonic.radio.gov.pk:7003/stream",
+       "tags": [
+        "news_talk",
+        "islamic_quran"
+       ]
+      },
+      {
+       "name": "Mix FM",
+       "url": "http://radio.flare.pk:8098/fm99"
+      },
+      {
+       "name": "Radio Pakistan – FM 101 Karachi",
+       "url": "http://210.56.24.230:8036/",
+       "tags": [
+        "news_talk",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "RPRadio",
+       "url": "https://stream.zenolive.com/hadhth3y62quv",
+       "tags": [
+        "news_talk",
+        "college_community",
+        "kids"
+       ]
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 9,
+     "stations": [
+      {
+       "name": "City FM 89",
+       "url": "https://radio.cityfm89.com/stream",
+       "tags": [
+        "pop_hits",
+        "easy_listening",
+        "world",
+        "electronic",
+        "soul_rnb_funk",
+        "disco_eurodance",
+        "islamic_quran"
+       ]
+      },
+      {
+       "name": "City FM 89",
+       "url": "https://video1.getstreamhosting.com:8442/stream"
+      },
+      {
+       "name": "FunnyPaki",
+       "url": "http://radiopaki.funnypaki.com:8886/"
+      },
+      {
+       "name": "Hot FM 105 Badin",
+       "url": "http://172.93.237.106:8038/"
+      },
+      {
+       "name": "SAMAA FM Bahawalpur",
+       "url": "http://audio.samaafm.com:8872/"
+      },
+      {
+       "name": "SAMAA FM Islamabad",
+       "url": "http://audio.samaafm.com:8880/"
+      },
+      {
+       "name": "SAMAA FM Karachi",
+       "url": "http://audio.samaafm.com:8876/stream.mp3"
+      },
+      {
+       "name": "SAMAA FM Peshawar",
+       "url": "http://audio.samaafm.com:8892/"
+      },
+      {
+       "name": "SAMAA FM Sialkot",
+       "url": "http://audio.samaafm.com:8888/"
+      }
+     ]
+    },
+    "rock": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Bindas Radio",
+       "url": "http://50.7.70.66:8666/",
+       "tags": [
+        "pop_hits",
+        "rock"
+       ]
+      },
+      {
+       "name": "Dostii4ever FM",
+       "url": "https://radio.fun.cafe/radio/8850/radio.mp3?1617712052",
+       "tags": [
+        "rock",
+        "techno",
+        "hip_hop_rap",
+        "house",
+        "metal",
+        "jazz",
+        "electronic",
+        "disco_eurodance",
+        "bollywood_indian",
+        "pop_hits",
+        "world"
+       ]
+      }
+     ]
+    },
+    "various_eclectic": {
+     "count": 5,
+     "stations": [
+      {
+       "name": "FM 101 Mirpur",
+       "url": "http://210.56.24.230:8030",
+       "tags": [
+        "various_eclectic",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "FM91 Pakistan Islamabad",
+       "url": "http://172.93.237.106:8191/"
+      },
+      {
+       "name": "InnerExotics",
+       "url": "http://5.63.151.52:7018/stream",
+       "tags": [
+        "various_eclectic",
+        "chillout_lounge"
+       ]
+      },
+      {
+       "name": "Jeay Mirpurkhas FM 88",
+       "url": "http://50.7.98.106:8532"
+      },
+      {
+       "name": "Radio1 FM91",
+       "url": "http://172.93.237.106:8359/"
+      }
+     ]
+    },
+    "world": {
+     "count": 6,
+     "stations": [
+      {
+       "name": "Chat4smile",
+       "url": "https://ukradio.drifthosters.com/radio/8040/radio.mp3",
+       "tags": [
+        "pop_hits",
+        "decade_60s",
+        "decade_90s",
+        "world"
+       ]
+      },
+      {
+       "name": "Mast FM 106",
+       "url": "http://radio.mastfm106.com:9974/",
+       "tags": [
+        "various_eclectic",
+        "world"
+       ]
+      },
+      {
+       "name": "Radio FM World Pakistan",
+       "url": "http://radio.itelservices.net:8612/"
+      },
+      {
+       "name": "Rose FM 90",
+       "url": "http://69.197.169.178:34708/listen.mp3"
+      },
+      {
+       "name": "Suno Pakistan",
+       "url": "http://202.69.62.66:8000/SUNO"
+      },
+      {
+       "name": "Super FM90",
+       "url": "http://hubble.shoutca.st:8233/"
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 40,
+     "stations": [
+      {
+       "name": "Aaj FM",
+       "url": "http://149.56.85.68:9300/stream.mp3"
+      },
+      {
+       "name": "Amrinder Gill",
+       "url": "http://180.92.157.26:8880/listen.pls"
+      },
+      {
+       "name": "Apna Karachi 107",
+       "url": "http://180.178.134.37:7070/live107"
+      },
+      {
+       "name": "Awam FM 94 Khushab",
+       "url": "http://54.36.166.45:9314/stream.mp3"
+      },
+      {
+       "name": "CityFM 89",
+       "url": "https://video1.getstreamhosting.com:8434/stream"
+      },
+      {
+       "name": "DOT - Defenders of Truth",
+       "url": "http://www.defendersofislam.com/DOTLive/DotLiveWindowMedia.asx"
+      },
+      {
+       "name": "Dunya TV - Dunya News Headlines",
+       "url": "http://www.dunyanews.tv/dunya_audio_files/2011/May/05-27-11/2011-05-27-100004.mp3"
+      },
+      {
+       "name": "Express News",
+       "url": "https://5ab29cc78f681.streamlock.net/expressdigital1/livestream/playlist.m3u8"
+      },
+      {
+       "name": "Faizan-e-Farz Uloom Course",
+       "url": "http://farzuloom.dawateislami.tv:8740/"
+      },
+      {
+       "name": "FM 92 Nooriabad",
+       "url": "http://95.154.196.33:15484/stream.mp3"
+      },
+      {
+       "name": "FM91 Pakistan - 80's Music",
+       "url": "http://172.93.237.106:8213/"
+      },
+      {
+       "name": "FM91 Pakistan - 90's Music",
+       "url": "http://172.93.237.106:8217/stream.nsv"
+      },
+      {
+       "name": "FM91 Pakistan - 90s Music",
+       "url": "http://172.93.237.106:8217/"
+      },
+      {
+       "name": "Geo News Radio",
+       "url": "https://stream1.jeem.tv/geo/geonews_audio_abr/playlist.m3u8"
+      },
+      {
+       "name": "Hadiz FM",
+       "url": "http://173.249.10.23:9599/"
+      },
+      {
+       "name": "HOT FM 98 Jacobabad",
+       "url": "http://172.93.237.106:8050/"
+      },
+      {
+       "name": "HOT FM 99 Dadu",
+       "url": "http://172.93.237.106:8044/"
+      },
+      {
+       "name": "ITP 92.4 FM",
+       "url": "http://s21.myradiostream.com:9520/%26rand=21"
+      },
+      {
+       "name": "Jazba FM 94 Kasur",
+       "url": "http://110.36.229.158:8000/http:/110.36.229.158:8003"
+      },
+      {
+       "name": "JEAY FM 88 | SUKKUR",
+       "url": "http://108.163.245.230:9152/stream.mp3"
+      },
+      {
+       "name": "Love Islam Radio",
+       "url": "http://myradio.doscast.com:8368/Stream"
+      },
+      {
+       "name": "MAST FM 105",
+       "url": "http://radiopaki.funnypaki.com:9300/"
+      },
+      {
+       "name": "MI FM",
+       "url": "http://fastcast.gbcast.com.au:5086/"
+      },
+      {
+       "name": "NHK - Radio News in Urdu",
+       "url": "https://www3.nhk.or.jp/nhkworld/upld/medias/ur/radio/news/20200818001500_urdu_1.mp3"
+      },
+      {
+       "name": "pakistanradio.net",
+       "url": "http://50.7.71.219:8014/stream"
+      },
+      {
+       "name": "PBC Lahore",
+       "url": "http://203.124.35.147:8086/stream.nsv"
+      },
+      {
+       "name": "Power 99",
+       "url": "http://67.231.248.130:1935/live/power99isb/chunklist_w788929133.m3u8"
+      },
+      {
+       "name": "Radio Awaz FM 105 Bhawalpur",
+       "url": "http://158.69.4.171:8168/stream.mp3"
+      },
+      {
+       "name": "Radio Awaz FM 107 Pakpattam",
+       "url": "http://158.69.4.171:8156/stream.mp3"
+      },
+      {
+       "name": "Radio Dilber",
+       "url": "http://s2.bizwebsolution.net:8080/stream.mp3"
+      },
+      {
+       "name": "Radio Jeevay QURAN",
+       "url": "http://174.37.159.206:8250/"
+      },
+      {
+       "name": "SBS Radio - Urdu",
+       "url": "https://feedpress.me/link/17632/13813205/urdu_9ee39114-fbde-441a-97e2-216e603ab138.mp3"
+      },
+      {
+       "name": "Shamal Radio",
+       "url": "http://212.83.138.48:8320/stream.mp3"
+      },
+      {
+       "name": "Sindh Police",
+       "url": "http://radio11.bizwebsolution.net:9998/"
+      },
+      {
+       "name": "Sindh Police Radio",
+       "url": "http://s33.myradiostream.com:12558/listen.mp3"
+      },
+      {
+       "name": "SPICE FM 107",
+       "url": "https://stream.streamgenial.stream/b75nfp077f8uv"
+      },
+      {
+       "name": "TMK 100.20",
+       "url": "http://radio.itelservices.net:8060/"
+      },
+      {
+       "name": "Too Much Long Team",
+       "url": "https://stream.zeno.fm/07gqqe7a8ehvv"
+      },
+      {
+       "name": "Umerkot Fm",
+       "url": "http://radio.itelservices.net:8009/"
+      },
+      {
+       "name": "Urdu Islam FM",
+       "url": "https://uk5.listen2myradio.com:2199/tunein/urduisla.pls"
+      }
+     ]
+    }
+   }
+  },
+  "Arabic": {
+   "count": 11,
+   "genres": {
+    "bollywood_indian": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Awaaz FM",
+       "url": "https://uk1.listen2myradio.com:2199/listen.php?port=8022&type=s1&mount=/stream\"_type=\"audio/aac\"_/>_"
+      },
+      {
+       "name": "Awaaz FM",
+       "url": "https://uk1.listen2myradio.com:2199/listen.php?port=8022&type=s1&mount=/stream\" type=\"audio/aac\" />"
+      },
+      {
+       "name": "FM 93 Karachi",
+       "url": "https://whmsonic.radio.gov.pk:7022/stream.mp3/",
+       "country_inferred": true
+      }
+     ]
+    },
+    "islamic_quran": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Awaz-e-Haq World Radio",
+       "url": "http://s3.viastreaming.net:8520/",
+       "tags": [
+        "islamic_quran",
+        "christian_gospel",
+        "news_talk"
+       ]
+      }
+     ]
+    },
+    "various_eclectic": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Valley FM 103",
+       "url": "http://node-02.zeno.fm/zv4a0ngas2zuv"
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 6,
+     "stations": [
+      {
+       "name": "Chiltan FM 88",
+       "url": "http://212.83.138.48:8284/"
+      },
+      {
+       "name": "FM 101 Kohat",
+       "url": "http://whmsonic.radio.gov.pk:8068/stream"
+      },
+      {
+       "name": "FM 93 Chitral",
+       "url": "http://whmsonic.radio.gov.pk:8066/stream"
+      },
+      {
+       "name": "FM 93 Mianwali",
+       "url": "http://203.124.35.147:8048/"
+      },
+      {
+       "name": "Funfm",
+       "url": "http://awaz.listen2myradio.com"
+      },
+      {
+       "name": "Quran Radio",
+       "url": "http://signstrade.dlinkddns.com:8001/stream"
+      }
+     ]
+    }
+   }
+  },
+  "Hindi": {
+   "count": 5,
+   "genres": {
+    "pop_hits": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Dil FM Okara",
+       "url": "http://91.121.242.140:5000"
+      }
+     ]
+    },
+    "rock": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Masti eXpress - RMX",
+       "url": "http://radio.mastixpress.com:9852/",
+       "tags": [
+        "rock",
+        "pop_hits",
+        "bollywood_indian"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Big FM 98",
+       "url": "https://samaapew107-itelservices.radioca.st/stream"
+      },
+      {
+       "name": "Dil FM Sahiwal",
+       "url": "http://69.30.205.134:7000/"
+      },
+      {
+       "name": "Madani Muzakra Radio - Urdu",
+       "url": "http://mm.dawateislami.net:8841/"
+      }
+     ]
+    }
+   }
+  },
+  "Pashto": {
+   "count": 5,
+   "genres": {
+    "news_talk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Mashaal Radio",
+       "url": "http://rfe-channel-20.akacast.akamaistream.net/7/990/229670/v1/ibb.akacast.akamaistream.net/rfe_channel_20.mp3"
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 4,
+     "stations": [
+      {
+       "name": "AVT Khyber TV",
+       "url": "http://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/index_150_av-p.m3u8"
+      },
+      {
+       "name": "CRSS Radio",
+       "url": "http://198.50.156.215:9942/"
+      },
+      {
+       "name": "Khyber News TV",
+       "url": "http://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/index_150_av-p.m3u8"
+      },
+      {
+       "name": "Radio Pakistan",
+       "url": "http://203.124.35.147:8088/relay"
+      }
+     ]
+    }
+   }
+  },
+  "Punjabi": {
+   "count": 3,
+   "genres": {
+    "bollywood_indian": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Desi Music Mix",
+       "url": "http://s0.desimusicmix.com:8012",
+       "tags": [
+        "world",
+        "bollywood_indian"
+       ]
+      },
+      {
+       "name": "Radio Bakwas",
+       "url": "http://stream.zenolive.com/9htu0k0vsuquv"
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "RadioCity FM107",
+       "url": "https://crs.webdesign-flash.ro/?q=http://stream.zenolive.com/y0zhe5kq9eeuv&plugin_id=7628&site_id=8520577",
+       "tags": [
+        "easy_listening",
+        "decade_90s"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "French": {
+   "count": 2,
+   "genres": {
+    "blues": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Awamichat",
+       "url": "https://eu7.fastcast4u.com/proxy/awamichat?mp=%2F1",
+       "tags": [
+        "easy_listening",
+        "classical",
+        "blues"
+       ]
+      }
+     ]
+    },
+    "folk": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio TeenTaal",
+       "url": "http://www.radioteentaal.com:8000",
+       "tags": [
+        "folk",
+        "alternative_indie",
+        "bollywood_indian"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Multilingual": {
+   "count": 2,
+   "genres": {
+    "various_eclectic": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Sada-e-Hurriyet-e Jammu Kashmir",
+       "url": "http://124.109.61.150:8000/"
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "PBC FM 101",
+       "url": "https://stream.streamgenial.stream/0q8uaph87f8uv"
+      }
+     ]
+    }
+   }
+  },
+  "Sindhi": {
+   "count": 2,
+   "genres": {
+    "unclassified": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "KTN News TV",
+       "url": "http://103.24.96.74/ktn/ktnnews/playlist.m3u8"
+      },
+      {
+       "name": "KTN TV",
+       "url": "http://103.24.96.74/ktn/ktn/playlist.m3u8"
+      }
+     ]
+    }
+   }
+  },
+  "Tamil": {
+   "count": 2,
+   "genres": {
+    "classical": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Fun Cafe Live",
+       "url": "http://radio.fun.cafe:8800/stream/",
+       "tags": [
+        "pop_hits",
+        "classical"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Fun Cafe Live",
+       "url": "http://radio.fun.cafe:8800/radio.mp3/"
+      }
+     ]
+    }
+   }
+  },
+  "Japanese": {
+   "count": 1,
+   "genres": {
+    "soundtrack": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Shopen Anime Radio Station",
+       "url": "https://listen.radioking.com/radio/524044/stream/582313",
+       "tags": [
+        "soundtrack",
+        "rock",
+        "jpop_kpop_asia",
+        "soul_rnb_funk",
+        "pop_hits"
+       ]
+      }
+     ]
+    }
+   }
+  }
+ }
+}

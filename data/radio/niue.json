@@ -1,0 +1,78 @@
+{
+ "country": "Niue",
+ "count": 7,
+ "languages": {
+  "Unknown": {
+   "count": 7,
+   "genres": {
+    "alternative_indie": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Facethemusic",
+       "url": "http://173.208.177.90:14982/listen.pls"
+      }
+     ]
+    },
+    "christian_gospel": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "antenne 1 Happy Listen live",
+       "url": "https://stream.antenne1.de/happy/livestream1.aac",
+       "tags": [
+        "pop_hits",
+        "christian_gospel"
+       ]
+      }
+     ]
+    },
+    "college_community": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Sckoolboy",
+       "url": "https://stream.zeno.fm/g8zchechfv8uv"
+      }
+     ]
+    },
+    "oldies": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "GoldFM 1024",
+       "url": "http://85.195.17.209:8080"
+      }
+     ]
+    },
+    "rock": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Hitrádio Osmdesátka Listen live",
+       "url": "https://19993.live.streamtheworld.com/HITRADIO_OSMDESATKA_128.mp3",
+       "tags": [
+        "rock",
+        "pop_hits",
+        "decade_80s"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "1dahanush",
+       "url": "https://stream.zeno.fm/kpy2zqz8938uv"
+      },
+      {
+       "name": "shibuya kei",
+       "url": "https://stream.zeno.fm/9nhagr4w3rbuv"
+      }
+     ]
+    }
+   }
+  }
+ }
+}

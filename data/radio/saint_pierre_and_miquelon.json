@@ -1,0 +1,84 @@
+{
+ "country": "Saint Pierre and Miquelon",
+ "count": 5,
+ "languages": {
+  "French": {
+   "count": 5,
+   "genres": {
+    "news_talk": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Radio Atlantique",
+       "url": "https://s7.voscast.com:10433/stream.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "rock",
+        "various_eclectic",
+        "sports",
+        "world"
+       ]
+      },
+      {
+       "name": "Saint-Pierre et Miquelon la 1ère",
+       "url": "https://saint-pierreetmiquelon.ice.infomaniak.ch/saint-pierreetmiquelon-128.mp3",
+       "tags": [
+        "news_talk",
+        "pop_hits",
+        "hip_hop_rap",
+        "soul_rnb_funk",
+        "latin",
+        "world",
+        "college_community",
+        "electronic"
+       ]
+      }
+     ]
+    },
+    "rock": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "94,3 rs2 - Weihnachten mit Gerlinde Listen live",
+       "url": "https://topradio-de-hz-fal-stream09-cluster01.radiohost.de/rs2-event_128",
+       "tags": [
+        "rock",
+        "schlager_polka",
+        "folk",
+        "pop_hits"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Archipel FM",
+       "url": "https://radioarchipelfm.ice.infomaniak.ch/radioarchipelfm-64.mp3",
+       "tags": [
+        "rock",
+        "pop_hits",
+        "country",
+        "electronic",
+        "alternative_indie",
+        "blues",
+        "various_eclectic",
+        "news_talk",
+        "folk",
+        "easy_listening"
+       ]
+      }
+     ]
+    },
+    "world": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Radio Mikayi Listen live",
+       "url": "https://freeuk7.listen2myradio.com/live.mp3?typeportmount=s1_32542_server",
+       "language_inferred": true
+      }
+     ]
+    }
+   }
+  }
+ }
+}

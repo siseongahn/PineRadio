@@ -1,0 +1,570 @@
+{
+ "country": "Botswana",
+ "count": 79,
+ "languages": {
+  "English": {
+   "count": 77,
+   "genres": {
+    "christian_gospel": {
+     "count": 5,
+     "stations": [
+      {
+       "name": "Radio Ecclesia",
+       "url": "http://streaming.radio.co/scf02c765f/listen",
+       "language_inferred": true
+      },
+      {
+       "name": "RERA Online Christian Radio",
+       "url": "https://s2.radio.co/sc93b4c6aa/listen"
+      },
+      {
+       "name": "SoHeavenly Radio",
+       "url": "https://s4.radio.co/s5454327ce/listen",
+       "tags": [
+        "christian_gospel",
+        "holiday"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "The Cross FM radio",
+       "url": "https://stream.radiojar.com/pwd30v5rv98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Tzgospel Swahili (Botswana) radio",
+       "url": "https://stream.zeno.fm/uwatum93tchvv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "college_community": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "GenesisKincaid fm",
+       "url": "https://stream.zeno.fm/vs8nfs0u3a0uv",
+       "language_inferred": true
+      }
+     ]
+    },
+    "easy_listening": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Gabz FM",
+       "url": "https://crs.webdesign-flash.ro/?q=http://fmt01.egihosting.com:17721/&plugin_id=7628&site_id=8520577",
+       "tags": [
+        "pop_hits",
+        "easy_listening",
+        "soul_rnb_funk",
+        "news_talk",
+        "rock"
+       ]
+      }
+     ]
+    },
+    "electronic": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Zanany Live",
+       "url": "http://stream.radiojar.com/hng36dst38tvv",
+       "tags": [
+        "world",
+        "electronic"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "hip_hop_rap": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "BLXCKHIPPYRADIO",
+       "url": "http://europa.shoutca.st:8122/stream",
+       "tags": [
+        "various_eclectic",
+        "news_talk",
+        "hip_hop_rap"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Yarona FM",
+       "url": "http://anton.antfarm.co.za:1935/yarona/yarona.stream/playlist.m3u8",
+       "tags": [
+        "hip_hop_rap",
+        "rock",
+        "electronic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Yarona FM",
+       "url": "https://capeant.antfarm.co.za:8000/yarona",
+       "tags": [
+        "pop_hits",
+        "world",
+        "hip_hop_rap"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "news_talk": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "Duma FM 93.0",
+       "url": "https://stream.zeno.fm/16ve08sfy4zuv"
+      },
+      {
+       "name": "RB2-Radio Botswana 2",
+       "url": "https://168.167.134.26:8000/rb2",
+       "tags": [
+        "news_talk",
+        "various_eclectic",
+        "pop_hits",
+        "world"
+       ]
+      }
+     ]
+    },
+    "pop_hits": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "DumaFM",
+       "url": "https://stream.streamgenial.stream/16ve08sfy4zuv",
+       "tags": [
+        "various_eclectic",
+        "pop_hits"
+       ]
+      },
+      {
+       "name": "Gabz FM",
+       "url": "https://stream.streamgenial.stream/y4fgv9tfy4zuv"
+      }
+     ]
+    },
+    "rock": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Gabz FM",
+       "url": "https://stream.zeno.fm/y4fgv9tfy4zuv",
+       "tags": [
+        "pop_hits",
+        "rock",
+        "easy_listening"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "soul_rnb_funk": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Jazzy Soul Radio Nata",
+       "url": "http://209.95.50.189:8112/stream",
+       "tags": [
+        "soul_rnb_funk",
+        "jazz",
+        "christian_gospel"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "JazzySoul Radio Nata",
+       "url": "https://rbx2.hnux.com/http://e11902.cloudrad.io:8112/",
+       "tags": [
+        "soul_rnb_funk",
+        "jazz",
+        "pop_hits",
+        "christian_gospel",
+        "schlager_polka",
+        "world"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "Zanany Live radio",
+       "url": "https://c4.radioboss.fm:8302/stream",
+       "tags": [
+        "pop_hits",
+        "soul_rnb_funk",
+        "electronic",
+        "hip_hop_rap"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "sports": {
+     "count": 2,
+     "stations": [
+      {
+       "name": "SPORTSNATION RADIO",
+       "url": "https://stream.zenolive.com/yyduar33uxquv",
+       "language_inferred": true
+      },
+      {
+       "name": "SPORTSNATION RADIO",
+       "url": "https://stream.zenolive.com/yyduar33uxquv.aac",
+       "tags": [
+        "sports",
+        "news_talk"
+       ],
+       "language_inferred": true
+      }
+     ]
+    },
+    "various_eclectic": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Yarona FM",
+       "url": "https://capeant.antfarm.co.za/yarona/yarona.stream/playlist.m3u8",
+       "tags": [
+        "various_eclectic",
+        "hip_hop_rap",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "world": {
+     "count": 3,
+     "stations": [
+      {
+       "name": "Blxckhippyradio",
+       "url": "http://hydra.shoutca.st:8104/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "JazzySoul Radio Nata",
+       "url": "http://s6.reliastream.com:8112/stream",
+       "tags": [
+        "world",
+        "soul_rnb_funk",
+        "jazz"
+       ],
+       "language_inferred": true
+      },
+      {
+       "name": "RB1-Radio Botswana",
+       "url": "http://168.167.134.26:8000/rb1",
+       "tags": [
+        "world",
+        "pop_hits"
+       ]
+      }
+     ]
+    },
+    "unclassified": {
+     "count": 52,
+     "stations": [
+      {
+       "name": "40 Dawgs Radio",
+       "url": "https://stream.zeno.fm/b3gdvhc6ckhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "AfternoonFeelFm",
+       "url": "https://stream.zeno.fm/kbs04vvrxhhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "bal3room",
+       "url": "https://stream.zeno.fm/nw2p54mce78uv",
+       "language_inferred": true
+      },
+      {
+       "name": "BANANABARONAFM",
+       "url": "https://stream.zeno.fm/81ug0v59n98uv",
+       "language_inferred": true
+      },
+      {
+       "name": "BANANABARONAFM",
+       "url": "https://stream.zeno.fm/4m8u0d2dd78uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Bandleng FM",
+       "url": "https://stream.zeno.fm/hgp8g3kup18uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Bethel Radio",
+       "url": "https://stream.zeno.fm/a4xqgzbxuirtv",
+       "language_inferred": true
+      },
+      {
+       "name": "Blxckhippyradio",
+       "url": "http://37.187.93.104:8154/stream.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "Boteti News FM",
+       "url": "https://stream.zeno.fm/3d0evp33srhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Camilo",
+       "url": "https://stream.zeno.fm/hpg9a1ws598uv",
+       "language_inferred": true
+      },
+      {
+       "name": "CHAPTER 7 RADIO FM",
+       "url": "https://stream.zeno.fm/8pcev10a1s8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Comprado 2",
+       "url": "https://stream.zeno.fm/988gm0pms68uv",
+       "language_inferred": true
+      },
+      {
+       "name": "crazy2",
+       "url": "https://stream.zeno.fm/h3hp84hc038uv",
+       "language_inferred": true
+      },
+      {
+       "name": "DeRoar",
+       "url": "https://stream.zeno.fm/mk48uku80rhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "DitsVILL FM",
+       "url": "https://stream.zeno.fm/97cghxyp638uv",
+       "language_inferred": true
+      },
+      {
+       "name": "DJRAIVA",
+       "url": "https://stream.zeno.fm/8g7ygr4gup8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Dos cria",
+       "url": "https://stream.zeno.fm/qankrmrfqrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "DreamRadio",
+       "url": "https://stream.zeno.fm/75ehfg8nnrhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Enigma FM",
+       "url": "https://stream.zeno.fm/2c2z9bsd1hhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "FLAMINGO AUTO CINE",
+       "url": "https://stream.zeno.fm/brm2x5wp0c9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Flybeatfm",
+       "url": "https://stream.zeno.fm/fh1curfuqp8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Hiarley",
+       "url": "https://stream.zeno.fm/h4nqxk2mdc9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "IPAD Osasco",
+       "url": "https://stream.zeno.fm/g69zftrg838uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Jajshajacayqvswf",
+       "url": "https://stream.zeno.fm/4bnkfwpfsz3tv",
+       "language_inferred": true
+      },
+      {
+       "name": "JazzySoul Radio Nata",
+       "url": "https://209.95.50.189/proxy/jazzysou?mp=/stream",
+       "language_inferred": true
+      },
+      {
+       "name": "João ilva CDS",
+       "url": "https://stream.zeno.fm/byrfbhtwwchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "LM Radio",
+       "url": "https://stream.zeno.fm/pt589rnw1ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "MAP ZONE",
+       "url": "https://stream.zeno.fm/foyxp17zf3ruv",
+       "language_inferred": true
+      },
+      {
+       "name": "Maximum96",
+       "url": "https://stream.zeno.fm/bepph9x06bhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Maximum96",
+       "url": "https://stream.zeno.fm/92wg48x06bhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "microsolv system fm",
+       "url": "https://stream.zeno.fm/m7sghw4yvhhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Minha lista de funk",
+       "url": "https://stream.zeno.fm/w672nv7buuhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Mundo bita",
+       "url": "https://stream.zeno.fm/g4zeshwk3nhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Natasha",
+       "url": "https://stream.zeno.fm/8k6gvzfyuxhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Pedrogay",
+       "url": "https://stream.zeno.fm/90tu1yg7aa9uv",
+       "language_inferred": true
+      },
+      {
+       "name": "PURE GOSPEL RADIO",
+       "url": "https://stream.zeno.fm/27sxy6gt7whvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Kgatleng Test",
+       "url": "https://stream.zeno.fm/jua2yf8hcgqtv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Michael Jakson",
+       "url": "https://stream.zeno.fm/v2xw046csd0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Radio Yarona FM",
+       "url": "https://iceant.antfarm.co.za/yarona",
+       "language_inferred": true
+      },
+      {
+       "name": "Renanzinnnn",
+       "url": "https://stream.zeno.fm/auhsk83mxchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Ropapa",
+       "url": "https://stream.zeno.fm/hdt6dvt80rhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Rykelmyyyy",
+       "url": "https://stream.zeno.fm/7zqrxw2o5tluv",
+       "language_inferred": true
+      },
+      {
+       "name": "RÁDIO FM A MAIS ALTA DO RN",
+       "url": "https://stream.zeno.fm/p66bef7x4thuv",
+       "language_inferred": true
+      },
+      {
+       "name": "Rádio Mambembe",
+       "url": "https://stream.zeno.fm/d4kc3r50zp8uv",
+       "language_inferred": true
+      },
+      {
+       "name": "The  Testimony Radio Station",
+       "url": "https://stream.zeno.fm/gfk47zwh4ehvv",
+       "language_inferred": true
+      },
+      {
+       "name": "THE HOUSE STATION",
+       "url": "https://stream.zeno.fm/76f2q2ds5f0uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Top Chat Buzz",
+       "url": "https://stream.zeno.fm/tzzlenvaudxvv",
+       "language_inferred": true
+      },
+      {
+       "name": "TRIPLR D FM",
+       "url": "https://stream.zeno.fm/9vk4rwc40xhvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Tzgospel swahili (botswana)",
+       "url": "https://stream.zeno.fm/ax11ck93tchvv",
+       "language_inferred": true
+      },
+      {
+       "name": "Venuzzz",
+       "url": "https://stream.zeno.fm/3y8wbee4668uv",
+       "language_inferred": true
+      },
+      {
+       "name": "Yarona FM",
+       "url": "http://albert.antfarm.co.za:8000/yarona"
+      },
+      {
+       "name": "Yarona FM",
+       "url": "https://stream.zeno.fm/025sdegbz4zuv",
+       "language_inferred": true
+      }
+     ]
+    }
+   }
+  },
+  "Dutch": {
+   "count": 1,
+   "genres": {
+    "pop_hits": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "Duma FM",
+       "url": "http://s3.voscast.com:10076/",
+       "tags": [
+        "pop_hits",
+        "various_eclectic",
+        "rock",
+        "easy_listening",
+        "news_talk",
+        "blues"
+       ]
+      }
+     ]
+    }
+   }
+  },
+  "Japanese": {
+   "count": 1,
+   "genres": {
+    "unclassified": {
+     "count": 1,
+     "stations": [
+      {
+       "name": "daaljoor faysal",
+       "url": "https://node-11.zeno.fm/uru8h6ahv6duv?rj-ttl=5\\u0026rj-tok=AAABfJ0w5vEAC9040Z2t_yn8VA"
+      }
+     ]
+    }
+   }
+  }
+ }
+}
