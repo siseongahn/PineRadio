@@ -157,7 +157,7 @@ The first test station may be offline someday. If it fails, pick another `http:/
 | 403 `destination is not a public address` | The host resolves to a private/loopback address. This is refused on purpose (SSRF guard). |
 | 403/404 with an HTML body from the station | The radio server itself refused or is gone (geo-blocking is common for US streams, e.g. streamtheworld). Not a relay bug. |
 | 429 `too many streams` | Limits hit: 300 total or 6 per client IP (`MAX_TOTAL`, `MAX_PER_CLIENT` in the script). nginx must pass `X-Real-IP`, otherwise every listener looks like 127.0.0.1. |
-| Plays on the Mac but not on the iPhone (Safari) | Safari always sends `Range: bytes=0-1` before playing, and some upstreams (e.g. the Apache script behind `serpent0.duckdns.org:8088/kbsfm.pls`) answer any Range request with 400/404. The relay retries a 4xx ranged request without Range; if it still fails, the relay restart after that change was missed (run check 4 in "Verify"). Reproduce with `curl -H 'Range: bytes=0-1'`. |
+| Plays on the Mac but not on the iPhone (Safari) | Safari always sends `Range: bytes=0-1` before playing, and playlist servers mishandle it: the Apache script behind `serpent0.duckdns.org:8088/kbsfm.pls` answers with 400/404 or with `206` and only the first 2 bytes of the playlist (`[p` → "empty playlist"). The relay never sends Range for a `.pls`/`.m3u`/`.m3u8`/`.asx` URL, and retries without it on a 4xx or on a 206 playlist reply; if it still fails, the relay restart after that change was missed (run check 4 in "Verify"). Reproduce with `curl -H 'Range: bytes=0-1'`. |
 | Push made but the live site doesn't change | The deploy workflow only fast-forwards `/srv/pineradio`. After a history rewrite (force push, e.g. stripping commit trailers) it fails until the checkout is reset once: `cd /srv/pineradio && git fetch origin && git reset --hard origin/main`, then `sudo systemctl restart pineradio-stream` if `tools/stream_proxy.py` changed. Check with `curl -s https://digipine.com/radio/ \| grep -c <new string>`. |
 | Audio stops after ~60 s | nginx is buffering or timing out. Make sure `proxy_buffering off` and `proxy_read_timeout 1h` are in the location. |
 | Startup crash while loading the allowlist | A malformed URL in the data. `host_key()` must return `None` for it; check the traceback in journalctl. |
@@ -170,8 +170,9 @@ The first test station may be offline someday. If it fails, pick another `http:/
   (`ip.is_global`). Connect to the checked IP, not the hostname, to avoid DNS rebinding.
 - **Redirects and playlists:** follow redirects and `.pls`/`.m3u`/`.asx` playlists for at most 5 hops.
   If a hop lands on an `https://` URL, return it to the browser as a 302 instead of relaying.
-- **Range:** forward the browser's `Range` header, but if the upstream answers it with a 4xx, retry the
-  same URL once without it (Safari's `bytes=0-1` probe breaks some playlist servers).
+- **Range:** forward the browser's `Range` header for audio only. Never send it for a playlist URL
+  (`PLAYLIST_EXT`), and if a ranged reply is a 4xx or a `206` playlist, retry the same URL once without
+  it. Safari's `bytes=0-1` probe otherwise yields an error or a 2-byte playlist.
 - **Limits:** keep the connection limits. Never relay methods other than GET.
 - **Local test:**
   ```sh

@@ -211,6 +211,13 @@ async def read_body(reader, headers, limit):
     return data
 
 
+def is_playlist(url, headers):
+    """Whether an upstream reply is a playlist (pls/m3u/HLS/asx) rather than audio."""
+    ctype = (hget(headers, "content-type") or "").split(";")[0].strip().lower()
+    return ctype in PLAYLIST_TYPES or bool(PLAYLIST_EXT.search(urlsplit(url).path)
+                                           and not ctype.startswith(("audio/mpeg", "audio/aac")))
+
+
 def playlist_target(text, base):
     """First stream URL inside a .pls / .m3u / .asx playlist."""
     m = re.search(r"^\s*File\d+\s*=\s*(\S+)", text, re.I | re.M)                       # pls
@@ -284,10 +291,14 @@ class Proxy:
 
             range_header = hget(headers, "range")
             for _ in range(MAX_HOPS + 1):
+                # Safari always probes with "Range: bytes=0-1" before playing. A playlist must be read
+                # whole, so never ask for a range of one: by URL, or (below) once its reply shows it is one.
+                if PLAYLIST_EXT.search(urlsplit(url).path):
+                    range_header = None
                 status, reason, up_headers, icy, up_reader, upstream_writer = await open_upstream(url, range_header)
-                if range_header and 400 <= status < 500:
-                    # Some servers (e.g. playlist scripts) fail any Range request; Safari always sends
-                    # one ("bytes=0-1") before playing, so retry the same URL without it.
+                if range_header and (400 <= status < 500 or (status == 206 and is_playlist(url, up_headers))):
+                    # some servers fail any Range request (4xx); others answer a playlist with only the
+                    # asked-for bytes (206 "[p") — retry the same URL without Range
                     upstream_writer.close()
                     upstream_writer = None
                     range_header = None
@@ -300,9 +311,7 @@ class Proxy:
                     if url.lower().startswith("https://"):
                         return await self.reply(writer, 302, "", [("Location", url)])
                     continue
-                ctype = (hget(up_headers, "content-type") or "").split(";")[0].strip().lower()
-                if status in (200, 206) and (ctype in PLAYLIST_TYPES or
-                                      (PLAYLIST_EXT.search(urlsplit(url).path) and not ctype.startswith(("audio/mpeg", "audio/aac")))):
+                if status in (200, 206) and is_playlist(url, up_headers):
                     body = await read_body(up_reader, up_headers, PLAYLIST_LIMIT)
                     upstream_writer.close()
                     upstream_writer = None
