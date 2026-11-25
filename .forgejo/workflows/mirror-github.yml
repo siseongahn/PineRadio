@@ -1,0 +1,52 @@
+name: Mirror to GitHub
+# Keeps https://github.com/siseongahn/PineRadio identical to this repository:
+# every branch and tag is force-pushed, and branches/tags deleted here are deleted there.
+#
+# Needs the repository secret GH_MIRROR_TOKEN: a GitHub fine-grained personal access token
+# limited to siseongahn/PineRadio with "Contents: Read and write".
+on:
+  push:
+    branches: ['**']
+    tags: ['**']
+  delete:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  mirror:
+    runs-on: pineradio-deploy
+    timeout-minutes: 20
+    env:
+      GH_MIRROR_TOKEN: ${{ secrets.GH_MIRROR_TOKEN }}
+      SOURCE_URL: ${{ github.server_url }}/${{ github.repository }}.git
+      SOURCE_TOKEN: ${{ github.token }}
+      MIRROR_URL: https://github.com/siseongahn/PineRadio.git
+    steps:
+      - name: Push all branches and tags to GitHub
+        run: |
+          set -eu
+          if [ -z "$GH_MIRROR_TOKEN" ]; then
+            echo "::error::Repository secret GH_MIRROR_TOKEN is not set (see the comment at the top of this workflow)."
+            exit 1
+          fi
+
+          work="$(mktemp -d)"
+          trap 'rm -rf "$work"' EXIT
+
+          # Tokens are handed to git through credential helpers that read them from the
+          # environment, so they never appear on a command line or in the logs.
+          git -c credential.helper= \
+              -c 'credential.helper=!f() { echo username=forgejo-actions; echo "password=$SOURCE_TOKEN"; }; f' \
+              clone --quiet --bare "$SOURCE_URL" "$work/repo.git"
+          cd "$work/repo.git"
+
+          # Only branches and tags: a full --mirror would also push Forgejo's refs/pull/*,
+          # which GitHub rejects. --prune removes refs that no longer exist here.
+          git -c credential.helper= \
+              -c 'credential.helper=!f() { echo username=x-access-token; echo "password=$GH_MIRROR_TOKEN"; }; f' \
+              push --prune --force "$MIRROR_URL" 'refs/heads/*:refs/heads/*' 'refs/tags/*:refs/tags/*'
+
+          echo "Mirrored to $MIRROR_URL:"
+          git for-each-ref --format='  %(refname:short) %(objectname:short)' refs/heads refs/tags
