@@ -21,7 +21,9 @@
       {
        "name": "Bahrain Quran",
        "url": "https://5c7b683162943.streamlock.net/live/ngrp:radio-106-1_all/playlist.m3u8",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "3e1a2014-d426-4f74-b237-8c109054911e",
+       "logo": "https://www.mia.gov.bh/wp-content/uploads/2023/02/cropped-Royal-Emblem-192x192.png"
       },
       {
        "name": "Holy Quran 106.1",
@@ -151,7 +153,9 @@
       {
        "name": "AFN GO BAHRAIN",
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BHNAAC.aac?n=e994592dd564507ed58d",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "69459a0b-9f41-4f97-a54d-561e5e077442",
+       "logo": "https://afngo.net/static/media/Bahrain.24eaa086d110f57b7e38.png"
       },
       {
        "name": "Alayam FM (الأيام إف إم)",
@@ -169,7 +173,8 @@
       {
        "name": "Bahrain FM 93.3",
        "url": "https://5c7b683162943.streamlock.net/live/ngrp:radio-93-3_all/playlist.m3u8",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "0b300680-fb8d-4a73-a05b-76f669cd8881"
       },
       {
        "name": "Bahrain traffic",
@@ -280,7 +285,8 @@
       {
        "name": "Radio Bahrain 102.3",
        "url": "https://5c7b683162943.streamlock.net/live/ngrp:radio-102-3_all/playlist.m3u8",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "96498d97-63cc-472d-b1b2-16af81082d8b"
       },
       {
        "name": "Radio Cia Lulu Santos",
@@ -338,7 +344,8 @@
       {
        "name": "Traditional Radio 95.0",
        "url": "https://5c7b683162943.streamlock.net/live/ngrp:radio-95-0_all/chunklist_w1641860732_b981072.m3u8?n=2d2f199ef0f231cb70a3",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "b35b9f40-86b2-4686-852c-12190c252e87"
       },
       {
        "name": "Web rádio",
@@ -392,7 +399,8 @@
      "stations": [
       {
        "name": "AFN 360 Bahrain",
-       "url": "http://playerservices.streamtheworld.com/m3u/AFNE_BHN.m3u"
+       "url": "http://playerservices.streamtheworld.com/m3u/AFNE_BHN.m3u",
+       "rb": "963c38d2-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "ilayastar",
@@ -447,7 +455,8 @@
        "tags": [
         "christian_gospel",
         "islamic_quran"
-       ]
+       ],
+       "rb": "c1060a60-4794-42c2-af3f-0f0d8046a8a1"
       }
      ]
     }

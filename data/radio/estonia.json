@@ -41,7 +41,8 @@
         "electronic",
         "pop_hits",
         "rock"
-       ]
+       ],
+       "rb": "1e549790-a0fe-4b30-82fb-8a8976448cb0"
       },
       {
        "name": "Raadio Tre.ee",
@@ -87,7 +88,8 @@
        "tags": [
         "chillout_lounge",
         "ambient_relax"
-       ]
+       ],
+       "rb": "655edb47-5ad8-49ea-b8d2-e3fd2100f2b5"
       },
       {
        "name": "Raadio Relax FM Listen live",
@@ -136,7 +138,8 @@
        "tags": [
         "christian_gospel",
         "college_community"
-       ]
+       ],
+       "rb": "59635e48-2f8a-4043-a061-8d656f6d07b4"
       },
       {
        "name": "Life TV",
@@ -170,7 +173,8 @@
        "tags": [
         "pop_hits",
         "christian_gospel"
-       ]
+       ],
+       "rb": "4e167516-d0cc-4981-978f-93b0b97128ee"
       },
       {
        "name": "Raadio 7",
@@ -183,7 +187,8 @@
         "christian_gospel",
         "news_talk",
         "pop_hits"
-       ]
+       ],
+       "rb": "cc242589-6948-4e3c-948a-ef20195805c5"
       },
       {
        "name": "Raadio 7",
@@ -208,7 +213,8 @@
        "tags": [
         "christian_gospel",
         "classical"
-       ]
+       ],
+       "rb": "19a71d09-084b-4895-b95f-72f3e930c6fb"
       },
       {
        "name": "Tartu Pereraadio",
@@ -234,7 +240,8 @@
       {
        "name": "KlaRa Klassika",
        "url": "https://icecast.err.ee/klaraklassika.mp3?n=7887341d13c31520bc7f",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "1227cb0c-1047-422e-b54e-b4822ce9f281"
       },
       {
        "name": "KlaRa Nostalgia",
@@ -243,7 +250,8 @@
         "classical",
         "jazz"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "1b6fd0fd-a475-4f6d-ab49-645b744447e1"
       },
       {
        "name": "Klassika Raadio",
@@ -254,7 +262,8 @@
         "news_talk",
         "various_eclectic",
         "pop_hits"
-       ]
+       ],
+       "rb": "c3989383-e624-11e8-a9cc-52543be04c81"
       },
       {
        "name": "Klassikaraadio - Tallinn",
@@ -281,7 +290,8 @@
       },
       {
        "name": "Retro FM Love",
-       "url": "https://stream.skymedia.ee/live/RetroJ6ulud"
+       "url": "https://stream.skymedia.ee/live/RetroJ6ulud",
+       "rb": "69084a62-d6db-4ca7-bcfd-65773e56a366"
       },
       {
        "name": "Sky Gold",
@@ -294,7 +304,8 @@
       {
        "name": "VIKERRAADIO",
        "url": "http://icecast.err.ee/vikerraadiokorge.mp3?n=03cbc04966995eafa146",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "27d1c68e-fe17-4709-8182-37b0de3737c9"
       }
      ]
     },
@@ -419,7 +430,8 @@
         "soul_rnb_funk",
         "house",
         "electronic"
-       ]
+       ],
+       "rb": "d12b1da7-33ca-42a3-bfd3-6d5fc7da5c21"
       }
      ]
     },
@@ -547,7 +559,9 @@
         "smooth_jazz",
         "blues",
         "decade_60s"
-       ]
+       ],
+       "rb": "3d02a973-8cde-45db-9185-07438068f548",
+       "logo": "https://site.prelive.sky.ee/sites/default/files/2023-11/relax_fm.svg"
       },
       {
        "name": "Relax Instrumental",
@@ -561,7 +575,8 @@
         "smooth_jazz",
         "folk",
         "pop_hits"
-       ]
+       ],
+       "rb": "1ca62b19-44b3-405f-b455-b1de5854e098"
       },
       {
        "name": "Relax International",
@@ -580,7 +595,8 @@
         "oldies",
         "decade_70s",
         "latin"
-       ]
+       ],
+       "rb": "648e9e34-640d-4c9c-acc8-32d72063c44f"
       },
       {
        "name": "Retro FM",
@@ -657,7 +673,9 @@
         "pop_hits",
         "easy_listening"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "1842c0ab-efa4-4e7d-bf50-6bd3f9ded92a",
+       "logo": "https://hitmix.ee/wp-content/uploads/2020/12/cropped-hitmix-fav-180x180.png"
       },
       {
        "name": "Hits Radio Online",
@@ -725,7 +743,8 @@
        "tags": [
         "electronic",
         "pop_hits"
-       ]
+       ],
+       "rb": "f3fe9e03-7cb6-42b3-a71a-f5a94885d0da"
       },
       {
        "name": "Power Hit Radio",
@@ -734,7 +753,9 @@
         "pop_hits",
         "electronic",
         "news_talk"
-       ]
+       ],
+       "rb": "cd706e3b-e435-4e5a-bf8e-c0e2c5072de0",
+       "logo": "http://power.tv3.ee/favicon.ico"
       },
       {
        "name": "Power Hit Radio",
@@ -813,7 +834,9 @@
        "tags": [
         "electronic",
         "drum_and_bass"
-       ]
+       ],
+       "rb": "dd5d6354-ece5-46c5-a8f9-f0f3e6f63668",
+       "logo": "https://pohjaeesti.treraadio.ee/favicon.ico"
       },
       {
        "name": "Tre Raadio 91.3 FM",
@@ -978,13 +1001,16 @@
       {
        "name": "KlaRa Jazz",
        "url": "https://icecast.err.ee/klarajazz.mp3?n=47e3c96943476b705daf",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "f257abd4-9397-4110-b810-c7ca9fb8fbf7"
       },
       {
        "name": "Klara Jazz",
        "url": "http://icecast.err.ee/klarajazz.opus?n=31e3595a05a27532f938",
        "country_inferred": true,
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "639b8e0e-c798-424f-9a0a-789d10f90fa7",
+       "logo": "https://klara.err.ee/assets/icons/favicon.png"
       },
       {
        "name": "Netiraadio - Jazz",
@@ -1003,7 +1029,8 @@
         "acid_jazz",
         "folk",
         "latin"
-       ]
+       ],
+       "rb": "32eb1eb1-b712-4137-b670-0a620ce04d97"
       },
       {
        "name": "Relax Instrumental",
@@ -1091,11 +1118,13 @@
         "easy_listening",
         "rock",
         "various_eclectic"
-       ]
+       ],
+       "rb": "962039d2-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "ERR Raadio 2 - 320kbps",
-       "url": "http://icecast.err.ee/raadio2korge.mp3.m3u"
+       "url": "http://icecast.err.ee/raadio2korge.mp3.m3u",
+       "rb": "dc541a57-9f64-4e15-8889-63f6c3e6485a"
       },
       {
        "name": "ERR Raadio Tallinn Radio",
@@ -1179,7 +1208,8 @@
         "folk",
         "easy_listening",
         "world"
-       ]
+       ],
+       "rb": "1ee96040-bfb6-4209-9ab8-14a26ff73ad0"
       },
       {
        "name": "Raadio Elmar",
@@ -1209,7 +1239,8 @@
         "pop_hits",
         "easy_listening",
         "various_eclectic"
-       ]
+       ],
+       "rb": "31946e60-f679-4d3b-933f-d7dbda58d6ba"
       },
       {
        "name": "Raadio Kadi – Hiiumaa 90.1",
@@ -1241,7 +1272,9 @@
         "pop_hits",
         "jazz",
         "easy_listening"
-       ]
+       ],
+       "rb": "19d7d7ff-a49d-432e-b709-6bc3a82fac22",
+       "logo": "https://s.err.ee/photo/crop/2018/10/23/558567h9916t62.jpg"
       },
       {
        "name": "Ring FM",
@@ -1250,7 +1283,9 @@
         "pop_hits",
         "news_talk",
         "rock"
-       ]
+       ],
+       "rb": "08824e6f-0f14-4dc4-9e84-b100c3c1a338",
+       "logo": "https://ringfm.treraadio.ee/apple-touch-icon.png"
       },
       {
        "name": "Ring FM radio",
@@ -1266,7 +1301,9 @@
        "tags": [
         "news_talk",
         "pop_hits"
-       ]
+       ],
+       "rb": "91ff5c64-9080-4976-b506-aee6c755a94a",
+       "logo": "https://starfm.tv3.ee/ui/images/icons//apple-icon-120x120.png"
       },
       {
        "name": "Vikerraadio",
@@ -1275,7 +1312,9 @@
         "news_talk",
         "pop_hits",
         "various_eclectic"
-       ]
+       ],
+       "rb": "26b44f47-910e-455e-91bc-7304cf7f728e",
+       "logo": "https://i.ibb.co/tmy5mXw/Vikerraadio.png"
       },
       {
        "name": "Vikerraadio – ER1 Vikerraadio",
@@ -1288,7 +1327,9 @@
       },
       {
        "name": "Äripäeva Raadio",
-       "url": "https://www.aripaev.ee/raadio/stream.mp3"
+       "url": "https://www.aripaev.ee/raadio/stream.mp3",
+       "rb": "a2a7db6e-e625-11e8-a9cc-52543be04c81",
+       "logo": "https://www.aripaev.ee/favicons/aripaev/favicon.ico"
       }
      ]
     },
@@ -1346,7 +1387,8 @@
         "decade_80s",
         "easy_listening",
         "news_talk"
-       ]
+       ],
+       "rb": "a627e7d9-6152-4a0e-8533-0cc22ab80491"
       },
       {
        "name": "Retro FM 97.8 FM",
@@ -1373,7 +1415,8 @@
         "world",
         "pop_hits",
         "decade_80s"
-       ]
+       ],
+       "rb": "36fdf13a-63f4-48cf-8bf2-721067f607fa"
       },
       {
        "name": "Retro FM Estonia",
@@ -1434,7 +1477,8 @@
         "decade_80s",
         "decade_90s"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "3c65a674-3fc7-4924-ad4f-8c9531f552fb"
       }
      ]
     },
@@ -1443,7 +1487,8 @@
      "stations": [
       {
        "name": "Chat Radio",
-       "url": "https://puma.streemlion.com:1830/stream"
+       "url": "https://puma.streemlion.com:1830/stream",
+       "rb": "46859921-bec2-4326-a085-bb1d4728c9b3"
       },
       {
        "name": "DFM 90.2",
@@ -1527,7 +1572,8 @@
         "pop_hits",
         "electronic",
         "news_talk"
-       ]
+       ],
+       "rb": "cbc3d2c2-133d-4efc-97f8-875e560c9344"
       },
       {
        "name": "Oma Raadio",
@@ -1537,7 +1583,8 @@
       {
        "name": "R2 Eesti",
        "url": "https://icecast.err.ee/r2eestikorge.mp3?n=1a8ae1a6fd480a0d2be3",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "3b46b40f-e906-4566-9213-0f8e79e16da4"
       },
       {
        "name": "R2 Eesti",
@@ -1558,7 +1605,9 @@
       },
       {
        "name": "R2Pop",
-       "url": "http://icecast.err.ee/r2pop.opus"
+       "url": "http://icecast.err.ee/r2pop.opus",
+       "rb": "a3590066-ae93-4b1d-8559-ec5c6f9b8afa",
+       "logo": "https://r2extra.err.ee/assets/icons/405_favicon.png"
       },
       {
        "name": "Raadio Elmar",
@@ -1606,7 +1655,9 @@
         "pop_hits",
         "news_talk",
         "easy_listening"
-       ]
+       ],
+       "rb": "e549ebd3-b019-477d-9606-5dacfd6171be",
+       "logo": "https://myhits.pleier.ee/favicons/myhits/apple-touch-icon.png"
       },
       {
        "name": "Radio on line brazil",
@@ -1634,7 +1685,8 @@
       {
        "name": "Rahvaraadio radio",
        "url": "http://streamer.tt.ee:8000/rahvaraadio",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "fc9112ee-bf38-4c12-b18a-96fb5a268edf"
       },
       {
        "name": "Retro Fm",
@@ -1686,12 +1738,15 @@
         "news_talk",
         "electronic",
         "easy_listening"
-       ]
+       ],
+       "rb": "8545fda3-dab7-4897-9263-462815742015"
       },
       {
        "name": "Sky Plus",
        "url": "https://skymedia-live.bitflip.ee/SKYPLUS",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "3f930fbb-d418-459e-8923-3584620a2428",
+       "logo": "https://sky.ee/favicon.ico"
       },
       {
        "name": "Sky Plus 95.4 FM",
@@ -1767,7 +1822,9 @@
        "tags": [
         "pop_hits",
         "rock"
-       ]
+       ],
+       "rb": "619c88a6-f858-4c39-861e-da47fcd77b85",
+       "logo": "https://www.tv3.ee/wp-content/themes/amb/assets/favicons/favicon-128.png"
       },
       {
        "name": "Star FM (Tallinn) Radio",
@@ -1817,11 +1874,14 @@
        "name": "R2 Rock",
        "url": "http://icecast.err.ee:80/r2rock.mp3",
        "country_inferred": true,
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "f1506143-16f9-42f9-801c-6f3524d628eb",
+       "logo": "https://r2extra.err.ee/assets/icons/405_favicon.png"
       },
       {
        "name": "R2Rock",
-       "url": "http://icecast.err.ee/r2rock.opus"
+       "url": "http://icecast.err.ee/r2rock.opus",
+       "rb": "e693901a-1ffd-44f8-b92e-f3a9d3d80d9a"
       },
       {
        "name": "Raadio Mania",
@@ -1866,7 +1926,9 @@
       {
        "name": "Rock FM",
        "url": "https://edge02.cdn.bitflip.ee:8888/rck?_i=5f5ab186",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "208c966b-0df4-4939-943f-1ac7bfe9d2ee",
+       "logo": "https://sky.ee/favicon.ico"
       },
       {
        "name": "Rock FM Eesti",
@@ -2234,7 +2296,8 @@
       {
        "name": "Music From All Around",
        "url": "http://stream.zeno.fm/dghp9excl67vv",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "8292e637-6ed6-4ed3-8273-f3e3b84913bc"
       },
       {
        "name": "Musico",
@@ -2326,12 +2389,14 @@
       {
        "name": "R2p",
        "url": "https://icecast.err.ee/r2p.opus?n=020050ed6574547f53c0",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "1f8d651c-62b1-4b22-8fbd-5a1cbc14db08"
       },
       {
        "name": "Raadio 2 HQ",
        "url": "http://icecast.err.ee/raadio2korge.mp3",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "dc541a57-9f64-4e15-8889-63f6c3e6485a"
       },
       {
        "name": "Raadio HIT FM",
@@ -2351,7 +2416,8 @@
       {
        "name": "Raadio Kuku",
        "url": "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuku_high.mp3?n=b37c92d75e735a423d1a",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "841ec916-508c-4948-9c16-6208f1e5015c"
       },
       {
        "name": "Raadio Star FM",
@@ -2365,7 +2431,8 @@
       {
        "name": "Radio Azathoth Revival",
        "url": "https://cast4.asurahosting.com/proxy/aadu/stream",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "98a2bd0a-a207-4c3c-b273-df0a0dba20dc"
       },
       {
        "name": "Radio Elmar",
@@ -2433,7 +2500,9 @@
       {
        "name": "Retro FM Estonia",
        "url": "https://stream.skymedia.ee/live/RETRO_AAC?n=b2fb979ea6c5af2219d0",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "dd6671b8-263a-43d8-95be-a6cb08de6b20",
+       "logo": "https://sky.ee/favicon.ico"
       },
       {
        "name": "Rock FM",
@@ -2568,7 +2637,8 @@
       },
       {
        "name": "Vikerraadio",
-       "url": "http://icecast.err.ee/vikerraadio.mp3.m3u"
+       "url": "http://icecast.err.ee/vikerraadio.mp3.m3u",
+       "rb": "961f5b44-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Xl Radio - Xltrax Estonia",
@@ -2628,11 +2698,13 @@
        "tags": [
         "christian_gospel",
         "classical"
-       ]
+       ],
+       "rb": "3bf46ae3-91e6-4e80-87a9-78fd99119d52"
       },
       {
        "name": "Semeinoje Radio",
-       "url": "http://icecast.pereraadio.ee:8000/Semeinoje"
+       "url": "http://icecast.pereraadio.ee:8000/Semeinoje",
+       "rb": "08124bf3-9169-4fd2-bbaf-4fd1541cca63"
       },
       {
        "name": "Tartu Family Radio",
@@ -2739,7 +2811,8 @@
         "easy_listening",
         "various_eclectic",
         "classical"
-       ]
+       ],
+       "rb": "9620751d-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Russkoe Radio",
@@ -2781,7 +2854,8 @@
         "pop_hits",
         "news_talk",
         "electronic"
-       ]
+       ],
+       "rb": "a1b766be-8f2a-4556-8f6c-be42ed0accb3"
       }
      ]
     },
@@ -2794,7 +2868,8 @@
        "tags": [
         "rock",
         "pop_hits"
-       ]
+       ],
+       "rb": "8f5a0564-651e-40cc-9740-a2e98d795d9d"
       },
       {
        "name": "Русское Радио",
@@ -2824,7 +2899,9 @@
         "trance_goa",
         "ambient_relax",
         "easy_listening"
-       ]
+       ],
+       "rb": "fed9a975-d67c-44d1-8591-f44208c196e3",
+       "logo": "https://doubleclap.dance/wp-content/uploads/2020/05/logo.png"
       },
       {
        "name": "XLTRAX Estonia",
@@ -2882,7 +2959,9 @@
      "stations": [
       {
        "name": "IDA",
-       "url": "https://broadcast.idaidaida.net:8000/stream?n=86ddcbdeee679e68cc92"
+       "url": "https://broadcast.idaidaida.net:8000/stream?n=86ddcbdeee679e68cc92",
+       "rb": "37723443-7b1f-4001-a9ec-d37a12b63ceb",
+       "logo": "https://idaidaida.net/favicons/favicon-16x16.png"
       }
      ]
     },
@@ -2895,7 +2974,8 @@
        "tags": [
         "pop_hits",
         "decade_90s"
-       ]
+       ],
+       "rb": "a2624589-8279-4be3-9ea0-514dcd29cef8"
       }
      ]
     },

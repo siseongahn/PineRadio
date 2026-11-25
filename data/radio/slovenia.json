@@ -24,7 +24,8 @@
         "easy_listening",
         "alternative_indie",
         "pop_hits"
-       ]
+       ],
+       "rb": "de8c53cd-d602-11e8-a54a-52543be04c81"
       },
       {
        "name": "Radio Roška",
@@ -33,7 +34,8 @@
         "alternative_indie",
         "electronic",
         "world"
-       ]
+       ],
+       "rb": "414582d1-7144-4379-8d64-b6363d9118bb"
       },
       {
        "name": "Radio Student 89.3 FM",
@@ -41,7 +43,8 @@
        "tags": [
         "college_community",
         "alternative_indie"
-       ]
+       ],
+       "rb": "7282f3d2-0b7a-4d9a-aa5d-3e34a1a5479a"
       },
       {
        "name": "Radio Terminal",
@@ -56,7 +59,9 @@
         "news_talk",
         "rock",
         "pop_hits"
-       ]
+       ],
+       "rb": "b3efdf8f-dba0-11e9-a8ba-52543be04c81",
+       "logo": "https://radioterminal.si/favicon.ico"
       },
       {
        "name": "Radio Terminal",
@@ -86,7 +91,8 @@
       },
       {
        "name": "Radio NULA Office Beatz",
-       "url": "http://streaming.radionula.com:8800/lounge"
+       "url": "http://streaming.radionula.com:8800/lounge",
+       "rb": "1836d969-515e-11e8-a4d1-52543be04c81"
       }
      ]
     },
@@ -105,7 +111,9 @@
         "chillout_lounge",
         "easy_listening"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "ba098fa3-057b-4ec6-bfd8-f00a319a155a",
+       "logo": "https://radionula.com/favicon.png"
       }
      ]
     },
@@ -147,13 +155,15 @@
         "decade_80s",
         "decade_90s",
         "world"
-       ]
+       ],
+       "rb": "e599b489-da1f-4b5e-ac17-3e727980ac6b"
       },
       {
        "name": "Radio Ognjisce",
        "url": "http://live.ognjisce.si/ognjisce.mp3",
        "country_inferred": true,
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "96506a4b-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Radio Sprejmi",
@@ -268,7 +278,8 @@
       {
        "name": "Radio Dur",
        "url": "https://zvok.ragla.si/gr?1491479973880",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "b4e5a34d-8849-11ea-8a3b-52543be04c81"
       },
       {
        "name": "Radio Dur",
@@ -380,7 +391,8 @@
       },
       {
        "name": "Radio Capris LOVE",
-       "url": "http://stream02.exit.si:8000/LOVE?"
+       "url": "http://stream02.exit.si:8000/LOVE?",
+       "rb": "4d349aac-a6b3-40a1-91e7-5c2360d5922a"
       },
       {
        "name": "Radio Capris XMAS",
@@ -546,7 +558,9 @@
         "electronic",
         "pop_hits",
         "house"
-       ]
+       ],
+       "rb": "e163dfb7-3867-4ea6-a37e-86a10fa22941",
+       "logo": "https://mister-deejay.com/favicon.ico"
       },
       {
        "name": "Radio Net DjEndy",
@@ -585,7 +599,9 @@
         "electronic",
         "pop_hits",
         "hip_hop_rap"
-       ]
+       ],
+       "rb": "899754f4-2014-11e9-a80b-52543be04c81",
+       "logo": "http://www.radiosalomon.si/img/favicon.png"
       },
       {
        "name": "Radio Salomon",
@@ -612,7 +628,9 @@
         "country",
         "college_community",
         "rock"
-       ]
+       ],
+       "rb": "564f32ad-aa43-46b5-9a2f-4a96e1587c32",
+       "logo": "https://radiostudent.si/sites/default/files/favicon_3.ico"
       }
      ]
     },
@@ -834,7 +852,8 @@
        "tags": [
         "folk",
         "pop_hits"
-       ]
+       ],
+       "rb": "9611db09-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Radio Veseljak",
@@ -872,7 +891,8 @@
         "folk",
         "classical",
         "various_eclectic"
-       ]
+       ],
+       "rb": "c8f00dda-0149-4f77-91ef-0bbb4d29fa5c"
       }
      ]
     },
@@ -951,7 +971,8 @@
         "classical",
         "pop_hits",
         "various_eclectic"
-       ]
+       ],
+       "rb": "5c13ca01-292c-448a-99f9-127a85deffc9"
       },
       {
        "name": "FRED FILM RADIO, Ljubljana",
@@ -977,7 +998,8 @@
         "news_talk",
         "pop_hits",
         "various_eclectic"
-       ]
+       ],
+       "rb": "f3e61ba2-c0e0-498b-9957-016b67783a9c"
       },
       {
        "name": "Koroški radio Slovenj Gradec",
@@ -1011,7 +1033,8 @@
        "tags": [
         "news_talk",
         "pop_hits"
-       ]
+       ],
+       "rb": "1ef26980-5a2e-11e9-a622-52543be04c81"
       },
       {
        "name": "Radio 1 Izola 93.4 FM",
@@ -1036,7 +1059,9 @@
       {
        "name": "Radio 1 – Koroska 105.0",
        "url": "https://live.radio1.si/Radio1KOR",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "b63e193f-5950-487e-9d7e-1dad35498b61",
+       "logo": "https://media.radio1.si/ico/192.png"
       },
       {
        "name": "Radio 1 – Maribor 107.9",
@@ -1062,7 +1087,8 @@
        "tags": [
         "news_talk",
         "pop_hits"
-       ]
+       ],
+       "rb": "29b1e6c9-28aa-4b37-a527-b3fc71e8a6e1"
       },
       {
        "name": "Radio 94",
@@ -1091,7 +1117,9 @@
         "folk",
         "rock",
         "easy_listening"
-       ]
+       ],
+       "rb": "98891987-b5cd-4436-8711-772e12f0db28",
+       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCQ6sFF_54LVAt8e_-NZu6ZcsM8y-sOCXL2Uc0STsha-wi4CpRCplw_7k&s=10"
       },
       {
        "name": "Radio Aktual Galama",
@@ -1175,7 +1203,9 @@
         "pop_hits",
         "world",
         "folk"
-       ]
+       ],
+       "rb": "d4e023b0-d966-477f-9d4f-c51e329c04de",
+       "logo": "http://cdn-radiotime-logos.tunein.com/s9953q.png"
       },
       {
        "name": "Radio Kaos",
@@ -1196,7 +1226,9 @@
         "college_community",
         "folk",
         "electronic"
-       ]
+       ],
+       "rb": "9627e64c-0601-11e8-ae97-52543be04c81",
+       "logo": "http://img.rtvslo.si/_static/r180/rakp/icons/favicon-194x194.png"
       },
       {
        "name": "Radio Koper",
@@ -1240,7 +1272,9 @@
         "easy_listening",
         "various_eclectic",
         "sports"
-       ]
+       ],
+       "rb": "fd7d0ef0-3227-4215-bfb8-a82ec4fa420a",
+       "logo": "https://radiokrka.si/images/favicon.bmp"
       },
       {
        "name": "Radio Maribor",
@@ -1251,7 +1285,9 @@
         "various_eclectic",
         "folk",
         "classical"
-       ]
+       ],
+       "rb": "7e290430-d899-4e27-b58b-d224bb14c30a",
+       "logo": "https://img.rtvslo.si/_static/novi/bootstrap/public/themes/ramb/icons/favicon-32x32.png"
       },
       {
        "name": "Radio MARŠ",
@@ -1265,7 +1301,9 @@
         "various_eclectic",
         "easy_listening",
         "alternative_indie"
-       ]
+       ],
+       "rb": "951c98de-9b51-4184-877f-44a5adb841b4",
+       "logo": "http://radiomars.si/sites/default/files/logo_1.png"
       },
       {
        "name": "Radio Maxi",
@@ -1283,7 +1321,9 @@
         "pop_hits",
         "news_talk",
         "folk"
-       ]
+       ],
+       "rb": "baec8698-bffd-4491-8715-1d5c14df557b",
+       "logo": "https://media.radiomaxi.si/ico/32.png"
       },
       {
        "name": "Radio Murski Val",
@@ -1326,7 +1366,9 @@
         "world",
         "electronic",
         "sports"
-       ]
+       ],
+       "rb": "9f7f35e8-f0e1-4755-8e64-33248c7f34f4",
+       "logo": "http://radionet.si/images/logo_footer.png"
       },
       {
        "name": "Radio Ognjisce 88.9 FM",
@@ -1341,7 +1383,8 @@
       },
       {
        "name": "Radio Ognjišče - mp3 stream",
-       "url": "http://radio.ognjisce.si/ognjisce/iradio/ognjiscemp3.m3u"
+       "url": "http://radio.ognjisce.si/ognjisce/iradio/ognjiscemp3.m3u",
+       "rb": "96506a4b-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Radio Prlek radio",
@@ -1364,7 +1407,9 @@
         "sports",
         "latin",
         "classical"
-       ]
+       ],
+       "rb": "9627e3dd-0601-11e8-ae97-52543be04c81",
+       "logo": "https://img.rtvslo.si/_static/novi/bootstrap/public/themes/raprvi/icons/apple-touch-icon.png"
       },
       {
        "name": "Radio Prvi",
@@ -1380,7 +1425,9 @@
         "rock",
         "world",
         "easy_listening"
-       ]
+       ],
+       "rb": "60412038-eddc-4d65-bbaa-c67e97ae1ca5",
+       "logo": "https://radioptuj.svet24.si/images/RadioPtuj_logo.png"
       },
       {
        "name": "Radio Ptuj 98.2",
@@ -1415,7 +1462,9 @@
         "sports",
         "world",
         "reggae_ska"
-       ]
+       ],
+       "rb": "dd56bf37-9b78-4fda-a4b0-12871db61b21",
+       "logo": "https://img.rtvslo.si/_static/novi/bootstrap/public/themes/rasi/icons/favicon-32x32.png"
       },
       {
        "name": "Radio Slovenske Gorice",
@@ -1445,7 +1494,8 @@
         "world",
         "rock",
         "sports"
-       ]
+       ],
+       "rb": "963f1014-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Radio Sraka",
@@ -1457,7 +1507,9 @@
         "oldies",
         "world",
         "reggae_ska"
-       ]
+       ],
+       "rb": "964a03da-0601-11e8-ae97-52543be04c81",
+       "logo": "http://radiosraka.com/wp-content/themes/porto/images/logo/apple-touch-icon_120x120.png"
       },
       {
        "name": "Radio Triglav",
@@ -1508,11 +1560,14 @@
       },
       {
        "name": "Radio Študent",
-       "url": "http://kruljo.radiostudent.si:8000/loq.m3u"
+       "url": "http://kruljo.radiostudent.si:8000/loq.m3u",
+       "rb": "96474f16-0601-11e8-ae97-52543be04c81",
+       "logo": "https://radiostudent.si/sites/default/files/favicon_3.ico"
       },
       {
        "name": "Radio Študent",
-       "url": "http://kruljo.radiostudent.si:8000/hiq.m3u"
+       "url": "http://kruljo.radiostudent.si:8000/hiq.m3u",
+       "rb": "96154f98-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Radio Študent",
@@ -1544,7 +1599,9 @@
        "tags": [
         "news_talk",
         "pop_hits"
-       ]
+       ],
+       "rb": "ae10df4c-fef2-459d-9057-722fd4ae07a0",
+       "logo": "https://media.totiradio.si/ico/toti32.png?2"
       },
       {
        "name": "Val 202",
@@ -1561,7 +1618,9 @@
         "world",
         "house",
         "latin"
-       ]
+       ],
+       "rb": "961b5706-0601-11e8-ae97-52543be04c81",
+       "logo": "https://img.rtvslo.si/_static/novi/bootstrap/public/themes/raval202/icons/apple-touch-icon.png"
       },
       {
        "name": "Val 202",
@@ -1579,7 +1638,8 @@
         "news_talk",
         "sports"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "4c65b911-51ee-40ee-bccd-a55fbd56c776"
       },
       {
        "name": "Zeleni val",
@@ -1664,7 +1724,8 @@
         "classical",
         "decade_80s",
         "decade_90s"
-       ]
+       ],
+       "rb": "6f142546-508b-11ea-b877-52543be04c81"
       },
       {
        "name": "Radio Stajerski Val",
@@ -1689,7 +1750,8 @@
         "classical",
         "rock",
         "decade_90s"
-       ]
+       ],
+       "rb": "4c9c0230-bf6f-421f-970e-71573611bd52"
       },
       {
        "name": "Retro Radio",
@@ -1742,7 +1804,8 @@
       },
       {
        "name": "BestFM",
-       "url": "https://live.radio.si/BestFM"
+       "url": "https://live.radio.si/BestFM",
+       "rb": "649bf9c2-9a73-45ef-b9a7-7be9bfa256dc"
       },
       {
        "name": "CENTER TOP 100",
@@ -1767,7 +1830,9 @@
        "tags": [
         "pop_hits",
         "news_talk"
-       ]
+       ],
+       "rb": "d8ed96be-3c9f-11ea-8dd7-52543be04c81",
+       "logo": "http://radiocenter.si/images/icons/icon_192x192.png"
       },
       {
        "name": "HITRADIO CENTER",
@@ -1822,7 +1887,9 @@
         "news_talk",
         "easy_listening",
         "electronic"
-       ]
+       ],
+       "rb": "51db6f1f-9f5c-4c5e-b85e-15f939d1a78a",
+       "logo": "https://media.radio1.si/ico/32.png"
       },
       {
        "name": "Radio 1",
@@ -1923,7 +1990,9 @@
       {
        "name": "radio 1 slo",
        "url": "https://live.radio.si/Radio1VE",
-       "country_inferred": true
+       "country_inferred": true,
+       "rb": "652bc6aa-49a1-4b34-a5c0-252398e0468e",
+       "logo": "https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D32347465360&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Fradioena%2F&tbnid=cWv5LtZEpXD6cM&vet=12ahUKEwiT4JO-0ozrAhWHLOwKHdS6B9MQMygHegUIARDbAQ..i&docid=Mwn6r4kF2H-Z3M&w=600&h=600&q=radio%201&ved=2ahUKEwiT4JO-0ozrAhWHLOwKHdS6B9MQMygHegUIARDbAQ"
       },
       {
        "name": "Radio 1 Vrhnika",
@@ -1943,12 +2012,16 @@
       },
       {
        "name": "Radio 2",
-       "url": "http://live.radio2.si/Radio2?1448457274706.mp3"
+       "url": "http://live.radio2.si/Radio2?1448457274706.mp3",
+       "rb": "8f178445-f27b-4cad-bf72-2bfe863204c2",
+       "logo": "https://media.radio1.si/ico/80/32.png"
       },
       {
        "name": "Radio 2",
        "url": "http://live.radio2.si/Radio2?1448457274706.mo3",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "827b993a-a1f7-4384-b7e8-53d9a1825d31",
+       "logo": "https://media.radio1.si/ico/80/32.png"
       },
       {
        "name": "Radio 24 SI",
@@ -1975,7 +2048,9 @@
       },
       {
        "name": "Radio Aktual",
-       "url": "http://195.95.158.131:9080"
+       "url": "http://195.95.158.131:9080",
+       "rb": "ddf8e7fa-42bb-11e9-aa55-52543be04c81",
+       "logo": "http://radioaktual.si/img/logo.png"
       },
       {
        "name": "Radio Aktual",
@@ -1997,7 +2072,8 @@
       },
       {
        "name": "Radio Aktual Kum",
-       "url": "http://stream.radioaktual.si/AktualK"
+       "url": "http://stream.radioaktual.si/AktualK",
+       "rb": "3207324e-0123-4b93-a679-d31f9f542790"
       },
       {
        "name": "Radio Aktual Obala",
@@ -2011,7 +2087,8 @@
       },
       {
        "name": "Radio Antena",
-       "url": "http://live.radioantena.si/Antena"
+       "url": "http://live.radioantena.si/Antena",
+       "rb": "6c491004-2474-11e8-91bf-52543be04c81"
       },
       {
        "name": "Radio Antena",
@@ -2040,7 +2117,9 @@
         "news_talk",
         "easy_listening",
         "various_eclectic"
-       ]
+       ],
+       "rb": "05fc6e55-9b78-4801-931a-5fac1c3e3a99",
+       "logo": "https://media.radioantena.si/ico/32.png"
       },
       {
        "name": "Radio Antena Gorenjska",
@@ -2062,7 +2141,8 @@
         "pop_hits",
         "news_talk",
         "disco_eurodance"
-       ]
+       ],
+       "rb": "e0d802c3-19c6-11ea-a620-52543be04c81"
       },
       {
        "name": "Radio Capris - Hits",
@@ -2072,7 +2152,8 @@
         "rock",
         "soul_rnb_funk",
         "easy_listening"
-       ]
+       ],
+       "rb": "42de32e1-a8d7-422d-8ee3-945efcaf8bc8"
       },
       {
        "name": "Radio Capris 90s Dance",
@@ -2101,7 +2182,8 @@
         "news_talk",
         "folk",
         "various_eclectic"
-       ]
+       ],
+       "rb": "9030dc2d-5d4a-4a9e-9323-22e4f163b0d2"
       },
       {
        "name": "Radio Celje",
@@ -2199,7 +2281,8 @@
         "news_talk",
         "rock",
         "easy_listening"
-       ]
+       ],
+       "rb": "e655e587-ecf7-4358-9223-5c13b3c12bf3"
       },
       {
        "name": "Radio City",
@@ -2217,12 +2300,14 @@
         "pop_hits",
         "decade_90s",
         "oldies"
-       ]
+       ],
+       "rb": "961b7d40-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Radio City MB",
        "url": "http://82.149.22.34:8000/CityMp3128.mp3",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "cecadce1-3b17-47eb-80c0-50d3eec0bdff"
       },
       {
        "name": "Radio Ekspres 106.4 FM",
@@ -2284,7 +2369,9 @@
       {
        "name": "Radio Maxi",
        "url": "http://live2.infonetmedia.si:8000/Maxi",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "b43b5ddd-a053-408f-b3f1-2668ac0cd5d4",
+       "logo": "https://media.radiomaxi.si/ico/32.png"
       },
       {
        "name": "Radio Maxi",
@@ -2344,7 +2431,9 @@
         "oldies",
         "rock",
         "world"
-       ]
+       ],
+       "rb": "3e5be19c-3469-4de2-b3aa-282db4c74650",
+       "logo": "https://www.robin.si/wp-content/uploads/2021/09/cropped-robin-favicon-270x270.png"
       },
       {
        "name": "Radio S",
@@ -2370,7 +2459,8 @@
       },
       {
        "name": "Radio Triglav",
-       "url": "http://live.radiotriglav.si/Triglav"
+       "url": "http://live.radiotriglav.si/Triglav",
+       "rb": "961fc154-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Radio Univox",
@@ -2378,7 +2468,9 @@
        "tags": [
         "pop_hits",
         "news_talk"
-       ]
+       ],
+       "rb": "9352fa3b-879c-41d9-8585-44c42ca18ee9",
+       "logo": "https://univox.si/wp-content/uploads/2021/01/cropped-univox-favicon-192x192.png"
       },
       {
        "name": "Radio Velenje",
@@ -2396,7 +2488,8 @@
       },
       {
        "name": "Radio Veseljak-Pumpa",
-       "url": "http://live.radio.si/VeseljakPumpa"
+       "url": "http://live.radio.si/VeseljakPumpa",
+       "rb": "7941ff3c-0c4f-409d-b46e-d7ba027dd0a6"
       },
       {
        "name": "Radio Zagorje radio",
@@ -2656,7 +2749,8 @@
       },
       {
        "name": "Radio Capris Rock",
-       "url": "http://stream02.exit.si:8000/ROCK"
+       "url": "http://stream02.exit.si:8000/ROCK",
+       "rb": "d560008c-dcc0-4049-8186-29f22d0fbca8"
       },
       {
        "name": "Radio Capris Rock",
@@ -2718,7 +2812,8 @@
         "pop_hits",
         "news_talk",
         "soul_rnb_funk"
-       ]
+       ],
+       "rb": "315e6ac6-d6a4-4d23-8796-8cb2cb28a07c"
       },
       {
        "name": "Radio Europa 05",
@@ -2792,7 +2887,9 @@
         "easy_listening",
         "world",
         "oldies"
-       ]
+       ],
+       "rb": "6ef88e96-e75b-4392-b95b-0cda1e4f0c83",
+       "logo": "https://www.radiorogla.si/wp-content/uploads/2021/01/cropped-logo_rogla.png"
       },
       {
        "name": "Radio Rogla radio",
@@ -2838,7 +2935,8 @@
         "classical",
         "ambient_relax",
         "hip_hop_rap"
-       ]
+       ],
+       "rb": "121b4078-33b4-11e9-8f31-52543be04c81"
       },
       {
        "name": "Radio Študent Listen live",
@@ -2849,7 +2947,8 @@
         "soul_rnb_funk",
         "news_talk"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "0f0f86e5-2d35-4384-a122-f642f7306845"
       },
       {
        "name": "Retro radio",
@@ -2870,7 +2969,9 @@
         "decade_60s",
         "decade_80s",
         "world"
-       ]
+       ],
+       "rb": "4b59466c-4b49-4aae-b9c7-64f856338b5c",
+       "logo": "https://www.retro.sg/favicon.ico"
       },
       {
        "name": "Rock Celje",
@@ -2889,15 +2990,21 @@
         "country",
         "metal",
         "folk"
-       ]
+       ],
+       "rb": "961b7e55-0601-11e8-ae97-52543be04c81",
+       "logo": "http://media.rockmaribor.si/ico/32.png"
       },
       {
        "name": "Rock Maribor",
-       "url": "https://live.radio.si/RockMB"
+       "url": "https://live.radio.si/RockMB",
+       "rb": "aca62f9e-6ab6-4959-a82a-8c6a8dc561e3",
+       "logo": "https://media.radio1.si/ico/rock/32.png"
       },
       {
        "name": "Rock Radio",
-       "url": "http://stream3.radiocenter.si:9032/"
+       "url": "http://stream3.radiocenter.si:9032/",
+       "rb": "9643d792-0601-11e8-ae97-52543be04c81",
+       "logo": "http://www.rockradio.si/images/icons/icon_192x192.png"
       },
       {
        "name": "Rock Radio (Slovenia)",
@@ -2914,7 +3021,9 @@
       },
       {
        "name": "ROCK RADIO SI",
-       "url": "http://stream.rockradio.si:9034/"
+       "url": "http://stream.rockradio.si:9034/",
+       "rb": "961b7fdb-0601-11e8-ae97-52543be04c81",
+       "logo": "http://www.rockradio.si/images/icons/icon_192x192.png"
       },
       {
        "name": "Rock Radio SI",
@@ -2927,7 +3036,8 @@
       },
       {
        "name": "Rock Radio Si",
-       "url": "https://stream.nextmedia.si/proxy/rockr1_1?mp=/rock"
+       "url": "https://stream.nextmedia.si/proxy/rockr1_1?mp=/rock",
+       "rb": "5d027d7d-f51b-47b7-bbdd-3d6b347195d7"
       },
       {
        "name": "ROCK RADIO SI",
@@ -2986,7 +3096,9 @@
         "decade_90s",
         "rock",
         "soul_rnb_funk"
-       ]
+       ],
+       "rb": "0d359d83-3e6f-4065-b98b-3197c1754744",
+       "logo": "https://www.radiocapris.si/data/images/favicon/favicon-32x32.png"
       },
       {
        "name": "Radio Capris – 80s",
@@ -3020,7 +3132,8 @@
         "jazz",
         "pop_hits",
         "various_eclectic"
-       ]
+       ],
+       "rb": "96204fbe-0601-11e8-ae97-52543be04c81"
       }
      ]
     },
@@ -3112,7 +3225,8 @@
         "trance_goa",
         "electronic",
         "pop_hits"
-       ]
+       ],
+       "rb": "ad71c3b2-31e5-4ed8-b4c3-aca5e0f77f1a"
       }
      ]
     },
@@ -3171,7 +3285,9 @@
        "tags": [
         "news_talk",
         "world"
-       ]
+       ],
+       "rb": "9dd2f8e5-11f7-4fd9-aa10-c93df36965ee",
+       "logo": "https://img.rtvslo.si/_static/novi/bootstrap/public/themes/raprvi/icons/apple-touch-icon.png"
       },
       {
        "name": "Radio 1 Bela krajina",
@@ -3210,7 +3326,8 @@
        "tags": [
         "world",
         "college_community"
-       ]
+       ],
+       "rb": "3e431664-f4c4-4c73-af45-942865a85f55"
       },
       {
        "name": "Radio Capris - Slo",
@@ -3219,7 +3336,9 @@
         "world",
         "pop_hits",
         "folk"
-       ]
+       ],
+       "rb": "295da81e-0cd6-49f9-bc9f-8cccc2b78f58",
+       "logo": "https://www.radiocapris.si/data/images/favicon/favicon-32x32.png"
       },
       {
        "name": "Radio Capris Ex Yu",
@@ -3228,7 +3347,8 @@
         "world",
         "various_eclectic",
         "pop_hits"
-       ]
+       ],
+       "rb": "5f56e9cb-d603-11e8-a54a-52543be04c81"
       },
       {
        "name": "RADIO CENTER HIT",
@@ -3714,7 +3834,9 @@
        "name": "Radio 1 80-a - Ljubljana, Slovenija",
        "url": "https://live.radio1.si/Radio80",
        "country_inferred": true,
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "6c3e75da-48e6-46ea-b97c-10453fcd3d72",
+       "logo": "https://radio.svet24.si/favicon.ico"
       },
       {
        "name": "Radio 1 Koroska",
@@ -3802,7 +3924,9 @@
       },
       {
        "name": "Radio Capris 80",
-       "url": "http://stream02.exit.si:8000/80?"
+       "url": "http://stream02.exit.si:8000/80?",
+       "rb": "664a651a-b3ed-42c2-ae4d-111992f775f9",
+       "logo": "https://www.radiocapris.si/data/images/favicon/favicon-32x32.png"
       },
       {
        "name": "Radio Capris 80",
@@ -3816,7 +3940,9 @@
       },
       {
        "name": "Radio Capris 90 DANCE",
-       "url": "http://stream02.exit.si:8000/MEGAMIX?"
+       "url": "http://stream02.exit.si:8000/MEGAMIX?",
+       "rb": "1834eb5b-a374-4f57-94bf-c63fa80dc30c",
+       "logo": "https://www.radiocapris.si/data/images/favicon/favicon-32x32.png"
       },
       {
        "name": "Radio Capris 90 DANCE",
@@ -3913,7 +4039,8 @@
       },
       {
        "name": "Radio Celje",
-       "url": "http://online-radio.eu/export/winamp/110935-radio-celje"
+       "url": "http://online-radio.eu/export/winamp/110935-radio-celje",
+       "rb": "9030dc2d-5d4a-4a9e-9323-22e4f163b0d2"
       },
       {
        "name": "Radio Center - 80's Music",
@@ -4072,7 +4199,9 @@
       },
       {
        "name": "Radio MARŠ",
-       "url": "http://frekvenca.eu:8000/radiomars.mp3.m3u"
+       "url": "http://frekvenca.eu:8000/radiomars.mp3.m3u",
+       "rb": "951c98de-9b51-4184-877f-44a5adb841b4",
+       "logo": "http://radiomars.si/sites/default/files/logo_1.png"
       },
       {
        "name": "Radio Medvode",
@@ -4101,7 +4230,8 @@
       {
        "name": "radio nula 2",
        "url": "http://streaming.radionula.com:8800/channel2",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "e3cee858-515d-11e8-a4d1-52543be04c81"
       },
       {
        "name": "Radio OBER",
@@ -4586,7 +4716,8 @@
       },
       {
        "name": "Zeleni val",
-       "url": "https://jurepeterka.radioca.st/stream?n=3dba09f8010fdae4fb47"
+       "url": "https://jurepeterka.radioca.st/stream?n=3dba09f8010fdae4fb47",
+       "rb": "37ce55a3-30ab-499c-bea5-cf3820c8400a"
       },
       {
        "name": "Zieoux",
@@ -4751,7 +4882,9 @@
         "jazz",
         "pop_hits",
         "hip_hop_rap"
-       ]
+       ],
+       "rb": "42f8f9eb-112b-48a6-ae85-a3fd4555b8f7",
+       "logo": "https://radionula.com/favicon.png"
       }
      ]
     },
@@ -4825,7 +4958,9 @@
         "world",
         "various_eclectic",
         "easy_listening"
-       ]
+       ],
+       "rb": "961b57c9-0601-11e8-ae97-52543be04c81",
+       "logo": "http://cdn-radiotime-logos.tunein.com/s16010q.png"
       }
      ]
     },
@@ -4854,7 +4989,9 @@
         "jazz",
         "disco_eurodance",
         "electronic"
-       ]
+       ],
+       "rb": "8fd12c1b-4d5c-4f51-8442-0e92968c7cff",
+       "logo": "https://cdn-radiotime-logos.tunein.com/s111827g.png"
       }
      ]
     },
@@ -4927,7 +5064,9 @@
         "folk",
         "college_community",
         "world"
-       ]
+       ],
+       "rb": "9627e313-0601-11e8-ae97-52543be04c81",
+       "logo": "http://img.rtvslo.si/_static/novi/bootstrap/public/themes/mmr/icons/apple-touch-icon.png"
       }
      ]
     }

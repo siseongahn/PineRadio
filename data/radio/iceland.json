@@ -16,7 +16,8 @@
         "pop_hits",
         "electronic",
         "rock"
-       ]
+       ],
+       "rb": "9624084b-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "X-id 97.7 FM",
@@ -26,7 +27,8 @@
         "pop_hits",
         "folk",
         "rock"
-       ]
+       ],
+       "rb": "961e8c73-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "X-id 97.7 FM",
@@ -43,7 +45,8 @@
        "tags": [
         "ambient_relax",
         "easy_listening"
-       ]
+       ],
+       "rb": "961e9bb2-0601-11e8-ae97-52543be04c81"
       }
      ]
     },
@@ -83,7 +86,9 @@
       },
       {
        "name": "Radio Bodun 105.5 Reykjavik",
-       "url": "http://radio.bodun.is:8000/stream"
+       "url": "http://radio.bodun.is:8000/stream",
+       "rb": "9623e951-0601-11e8-ae97-52543be04c81",
+       "logo": "http://cdn-radiotime-logos.tunein.com/s102576q.png"
       },
       {
        "name": "Tzgospel Radio, Reykjavik",
@@ -221,11 +226,15 @@
        "tags": [
         "decade_80s",
         "pop_hits"
-       ]
+       ],
+       "rb": "961e9f13-0601-11e8-ae97-52543be04c81",
+       "logo": "http://vefutvarp.visir.is/favicons/apple-touch-icon.png"
       },
       {
        "name": "80's FlashBack",
-       "url": "https://ice-11.spilarinn.is/80flashback"
+       "url": "https://ice-11.spilarinn.is/80flashback",
+       "rb": "223a427e-2661-41c0-a40a-7d15fdca9da4",
+       "logo": "http://spilarinn.is"
       },
       {
        "name": "Flashback 80's",
@@ -271,7 +280,8 @@
        "tags": [
         "pop_hits",
         "easy_listening"
-       ]
+       ],
+       "rb": "961e9e40-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "FM 957",
@@ -309,7 +319,9 @@
         "pop_hits",
         "news_talk",
         "easy_listening"
-       ]
+       ],
+       "rb": "6c775ddd-84cb-40ae-bee2-18547849f200",
+       "logo": "https://ruv.is/favicon-32x32.png"
       },
       {
        "name": "ÁttanFM",
@@ -511,7 +523,9 @@
         "jazz",
         "classical"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "7f060aaa-11e9-4759-b85d-4b532d56235b",
+       "logo": "https://www.ruv.is/apple-touch-icon.png"
       },
       {
        "name": "RV Rond",
@@ -556,7 +570,8 @@
         "techno",
         "sports",
         "rock"
-       ]
+       ],
+       "rb": "961d3ec2-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Bylgjan FM",
@@ -595,7 +610,9 @@
       {
        "name": "FRED FILM RADIO, Reykjavik",
        "url": "https://s10.webradio-hosting.com/proxy/fredradiois/stream/",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "fc157689-436b-4da8-a3d5-18d72bbda568",
+       "logo": "https://www.fred.fm/wp-content/uploads/2014/12/Fred-Logo_trasp_-copia.png"
       },
       {
        "name": "K100",
@@ -615,7 +632,8 @@
         "pop_hits",
         "news_talk",
         "easy_listening"
-       ]
+       ],
+       "rb": "961e9bb2-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "RUV Ras 1",
@@ -656,7 +674,8 @@
        "tags": [
         "news_talk",
         "classical"
-       ]
+       ],
+       "rb": "ea3a1278-0b08-4254-a98b-cfee9a576b18"
       },
       {
        "name": "Utvarp Saga",
@@ -670,7 +689,9 @@
         "news_talk",
         "pop_hits",
         "various_eclectic"
-       ]
+       ],
+       "rb": "4123d652-36c9-41fd-b780-238cd3717f43",
+       "logo": "https://utvarpsaga.is/wp-content/uploads/2016/05/merki-toppur.png"
       }
      ]
     },
@@ -684,7 +705,9 @@
         "decade_80s",
         "oldies",
         "pop_hits"
-       ]
+       ],
+       "rb": "961e9f13-0601-11e8-ae97-52543be04c81",
+       "logo": "http://vefutvarp.visir.is/favicons/apple-touch-icon.png"
       },
       {
        "name": "Bylgjan 80s",
@@ -707,7 +730,9 @@
        "tags": [
         "decade_60s",
         "oldies"
-       ]
+       ],
+       "rb": "365a410b-cd82-4410-b351-6f443c3e8c1e",
+       "logo": "https://www.radio.net/300/flashback60s.png"
       },
       {
        "name": "FlashBack 70s",
@@ -733,7 +758,9 @@
         "oldies",
         "decade_80s",
         "decade_90s"
-       ]
+       ],
+       "rb": "961a98e2-0601-11e8-ae97-52543be04c81",
+       "logo": "http://vefutvarp.visir.is/favicons/apple-touch-icon.png"
       },
       {
        "name": "Gull Bylgjan",
@@ -780,7 +807,8 @@
         "pop_hits",
         "decade_80s",
         "decade_90s"
-       ]
+       ],
+       "rb": "c7162b90-39e6-45c8-ac30-4901a48f5dc2"
       },
       {
        "name": "Retro FM 89.5",
@@ -1000,11 +1028,14 @@
       },
       {
        "name": "Visir \"FM 957 Extra\" Reykjavik",
-       "url": "http://icecast.365net.is:8000/orbFmExtra.aac"
+       "url": "http://icecast.365net.is:8000/orbFmExtra.aac",
+       "rb": "68252d54-fe00-4f37-bac7-7015f95c6a37",
+       "logo": "https://www.visir.is/mi/cio/ad84742b-46c3-44e2-8ba5-9b1755e65677.png"
       },
       {
        "name": "Visir \"FM957\" 95.7 Reykjavik",
-       "url": "http://icecast.365net.is:8000/orbFm957.aac.m3u"
+       "url": "http://icecast.365net.is:8000/orbFm957.aac.m3u",
+       "rb": "961e9e40-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "X-id 97.7 FM",
@@ -1050,7 +1081,9 @@
        "tags": [
         "rock",
         "classical"
-       ]
+       ],
+       "rb": "961a98e2-0601-11e8-ae97-52543be04c81",
+       "logo": "http://vefutvarp.visir.is/favicons/apple-touch-icon.png"
       },
       {
        "name": "Létt Bylgjan",
@@ -1070,7 +1103,9 @@
         "news_talk",
         "easy_listening",
         "chillout_lounge"
-       ]
+       ],
+       "rb": "9624075b-0601-11e8-ae97-52543be04c81",
+       "logo": "http://spilarinn.is/uploads/1486999431932.png"
       },
       {
        "name": "X-id 97.7",
@@ -1083,7 +1118,8 @@
       },
       {
        "name": "X977",
-       "url": "http://icecast.365net.is:8000/orbXid.aac.m3u"
+       "url": "http://icecast.365net.is:8000/orbXid.aac.m3u",
+       "rb": "961e8c73-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "X977 radio",
@@ -1161,7 +1197,8 @@
         "world",
         "classical",
         "various_eclectic"
-       ]
+       ],
+       "rb": "80792045-51b6-47d5-a740-2e9a4d3d262a"
       }
      ]
     },
@@ -1272,7 +1309,8 @@
       {
        "name": "K 100",
        "url": "https://ice-11.spilarinn.is/kaninnmobile",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "8d472d16-8ce9-49ed-9b60-df7cd7041566"
       },
       {
        "name": "KFM Iceland – 104.3 FM – Vestmannaeyjar – South – IS",
@@ -1344,11 +1382,14 @@
       },
       {
        "name": "Rás2",
-       "url": "http://netradio.ruv.is/ras2.aac"
+       "url": "http://netradio.ruv.is/ras2.aac",
+       "rb": "0ec0f183-4681-478f-b507-cb4ca6333541",
+       "logo": "https://www.ruv.is/apple-touch-icon.png"
       },
       {
        "name": "RÚV Rás 1",
-       "url": "http://netradio.ruv.is/ras1.aac"
+       "url": "http://netradio.ruv.is/ras1.aac",
+       "rb": "ea3a1278-0b08-4254-a98b-cfee9a576b18"
       },
       {
        "name": "Skaga Rásin",

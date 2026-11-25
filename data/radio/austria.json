@@ -232,7 +232,8 @@
         "hip_hop_rap",
         "various_eclectic",
         "soundtrack"
-       ]
+       ],
+       "rb": "1e13ed4e-daa9-4728-8550-e08d89c1c8e7"
       },
       {
        "name": "Radio FM4",
@@ -246,7 +247,9 @@
         "rock",
         "folk",
         "decade_90s"
-       ]
+       ],
+       "rb": "206f93c5-5f3c-4ba1-82c2-19a42582fcc2",
+       "logo": "https://tubestatic.orf.at/mojo/1_3/storyserver//tube/fm4/images/touch-icon-iphone-retina.png"
       },
       {
        "name": "Radio FRO",
@@ -305,7 +308,8 @@
         "rock",
         "college_community",
         "world"
-       ]
+       ],
+       "rb": "70296bb5-3155-4d09-b40b-4478890a5104"
       },
       {
        "name": "Radio OP",
@@ -377,7 +381,9 @@
         "world",
         "various_eclectic",
         "rock"
-       ]
+       ],
+       "rb": "a2d33e69-b9c6-11e9-acb2-52543be04c81",
+       "logo": "https://radiofabrik.at/favicon.ico"
       },
       {
        "name": "Radius 106,6 Listen live",
@@ -421,7 +427,9 @@
         "rock",
         "hip_hop_rap",
         "electronic"
-       ]
+       ],
+       "rb": "024e2c60-c423-4463-a057-617833a81cb2",
+       "logo": "https://soundportal.at/fileadmin/_processed_/a/f/csm_logo_c56844a102.png"
       },
       {
        "name": "Soundportal",
@@ -505,7 +513,9 @@
       {
        "name": "Arabella Relax",
        "url": "https://static.arabella.at/streamadressen/arabella-relax.m3u",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "649018d6-9239-4f28-9f9a-ae3f1732379f",
+       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7GNifevkmpegEQspaFGFI-sV6_k3ZQczflw&usqp=CAU"
       },
       {
        "name": "Life Radio Chill Out",
@@ -580,7 +590,8 @@
       {
        "name": "Antenne Vorarlberg Chillout",
        "url": "https://web.radio.antennevorarlberg.at/av-chillout/stream/mp3",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "df0568b8-cc3c-4903-aa18-7a04f4b4b401"
       },
       {
        "name": "Antenne Vorarlberg Chillout",
@@ -607,7 +618,8 @@
         "pop_hits",
         "ambient_relax",
         "house"
-       ]
+       ],
+       "rb": "7308ec18-42c0-4bbf-ab0e-72b1800d3cba"
       },
       {
        "name": "ANTENNE VORARLBERG Chillout Lounge",
@@ -672,7 +684,9 @@
         "ambient_relax",
         "hip_hop_rap",
         "house"
-       ]
+       ],
+       "rb": "17142ca0-4faf-11e9-a4d7-52543be04c81",
+       "logo": "https://www.city23.at/wp-content/themes/city23/medias/app-icons/apple-icon-120x120.png"
       },
       {
        "name": "edendeeply",
@@ -709,7 +723,8 @@
        "tags": [
         "pop_hits",
         "chillout_lounge"
-       ]
+       ],
+       "rb": "1abda628-4353-4725-8eca-5fce5287f27f"
       },
       {
        "name": "Life Radio Chill Out",
@@ -770,7 +785,9 @@
         "ambient_relax",
         "house"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "91cebe7e-aaa0-4f91-99da-902bead6bffe",
+       "logo": "https://www.lounge.fm/wp-content/uploads/2014/06/loungefm_logo_colour2-300x300.jpg"
       },
       {
        "name": "Lounge.FM - 100% Austria",
@@ -783,7 +800,9 @@
         "jazz",
         "electronic",
         "pop_hits"
-       ]
+       ],
+       "rb": "282facce-8ae7-46a5-9e24-a946abe9fc7d",
+       "logo": "https://www.lounge.fm/wp-content/uploads/2014/06/loungefm_logo_colour2-300x300.jpg"
       },
       {
        "name": "LoungeFM 100% Austria",
@@ -865,7 +884,8 @@
         "jazz",
         "ambient_relax",
         "latin"
-       ]
+       ],
+       "rb": "b45a5241-119c-11e9-a80b-52543be04c81"
       },
       {
        "name": "Styrialounge",
@@ -879,7 +899,8 @@
         "blues",
         "latin"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "63c4bb83-8567-42e3-ad1c-c1968b367ecf"
       },
       {
        "name": "Theos Radio Lab Chillout",
@@ -915,7 +936,8 @@
       },
       {
        "name": "ERF Plus Oesterreich 128k",
-       "url": "http://stream.erf.at:8000/erfplus_128?n=6e9625886ad02d596558"
+       "url": "http://stream.erf.at:8000/erfplus_128?n=6e9625886ad02d596558",
+       "rb": "1fc97400-9a29-4567-a747-3619bcdec492"
       },
       {
        "name": "ERF Plus Oesterreich 192k",
@@ -925,19 +947,24 @@
         "news_talk",
         "pop_hits",
         "classical"
-       ]
+       ],
+       "rb": "96420a70-0601-11e8-ae97-52543be04c81",
+       "logo": "http://www.erf.at/favicon.ico"
       },
       {
        "name": "ERF Plus Oesterreich 192k A1",
-       "url": "http://stream.erf.at:8000/erfplus_a1?n=788723efea3e64a5327b"
+       "url": "http://stream.erf.at:8000/erfplus_a1?n=788723efea3e64a5327b",
+       "rb": "612bd03c-778e-4e8e-9bfd-fcde6cba598b"
       },
       {
        "name": "ERF Plus Oesterreich 320k",
-       "url": "http://stream.erf.at:8000/erfplus_320?n=7f0df4364fcec0da9ae3"
+       "url": "http://stream.erf.at:8000/erfplus_320?n=7f0df4364fcec0da9ae3",
+       "rb": "6d6f6bb6-9f71-4f1d-846f-8371678f7a4b"
       },
       {
        "name": "ERF Plus Oesterreich 96k",
-       "url": "http://stream.erf.at:8000/erfplus_96?n=2fc3b691e29d74edb95a"
+       "url": "http://stream.erf.at:8000/erfplus_96?n=2fc3b691e29d74edb95a",
+       "rb": "df080de4-7260-46e3-b83c-9363f4dbf371"
       },
       {
        "name": "ERF Plus Österreich",
@@ -945,7 +972,8 @@
       },
       {
        "name": "ERF Suedtirol 192k",
-       "url": "http://stream.erf.at:8000/erfplus_192?n=8d8f744b99183862fe23"
+       "url": "http://stream.erf.at:8000/erfplus_192?n=8d8f744b99183862fe23",
+       "rb": "06b018ff-eb3d-462e-8d87-d6c93ab774c6"
       },
       {
        "name": "jesus4liferadio",
@@ -969,7 +997,9 @@
         "christian_gospel",
         "rock",
         "pop_hits"
-       ]
+       ],
+       "rb": "961ab68c-0601-11e8-ae97-52543be04c81",
+       "logo": "http://www.erf.at/favicon.ico"
       },
       {
        "name": "NOW radio",
@@ -979,11 +1009,13 @@
       {
        "name": "Now Radio 128k",
        "url": "http://stream.erf.at:8000/nowradio_128?n=f671eddb5e4fbbe6a77f",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "859db466-2a81-4786-994f-c7136b685aad"
       },
       {
        "name": "Now Radio 320k",
-       "url": "http://stream.erf.at:8000/nowradio_320?n=0e3268d57cea1287f993"
+       "url": "http://stream.erf.at:8000/nowradio_320?n=0e3268d57cea1287f993",
+       "rb": "ca707c03-bff9-4c9b-98de-6c8c30318fad"
       },
       {
        "name": "Now Radio 96k",
@@ -992,11 +1024,14 @@
         "christian_gospel",
         "pop_hits",
         "rock"
-       ]
+       ],
+       "rb": "963b1a6a-0601-11e8-ae97-52543be04c81",
+       "logo": "http://www.erf.at/favicon.ico"
       },
       {
        "name": "Now Radio 96k",
-       "url": "http://stream.erf.at:8000/nowradio_96?n=634a5a97c1a375788628"
+       "url": "http://stream.erf.at:8000/nowradio_96?n=634a5a97c1a375788628",
+       "rb": "298c4c1e-49e3-4c9a-8133-fabeb4e9972b"
       },
       {
        "name": "Radio Allelon",
@@ -1034,7 +1069,8 @@
       },
       {
        "name": "Radio Maria Austria",
-       "url": "http://live.radiomaria.at:8000/rma.m3u"
+       "url": "http://live.radiomaria.at:8000/rma.m3u",
+       "rb": "96096b11-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Radio Maria Austria (56 kbps)",
@@ -1046,11 +1082,13 @@
         "classical",
         "news_talk",
         "folk"
-       ]
+       ],
+       "rb": "de5bc257-58fc-11e9-a622-52543be04c81"
       },
       {
        "name": "Radio Maria Österreich",
-       "url": "http://live.radiomaria.at:8000/rma"
+       "url": "http://live.radiomaria.at:8000/rma",
+       "rb": "96096b11-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Radio Maria Österreich",
@@ -1085,7 +1123,8 @@
       },
       {
        "name": "Spirit Live Radio",
-       "url": "http://server7606.streamplus.de/"
+       "url": "http://server7606.streamplus.de/",
+       "rb": "9624f6fa-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Spirit Live Radio",
@@ -1094,7 +1133,8 @@
       },
       {
        "name": "Yeshua.at Radio",
-       "url": "https://yeshua.at:8443/stream"
+       "url": "https://yeshua.at:8443/stream",
+       "rb": "51d1d5b5-dc3a-4cb0-afad-b31c37335b99"
       },
       {
        "name": "YOURRADIOZONE Listen live",
@@ -1130,7 +1170,9 @@
         "classical",
         "decade_70s"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "b9230e0b-1bb1-46c0-aa76-d2f55677619e",
+       "logo": "https://www.antennevorarlberg.at/wp-content/uploads//2021/03/70er-1000x1000-Slogan-runde-Ecken-144x144.png"
       },
       {
        "name": "Antenne Vorarlberg Classic Rock",
@@ -1139,7 +1181,8 @@
         "classical",
         "rock"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "6f87d8a9-b4f8-4654-ae82-6d79e04f0b3c"
       },
       {
        "name": "APAITtest",
@@ -1327,7 +1370,8 @@
         "classical",
         "christian_gospel",
         "news_talk"
-       ]
+       ],
+       "rb": "6b412050-90a4-4c40-9c21-be7395b3e300"
       },
       {
        "name": "Radio PRB",
@@ -1467,7 +1511,9 @@
         "country",
         "soul_rnb_funk",
         "electronic"
-       ]
+       ],
+       "rb": "78d03c1c-9e37-4dd2-8b32-e213fb7ce203",
+       "logo": "https://static.wixstatic.com/media/fb3041_490a03e52d6f4054be2342552bc1606e%7emv2.png/v1/fill/w_180%2ch_180%2clg_1%2cusm_0.66_1.00_0.01/fb3041_490a03e52d6f4054be2342552bc1606e%7emv2.png"
       },
       {
        "name": "LCR Linedane & Countryradio",
@@ -1509,7 +1555,8 @@
         "country",
         "oldies",
         "schlager_polka"
-       ]
+       ],
+       "rb": "511bb1f6-520f-11e9-a4d7-52543be04c81"
       },
       {
        "name": "Radio Himmelberg laut.fm",
@@ -1989,7 +2036,9 @@
         "decade_90s",
         "pop_hits"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "fc15266a-ed42-4f1d-bacf-733f545514be",
+       "logo": "https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png"
       },
       {
        "name": "Antenne Vorarlberg Die 90er Hits",
@@ -2200,7 +2249,8 @@
       {
        "name": "DrumandBass.FM",
        "url": "https://stream.laut.fm/drumandbass_fm?ref=radiode",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "31858a05-51df-4ff4-9d62-4f0a22fad870"
       },
       {
        "name": "Dubbase.FM",
@@ -2351,7 +2401,9 @@
         "easy_listening",
         "folk"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "f17518d3-624e-4984-b66e-12f576b97c76",
+       "logo": "https://cdn.onlineradiobox.com/img/logo/5/83425.v1.png"
       },
       {
        "name": "Campus Radio",
@@ -2451,7 +2503,8 @@
        "tags": [
         "pop_hits",
         "easy_listening"
-       ]
+       ],
+       "rb": "9647da10-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Life Radio",
@@ -2554,7 +2607,9 @@
         "schlager_polka",
         "easy_listening"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "3016af1c-a844-4ad1-9eb0-1a9ec4dcc1bd",
+       "logo": "https://arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png"
       },
       {
        "name": "Radio Arabella - Wiener Schmaeh",
@@ -2700,7 +2755,8 @@
         "electronic",
         "techno",
         "house"
-       ]
+       ],
+       "rb": "936c9ed3-2932-41e4-877c-39f9e6a4a65c"
       },
       {
        "name": "1000-electronic-dance-music",
@@ -2709,7 +2765,8 @@
         "electronic",
         "christian_gospel",
         "jazz"
-       ]
+       ],
+       "rb": "394c0c15-b64b-4d82-8be3-4e54afa0d475"
       },
       {
        "name": "A_A Fresh Hits",
@@ -2746,7 +2803,8 @@
         "oldies",
         "house",
         "disco_eurodance"
-       ]
+       ],
+       "rb": "9d15647c-0c2b-4078-8f93-1936a17a7569"
       },
       {
        "name": "ALPHA - Radio",
@@ -2774,7 +2832,9 @@
         "electronic",
         "news_talk",
         "pop_hits"
-       ]
+       ],
+       "rb": "964de587-0601-11e8-ae97-52543be04c81",
+       "logo": "https://www.antenne.at/favicon.ico"
       },
       {
        "name": "Antenne Vorarlberg 2010er Hits",
@@ -2795,7 +2855,9 @@
         "pop_hits",
         "electronic"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "60ca2058-1785-4ee8-8b6a-bfed1a0bebf7",
+       "logo": "https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png"
       },
       {
        "name": "Antenne Vorarlberg Dance Radio",
@@ -2859,7 +2921,8 @@
         "news_talk",
         "country",
         "pop_hits"
-       ]
+       ],
+       "rb": "d18e4111-eb0f-11e9-a96c-52543be04c81"
       },
       {
        "name": "CITY23 - Der neue Soundtrack für Wien",
@@ -2938,7 +3001,8 @@
         "metal",
         "decade_80s",
         "rock"
-       ]
+       ],
+       "rb": "54b85bd0-8b71-11e9-ad01-52543be04c81"
       },
       {
        "name": "Daslive Radio laut.fm",
@@ -3055,7 +3119,8 @@
         "gothic_industrial",
         "punk",
         "drum_and_bass"
-       ]
+       ],
+       "rb": "f74f0ef0-6265-11e8-b15b-52543be04c81"
       },
       {
        "name": "FMBase",
@@ -3933,7 +3998,8 @@
       {
        "name": "Radio Alpenstar",
        "url": "http://streamplus62.leonex.de:22674/",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "7fe861a9-5b46-49d0-9b37-2ccac195f2ef"
       },
       {
        "name": "Radio Arabella Wiener Schmaeh",
@@ -4060,7 +4126,9 @@
         "easy_listening",
         "oldies",
         "schlager_polka"
-       ]
+       ],
+       "rb": "08ff5099-5c3b-4088-b655-8d9b8c637866",
+       "logo": "https://static.wixstatic.com/media/548694_ab538cd3682b46c6b81c924de1b94ee0~mv2.png/v1/fill/w_248,h_111,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_vm1_edited.png"
       },
       {
        "name": "Radio Volksmusik",
@@ -4168,7 +4236,8 @@
         "alternative_indie",
         "decade_90s",
         "world"
-       ]
+       ],
+       "rb": "f4e3ea24-0e68-4d56-b000-611bac9410dd"
       },
       {
        "name": "Volksmusik Pur",
@@ -4261,7 +4330,8 @@
         "alternative_indie",
         "schlager_polka",
         "electronic"
-       ]
+       ],
+       "rb": "961e3d1c-0601-11e8-ae97-52543be04c81"
       }
      ]
     },
@@ -4302,7 +4372,8 @@
       },
       {
        "name": "Future",
-       "url": "https://stream.laut.fm/future?ref=radiode"
+       "url": "https://stream.laut.fm/future?ref=radiode",
+       "rb": "4cbef14f-56f8-458f-8451-03ecd722ef12"
       },
       {
        "name": "Future laut.fm",
@@ -4565,7 +4636,9 @@
       {
        "name": "Antenne Vorarlberg Christkindl Radio",
        "url": "https://web.radio.antennevorarlberg.at/av-christkindl",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "3b5a0bb4-dd07-4b56-a176-0d9bae9f3dfa",
+       "logo": "https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png"
       },
       {
        "name": "Antenne Vorarlberg Christkindlradio",
@@ -4626,7 +4699,9 @@
         "holiday",
         "rock",
         "pop_hits"
-       ]
+       ],
+       "rb": "98449405-4f52-4acc-b501-912ed5595a2d",
+       "logo": "http://www.radio-xmas.at/assets/img/santa.png"
       },
       {
        "name": "Radio XMAS",
@@ -4946,7 +5021,9 @@
         "pop_hits",
         "world",
         "college_community"
-       ]
+       ],
+       "rb": "961a6bf2-0601-11e8-ae97-52543be04c81",
+       "logo": "https://freiesradio.at/wp-content/uploads/2016/11/cropped-favicon-180x180.png"
       },
       {
        "name": "JazzNet247 Radio Europe",
@@ -4964,15 +5041,21 @@
       },
       {
        "name": "JazzW3",
-       "url": "https://air.jazz.w3.at/jazzw3.mp3"
+       "url": "https://air.jazz.w3.at/jazzw3.mp3",
+       "rb": "d381d4b8-3d14-450d-b4b3-75be7b7bcb39",
+       "logo": "http://jazz.w3.at/logo.png"
       },
       {
        "name": "JazzW3",
-       "url": "https://air.jazz.w3.at/jazzw3.ogg?n=d34cc14443d76766384a"
+       "url": "https://air.jazz.w3.at/jazzw3.ogg?n=d34cc14443d76766384a",
+       "rb": "93452add-93d6-419f-81cf-9060b0aa0a4f",
+       "logo": "http://jazz.w3.at/logo.png"
       },
       {
        "name": "Just A-Jazz Radio",
-       "url": "http://jazz.w3.at:8000/w3jazz.mp3"
+       "url": "http://jazz.w3.at:8000/w3jazz.mp3",
+       "rb": "cb37fde6-44dd-4bc3-a57a-3543ff6cc04b",
+       "logo": "http://jazz.w3.at/logo.png"
       },
       {
        "name": "Lesetraum",
@@ -5044,7 +5127,8 @@
         "smooth_jazz",
         "easy_listening",
         "chillout_lounge"
-       ]
+       ],
+       "rb": "8bd99b46-d275-4f75-88bc-8ebfbdf92f73"
       },
       {
        "name": "Technikum CITY",
@@ -5089,7 +5173,9 @@
         "classical",
         "country",
         "pop_hits"
-       ]
+       ],
+       "rb": "9620cfc5-0601-11e8-ae97-52543be04c81",
+       "logo": "https://www.meinkinderradio.at/wp-content/uploads/2021/07/favicon.png"
       },
       {
        "name": "Mein Kinderradio Wien 103.2",
@@ -5193,7 +5279,8 @@
         "metal",
         "house",
         "easy_listening"
-       ]
+       ],
+       "rb": "2669339a-2e10-45ff-bcbc-6bbd09185216"
       },
       {
        "name": "Insane Rock Station",
@@ -5428,7 +5515,8 @@
        "tags": [
         "news_talk",
         "pop_hits"
-       ]
+       ],
+       "rb": "56dc6c22-6060-11ea-be63-52543be04c81"
       },
       {
        "name": "Freies Radio Salzkammergut",
@@ -5437,7 +5525,9 @@
         "news_talk",
         "classical",
         "pop_hits"
-       ]
+       ],
+       "rb": "f0c824de-4b8e-49ff-a88d-a9590a8a69c2",
+       "logo": "https://freiesradio.at/wp-content/uploads/2016/11/cropped-favicon-192x192.png"
       },
       {
        "name": "FREIRAD 105.9 FM",
@@ -5453,7 +5543,9 @@
        "tags": [
         "christian_gospel",
         "news_talk"
-       ]
+       ],
+       "rb": "9ba9014f-6fe5-11e9-af37-52543be04c81",
+       "logo": "http://www.radiomaria.at/favicon.ico"
       },
       {
        "name": "Heiligenkreuz_102 (166k)",
@@ -5572,7 +5664,8 @@
         "schlager_polka",
         "decade_70s",
         "decade_80s"
-       ]
+       ],
+       "rb": "fa4463a4-cedf-490a-b941-3dc56b83d5b6"
       },
       {
        "name": "ORF Radio Burgenland",
@@ -5584,7 +5677,9 @@
         "various_eclectic",
         "schlager_polka",
         "classical"
-       ]
+       ],
+       "rb": "77bb2bea-2de1-4909-bf9f-25021e173092",
+       "logo": "https://burgenland.orf.at/player/apple-touch-icon-180x180.png"
       },
       {
        "name": "ORF Radio Kärnten",
@@ -5596,11 +5691,14 @@
         "pop_hits",
         "schlager_polka",
         "oldies"
-       ]
+       ],
+       "rb": "0c761a3d-991b-4025-aa17-ba0336038f20"
       },
       {
        "name": "ORF Radio Kärnten",
-       "url": "http://ors-sn02.ors-shoutcast.at/ktn-q1a"
+       "url": "http://ors-sn02.ors-shoutcast.at/ktn-q1a",
+       "rb": "f9bc912f-dbd7-4a75-b3af-1a77c2231098",
+       "logo": "https://orfodon.org/system/accounts/avatars/111/374/600/349/621/738/original/38f30e28fae38639.png"
       },
       {
        "name": "ORF Radio Oberoesterreich",
@@ -5618,7 +5716,8 @@
         "oldies",
         "various_eclectic",
         "schlager_polka"
-       ]
+       ],
+       "rb": "ed03bcf5-86d2-45f7-848d-90d67f89e001"
       },
       {
        "name": "ORF Radio Salzburg",
@@ -5632,7 +5731,9 @@
         "pop_hits",
         "oldies",
         "classical"
-       ]
+       ],
+       "rb": "50890eab-41ac-4f6b-8839-022f0c20444b",
+       "logo": "https://orfodon.org/system/accounts/avatars/111/374/508/091/321/480/original/185d67318d45fbd9.png"
       },
       {
        "name": "ORF Radio Slovenci",
@@ -5657,7 +5758,8 @@
         "oldies",
         "folk",
         "blues"
-       ]
+       ],
+       "rb": "f0787305-4e27-4494-b5ae-8f9082301f1a"
       },
       {
        "name": "ORF Radio Tirol",
@@ -5670,7 +5772,8 @@
         "decade_70s",
         "decade_80s",
         "decade_90s"
-       ]
+       ],
+       "rb": "cdf8f51a-d35d-4b2f-9b28-41011ad69278"
       },
       {
        "name": "ORF Radio Vorarlberg",
@@ -5685,7 +5788,8 @@
         "decade_70s",
         "decade_80s",
         "schlager_polka"
-       ]
+       ],
+       "rb": "5971be6a-df87-4e50-9972-df9c93a47dc6"
       },
       {
        "name": "ORF Radio Vorarlberg",
@@ -5697,7 +5801,9 @@
         "schlager_polka",
         "various_eclectic",
         "world"
-       ]
+       ],
+       "rb": "0d37b24b-204c-47f9-84df-4dcbfa97ba33",
+       "logo": "https://orfodon.org/system/accounts/avatars/111/374/623/444/743/699/original/3022673107e835ba.png"
       },
       {
        "name": "ORF Radio Wien",
@@ -5712,7 +5818,8 @@
         "schlager_polka",
         "decade_80s",
         "decade_90s"
-       ]
+       ],
+       "rb": "154fc4d3-4584-4b59-b2ed-e8656e0420e8"
       },
       {
        "name": "ORF Ö1",
@@ -5723,7 +5830,9 @@
         "pop_hits",
         "jazz",
         "world"
-       ]
+       ],
+       "rb": "657b7b0f-2ef9-45df-9915-4ca4f948c54f",
+       "logo": "https://oe1.orf.at/static/img/logo_oe1.png"
       },
       {
        "name": "ORF Ö1 Campus",
@@ -5733,7 +5842,9 @@
         "world",
         "pop_hits",
         "alternative_indie"
-       ]
+       ],
+       "rb": "ea50b1cd-b465-4935-99c5-3c7c0def4495",
+       "logo": "https://oe1.orf.at/static/img/logo_oe1.png"
       },
       {
        "name": "ORF Ö2 Radio Burgenland",
@@ -5769,7 +5880,9 @@
       },
       {
        "name": "Radio Freirad",
-       "url": "https://stream.freirad.at/live.mp3"
+       "url": "https://stream.freirad.at/live.mp3",
+       "rb": "efc0d824-90e9-48f0-8902-c9077d92c272",
+       "logo": "https://www.freirad.at/wp-content/themes/betheme-child/images/logo-mobile.png"
       },
       {
        "name": "Radio FRO 105.0",
@@ -5792,7 +5905,9 @@
         "pop_hits",
         "news_talk",
         "various_eclectic"
-       ]
+       ],
+       "rb": "96062be2-0601-11e8-ae97-52543be04c81",
+       "logo": "http://www.radiomax.at/favicon.ico"
       },
       {
        "name": "Radio Max Bipa",
@@ -5803,7 +5918,8 @@
         "various_eclectic",
         "easy_listening",
         "rock"
-       ]
+       ],
+       "rb": "96063296-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Radio Max Merkur",
@@ -5823,7 +5939,9 @@
         "news_talk",
         "various_eclectic",
         "rock"
-       ]
+       ],
+       "rb": "9606d88a-0601-11e8-ae97-52543be04c81",
+       "logo": "http://cdn-radiotime-logos.tunein.com/s112691q.png"
       },
       {
        "name": "Radio Max, Vienna radio",
@@ -5845,7 +5963,8 @@
         "oldies",
         "schlager_polka",
         "various_eclectic"
-       ]
+       ],
+       "rb": "c4a15de4-ce45-401f-bfb1-f98f818a74f0"
       },
       {
        "name": "Radio OE24",
@@ -5876,7 +5995,9 @@
         "oldies",
         "jazz",
         "country"
-       ]
+       ],
+       "rb": "962dd999-0601-11e8-ae97-52543be04c81",
+       "logo": "https://radio-osttirol.at/images/favicon/favicon_radio.png"
       },
       {
        "name": "Radio Osttirol",
@@ -5921,7 +6042,9 @@
         "decade_80s",
         "decade_90s",
         "rock"
-       ]
+       ],
+       "rb": "be4f6f63-96b0-47cc-9f52-9ace9a7657c5",
+       "logo": "https://www.technikumone.at/favicon.ico"
       },
       {
        "name": "Radio U1 Tirol",
@@ -6078,7 +6201,9 @@
         "jazz",
         "world",
         "opera"
-       ]
+       ],
+       "rb": "cbd9a2cb-7e37-4362-9eb3-269ed743fc62",
+       "logo": "https://oe1.orf.at/static/img/logo_oe1.png"
       },
       {
        "name": "Ö1 Campus",
@@ -6091,7 +6216,9 @@
         "folk",
         "college_community",
         "electronic"
-       ]
+       ],
+       "rb": "f4c44f86-7270-462e-8317-fcaa3c5db457",
+       "logo": "https://oe1.orf.at/static/img/logo_oe1.png"
       },
       {
        "name": "Österreich Radio",
@@ -6171,7 +6298,9 @@
         "oldies",
         "classical",
         "pop_hits"
-       ]
+       ],
+       "rb": "9e3034a1-a33a-4663-9802-979c9535b16b",
+       "logo": "https://www.antennevorarlberg.at/wp-content/uploads//2013/02/webradio_Icons_1000x1000-NEU_oldies-but-goldies-144x144.png"
       },
       {
        "name": "Antenne Vorarlberg Oldies but Goldies",
@@ -6211,7 +6340,9 @@
       {
        "name": "Arabella Golden oldies",
        "url": "https://static.arabella.at/streamadressen/arabella-goldenoldies.m3u?n=eb5c931d21d904cee163",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "2ce5de5b-01c0-4359-91d7-891f7c0d6bcc",
+       "logo": "https://arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png"
       },
       {
        "name": "Arabella Golden Oldies",
@@ -6266,7 +6397,8 @@
         "oldies",
         "news_talk",
         "pop_hits"
-       ]
+       ],
+       "rb": "9644403a-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "AustrianKult-Radio radio",
@@ -6414,7 +6546,8 @@
       },
       {
        "name": "Oldie Party",
-       "url": "http://streams.norawebstreams.de/oldieparty/mp3-192/vtuner/"
+       "url": "http://streams.norawebstreams.de/oldieparty/mp3-192/vtuner/",
+       "rb": "d201a851-7526-49ed-8a15-e799a7a03b77"
       },
       {
        "name": "ooe ORF",
@@ -6460,7 +6593,8 @@
         "news_talk",
         "schlager_polka",
         "folk"
-       ]
+       ],
+       "rb": "d6baa0a3-feb1-422f-86af-42375f5e7c0a"
       },
       {
        "name": "ORF Radio Oberösterreich",
@@ -6472,7 +6606,9 @@
         "schlager_polka",
         "world",
         "classical"
-       ]
+       ],
+       "rb": "1e1513bb-f951-43ca-960d-bcbc26ff0bfe",
+       "logo": "https://orfodon.org/system/accounts/avatars/111/374/484/561/807/260/original/04efe58e0bc4d119.png"
       },
       {
        "name": "ORF Radio Salzburg",
@@ -6484,7 +6620,9 @@
         "pop_hits",
         "various_eclectic",
         "world"
-       ]
+       ],
+       "rb": "cee9c38a-a2f2-40ef-8926-4c08e9f60279",
+       "logo": "https://orfodon.org/system/accounts/avatars/111/374/508/091/321/480/original/185d67318d45fbd9.png"
       },
       {
        "name": "ORF Radio Steiermark",
@@ -6497,7 +6635,9 @@
         "folk",
         "college_community",
         "various_eclectic"
-       ]
+       ],
+       "rb": "bf28dbee-2d33-4f9b-a664-6abdb69777bc",
+       "logo": "https://orfodon.org/system/accounts/avatars/111/374/531/169/177/709/original/1721e6944c64b1b3.png"
       },
       {
        "name": "ORF Radio Tirol",
@@ -6514,7 +6654,8 @@
         "kids",
         "decade_90s",
         "decade_70s"
-       ]
+       ],
+       "rb": "321f37ec-f5c1-4fb2-8a3f-4d65d3c7650c"
       },
       {
        "name": "ORF Radio Wien",
@@ -6526,7 +6667,9 @@
         "schlager_polka",
         "rock",
         "easy_listening"
-       ]
+       ],
+       "rb": "8a3685e2-711e-4764-9080-6fa143c33014",
+       "logo": "https://orfodon.org/system/accounts/avatars/111/374/411/749/352/990/original/16c84635847ddad3.png"
       },
       {
        "name": "PetersPlattentek",
@@ -6535,7 +6678,8 @@
         "pop_hits",
         "oldies"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "64dd42ec-d283-4939-a76c-58b23c4b6259"
       },
       {
        "name": "Radio 88.6",
@@ -6719,7 +6863,8 @@
         "pop_hits",
         "oldies",
         "schlager_polka"
-       ]
+       ],
+       "rb": "378f155b-6766-4eba-b7ad-9781a53ec927"
       },
       {
        "name": "Radio Grun-Weiss 106.6 FM",
@@ -6736,7 +6881,8 @@
         "schlager_polka",
         "folk",
         "pop_hits"
-       ]
+       ],
+       "rb": "960c5763-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Radio Grün Weiß - HQ",
@@ -6746,7 +6892,8 @@
         "pop_hits",
         "schlager_polka",
         "classical"
-       ]
+       ],
+       "rb": "0d61eb06-745b-464d-9745-6230a09d418d"
       },
       {
        "name": "Radio Harmonie",
@@ -6773,7 +6920,8 @@
        "tags": [
         "pop_hits",
         "oldies"
-       ]
+       ],
+       "rb": "96096e93-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Radio Kaernten",
@@ -6925,7 +7073,8 @@
        "tags": [
         "oldies",
         "pop_hits"
-       ]
+       ],
+       "rb": "b05a7451-0239-4797-a24b-eb268a6839f9"
       },
       {
        "name": "Technikum Gold",
@@ -7039,7 +7188,8 @@
         "decade_80s",
         "oldies",
         "news_talk"
-       ]
+       ],
+       "rb": "af3f4f8f-1c94-4c35-9dc9-3bc0873f849c"
       },
       {
        "name": "Antenne Austro Hits",
@@ -7047,7 +7197,8 @@
        "tags": [
         "pop_hits",
         "easy_listening"
-       ]
+       ],
+       "rb": "2953dfbe-64f1-40c3-9ff8-90ba0f2449b2"
       },
       {
        "name": "Antenne Cavallino",
@@ -7083,7 +7234,9 @@
         "news_talk",
         "easy_listening",
         "schlager_polka"
-       ]
+       ],
+       "rb": "9608b51d-0601-11e8-ae97-52543be04c81",
+       "logo": "https://upload.wikimedia.org/wikipedia/commons/6/63/Antenne_Logo.svg"
       },
       {
        "name": "Antenne Kärnten Radio",
@@ -7148,7 +7301,9 @@
         "easy_listening",
         "various_eclectic",
         "world"
-       ]
+       ],
+       "rb": "9608a2aa-0601-11e8-ae97-52543be04c81",
+       "logo": "https://upload.wikimedia.org/wikipedia/commons/6/63/Antenne_Logo.svg"
       },
       {
        "name": "Antenne Steiermark",
@@ -7170,11 +7325,15 @@
         "easy_listening",
         "news_talk",
         "rock"
-       ]
+       ],
+       "rb": "964de70e-0601-11e8-ae97-52543be04c81",
+       "logo": "https://www.antenne.at/favicon.ico"
       },
       {
        "name": "Antenne Tirol",
-       "url": "http://frontend.streamonkey.net/anttirol-live"
+       "url": "http://frontend.streamonkey.net/anttirol-live",
+       "rb": "f8b28bfe-88a3-4e88-8ced-65a06825b48f",
+       "logo": "https://www.antennetirol.at/apple-touch-icon.png"
       },
       {
        "name": "Antenne Tirol",
@@ -7212,7 +7371,9 @@
         "pop_hits",
         "decade_2000s"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "cf49fc02-51c5-4bb2-8bb3-c1f292f60603",
+       "logo": "https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png"
       },
       {
        "name": "ANTENNE VORARLBERG 2000er Hits",
@@ -7225,7 +7386,9 @@
         "pop_hits",
         "decade_2000s"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "a233f7a4-3a5b-41db-a659-dcbe5b0d6de2",
+       "logo": "https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png"
       },
       {
        "name": "ANTENNE VORARLBERG 2010er Hits",
@@ -7244,7 +7407,8 @@
       {
        "name": "Antenne Vorarlberg Coffee Hits",
        "url": "https://web.radio.antennevorarlberg.at/av-coffee",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "84c68a22-584c-453e-8ce5-58589be48f43"
       },
       {
        "name": "Antenne Vorarlberg Coffee Hits",
@@ -7384,7 +7548,9 @@
       {
        "name": "Antenne Vorarlberg TOP40",
        "url": "https://web.radio.antennevorarlberg.at/av-top40",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "75a2959e-7821-4b8f-8c6f-70a745ab5485",
+       "logo": "https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png"
       },
       {
        "name": "Antenne Vorarlberg Workout Hits",
@@ -7413,7 +7579,9 @@
        "tags": [
         "pop_hits",
         "rock"
-       ]
+       ],
+       "rb": "37f9aec0-333a-46e1-818e-6458a7115a13",
+       "logo": "https://antenneoesterreich.oe24.at/apple-touch-icon.png"
       },
       {
        "name": "antennefm",
@@ -7423,12 +7591,15 @@
       {
        "name": "antennevorarlberg coffee",
        "url": "http://web.radio.antennevorarlberg.at/av-coffee/stream/mp3?aggregator=icecastdirectory",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "389dd925-6b9b-4780-a55b-460319d5557d"
       },
       {
        "name": "Arabella Austropop",
        "url": "https://static.arabella.at/streamadressen/arabella-austropop.m3u",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "bbd3a015-9cff-4afb-8aed-b011555a4538",
+       "logo": "https://arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png"
       },
       {
        "name": "Arabella Austropop",
@@ -7470,7 +7641,9 @@
       {
        "name": "Arabella schlager",
        "url": "https://static.arabella.at/streamadressen/arabella-schlager.m3u?n=85753fad439a24d5072d",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "6713f4b0-3056-4679-a112-4455d7fd2c6f",
+       "logo": "https://arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png"
       },
       {
        "name": "Arabella Ti Amo",
@@ -7689,7 +7862,9 @@
       },
       {
        "name": "Energy-NRJ Innsbruck",
-       "url": "http://stream1.energy.at:8000/ibk"
+       "url": "http://stream1.energy.at:8000/ibk",
+       "rb": "96087c49-0601-11e8-ae97-52543be04c81",
+       "logo": "https://media.metacast.eu/pictures/10_2015/OdriLYWpbHJqKDAcGCMv-7384.png"
       },
       {
        "name": "Energy-NRJ Wien",
@@ -7729,7 +7904,8 @@
         "classical",
         "decade_80s",
         "decade_90s"
-       ]
+       ],
+       "rb": "e723f7f8-0db1-4bc5-a64c-64d8377f9f9a"
       },
       {
        "name": "Hitradio Ö3",
@@ -7774,7 +7950,9 @@
       {
        "name": "Jö.Live",
        "url": "https://live.stream.maxfive.com/max5-joelive?n=f8f23fd40586703eb9c4",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "3b320e2d-c043-4cc5-85c4-5b9772fe7dc0",
+       "logo": "https://www.joe-club.at/"
       },
       {
        "name": "Karo Graz laut.fm",
@@ -7831,7 +8009,9 @@
        "tags": [
         "pop_hits",
         "easy_listening"
-       ]
+       ],
+       "rb": "9647d94c-0601-11e8-ae97-52543be04c81",
+       "logo": "http://www.kronehit.at/static/base/img/apple-touch-icon.f5c3420c154b.png"
       },
       {
        "name": "Kronehit ACC 24",
@@ -7878,7 +8058,9 @@
       },
       {
        "name": "KroneHit Digital",
-       "url": "http://onair-ha1.krone.at/kronehit1058.mp3"
+       "url": "http://onair-ha1.krone.at/kronehit1058.mp3",
+       "rb": "96061367-0601-11e8-ae97-52543be04c81",
+       "logo": "http://www.kronehit.at/static/base/img/apple-touch-icon.f5c3420c154b.png"
       },
       {
        "name": "Kronehit Digital Radio",
@@ -7921,7 +8103,9 @@
        "tags": [
         "pop_hits",
         "rock"
-       ]
+       ],
+       "rb": "7c466fb2-f4fe-4ad9-87f8-e432cc05765b",
+       "logo": "https://www.kronehit.at/apple-touch-icon.png?v1"
       },
       {
        "name": "KRONEHIT Spring Break",
@@ -8019,7 +8203,8 @@
         "rock",
         "soul_rnb_funk",
         "easy_listening"
-       ]
+       ],
+       "rb": "96060101-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Life Radio",
@@ -8038,7 +8223,8 @@
         "pop_hits",
         "decade_90s",
         "oldies"
-       ]
+       ],
+       "rb": "7bc269ae-4509-11ea-a860-52543be04c81"
       },
       {
        "name": "Life Radio Austro Hits",
@@ -8263,7 +8449,8 @@
       },
       {
        "name": "Proton - Das freie Radio",
-       "url": "https://radioproton.at:8443/proton"
+       "url": "https://radioproton.at:8443/proton",
+       "rb": "b2507729-0609-41bc-aaad-3ba827fb4564"
       },
       {
        "name": "Q Radio",
@@ -8549,7 +8736,8 @@
         "pop_hits",
         "disco_eurodance",
         "news_talk"
-       ]
+       ],
+       "rb": "963e6f29-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Radio Kronehit - Interactive",
@@ -8590,7 +8778,8 @@
         "easy_listening",
         "electronic",
         "oldies"
-       ]
+       ],
+       "rb": "9608d9a7-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Radio PL1",
@@ -8613,7 +8802,8 @@
       },
       {
        "name": "Radio Studio Enns",
-       "url": "https://server4.streamserver24.com:61414/"
+       "url": "https://server4.streamserver24.com:61414/",
+       "rb": "48d9b2d6-5012-4525-9581-e19fa476a7a8"
       },
       {
        "name": "Radio Summer radio",
@@ -8967,7 +9157,9 @@
         "news_talk",
         "rock",
         "electronic"
-       ]
+       ],
+       "rb": "dd96c7fe-1d60-4a87-8d25-525f0138a0e5",
+       "logo": "https://welle1.at/wp-content/uploads/2020/06/radiopro_theme_icon_1080x1080_2020.png"
       },
       {
        "name": "Welle 1 Graz",
@@ -9005,7 +9197,9 @@
         "pop_hits",
         "decade_90s",
         "various_eclectic"
-       ]
+       ],
+       "rb": "56a488fa-4542-4611-bac9-ab06b9b1ce2f",
+       "logo": "https://welle1.at/wp-content/uploads/2020/06/cropped-radiopro_theme_icon_1080x1080_2020-180x180.png"
       },
       {
        "name": "WELLE 1 music radio DAB+ Österreich PREMIUM 256k stereo",
@@ -9030,7 +9224,9 @@
        "tags": [
         "pop_hits",
         "news_talk"
-       ]
+       ],
+       "rb": "4afd638b-9f4d-4a55-b4f1-b53214ae717e",
+       "logo": "https://welle1.at/wp-content/uploads/2020/06/cropped-radiopro_theme_icon_1080x1080_2020-180x180.png"
       },
       {
        "name": "Welle 1 Steiermark",
@@ -9116,7 +9312,8 @@
         "folk",
         "electronic",
         "drum_and_bass"
-       ]
+       ],
+       "rb": "c1ca7ee1-2534-4188-ae4d-be40836b59b0"
       },
       {
        "name": "Mountain Reggae Radio",
@@ -9149,7 +9346,8 @@
        "tags": [
         "rock",
         "electronic"
-       ]
+       ],
+       "rb": "936c9ed3-2932-41e4-877c-39f9e6a4a65c"
       },
       {
        "name": "4400 Ironcity",
@@ -9207,7 +9405,9 @@
         "blues",
         "reggae_ska",
         "punk"
-       ]
+       ],
+       "rb": "d0d9c01c-5e0d-11ea-be63-52543be04c81",
+       "logo": "https://www.radio886.at/img/stream_logos_2024/886_STREAM_ICON_HARDROCK.png"
       },
       {
        "name": "88.6 Hard Rock",
@@ -9534,7 +9734,9 @@
       {
        "name": "ANTENNE VORARLBERG Rock Radio",
        "url": "https://web.radio.antennevorarlberg.at/av-rock",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "c570eead-2f0d-4cca-bfbf-1e4f607497a4",
+       "logo": "https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png"
       },
       {
        "name": "Antenne Vorarlberg Rock Radio",
@@ -9595,7 +9797,8 @@
       {
        "name": "Arabella Rock",
        "url": "https://static.arabella.at/streamadressen/arabella-rock.m3u?n=ff900b4b2f47d3e41cb7",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "850d15db-5b20-4031-982a-2fd774977ef4"
       },
       {
        "name": "Arabella Rock",
@@ -9630,7 +9833,8 @@
         "blues",
         "reggae_ska",
         "punk"
-       ]
+       ],
+       "rb": "7173523c-6c3d-4630-ad85-fd5f168d061d"
       },
       {
        "name": "Austrian Rock Radio",
@@ -9710,7 +9914,8 @@
       },
       {
        "name": "Dark Synth Radio",
-       "url": "http://darksynthradio.stream.laut.fm/darksynthradio?t302=2023-11-20_08-30-31&uuid=c4e07d87-378c-4318-bb0a-00c0fd1be5aa?n=cfe70d32aad2679efba9"
+       "url": "http://darksynthradio.stream.laut.fm/darksynthradio?t302=2023-11-20_08-30-31&uuid=c4e07d87-378c-4318-bb0a-00c0fd1be5aa?n=cfe70d32aad2679efba9",
+       "rb": "a802f568-6b9f-4905-b44a-74db5546c1eb"
       },
       {
        "name": "david das faultier",
@@ -9740,7 +9945,8 @@
         "easy_listening",
         "pop_hits",
         "oldies"
-       ]
+       ],
+       "rb": "06b6da03-0768-41b9-a790-1b1e42f971a8"
       },
       {
        "name": "EasySound.Online radio",
@@ -9980,7 +10186,8 @@
        "tags": [
         "rock",
         "classical"
-       ]
+       ],
+       "rb": "a67edd92-177b-4ec1-9f74-58980fe89a80"
       },
       {
        "name": "Life Radio Classic Rock",
@@ -10002,7 +10209,8 @@
        "tags": [
         "rock",
         "classical"
-       ]
+       ],
+       "rb": "96bf6a72-a682-449e-8522-4411b9764071"
       },
       {
        "name": "Life Radio Home Office",
@@ -10039,7 +10247,9 @@
        "tags": [
         "rock",
         "pop_hits"
-       ]
+       ],
+       "rb": "f394515b-9076-4da2-9a03-7eb96a78bc4f",
+       "logo": "https://liferadio.konsole-labs.com/img/live.png"
       },
       {
        "name": "Lovely Music Radio",
@@ -10084,7 +10294,8 @@
         "rock",
         "alternative_indie",
         "classical"
-       ]
+       ],
+       "rb": "cec4d85b-1758-11e8-ae97-52543be04c81"
       },
       {
        "name": "Macjingle Heartbeat",
@@ -10107,7 +10318,9 @@
         "decade_2000s",
         "oldies"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "a72aa1fe-dd61-41b7-9d9b-88ba2c00ee7f",
+       "logo": "https://assets.laut.fm/010f4e68c56fccab8843527b40d9c83a"
       },
       {
        "name": "Multikulti Radio",
@@ -10221,7 +10434,9 @@
         "world",
         "electronic",
         "college_community"
-       ]
+       ],
+       "rb": "27633383-9bc9-42a7-967d-999d0bfe472b",
+       "logo": "https://o94.at/sites/default/files/styles/large/public/inline-images/photo_2021-09-30_18-38-50.jpg?itok=Mwgd9Rr9"
       },
       {
        "name": "ORF Hitradio Ö3",
@@ -10267,7 +10482,9 @@
         "pop_hits",
         "alternative_indie"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "f8ccc082-8845-4a7f-94e9-dd781047f0c6",
+       "logo": "https://popwelle.at/pimages/popwelle_logo.png"
       },
       {
        "name": "Positive Radio",
@@ -10316,7 +10533,9 @@
        "tags": [
         "rock",
         "classical"
-       ]
+       ],
+       "rb": "9645d9ca-0601-11e8-ae97-52543be04c81",
+       "logo": "https://www.radio886.at/img/stream_logos_2024/886_STREAM_ICON_CLASSICROCK.png"
       },
       {
        "name": "Radio 88.6",
@@ -10348,7 +10567,9 @@
         "pop_hits",
         "rock",
         "house"
-       ]
+       ],
+       "rb": "af1d60c9-5e0d-11ea-be63-52543be04c81",
+       "logo": "https://www.radio886.at/apple-touch-icon.png"
       },
       {
        "name": "Radio 88.6 Classic Rock",
@@ -10379,7 +10600,8 @@
         "rock",
         "news_talk",
         "classical"
-       ]
+       ],
+       "rb": "5cb4b85d-2719-418d-91d8-6dfa2be02329"
       },
       {
        "name": "Radio 886",
@@ -10392,7 +10614,9 @@
       },
       {
        "name": "Radio 886 New Rock",
-       "url": "https://radio886.at/streams/88.6_New_Rock/mp3"
+       "url": "https://radio886.at/streams/88.6_New_Rock/mp3",
+       "rb": "8e5057e7-06f4-451d-862a-4b97be4c38fb",
+       "logo": "https://www.radio886.at/img/stream_logos_2024/886_STREAM_ICON_NEWROCK.png"
       },
       {
        "name": "Radio AGORA 105.5",
@@ -10487,7 +10711,9 @@
         "classical",
         "jazz",
         "electronic"
-       ]
+       ],
+       "rb": "960964cf-0601-11e8-ae97-52543be04c81",
+       "logo": "https://www.freequenns.at/wp-content/uploads/2020/11/fav.png"
       },
       {
        "name": "Radio FREEQUENNS 100.8",
@@ -10533,7 +10759,8 @@
         "soul_rnb_funk",
         "hip_hop_rap",
         "college_community"
-       ]
+       ],
+       "rb": "96072598-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Radio Helsinki",
@@ -10549,7 +10776,9 @@
         "pop_hits",
         "world",
         "hip_hop_rap"
-       ]
+       ],
+       "rb": "e6a7e493-d819-443a-ab67-d1295cbb2f83",
+       "logo": "https://live.helsinki.at/img/helsinki.png"
       },
       {
        "name": "Radio Helsinki",
@@ -10737,7 +10966,9 @@
         "folk",
         "various_eclectic",
         "world"
-       ]
+       ],
+       "rb": "0d92d055-1875-450e-bf06-2d06fbad7278",
+       "logo": "https://info.world4you.com/defaultpage_v2/img/favicon.ico"
       },
       {
        "name": "Radio-Angelnight",
@@ -10800,7 +11031,9 @@
         "rock",
         "alternative_indie",
         "blues"
-       ]
+       ],
+       "rb": "61fd5d72-10f3-4cf0-ac72-91257bb4306c",
+       "logo": "https://assets.laut.fm/e837bb137d5e31a048d55632f3f84394?t=_120x120"
       },
       {
        "name": "RF 1 HIT Listen live",
@@ -10815,7 +11048,8 @@
       },
       {
        "name": "ROCK ANTENNE Österreich",
-       "url": "https://stream.rockantenne.at/rockantenne-oesterreich/stream/mp3?aw_0_1st.playerid=MyTuner"
+       "url": "https://stream.rockantenne.at/rockantenne-oesterreich/stream/mp3?aw_0_1st.playerid=MyTuner",
+       "rb": "a1e1ad0a-82c6-4848-995c-c6d4e5e8c78d"
       },
       {
        "name": "Rock Antenne Österreich",
@@ -10823,7 +11057,8 @@
        "tags": [
         "rock",
         "classical"
-       ]
+       ],
+       "rb": "6707e3d5-8416-11e8-aa66-52543be04c81"
       },
       {
        "name": "Rock FM Österreich",
@@ -10846,7 +11081,9 @@
         "punk",
         "news_talk",
         "folk"
-       ]
+       ],
+       "rb": "9c0d907e-ca3a-41fa-ad4a-98cb9682d160",
+       "logo": "https://assets.laut.fm/4a14090df7d0f20183a5a09a1529acc8?t=_640x640"
       },
       {
        "name": "rocktohell",
@@ -11035,7 +11272,9 @@
        "tags": [
         "rock",
         "metal"
-       ]
+       ],
+       "rb": "1ad9185c-8a51-4e04-9643-b6b1c9d49ace",
+       "logo": "https://radiotechnikum.at/img/icon_rock.png"
       },
       {
        "name": "Technikum Rock",
@@ -11247,7 +11486,9 @@
         "schlager_polka",
         "folk"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "ce8cf95d-b9d5-4edd-8d4b-5276b6d1d3b2",
+       "logo": "https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png"
       },
       {
        "name": "ANTENNE VORARLBERG Schlagerkult",
@@ -11464,7 +11705,8 @@
         "house",
         "chillout_lounge",
         "easy_listening"
-       ]
+       ],
+       "rb": "9d717739-13ea-4eac-a1a4-a30b1448258e"
       },
       {
        "name": "LoungeFM UKW Wien",
@@ -11815,7 +12057,8 @@
         "trance_goa",
         "electronic",
         "ambient_relax"
-       ]
+       ],
+       "rb": "1f62c7ee-e712-48c3-b493-f69a951ac84f"
       },
       {
        "name": "Bluffphonica",
@@ -11823,7 +12066,8 @@
        "tags": [
         "trance_goa",
         "electronic"
-       ]
+       ],
+       "rb": "1f62c7ee-e712-48c3-b493-f69a951ac84f"
       },
       {
        "name": "Crazy Poisons Radio",
@@ -12304,7 +12548,9 @@
       },
       {
        "name": "Antenne Vorarlberg",
-       "url": "https://web.radio.antennevorarlberg.at/av-live?aggregator=Radioplayer"
+       "url": "https://web.radio.antennevorarlberg.at/av-live?aggregator=Radioplayer",
+       "rb": "2e70591f-d42b-4b7b-84f1-62be2871d4a4",
+       "logo": "https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png"
       },
       {
        "name": "Antenne Vorarlberg",
@@ -12403,12 +12649,15 @@
       {
        "name": "Antenne Vorarlberg Lovesongs",
        "url": "https://web.radio.antennevorarlberg.at/av-lovesongs/stream/mp3",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "58a6d4ab-3a77-4969-b361-0bb2f537fba5"
       },
       {
        "name": "Antenne Vorarlberg Musica Italiana",
        "url": "https://web.radio.antennevorarlberg.at/av-italiana",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "ce81296c-e7ac-4290-a2d8-aa961ca4be5c",
+       "logo": "https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png"
       },
       {
        "name": "Antenne Vorarlberg Musica Italiana",
@@ -12421,7 +12670,9 @@
       },
       {
        "name": "Antenne vorarlberg Non Stop",
-       "url": "https://web.radio.antennevorarlberg.at/av-nonstop"
+       "url": "https://web.radio.antennevorarlberg.at/av-nonstop",
+       "rb": "9cb7f80f-aa74-4907-9351-8e65ce3b4c27",
+       "logo": "https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png"
       },
       {
        "name": "Antenne Vorarlberg Nonstop",
@@ -12473,7 +12724,9 @@
       {
        "name": "Arabella 70 r",
        "url": "https://static.arabella.at/streamadressen/arabella-70er.m3u?n=46abb1427834e15adaa2",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "c6f95c04-e9f6-4ed6-b040-3e1a2760b210",
+       "logo": "https://arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png"
       },
       {
        "name": "Arabella 70er",
@@ -12488,7 +12741,9 @@
       {
        "name": "Arabella 80 r",
        "url": "https://static.arabella.at/streamadressen/arabella-80er.m3u?n=385b4e176d015956aafd",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "be47349b-0b60-4f84-bea5-8ff225942ca6",
+       "logo": "https://arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png"
       },
       {
        "name": "Arabella 80er",
@@ -12507,7 +12762,8 @@
       {
        "name": "Arabella 90 er",
        "url": "https://static.arabella.at/streamadressen/arabella-90er.m3u?n=ccc22df61aa464093c74",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "a7ba271d-5f61-48b5-9a97-ea8091666fc1"
       },
       {
        "name": "Arabella 90er",
@@ -12554,7 +12810,8 @@
       {
        "name": "Arabella gold",
        "url": "https://static.arabella.at/streamadressen/arabella-gold.m3u?n=fa3f0860812e19f0367f",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "daa5690c-62e7-4a69-9829-005c501851dd"
       },
       {
        "name": "Arabella Gold",
@@ -12579,7 +12836,9 @@
       {
        "name": "Arabella holiday",
        "url": "https://static.arabella.at/streamadressen/arabella-holiday.m3u?n=bb8bdc0931cfdb1d3a46",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "bf359dd0-b38e-40e1-87da-2b20e29d12a8",
+       "logo": "https://arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png"
       },
       {
        "name": "Arabella Holiday",
@@ -12595,7 +12854,8 @@
       {
        "name": "Arabella hot",
        "url": "https://static.arabella.at/streamadressen/arabella-hot.m3u?n=e2ba008ce41a35aa9324",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "17c43529-5a23-4e4d-a127-fbd95fc6e741"
       },
       {
        "name": "Arabella Hot",
@@ -12610,7 +12870,8 @@
       {
        "name": "Arabella Lovesongs",
        "url": "https://static.arabella.at/streamadressen/arabella-lovesongs.m3u?n=29318db56b560020d724",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "9f09ca2a-4af4-417d-8545-f74d5dd16eea"
       },
       {
        "name": "Arabella Lovesongs",
@@ -12689,12 +12950,16 @@
       {
        "name": "Arabella Tiamo",
        "url": "https://static.arabella.at/streamadressen/arabella-tiamo.m3u?n=6587cfdcfcff0a6ff405",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "3016af1c-a844-4ad1-9eb0-1a9ec4dcc1bd",
+       "logo": "https://arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png"
       },
       {
        "name": "Arabella wien",
        "url": "https://static.arabella.at/streamadressen/arabella-wien.m3u?n=4bec277f6f63e54797f4",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "61866d6c-3fea-41d5-9117-db98c86050b1",
+       "logo": "https://arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png"
       },
       {
        "name": "Arabella Wiener Schmaeh",
@@ -12728,7 +12993,8 @@
       {
        "name": "Austria-Kult-Radio",
        "url": "http://stream.laut.fm/austria-kultradio.m3u",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "34e5820b-dc65-4f9f-9cd3-0a9056b31202"
       },
       {
        "name": "AustrianPub-Radio",
@@ -13161,7 +13427,9 @@
       {
        "name": "Hitradio Ö3 - Österreich",
        "url": "https://ors-sn03.ors-shoutcast.at/oe3-q1a",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "63bb901a-e09a-478b-9c5e-b7f6a1f9efc4",
+       "logo": "https://tubestatic.orf.at/mojo/1_3/storyserver//tube/common/images/apple-icons/oe3.png"
       },
       {
        "name": "Hos Radyo Slow",
@@ -13329,7 +13597,9 @@
       },
       {
        "name": "Kronehit TV",
-       "url": "https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8"
+       "url": "https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8",
+       "rb": "c21c6fe6-4ac0-11e8-9b06-52543be04c81",
+       "logo": "https://www.kronehit.at///apple-touch-icon.png"
       },
       {
        "name": "KroneHit Valentine",
@@ -13338,7 +13608,8 @@
       {
        "name": "kronehit Vollgas",
        "url": "https://eu4.fastcast4u.com/proxy/svidakov?mp=/1",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "3a8f1066-ec13-470b-a101-756b148c0f92"
       },
       {
        "name": "Kronehit woman vibes",
@@ -13577,7 +13848,9 @@
       },
       {
        "name": "Museumsradio AM 1476",
-       "url": "https://museum.streamserver24.com:8080/stream"
+       "url": "https://museum.streamserver24.com:8080/stream",
+       "rb": "5d827214-1bd1-41ec-82f6-fea2ce2fa497",
+       "logo": "https://www.plattenkiste.radio/index_htm_files/70.jpg"
       },
       {
        "name": "Music Streaming",
@@ -13646,7 +13919,8 @@
       },
       {
        "name": "oe1 surround",
-       "url": "https://oe1dd.mdn.ors.at/out/u/oe1dd/manifest.m3u8"
+       "url": "https://oe1dd.mdn.ors.at/out/u/oe1dd/manifest.m3u8",
+       "rb": "31762732-8711-4279-98ad-95dd2184cf88"
       },
       {
        "name": "oe1-bulletin",
@@ -13936,38 +14210,50 @@
       {
        "name": "Radio Arabella - 80er",
        "url": "https://frontend.streams.arabella.at/arabella-80er?aggregator=arabella-playlistfile",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "be47349b-0b60-4f84-bea5-8ff225942ca6",
+       "logo": "https://arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png"
       },
       {
        "name": "Radio Arabella - 90er",
        "url": "https://frontend.streams.arabella.at/arabella-90er?aggregator=arabella-playlistfile",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "a7ba271d-5f61-48b5-9a97-ea8091666fc1"
       },
       {
        "name": "Radio Arabella - Austropop",
        "url": "https://frontend.streams.arabella.at/arabella-austropop/stream/mp3?aggregator=arabella-playlistfile",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "bbd3a015-9cff-4afb-8aed-b011555a4538",
+       "logo": "https://arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png"
       },
       {
        "name": "Radio Arabella - Golden Oldies",
        "url": "https://frontend.streams.arabella.at/arabella-goldenoldies/stream/mp3?aggregator=arabella-playlistfile",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "2ce5de5b-01c0-4359-91d7-891f7c0d6bcc",
+       "logo": "https://arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png"
       },
       {
        "name": "Radio Arabella - Holiday",
        "url": "https://frontend.streams.arabella.at/arabella-holiday/stream/mp3?aggregator=arabella-playlistfile",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "bf359dd0-b38e-40e1-87da-2b20e29d12a8",
+       "logo": "https://arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png"
       },
       {
        "name": "Radio Arabella - Lovesongs",
        "url": "https://frontend.streams.arabella.at/arabella-lovesongs/stream/mp3?aggregator=arabella-playlistfile",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "9f09ca2a-4af4-417d-8545-f74d5dd16eea"
       },
       {
        "name": "Radio Arabella - Niederösterreich",
        "url": "http://frontend.streams.arabella.at/arabella-niederoesterreich/stream/mp3?aggregator=arabella-playlistfile",
        "country_inferred": true,
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "927e67bd-d0b4-4407-aebf-8bb175505ee0",
+       "logo": "https://www.arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png"
       },
       {
        "name": "Radio Arabella - Niederösterreich",
@@ -13982,12 +14268,16 @@
       {
        "name": "Radio Arabella - Schlager",
        "url": "https://frontend.streams.arabella.at/arabella-schlager/stream/mp3?aggregator=arabella-playlistfile",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "6713f4b0-3056-4679-a112-4455d7fd2c6f",
+       "logo": "https://arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png"
       },
       {
        "name": "Radio Arabella - Wien 92.9 MHz",
        "url": "https://frontend.streams.arabella.at/arabella-wien?aggregator=arabella-playlistfile",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "30c775f9-e627-4e5e-b77b-24352544dcfd",
+       "logo": "https://frontend.streams.arabella.at/arabella-wien?aggregator=arabella-playlistfile"
       },
       {
        "name": "Radio Arabella Lovesongs",
@@ -14012,17 +14302,21 @@
       {
        "name": "Radio Arabella-Gold - Österreich",
        "url": "https://frontend.streams.arabella.at/arabella-gold/stream/mp3?aggregator=arabella-playlistfile",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "daa5690c-62e7-4a69-9829-005c501851dd"
       },
       {
        "name": "Radio Arabella-Hot - Österreich",
        "url": "https://frontend.streams.arabella.at/arabella-hot/stream/mp3?aggregator=arabella-playlistfile",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "17c43529-5a23-4e4d-a127-fbd95fc6e741"
       },
       {
        "name": "Radio Arabella-Relax - Österreich",
        "url": "https://frontend.streams.arabella.at/arabella-relax?aggregator=arabella-playlistfile",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "649018d6-9239-4f28-9f9a-ae3f1732379f",
+       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7GNifevkmpegEQspaFGFI-sV6_k3ZQczflw&usqp=CAU"
       },
       {
        "name": "RADIO AT NENAD",
@@ -14115,7 +14409,9 @@
       {
        "name": "Radio GÖD – Vienna – AT",
        "url": "https://radiogoed.securestream.kapper.net/stream",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "4f1fb5fa-8a10-4d72-b247-21d831272373",
+       "logo": "https://www.goed.at/favicon/apple-icon-72x72.png"
       },
       {
        "name": "Radio Habibi",
@@ -14156,7 +14452,8 @@
       },
       {
        "name": "Radio MORA - HQ",
-       "url": "http://server4.streamserver24.com:26253/stream?n=711196c7a17110b55c56"
+       "url": "http://server4.streamserver24.com:26253/stream?n=711196c7a17110b55c56",
+       "rb": "5fa9bbe3-c36a-4c72-8f6b-2a152d93b605"
       },
       {
        "name": "Radio Niederösterreich - Österreich",
@@ -14268,7 +14565,9 @@
       },
       {
        "name": "Radio U1 Tirol",
-       "url": "https://live.u1-radio.at/"
+       "url": "https://live.u1-radio.at/",
+       "rb": "c64828ba-99b9-407b-bb7f-3f1c184447d2",
+       "logo": "https://u1-radio.at/wp-content/uploads/2022/03/u1_favicon512x512-150x150.png"
       },
       {
        "name": "Radio U1 Tirol",
@@ -14395,7 +14694,9 @@
       {
        "name": "Radiofabrik",
        "url": "https://radiofabrik.at/rafab_stream_low.m3u",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "a2d33e69-b9c6-11e9-acb2-52543be04c81",
+       "logo": "https://radiofabrik.at/favicon.ico"
       },
       {
        "name": "radiofrka",
@@ -14459,16 +14760,22 @@
       {
        "name": "Replayscape 64",
        "url": "http://radio.replayscape.com:8064/listen.pls?n=563a86552e2c1b8094b8",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "dbd87fa6-def3-4d64-81dc-77a30609b49f",
+       "logo": "https://replayscape.com/pix/logo/171206a_simpler_full_0of12_zoom_tiny_blue.jpg"
       },
       {
        "name": "Replayscape 96",
        "url": "http://radio.replayscape.com:8096/listen.pls?n=689350243490e92cbefe",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "67e0ad0a-b3b4-4385-b5df-f0c61fe72b11",
+       "logo": "https://replayscape.com/pix/logo/171206a_simpler_full_0of12_zoom_tiny_blue.jpg"
       },
       {
        "name": "RES.RADIO",
-       "url": "https://edge.mixlr.com/channel/zwtuo"
+       "url": "https://edge.mixlr.com/channel/zwtuo",
+       "rb": "ba98cdae-5402-4234-bbdd-ad043324dd69",
+       "logo": "https://res.radio/android-chrome-192x192.png"
       },
       {
        "name": "Rexan3d",
@@ -14483,7 +14790,8 @@
       {
        "name": "Rock Antenne Österreich AAC",
        "url": "https://stream.rockantenne.at/rockantenne-oesterreich/stream/aacp?n=fec976bb8c203e5dce76",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "9169bc9b-cfca-45c1-bc06-c1ad826a3245"
       },
       {
        "name": "Rodrigo",
@@ -14789,7 +15097,9 @@
       {
        "name": "Welle 1 Salzburg",
        "url": "https://live.welle1.at:18256/stream",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "5e5cebe4-3558-4f05-b460-00866ae7bcf7",
+       "logo": "https://welle1.at/wp-content/uploads/2020/06/cropped-radiopro_theme_icon_1080x1080_2020-180x180.png"
       },
       {
        "name": "WELLE FM",
@@ -14853,7 +15163,8 @@
       {
        "name": "ÖsterreichRadio",
        "url": "https://laut.fm/oesterreichradio?n=72fd1418bc68bd2d0f76",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "7663b87c-241b-491c-8181-8f0678c583e6"
       },
       {
        "name": "اغاني عربية لايف ريمكس",
@@ -14931,7 +15242,8 @@
        "tags": [
         "oldies",
         "country"
-       ]
+       ],
+       "rb": "2cfa421b-b335-4c19-8a2f-920ac7bbb94b"
       }
      ]
     },
@@ -14962,7 +15274,8 @@
         "electronic",
         "pop_hits",
         "house"
-       ]
+       ],
+       "rb": "95e84b33-c9a2-4b01-b54c-fdbc36fefacc"
       },
       {
        "name": "darksynthradio",
@@ -15017,7 +15330,9 @@
      "stations": [
       {
        "name": "Radio Xmas",
-       "url": "http://www.radio-xmas.at:443/xmas?1512905036085"
+       "url": "http://www.radio-xmas.at:443/xmas?1512905036085",
+       "rb": "962ee480-0601-11e8-ae97-52543be04c81",
+       "logo": "http://www.radio-xmas.at/assets/img/santa.png"
       }
      ]
     },
@@ -15181,7 +15496,9 @@
         "news_talk",
         "pop_hits",
         "folk"
-       ]
+       ],
+       "rb": "8837db1f-de40-4205-80c1-cc78ca807e84",
+       "logo": "https://emap.fm/images/logo_emap.gif"
       }
      ]
     },
@@ -15207,7 +15524,9 @@
       },
       {
        "name": "Red Bull TV",
-       "url": "http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8"
+       "url": "http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8",
+       "rb": "ce5e3664-f894-11e8-a237-52543be04c81",
+       "logo": "https://img.redbull.com/images/c_scale,w_120/favicons/www.redbull.com/favicon/apple-touch-icon-120.png"
       },
       {
        "name": "Sap Radio",
@@ -15352,7 +15671,8 @@
         "news_talk",
         "pop_hits",
         "folk"
-       ]
+       ],
+       "rb": "9e23a9de-6173-4392-9d0b-8db1ed01f8e1"
       }
      ]
     },
@@ -15507,7 +15827,8 @@
        "tags": [
         "pop_hits",
         "news_talk"
-       ]
+       ],
+       "rb": "96348c58-0601-11e8-ae97-52543be04c81"
       }
      ]
     },
@@ -15585,7 +15906,9 @@
         "pop_hits",
         "decade_90s",
         "various_eclectic"
-       ]
+       ],
+       "rb": "b14fc2bb-f608-41f7-b343-4445b95d17d7",
+       "logo": "https://rtvunirea.com/wp-content/uploads/2020/06/png.png"
       }
      ]
     }
@@ -15744,7 +16067,8 @@
      "stations": [
       {
        "name": "Schwendermarkt",
-       "url": "https://laut.fm/schwendermarkt"
+       "url": "https://laut.fm/schwendermarkt",
+       "rb": "3131770d-9a32-4c8e-ae6b-8b7945b34b08"
       }
      ]
     },

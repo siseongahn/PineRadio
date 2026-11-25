@@ -105,7 +105,8 @@
         "news_talk",
         "pop_hits",
         "sports"
-       ]
+       ],
+       "rb": "18d9b902-3d2b-442a-8287-752fa3923340"
       },
       {
        "name": "SBC Paradise FM",
@@ -130,7 +131,8 @@
       },
       {
        "name": "SBC – Radyo Sesel",
-       "url": "https://streaming.fabrik.fm/radyo-sesel/echocast/audio/index.m3u8"
+       "url": "https://streaming.fabrik.fm/radyo-sesel/echocast/audio/index.m3u8",
+       "rb": "d5fa49c4-a20e-4ce3-a675-ea0f670a6ab6"
       }
      ]
     },
@@ -232,7 +234,9 @@
         "techno",
         "rock"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "a8cc9fe8-0267-410a-a170-962740060f69",
+       "logo": "https://i0.wp.com/iskcrocks.com/wp-content/uploads/2014/10/cropped-Baloon720.jpg?fit=192%2C192&ssl=1"
       }
      ]
     },
@@ -304,7 +308,9 @@
       {
        "name": "ISKC Radio Group - ISKC Blues Cafe",
        "url": "http://mediaserv68.live-streams.nl:8012/BluesCafe",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "c0fa9f19-e5f9-4502-99b3-e33f577cea18",
+       "logo": "https://i0.wp.com/iskcrocks.com/wp-content/uploads/2019/09/blues-cafe-740.jpg?w=720&ssl=1"
       }
      ]
     },
@@ -324,12 +330,15 @@
       {
        "name": "ISKC Radio Group - ISKC Extreme Metal",
        "url": "http://mediaserv68.live-streams.nl:8012/ExtremeMetal",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "6a1a6571-b1d4-4fd9-8cba-9586fda25aae"
       },
       {
        "name": "ItaloRadio.FM – SC",
        "url": "https://panel.beheerstream.com:2199/tunein/italoradiofm.pls",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "a5ecf0e5-a3cb-44d6-9924-1c52986e74a2",
+       "logo": "https://italoradio.fm/wp-content/uploads/2018/02/FBHEADIMAGE-ITALORADIO.jpg"
       },
       {
        "name": "Pure907 Seychelles",
@@ -385,7 +394,9 @@
         "pop_hits",
         "decade_70s",
         "decade_90s"
-       ]
+       ],
+       "rb": "f9b9cc4a-2b08-4209-944d-62155466ce23",
+       "logo": "https://radio078.fm/favicon.ico"
       }
      ]
     },
@@ -402,7 +413,8 @@
        "tags": [
         "rock",
         "alternative_indie"
-       ]
+       ],
+       "rb": "fdd01de3-7be7-4c36-85d4-d161e80aec36"
       }
      ]
     },
@@ -411,7 +423,9 @@
      "stations": [
       {
        "name": "ISKC RadioActive",
-       "url": "http://mediaserv68.live-streams.nl:8012/RadioActive"
+       "url": "http://mediaserv68.live-streams.nl:8012/RadioActive",
+       "rb": "5264a988-3c26-4f7d-9ca4-c6d906878383",
+       "logo": "https://i0.wp.com/iskcrocks.com/wp-content/uploads/2014/10/cropped-Baloon720.jpg?fit=192%2C192&ssl=1"
       }
      ]
     }

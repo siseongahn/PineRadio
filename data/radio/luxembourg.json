@@ -104,7 +104,8 @@
         "alternative_indie"
        ],
        "country_inferred": true,
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "b2989e82-db94-455a-babb-5d28d74c547a"
       }
      ]
     },
@@ -132,7 +133,8 @@
         "chillout_lounge",
         "ambient_relax"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "f5e8a89f-4016-4f5f-baca-aeb74aad668a"
       },
       {
        "name": "Eldoradio",
@@ -145,7 +147,8 @@
         "alternative_indie",
         "oldies",
         "electronic"
-       ]
+       ],
+       "rb": "9611e44f-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Eldoradio - Chill Channel",
@@ -190,7 +193,8 @@
         "easy_listening",
         "jazz"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "0c3bfd01-5eb0-44d8-a8b8-1ef2c1909db4"
       },
       {
        "name": "Free Radio Luxembourg FRL",
@@ -205,7 +209,8 @@
         "disco_eurodance",
         "kids",
         "decade_60s"
-       ]
+       ],
+       "rb": "971f6221-4fee-11e9-a4d7-52543be04c81"
       },
       {
        "name": "Jam Pro Jazz",
@@ -522,7 +527,9 @@
        "tags": [
         "easy_listening",
         "folk"
-       ]
+       ],
+       "rb": "80f07344-504e-48dd-8775-ab60c4a82068",
+       "logo": "https://100komma7.lu/static/logo-radio.png"
       },
       {
        "name": "Radio Puls Luxembourg",
@@ -603,7 +610,9 @@
         "electronic",
         "jazz"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "98cbddf8-51df-4bb4-8375-200c4eea618b",
+       "logo": "https://groovetime.lu/favicon.ico"
       },
       {
        "name": "radio 100,7",
@@ -626,7 +635,9 @@
         "jazz",
         "pop_hits"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "8259a0dc-9c0e-4696-8f66-4bad021f0c55",
+       "logo": "https://www.rtl.lu/components/images/5e0dff17b0d8bf7fda79103a20b011b7-logo_rtl-gold.svg"
       }
      ]
     },
@@ -685,7 +696,8 @@
         "various_eclectic",
         "rock",
         "blues"
-       ]
+       ],
+       "rb": "a718c8b6-6f90-4a6d-bba4-dc89cb4aebb7"
       },
       {
        "name": "Radio 100,7",
@@ -702,7 +714,8 @@
        "tags": [
         "news_talk",
         "classical"
-       ]
+       ],
+       "rb": "03657684-576c-4a47-aa13-43cf6831b5c2"
       },
       {
        "name": "Radio Aktiv",
@@ -756,7 +769,9 @@
        "tags": [
         "news_talk",
         "pop_hits"
-       ]
+       ],
+       "rb": "960ef824-0601-11e8-ae97-52543be04c81",
+       "logo": "http://www.rtl.lu/assets/images/favicon-rtllu/apple-touch-icon.png?v=202304271020"
       },
       {
        "name": "RTL Radio Letzebuerg 92.5 FM",
@@ -1167,7 +1182,8 @@
         "news_talk",
         "world",
         "various_eclectic"
-       ]
+       ],
+       "rb": "14ef7efc-5537-439e-8155-c11cc2ef8154"
       },
       {
        "name": "Radio LRB",
@@ -1684,16 +1700,21 @@
       {
        "name": "RTL Radio - Deutschlands Hit-Radio",
        "url": "http://stream.rtlradio.de/rtl-de-national/mp3-192/",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "5b6389ab-de2c-11e9-a8ba-52543be04c81",
+       "logo": "https://www.rtlradio.de/assets/icons/icon-167x167.png"
       },
       {
        "name": "RTL Radio Lëtzebuerg",
-       "url": "https://live-edge.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8"
+       "url": "https://live-edge.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8",
+       "rb": "6a893f37-f749-11e9-bbf2-52543be04c81",
+       "logo": "http://www.rtl.lu//assets/images/favicon-rtl/favicon.ico"
       },
       {
        "name": "RTL Schlagerliebe",
        "url": "http://stream.rtlradio.de/schlagerliebe/mp3-192/",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "5a59510c-29a7-44c4-902a-9805817f9a92"
       },
       {
        "name": "RTL Today Radio – Luxembourg – LU",
@@ -1936,11 +1957,13 @@
      "stations": [
       {
        "name": "RTL Die besten Hits aller Zeiten",
-       "url": "http://stream.rtlradio.de/rtl-de-beste-hits/aac-64"
+       "url": "http://stream.rtlradio.de/rtl-de-beste-hits/aac-64",
+       "rb": "5fdc15c7-8c66-11e8-aa66-52543be04c81"
       },
       {
        "name": "RTL Radio - Die besten Hits aller Zeiten",
-       "url": "https://stream.rtlradio.de/rtl-de-beste-hits/mp3-192/"
+       "url": "https://stream.rtlradio.de/rtl-de-beste-hits/mp3-192/",
+       "rb": "8e9c7156-0d0e-4af1-8d73-0c804c728d15"
       }
      ]
     }
@@ -1978,7 +2001,8 @@
         "news_talk",
         "pop_hits",
         "folk"
-       ]
+       ],
+       "rb": "9bb6d671-b442-4fd5-96f5-6209619e76f1"
       }
      ]
     },
@@ -2125,7 +2149,9 @@
         "techno",
         "trance_goa",
         "disco_eurodance"
-       ]
+       ],
+       "rb": "8ab1a2c2-8322-4453-bbec-d38eda48fc64",
+       "logo": "https://generation.dance/logo_500x500.png"
       },
       {
        "name": "Generation Dance Radio (64 Kbps)",
@@ -2159,7 +2185,9 @@
         "easy_listening",
         "jpop_kpop_asia",
         "rock"
-       ]
+       ],
+       "rb": "e6839413-9a70-45b1-927e-6f8f54887b44",
+       "logo": "https://generation.dance/logo_500x500.png"
       }
      ]
     },
@@ -2202,7 +2230,9 @@
         "latin",
         "house",
         "news_talk"
-       ]
+       ],
+       "rb": "133a4c16-f338-11e9-a96c-52543be04c81",
+       "logo": "http://lessentielradio.lu/upload/602fd5fe8a8987.60975527.ico"
       },
       {
        "name": "Radio Dudelange",

@@ -82,7 +82,8 @@
         "news_talk",
         "world",
         "decade_90s"
-       ]
+       ],
+       "rb": "329577b0-b2ed-4191-bab7-a44dd1d790c0"
       },
       {
        "name": "Radio X - Alternative X",
@@ -147,7 +148,8 @@
         "alternative_indie",
         "rock",
         "news_talk"
-       ]
+       ],
+       "rb": "f98d1243-c62c-4726-ae79-ab728182b098"
       },
       {
        "name": "TheEnd",
@@ -227,11 +229,13 @@
         "pop_hits",
         "news_talk",
         "world"
-       ]
+       ],
+       "rb": "45efb51c-b6a3-401e-971f-44e1c4d6005b"
       },
       {
        "name": "RADIO BIBLIA SK",
-       "url": "http://radiobiblia.online:8000/stream.ogg"
+       "url": "http://radiobiblia.online:8000/stream.ogg",
+       "rb": "cc554325-6f22-43d8-a08a-338329d4382d"
       },
       {
        "name": "Radio Lumen",
@@ -240,7 +244,9 @@
         "christian_gospel",
         "kids",
         "news_talk"
-       ]
+       ],
+       "rb": "963a8583-0601-11e8-ae97-52543be04c81",
+       "logo": "https://www.lumen.sk/public/img/favicons/apple-icon-120x120.png"
       },
       {
        "name": "Radio Lumen",
@@ -268,7 +274,8 @@
        "tags": [
         "christian_gospel",
         "kids"
-       ]
+       ],
+       "rb": "2eed477d-5f84-4d7f-b126-f9b8a1631bcc"
       },
       {
        "name": "Rádio Logos radio",
@@ -318,7 +325,9 @@
       },
       {
        "name": "Rádio Mária Slovensko",
-       "url": "https://dreamsiteradiocp5.com/proxy/radiomariaslomp3?mp=/stream.mp3"
+       "url": "https://dreamsiteradiocp5.com/proxy/radiomariaslomp3?mp=/stream.mp3",
+       "rb": "d05ad985-7193-4de8-80ca-225052e6b1d6",
+       "logo": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.430SifHOiQrgPJT5x7bVkwHaCK%26pid%3DApi&f=1&ipt=bc089d517a31dcf260ec12eaa1e9808783150eb69c62a757ac3b4ed4b07a2aaf&ipo=images"
       },
       {
        "name": "Rádio Mária Slovensko Radio",
@@ -337,7 +346,8 @@
       {
        "name": "Duflo Radio",
        "url": "http://stream.zeno.fm/kxwhyvz2fm0uv",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "7197943c-8feb-47a0-b76e-aa3e46160c98"
       },
       {
        "name": "Radio Devin",
@@ -352,7 +362,8 @@
       {
        "name": "Repete",
        "url": "http://stream.rusyn.fm/rusyny-low.mp3",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "ab1e278e-2490-468f-a12c-ba837f61461c"
       },
       {
        "name": "RTVS R Devin",
@@ -362,7 +373,8 @@
         "classical",
         "various_eclectic",
         "hip_hop_rap"
-       ]
+       ],
+       "rb": "80b0faee-f8dd-4237-93a0-7068fc50609f"
       },
       {
        "name": "RTVS R Klasika",
@@ -411,7 +423,8 @@
        "tags": [
         "classical",
         "rock"
-       ]
+       ],
+       "rb": "07948109-21d6-4646-ba28-c35467973895"
       },
       {
        "name": "Rádio Pyramída",
@@ -423,7 +436,9 @@
         "folk",
         "news_talk",
         "various_eclectic"
-       ]
+       ],
+       "rb": "fa0d1cc7-d162-41a3-9192-6742ad04a401",
+       "logo": "https://i.ibb.co/Y0sLyvM/radio-pyramida-w.png"
       },
       {
        "name": "SRO Radio Klasika",
@@ -448,7 +463,9 @@
         "folk",
         "rock",
         "world"
-       ]
+       ],
+       "rb": "f69a6077-0486-47b3-928d-3df68e09eb3d",
+       "logo": "https://i.ibb.co/yddHjYL/radio-devin-w.png"
       }
      ]
     },
@@ -574,7 +591,9 @@
         "decade_90s",
         "pop_hits",
         "oldies"
-       ]
+       ],
+       "rb": "6a8becdf-4652-4fe5-b171-b277ba76ed88",
+       "logo": "https://i.imgur.com/uvSpQnj.png"
       },
       {
        "name": "Rádio Kiks Italo-Disco",
@@ -633,7 +652,9 @@
        "tags": [
         "pop_hits",
         "decade_90s"
-       ]
+       ],
+       "rb": "a1382ead-1c26-4ba7-a431-c5e17fb4e577",
+       "logo": "https://www.radiokiks.sk/favicon.ico"
       }
      ]
     },
@@ -788,7 +809,9 @@
       {
        "name": "Rádio Viva Metropol",
        "url": "https://stream.sepia.sk/viva128.mp3",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "4bbf64b0-ab2f-4da7-96bb-0529b1f21331",
+       "logo": "https://radioviva.zoznam.sk/wp-content/themes/invelity/favicon.ico"
       },
       {
        "name": "Rádio Šírava Radio",
@@ -803,7 +826,9 @@
       {
        "name": "897 DANCE Radio",
        "url": "http://c34.radioboss.fm:8106/stream",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "b1b95ad4-306b-4fb8-9ae8-7859634beffe",
+       "logo": "https://07912288e7.clvaw-cdnwnd.com/e113f3229f68b2ec4c7679e66a624900/200000070-8cef18cef3/favicon-7.ico?ph=07912288e7"
       },
       {
        "name": "897 FM Dance",
@@ -853,7 +878,8 @@
         "electronic",
         "pop_hits",
         "disco_eurodance"
-       ]
+       ],
+       "rb": "71d410fa-dedb-4566-ba65-09c42735096b"
       },
       {
        "name": "Fun Radio Dance",
@@ -868,7 +894,8 @@
       {
        "name": "House Radio",
        "url": "http://stream.zeno.fm/qm8e21gta18uv",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "ac94d4a3-b385-45ba-8695-9ab0108556ea"
       },
       {
        "name": "kiks",
@@ -890,7 +917,8 @@
       {
        "name": "Party Mix Radio",
        "url": "http://stream.zeno.fm/rw6ckefezs8uv",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "aa272086-942c-48ec-b20e-2b4319297886"
       },
       {
        "name": "Radio Sity",
@@ -963,7 +991,9 @@
        "tags": [
         "electronic",
         "pop_hits"
-       ]
+       ],
+       "rb": "ffa240ab-e69e-407d-be4c-19500490c22b",
+       "logo": "https://www.subfm.sk/wp-content/uploads/2021/11/cropped-android-chrome-512x512-1-180x180.png"
       },
       {
        "name": "Trnavské rádio",
@@ -1062,7 +1092,9 @@
       },
       {
        "name": "Radio Zabava",
-       "url": "https://stream.zeno.fm/eyac00cx1nhvv"
+       "url": "https://stream.zeno.fm/eyac00cx1nhvv",
+       "rb": "6842fffe-1676-47d7-9a2e-9c859b25af26",
+       "logo": "https://zeno.fm/favicon.ico"
       },
       {
        "name": "Radio Zabava radio",
@@ -1078,7 +1110,9 @@
         "world",
         "pop_hits",
         "various_eclectic"
-       ]
+       ],
+       "rb": "d3ea2946-e400-4c8c-9b7e-6eb5664ae9a0",
+       "logo": "https://www.rusyn.fm/favicon.ico"
       },
       {
        "name": "Rusyn FM Radio",
@@ -1104,7 +1138,9 @@
         "pop_hits",
         "hip_hop_rap",
         "electronic"
-       ]
+       ],
+       "rb": "79bfc948-cc01-4b1e-82f1-1eb1ea4556b7",
+       "logo": "https://www.radioparada.sk/favicon.ico"
       }
      ]
     },
@@ -1142,7 +1178,9 @@
         "ambient_relax",
         "jazz",
         "decade_90s"
-       ]
+       ],
+       "rb": "81b88161-c3f7-4958-8165-7d408d7689db",
+       "logo": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.E65vroGDtTyTMl18lUuGuwHaHa%26pid%3DApi&f=1&ipt=8e1260db0157c0b572b4326122c7511e15bc8c6afb4e0423cd1b9bb620cf57f2&ipo=images"
       },
       {
        "name": "Jazz Spirit",
@@ -1151,7 +1189,9 @@
       },
       {
        "name": "Rádio Jazz",
-       "url": "http://stream.sepia.sk:8000/jazz128.mp3"
+       "url": "http://stream.sepia.sk:8000/jazz128.mp3",
+       "rb": "913b7498-8e2d-420b-8c3b-dbacdf9597c4",
+       "logo": "https://radiojazz.sk/favicon.ico"
       },
       {
        "name": "Rádio Jazz 92.6 FM (Bratislava) Radio",
@@ -1181,11 +1221,14 @@
       {
        "name": "Detské rádio",
        "url": "https://stream.21.sk/detskeradio-128.mp3",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "4d0cef7e-cdb6-4143-9318-50d5205904aa"
       },
       {
        "name": "Detské Rádio",
-       "url": "https://stream.21.sk/detskeradio-192.mp3"
+       "url": "https://stream.21.sk/detskeradio-192.mp3",
+       "rb": "b3db4961-4d2a-460b-89cf-083ad78b3799",
+       "logo": "https://www.detske.radio/favicon-32x32.png"
       },
       {
        "name": "Detské Rádio Radio",
@@ -1221,7 +1264,8 @@
         "rock",
         "metal",
         "alternative_indie"
-       ]
+       ],
+       "rb": "f77411a2-8285-4271-8fa8-178a0792a22c"
       },
       {
        "name": "RADIO Rock SV",
@@ -1258,7 +1302,9 @@
       {
        "name": "FRED FILM RADIO, Bratislava",
        "url": "https://s10.webradio-hosting.com/proxy/fredradiosk/stream/",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "b476dd00-2453-42d2-89bb-ccfb61f28b67",
+       "logo": "https://www.fred.fm/wp-content/uploads/2014/12/Fred-Logo_trasp_-copia.png"
       },
       {
        "name": "Info Vojna radio",
@@ -1337,7 +1383,8 @@
        "tags": [
         "various_eclectic",
         "news_talk"
-       ]
+       ],
+       "rb": "a4e5e434-61e3-11e8-b15b-52543be04c81"
       },
       {
        "name": "Radio Plus 105.9 FM",
@@ -1367,11 +1414,14 @@
         "pop_hits",
         "world",
         "rock"
-       ]
+       ],
+       "rb": "c1d05d02-4974-419c-a9cb-030d9739a052",
+       "logo": "https://i.ibb.co/4jyQ9sj/radio-rsi-w.png"
       },
       {
        "name": "Radio Slovensko",
-       "url": "http://live.slovakradio.sk:8000/Slovensko_256.mp3"
+       "url": "http://live.slovakradio.sk:8000/Slovensko_256.mp3",
+       "rb": "b45002ed-3692-11e9-9b4e-52543be04c81"
       },
       {
        "name": "Radio Tatras International",
@@ -1448,7 +1498,8 @@
         "pop_hits",
         "easy_listening",
         "classical"
-       ]
+       ],
+       "rb": "90ad59d7-68b5-4a49-addd-9498843da6f2"
       },
       {
        "name": "RTVS Rádio Slovensko Radio",
@@ -1484,7 +1535,8 @@
         "news_talk",
         "rock",
         "pop_hits"
-       ]
+       ],
+       "rb": "34299afa-0e57-434b-ab0c-b36bfeaa0490"
       },
       {
        "name": "Rádio Litera",
@@ -1493,7 +1545,9 @@
         "news_talk",
         "pop_hits",
         "classical"
-       ]
+       ],
+       "rb": "9085bd94-5e3d-4d15-a223-0588c235e11e",
+       "logo": "https://i.ibb.co/68qvmxY/radio-litera-w.png"
       },
       {
        "name": "Rádio Melody",
@@ -1503,7 +1557,9 @@
         "news_talk",
         "easy_listening",
         "classical"
-       ]
+       ],
+       "rb": "dfb09fd4-9844-46ef-8905-906e6b1e62eb",
+       "logo": "https://www.radiomelody.sk/wp-content/themes/melody/assets/logo.svg"
       },
       {
        "name": "Rádio Modra",
@@ -1526,7 +1582,8 @@
         "folk",
         "techno",
         "decade_90s"
-       ]
+       ],
+       "rb": "0ab0056c-6b80-11ea-b1cf-52543be04c81"
       },
       {
        "name": "Rádio Pieštany",
@@ -1570,7 +1627,9 @@
         "world",
         "pop_hits",
         "decade_80s"
-       ]
+       ],
+       "rb": "1592f35d-74f8-4ed1-a2bf-ad2df2f4e50d",
+       "logo": "https://i.ibb.co/JcBjSsG/radio-regina-zapad-w.png"
       },
       {
        "name": "Rádio Slovensko",
@@ -1605,7 +1664,8 @@
         "easy_listening",
         "oldies",
         "latin"
-       ]
+       ],
+       "rb": "9fdb8374-aba2-4ecf-91e8-460c4761af7c"
       },
       {
        "name": "Rádio WOW",
@@ -1644,7 +1704,8 @@
         "rock",
         "world",
         "various_eclectic"
-       ]
+       ],
+       "rb": "9c72a077-97ee-494a-80e8-6f6a30661185"
       },
       {
        "name": "Sky Rádio",
@@ -1660,7 +1721,9 @@
        "tags": [
         "news_talk",
         "various_eclectic"
-       ]
+       ],
+       "rb": "a5b3820c-14d8-4bde-a10a-9ebf75d8e296",
+       "logo": "https://slobodnyvysielac.b-cdn.net/wp-content/uploads/2015/10/cropped-fav-150x150.png"
       },
       {
        "name": "Slobodný vysielač",
@@ -1668,7 +1731,8 @@
        "tags": [
         "news_talk",
         "pop_hits"
-       ]
+       ],
+       "rb": "db6473f0-1700-4867-9680-e61b5176ddad"
       },
       {
        "name": "Slobodný vysielač Radio",
@@ -1720,7 +1784,8 @@
         "world",
         "rock",
         "pop_hits"
-       ]
+       ],
+       "rb": "4997994c-7e38-4263-a9db-3d262c995936"
       },
       {
        "name": "SRo2 Rádio Regina Stred",
@@ -1731,7 +1796,8 @@
         "pop_hits",
         "rock",
         "college_community"
-       ]
+       ],
+       "rb": "962c3268-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "SRo2 Rádio Regina Východ",
@@ -1740,7 +1806,9 @@
         "news_talk",
         "pop_hits",
         "rock"
-       ]
+       ],
+       "rb": "00c38432-76ce-4d8c-9e92-121f7a982232",
+       "logo": "https://www.rtvs.sk/media/images/home-pink.svg"
       },
       {
        "name": "SRo7 Rádio Pyramida",
@@ -1757,11 +1825,14 @@
         "news_talk",
         "kids",
         "various_eclectic"
-       ]
+       ],
+       "rb": "96122b41-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Záhorácke Rádio",
-       "url": "http://live.zahorackeradio.sk:8080/zr128.mp3"
+       "url": "http://live.zahorackeradio.sk:8080/zr128.mp3",
+       "rb": "96121bb1-0601-11e8-ae97-52543be04c81",
+       "logo": "http://www.zahorackeradio.sk/templates/zahorrad/img/favicon.ico"
       }
      ]
     },
@@ -1789,7 +1860,8 @@
       {
        "name": "Best FM 95.6 radio",
        "url": "https://stream3.bestfm.sk:8000/160.aac",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "3e108ce9-d0cd-4ea8-9392-1c2a99bb47f8"
       },
       {
        "name": "Radio Blesk",
@@ -1847,7 +1919,9 @@
         "decade_70s",
         "decade_80s",
         "decade_90s"
-       ]
+       ],
+       "rb": "6f0d9de7-af4f-454f-81f1-cbb7b68b5f82",
+       "logo": "https://i.imgur.com/7Ni2bGP.png"
       },
       {
        "name": "Rádio Vlna",
@@ -1865,11 +1939,15 @@
         "pop_hits",
         "oldies",
         "news_talk"
-       ]
+       ],
+       "rb": "2237de8b-11bf-4c6f-a857-aa51d994c240",
+       "logo": "https://cdn.radiovlna.sk/img/Radio_Vlna_Logo.png"
       },
       {
        "name": "Rádio Vlna Oldies Party",
-       "url": "https://stream.radiovlna.sk/party-hi.mp3?n=b917457c1b22f8f14f87"
+       "url": "https://stream.radiovlna.sk/party-hi.mp3?n=b917457c1b22f8f14f87",
+       "rb": "571b264d-e432-4281-93fb-0efc77dd5fb6",
+       "logo": "https://i.imgur.com/Qs142Tk.png"
       }
      ]
     },
@@ -1905,7 +1983,8 @@
         "easy_listening",
         "decade_1920s_50s",
         "oldies"
-       ]
+       ],
+       "rb": "961b450e-0561-47f9-ae88-8150358cae3b"
       },
       {
        "name": "BB FM rádio – 94.7 FM – Banská Bystrica – Banskobystrický – SK",
@@ -1951,7 +2030,9 @@
         "news_talk",
         "electronic",
         "various_eclectic"
-       ]
+       ],
+       "rb": "5d4051ee-246c-429f-9fa2-651d9f043659",
+       "logo": "https://www.europa2.sk/wp-content/uploads/2023/05/cropped-favicon-128x128.png?w=128&h=128"
       },
       {
        "name": "Europa 2 Top 22",
@@ -1968,7 +2049,8 @@
        "tags": [
         "pop_hits",
         "easy_listening"
-       ]
+       ],
+       "rb": "188a79f7-f612-43b9-8216-afc25d9ce2bd"
       },
       {
        "name": "Frontinus Radio",
@@ -1977,7 +2059,8 @@
         "pop_hits",
         "easy_listening",
         "folk"
-       ]
+       ],
+       "rb": "c7ddd729-41b7-11e8-b74d-52543be04c81"
       },
       {
        "name": "Frontinus Radio",
@@ -1996,7 +2079,8 @@
         "hip_hop_rap",
         "various_eclectic",
         "electronic"
-       ]
+       ],
+       "rb": "685f6c24-67a0-41b3-b76a-df51e1243428"
       },
       {
        "name": "Fun Radio - Live",
@@ -2018,7 +2102,8 @@
         "decade_90s",
         "decade_80s",
         "rock"
-       ]
+       ],
+       "rb": "89902d6b-8d45-4856-ae81-ca2f769a8615"
       },
       {
        "name": "Fun Radio CZ-SK",
@@ -2038,7 +2123,8 @@
        "tags": [
         "pop_hits",
         "world"
-       ]
+       ],
+       "rb": "960eff36-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Fun Radio Italy",
@@ -2081,7 +2167,8 @@
        "tags": [
         "pop_hits",
         "hip_hop_rap"
-       ]
+       ],
+       "rb": "10ee764e-6213-488b-bc2b-5b6d973a5c06"
       },
       {
        "name": "HITRADIO SLOVAKIA",
@@ -2117,7 +2204,9 @@
       },
       {
        "name": "Radio Beta Ceske a Slovenske hity",
-       "url": "http://109.71.67.102:8000/beta_cspop.mp3"
+       "url": "http://109.71.67.102:8000/beta_cspop.mp3",
+       "rb": "9121c583-e7af-4db6-b6a4-d663950fb84e",
+       "logo": "https://i.imgur.com/sBlLhc2.png"
       },
       {
        "name": "Radio Expres",
@@ -2129,7 +2218,9 @@
         "oldies",
         "house",
         "easy_listening"
-       ]
+       ],
+       "rb": "fabd3908-7230-4f4a-bb30-e666ee986db6",
+       "logo": "https://radioargesexpres.ro/wp-content/themes/radioargesexpres/images/logo.png"
       },
       {
        "name": "Radio Expres",
@@ -2141,7 +2232,9 @@
       },
       {
        "name": "Radio Extra",
-       "url": "http://live.topradio.cz:8000/extra192"
+       "url": "http://live.topradio.cz:8000/extra192",
+       "rb": "e876d397-4a73-4a31-aa94-810aeec81465",
+       "logo": "https://radioextra.sk/favicon.ico"
       },
       {
        "name": "Radio Frontinus",
@@ -2162,7 +2255,8 @@
         "decade_2000s",
         "decade_80s",
         "decade_90s"
-       ]
+       ],
+       "rb": "524c6d90-493a-4692-aa6d-292ab4cc6350"
       },
       {
        "name": "Radio Kosice",
@@ -2173,7 +2267,9 @@
         "various_eclectic",
         "news_talk",
         "world"
-       ]
+       ],
+       "rb": "96121667-0601-11e8-ae97-52543be04c81",
+       "logo": "https://www.radiokosice.sk/assets/radio-ke.png"
       },
       {
        "name": "Radio Kosice",
@@ -2197,7 +2293,8 @@
         "pop_hits",
         "electronic",
         "news_talk"
-       ]
+       ],
+       "rb": "bda90961-e6e1-4964-8516-90a0b72fb83d"
       },
       {
        "name": "Radio Sity",
@@ -2262,11 +2359,15 @@
       },
       {
        "name": "Rádio Aetter",
-       "url": "http://stream.aetter.sk:8000/aetter"
+       "url": "http://stream.aetter.sk:8000/aetter",
+       "rb": "62302ec6-773f-11ea-b1cf-52543be04c81",
+       "logo": "https://aetter.sk/wp-content/uploads/2024/11/cropped-cropped-aetter_favicon_new-180x180-1-180x180.png"
       },
       {
        "name": "Rádio Beta",
-       "url": "http://109.71.67.102:8000/beta_live_high.mp3"
+       "url": "http://109.71.67.102:8000/beta_live_high.mp3",
+       "rb": "53801113-bed5-4b44-979f-a56d610f3991",
+       "logo": "https://i.imgur.com/BVXJoSN.png"
       },
       {
        "name": "Rádio Expres",
@@ -2341,7 +2442,8 @@
         "electronic",
         "rock",
         "various_eclectic"
-       ]
+       ],
+       "rb": "7ee66666-7361-468c-ace4-1f7a357b58f6"
       },
       {
        "name": "Rádio v Nitre",
@@ -2536,7 +2638,9 @@
        "tags": [
         "rock",
         "christian_gospel"
-       ]
+       ],
+       "rb": "42b85b36-77e3-11ea-b1cf-52543be04c81",
+       "logo": "http://gradio.sk/favicon.ico"
       },
       {
        "name": "http://185.98.208.12:8000/stream/1",
@@ -2623,7 +2727,8 @@
       },
       {
        "name": "RadioBela radio",
-       "url": "http://65.109.81.84:8855/live"
+       "url": "http://65.109.81.84:8855/live",
+       "rb": "12e9aa8b-996e-4cf0-aace-3a8addf4dd57"
       },
       {
        "name": "Rdio Antna Rock",
@@ -2636,7 +2741,9 @@
       },
       {
        "name": "Rádio Anténa Rock",
-       "url": "https://stream.bauermedia.sk/rock-hi.mp3"
+       "url": "https://stream.bauermedia.sk/rock-hi.mp3",
+       "rb": "9c57e5ad-5d3a-4fea-bdd2-880de93a60fe",
+       "logo": "https://radiorock.sk/favicon-v4.png"
       },
       {
        "name": "Rádio Anténa Rock",
@@ -2717,7 +2824,9 @@
         "news_talk",
         "pop_hits",
         "world"
-       ]
+       ],
+       "rb": "295acdf1-0599-4963-b143-118bdab6bf43",
+       "logo": "https://rebeca.sk/wp-content/uploads/2018/02/rebeca_4K_bez-vlnky.png"
       },
       {
        "name": "Rádio Rebeca",
@@ -2764,7 +2873,9 @@
        "tags": [
         "rock",
         "classical"
-       ]
+       ],
+       "rb": "333d11b1-7841-4352-b023-549c87b27f8e",
+       "logo": "https://i.imgur.com/hyw6YZ3.png"
       },
       {
        "name": "Rádio Vlna Classic Rock Radio",
@@ -2782,7 +2893,8 @@
       },
       {
        "name": "Top Rádio",
-       "url": "https://solid1.streamupsolutions.com/proxy/vhhggmih/stream"
+       "url": "https://solid1.streamupsolutions.com/proxy/vhhggmih/stream",
+       "rb": "6ae3a862-44eb-44da-8c21-d87aaa10e582"
       }
      ]
     },
@@ -2895,7 +3007,9 @@
       },
       {
        "name": "Rádio Beta - Hráme jubilantom",
-       "url": "http://109.71.67.102:8000/beta_jubilanti.mp3"
+       "url": "http://109.71.67.102:8000/beta_jubilanti.mp3",
+       "rb": "e60aa070-018e-4810-acd7-7f2d80b0c1d7",
+       "logo": "https://images.app.goo.gl/jCttHdwPJLWrfXbk6"
       },
       {
        "name": "Rádio Roma",
@@ -2904,7 +3018,9 @@
       {
        "name": "Trnavské rádio",
        "url": "https://solid33.streamupsolutions.com/proxy/mujdmamw/trnavske",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "440031ae-eeeb-4dd0-beb7-4ca89492d843",
+       "logo": "https://i.imgur.com/10yFTbI.png"
       }
      ]
     },
@@ -3435,7 +3551,8 @@
       {
        "name": "Party Radio – SK",
        "url": "http://mpc1.mediacp.eu/stream/partyradio",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "8e94c1a0-d37c-4f3a-aa1a-0911a57fbc30"
       },
       {
        "name": "PartyMusic",
@@ -3489,7 +3606,8 @@
       {
        "name": "Radio Basavel",
        "url": "https://stream.zeno.fm/6gd9c6yn4nhvv",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "2b6f3fe7-29fa-4c9b-9687-ba7b54730df5"
       },
       {
        "name": "Radio Best FM (Bratislava)",
@@ -3594,7 +3712,9 @@
       {
        "name": "Radio Melody",
        "url": "https://stream.bauermedia.sk/melody-lo.mp3?aw_0_req.gdpr=false&aw_0_1st.playerid=melody_web_mobile?n=e25517c54715ebfe4d9e",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "1c05a63e-76a3-45ad-be21-13b1ec74bf6b",
+       "logo": "https://www.radiomelody.sk/wp-content/uploads/2023/01/cropped-radio-melody-favicon-1-256x256.png?w=256&h=256"
       },
       {
        "name": "Radio Original - Slovakia",
@@ -3797,7 +3917,9 @@
       {
        "name": "Rádio KIKS - Big 80s",
        "url": "https://online.radiokiks.sk:8000/kiks_big80s.mp3?n=3184abbba55dc7238978",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "8f423278-840d-40b3-bb3e-6b69f74c8492",
+       "logo": "https://www.radiokiks.sk/favicon.ico"
       },
       {
        "name": "Rádio Košice",
@@ -3812,7 +3934,8 @@
       {
        "name": "Rádio Litera",
        "url": "http://live.slovakradio.sk:8000/Litera_256.mp3.m3u",
-       "country_inferred": true
+       "country_inferred": true,
+       "rb": "a4e5e434-61e3-11e8-b15b-52543be04c81"
       },
       {
        "name": "Rádio Lokál",
@@ -3913,7 +4036,8 @@
       {
        "name": "Sllobodný vysielač",
        "url": "http://159.69.219.5:8010//aac",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "4d997172-794a-4407-8b5e-69b2e8d6d741"
       },
       {
        "name": "Slobodny Vysielac",
@@ -3926,7 +4050,8 @@
       },
       {
        "name": "Slobodný vysielač",
-       "url": "http://159.69.219.5:8010/mp3"
+       "url": "http://159.69.219.5:8010/mp3",
+       "rb": "f2c43947-7742-11ea-b1cf-52543be04c81"
       },
       {
        "name": "Slovak Rap",
@@ -3958,7 +4083,8 @@
       },
       {
        "name": "SRo9 Rádio Junior 256k",
-       "url": "http://live.slovakradio.sk:8000/Junior_256.mp3"
+       "url": "http://live.slovakradio.sk:8000/Junior_256.mp3",
+       "rb": "5548758e-3908-11e9-9b4e-52543be04c81"
       },
       {
        "name": "Suicide Sheep Mix",
@@ -4249,7 +4375,8 @@
        "tags": [
         "world",
         "news_talk"
-       ]
+       ],
+       "rb": "960f2635-0601-11e8-ae97-52543be04c81"
       }
      ]
     },
@@ -4258,7 +4385,9 @@
      "stations": [
       {
        "name": "Mirjam Rádio - Mária Rádió Felvidék",
-       "url": "http://193.87.81.131:8081/MariaRadioFelvidek"
+       "url": "http://193.87.81.131:8081/MariaRadioFelvidek",
+       "rb": "12b9253e-774f-11ea-b1cf-52543be04c81",
+       "logo": "https://mariaradio.sk/favicon.ico"
       }
      ]
     }
@@ -4310,7 +4439,8 @@
        "tags": [
         "christian_gospel",
         "news_talk"
-       ]
+       ],
+       "rb": "3769c6d7-f6e2-11e8-a471-52543be04c81"
       }
      ]
     }

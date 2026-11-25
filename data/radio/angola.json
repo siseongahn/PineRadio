@@ -70,7 +70,9 @@
       },
       {
        "name": "Rádio Fé Angola",
-       "url": "https://stream.zeno.fm/gsndh1xvczetv"
+       "url": "https://stream.zeno.fm/gsndh1xvczetv",
+       "rb": "e7ceeac8-342a-4096-82d1-173f10af95c9",
+       "logo": "https://zeno.fm/favicon.ico"
       },
       {
        "name": "Rádio Maranata",
@@ -447,7 +449,8 @@
         "electronic",
         "folk",
         "house"
-       ]
+       ],
+       "rb": "276d59a4-bb09-485e-844f-d7f4aa18adec"
       },
       {
        "name": "Radio FamaStar",
@@ -486,7 +489,8 @@
         "news_talk",
         "pop_hits",
         "world"
-       ]
+       ],
+       "rb": "b02ae645-4681-4d1f-b70b-179a37f82b20"
       },
       {
        "name": "Luanda Antena Comercial",
@@ -515,7 +519,8 @@
         "news_talk",
         "sports",
         "pop_hits"
-       ]
+       ],
+       "rb": "c5b1954b-b351-49a4-b621-1ca5528dce4c"
       },
       {
        "name": "Radio Despertar",
@@ -596,7 +601,9 @@
         "news_talk",
         "pop_hits",
         "oldies"
-       ]
+       ],
+       "rb": "3aae0dfe-040c-48fc-81f4-1f1295dd0e91",
+       "logo": "https://www.rfi.fr/apple-touch-icon.png"
       },
       {
        "name": "RNA - Canal A",
@@ -826,7 +833,8 @@
       {
        "name": "Rádio Mais Huíla – 91.3 FM – Lubango – Huíla Province – AO",
        "url": "https://radios.justweb.pt/8048/stream",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "c6975ff0-662c-43b4-b27a-40bb3d19a802"
       }
      ]
     },
@@ -2672,7 +2680,8 @@
       },
       {
        "name": "Radio Maria Angola",
-       "url": "https://dreamsiteradiocp5.com/proxy/rmangola?mp=/stream"
+       "url": "https://dreamsiteradiocp5.com/proxy/rmangola?mp=/stream",
+       "rb": "e259f56c-eba1-4092-b04e-742feb543c5c"
       },
       {
        "name": "Radio MEVD",
@@ -3316,12 +3325,14 @@
       {
        "name": "Rádio Mais Benguela – AO-BGU",
        "url": "https://radios.justweb.pt/8046/stream",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "62f4cbf8-ac08-41b4-b691-8bee8ea0764e"
       },
       {
        "name": "Rádio Mais Huambo – 89.9 FM – AO-HUA",
        "url": "https://radios.justweb.pt/8044/stream",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "ba475f7c-69e2-464f-8050-c69f70770d84"
       },
       {
        "name": "Rádio Maranata - IESA",
@@ -3981,7 +3992,8 @@
        "tags": [
         "news_talk",
         "pop_hits"
-       ]
+       ],
+       "rb": "50f9adb4-ecf9-4e83-b06d-7a89d5f74b9b"
       }
      ]
     }

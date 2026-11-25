@@ -55,7 +55,8 @@
         "punk",
         "decade_80s",
         "pop_hits"
-       ]
+       ],
+       "rb": "3b1a9cb4-68e8-4c71-b5e3-1355d043dce3"
       },
       {
        "name": "999 FM",
@@ -115,7 +116,9 @@
         "jazz",
         "world",
         "rock"
-       ]
+       ],
+       "rb": "96147651-0601-11e8-ae97-52543be04c81",
+       "logo": "http://www.gds.fm/_nuxt/icons/icon_64x64.96821f.png"
       },
       {
        "name": "GDS.FM",
@@ -166,7 +169,8 @@
         "alternative_indie",
         "various_eclectic",
         "pop_hits"
-       ]
+       ],
+       "rb": "a3fa1510-b4ce-4766-9104-cc6b26a42e5a"
       },
       {
        "name": "Julie Fm",
@@ -217,7 +221,8 @@
         "rock",
         "alternative_indie"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "c4b8c9ca-b0fc-489e-b8db-7bec2a693023"
       },
       {
        "name": "La VostokE",
@@ -274,7 +279,8 @@
        "tags": [
         "alternative_indie",
         "rock"
-       ]
+       ],
+       "rb": "ec8849eb-23a6-46db-9c01-b3c0c0e3ff9f"
       },
       {
        "name": "Plus Radio",
@@ -335,7 +341,8 @@
         "various_eclectic",
         "easy_listening",
         "chillout_lounge"
-       ]
+       ],
+       "rb": "960c214e-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Radio 3FACH Listen live",
@@ -359,7 +366,9 @@
        "tags": [
         "alternative_indie",
         "rock"
-       ]
+       ],
+       "rb": "19736015-a179-4fe8-b0ba-e7b869def54a",
+       "logo": "https://www.lora.ch/images/favicon/apple-touch-icon.png"
       },
       {
        "name": "Radio QFM",
@@ -381,7 +390,9 @@
         "news_talk",
         "folk",
         "pop_hits"
-       ]
+       ],
+       "rb": "0898acbb-981e-4ca3-9d74-07833e3f0b74",
+       "logo": "https://rabe.ch/_next/image?url=https%3A%2F%2Fdata.rabe.ch%2Fassets%2Ffc2f3f7e-8317-45d4-a469-add27b165d38%2FRadio%20Bern%20RaBe%20Logo%202024%20-%20gru%CC%88n.svg%3Fwidth%3D500%26height%3D500%26fit%3Dcover&w=1200&q=75"
       },
       {
        "name": "Radio Radius AAC",
@@ -428,7 +439,8 @@
         "rock",
         "news_talk",
         "pop_hits"
-       ]
+       ],
+       "rb": "963d9e8f-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Radio Stadtfilter 96.3 FM",
@@ -543,7 +555,8 @@
         "rock",
         "alternative_indie"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "5d216765-e434-4a60-87f0-40cecb5236fa"
       },
       {
        "name": "SRF Virus",
@@ -554,7 +567,9 @@
         "news_talk",
         "pop_hits",
         "electronic"
-       ]
+       ],
+       "rb": "960b6cd6-0601-11e8-ae97-52543be04c81",
+       "logo": "http://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png"
       },
       {
        "name": "Toxic FM",
@@ -566,7 +581,8 @@
         "rock",
         "pop_hits",
         "metal"
-       ]
+       ],
+       "rb": "2e4aacad-3952-4d0b-b5b9-a2fd752f615b"
       },
       {
        "name": "WNTR",
@@ -725,7 +741,8 @@
         "electronic",
         "chillout_lounge",
         "oldies"
-       ]
+       ],
+       "rb": "9643b306-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "my105 CHILL FR",
@@ -887,7 +904,8 @@
         "classical",
         "pop_hits",
         "decade_60s"
-       ]
+       ],
+       "rb": "5ecfdf6b-aa03-445f-8831-c02600dd02d9"
       }
      ]
     },
@@ -1002,7 +1020,8 @@
         "easy_listening",
         "house"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "2483b444-915a-4069-8612-74af68a6c2c1"
       },
       {
        "name": "DJ Radio Lounge",
@@ -1081,7 +1100,8 @@
         "ambient_relax",
         "chillout_lounge",
         "electronic"
-       ]
+       ],
+       "rb": "9643245c-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "my105 - Love",
@@ -1092,7 +1112,8 @@
         "pop_hits",
         "easy_listening",
         "ambient_relax"
-       ]
+       ],
+       "rb": "96410bfe-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "my105 Deluxe",
@@ -1444,7 +1465,9 @@
       },
       {
        "name": "Radio Freundesdienst Schweiz",
-       "url": "http://radiofdch.ice.infomaniak.ch/radiofdch.mp3"
+       "url": "http://radiofdch.ice.infomaniak.ch/radiofdch.mp3",
+       "rb": "963593be-0601-11e8-ae97-52543be04c81",
+       "logo": "http://www.freundesdienst.org/favicon.ico"
       },
       {
        "name": "Radio Gloria",
@@ -1455,7 +1478,9 @@
         "easy_listening",
         "various_eclectic",
         "oldies"
-       ]
+       ],
+       "rb": "a85ace81-8a73-4146-93c5-6d030429e52f",
+       "logo": "https://radiogloria.ch/favicon.ico"
       },
       {
        "name": "Radio Gloria",
@@ -1486,7 +1511,9 @@
         "christian_gospel",
         "news_talk",
         "easy_listening"
-       ]
+       ],
+       "rb": "e50bf0ca-4aeb-4f5f-b0ad-6a57955afb7e",
+       "logo": "https://radio.lifechannel.ch/favicon.ico"
       },
       {
        "name": "Radio Maria Schweiz",
@@ -1527,7 +1554,8 @@
        "tags": [
         "christian_gospel",
         "news_talk"
-       ]
+       ],
+       "rb": "f56b1299-7711-11e9-8b97-52543be04c81"
       },
       {
        "name": "Radio Maria Switzerland",
@@ -1535,7 +1563,8 @@
        "tags": [
         "christian_gospel",
         "news_talk"
-       ]
+       ],
+       "rb": "23ee9e6c-76ea-11e9-8b97-52543be04c81"
       },
       {
        "name": "Radio Neue Hoffnung",
@@ -1614,7 +1643,9 @@
         "rock",
         "pop_hits"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "1989d84f-3412-4913-9473-956e0ea0f720",
+       "logo": "https://radio-r.ch/wp-content/uploads/2024/03/radio-r-louange_cover_cropOK_1080x1080px.png"
       }
      ]
     },
@@ -1883,7 +1914,8 @@
         "classical",
         "easy_listening",
         "opera"
-       ]
+       ],
+       "rb": "96662b01-e8af-48d3-af9a-117807219992"
       },
       {
        "name": "Public Domain Classical",
@@ -1899,7 +1931,9 @@
        "tags": [
         "classical",
         "ambient_relax"
-       ]
+       ],
+       "rb": "b86533b0-abf1-4fa7-996e-6352530a9765",
+       "logo": "http://radio.publicdomainproject.org/images/pdlogo.svg"
       },
       {
        "name": "Public Domain Classical – CH",
@@ -1941,7 +1975,9 @@
        "tags": [
         "classical",
         "jazz"
-       ]
+       ],
+       "rb": "2a1b8168-ec14-4ad4-aeb9-ac14d0d54080",
+       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Radio_SRF_2_Kultur.svg/155px-Radio_SRF_2_Kultur.svg.png"
       },
       {
        "name": "Radio Suisse Classique",
@@ -1951,7 +1987,9 @@
       {
        "name": "Radio Suisse Classique",
        "url": "http://www.surfmusik.de/m3u/station/radio-suisse-classique,16403.m3u",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "209340db-4929-11e8-b1b0-52543be04c81",
+       "logo": "http://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png"
       },
       {
        "name": "Radio Svizzera Classica",
@@ -1972,7 +2010,8 @@
         "pop_hits",
         "jazz",
         "news_talk"
-       ]
+       ],
+       "rb": "34edbcea-ce81-4e39-81ab-71e74745d544"
       },
       {
        "name": "Radio Swiss Classic",
@@ -1980,11 +2019,13 @@
        "tags": [
         "classical",
         "opera"
-       ]
+       ],
+       "rb": "eea19a83-97f4-4601-a943-ea12a379840c"
       },
       {
        "name": "Radio Swiss Classic",
-       "url": "http://stream.srg-ssr.ch/m/rsc_de/aacp_32"
+       "url": "http://stream.srg-ssr.ch/m/rsc_de/aacp_32",
+       "rb": "7ae7cd51-7431-4abb-9595-5f8d5013ff67"
       },
       {
        "name": "Radio Swiss Classic",
@@ -2012,7 +2053,8 @@
       },
       {
        "name": "Radio Swiss Classic German",
-       "url": "http://www.radioswissclassic.ch/de/live/aacp32.m3u"
+       "url": "http://www.radioswissclassic.ch/de/live/aacp32.m3u",
+       "rb": "964a181c-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Rouge FM – Best Hits 70",
@@ -2066,7 +2108,8 @@
         "news_talk",
         "jazz",
         "pop_hits"
-       ]
+       ],
+       "rb": "c8ae73b1-d8c0-40af-97ed-e58f603d7036"
       },
       {
        "name": "SRF 2 Kultur",
@@ -2074,7 +2117,9 @@
        "tags": [
         "classical",
         "jazz"
-       ]
+       ],
+       "rb": "89033ac1-5717-4154-85d3-aff8de50bbc4",
+       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Radio_SRF_2_Kultur.svg/155px-Radio_SRF_2_Kultur.svg.png"
       },
       {
        "name": "Swiss Art Radio",
@@ -2128,7 +2173,8 @@
       },
       {
        "name": "Traxx.FM Classic",
-       "url": "https://traxx012.ice.infomaniak.ch/traxx012-low.mp3"
+       "url": "https://traxx012.ice.infomaniak.ch/traxx012-low.mp3",
+       "rb": "45e07a71-639c-4987-b4fa-3df5ea6630f2"
       },
       {
        "name": "Voxinox 2 Music",
@@ -2219,7 +2265,9 @@
       {
        "name": "1.FM – Absolute Country Hits Radio",
        "url": "https://strmreg.1.fm/acountry_mobile_mp3",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "d1be7849-79bc-4ad2-baf1-844dc2e40fd4",
+       "logo": "https://cdn.onlineradiobox.com/img/l/0/2730.v5.png"
       },
       {
        "name": "1.FM – Absolute Country Hits Radio",
@@ -2238,7 +2286,9 @@
         "folk",
         "country"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "2ce45525-39f3-4c58-b41a-70e3499d7a4d",
+       "logo": "https://cdn.onlineradiobox.com/img/l/5/2685.v4.png"
       },
       {
        "name": "Country Radio Switzerland",
@@ -2250,7 +2300,8 @@
         "rock",
         "folk",
         "easy_listening"
-       ]
+       ],
+       "rb": "9d570191-0359-4398-af57-bc8d3e37b417"
       },
       {
        "name": "Country Radio Switzerland",
@@ -2260,7 +2311,9 @@
         "classical",
         "folk"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "f06f548b-fc16-45f3-a057-8b99c4976302",
+       "logo": "https://www.countryradio.ch/favicon.ico"
       },
       {
        "name": "Country Radio Switzerland",
@@ -2358,7 +2411,9 @@
       {
        "name": "Radio Doctor Web",
        "url": "https://sphera.fluidstream.eu/rpd_country.mp3?FLID=7",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "9624fa89-0601-11e8-ae97-52543be04c81",
+       "logo": "http://www.veronica.it/templates/radiowave/includes/images/ios/icon@2x.png"
       },
       {
        "name": "Radio Fun-tastisch",
@@ -2570,7 +2625,8 @@
         "decade_80s",
         "pop_hits"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "a92a107d-3326-4d46-b7c1-d127b630bdfe"
       },
       {
        "name": "FM1 80s & 90s",
@@ -2715,7 +2771,9 @@
       },
       {
        "name": "1.FM - Absolute 90s",
-       "url": "http://strm112.1.fm/90s_mobile_mp3"
+       "url": "http://strm112.1.fm/90s_mobile_mp3",
+       "rb": "243cef8b-f02d-4490-bb02-e094c8aa0393",
+       "logo": "https://www.1.fm/images/favicon.ico"
       },
       {
        "name": "1.FM - Absolute 90s Party Zone Radio",
@@ -3102,7 +3160,8 @@
         "pop_hits",
         "hip_hop_rap"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "633c90f2-d3d2-4c08-b755-94820bc7d6e1"
       },
       {
        "name": "Kanal K - FM 107.9",
@@ -3111,7 +3170,9 @@
         "various_eclectic",
         "easy_listening"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "18ab38fe-ab15-448d-8a23-542a9daea2c4",
+       "logo": "https://www.kanalk.ch/favicon.png"
       },
       {
        "name": "Kiss FM 80's",
@@ -3220,7 +3281,8 @@
       },
       {
        "name": "Radio 1",
-       "url": "http://stream.radio1.ch/128k.m3u"
+       "url": "http://stream.radio1.ch/128k.m3u",
+       "rb": "0c0ff72d-dcb3-4215-bd08-49b580548e61"
       },
       {
        "name": "Radio 24-102.8 FM",
@@ -3356,7 +3418,9 @@
         "ambient_relax",
         "chillout_lounge"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "f96ec985-40da-41b7-bc2b-b75cf4f1abd3",
+       "logo": "https://static.wixstatic.com/media/d168f9_11af99f87f4448daaf0e1bda1d1a1169~mv2.png/v1/fill/w_180,h_125,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LOGO%20Radio%20S.png"
       },
       {
        "name": "Radio Sunshine – CH-ZG",
@@ -3863,7 +3927,8 @@
         "electronic",
         "house",
         "alternative_indie"
-       ]
+       ],
+       "rb": "960babf9-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Electro Radio",
@@ -3873,7 +3938,8 @@
       {
        "name": "electroradio.fm",
        "url": "http://n05.radiojar.com/fkyxx4q35k0uv",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "dac67c12-1201-4030-9e68-99c0bdb7fb5c"
       },
       {
        "name": "Energy 00s",
@@ -4094,7 +4160,8 @@
         "electronic",
         "trance_goa",
         "alternative_indie"
-       ]
+       ],
+       "rb": "9644ceb7-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Lounge-Radio",
@@ -4124,7 +4191,8 @@
         "electronic",
         "pop_hits"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "fb056b8d-24ae-4bc5-80dd-2a7020415383"
       },
       {
        "name": "maXXima",
@@ -4169,7 +4237,8 @@
         "house",
         "various_eclectic",
         "pop_hits"
-       ]
+       ],
+       "rb": "9643b94b-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "my105 - DJ Mixes",
@@ -4177,7 +4246,8 @@
        "tags": [
         "electronic",
         "house"
-       ]
+       ],
+       "rb": "9643b083-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "my105 - Party",
@@ -4185,7 +4255,8 @@
        "tags": [
         "pop_hits",
         "electronic"
-       ]
+       ],
+       "rb": "9643af6e-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "my105 DANCE FR",
@@ -4391,7 +4462,9 @@
        "tags": [
         "electronic",
         "house"
-       ]
+       ],
+       "rb": "9d43d519-7eeb-4161-a73a-734108fb3f4c",
+       "logo": "https://2023.pureglowradio.com/wp-content/uploads/2016/09/logo-dark-pgr-2.png"
       },
       {
        "name": "R comme RAP",
@@ -4582,7 +4655,9 @@
         "chillout_lounge",
         "alternative_indie",
         "pop_hits"
-       ]
+       ],
+       "rb": "aaa4e936-93aa-4e4c-a53d-cf0a019b0df0",
+       "logo": "https://www.radioouistiti.ch/wp-content/uploads/2024/11/radioouistiti_logo.png"
       },
       {
        "name": "Radio Pilatus",
@@ -4638,7 +4713,8 @@
         "alternative_indie",
         "reggae_ska",
         "chillout_lounge"
-       ]
+       ],
+       "rb": "53fefaca-0e1e-11e9-a80b-52543be04c81"
       },
       {
        "name": "Radio Summernight",
@@ -4710,7 +4786,8 @@
         "rock",
         "news_talk",
         "alternative_indie"
-       ]
+       ],
+       "rb": "23bed75a-1d8b-11e9-a80b-52543be04c81"
       },
       {
        "name": "Radiologisch",
@@ -4784,7 +4861,9 @@
         "pop_hits",
         "electronic",
         "oldies"
-       ]
+       ],
+       "rb": "961f8454-0601-11e8-ae97-52543be04c81",
+       "logo": "https://static.wixstatic.com/media/9a9c36_3d1dd8d8cf814ecca8cd2631a43bb249%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/9a9c36_3d1dd8d8cf814ecca8cd2631a43bb249%7emv2.png"
       },
       {
        "name": "Rouge FM – Night",
@@ -4924,7 +5003,8 @@
         "electronic",
         "house",
         "techno"
-       ]
+       ],
+       "rb": "971cedc6-f328-11e9-a96c-52543be04c81"
       },
       {
        "name": "Traxx FM Deluxe",
@@ -4935,7 +5015,8 @@
         "house",
         "rock",
         "techno"
-       ]
+       ],
+       "rb": "d357ed2a-f32a-11e9-a96c-52543be04c81"
       },
       {
        "name": "Traxx FM Electro",
@@ -5085,7 +5166,8 @@
         "folk",
         "pop_hits",
         "alternative_indie"
-       ]
+       ],
+       "rb": "4b407263-550e-46c9-82dc-c26a69a8c51e"
       },
       {
        "name": "Alta on the Road",
@@ -5179,7 +5261,9 @@
       {
        "name": "Public Domain Swiss Schlager",
        "url": "http://relay.publicdomainradio.org:80/swiss_schlager.mp3",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "40db03d1-4396-45ee-9d00-d3e0f756b018",
+       "logo": "http://radio.publicdomainproject.org/images/pdlogo.svg"
       },
       {
        "name": "Radio Algerie Chaine 3",
@@ -5366,7 +5450,9 @@
         "folk",
         "news_talk",
         "various_eclectic"
-       ]
+       ],
+       "rb": "9612f341-0601-11e8-ae97-52543be04c81",
+       "logo": "https://radiotell.ch/wp-content/uploads/2021/01/cropped-apfel-180x180.png"
       },
       {
        "name": "Radio Tell",
@@ -5595,7 +5681,8 @@
        "tags": [
         "hip_hop_rap",
         "decade_2000s"
-       ]
+       ],
+       "rb": "c66ba4a3-1f5c-11ea-a955-52543be04c81"
       },
       {
        "name": "Anticr 3 W Listen live",
@@ -5784,7 +5871,9 @@
         "reggae_ska",
         "pop_hits",
         "various_eclectic"
-       ]
+       ],
+       "rb": "a805fab4-126a-4d4a-9801-19295138d569",
+       "logo": "https://jam-on.ch/img/apple-touch-icon.png"
       },
       {
        "name": "Jam On Radio",
@@ -5844,7 +5933,8 @@
         "hip_hop_rap",
         "rock",
         "pop_hits"
-       ]
+       ],
+       "rb": "96432f4a-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "my105 - The Battle",
@@ -5854,7 +5944,8 @@
        "tags": [
         "hip_hop_rap",
         "pop_hits"
-       ]
+       ],
+       "rb": "9643b672-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "my105 KAYZO",
@@ -6010,7 +6101,9 @@
         "hip_hop_rap",
         "electronic",
         "pop_hits"
-       ]
+       ],
+       "rb": "64bf4040-d07a-418b-a7a3-9cec29107091",
+       "logo": "https://www.rasa.ch/favicon.ico"
       },
       {
        "name": "Radio Smash (HipHop)",
@@ -6161,7 +6254,8 @@
         "classical",
         "folk",
         "country"
-       ]
+       ],
+       "rb": "96365abe-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Christmasradio Fm",
@@ -6206,7 +6300,8 @@
        "tags": [
         "holiday",
         "pop_hits"
-       ]
+       ],
+       "rb": "989e9111-51fb-48ea-985b-1d5110dacde1"
       },
       {
        "name": "RADIO BERN1 Xmas",
@@ -6308,7 +6403,9 @@
         "easy_listening",
         "electronic"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "2c3ae89a-977a-445b-9a8a-bef76cd0ebfa",
+       "logo": "https://static.wixstatic.com/media/e05539_cbaf7759467242c1843d8bac2619e127~mv2.png/v1/crop/x_9,y_0,w_3107,h_1875/fill/w_490,h_296,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/customcolor_logo_transparent_background.png"
       },
       {
        "name": "Energy Deep Listen live",
@@ -6362,7 +6459,8 @@
         "various_eclectic",
         "pop_hits",
         "electronic"
-       ]
+       ],
+       "rb": "9643b169-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "my105 ALISON WONDERLAND",
@@ -6497,7 +6595,9 @@
        "tags": [
         "house",
         "electronic"
-       ]
+       ],
+       "rb": "15a5d74a-56cc-42d7-af13-a535807fb9a8",
+       "logo": "https://www.queerradio.ch/images/205/19694242/QUEERRADIOLOGOTRANSPARENT-2MD25IWPfuwDiLyKdFey-Q-huYlq1FUj2TYylDg_oXQZA-5zQYNH3tAoku10eXiOGNmg-17_VBAsNP5JvKeUeLSshSg.png"
       },
       {
        "name": "Radio Bollwerk",
@@ -6844,7 +6944,8 @@
         "jazz",
         "pop_hits"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "92727bb4-f799-47a3-8b14-80d3b43558ab"
       },
       {
        "name": "Public Domain Jazz",
@@ -6865,7 +6966,8 @@
         "jazz",
         "electronic",
         "big_band_swing"
-       ]
+       ],
+       "rb": "36cec5dc-942e-4127-a317-9e3d5c173708"
       },
       {
        "name": "Radio 1.FM - Blues",
@@ -6993,7 +7095,8 @@
         "rock",
         "schlager_polka",
         "news_talk"
-       ]
+       ],
+       "rb": "62448837-cbcd-11e8-a54a-52543be04c81"
       },
       {
        "name": "Radio Swiss Jazz",
@@ -7003,7 +7106,9 @@
       {
        "name": "Radio Swiss Jazz",
        "url": "http://stream.srg-ssr.ch/m/rsj/aacp_32",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "039894ef-dfa1-4217-b288-0a36e8700c4e",
+       "logo": "https://www.radioswissjazz.ch/favicon.ico"
       },
       {
        "name": "Radio Swiss Jazz HLS 96",
@@ -7093,7 +7198,9 @@
         "pop_hits",
         "world",
         "chillout_lounge"
-       ]
+       ],
+       "rb": "5c516001-3720-41af-b7e4-00023fc579c5",
+       "logo": "https://www.swissgroove.ch/favicon.ico"
       },
       {
        "name": "SwissRadio.ch Modern Jazz",
@@ -7351,7 +7458,8 @@
        "tags": [
         "latin",
         "folk"
-       ]
+       ],
+       "rb": "96410337-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "my105 RITMO LATINO FR",
@@ -7495,7 +7603,9 @@
         "rock",
         "metal"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "1901f7f2-727f-4fb1-b9d8-bf3f50e1419c",
+       "logo": "https://www.bearmetalradio.com/images/logo.png"
       },
       {
        "name": "Bear Metal Radio",
@@ -7634,7 +7744,9 @@
         "news_talk",
         "pop_hits"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "6b27f30b-4a73-47cc-a516-a2d986f7a7a5",
+       "logo": "https://www.rjb.ch/Htdocs/Images/Theme/rjb/HeadIcons/apple-touch-icon.png"
       },
       {
        "name": "CAP OUEST Live",
@@ -7661,7 +7773,9 @@
        "tags": [
         "pop_hits",
         "news_talk"
-       ]
+       ],
+       "rb": "96069a5d-0601-11e8-ae97-52543be04c81",
+       "logo": "https://energy.ch/ech-new/images/ech/apple-touch-icon.png"
       },
       {
        "name": "eSport-Mania Listen live",
@@ -7686,7 +7800,8 @@
         "news_talk",
         "rock"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "96092402-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Hechos Ecuador Listen live",
@@ -7734,7 +7849,9 @@
         "news_talk",
         "pop_hits"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "88b21d4f-529f-4adc-93f4-9d34622fc76c",
+       "logo": "https://backend.kanalk.ch/wp-content/uploads/2023/10/Kanal_K_Icon_WeissAufSchwarz.png"
       },
       {
        "name": "Kanal K-107.9 FM",
@@ -7757,15 +7874,18 @@
       },
       {
        "name": "Kontrafunk",
-       "url": "https://s5.radio.co/sca4082ebb/listen"
+       "url": "https://s5.radio.co/sca4082ebb/listen",
+       "rb": "4d8e945e-57a9-4c5a-a92e-d43a7c3c58d7"
       },
       {
        "name": "Kontrafunk AAC 64",
-       "url": "https://s5.radio.co/sca4082ebb/low?n=86612338049ce54bb231"
+       "url": "https://s5.radio.co/sca4082ebb/low?n=86612338049ce54bb231",
+       "rb": "cb81fe62-e665-4469-bd2b-92bfad063453"
       },
       {
        "name": "Kontrafunk MP3 192",
-       "url": "https://stream.kontrafunk.radio/listen/kontrafunk/radio.mp3"
+       "url": "https://stream.kontrafunk.radio/listen/kontrafunk/radio.mp3",
+       "rb": "69ff8733-987c-4573-830b-b9a928e12964"
       },
       {
        "name": "La Triperie Radio",
@@ -7881,7 +8001,9 @@
         "news_talk",
         "pop_hits"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "980d4891-994c-46d9-9096-4ed0eb556aa8",
+       "logo": "https://www.presseportal-schweiz.ch/sites/default/files/radio_32_logo_neu.jpg"
       },
       {
        "name": "Radio 74",
@@ -8036,7 +8158,8 @@
         "pop_hits",
         "alternative_indie",
         "various_eclectic"
-       ]
+       ],
+       "rb": "01e4105e-19ea-45e2-a153-31e40e21f448"
       },
       {
        "name": "Radio Radius",
@@ -8140,7 +8263,9 @@
       },
       {
        "name": "Radio SRF 1 Ostschweiz St.Gallen",
-       "url": "http://stream.srg-ssr.ch/m/regi_ost/aacp_32"
+       "url": "http://stream.srg-ssr.ch/m/regi_ost/aacp_32",
+       "rb": "3526f8fa-1691-4edf-9d03-b45c504639f7",
+       "logo": "https://download-media.srf.ch/world/image/audio/2015/07/f10f17ef7b4c4befbebe7f8f6b5dd943.png"
       },
       {
        "name": "Radio SRF 1 Ostschweiz-96.0 FM",
@@ -8152,7 +8277,9 @@
        "tags": [
         "news_talk",
         "pop_hits"
-       ]
+       ],
+       "rb": "96496162-0601-11e8-ae97-52543be04c81",
+       "logo": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png"
       },
       {
        "name": "Radio SRF 1 Regionaljournal Basel, Baselland",
@@ -8161,7 +8288,9 @@
         "news_talk",
         "easy_listening",
         "pop_hits"
-       ]
+       ],
+       "rb": "242df525-7aaf-4921-bb69-a70e545f98a8",
+       "logo": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png"
       },
       {
        "name": "Radio SRF 1 Regionaljournal Bern, Freiburg, Wallis",
@@ -8169,11 +8298,15 @@
        "tags": [
         "news_talk",
         "pop_hits"
-       ]
+       ],
+       "rb": "96336873-0601-11e8-ae97-52543be04c81",
+       "logo": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png"
       },
       {
        "name": "Radio SRF 1 Regionaljournal Graubünden",
-       "url": "http://stream.srg-ssr.ch/m/regi_gr/mp3_128"
+       "url": "http://stream.srg-ssr.ch/m/regi_gr/mp3_128",
+       "rb": "96496498-0601-11e8-ae97-52543be04c81",
+       "logo": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png"
       },
       {
        "name": "Radio SRF 1 Regionaljournal Ostschweiz",
@@ -8181,7 +8314,9 @@
        "tags": [
         "news_talk",
         "pop_hits"
-       ]
+       ],
+       "rb": "964963c1-0601-11e8-ae97-52543be04c81",
+       "logo": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png"
       },
       {
        "name": "Radio SRF 1 Regionaljournal Zürich, Schaffhausen",
@@ -8190,7 +8325,8 @@
         "news_talk",
         "various_eclectic",
         "pop_hits"
-       ]
+       ],
+       "rb": "96195c13-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Radio SRF 1 Zentralschweiz",
@@ -8198,7 +8334,9 @@
        "tags": [
         "news_talk",
         "pop_hits"
-       ]
+       ],
+       "rb": "963db08e-0601-11e8-ae97-52543be04c81",
+       "logo": "http://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png"
       },
       {
        "name": "Radio SRF 1 Zentralschweiz - Luzern",
@@ -8207,7 +8345,8 @@
       },
       {
        "name": "Radio SRF 1 – Regionaljournal Zürich Schaffhausen",
-       "url": "http://stream.srg-ssr.ch/m/regi_zh_sh/aacp_96"
+       "url": "http://stream.srg-ssr.ch/m/regi_zh_sh/aacp_96",
+       "rb": "f85303f3-335d-4595-b8c7-587022acdcf8"
       },
       {
        "name": "Radio SRF 4 News",
@@ -8215,11 +8354,15 @@
        "tags": [
         "news_talk",
         "sports"
-       ]
+       ],
+       "rb": "3a30a7a5-5d7f-4ed2-87c3-c86d0650ac8d",
+       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Radio_SRF_4_News.svg/182px-Radio_SRF_4_News.svg.png"
       },
       {
        "name": "Radio SRF 4 News",
-       "url": "https://stream.srg-ssr.ch/m/drs4news/aacp_32"
+       "url": "https://stream.srg-ssr.ch/m/drs4news/aacp_32",
+       "rb": "07e96454-3782-4b25-aeaf-215ccd38b471",
+       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Radio_SRF_4_News.svg/182px-Radio_SRF_4_News.svg.png"
       },
       {
        "name": "Radio SRF 4 News HLS 96",
@@ -8242,7 +8385,8 @@
         "news_talk",
         "jazz"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "9625d631-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Radio Swiss Pop",
@@ -8251,7 +8395,9 @@
         "news_talk",
         "pop_hits"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "96055189-0601-11e8-ae97-52543be04c81",
+       "logo": "http://www.radioswisspop.ch/favicon.ico"
       },
       {
        "name": "Radio SwissJu",
@@ -8278,7 +8424,9 @@
        "tags": [
         "pop_hits",
         "news_talk"
-       ]
+       ],
+       "rb": "3e7dcb14-de8b-4c9c-85de-272148ff92a1",
+       "logo": "https://www.toponline.ch/fileadmin/templates/logos/apple-touch-icon.png"
       },
       {
        "name": "Radio Top Two",
@@ -8314,7 +8462,9 @@
         "bollywood_indian",
         "alternative_indie"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "2940a1cb-a3f4-4836-9840-5639bca82f68",
+       "logo": "https://liveradios.in/wp-content/uploads/radiovaanam.jpg"
       },
       {
        "name": "Radio Zürisee",
@@ -8426,7 +8576,8 @@
         "news_talk",
         "various_eclectic",
         "pop_hits"
-       ]
+       ],
+       "rb": "960e57c5-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "SRF 1",
@@ -8447,7 +8598,9 @@
       },
       {
        "name": "SRF 1 Bern Freibourg Wallis",
-       "url": "http://stream.srg-ssr.ch/m/regi_be_fr_vs/aacp_96"
+       "url": "http://stream.srg-ssr.ch/m/regi_be_fr_vs/aacp_96",
+       "rb": "fa3a1843-c8f4-4395-b823-dce337a9664b",
+       "logo": "https://download-media.srf.ch/world/image/audio/2015/07/f10f17ef7b4c4befbebe7f8f6b5dd943.png"
       },
       {
        "name": "SRF 1 Graubünden",
@@ -8477,7 +8630,8 @@
       },
       {
        "name": "SRF 2",
-       "url": "http://stream.srg-ssr.ch/drs2/mp3_128.m3u"
+       "url": "http://stream.srg-ssr.ch/drs2/mp3_128.m3u",
+       "rb": "e7421a8b-7f2a-42d3-afaa-6b9de5dc03ad"
       },
       {
        "name": "SRF 2 Kultur",
@@ -8492,7 +8646,9 @@
         "news_talk",
         "rock",
         "easy_listening"
-       ]
+       ],
+       "rb": "a4569058-e4b5-4c93-82f6-a4006a5d86da",
+       "logo": "https://www.srf.ch/build/assets/radio-srf-3-square-Ds8liY9N.svg"
       },
       {
        "name": "SRF 3",
@@ -8519,7 +8675,9 @@
        "tags": [
         "news_talk",
         "pop_hits"
-       ]
+       ],
+       "rb": "9764de08-38be-4a9d-acbc-4b7d4ff2607b",
+       "logo": "https://www.srf.ch/build/assets/radio-srf-4-square-CPpwSzVl.svg"
       },
       {
        "name": "SRF 4 News Radio",
@@ -8542,7 +8700,8 @@
        "tags": [
         "news_talk",
         "folk"
-       ]
+       ],
+       "rb": "5a6ced6b-ac83-47c4-8762-d1521f732d2c"
       },
       {
        "name": "SRF Radio Musikwelle",
@@ -8627,7 +8786,8 @@
        "tags": [
         "oldies",
         "pop_hits"
-       ]
+       ],
+       "rb": "34dabe69-71f2-11ea-b1cf-52543be04c81"
       },
       {
        "name": "Chante France 70's",
@@ -8736,7 +8896,9 @@
         "oldies",
         "pop_hits"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "3684bcbb-8af6-4755-9db8-0e240824f0fa",
+       "logo": "https://kisscollector.ch/favicon.ico"
       },
       {
        "name": "KTFM",
@@ -8749,7 +8911,9 @@
         "decade_80s",
         "disco_eurodance",
         "classical"
-       ]
+       ],
+       "rb": "0a29e7a5-96b9-45a6-a8e5-86611b2f31ff",
+       "logo": "https://i0.wp.com/ktfm-radio.ch/wp-content/uploads/2019/12/KTFM-1.png?fit=50%2C50&ssl=1"
       },
       {
        "name": "LoveWord Radio Expansion RBSW 3",
@@ -8764,7 +8928,8 @@
         "various_eclectic",
         "pop_hits",
         "classical"
-       ]
+       ],
+       "rb": "98a9c133-48e9-11ea-a860-52543be04c81"
       },
       {
        "name": "Nostalgie Radio",
@@ -9062,7 +9227,8 @@
         "decade_80s",
         "decade_60s",
         "decade_90s"
-       ]
+       ],
+       "rb": "a7a61f38-61e3-4491-a7ba-8c978fe51935"
       },
       {
        "name": "Voxinox",
@@ -9302,7 +9468,9 @@
         "news_talk",
         "easy_listening",
         "decade_80s"
-       ]
+       ],
+       "rb": "f91aa755-2979-451e-a4fe-1393f5dd1ed8",
+       "logo": "https://web.canal3.ch/de/sites/all/themes/canal3_theme_v2/favicon.ico"
       },
       {
        "name": "Canal 3 [DE]",
@@ -9439,7 +9607,8 @@
         "pop_hits",
         "news_talk",
         "rock"
-       ]
+       ],
+       "rb": "1095cda6-6898-11ea-9d09-52543be04c81"
       },
       {
        "name": "ENERGY Basel",
@@ -9463,7 +9632,9 @@
         "jazz",
         "decade_70s",
         "decade_90s"
-       ]
+       ],
+       "rb": "489f3786-3ff8-46c1-ad14-2a7c5d9cea99",
+       "logo": "https://storage.energy.ch/broadcast/covers/channels/logo_v2_bern_1638178870.svg"
       },
       {
        "name": "Energy Bern",
@@ -9650,7 +9821,8 @@
         "rock",
         "easy_listening",
         "soul_rnb_funk"
-       ]
+       ],
+       "rb": "960b8e6f-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Energy Zürich Radio",
@@ -9819,7 +9991,8 @@
         "various_eclectic",
         "disco_eurodance"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "d8698e5c-0179-4c2e-b71f-f6ef3e83faaf"
       },
       {
        "name": "IP music Radio",
@@ -9839,7 +10012,8 @@
         "oldies",
         "rock",
         "easy_listening"
-       ]
+       ],
+       "rb": "72452584-4350-442f-b617-8169c694c73b"
       },
       {
        "name": "Jugendtreff FM Listen live",
@@ -9974,11 +10148,13 @@
       },
       {
        "name": "my105 - Charts",
-       "url": "https://stream01.my105.ch/my105charts.mp3"
+       "url": "https://stream01.my105.ch/my105charts.mp3",
+       "rb": "9640de03-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "my105 - Fresh",
-       "url": "http://stream01.my105.ch/my105fresh.mp3"
+       "url": "http://stream01.my105.ch/my105fresh.mp3",
+       "rb": "9643b752-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "my105 - Original",
@@ -9989,7 +10165,8 @@
         "pop_hits",
         "electronic",
         "rock"
-       ]
+       ],
+       "rb": "9643b871-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "My105 All The Hits",
@@ -10004,7 +10181,8 @@
         "decade_90s",
         "various_eclectic",
         "oldies"
-       ]
+       ],
+       "rb": "96410fb3-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "my105 All The Hits",
@@ -10056,7 +10234,8 @@
        "tags": [
         "pop_hits",
         "electronic"
-       ]
+       ],
+       "rb": "9643b239-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "my105 Original",
@@ -10106,7 +10285,8 @@
       },
       {
        "name": "my105 X-MAS Radio AAC",
-       "url": "https://stream01.my105.ch/my105xmas-aac.mp3?n=fb15b7530a7ba3775d0d"
+       "url": "https://stream01.my105.ch/my105xmas-aac.mp3?n=fb15b7530a7ba3775d0d",
+       "rb": "b308490c-1d33-4106-b008-2c85317391a8"
       },
       {
        "name": "my105 – Mashup",
@@ -10196,7 +10376,9 @@
       },
       {
        "name": "One FM-107.0 FM",
-       "url": "https://onefm.ice.infomaniak.ch/onefm-high.aac"
+       "url": "https://onefm.ice.infomaniak.ch/onefm-high.aac",
+       "rb": "d567d053-cb05-41c0-9696-99eb092216af",
+       "logo": "https://www.onefm.ch/wp-content/uploads/2018/08/favicon.png"
       },
       {
        "name": "ORBITAL",
@@ -10342,7 +10524,8 @@
       {
        "name": "R102",
        "url": "http://94.23.66.155:9334/stream",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "9629e3d4-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Radio 1 CH",
@@ -10569,7 +10752,9 @@
         "classical",
         "decade_80s",
         "news_talk"
-       ]
+       ],
+       "rb": "9606b4de-0601-11e8-ae97-52543be04c81",
+       "logo": "http://www.basilisk.ch/assets/favicons/apple-icon-120x120.png"
       },
       {
        "name": "Radio Basilisk",
@@ -10595,7 +10780,8 @@
         "sports",
         "folk",
         "various_eclectic"
-       ]
+       ],
+       "rb": "ded0a78e-8cec-49ff-860b-be8a8e5c4d8e"
       },
       {
        "name": "Radio BeO",
@@ -10649,7 +10835,9 @@
       {
        "name": "Radio Central",
        "url": "https://stream.streambase.ch/rcentral/mp3-192/chmedia-radio-web/",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "9d77a3ba-e9fe-4e87-b958-79927bec5f41",
+       "logo": "https://ch.az-cdn.ch/static/4.68.0/radiocentral/device-icons/512x512.png"
       },
       {
        "name": "Radio Central Charts",
@@ -10751,7 +10939,8 @@
         "reggae_ska",
         "soul_rnb_funk",
         "various_eclectic"
-       ]
+       ],
+       "rb": "96074028-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Radio Freiburg",
@@ -10973,7 +11162,9 @@
         "easy_listening",
         "jazz",
         "news_talk"
-       ]
+       ],
+       "rb": "8c9041ef-372d-46d7-87ed-d9f1d1d92e38",
+       "logo": "https://www.radioswisspop.ch/favicon.ico"
       },
       {
        "name": "Radio Swiss Pop - Berne",
@@ -11020,7 +11211,8 @@
         "electronic",
         "hip_hop_rap",
         "rock"
-       ]
+       ],
+       "rb": "9626c282-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Radio-Nevermind",
@@ -11067,7 +11259,8 @@
       {
        "name": "Radioswiss",
        "url": "http://stream.laut.fm/radioswiss",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "b27224c6-7bb0-49cb-8ca2-aa9afe42d112"
       },
       {
        "name": "RaSA",
@@ -11220,7 +11413,8 @@
         "decade_2000s",
         "oldies",
         "rock"
-       ]
+       ],
+       "rb": "aa98e5e6-63d3-4469-a0f7-e2868efd96a0"
       },
       {
        "name": "SRF 1 Aargau Solothurn Regionaljournal",
@@ -11333,7 +11527,8 @@
        "tags": [
         "pop_hits",
         "rock"
-       ]
+       ],
+       "rb": "ea423122-f32b-11e9-a96c-52543be04c81"
       },
       {
        "name": "Traxx FM Pop",
@@ -11410,7 +11605,8 @@
       {
        "name": "World Radio Switzerland",
        "url": "https://uksouth.streaming.broadcast.radio:10290/wrs",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "4ef67919-0af9-4940-8ab5-92d0b06e961d"
       },
       {
        "name": "Yes FM Hot 100",
@@ -11638,7 +11834,8 @@
         "folk",
         "hip_hop_rap"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "960b6d95-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Radio-Bass-Of-Melodie",
@@ -11958,7 +12155,9 @@
         "pop_hits",
         "alternative_indie"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "907901af-7c31-4785-9a55-3eb42d797f22",
+       "logo": "https://breathfm.de/_next/image?url=%2Fbreathfm-logo-transparent.webp&w=640&q=75"
       },
       {
        "name": "Citylab Radio",
@@ -12341,7 +12540,8 @@
         "various_eclectic",
         "disco_eurodance"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "e3a42c79-f71a-417e-a17e-8ae47ff7a6aa"
       },
       {
        "name": "IP music - aacPlus@128 Kb/s",
@@ -12399,7 +12599,8 @@
         "soul_rnb_funk",
         "house",
         "decade_70s"
-       ]
+       ],
+       "rb": "a4e4c6c0-432c-4d10-b980-f03a5ac0c478"
       },
       {
        "name": "Kuschelrock laut.fm",
@@ -12493,7 +12694,8 @@
        "tags": [
         "rock",
         "alternative_indie"
-       ]
+       ],
+       "rb": "9643ae9a-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "my105 – Rock",
@@ -13217,7 +13419,9 @@
        "tags": [
         "pop_hits",
         "rock"
-       ]
+       ],
+       "rb": "890b3eb9-4018-4c41-95ea-146cc5201745",
+       "logo": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png"
       },
       {
        "name": "Radio SRF 3",
@@ -13225,7 +13429,9 @@
        "tags": [
         "rock",
         "pop_hits"
-       ]
+       ],
+       "rb": "be0048b7-70c2-4cc1-85dc-e6d0e00bba83",
+       "logo": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png"
       },
       {
        "name": "Radio Swiss Pop",
@@ -13234,7 +13440,8 @@
         "rock",
         "pop_hits"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "a26c0b03-16c7-4e69-8555-0e8e5590d718"
       },
       {
        "name": "Radio Swiss Pop HLS 96",
@@ -13331,7 +13538,9 @@
         "pop_hits",
         "news_talk"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "f58d3116-4593-4851-878f-0820d7597f70",
+       "logo": "https://radiox.ch/.resources/radiox-theme/webresources/images/favicon/touch-icon-ipad.png"
       },
       {
        "name": "Radio-Drachenblut",
@@ -13339,7 +13548,8 @@
        "tags": [
         "rock",
         "metal"
-       ]
+       ],
+       "rb": "4992d90f-2bed-445d-abc6-6065e7faa38e"
       },
       {
        "name": "Radio-Rein",
@@ -13361,7 +13571,8 @@
         "decade_2000s",
         "decade_80s",
         "decade_90s"
-       ]
+       ],
+       "rb": "c815d308-da70-4e4e-b9a9-8aa1edb09951"
       },
       {
        "name": "Radio15",
@@ -13602,7 +13813,8 @@
         "various_eclectic",
         "news_talk",
         "hip_hop_rap"
-       ]
+       ],
+       "rb": "05d34912-6456-4abf-a9ec-c3c10ad4c408"
       },
       {
        "name": "RTS Couleur 3",
@@ -13675,7 +13887,8 @@
         "rock",
         "ambient_relax"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "dbcbdefe-8448-4997-ad46-1c921edd0174"
       },
       {
        "name": "Spoon Radio - Classic Rock",
@@ -13684,22 +13897,27 @@
         "rock",
         "classical"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "3a30e75e-3f4a-460c-9a99-6fb86178a447"
       },
       {
        "name": "Spoon Radio - Hard Rock",
        "url": "https://spoonradiohardrock.ice.infomaniak.ch/spoon-hardrock-hd.aac?n=f1b83b45ddc4a3cadadf",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "4488dc76-a690-4e51-a46c-3600be8195c4"
       },
       {
        "name": "Spoon Radio - Modern Rock",
        "url": "https://spoonradiomodernrock.ice.infomaniak.ch/spoon-modernrock-hd.aac?n=945e79c12fbc2e921879",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "0cacdda0-a9cf-4933-b45a-4fba003d9ecc",
+       "logo": "https://drive.google.com/file/d/1MQai1JfYOPzDbJR2uDeZYRBaxTxyqqED/view?usp=drivesdk"
       },
       {
        "name": "Spoon Radio - Rock Ballads",
        "url": "https://spoonradiorockballads.ice.infomaniak.ch/spoon-rockballads-hd.aac?ua=InfomaniakPlayer",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "ebfd9ee6-f7a5-41ab-9c0c-cc104d996067"
       },
       {
        "name": "Spoon Rock Radio",
@@ -13865,7 +14083,8 @@
         "electronic",
         "alternative_indie",
         "various_eclectic"
-       ]
+       ],
+       "rb": "9626c359-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "VIBRATION - POPROCK",
@@ -14166,7 +14385,8 @@
        "tags": [
         "soul_rnb_funk",
         "decade_60s"
-       ]
+       ],
+       "rb": "3e533da5-a943-472d-b8c7-2f872402b030"
       },
       {
        "name": "1.FM - Funky Express Radio",
@@ -14462,7 +14682,8 @@
         "pop_hits",
         "jazz",
         "blues"
-       ]
+       ],
+       "rb": "414493f3-4e29-4ebd-a8be-0097668a9f50"
       },
       {
        "name": "pineapplejuice",
@@ -14533,7 +14754,8 @@
         "pop_hits",
         "easy_listening"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "962c9b25-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Radio KIF",
@@ -14576,7 +14798,9 @@
         "oldies",
         "pop_hits",
         "decade_90s"
-       ]
+       ],
+       "rb": "0d0162ec-0ce4-449f-8f2c-948d64a7a1e9",
+       "logo": "https://www.wix.com/favicon.ico"
       },
       {
        "name": "RFT Carnevale - Radio Ticino Listen live",
@@ -14635,7 +14859,9 @@
         "schlager_polka",
         "folk",
         "jazz"
-       ]
+       ],
+       "rb": "41efa34b-7c6f-4960-86ba-c5419553334f",
+       "logo": "https://rundfunk.fm/static/assets/favicon/favicon-32x32.png"
       },
       {
        "name": "Rundfunk.fm",
@@ -14665,7 +14891,9 @@
        "name": "sunshine FM",
        "url": "http://sunshine.ice.infomaniak.ch/sunshine-mp3.mp3",
        "country_inferred": true,
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "2846503c-9aab-42ab-9426-07cf58de2f48",
+       "logo": "https://sunshineradio.fr/wp-content/uploads/2024/08/favicon.png"
       },
       {
        "name": "Swigg R&B US",
@@ -14683,7 +14911,9 @@
         "latin",
         "world"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "6d4127ba-cd83-45c2-90ad-57dfd90b1457",
+       "logo": "https://swissgroove.ch/favicon.ico"
       },
       {
        "name": "SwissGroove",
@@ -14780,7 +15010,9 @@
         "rock",
         "pop_hits",
         "oldies"
-       ]
+       ],
+       "rb": "4cde8f3b-17fc-4802-ba40-e8feae5395a1",
+       "logo": "https://www.neo1.ch/fileadmin/user_upload/newsaudio/2018/11/neo1-logo.jpg"
       },
       {
        "name": "Radio Ragni",
@@ -14880,7 +15112,9 @@
        "name": "Globule Radio",
        "url": "https://905.ice.infomaniak.ch/905-128.mp3",
        "country_inferred": true,
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "325b587b-7e9a-4378-89c0-e82c53327457",
+       "logo": "https://globule.chamonix.radio/favicon.ico"
       },
       {
        "name": "Kollektive - Klangwelt.FM",
@@ -15717,7 +15951,8 @@
       {
        "name": "1.FM – Top Rap – Zurich – Canton of Zurich – CH",
        "url": "https://strm112.1.fm/jamz_mobile_mp3?aw_0_req.gdpr=true&listenerid=e597d5e965c72c47068838e53aff8e1c&awparams=companionAds%3Atrue",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "4e4c0093-5980-47eb-8816-ef53f3870482"
       },
       {
        "name": "1.FM – Tropical House – Zurich – Canton of Zurich – CH",
@@ -15907,7 +16142,9 @@
       {
        "name": "Basspistol Radio",
        "url": "https://radio.basspistol.com/radio.mp3",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "876d62ba-1be4-4406-86fd-e0454839e325",
+       "logo": "https://basspistol.com/siteicon.png"
       },
       {
        "name": "Beach Love House Radio",
@@ -16021,7 +16258,9 @@
       },
       {
        "name": "Country Radio Switzerland CRS",
-       "url": "http://stream.countryradio.ch/crs-128.mp3"
+       "url": "http://stream.countryradio.ch/crs-128.mp3",
+       "rb": "8ac2325b-a582-4e6b-b3fc-6db68e9b960c",
+       "logo": "https://www.countryradio.ch/favicon.ico"
       },
       {
        "name": "crista portuguese",
@@ -16132,7 +16371,9 @@
       {
        "name": "Dream Sequence",
        "url": "https://www.radioking.com/play/dream-sequence/508976?n=ee6ae28f781e8125a408",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "2c3ae89a-977a-445b-9a8a-bef76cd0ebfa",
+       "logo": "https://static.wixstatic.com/media/e05539_cbaf7759467242c1843d8bac2619e127~mv2.png/v1/crop/x_9,y_0,w_3107,h_1875/fill/w_490,h_296,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/customcolor_logo_transparent_background.png"
       },
       {
        "name": "Easy Radio",
@@ -16181,7 +16422,8 @@
       },
       {
        "name": "Electro Radio",
-       "url": "https://www.electroradio.fm/stream.m3u"
+       "url": "https://www.electroradio.fm/stream.m3u",
+       "rb": "960babf9-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Electronic Music",
@@ -16191,7 +16433,9 @@
       {
        "name": "Electrons Libres",
        "url": "https://api.radioking.io/radio/427889/listen.m3u?n=e8c1d1287f1beeea9bdd",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "f02a2856-5044-4b35-a7a2-341d4124fc95",
+       "logo": "https://electronslibres.ch/wp-content/uploads/2021/06/cropped-LogoRadioSimpleSansTxt-1.png"
       },
       {
        "name": "electroradio.fm",
@@ -16429,7 +16673,9 @@
        "name": "Geneva Latina Radio - Suisse",
        "url": "https://genevalatina.ice.infomaniak.ch:80/genevalatina-128.mp3",
        "country_inferred": true,
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "ac2bd95d-453a-4b37-b4f1-a3a1ba4b2c46",
+       "logo": "https://genevalatina.ch/wp-content/uploads/2021/02/cropped-Logo-Geneva-Latina-sans-text-v2-1.png"
       },
       {
        "name": "GetDeep",
@@ -16801,7 +17047,9 @@
        "name": "LuXRadio - Suisse",
        "url": "https://fluxradio.ice.infomaniak.ch/fluxradio-32.aac",
        "country_inferred": true,
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "33c26dd3-284e-42aa-8491-7eff1e082c47",
+       "logo": "https://luxradio.ch/wp-content/uploads/2022/03/Logo-Colour.png"
       },
       {
        "name": "M24 FM",
@@ -16826,7 +17074,9 @@
       {
        "name": "Maxxima – Geneva – Canton of Geneva – CH",
        "url": "https://maxxima.mine.nu/maxxima.aac",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "6310e20e-91dc-4a2c-a289-7f055b0b16d0",
+       "logo": "https://maxxima.ch/wp-content/uploads/2018/03/cropped-maxxima_radio_512-180x180.png"
       },
       {
        "name": "mayiodj",
@@ -17054,7 +17304,8 @@
       {
        "name": "NRJ Energy Schweiz - Zürich",
        "url": "http://barix-ice.streamguys1.com:80/barix_hi",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "dbaf3203-b726-4742-ae68-7b41d7e58ee0"
       },
       {
        "name": "NRJ Léman – Geneva – Canton of Geneva – CH",
@@ -17176,7 +17427,8 @@
       {
        "name": "power101",
        "url": "https://stream.zeno.fm/rix7wcslvc0tv",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "1fb1aa25-4d6b-4345-a3a9-93d718a5e51e"
       },
       {
        "name": "Progressive Channel - Plexus Radio",
@@ -17249,7 +17501,9 @@
       {
        "name": "Radio 32 Goldies",
        "url": "https://stream.streambase.ch/r32goldies/mp3-192/direct/?n=6cd447f4933fe342ed75",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "3a88b9a3-0e12-4b0c-a1c3-f6ed2301d789",
+       "logo": "https://ch.az-cdn.ch/static/4.22.1/radio32/device-icons/192x192.png"
       },
       {
        "name": "Radio 32 – CH-SO",
@@ -17303,7 +17557,9 @@
       {
        "name": "Radio Argovia",
        "url": "https://stream.streambase.ch/argovia/mp3-192/direct/?n=d5e58b833d9eebb4f34e",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "0c1afdef-1078-41fd-a585-c69b347ac045",
+       "logo": "https://ch.az-cdn.ch/static/4.46.3/argovia/device-icons/48x48.png"
       },
       {
        "name": "Radio Argovia - Aargau, Schweiz",
@@ -17360,7 +17616,9 @@
       {
        "name": "RADIO BERN1",
        "url": "https://stream.streambase.ch/radiobern1/mp3-192/direct/?n=30039b5bbc055fe429e4",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "95142051-a845-4523-a11a-2521e9ba0971",
+       "logo": "https://static.az-cdn.ch/__ip/l0CfiOHmV_gzjlkA8MAghSK6CUs/c8f09de14b2030ffea76cb3ac3a3ab7887770731/remote.adjust.rotate=0&remote.size.w=1080&remote.size.h=1080&local.crop.h=1080&local.crop.w=1080&local.crop.x=0&local.crop.y=0&r=2,radio-162x162"
       },
       {
        "name": "Radio Bern1 80s – CH-BE",
@@ -17419,7 +17677,9 @@
       {
        "name": "Radio Central",
        "url": "https://stream.streambase.ch/rcentral/mp3-192/direct/?n=cb6f1240a7ebc65896ea",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "a80bd23d-9bd2-43f7-8e2c-205695451589",
+       "logo": "https://ch.az-cdn.ch/static/4.3.0/radiocentral/device-icons/192x192.png"
       },
       {
        "name": "Radio Central - Zentralschweiz",
@@ -17514,7 +17774,8 @@
       {
        "name": "Radio Eviva",
        "url": "https://stream.streambase.ch/reviva/mp3-192/direct/?n=134e13ebe953752a76ca",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "4d548e92-325f-4f5a-ab85-6dcf7b63ba79"
       },
       {
        "name": "Radio Eviva - Schweiz",
@@ -17662,7 +17923,9 @@
       {
        "name": "Radio Melody Schweiz",
        "url": "https://stream.streambase.ch/rm/mp3-192/mytuner/",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "1afd93f4-2061-48e2-ae13-df204c17c24c",
+       "logo": "https://ch.az-cdn.ch/static/4.18.0/radiomelody/device-icons/512x512.png"
       },
       {
        "name": "RADIO MMM BIEL/BIENNE",
@@ -17757,7 +18020,9 @@
       {
        "name": "Radio Pilatus",
        "url": "https://stream.streambase.ch/radiopilatus/mp3-192/chmedia/?n=9c739ff1e11012ef70ca",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "7fa043b5-6a69-40ce-abaa-2274634484bc",
+       "logo": "https://ch.az-cdn.ch/static/4.10.3/radiopilatus/device-icons/192x192.png"
       },
       {
        "name": "Radio Pilatus - Luzern, Schweiz",
@@ -17896,7 +18161,8 @@
       {
        "name": "Radio SRF 1",
        "url": "http://stream.srg-ssr.ch/drs1/aacp_32.m3u",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "32581248-5082-11e8-a4d1-52543be04c81"
       },
       {
        "name": "Radio SRF 1",
@@ -17912,65 +18178,83 @@
       {
        "name": "Radio SRF 1 Aargau Solothurn",
        "url": "http://stream.srg-ssr.ch/regi_ag_so/aacp_32.m3u",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "555ed24b-5083-11e8-a4d1-52543be04c81"
       },
       {
        "name": "Radio SRF 1 Basel Baselland",
        "url": "http://stream.srg-ssr.ch/regi_bs_bl/aacp_32.m3u",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "c50ec229-5083-11e8-a4d1-52543be04c81",
+       "logo": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png"
       },
       {
        "name": "Radio SRF 1 Bern Freibourg Wallis",
        "url": "http://stream.srg-ssr.ch/regi_be_fr_vs/aacp_32.m3u",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "23e99d6c-5084-11e8-a4d1-52543be04c81"
       },
       {
        "name": "Radio SRF 1 Ostschweiz",
        "url": "http://stream.srg-ssr.ch/regi_ost/aacp_32.m3u",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "a0c2924c-5084-11e8-a4d1-52543be04c81"
       },
       {
        "name": "Radio SRF 1 Zentralschweiz",
        "url": "http://stream.srg-ssr.ch/regi_zentr/aacp_32.m3u",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "01f33d12-5085-11e8-a4d1-52543be04c81"
       },
       {
        "name": "Radio SRF 1 Zürich Schaffhausen",
        "url": "http://stream.srg-ssr.ch/regi_zh_sh/aacp_32.m3u",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "76a8392c-5085-11e8-a4d1-52543be04c81"
       },
       {
        "name": "Radio SRF 2 Kultur",
        "url": "http://stream.srg-ssr.ch/drs2/aacp_32.m3u",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "229170ac-5086-11e8-a4d1-52543be04c81"
       },
       {
        "name": "Radio SRF 3",
        "url": "http://stream.srg-ssr.ch/drs3/aacp_32.m3u",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "aa317a71-5086-11e8-a4d1-52543be04c81"
       },
       {
        "name": "Radio SRF 4 News",
-       "url": "http://stream.srg-ssr.ch/drs3/aacp_96.ram"
+       "url": "http://stream.srg-ssr.ch/drs3/aacp_96.ram",
+       "rb": "71f09598-5bf8-4bd6-aeb7-24f9723a4f39",
+       "logo": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png"
       },
       {
        "name": "Radio SRF 4 News",
        "url": "http://stream.srg-ssr.ch/drs4news/aacp_32.m3u",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "03c10779-5087-11e8-a4d1-52543be04c81",
+       "logo": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png"
       },
       {
        "name": "Radio SRF Musikwelle",
        "url": "http://stream.srg-ssr.ch/drsmw/aacp_32.m3u",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "c27d4c9a-5087-11e8-a4d1-52543be04c81"
       },
       {
        "name": "Radio SRF Virus",
-       "url": "http://stream.srg-ssr.ch/drsvirus/aacp_96.ram"
+       "url": "http://stream.srg-ssr.ch/drsvirus/aacp_96.ram",
+       "rb": "b8c50a5f-6f6c-4563-8683-f62f9ce7b75a",
+       "logo": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png"
       },
       {
        "name": "Radio SRF Virus",
        "url": "http://stream.srg-ssr.ch/drsvirus/aacp_32.m3u",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "5620ec14-5087-11e8-a4d1-52543be04c81",
+       "logo": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png"
       },
       {
        "name": "Radio Stadtfilter Winterthur",
@@ -18092,12 +18376,14 @@
       {
        "name": "Radio X",
        "url": "http://mp3.radiox.ch:8000/standard.mp3",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "960b6d95-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Radio X Basel OGG Stream",
        "url": "http://mp3.radiox.ch:8000/standard.ogg.m3u",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "96447928-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Radio Yacht – Zurich – Canton of Zurich – CH",
@@ -18132,12 +18418,16 @@
       {
        "name": "Radio24",
        "url": "https://stream.streambase.ch/radio24/mp3-192/direct/?n=d6261d9281e172d7437f",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "3a19f974-53ee-4805-8432-4a592be49cd1",
+       "logo": "https://upload.wikimedia.org/wikipedia/de/3/33/Radio_24_Logo.svg"
       },
       {
        "name": "Radio2Go",
        "url": "https://uksoutha.streaming.broadcast.radio/radio2go",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "c53e06ca-5e20-4322-836d-f6ce427f55fc",
+       "logo": "https://radio2go.fm/assets/radio2go-logo-Jnm4-Dct.png"
       },
       {
        "name": "radio3d",
@@ -18199,7 +18489,8 @@
       },
       {
        "name": "Radiopolis",
-       "url": "http://rs01.swissnwx.ch:20080/stream"
+       "url": "http://rs01.swissnwx.ch:20080/stream",
+       "rb": "70c5b03c-4d0d-44ae-915e-7392efd9f17e"
       },
       {
        "name": "RadioSwiss",
@@ -18362,7 +18653,9 @@
       {
        "name": "RSI Rete Due",
        "url": "http://stream.srg-ssr.ch/retedue/aacp_32.m3u",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "17b7d728-5091-11e8-a4d1-52543be04c81",
+       "logo": "https://www.rsi.ch/icons/apple-touch-icon-70-precomposed.png"
       },
       {
        "name": "RSI Rete Due",
@@ -18372,7 +18665,9 @@
       {
        "name": "RSI Rete Tre",
        "url": "http://stream.srg-ssr.ch/retetre/aacp_32.m3u",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "5a0f0c92-5091-11e8-a4d1-52543be04c81",
+       "logo": "https://www.rsi.ch/icons/apple-touch-icon-70-precomposed.png"
       },
       {
        "name": "RSI Rete Tre",
@@ -18382,27 +18677,36 @@
       {
        "name": "RSI Rete Uno",
        "url": "http://stream.srg-ssr.ch/reteuno/aacp_32.m3u",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "df828c05-5090-11e8-a4d1-52543be04c81",
+       "logo": "https://www.rsi.ch/icons/apple-touch-icon-70-precomposed.png"
       },
       {
        "name": "RSR Couleur 3",
        "url": "http://stream.srg-ssr.ch/couleur3/aacp_32.m3u",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "ee9f15b9-508a-11e8-a4d1-52543be04c81"
       },
       {
        "name": "RSR Espace 2",
        "url": "http://stream.srg-ssr.ch/espace-2/aacp_32.m3u",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "8f6a70f6-508a-11e8-a4d1-52543be04c81",
+       "logo": "https://www.rts.ch/hbv7/static/images/favicon/rts/152x152.png"
       },
       {
        "name": "RSR La Premiere",
        "url": "http://stream.srg-ssr.ch/la-1ere/aacp_32.m3u",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "2b9f1cb3-508a-11e8-a4d1-52543be04c81",
+       "logo": "https://www.rts.ch/hbv7/static/images/favicon/rts/152x152.png"
       },
       {
        "name": "RSR Option Musique",
        "url": "http://stream.srg-ssr.ch/option-musique/aacp_32.m3u",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "478e5429-508b-11e8-a4d1-52543be04c81",
+       "logo": "https://www.rts.ch/hbv7/static/images/favicon/rts/152x152.png"
       },
       {
        "name": "RTS Couleur 3 – CH-BE",
@@ -18417,7 +18721,8 @@
       {
        "name": "RTS La Première – Lausanne – Canton of Vaud – CH",
        "url": "http://stream.srg-ssr.ch/la-1ere/mp3_128.m3u",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "4ed0f636-3c0d-409b-ae2d-7f0289128414"
       },
       {
        "name": "Rubivermelho",
@@ -18533,7 +18838,9 @@
       },
       {
        "name": "SRF Musikwelle",
-       "url": "http://stream.srg-ssr.ch/m/drsmw/aacp_96"
+       "url": "http://stream.srg-ssr.ch/m/drsmw/aacp_96",
+       "rb": "27641af2-b800-4e06-bf85-9e4371521b36",
+       "logo": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png"
       },
       {
        "name": "SRF Virus",
@@ -18541,11 +18848,14 @@
       },
       {
        "name": "SRF1 Radio",
-       "url": "http://stream.srg-ssr.ch/drs1/aacp_96.m3u"
+       "url": "http://stream.srg-ssr.ch/drs1/aacp_96.m3u",
+       "rb": "2614bd87-1179-11e9-a80b-52543be04c81"
       },
       {
        "name": "SRF1 Regionaljournal Aargau Solothurn",
-       "url": "https://stream.srg-ssr.ch/regi_ag_so/aacp_96.m3u"
+       "url": "https://stream.srg-ssr.ch/regi_ag_so/aacp_96.m3u",
+       "rb": "4a9989a6-409f-4c8a-94b3-2b985730ef37",
+       "logo": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png"
       },
       {
        "name": "Starbit",
@@ -18606,7 +18916,9 @@
       {
        "name": "Sunshine Radio Switzerland",
        "url": "https://stream.streambase.ch/rsunshine/mp3-192/chmedia-radio-web/1699795900047_8633080?n=60b95a5aed0ada35244f",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "6cb03e29-0706-445d-9a28-282e3c21dcd6",
+       "logo": "https://ch.az-cdn.ch/static/4.3.1/radiosunshine/device-icons/512x512.png"
       },
       {
        "name": "Surfers Paradise",
@@ -18632,7 +18944,8 @@
       {
        "name": "Swiss Pop",
        "url": "http://www.radioswisspop.ch/live/aacp.m3u",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "b74c8d24-1639-11e9-a80b-52543be04c81"
       },
       {
        "name": "Swiss Radio Modern Jazz",
@@ -18642,7 +18955,9 @@
       {
        "name": "SWISSCLASSICA ITALIA",
        "url": "https://stream.srg-ssr.ch/rsc_it/mp3_128.m3u",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "147b92f3-ed17-4408-ac91-5f53b6ad2957",
+       "logo": "https://www.radioswissclassic.ch/favicon.ico"
       },
       {
        "name": "SwissRadio.ch Classical – Yverdon-les-Bains – Canton of Vaud – CH",
@@ -18794,7 +19109,8 @@
       },
       {
        "name": "TVM3.TV",
-       "url": "http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8"
+       "url": "http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8",
+       "rb": "025584a8-4ac4-11e8-9b06-52543be04c81"
       },
       {
        "name": "UBAS Radio",
@@ -18809,7 +19125,9 @@
       {
        "name": "URBN Radio",
        "url": "https://dr2101.ice.infomaniak.ch/dr2103.mp3?n=45ba406325f61d259cba",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "65309759-6273-4340-a287-67ce6cca538f",
+       "logo": "https://urbnradio.ch/favicon.ico"
       },
       {
        "name": "URBN Radio - Suisse",
@@ -18939,7 +19257,9 @@
       {
        "name": "Virgin Radio Switzerland",
        "url": "https://stream.streambase.ch/vrock/mp3-192/direct/",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "31d78630-003c-4f95-9f66-dcff315336c7",
+       "logo": "https://ch.az-cdn.ch/static/4.52.1/virginrock/device-icons/48x48.png"
       },
       {
        "name": "Virtueldance",
@@ -19062,7 +19382,9 @@
         "rock",
         "pop_hits",
         "folk"
-       ]
+       ],
+       "rb": "78ffd9e4-5ff7-11e8-b15b-52543be04c81",
+       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Couleur_3_logo.svg/1200px-Couleur_3_logo.svg.png"
       },
       {
        "name": "GRRIF",
@@ -19113,7 +19435,8 @@
         "rock",
         "ambient_relax",
         "pop_hits"
-       ]
+       ],
+       "rb": "7e0a8594-c455-4e7a-be89-efe7e955944c"
       },
       {
        "name": "Vibration Poprock",
@@ -19175,7 +19498,9 @@
         "holiday",
         "various_eclectic",
         "news_talk"
-       ]
+       ],
+       "rb": "493c5a77-75b4-4a2e-908b-1fb3d334eea2",
+       "logo": "https://radio-r.ch/wp-content/uploads/2020/04/cropped-radio-r-180x180.png"
       },
       {
        "name": "Radio R",
@@ -19229,7 +19554,9 @@
         "pop_hits",
         "news_talk",
         "jazz"
-       ]
+       ],
+       "rb": "209340db-4929-11e8-b1b0-52543be04c81",
+       "logo": "http://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png"
       },
       {
        "name": "Radio Suisse Classique",
@@ -19241,11 +19568,13 @@
        "tags": [
         "classical",
         "news_talk"
-       ]
+       ],
+       "rb": "9645be61-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Radio Swiss Classic French",
-       "url": "http://www.radioswissclassic.ch/fr/live/aacp32.m3u"
+       "url": "http://www.radioswissclassic.ch/fr/live/aacp32.m3u",
+       "rb": "964a1754-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "RTS Espace 2",
@@ -19254,7 +19583,9 @@
         "classical",
         "news_talk",
         "jazz"
-       ]
+       ],
+       "rb": "ef11fe43-7752-11ea-b1cf-52543be04c81",
+       "logo": "http://www.rts.ch/favicon.ico"
       },
       {
        "name": "RTS Espace 2",
@@ -19372,7 +19703,9 @@
        "tags": [
         "decade_90s",
         "pop_hits"
-       ]
+       ],
+       "rb": "871eef57-289c-47f5-9cd4-17b9bd7846a5",
+       "logo": "https://www.onefm.ch/wp-content/uploads/2018/08/favicon.png"
       }
      ]
     },
@@ -19410,7 +19743,9 @@
      "stations": [
       {
        "name": "IP Music Slow",
-       "url": "https://live9.avf.ch/ipmusicslowaacp96"
+       "url": "https://live9.avf.ch/ipmusicslowaacp96",
+       "rb": "f46955a2-77e7-4a30-96af-abdd89c70a2e",
+       "logo": "https://www.ipmusicslow.ch/images/logo-ipmusicslow.png"
       },
       {
        "name": "IP music slow (128 kbps AAC)",
@@ -19421,7 +19756,8 @@
         "pop_hits",
         "easy_listening",
         "various_eclectic"
-       ]
+       ],
+       "rb": "960648f3-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "LFM Love",
@@ -19456,7 +19792,8 @@
         "various_eclectic",
         "world",
         "folk"
-       ]
+       ],
+       "rb": "1048870e-e146-4268-bf39-08124c32965f"
       },
       {
        "name": "Vibration Soft Hits",
@@ -19484,7 +19821,9 @@
         "electronic",
         "news_talk",
         "decade_70s"
-       ]
+       ],
+       "rb": "29c2975b-3ca9-4f4e-b5fb-1bfdc2e0eba2",
+       "logo": "https://back2noize.com/wp-content/uploads/2019/08/back2noize-logo-round-300x300.jpg"
       },
       {
        "name": "d oo b Radio",
@@ -19563,7 +19902,8 @@
        "tags": [
         "pop_hits",
         "electronic"
-       ]
+       ],
+       "rb": "823de58e-0af8-4287-9643-83e43b572f9c"
       },
       {
        "name": "Radio Stop FM",
@@ -19581,7 +19921,8 @@
         "pop_hits",
         "electronic",
         "ambient_relax"
-       ]
+       ],
+       "rb": "69641b03-0907-45e1-888f-79fadb9fe6bf"
       },
       {
        "name": "Radiofr. Fresh",
@@ -19675,7 +20016,8 @@
         "pop_hits",
         "oldies",
         "news_talk"
-       ]
+       ],
+       "rb": "1ca1ea07-2e7e-41b4-af25-fd51a08bcb47"
       },
       {
        "name": "Rouge FM -  France",
@@ -19749,7 +20091,9 @@
         "techno",
         "soul_rnb_funk",
         "ambient_relax"
-       ]
+       ],
+       "rb": "5ff66832-e6b3-486b-bac8-e00ca29b6f67",
+       "logo": "https://image.radioking.io/radios/181657/logo/098b1c15-74cf-4638-b264-517fb9b06eac.jpeg"
       },
       {
        "name": "StarLegend radio",
@@ -19812,7 +20156,8 @@
         "electronic",
         "pop_hits",
         "various_eclectic"
-       ]
+       ],
+       "rb": "5ee759da-f32b-11e9-a96c-52543be04c81"
       }
      ]
     },
@@ -19862,7 +20207,9 @@
         "latin",
         "folk",
         "pop_hits"
-       ]
+       ],
+       "rb": "9632ae87-0601-11e8-ae97-52543be04c81",
+       "logo": "http://www.rougefm.com/imgs/webradios/latino.png"
       },
       {
        "name": "Vibration - Vibracion Latina",
@@ -19899,7 +20246,8 @@
         "easy_listening",
         "rock",
         "world"
-       ]
+       ],
+       "rb": "962abb2d-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Radio Chablais",
@@ -19932,7 +20280,9 @@
         "house",
         "classical",
         "decade_70s"
-       ]
+       ],
+       "rb": "bec62aba-aedf-4ead-82e3-31c39c1fc00a",
+       "logo": "https://www.radiolac.ch/wp-content/uploads/2017/08/android-icon-48x48.png"
       },
       {
        "name": "Radio LOL FM",
@@ -19966,7 +20316,8 @@
         "electronic",
         "folk",
         "jazz"
-       ]
+       ],
+       "rb": "5e007f4a-4db8-4145-91fa-544a85ae7389"
       },
       {
        "name": "RFJ",
@@ -19976,7 +20327,8 @@
         "news_talk",
         "rock",
         "world"
-       ]
+       ],
+       "rb": "960a893c-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Rhône FM",
@@ -19987,7 +20339,9 @@
         "sports",
         "easy_listening",
         "trance_goa"
-       ]
+       ],
+       "rb": "96055c03-0601-11e8-ae97-52543be04c81",
+       "logo": "http://www.rhonefm.ch/favicon/4/120x120.png"
       },
       {
        "name": "RTN",
@@ -19997,7 +20351,8 @@
         "news_talk",
         "rock",
         "various_eclectic"
-       ]
+       ],
+       "rb": "96094a59-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "RTS Couleur 3",
@@ -20017,7 +20372,9 @@
         "news_talk",
         "classical",
         "jazz"
-       ]
+       ],
+       "rb": "9607cf45-0601-11e8-ae97-52543be04c81",
+       "logo": "https://www.rts.ch/hbv7/static/images/favicon/rts/152x152.png"
       },
       {
        "name": "RTS La Premiere",
@@ -20036,7 +20393,9 @@
         "various_eclectic",
         "rock",
         "pop_hits"
-       ]
+       ],
+       "rb": "9c9127ad-b013-4567-aa02-e2938917adab",
+       "logo": "https://i.postimg.cc/wTG6YwVj/1000002923.png"
       },
       {
        "name": "RTS La Première",
@@ -20053,7 +20412,9 @@
         "news_talk",
         "folk",
         "pop_hits"
-       ]
+       ],
+       "rb": "70f97520-176a-4436-b9cc-829c5c4eae9c",
+       "logo": "https://www.rts.ch/hbv7/static/images/favicon/rts/152x152.png"
       },
       {
        "name": "Vertical Radio",
@@ -20064,7 +20425,9 @@
         "folk",
         "pop_hits",
         "various_eclectic"
-       ]
+       ],
+       "rb": "de81082f-b5cb-4450-a9d5-a1f6b5ebe5f4",
+       "logo": "https://www.verticalradio.ch/media/image/11/base/logo-vertical-green.svg?undefined"
       },
       {
        "name": "Voxinox",
@@ -20167,7 +20530,8 @@
         "folk",
         "classical",
         "oldies"
-       ]
+       ],
+       "rb": "96205a50-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Biboo Radio",
@@ -20264,7 +20628,8 @@
         "sports",
         "various_eclectic",
         "rock"
-       ]
+       ],
+       "rb": "a3b56bf3-ca1f-40f4-b080-33fbf59e6070"
       },
       {
        "name": "Global FM",
@@ -20276,7 +20641,9 @@
       },
       {
        "name": "Global Sport",
-       "url": "https://globalsportvaud.ice.infomaniak.ch/globalsportvaud-128.mp3"
+       "url": "https://globalsportvaud.ice.infomaniak.ch/globalsportvaud-128.mp3",
+       "rb": "6a025312-db3d-458c-b48f-035cac89a8cb",
+       "logo": "https://www.globalsport.ch/player/bouton_player.png"
       },
       {
        "name": "Global Sport Vaud",
@@ -20316,7 +20683,8 @@
         "various_eclectic",
         "easy_listening",
         "decade_80s"
-       ]
+       ],
+       "rb": "9608c6fe-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "KTFM / Global Sport",
@@ -20333,7 +20701,8 @@
         "decade_70s",
         "news_talk",
         "oldies"
-       ]
+       ],
+       "rb": "3a9eda56-9306-4691-8440-2ba698dc6be6"
       },
       {
        "name": "LFM",
@@ -20343,7 +20712,9 @@
         "alternative_indie",
         "news_talk",
         "easy_listening"
-       ]
+       ],
+       "rb": "532a0418-87c1-11e8-aa66-52543be04c81",
+       "logo": "https://www.lfm.ch/wp-content/uploads/2021/07/cropped-radio-lausanne-fm-sa-icone-du-site-180x180.png"
       },
       {
        "name": "M Radio 100% Mix",
@@ -20383,7 +20754,9 @@
         "rock",
         "soul_rnb_funk",
         "easy_listening"
-       ]
+       ],
+       "rb": "96091d4c-0601-11e8-ae97-52543be04c81",
+       "logo": "https://www.onefm.ch/wp-content/uploads/2018/08/favicon.png"
       },
       {
        "name": "One FM 2000s",
@@ -20391,7 +20764,9 @@
        "tags": [
         "pop_hits",
         "decade_2000s"
-       ]
+       ],
+       "rb": "ee47b64d-ebaf-4d26-90e6-e9cd25f32958",
+       "logo": "https://www.onefm.ch/wp-content/uploads/2018/08/favicon.png"
       },
       {
        "name": "One FM New-Hits",
@@ -20399,7 +20774,9 @@
        "tags": [
         "pop_hits",
         "kids"
-       ]
+       ],
+       "rb": "f190cd5f-c91b-429e-af7b-dbc47d70be0e",
+       "logo": "https://www.onefm.ch/wp-content/themes/mog-child/webradios/ONE_app_WEBRADIO_NewHit.png"
       },
       {
        "name": "Radio Canal 3 - F",
@@ -20421,7 +20798,8 @@
         "news_talk",
         "easy_listening",
         "various_eclectic"
-       ]
+       ],
+       "rb": "dae4c48b-e960-4b37-9d9b-0a633cfb3a9e"
       },
       {
        "name": "Radio Fribourg",
@@ -20486,7 +20864,9 @@
       },
       {
        "name": "Rhône FM",
-       "url": "http://rhonefm.ice.infomaniak.ch/rhonefm-high.aac"
+       "url": "http://rhonefm.ice.infomaniak.ch/rhonefm-high.aac",
+       "rb": "96151785-0601-11e8-ae97-52543be04c81",
+       "logo": "http://www.rhonefm.ch/favicon/4/120x120.png"
       },
       {
        "name": "RJB",
@@ -20500,7 +20880,8 @@
         "classical",
         "electronic",
         "blues"
-       ]
+       ],
+       "rb": "960bbd4e-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Rouge Best Hits",
@@ -20530,7 +20911,9 @@
         "classical",
         "rock",
         "easy_listening"
-       ]
+       ],
+       "rb": "bd8c85d6-2b9c-4353-b6dc-92a182628cbb",
+       "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_rougefm1.png"
       },
       {
        "name": "Rouge FM",
@@ -20544,7 +20927,9 @@
         "electronic",
         "chillout_lounge",
         "easy_listening"
-       ]
+       ],
+       "rb": "962769ff-0601-11e8-ae97-52543be04c81",
+       "logo": "http://www.rougefm.com/imgs/webradios/lounge.png"
       },
       {
        "name": "Rouge FM Suisse",
@@ -20554,7 +20939,9 @@
         "world",
         "rock",
         "soul_rnb_funk"
-       ]
+       ],
+       "rb": "9625c2cb-0601-11e8-ae97-52543be04c81",
+       "logo": "http://www.rougefm.com/imgs/webradios/suisse.png"
       },
       {
        "name": "Rouge FM – Best Hits",
@@ -20733,7 +21120,9 @@
         "pop_hits",
         "electronic",
         "decade_80s"
-       ]
+       ],
+       "rb": "7396ca2e-f495-4e74-ac43-7e6870cebc3d",
+       "logo": "https://www.onefm.ch/wp-content/themes/mog-child/webradios/ONE_app_WEBRADIO_Rock.png"
       },
       {
        "name": "Pacific Rock Radio",
@@ -20851,11 +21240,15 @@
       },
       {
        "name": "Spoon Radio",
-       "url": "http://spoonradio.ice.infomaniak.ch:80/spoonradio-hd.mp3"
+       "url": "http://spoonradio.ice.infomaniak.ch:80/spoonradio-hd.mp3",
+       "rb": "306482ff-7e3b-4918-a683-088165abda7f",
+       "logo": "https://www.spoonradio.com/newimages/logo.png"
       },
       {
        "name": "Spoon Radio",
-       "url": "http://ic2527.c972.fastserv.com:80/spoonradio_mp3_192"
+       "url": "http://ic2527.c972.fastserv.com:80/spoonradio_mp3_192",
+       "rb": "7b94bb6f-5e46-4424-a909-387d06a10df0",
+       "logo": "https://www.spoonradio.com/newimages/logo.png"
       },
       {
        "name": "Vibration - Gay Radio",
@@ -20946,7 +21339,8 @@
         "rock",
         "electronic",
         "soul_rnb_funk"
-       ]
+       ],
+       "rb": "d391db6e-6bc9-4805-9f87-044601efc9ef"
       }
      ]
     },
@@ -21011,7 +21405,8 @@
         "hip_hop_rap",
         "jazz",
         "pop_hits"
-       ]
+       ],
+       "rb": "b296e17e-2637-45b1-98d8-106be0df39a6"
       },
       {
        "name": "RedLine Radio",
@@ -21047,7 +21442,8 @@
         "alternative_indie",
         "electronic",
         "various_eclectic"
-       ]
+       ],
+       "rb": "9624b79e-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Rouge France",
@@ -21274,7 +21670,8 @@
       },
       {
        "name": "TVM 3 TV",
-       "url": "http://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8"
+       "url": "http://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8",
+       "rb": "cf1acff6-f588-11e8-a471-52543be04c81"
       },
       {
        "name": "Vibration - Chanson Française",
@@ -21351,7 +21748,8 @@
         "alternative_indie",
         "rock",
         "pop_hits"
-       ]
+       ],
+       "rb": "962a67c2-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "1.FM - Gorilla FM",
@@ -21370,7 +21768,8 @@
         "metal",
         "rock",
         "punk"
-       ]
+       ],
+       "rb": "962a73d1-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "1.fm Channel X",
@@ -21389,7 +21788,8 @@
         "folk",
         "oldies",
         "electronic"
-       ]
+       ],
+       "rb": "8636fed2-f511-458b-9caa-d65b887ea841"
       },
       {
        "name": "1.FM – Gorilla FM Radio",
@@ -21401,7 +21801,8 @@
         "pop_hits",
         "rock",
         "soul_rnb_funk"
-       ]
+       ],
+       "rb": "962a803f-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "80s Forever - We Keep The 80s Alive",
@@ -21413,7 +21814,9 @@
         "decade_80s",
         "punk",
         "electronic"
-       ]
+       ],
+       "rb": "32fed468-cfe3-11e9-a861-52543be04c81",
+       "logo": "https://www.80sforever.radio/favicon.ico"
       },
       {
        "name": "80s Forever Radio",
@@ -21422,7 +21825,8 @@
         "alternative_indie",
         "decade_80s",
         "oldies"
-       ]
+       ],
+       "rb": "5c9a183a-def9-44f7-ba7f-c3234dbccbfb"
       },
       {
        "name": "Gorilla FM - 1.FM",
@@ -21451,7 +21855,9 @@
         "rock",
         "pop_hits",
         "classical"
-       ]
+       ],
+       "rb": "96210fa4-0601-11e8-ae97-52543be04c81",
+       "logo": "http://ncradio.fm/favicons/apple-touch-icon.png"
       },
       {
        "name": "Open Broadcast",
@@ -21505,7 +21911,8 @@
         "ambient_relax",
         "trance_goa",
         "electronic"
-       ]
+       ],
+       "rb": "07064262-5ef9-44e1-900d-ed752b7433b8"
       },
       {
        "name": "1.FM - Destination: SPA Radio",
@@ -21514,7 +21921,8 @@
         "ambient_relax",
         "easy_listening",
         "chillout_lounge"
-       ]
+       ],
+       "rb": "962a7225-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "1.FM - Radio Gaia",
@@ -21545,7 +21953,8 @@
         "christian_gospel",
         "chillout_lounge",
         "easy_listening"
-       ]
+       ],
+       "rb": "ab2208bf-6f70-443e-ad11-73f594b2629f"
       },
       {
        "name": "Traxx FM - Ambient",
@@ -21556,7 +21965,8 @@
         "electronic",
         "world",
         "easy_listening"
-       ]
+       ],
+       "rb": "479d1fad-f328-11e9-a96c-52543be04c81"
       },
       {
        "name": "True House Chill",
@@ -21567,7 +21977,8 @@
         "smooth_jazz",
         "electronic",
         "latin"
-       ]
+       ],
+       "rb": "96460526-0601-11e8-ae97-52543be04c81"
       }
      ]
     },
@@ -21586,7 +21997,8 @@
         "rock",
         "world",
         "jazz"
-       ]
+       ],
+       "rb": "9617ccb4-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "1.fm Blues",
@@ -21630,7 +22042,8 @@
         "folk",
         "easy_listening",
         "electronic"
-       ]
+       ],
+       "rb": "eba56c69-80c1-4f2b-8371-fd7f306f4e2c"
       },
       {
        "name": "1.FM - Costa Del Mar",
@@ -21640,7 +22053,8 @@
        "tags": [
         "chillout_lounge",
         "ambient_relax"
-       ]
+       ],
+       "rb": "962a7720-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "1.FM - Ibiza Chill Tropical",
@@ -21649,7 +22063,8 @@
         "latin",
         "chillout_lounge",
         "ambient_relax"
-       ]
+       ],
+       "rb": "d5ef3de2-cdc3-478b-8582-e42bc1773864"
       },
       {
        "name": "1.FM - Radio Gaia",
@@ -21658,7 +22073,8 @@
         "chillout_lounge",
         "ambient_relax",
         "world"
-       ]
+       ],
+       "rb": "962a84cf-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "1.FM - Radio Gaia",
@@ -21697,7 +22113,8 @@
         "acid_jazz",
         "smooth_jazz",
         "electronic"
-       ]
+       ],
+       "rb": "15d9bfdc-05dc-44c5-bc52-74d3e7e1c8f6"
       },
       {
        "name": "latriperie",
@@ -21744,7 +22161,8 @@
         "easy_listening",
         "techno",
         "electronic"
-       ]
+       ],
+       "rb": "042998d4-f329-11e9-a96c-52543be04c81"
       },
       {
        "name": "Truehouse Chill",
@@ -21772,7 +22190,8 @@
         "easy_listening",
         "classical",
         "pop_hits"
-       ]
+       ],
+       "rb": "98e310fb-eb8c-42a7-89dc-6b147aeffae6"
       },
       {
        "name": "1.FM - All Times & Urban Gospel",
@@ -21782,7 +22201,9 @@
         "hip_hop_rap",
         "soul_rnb_funk",
         "classical"
-       ]
+       ],
+       "rb": "961cfeff-0601-11e8-ae97-52543be04c81",
+       "logo": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg"
       },
       {
        "name": "1.FM - All Times & Urban Gospel",
@@ -21794,7 +22215,8 @@
        "tags": [
         "christian_gospel",
         "rock"
-       ]
+       ],
+       "rb": "962a7874-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "1.FM - Eternal Praise and Worship",
@@ -21823,7 +22245,8 @@
      "stations": [
       {
        "name": "1.FM - Otto&#x27;s Classical Music",
-       "url": "https://strm112.1.fm/classical_mobile_aac"
+       "url": "https://strm112.1.fm/classical_mobile_aac",
+       "rb": "00c9219e-61be-4972-ba96-cfa083cc9ac2"
       },
       {
        "name": "1.FM - Otto&#x27;s Opera House",
@@ -21835,7 +22258,8 @@
        "tags": [
         "classical",
         "easy_listening"
-       ]
+       ],
+       "rb": "96225a38-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "1.FM - Otto's Classical Music Radio",
@@ -21843,7 +22267,8 @@
        "tags": [
         "classical",
         "opera"
-       ]
+       ],
+       "rb": "cdb11490-308d-11e9-8f31-52543be04c81"
       },
       {
        "name": "1.FM - Ottos Opera House",
@@ -21853,11 +22278,14 @@
        "tags": [
         "classical",
         "opera"
-       ]
+       ],
+       "rb": "962a7a8d-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "1.fm Ottos Baroque music",
-       "url": "http://strm112.1.fm/baroque_mobile_aac"
+       "url": "http://strm112.1.fm/baroque_mobile_aac",
+       "rb": "3ee72d17-bb42-4d15-b8b4-44f5697c7845",
+       "logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/6a/58/1366/2/c175.png"
       },
       {
        "name": "Audiophile Baroque",
@@ -21907,7 +22335,8 @@
        "tags": [
         "country",
         "folk"
-       ]
+       ],
+       "rb": "20bbd0c4-a63d-4a8c-a7aa-e963297c5c12"
       },
       {
        "name": "1.FM - Absolutely Country Hits",
@@ -21919,7 +22348,9 @@
        "tags": [
         "country",
         "folk"
-       ]
+       ],
+       "rb": "3bc7e810-2b6f-4fb6-bee1-eaedbad4d868",
+       "logo": "https://cdn.onlineradiobox.com/img/l/9/2619.v4.png"
       },
       {
        "name": "1.FM - Classic Country Radio",
@@ -21932,7 +22363,8 @@
         "world",
         "pop_hits",
         "folk"
-       ]
+       ],
+       "rb": "962a66fd-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "1.FM - Country One",
@@ -21945,7 +22377,8 @@
         "country",
         "classical",
         "folk"
-       ]
+       ],
+       "rb": "962a7679-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "COUNTRY MUSIC",
@@ -21976,7 +22409,8 @@
         "soundtrack",
         "house",
         "disco_eurodance"
-       ]
+       ],
+       "rb": "962a64b4-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "1.FM - Absolute 70's Pop Radio",
@@ -21995,7 +22429,9 @@
         "pop_hits",
         "easy_listening",
         "oldies"
-       ]
+       ],
+       "rb": "fe461109-a80c-4760-8fa4-24f3bc70d1f6",
+       "logo": "https://i.imgur.com/vFiPaW4.png"
       },
       {
        "name": "1.FM - Back 2 80s",
@@ -22017,7 +22453,8 @@
         "pop_hits",
         "rock",
         "soul_rnb_funk"
-       ]
+       ],
+       "rb": "962a885b-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "80s Forever Radio - We Keep The 80s Alive",
@@ -22055,7 +22492,8 @@
         "decade_90s",
         "pop_hits",
         "electronic"
-       ]
+       ],
+       "rb": "962a6b61-0601-11e8-ae97-52543be04c81"
       }
      ]
     },
@@ -22081,7 +22519,8 @@
         "oldies",
         "pop_hits",
         "electronic"
-       ]
+       ],
+       "rb": "962a7066-0601-11e8-ae97-52543be04c81"
       }
      ]
     },
@@ -22096,7 +22535,8 @@
         "pop_hits",
         "soul_rnb_funk",
         "rock"
-       ]
+       ],
+       "rb": "961995eb-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "1.FM - Italia On Air",
@@ -22108,7 +22548,8 @@
         "latin",
         "hip_hop_rap",
         "soul_rnb_funk"
-       ]
+       ],
+       "rb": "962a9277-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "1.FM - Love Classics",
@@ -22119,11 +22560,14 @@
         "oldies",
         "soul_rnb_funk",
         "ambient_relax"
-       ]
+       ],
+       "rb": "962a6f87-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Ambi Nature Radio",
-       "url": "https://nature-rex.radioca.st/stream"
+       "url": "https://nature-rex.radioca.st/stream",
+       "rb": "fb1add5d-4b7b-45cf-9be4-a1e8df712553",
+       "logo": "https://cdn-radiotime-logos.tunein.com/s266086d.png"
       },
       {
        "name": "Energy Love",
@@ -22173,7 +22617,8 @@
         "electronic",
         "chillout_lounge",
         "ambient_relax"
-       ]
+       ],
+       "rb": "96281314-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "1.FM - Circuit Pride Radio",
@@ -22182,7 +22627,8 @@
         "electronic",
         "house",
         "rock"
-       ]
+       ],
+       "rb": "96281874-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "1.FM - Club 1 Radio",
@@ -22192,7 +22638,8 @@
         "house",
         "pop_hits",
         "techno"
-       ]
+       ],
+       "rb": "962a77ca-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "1.FM - Dance One Radio",
@@ -22201,7 +22648,8 @@
         "electronic",
         "disco_eurodance",
         "pop_hits"
-       ]
+       ],
+       "rb": "962a6574-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "1.FM - Dubstep Forward Radio",
@@ -22211,7 +22659,8 @@
         "hip_hop_rap",
         "drum_and_bass",
         "reggae_ska"
-       ]
+       ],
+       "rb": "962a8d6a-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "1.fm Absolute 90s Party Zone",
@@ -22245,7 +22694,8 @@
         "drum_and_bass",
         "various_eclectic",
         "news_talk"
-       ]
+       ],
+       "rb": "962d5e4a-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "DJ Beat FM",
@@ -22265,7 +22715,8 @@
         "pop_hits",
         "techno",
         "trance_goa"
-       ]
+       ],
+       "rb": "6b650c01-3967-4156-af32-0337ed6a9b19"
       },
       {
        "name": "Energy22",
@@ -22310,7 +22761,8 @@
         "folk",
         "pop_hits",
         "world"
-       ]
+       ],
+       "rb": "0cfedc3a-c6f1-44d3-a4d2-ee37ea6a4487"
       },
       {
        "name": "RADIOIPIPCZ 1  Spacesynth BestOf",
@@ -22360,7 +22812,9 @@
         "electronic",
         "house",
         "disco_eurodance"
-       ]
+       ],
+       "rb": "96474496-0601-11e8-ae97-52543be04c81",
+       "logo": "http://www.truehouse.net/favicon.ico"
       }
      ]
     },
@@ -22423,7 +22877,9 @@
         "soul_rnb_funk",
         "oldies",
         "electronic"
-       ]
+       ],
+       "rb": "3cd03534-0100-4055-ab57-4d39c2ae52d0",
+       "logo": "https://www.breakradio.ch/apple-touch-icon.png"
       },
       {
        "name": "Monstraudio Radio",
@@ -22442,7 +22898,8 @@
        "tags": [
         "hip_hop_rap",
         "electronic"
-       ]
+       ],
+       "rb": "3138ec65-f32c-11e9-a96c-52543be04c81"
       }
      ]
     },
@@ -22457,7 +22914,8 @@
         "easy_listening",
         "pop_hits",
         "christian_gospel"
-       ]
+       ],
+       "rb": "961e21c6-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "1.fm Always-Christmas",
@@ -22487,7 +22945,8 @@
         "house",
         "electronic",
         "techno"
-       ]
+       ],
+       "rb": "962a748b-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Radio Gaba Switzerland",
@@ -22521,7 +22980,8 @@
         "house",
         "electronic",
         "techno"
-       ]
+       ],
+       "rb": "f35f16ac-f329-11e9-a96c-52543be04c81"
       },
       {
        "name": "Traxx.FM Deep",
@@ -22558,7 +23018,8 @@
         "christian_gospel",
         "smooth_jazz",
         "easy_listening"
-       ]
+       ],
+       "rb": "7c354521-321e-405c-abea-71f5c190c4bc"
       },
       {
        "name": "1.FM - Bay Smooth Jazz Radio",
@@ -22570,7 +23031,8 @@
         "soul_rnb_funk",
         "smooth_jazz",
         "easy_listening"
-       ]
+       ],
+       "rb": "9625c394-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "1.FM - Sax4Love",
@@ -22578,7 +23040,8 @@
        "tags": [
         "jazz",
         "smooth_jazz"
-       ]
+       ],
+       "rb": "962a7ec6-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "1.fm Bossa Nova Hits",
@@ -22590,7 +23053,9 @@
       },
       {
        "name": "A Fine Jazz Gumbo Radio",
-       "url": "https://streaming.smartradio.ch:9502/stream"
+       "url": "https://streaming.smartradio.ch:9502/stream",
+       "rb": "8842eff0-a7d7-4b29-ae51-c405c4a4c35e",
+       "logo": "https://jazzgumboradio.com/wp-content/uploads/2019/12/icon.png"
       },
       {
        "name": "la vellonera fm",
@@ -22615,7 +23080,8 @@
         "jazz",
         "smooth_jazz",
         "classical"
-       ]
+       ],
+       "rb": "45d2ba40-f32a-11e9-a96c-52543be04c81"
       }
      ]
     },
@@ -22631,7 +23097,8 @@
         "christian_gospel",
         "hip_hop_rap",
         "pop_hits"
-       ]
+       ],
+       "rb": "962a7f80-0601-11e8-ae97-52543be04c81"
       }
      ]
     },
@@ -22647,7 +23114,8 @@
         "pop_hits",
         "latin",
         "folk"
-       ]
+       ],
+       "rb": "962a81c3-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "1.FM - Absolute Pop Latino",
@@ -22661,7 +23129,8 @@
         "folk",
         "jazz",
         "electronic"
-       ]
+       ],
+       "rb": "afc41622-5e7d-11e9-a622-52543be04c81"
       },
       {
        "name": "1.FM - Cafe Radio",
@@ -22676,7 +23145,8 @@
         "folk",
         "easy_listening",
         "electronic"
-       ]
+       ],
+       "rb": "96154673-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "1.FM - Samba Hits Brazil Radio",
@@ -22685,7 +23155,8 @@
         "latin",
         "oldies",
         "world"
-       ]
+       ],
+       "rb": "962a7e0e-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "1.FM - Samba Rock",
@@ -22694,11 +23165,13 @@
         "latin",
         "rock",
         "soul_rnb_funk"
-       ]
+       ],
+       "rb": "962a0b5e-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "1.FM - Sertaneja Hits",
-       "url": "https://strm112.1.fm/sertanejo_mobile_mp3"
+       "url": "https://strm112.1.fm/sertanejo_mobile_mp3",
+       "rb": "962a9326-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "1.FM - Top Fiesta Radio",
@@ -22709,7 +23182,8 @@
         "pop_hits",
         "reggae_ska",
         "folk"
-       ]
+       ],
+       "rb": "962a8e55-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "1.fm Absolute Pop Latino",
@@ -22726,7 +23200,8 @@
         "latin",
         "folk",
         "pop_hits"
-       ]
+       ],
+       "rb": "c2c8e11d-f32b-11e9-a96c-52543be04c81"
       },
       {
        "name": "Traxx.FM Latino Pop",
@@ -22735,7 +23210,8 @@
         "latin",
         "pop_hits",
         "folk"
-       ]
+       ],
+       "rb": "ff6f89ae-513a-419a-b44c-1b472694c12f"
       }
      ]
     },
@@ -22794,7 +23270,8 @@
         "rock",
         "soul_rnb_funk",
         "pop_hits"
-       ]
+       ],
+       "rb": "962a6a94-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "1.FM - Exitos del Ayer Radio",
@@ -22804,7 +23281,8 @@
         "pop_hits",
         "latin",
         "decade_80s"
-       ]
+       ],
+       "rb": "962a91c6-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "MBPOA Radio",
@@ -22831,7 +23309,8 @@
         "decade_70s",
         "decade_80s",
         "decade_60s"
-       ]
+       ],
+       "rb": "6d538ad4-f329-11e9-a96c-52543be04c81"
       }
      ]
     },
@@ -22840,7 +23319,8 @@
      "stations": [
       {
        "name": "1. fm All Times Hits",
-       "url": "https://strm112.1.fm/allmixedup_mobile_mp3"
+       "url": "https://strm112.1.fm/allmixedup_mobile_mp3",
+       "rb": "a0c231ae-3be7-4e6f-9409-142c899a8e0d"
       },
       {
        "name": "1.FM - Absolute TOP 40 Radio",
@@ -22861,7 +23341,8 @@
         "pop_hits",
         "decade_80s",
         "decade_90s"
-       ]
+       ],
+       "rb": "9626b3f8-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "1.FM - Always Christmas",
@@ -22877,7 +23358,8 @@
       },
       {
        "name": "1.FM - Eurovision",
-       "url": "https://strm112.1.fm/eurovision_mobile_mp3"
+       "url": "https://strm112.1.fm/eurovision_mobile_mp3",
+       "rb": "ae198d6e-f570-49a3-8e84-d3c43c78ef1c"
       },
       {
        "name": "1.FM - Top 40",
@@ -22885,7 +23367,9 @@
        "tags": [
         "pop_hits",
         "electronic"
-       ]
+       ],
+       "rb": "e0764a19-baa6-4ed0-a25a-adc15f8f9891",
+       "logo": "https://www.radio.fr/images/broadcasts/ea/8f/1380/2/c300.png"
       },
       {
        "name": "1.FM - Total Hits En Español",
@@ -22895,7 +23379,8 @@
         "latin",
         "easy_listening",
         "reggae_ska"
-       ]
+       ],
+       "rb": "962a1f95-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "1.fm Café Radio",
@@ -22965,7 +23450,8 @@
        "tags": [
         "pop_hits",
         "easy_listening"
-       ]
+       ],
+       "rb": "42aab7fd-98d5-4816-bcf4-30dd2e563abd"
       }
      ]
     },
@@ -22988,7 +23474,8 @@
         "world",
         "folk",
         "pop_hits"
-       ]
+       ],
+       "rb": "252fa0a6-e28b-4317-ad5f-e0d4cbbc5b05"
       },
       {
        "name": "1.fm Dubstep Forward",
@@ -23011,7 +23498,9 @@
         "pop_hits",
         "rock",
         "electronic"
-       ]
+       ],
+       "rb": "f7cfff53-5f5c-49da-86a8-89b8570e345b",
+       "logo": "https://www.radio.fr/images/broadcasts/ea/8f/1380/2/c300.png"
       },
       {
        "name": "1.FM - Classic Rock",
@@ -23028,7 +23517,8 @@
         "rock",
         "metal",
         "classical"
-       ]
+       ],
+       "rb": "f13203d2-1639-413b-9fe9-7017a541fe78"
       },
       {
        "name": "1.FM - Classic Rock Replay Radio",
@@ -23053,7 +23543,8 @@
        "tags": [
         "rock",
         "classical"
-       ]
+       ],
+       "rb": "962a752e-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "1.fm High Voltage",
@@ -23126,7 +23617,9 @@
         "rock",
         "pop_hits",
         "decade_80s"
-       ]
+       ],
+       "rb": "4f6119c9-3e96-494d-8b79-696cd97f9a3d",
+       "logo": "https://cdn.unitycms.io/images/DQapoIlBq478hc9HagcAw7.png"
       },
       {
        "name": "Radio Sidi",
@@ -23185,7 +23678,9 @@
         "alternative_indie",
         "metal",
         "classical"
-       ]
+       ],
+       "rb": "292bb9ec-496f-47dc-8531-4be97c572297",
+       "logo": "https://rockstation.ch/wp-content/uploads/2023/03/cropped-favicon-basis-192x192.jpg"
       },
       {
        "name": "Spoon Radio",
@@ -23193,7 +23688,8 @@
        "tags": [
         "rock",
         "pop_hits"
-       ]
+       ],
+       "rb": "3999c6df-6b30-44f2-bf11-39ed56f3f1c3"
       },
       {
        "name": "SpringsteenFM Listen live",
@@ -23213,7 +23709,8 @@
         "alternative_indie",
         "metal",
         "classical"
-       ]
+       ],
+       "rb": "69e0e4bd-f32a-11e9-a96c-52543be04c81"
       },
       {
        "name": "Traxx FM France",
@@ -23222,7 +23719,8 @@
         "folk",
         "rock",
         "pop_hits"
-       ]
+       ],
+       "rb": "5bf17f1e-2aab-4f1b-bc85-2d9a01795f96"
       },
       {
        "name": "Vertical Radio",
@@ -23260,7 +23758,8 @@
         "news_talk",
         "easy_listening",
         "oldies"
-       ]
+       ],
+       "rb": "962a6dd5-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "1.FM - Funky Express",
@@ -23277,7 +23776,8 @@
         "soul_rnb_funk",
         "hip_hop_rap",
         "reggae_ska"
-       ]
+       ],
+       "rb": "962a6eac-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "1.FM - Slow Jamz",
@@ -23290,7 +23790,8 @@
         "soul_rnb_funk",
         "hip_hop_rap",
         "decade_60s"
-       ]
+       ],
+       "rb": "962a79dd-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "1.fm Funky Express",
@@ -23342,7 +23843,8 @@
         "disco_eurodance",
         "electronic",
         "pop_hits"
-       ]
+       ],
+       "rb": "496f0103-f32c-11e9-a96c-52543be04c81"
       },
       {
        "name": "Traxx FM RnB",
@@ -23354,7 +23856,8 @@
         "electronic",
         "blues",
         "pop_hits"
-       ]
+       ],
+       "rb": "84a1994c-f32b-11e9-a96c-52543be04c81"
       },
       {
        "name": "Traxx FM Soul",
@@ -23363,7 +23866,8 @@
         "soul_rnb_funk",
         "hip_hop_rap",
         "jazz"
-       ]
+       ],
+       "rb": "92c203b1-f32a-11e9-a96c-52543be04c81"
       }
      ]
     },
@@ -23379,7 +23883,8 @@
         "easy_listening",
         "soul_rnb_funk",
         "rock"
-       ]
+       ],
+       "rb": "962a7d59-0601-11e8-ae97-52543be04c81"
       }
      ]
     },
@@ -23393,7 +23898,8 @@
         "techno",
         "house",
         "electronic"
-       ]
+       ],
+       "rb": "0ac7f5db-6f86-428f-8bb2-66ecce89ad1a"
       },
       {
        "name": "Traxx FM - Tech Minimal",
@@ -23402,7 +23908,8 @@
         "techno",
         "electronic",
         "house"
-       ]
+       ],
+       "rb": "bb6b7ad8-f327-11e9-a96c-52543be04c81"
       }
      ]
     },
@@ -23415,7 +23922,8 @@
        "tags": [
         "trance_goa",
         "electronic"
-       ]
+       ],
+       "rb": "962a6279-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "1.FM - Absolute Trance (Euro) Radio",
@@ -23433,7 +23941,8 @@
         "electronic",
         "world",
         "techno"
-       ]
+       ],
+       "rb": "962a61bf-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "1.FM - BOM Psytrance Radio",
@@ -23444,7 +23953,8 @@
         "techno",
         "ambient_relax",
         "alternative_indie"
-       ]
+       ],
+       "rb": "962a8356-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "1.FM - BOM Psytrance Radio",
@@ -23491,7 +24001,8 @@
         "bollywood_indian",
         "folk",
         "pop_hits"
-       ]
+       ],
+       "rb": "962a6c2f-0601-11e8-ae97-52543be04c81"
       }
      ]
     },
@@ -23504,15 +24015,18 @@
       },
       {
        "name": "1.FM - MPB Hits Radio",
-       "url": "http://strm112.1.fm/mpb_mobile_mp3"
+       "url": "http://strm112.1.fm/mpb_mobile_mp3",
+       "rb": "962a85f9-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "1.FM - Rap Pregame",
-       "url": "https://strm112.1.fm/edm_mobile_mp3"
+       "url": "https://strm112.1.fm/edm_mobile_mp3",
+       "rb": "c7e4f9da-30ae-442a-bfe8-3f24f9023ee7"
       },
       {
        "name": "1.FM - Reggaeton Heat",
-       "url": "https://strm112.1.fm/reggaeton_mobile_mp3"
+       "url": "https://strm112.1.fm/reggaeton_mobile_mp3",
+       "rb": "19cf9e65-566b-48a1-8253-faa6656f1835"
       },
       {
        "name": "1.FM – Sax4ever – CH-ZG",
@@ -23520,7 +24034,9 @@
       },
       {
        "name": "1.FM- Top Hits 2000 Radio",
-       "url": "https://strm112.1.fm/hits2000_mobile_mp3"
+       "url": "https://strm112.1.fm/hits2000_mobile_mp3",
+       "rb": "42542b18-0d4d-436f-b286-209787d2793f",
+       "logo": "https://radio-online.ch/uploads/img/1-fm-y2k.png"
       },
       {
        "name": "1FM Absolute 90s Radio",
@@ -23619,7 +24135,9 @@
      "stations": [
       {
        "name": "Radio Rete-94.1 FM",
-       "url": "http://stream.srg-ssr.ch/m/retedue/aacp_32"
+       "url": "http://stream.srg-ssr.ch/m/retedue/aacp_32",
+       "rb": "b6a730dd-96b3-4c1a-9115-c6c55d97e906",
+       "logo": "https://il.rsi.ch/rsi-api/resize/image/v2/public/channel/WEBVISUAL/rete-due.png"
       },
       {
        "name": "Radio Svizzera Classica",
@@ -23629,15 +24147,18 @@
         "disco_eurodance",
         "news_talk",
         "pop_hits"
-       ]
+       ],
+       "rb": "96394fed-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Radio Svizzera Classica",
-       "url": "https://stream.srg-ssr.ch/rsc_it/aacp_96.m3u"
+       "url": "https://stream.srg-ssr.ch/rsc_it/aacp_96.m3u",
+       "rb": "1ff4a420-f6a8-4c09-8084-5cc834882cd2"
       },
       {
        "name": "Radio Swiss Classic Italian",
-       "url": "http://www.radioswissclassic.ch/it/live/aacp32.m3u"
+       "url": "http://www.radioswissclassic.ch/it/live/aacp32.m3u",
+       "rb": "b6202b76-06b4-11e8-ae97-52543be04c81"
       },
       {
        "name": "Radio Swiss Classic Italian",
@@ -23645,7 +24166,8 @@
        "tags": [
         "classical",
         "news_talk"
-       ]
+       ],
+       "rb": "9628ea33-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "RSI Rete Due",
@@ -23655,7 +24177,9 @@
         "news_talk",
         "jazz",
         "easy_listening"
-       ]
+       ],
+       "rb": "96127f58-0601-11e8-ae97-52543be04c81",
+       "logo": "http://www.rsi.ch/icons/apple-touch-icon-70-precomposed.png"
       },
       {
        "name": "RSI Rete Due",
@@ -23719,7 +24243,8 @@
        "tags": [
         "electronic",
         "pop_hits"
-       ]
+       ],
+       "rb": "b9660eb9-34f9-11e9-8f31-52543be04c81"
       },
       {
        "name": "Radio 906",
@@ -23750,7 +24275,9 @@
        "tags": [
         "electronic",
         "house"
-       ]
+       ],
+       "rb": "0b60f67c-6e94-42a6-adb0-d0ca58d216ab",
+       "logo": "https://radioticino.com/wp-content/uploads/2019/09/RFT-Movida-Club-300x300.png"
       }
      ]
     },
@@ -23767,7 +24294,8 @@
         "rock",
         "country",
         "blues"
-       ]
+       ],
+       "rb": "9629d29d-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Rouge Italia",
@@ -23786,7 +24314,8 @@
         "pop_hits",
         "folk",
         "college_community"
-       ]
+       ],
+       "rb": "4fe1364d-d42a-4f10-95a9-1a1897350ec4"
       }
      ]
     },
@@ -23920,7 +24449,9 @@
         "pop_hits",
         "hip_hop_rap",
         "sports"
-       ]
+       ],
+       "rb": "96127e90-0601-11e8-ae97-52543be04c81",
+       "logo": "http://www.rsi.ch/icons/apple-touch-icon-70-precomposed.png"
       },
       {
        "name": "RSI Rete Uno",
@@ -23973,7 +24504,8 @@
        "tags": [
         "pop_hits",
         "various_eclectic"
-       ]
+       ],
+       "rb": "9629e3d4-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Radio 3i Listen live",
@@ -23990,7 +24522,8 @@
       },
       {
        "name": "Radio Onyx",
-       "url": "http://nr4.newradio.it:9432/listen.pls"
+       "url": "http://nr4.newradio.it:9432/listen.pls",
+       "rb": "9629d29d-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Radio Ticino",
@@ -24082,7 +24615,9 @@
         "classical",
         "news_talk",
         "world"
-       ]
+       ],
+       "rb": "96127dce-0601-11e8-ae97-52543be04c81",
+       "logo": "http://www.rsi.ch/icons/apple-touch-icon-70-precomposed.png"
       },
       {
        "name": "RSI – Rete Tre",
@@ -24181,7 +24716,8 @@
       },
       {
        "name": "Radio Swiss Classic",
-       "url": "http://www.radioswissclassic.ch/de/live/aacp.m3u"
+       "url": "http://www.radioswissclassic.ch/de/live/aacp.m3u",
+       "rb": "9aa33d22-a6ef-11e9-a787-52543be04c81"
       },
       {
        "name": "Radio Volare",
@@ -24193,7 +24729,9 @@
       },
       {
        "name": "RSI Uno",
-       "url": "http://stream.srg-ssr.ch/m/reteuno/aacp_32"
+       "url": "http://stream.srg-ssr.ch/m/reteuno/aacp_32",
+       "rb": "5b08693f-7072-49d2-9d4e-98e319dc9e19",
+       "logo": "https://il.rsi.ch/rsi-api/resize/image/v2/public/channel/WEBVISUAL/rete-uno.png"
       },
       {
        "name": "RWMS",
@@ -24274,7 +24812,9 @@
        "tags": [
         "house",
         "chillout_lounge"
-       ]
+       ],
+       "rb": "25e3e939-106b-11e9-a80b-52543be04c81",
+       "logo": "https://lounge-radio.com/wp-content/uploads/fbrfg/apple-touch-icon.png"
       }
      ]
     },
@@ -24333,7 +24873,8 @@
        "tags": [
         "latin",
         "folk"
-       ]
+       ],
+       "rb": "1eaa7a2e-8fbe-4936-b71c-18190cfb25e8"
       },
       {
        "name": "Latinos FM",
@@ -24453,7 +24994,9 @@
         "ambient_relax",
         "easy_listening",
         "electronic"
-       ]
+       ],
+       "rb": "5a21309d-1b3e-4167-9481-3ea9e4132f5a",
+       "logo": "https://www.radio.net/300/1fmbrazilianbirds.png?version=9ea0d9ee3e94be9259a863a05f7b56b0"
       }
      ]
     },
@@ -24638,7 +25181,8 @@
        "tags": [
         "jazz",
         "news_talk"
-       ]
+       ],
+       "rb": "af9c905f-cb40-40c6-93a9-dd343cf84578"
       }
      ]
     },
@@ -24692,7 +25236,9 @@
         "rock",
         "easy_listening",
         "pop_hits"
-       ]
+       ],
+       "rb": "92deba48-e8ed-456e-aab2-8c88d1583edf",
+       "logo": "https://www.radioswisspop.ch/favicon.ico"
       }
      ]
     },
@@ -24769,7 +25315,8 @@
         "pop_hits",
         "easy_listening",
         "world"
-       ]
+       ],
+       "rb": "8de25154-0839-4b87-b14d-76c241bc10e8"
       }
      ]
     },
@@ -24790,7 +25337,9 @@
       },
       {
        "name": "SwissTamilRadio",
-       "url": "https://usa19.fastcast4u.com/swiss"
+       "url": "https://usa19.fastcast4u.com/swiss",
+       "rb": "d5d79959-7da5-4943-9af7-5ddca45c1c0b",
+       "logo": "https://liveradios.in/wp-content/uploads/swisstamilradio.png"
       }
      ]
     },
@@ -24799,7 +25348,9 @@
      "stations": [
       {
        "name": "Thaalam",
-       "url": "https://thaalam.out.airtime.pro/thaalam_b"
+       "url": "https://thaalam.out.airtime.pro/thaalam_b",
+       "rb": "312cab02-8265-40f1-ae12-0288462771ee",
+       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6JBVVbZWL_axDfJukuYpkvsRk9l0_jaZ_EliBhQDCIQ"
       },
       {
        "name": "TNK swi",
@@ -24834,7 +25385,9 @@
       },
       {
        "name": "Radio SRF 1 Basel Baselland",
-       "url": "http://stream.srg-ssr.ch/m/regi_bs_bl/aacp_96"
+       "url": "http://stream.srg-ssr.ch/m/regi_bs_bl/aacp_96",
+       "rb": "fdb7d082-9ff1-4fe4-a0d0-8895c2cb874a",
+       "logo": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png"
       }
      ]
     },
@@ -24880,7 +25433,9 @@
       {
        "name": "新闻联播",
        "url": "https://rfienchinois64k.ice.infomaniak.ch//rfienchinois-64.mp3",
-       "country_inferred": true
+       "country_inferred": true,
+       "rb": "a9763c72-8502-4ca7-a172-a562af79d4d4",
+       "logo": "https://www.rfi.fr/apple-touch-icon.png"
       }
      ]
     }
@@ -24961,7 +25516,9 @@
         "news_talk",
         "pop_hits",
         "world"
-       ]
+       ],
+       "rb": "9608933a-0601-11e8-ae97-52543be04c81",
+       "logo": "http://www.rtr.ch/var/storage/assets/webpack/favicons/rtr-apple-touch-icon.png"
       }
      ]
     },
@@ -24970,7 +25527,9 @@
      "stations": [
       {
        "name": "Radio RTR",
-       "url": "https://stream.srg-ssr.ch/rr/aacp_96.m3u?n=3b789c94b1c527190ea1"
+       "url": "https://stream.srg-ssr.ch/rr/aacp_96.m3u?n=3b789c94b1c527190ea1",
+       "rb": "c66c41ff-f431-43df-853c-599c4d050cd4",
+       "logo": "https://www.rtr.ch/var/storage/assets/webpack/favicons/rtr-apple-touch-icon.png"
       }
      ]
     }
@@ -24984,7 +25543,9 @@
      "stations": [
       {
        "name": "LFM la radio",
-       "url": "https://lausannefm.ice.infomaniak.ch/lausannefm-high.aac"
+       "url": "https://lausannefm.ice.infomaniak.ch/lausannefm-high.aac",
+       "rb": "035c463f-2073-4b40-8fc0-d97733659864",
+       "logo": "https://www.lfm.ch/wp-content/uploads/2021/07/cropped-radio-lausanne-fm-sa-icone-du-site-180x180.png"
       }
      ]
     },
@@ -25012,7 +25573,8 @@
      "stations": [
       {
        "name": "Радио Сахаров",
-       "url": "https://icecast.correctiv.net/sacharow?n=0ef9ad398f56a93273a6"
+       "url": "https://icecast.correctiv.net/sacharow?n=0ef9ad398f56a93273a6",
+       "rb": "2334b1a6-5eaa-42a3-a03c-799554914a20"
       }
      ]
     },

@@ -122,7 +122,8 @@
       {
        "name": "CBS JOY4U",
        "url": "https://m-aac.cbs.co.kr/mweb_cbscmc/_definst_/cbscmc.stream/playlist.m3u8",
-       "featured": 9
+       "featured": 9,
+       "rb": "9b8512b7-436d-4da8-8777-633ad9b6671f"
       },
       {
        "name": "CBS Joy4U-CBS 라디오 live",
@@ -299,7 +300,8 @@
       {
        "name": "극동방송 서울 106.9",
        "url": "http://mlive2.febc.net:1935/live/seoulfm/playlist.m3u8",
-       "featured": 21
+       "featured": 21,
+       "rb": "a5e6a0b8-b68e-4931-80c6-1861299fad86"
       },
       {
        "name": "대구극동방송 FM",
@@ -409,7 +411,9 @@
       {
        "name": "KBS 클래식FM",
        "url": "http://serpent0.duckdns.org:8088/kbsfm.pls",
-       "featured": 2
+       "featured": 2,
+       "rb": "c038a859-7be1-11e9-aa30-52543be04c81",
+       "logo": "http://www.kbs.co.kr//resources/images/favorite/favorite.png"
       },
       {
        "name": "KBS 클래식FM(Classic FM)-KBS제1FM – 90.3 FM – Masan – Gyeongsangnam-do – Republic of Korea",
@@ -457,7 +461,8 @@
       {
        "name": "마포FM",
        "url": "http://115.85.182.39/mapofm?type=.mp3",
-       "featured": 25
+       "featured": 25,
+       "rb": "875ed109-2dd2-47e4-b9b3-3fd10ca3d8ba"
       }
      ]
     },
@@ -1093,7 +1098,8 @@
       {
        "name": "Arirang TV",
        "url": "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "ce8fa72b-4df6-11e8-a4d1-52543be04c81"
       },
       {
        "name": "BBS FM radio",
@@ -1125,11 +1131,13 @@
       },
       {
        "name": "Buddhist Broadcasting System TV",
-       "url": "http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8"
+       "url": "http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8",
+       "rb": "b1339480-2b71-11e9-a35e-52543be04c81"
       },
       {
        "name": "Buddhist True Network TV",
-       "url": "http://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8"
+       "url": "http://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8",
+       "rb": "75092107-2a1f-11e9-96d1-52543be04c81"
       },
       {
        "name": "Bundang 90.7 FM",
@@ -1153,11 +1161,14 @@
       {
        "name": "CBS 표준FM 98.1",
        "url": "https://m-aac.cbs.co.kr/mweb_cbs981/_definst_/cbs981.stream/playlist.m3u8",
-       "featured": 7
+       "featured": 7,
+       "rb": "3058649c-068d-43e8-8c47-4a5a89dbdc4c"
       },
       {
        "name": "CPBC TV",
-       "url": "http://onair1.cpbc.co.kr:1935/tv/mp4:live720/playlist.m3u8"
+       "url": "http://onair1.cpbc.co.kr:1935/tv/mp4:live720/playlist.m3u8",
+       "rb": "c649b05d-2a19-11e9-96d1-52543be04c81",
+       "logo": "http://www.cpbc.co.kr/favicon.ico"
       },
       {
        "name": "EBS",
@@ -1166,31 +1177,38 @@
       {
        "name": "EBS FM",
        "url": "https://ebsonair.ebs.co.kr/fmradiofamilypc/familypc1m/playlist.m3u8",
-       "featured": 10
+       "featured": 10,
+       "rb": "4540380c-8d7c-49da-b0dc-699c1fb30ebc"
       },
       {
        "name": "EBS TV-1",
-       "url": "http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8"
+       "url": "http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8",
+       "rb": "7fb474ed-e427-11e8-a9cc-52543be04c81"
       },
       {
        "name": "EBS TV-2",
-       "url": "http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8"
+       "url": "http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8",
+       "rb": "066839bb-e428-11e8-a9cc-52543be04c81"
       },
       {
        "name": "EBS TV-e",
-       "url": "https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8"
+       "url": "https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8",
+       "rb": "e58a9a59-e428-11e8-a9cc-52543be04c81"
       },
       {
        "name": "EBS TV-i",
-       "url": "http://ebsonairios.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8"
+       "url": "http://ebsonairios.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8",
+       "rb": "a70d424e-e428-11e8-a9cc-52543be04c81"
       },
       {
        "name": "EBS TV-Kids",
-       "url": "http://ebsonairios.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8"
+       "url": "http://ebsonairios.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8",
+       "rb": "7a32f2f3-e429-11e8-a9cc-52543be04c81"
       },
       {
        "name": "EBS TV-Plus 2",
-       "url": "http://ebsonairios.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8"
+       "url": "http://ebsonairios.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8",
+       "rb": "323d45ac-e429-11e8-a9cc-52543be04c81"
       },
       {
        "name": "FM 95.1 TBS fm",
@@ -1208,7 +1226,8 @@
       },
       {
        "name": "FRED FILM RADIO, Seoul",
-       "url": "https://s10.webradio-hosting.com/proxy/fredradiokr/stream"
+       "url": "https://s10.webradio-hosting.com/proxy/fredradiokr/stream",
+       "rb": "2b1b77a5-16d9-49eb-9359-38341f5674e4"
       },
       {
        "name": "freefm.lk - Korea South Sinhala Radio",
@@ -1234,7 +1253,8 @@
       {
        "name": "GugakFM",
        "url": "https://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/chunklist_w253831608.m3u8",
-       "country_inferred": true
+       "country_inferred": true,
+       "rb": "e849a616-e2ff-4427-a2f6-a1071d2a073a"
       },
       {
        "name": "Gugan FM",
@@ -1249,7 +1269,8 @@
       },
       {
        "name": "Gukak TV",
-       "url": "http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8"
+       "url": "http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8",
+       "rb": "4e050a3d-b7c9-11e9-acb2-52543be04c81"
       },
       {
        "name": "Happy Fm",
@@ -1275,7 +1296,8 @@
        "tags": [
         "christian_gospel",
         "news_talk"
-       ]
+       ],
+       "rb": "e9307192-2116-4d23-a2a2-93a0e662150a"
       },
       {
        "name": "HLQR-FM - FEBC 울산극동방송 107.3 FM",
@@ -1297,7 +1319,9 @@
       },
       {
        "name": "JTV 매직FM",
-       "url": "https://61ff3340258d2.streamlock.net/jtv_radio/myStream/chunklist_w111659793.m3u8"
+       "url": "https://61ff3340258d2.streamlock.net/jtv_radio/myStream/chunklist_w111659793.m3u8",
+       "rb": "cb45bd69-ec15-4fe2-8a6f-0af262fb2aad",
+       "logo": "https://jtv.co.kr/2021/favicon.ico"
       },
       {
        "name": "KBC 광주방송 – MyFM",
@@ -1326,7 +1350,9 @@
       {
        "name": "KBS 1라디오",
        "url": "http://serpent0.duckdns.org:8088/kbs1radio.pls",
-       "featured": 1
+       "featured": 1,
+       "rb": "16c1e8aa-1e9e-422b-9611-842b61a70983",
+       "logo": "https://static.kbs.co.kr/www/20250220173400/resources/images/favicon/favicon.png"
       },
       {
        "name": "KBS 1라디오 (KBS Radio 1) – 97.3 FM – Seoul – Republic of Korea",
@@ -1342,7 +1368,8 @@
        "name": "KBS Cool FM",
        "url": "http://serpent0.duckdns.org:8088/kbs2fm.pls",
        "logo": "https://res.static.kbs.co.kr/favicon.png",
-       "featured": 3
+       "featured": 3,
+       "rb": "2672e98d-b642-456e-8d77-e331ab4e007c"
       },
       {
        "name": "KBS News - Seoul Calling (updated Mon thru Fri)",
@@ -1431,7 +1458,8 @@
       {
        "name": "KBS 해피FM",
        "url": "http://serpent0.duckdns.org:8088/kbs2radio.pls",
-       "featured": 4
+       "featured": 4,
+       "rb": "8dc941a6-c866-4552-9fea-541c137cfb5d"
       },
       {
        "name": "KNN부산 Power FM",
@@ -1447,7 +1475,9 @@
        "tags": [
         "news_talk",
         "pop_hits"
-       ]
+       ],
+       "rb": "7e0188a0-b332-405d-af8f-57da3223369b",
+       "logo": "https://listen.moe/favicon.ico"
       },
       {
        "name": "Listen.moe Kpop",
@@ -1455,15 +1485,18 @@
        "tags": [
         "news_talk",
         "pop_hits"
-       ]
+       ],
+       "rb": "157bcaf5-d718-4ddf-bd97-adf23c78edc7"
       },
       {
        "name": "MBC FM",
-       "url": "http://serpent0.duckdns.org:8088/mbcsfm.pls"
+       "url": "http://serpent0.duckdns.org:8088/mbcsfm.pls",
+       "rb": "fc4c247a-7f66-11e9-aa30-52543be04c81"
       },
       {
        "name": "MBC FM4U",
-       "url": "http://serpent0.duckdns.org:8088/mbcfm.pls"
+       "url": "http://serpent0.duckdns.org:8088/mbcfm.pls",
+       "rb": "730d9f95-57a3-4eec-94a2-ed270baa64c8"
       },
       {
        "name": "MBC 라디오 radio",
@@ -1476,17 +1509,20 @@
       },
       {
        "name": "MBC충북 FM4U",
-       "url": "http://211.33.246.4:32954/radio_fm/myStream.sdp/chunklist_w348337231.m3u8"
+       "url": "http://211.33.246.4:32954/radio_fm/myStream.sdp/chunklist_w348337231.m3u8",
+       "rb": "db7b598f-2428-4b7f-bae3-677091ab4648"
       },
       {
        "name": "MBC충북 표준FM",
-       "url": "http://211.33.246.4:32954/radio_stfm/myStream.sdp/chunklist_w392819215.m3u8"
+       "url": "http://211.33.246.4:32954/radio_stfm/myStream.sdp/chunklist_w392819215.m3u8",
+       "rb": "3a6cf532-d730-4b92-91bf-f3d5434a2159"
       },
       {
        "name": "OBS 라디오",
        "url": "https://vod3.obs.co.kr:444/live/obsstream1/radio.stream/playlist.m3u8",
        "logo": "https://play-lh.googleusercontent.com/EQd7zsUgIsdtDSAldbre7DT0V2vsW-As6J51zcMnfycMpyJRgFIO311XvDExg-g-TA=w480-h960",
-       "featured": 18
+       "featured": 18,
+       "rb": "c60ab0ce-723c-43a9-85a4-ff544710f27f"
       },
       {
        "name": "PBC Radio",
@@ -1532,7 +1568,8 @@
       {
        "name": "SBS 러브FM",
        "url": "http://serpent0.duckdns.org:8088/sbs2fm.pls",
-       "featured": 6
+       "featured": 6,
+       "rb": "0fc7173f-5106-4c47-9156-621124fb0803"
       },
       {
        "name": "SBS 파워FM",
@@ -1647,12 +1684,14 @@
       {
        "name": "TBN 경인교통방송",
        "url": "http://radio2.tbn.or.kr:1935/gyeongin/myStream/playlist.m3u8",
-       "featured": 15
+       "featured": 15,
+       "rb": "f9ab75ae-a4ce-440a-8b29-1dab8ba76f5c"
       },
       {
        "name": "TBN 울산교통방송",
        "url": "http://radio2.tbn.or.kr:1935/ulsan/myStream/playlist.m3u8",
-       "featured": 16
+       "featured": 16,
+       "rb": "6240924d-bc3a-4cd6-8e09-399dbdeb0a36"
       },
       {
        "name": "TBS eFM",
@@ -1685,7 +1724,9 @@
       {
        "name": "TBS FM 95.1",
        "url": "https://cdnfm.tbs.seoul.kr/tbs/_definst_/tbs_fm_web_360.smil/chunklist.m3u8",
-       "featured": 12
+       "featured": 12,
+       "rb": "6ad5927a-7ef7-456c-ad54-059873ff9f28",
+       "logo": "https://zuiai.tv/zb_users/upload/2026/3/2026030564925917_mini.jpg"
       },
       {
        "name": "TJB 파워 FM (POWER FM)",
@@ -1734,7 +1775,8 @@
       {
        "name": "YTN 라디오",
        "url": "https://radiolive.ytn.co.kr/radio/_definst_/20211118_fmlive/playlist.m3u8",
-       "featured": 11
+       "featured": 11,
+       "rb": "10fbdfdd-2a6f-49fb-a035-8963c57f52e8"
       },
       {
        "name": "강릉 MBC FM",
@@ -1744,12 +1786,14 @@
       {
        "name": "경인방송 iFM",
        "url": "https://stream.ifm.kr/live/aod1/playlist.m3u8",
-       "featured": 17
+       "featured": 17,
+       "rb": "d9db0a16-9100-4917-b5f5-bd48a42a1e70"
       },
       {
        "name": "국방FM",
        "url": "https://mediaworks.dema.mil.kr/live_edge/audio.sdp/playlist.m3u8",
-       "featured": 19
+       "featured": 19,
+       "rb": "3df9fa02-ae92-4423-8f01-e007129c00ee"
       },
       {
        "name": "국방FM radio",
@@ -1779,7 +1823,8 @@
        "tags": [
         "pop_hits",
         "news_talk"
-       ]
+       ],
+       "rb": "1814c6bf-528b-446d-8f40-f5261a2b3b7b"
       },
       {
        "name": "영동극동방송FM",
@@ -1817,7 +1862,8 @@
         "oldies",
         "pop_hits",
         "news_talk"
-       ]
+       ],
+       "rb": "772b95cf-31e8-41f9-bad3-a2da08495e39"
       }
      ]
     },
@@ -1886,7 +1932,8 @@
       {
        "name": "CBS 음악FM 93.9",
        "url": "https://m-aac.cbs.co.kr/cbs939/_definst_/cbs939.stream/playlist.m3u8",
-       "featured": 8
+       "featured": 8,
+       "rb": "3043d560-4358-4583-9e29-9fce6777a09c"
       },
       {
        "name": "DK NET DALLAS live",
@@ -1952,7 +1999,8 @@
         "pop_hits",
         "news_talk"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "1c5e70a7-491a-455a-b1b3-48f4b8241155"
       },
       {
        "name": "MapoFM",
@@ -1962,7 +2010,8 @@
        "name": "MBC충북 FM4U",
        "url": "http://211.33.246.4:32954/radio_fm/myStream.sdp/playlist.m3u8",
        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpfZhAjmDC9Q6KIOILQiRnGR7_KpXwJ_RwArzYCNVwPg&s=10",
-       "featured": 23
+       "featured": 23,
+       "rb": "c6526df4-0e1f-4f95-baea-3483f8ca7bf1"
       },
       {
        "name": "Mukulcast",
@@ -2027,7 +2076,8 @@
       {
        "name": "SBS 파워FM",
        "url": "http://serpent0.duckdns.org:8088/sbsfm.pls",
-       "featured": 5
+       "featured": 5,
+       "rb": "1cc29b79-7be3-11e9-aa30-52543be04c81"
       },
       {
        "name": "SCN(Sungseo Community FM) FM",
@@ -2035,7 +2085,9 @@
        "tags": [
         "various_eclectic",
         "pop_hits"
-       ]
+       ],
+       "rb": "4edaf384-7c48-4852-a390-c879e2fc41aa",
+       "logo": "https://cdn-images-3.listennotes.com/podcasts/scn-%EC%84%B1%EC%84%9C%EA%B3%B5%EB%8F%99%EC%B2%B4fm-891mhz-%EC%84%B1%EC%84%9C%EA%B3%B5%EB%8F%99%EC%B2%B4fm-NrySpdFHVJk-a9nswMfkelH.1400x1400.jpg"
       },
       {
        "name": "Skylake",
@@ -2059,7 +2111,8 @@
       {
        "name": "안동MBC FM4U",
        "url": "https://live.andongmbc.co.kr/live/fmlive/playlist.m3u8",
-       "featured": 22
+       "featured": 22,
+       "rb": "b2b7599e-16b9-4225-9ffa-263b0cb541a6"
       }
      ]
     },
@@ -2128,7 +2181,8 @@
       },
       {
        "name": "Floyd Server Rock BalladFrom 092505",
-       "url": "http://1.uicl.co.kr:8000/"
+       "url": "http://1.uicl.co.kr:8000/",
+       "rb": "44dc6d1c-abe5-402a-be20-3545a0a13101"
       },
       {
        "name": "Mukulcast FM",
@@ -2386,7 +2440,8 @@
         "jpop_kpop_asia",
         "electronic",
         "news_talk"
-       ]
+       ],
+       "rb": "7a72aa80-3902-4d73-a548-db81ac780240"
       },
       {
        "name": "BTN Radio - CH1",
@@ -2463,7 +2518,8 @@
       {
        "name": "국악방송",
        "url": "https://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/playlist.m3u8",
-       "featured": 14
+       "featured": 14,
+       "rb": "2f47d2d9-ac17-49cd-9e1c-b5b295800e37"
       },
       {
        "name": "부산 MBC FM",
@@ -2677,7 +2733,8 @@
       },
       {
        "name": "GugakFM",
-       "url": "https://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/chunklist_w1653570079.m3u8?n=ef0d8f49c2de6c6b1b2f"
+       "url": "https://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/chunklist_w1653570079.m3u8?n=ef0d8f49c2de6c6b1b2f",
+       "rb": "c72c8602-5359-4b23-95a8-a7c2b4d067de"
       },
       {
        "name": "Happy Journey with Jazz",
@@ -3111,7 +3168,9 @@
       {
        "name": "TBS eFM 101.3",
        "url": "https://cdnefm.tbs.seoul.kr/tbs/_definst_/tbs_efm_web_360.smil/chunklist.m3u8",
-       "featured": 13
+       "featured": 13,
+       "rb": "e89958f1-bc76-44fe-b681-841b5ec4ceae",
+       "logo": "https://zuiai.tv/zb_users/upload/2026/3/2026030564925917_mini.jpg"
       },
       {
        "name": "YTN News 94.5 FM",
@@ -3120,13 +3179,15 @@
       {
        "name": "부산 BeFM 90.5",
        "url": "http://befm905.live.smilecdn.com:1935/befm905_live/live/playlist.m3u8",
-       "featured": 24
+       "featured": 24,
+       "rb": "0cbefa4e-77f0-4b98-bfdf-37a32aeb0c8b"
       },
       {
        "name": "아리랑 라디오",
        "url": "http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
        "logo": "https://www.arirang.com/favicon.ico",
-       "featured": 20
+       "featured": 20,
+       "rb": "dad75d66-3246-434f-b16c-83854fe573a0"
       }
      ]
     },

@@ -31,7 +31,8 @@
         "various_eclectic",
         "sports",
         "easy_listening"
-       ]
+       ],
+       "rb": "f57789e6-f302-4d4f-b0e5-eae2d4e52cf6"
       },
       {
        "name": "Antena 3 AAC",
@@ -40,7 +41,8 @@
         "alternative_indie",
         "pop_hits",
         "rock"
-       ]
+       ],
+       "rb": "6ee0cdcf-5d4c-4c29-9372-94a853110dec"
       },
       {
        "name": "Engenharia Rádio",
@@ -85,7 +87,9 @@
         "various_eclectic",
         "latin",
         "world"
-       ]
+       ],
+       "rb": "97778c9f-1b40-47b0-be28-c0300a29ed30",
+       "logo": "https://www.radiofutura.pt/favicon.ico"
       },
       {
        "name": "Hard & Heavy Metal Hits Radio",
@@ -114,7 +118,9 @@
        "tags": [
         "alternative_indie",
         "rock"
-       ]
+       ],
+       "rb": "7119e56e-a767-4b1a-b31e-6f39d2d9c030",
+       "logo": "http://webradiodirectory.com/wp-content/uploads/2021/01/bb1443327bbcc1a1ef97d0668929c581.jpg"
       },
       {
        "name": "M80 Rádio – Indie",
@@ -296,7 +302,9 @@
       },
       {
        "name": "RUM - Rádio Universitária do Minho",
-       "url": "http://centova.radio.com.pt:9558/stream"
+       "url": "http://centova.radio.com.pt:9558/stream",
+       "rb": "bd70b5f3-ccae-44d8-9ea5-1a4778d17069",
+       "logo": "https://static2.mytuner.mobi/media/tvos_radios/773/rum-radio-universitaria-do-minho.b70e0901.png"
       },
       {
        "name": "RUM Radio",
@@ -352,7 +360,8 @@
        "tags": [
         "alternative_indie",
         "electronic"
-       ]
+       ],
+       "rb": "b3d10f85-29c1-4b4c-b0dd-364cd88e034f"
       },
       {
        "name": "Rádio Radar",
@@ -362,7 +371,8 @@
         "rock",
         "pop_hits",
         "news_talk"
-       ]
+       ],
+       "rb": "af913556-c2bf-4efc-9d62-1bc715af15f9"
       },
       {
        "name": "Rádio Radar 97.8 FM Radio",
@@ -804,7 +814,8 @@
       },
       {
        "name": "BBN Portuguese",
-       "url": "https://audio-edge-5bkfj.fra.h.radiomast.io/ec065d59-f358-48c9-a288-4efc797e5860"
+       "url": "https://audio-edge-5bkfj.fra.h.radiomast.io/ec065d59-f358-48c9-a288-4efc797e5860",
+       "rb": "c05f4f24-e7c4-4406-8124-7ce5d5db1338"
       },
       {
        "name": "Cidade Radio (Lisboa)",
@@ -847,7 +858,9 @@
       },
       {
        "name": "Radio Biblia",
-       "url": "https://servidor30-4.brlogic.com:7398/live"
+       "url": "https://servidor30-4.brlogic.com:7398/live",
+       "rb": "bd9404d3-e56b-4eea-a500-3101fcd3d594",
+       "logo": "https://public-rf-upload.minhawebradio.net/198355/favicon/e546f187222f5837de85785dde53de8f.png"
       },
       {
        "name": "Radio Cristo Digital",
@@ -956,7 +969,9 @@
         "news_talk",
         "pop_hits",
         "various_eclectic"
-       ]
+       ],
+       "rb": "9618e5ff-0601-11e8-ae97-52543be04c81",
+       "logo": "http://www.radiorcs.pt/favicon.ico"
       },
       {
        "name": "Rádio Figueira Gospel",
@@ -974,7 +989,8 @@
       {
        "name": "Rádio Maria (Portugal)",
        "url": "https://dreamsiteradiocp5.com/proxy/rmportugal1?mp=/stream",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "fb952115-4a5a-4b67-858e-b1a4353bf118"
       },
       {
        "name": "Rádio Nova Gospel Europa radio",
@@ -988,7 +1004,9 @@
       },
       {
        "name": "Rádio RCS 91.2 FM",
-       "url": "http://centova.radio.com.pt:8445/stream"
+       "url": "http://centova.radio.com.pt:8445/stream",
+       "rb": "5d32ec38-94ca-4e94-80f4-4deff25c9155",
+       "logo": "https://www.novotempo.pt/favicon.ico"
       },
       {
        "name": "Rádio Renascença – PT-04",
@@ -1050,7 +1068,8 @@
        "tags": [
         "classical",
         "news_talk"
-       ]
+       ],
+       "rb": "033bc3a2-10c6-4946-bccf-b738878863cb"
       },
       {
        "name": "Antena 2",
@@ -1062,11 +1081,15 @@
       },
       {
        "name": "Antena 2 (AAC)",
-       "url": "http://streaming-live-app.rtp.pt/liveradio/antena280a/playlist.m3u8?DVR"
+       "url": "http://streaming-live-app.rtp.pt/liveradio/antena280a/playlist.m3u8?DVR",
+       "rb": "60f9ae91-af89-4a97-980d-5ead2a654c3e",
+       "logo": "https://www.rtp.pt/favicon.ico"
       },
       {
        "name": "Antena 2 AAC",
-       "url": "http://streaming-live-app.rtp.pt/liveradio/antena280a/playlist.m3u8?n=40262f7f844b0442c318"
+       "url": "http://streaming-live-app.rtp.pt/liveradio/antena280a/playlist.m3u8?n=40262f7f844b0442c318",
+       "rb": "20f7728c-1d68-47ba-8f5a-b3627f8354b7",
+       "logo": "https://www.rtp.pt/favicon.ico"
       },
       {
        "name": "Antena 2 Opera",
@@ -1074,7 +1097,9 @@
        "tags": [
         "classical",
         "news_talk"
-       ]
+       ],
+       "rb": "13b45d2a-ef33-4b41-8eec-b206583eaccc",
+       "logo": "https://cdn-images.rtp.pt/play/images/apple-touch-icon.png-120x120.png"
       },
       {
        "name": "Antena2 Ópera",
@@ -1179,7 +1204,9 @@
         "pop_hits",
         "oldies",
         "classical"
-       ]
+       ],
+       "rb": "e451bd02-ea2a-4680-8a32-15e7adfcba78",
+       "logo": "https://www.altitude.fm/favicon.ico"
       },
       {
        "name": "Rádio Baía",
@@ -1376,7 +1403,8 @@
       },
       {
        "name": "Rádio Ansiães",
-       "url": "http://centova.radio.com.pt:8419"
+       "url": "http://centova.radio.com.pt:8419",
+       "rb": "9618a279-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Rádio Café com Robótica-AP",
@@ -1640,7 +1668,8 @@
        "tags": [
         "pop_hits",
         "country"
-       ]
+       ],
+       "rb": "6aa4ea78-cef7-437f-9715-dee1e737c75f"
       }
      ]
     },
@@ -1865,7 +1894,9 @@
         "decade_90s",
         "rock"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "6fcc7a6e-7cde-4986-bc49-0aa6e46607c9",
+       "logo": "https://ntr.fm/wp-content/uploads/2017/06/NTR-Logo-600x600-Dark_Bg-v1-1.png"
       },
       {
        "name": "paulo pintao",
@@ -1934,7 +1965,8 @@
       {
        "name": "Radio Metal ON: 80sHNH",
        "url": "https://radiometalon.com/listen/radio_metal_on_80s_hnh/radio.mp3",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "947e85f8-f8af-42df-bd6f-1d6549bc094b"
       },
       {
        "name": "Radio Regional Oldies 80s",
@@ -2058,7 +2090,9 @@
         "decade_80s",
         "pop_hits",
         "decade_90s"
-       ]
+       ],
+       "rb": "a7dfd0bc-c9cd-492d-aeb4-e43c8ed83745",
+       "logo": "https://img.radios.com.br/radio/xl/radio232214_1699645003.jpg"
       },
       {
        "name": "Web Furacao Dos Acores radio",
@@ -2161,7 +2195,9 @@
        "tags": [
         "electronic",
         "disco_eurodance"
-       ]
+       ],
+       "rb": "72428fa1-03ab-449d-bd76-cdda94867fe0",
+       "logo": "https://cdn.radoxo.com/images/portugal/radio-escuro.webp"
       },
       {
        "name": "Rádio Voz Santo Tirso",
@@ -2252,7 +2288,8 @@
         "pop_hits",
         "easy_listening",
         "oldies"
-       ]
+       ],
+       "rb": "0602f873-4a47-4536-9039-bbbdee1ecc1d"
       },
       {
        "name": "M80 Radio - Brasil",
@@ -2282,7 +2319,9 @@
         "pop_hits",
         "easy_listening",
         "oldies"
-       ]
+       ],
+       "rb": "ae8f651c-f768-4243-83a0-7d535a5d4d8b",
+       "logo": "http://webradiodirectory.com/wp-content/uploads/2021/01/f506762ed247f010c6c41c494c279e57.jpg"
       },
       {
        "name": "M80 Rádio – Ballads",
@@ -2295,7 +2334,8 @@
         "decade_80s",
         "decade_90s",
         "oldies"
-       ]
+       ],
+       "rb": "a08d74ca-2172-447a-941a-b5c5c20afdd6"
       },
       {
        "name": "MFM 96.2",
@@ -2571,7 +2611,8 @@
       },
       {
        "name": "Record FM Porto",
-       "url": "https://nl.digitalrm.pt:8028/stream"
+       "url": "https://nl.digitalrm.pt:8028/stream",
+       "rb": "89938c58-5bd1-4e86-897c-f3b5e046aaf6"
       },
       {
        "name": "RFM - Lisbon",
@@ -2625,7 +2666,9 @@
         "rock",
         "pop_hits",
         "world"
-       ]
+       ],
+       "rb": "9619317f-0601-11e8-ae97-52543be04c81",
+       "logo": "http://img.sedoparking.com/templates/logos/sedo_logo.png"
       },
       {
        "name": "Rádio Clube de Pombal",
@@ -2635,7 +2678,8 @@
         "pop_hits",
         "rock"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "fc276c08-822a-46aa-b71a-afb9e15f9580"
       },
       {
        "name": "Rádio Comercial Soft",
@@ -2676,7 +2720,8 @@
        "tags": [
         "easy_listening",
         "jazz"
-       ]
+       ],
+       "rb": "7d385089-1f17-493d-8f54-7f387ccf8d22"
       },
       {
        "name": "Rádio Onda Viva",
@@ -2700,7 +2745,9 @@
        "tags": [
         "easy_listening",
         "pop_hits"
-       ]
+       ],
+       "rb": "96198f99-0601-11e8-ae97-52543be04c81",
+       "logo": "http://cdn-radiotime-logos.tunein.com/s84209q.png"
       },
       {
        "name": "Rádio Popular Afifense",
@@ -2766,7 +2813,9 @@
         "rock",
         "world",
         "pop_hits"
-       ]
+       ],
+       "rb": "9618efdc-0601-11e8-ae97-52543be04c81",
+       "logo": "http://cdn-radiotime-logos.tunein.com/s107330q.png"
       },
       {
        "name": "Tropical FM",
@@ -2917,7 +2966,9 @@
         "electronic",
         "pop_hits",
         "rock"
-       ]
+       ],
+       "rb": "9619969b-0601-11e8-ae97-52543be04c81",
+       "logo": "http://cdn-radiotime-logos.tunein.com/s81780q.png"
       },
       {
        "name": "Estação Diária",
@@ -2926,7 +2977,9 @@
         "pop_hits",
         "electronic"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "d132682d-bc0a-4608-82d4-9e293b5b1e9a",
+       "logo": "https://www.968.fm/images/logo_mobile.png"
       },
       {
        "name": "FOQO",
@@ -2938,7 +2991,9 @@
         "metal",
         "rock",
         "hip_hop_rap"
-       ]
+       ],
+       "rb": "fb325f39-3ec5-449f-87ed-c139bdaf1408",
+       "logo": "https://cdn.shopk.it/assets/logo/shopkit-abbr-black-64x64.png"
       },
       {
        "name": "HappyHardcore",
@@ -3078,7 +3133,8 @@
         "decade_90s",
         "pop_hits",
         "oldies"
-       ]
+       ],
+       "rb": "06b3a0bc-3feb-474e-931a-719d30399af8"
       },
       {
        "name": "Megafone Rádio",
@@ -3141,7 +3197,9 @@
         "pop_hits",
         "electronic",
         "classical"
-       ]
+       ],
+       "rb": "46dc6e29-8390-44f3-9d83-ff59d4a41fd9",
+       "logo": "https://orbital.pt/icon.png"
       },
       {
        "name": "Pirata Fm radio",
@@ -3367,7 +3425,9 @@
       },
       {
        "name": "Radio Orbital",
-       "url": "http://centova.radios.pt:8401/stream"
+       "url": "http://centova.radios.pt:8401/stream",
+       "rb": "5b1eaa8b-7089-11ea-b1cf-52543be04c81",
+       "logo": "http://www.orbital.pt/icon.png"
       },
       {
        "name": "Radio Orbital",
@@ -3467,7 +3527,9 @@
         "techno",
         "house"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "206b4dd9-d3b4-43d5-a775-fcf3a0213289",
+       "logo": "https://resfmradio.com/wp-content/uploads/2021/10/cropped-Logo_RES-FM_Verde_2.png"
       },
       {
        "name": "RES.FM",
@@ -3502,7 +3564,9 @@
         "pop_hits",
         "news_talk",
         "electronic"
-       ]
+       ],
+       "rb": "dfe3ebed-08cd-447a-9a58-efb8eebab9f8",
+       "logo": "https://rfmsite2023-images.azureedge.net/icons/touch-icon-iphone-retina.png"
       },
       {
        "name": "RLCB Dance",
@@ -3599,7 +3663,8 @@
        "tags": [
         "pop_hits",
         "electronic"
-       ]
+       ],
+       "rb": "b0e33f48-ea02-4843-98b0-6729338bcccb"
       },
       {
        "name": "Rádio Comercial Dance",
@@ -3687,7 +3752,9 @@
         "pop_hits",
         "college_community",
         "electronic"
-       ]
+       ],
+       "rb": "65c2e90d-0705-484c-9958-17af11871333",
+       "logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/42/78/103539/1/c175.png"
       },
       {
        "name": "Rádio Nova Era",
@@ -3716,7 +3783,9 @@
        "tags": [
         "electronic",
         "house"
-       ]
+       ],
+       "rb": "cea4c68f-aa55-4760-b65c-530ee5b89bd7",
+       "logo": "https://www.orbital.pt/icon.png"
       },
       {
        "name": "Rádio Oxigénio",
@@ -3730,7 +3799,9 @@
         "jazz",
         "various_eclectic",
         "world"
-       ]
+       ],
+       "rb": "42c17a78-76d2-4c25-9350-ad8b6df014c3",
+       "logo": "https://www.oxigenio.fm/wp-content/uploads/2018/11/cropped-favicon-180x180.png"
       },
       {
        "name": "Rádio Oxigénio radio",
@@ -3759,7 +3830,9 @@
         "electronic",
         "pop_hits",
         "decade_80s"
-       ]
+       ],
+       "rb": "4cf9a93f-722e-41f2-a412-7011d6d8f267",
+       "logo": "https://radioregional.pt/wp-content/uploads/2022/02/rr-logo-1.png"
       },
       {
        "name": "Rádio Regional",
@@ -3776,7 +3849,9 @@
        "tags": [
         "pop_hits",
         "electronic"
-       ]
+       ],
+       "rb": "4061e68a-7f97-44bb-a453-76489a23c99c",
+       "logo": "https://radioregional.pt/wp-content/uploads/2022/02/rr-logo-1.png"
       },
       {
        "name": "RÁDIO REGIONAL - MIRANDELA",
@@ -4165,7 +4240,8 @@
         "folk",
         "rock"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "8e35a2a7-3f57-48c6-b625-8da896e5a243"
       },
       {
        "name": "Radio do Folclore Portugues",
@@ -4320,7 +4396,8 @@
        "tags": [
         "pop_hits",
         "folk"
-       ]
+       ],
+       "rb": "3debf7a7-1032-4bc0-b200-929aba93a2c8"
       },
       {
        "name": "Radio Portugal Star radio",
@@ -4463,7 +4540,9 @@
       },
       {
        "name": "Rádio Amália",
-       "url": "http://centova.radio.com.pt:9496/"
+       "url": "http://centova.radio.com.pt:9496/",
+       "rb": "96190e3e-0601-11e8-ae97-52543be04c81",
+       "logo": "http://cdn-radiotime-logos.tunein.com/s113888q.png"
       },
       {
        "name": "Rádio Amália",
@@ -4521,7 +4600,9 @@
       },
       {
        "name": "Rádio Cantinho dos Emigrantes radio",
-       "url": "https://cast.redewt.net:9825/stream"
+       "url": "https://cast.redewt.net:9825/stream",
+       "rb": "7365e570-cacc-4e43-a38b-533bb0b70236",
+       "logo": "https://cantinhodosemigrantes.pt/wp-content/uploads/2023/03/logo_radio.png"
       },
       {
        "name": "Rádio CAPSAO",
@@ -4622,7 +4703,8 @@
       },
       {
        "name": "Rádio Regional de Arouca",
-       "url": "http://centova.radio.com.pt:8485/"
+       "url": "http://centova.radio.com.pt:8485/",
+       "rb": "b11bad37-7096-4a3c-ad76-9bf6538b2626"
       },
       {
        "name": "Rádio Sensações",
@@ -4697,7 +4779,9 @@
         "pop_hits",
         "country",
         "easy_listening"
-       ]
+       ],
+       "rb": "49389461-10ef-4d77-865b-bb3434bf3576",
+       "logo": "https://cdn.radoxo.com/images/portugal/radio-vfm.webp"
       }
      ]
     },
@@ -4741,7 +4825,9 @@
         "soul_rnb_funk",
         "ambient_relax",
         "pop_hits"
-       ]
+       ],
+       "rb": "6c07a526-7445-40f9-be2e-89f78c6fb7b0",
+       "logo": "https://upload.wikimedia.org/wikipedia/en/9/95/Szr.jpg?20060826171746"
       },
       {
        "name": "Cidade Hip Hop",
@@ -4860,7 +4946,8 @@
       },
       {
        "name": "Rap/Hip Hop",
-       "url": "http://185.32.188.17:8097/stream"
+       "url": "http://185.32.188.17:8097/stream",
+       "rb": "2a0fb11e-f91a-4553-bfff-3861a1de8fb9"
       },
       {
        "name": "Rádio H",
@@ -5196,11 +5283,15 @@
         "techno",
         "soundtrack",
         "smooth_jazz"
-       ]
+       ],
+       "rb": "f86c489e-7e21-11e9-aa30-52543be04c81",
+       "logo": "https://www.wix.com/favicon.ico"
       },
       {
        "name": "4Drive Jazz",
-       "url": "https://radio.streemlion.com:4870/stream"
+       "url": "https://radio.streemlion.com:4870/stream",
+       "rb": "814f01c9-f4df-44e0-9198-6c78a5c6d131",
+       "logo": "https://static.wixstatic.com/media/aafaca_063ee918224540c5b309bdb5d41898b5~mv2.png"
       },
       {
        "name": "4Drive Jazz",
@@ -5439,7 +5530,9 @@
         "news_talk",
         "soul_rnb_funk",
         "pop_hits"
-       ]
+       ],
+       "rb": "668bc1d4-f8a3-4555-81b8-337185338ea0",
+       "logo": "https://www.radionova.fm/wp-content/uploads/2023/05/cropped-favicon-180x180.png"
       },
       {
        "name": "Radio Voz do Marao",
@@ -5510,7 +5603,8 @@
         "jazz",
         "easy_listening",
         "pop_hits"
-       ]
+       ],
+       "rb": "96198adc-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Rádio Costa do Sol",
@@ -5528,7 +5622,9 @@
       },
       {
        "name": "Rádio Marginal",
-       "url": "http://centova.radio.com.pt:8499/"
+       "url": "http://centova.radio.com.pt:8499/",
+       "rb": "96105626-0601-11e8-ae97-52543be04c81",
+       "logo": "http://cdn-radiotime-logos.tunein.com/s25146q.png"
       },
       {
        "name": "Rádio Marginal",
@@ -5540,7 +5636,9 @@
        "tags": [
         "jazz",
         "soul_rnb_funk"
-       ]
+       ],
+       "rb": "65b0683c-6952-4ded-b542-439abaddddaf",
+       "logo": "https://marginal.fm/images/logo-marginal.png"
       },
       {
        "name": "Rádio Nova 98.9 FM",
@@ -5571,7 +5669,8 @@
         "jazz",
         "pop_hits",
         "classical"
-       ]
+       ],
+       "rb": "4adaac34-b0dd-4a6f-9423-9da3cc554678"
       },
       {
        "name": "Smooth FM",
@@ -5636,7 +5735,9 @@
       },
       {
        "name": "Smooth Jazz Portugal",
-       "url": "https://stream-hls.bauermedia.pt/smojazz.aac/playlist.m3u8?n=47b93a3c2c53ca56eded"
+       "url": "https://stream-hls.bauermedia.pt/smojazz.aac/playlist.m3u8?n=47b93a3c2c53ca56eded",
+       "rb": "ece826dd-3eba-4c89-ab1c-24e34bfc6407",
+       "logo": "https://bauermedia.pt/favicon.ico"
       }
      ]
     },
@@ -5768,7 +5869,9 @@
        "tags": [
         "kids",
         "various_eclectic"
-       ]
+       ],
+       "rb": "ebfdfb1a-aa24-4871-b27b-7b6ed31dbe5b",
+       "logo": "https://www.celsoazevedo.com/files/2022/11/radio-zig-zag.png"
       },
       {
        "name": "RZT CRIANCA",
@@ -5782,7 +5885,8 @@
       },
       {
        "name": "Rádio Comercial Kids",
-       "url": "https://stream-icy.bauermedia.pt/rckids.aac?n=ad2403810919171d8850"
+       "url": "https://stream-icy.bauermedia.pt/rckids.aac?n=ad2403810919171d8850",
+       "rb": "ed07129e-0174-4dff-afaa-3fde476904b5"
       },
       {
        "name": "RÁDIO ESCOLAR lombo guiné",
@@ -5794,7 +5898,8 @@
       },
       {
        "name": "Rádio Miudos",
-       "url": "http://109.71.41.6:8020/live"
+       "url": "http://109.71.41.6:8020/live",
+       "rb": "5e1ddf7e-8bbd-11e9-ad01-52543be04c81"
       },
       {
        "name": "Rádio Miúdos",
@@ -5816,7 +5921,9 @@
        "tags": [
         "kids",
         "various_eclectic"
-       ]
+       ],
+       "rb": "eeabbc32-b558-4bf9-bd7e-09855ca88cd8",
+       "logo": "https://cdn-images.rtp.pt/play/zigzag/imgs/zz_logowhite.png"
       },
       {
        "name": "Web Radio Estamos Em Familia",
@@ -5839,7 +5946,8 @@
         "latin",
         "folk",
         "world"
-       ]
+       ],
+       "rb": "96197766-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Brazuca Flash radio",
@@ -6357,7 +6465,8 @@
         "metal",
         "rock"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "d4841efc-ba3f-43f2-9129-51aa5372c20f"
       },
       {
        "name": "Radio Metal On: The Heavy",
@@ -6423,7 +6532,8 @@
         "metal",
         "alternative_indie",
         "rock"
-       ]
+       ],
+       "rb": "c58a8574-bc4d-49d5-9b57-c5266ffbcf39"
       },
       {
        "name": "Songs for the Deaf Radio",
@@ -6516,7 +6626,9 @@
       {
        "name": "A17   TSF",
        "url": "http://centova.radios.pt:9470/stream",
-       "country_inferred": true
+       "country_inferred": true,
+       "rb": "ecd0f923-f29c-11e9-a96c-52543be04c81",
+       "logo": "https://www.tsf.pt/img/favicon/apple-touch-icon.png"
       },
       {
        "name": "ABC Portugal FM",
@@ -6583,7 +6695,9 @@
         "news_talk",
         "sports",
         "pop_hits"
-       ]
+       ],
+       "rb": "0bb91b7b-fd13-487f-b645-87f6d6d7b4d2",
+       "logo": "https://cdn-images.rtp.pt/play/images/apple-touch-icon.png-120x120.png"
       },
       {
        "name": "Antena 1",
@@ -6601,7 +6715,8 @@
         "pop_hits",
         "sports",
         "various_eclectic"
-       ]
+       ],
+       "rb": "df73b42f-d349-4bb6-9bb5-b58f41633164"
       },
       {
        "name": "Antena 1",
@@ -6615,7 +6730,9 @@
        "tags": [
         "news_talk",
         "pop_hits"
-       ]
+       ],
+       "rb": "0a189e2f-e3d0-4a70-8e67-750c0087e1f1",
+       "logo": "https://www.celsoazevedo.com/files/2022/11/radio-lusitania.png"
       },
       {
        "name": "Antena 1 - Revista de Imprensa",
@@ -6641,7 +6758,9 @@
       },
       {
        "name": "Antena 1 Açores Portugal",
-       "url": "https://streaming-live.rtp.pt/liveradio/antena1acores80a/playlist.m3u8"
+       "url": "https://streaming-live.rtp.pt/liveradio/antena1acores80a/playlist.m3u8",
+       "rb": "326c6f7c-08d6-49da-9a4b-a6a634e77e3f",
+       "logo": "https://www.celsoazevedo.com/files/2022/11/antena-1-acores.png"
       },
       {
        "name": "Antena 1 Lusitania",
@@ -6657,7 +6776,9 @@
        "tags": [
         "news_talk",
         "pop_hits"
-       ]
+       ],
+       "rb": "29489790-0b8a-47d7-9b9d-630ebd9934fd",
+       "logo": "https://www.celsoazevedo.com/files/2022/11/antena-1-madeira.png"
       },
       {
        "name": "Antena 1 Portugal",
@@ -6665,11 +6786,15 @@
        "tags": [
         "news_talk",
         "sports"
-       ]
+       ],
+       "rb": "7293d8f3-941d-4a7b-ace0-01c9584410f0",
+       "logo": "https://www.celsoazevedo.com/files/2022/antena-1.png"
       },
       {
        "name": "Antena 3 Madeira Portugal",
-       "url": "https://streaming-live.rtp.pt/liveradio/antena3madeira80a/playlist.m3u8"
+       "url": "https://streaming-live.rtp.pt/liveradio/antena3madeira80a/playlist.m3u8",
+       "rb": "070c21d8-f919-4c30-aac3-63de93a0d579",
+       "logo": "https://www.celsoazevedo.com/files/2022/11/antena-3-madeira.png"
       },
       {
        "name": "Antena Minho",
@@ -6809,7 +6934,9 @@
         "pop_hits",
         "news_talk"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "d1c00267-9915-4854-8f28-3e486f1c0591",
+       "logo": "https://cidade.fm/favicon.ico"
       },
       {
        "name": "Cidade Hoje",
@@ -6870,7 +6997,9 @@
         "news_talk",
         "pop_hits",
         "various_eclectic"
-       ]
+       ],
+       "rb": "9619687d-0601-11e8-ae97-52543be04c81",
+       "logo": "http://cdn-radiotime-logos.tunein.com/s83912q.png"
       },
       {
        "name": "Diário Campánario",
@@ -7024,7 +7153,8 @@
        "tags": [
         "news_talk",
         "rock"
-       ]
+       ],
+       "rb": "96199a22-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Posto Emissor do Funchal OM",
@@ -7286,7 +7416,9 @@
         "folk",
         "pop_hits"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "9d39e022-5955-451e-9cba-0bcb39c0bdd2",
+       "logo": "https://static.mytuner.mobi/media/tvos_radios/287/rca-radio-clube-de-armamar.d8198e90.png"
       },
       {
        "name": "Radio Comercial - Ucrânia",
@@ -7396,7 +7528,9 @@
        "tags": [
         "news_talk",
         "pop_hits"
-       ]
+       ],
+       "rb": "56db1998-4d48-42b4-a424-bfcec290aeb3",
+       "logo": "https://www.celsoazevedo.com/files/random/2024/radio-festival.png"
       },
       {
        "name": "Radio Foia",
@@ -7541,7 +7675,8 @@
         "pop_hits",
         "classical",
         "various_eclectic"
-       ]
+       ],
+       "rb": "8e68b774-36ee-4d3b-a44c-3d3b54f1bfc5"
       },
       {
        "name": "Radio Lisboa Listen live",
@@ -7784,7 +7919,9 @@
         "news_talk",
         "pop_hits"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "10e8c956-d80b-40d6-a16e-47d966665e3f",
+       "logo": "https://cdn.radoxo.com/images/portugal/radio-rci.webp"
       },
       {
        "name": "Radio RCS 91.2 FM",
@@ -7834,7 +7971,8 @@
         "news_talk",
         "christian_gospel",
         "sports"
-       ]
+       ],
+       "rb": "981f822f-198c-490f-a635-5489d9708765"
       },
       {
        "name": "Radio Renascença",
@@ -7863,7 +8001,8 @@
         "pop_hits",
         "folk",
         "various_eclectic"
-       ]
+       ],
+       "rb": "db31f1f9-a469-4188-b8b3-9713557413d9"
       },
       {
        "name": "Radio Seixal",
@@ -7910,7 +8049,9 @@
         "college_community",
         "alternative_indie",
         "world"
-       ]
+       ],
+       "rb": "53ef1268-a1f2-4d6f-beaf-6cec98b8fac8",
+       "logo": "https://www.ruc.pt/apple-icon.png"
       },
       {
        "name": "Radio Universidade De Coimbra",
@@ -7945,7 +8086,9 @@
         "news_talk",
         "sports",
         "pop_hits"
-       ]
+       ],
+       "rb": "96199065-0601-11e8-ae97-52543be04c81",
+       "logo": "http://cdn-radiotime-logos.tunein.com/s84205q.png"
       },
       {
        "name": "Radio Vidigueira",
@@ -8108,7 +8251,9 @@
         "folk",
         "pop_hits",
         "world"
-       ]
+       ],
+       "rb": "264afd2f-8aa2-40c1-a5c5-b4ef1627e7be",
+       "logo": "https://www.celsoazevedo.com/files/2022/11/rdp-africa.jpg"
       },
       {
        "name": "RDP Internacional",
@@ -8119,7 +8264,9 @@
         "oldies",
         "pop_hits",
         "world"
-       ]
+       ],
+       "rb": "b97e1646-b7f9-42ca-838e-bc973d1c813c",
+       "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png?q=10&v=3&w=275"
       },
       {
        "name": "RDP Internacional",
@@ -8127,7 +8274,9 @@
        "tags": [
         "news_talk",
         "pop_hits"
-       ]
+       ],
+       "rb": "91200ce0-a62d-43ec-b948-bde6789433e6",
+       "logo": "https://www.celsoazevedo.com/files/2022/11/rdp-internacional.png"
       },
       {
        "name": "RDP Internacional",
@@ -8146,7 +8295,9 @@
         "various_eclectic",
         "sports",
         "latin"
-       ]
+       ],
+       "rb": "59a7497f-5f04-4b64-8fdc-3fd7ef55d7a3",
+       "logo": "https://madeira.rtp.pt/favicon.ico"
       },
       {
        "name": "RDP Madeira – Antena 1",
@@ -8182,7 +8333,9 @@
         "news_talk",
         "folk",
         "pop_hits"
-       ]
+       ],
+       "rb": "b3f805aa-0cdb-4003-aaa6-8f628a9b6fe5",
+       "logo": "https://scontent.flis5-4.fna.fbcdn.net/v/t39.30808-6/500655283_1250058963794271_2889443567232358165_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=w4U8bIGVv8QQ7kNvwFQYb3f&_nc_oc=Adl1a0tjkODtR6LsxYNF4xmjU3R7pnfIY4H62LN4IULEhOBmH867pgTZecknGItgI7w&_nc_zt=23&_nc_ht=scontent.flis5-4.fna&_nc_gid=VljbMq8gQlSef4mDIf-KBg&_nc_ss=8&oh=00_AfxZw2tULhaZnOXBJD5gH-GRFgzQ7so9glsW0xIr7XUahg&oe=69BAF319BoPBYDAYDIafnv8BMyMWrREjVeQAAAAASUVORK5CYII="
       },
       {
        "name": "RDS Radio",
@@ -8294,7 +8447,8 @@
         "rock",
         "sports",
         "world"
-       ]
+       ],
+       "rb": "96193484-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Rádio Antena Nove",
@@ -8302,7 +8456,8 @@
        "tags": [
         "pop_hits",
         "news_talk"
-       ]
+       ],
+       "rb": "dbd2c8ed-498a-4470-9e30-e0e1adb7dc6f"
       },
       {
        "name": "Rádio Atividade FM 106.9 radio",
@@ -8330,7 +8485,9 @@
         "rock",
         "sports",
         "world"
-       ]
+       ],
+       "rb": "96193548-0601-11e8-ae97-52543be04c81",
+       "logo": "http://cdn-radiotime-logos.tunein.com/s82123q.png"
       },
       {
        "name": "Rádio Baía  radio",
@@ -8464,7 +8621,9 @@
        "tags": [
         "news_talk",
         "world"
-       ]
+       ],
+       "rb": "96197824-0601-11e8-ae97-52543be04c81",
+       "logo": "http://cdn-radiotime-logos.tunein.com/s9924q.png"
       },
       {
        "name": "Rádio Clube Asas do Atlântico",
@@ -8485,7 +8644,8 @@
         "pop_hits",
         "rock",
         "various_eclectic"
-       ]
+       ],
+       "rb": "96143c96-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Rádio Clube de Arganil",
@@ -8495,7 +8655,8 @@
         "pop_hits",
         "folk",
         "various_eclectic"
-       ]
+       ],
+       "rb": "b6109c8d-0910-428f-94e9-b4cab9b4ff44"
       },
       {
        "name": "Rádio Clube Paços de Ferreira",
@@ -8527,7 +8688,8 @@
         "news_talk",
         "various_eclectic",
         "pop_hits"
-       ]
+       ],
+       "rb": "9619563d-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Rádio Difusora FM radio",
@@ -8568,7 +8730,8 @@
        "tags": [
         "news_talk",
         "pop_hits"
-       ]
+       ],
+       "rb": "05c2a7c6-02c4-4cd1-a2c7-b9ffe722fe06"
       },
       {
        "name": "Rádio Fóia",
@@ -8589,7 +8752,8 @@
        "tags": [
         "news_talk",
         "rock"
-       ]
+       ],
+       "rb": "96196bd8-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Rádio Jornal do Centro",
@@ -8666,7 +8830,9 @@
       },
       {
        "name": "Rádio Observador",
-       "url": "http://195.23.85.126:8455/stream"
+       "url": "http://195.23.85.126:8455/stream",
+       "rb": "e822ed30-1b14-4a90-906f-a1267e3d761d",
+       "logo": "https://observador.pt/wp-content/themes/observador-child/assets/build/img/favicon.ico"
       },
       {
        "name": "Rádio Observador",
@@ -8683,7 +8849,8 @@
       },
       {
        "name": "Rádio Onda Viva",
-       "url": "http://centova.radio.com.pt:9524/"
+       "url": "http://centova.radio.com.pt:9524/",
+       "rb": "96198725-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Rádio Ondas do Lima",
@@ -8695,7 +8862,8 @@
       },
       {
        "name": "Rádio Ondas do Lima",
-       "url": "http://centova.radio.com.pt:8407/"
+       "url": "http://centova.radio.com.pt:8407/",
+       "rb": "96189b23-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Rádio Ondas do Lima radio",
@@ -8714,7 +8882,9 @@
         "news_talk",
         "electronic",
         "pop_hits"
-       ]
+       ],
+       "rb": "803934ed-0eb2-40b6-a1bc-a3836dc8aef9",
+       "logo": "http://www.orbital.pt/icon.png"
       },
       {
        "name": "Rádio Ovos Moles",
@@ -8843,7 +9013,9 @@
         "news_talk",
         "pop_hits"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "f53ff59d-fd3f-4dd0-9ce7-4654dbb4a128",
+       "logo": "https://radioregional.pt/wp-content/uploads/2022/02/rr-logo-1.png"
       },
       {
        "name": "Rádio Regional do Centro",
@@ -8863,7 +9035,8 @@
       },
       {
        "name": "Rádio Riba-Távora",
-       "url": "http://centova.radio.com.pt:9542"
+       "url": "http://centova.radio.com.pt:9542",
+       "rb": "961945ac-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Rádio Sines 95.9 FM",
@@ -8890,7 +9063,9 @@
         "news_talk",
         "pop_hits"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "c96a952e-4862-4304-b214-810df49856fc",
+       "logo": "https://www.radiomarinhais.pt/wp-content/uploads/2023/06/cropped-favicon_rm-192x192.png"
       },
       {
        "name": "Rádio São Miguel",
@@ -8932,7 +9107,8 @@
        "tags": [
         "pop_hits",
         "news_talk"
-       ]
+       ],
+       "rb": "a27c1c5d-f05b-45dd-841a-d2b3d93cebdb"
       },
       {
        "name": "Rádio Vizela",
@@ -8976,7 +9152,9 @@
         "news_talk",
         "sports",
         "folk"
-       ]
+       ],
+       "rb": "b1a88a64-8897-4647-8015-9f04881b81fc",
+       "logo": "https://radiovozdoneiva.net/voz-neiva.jpg"
       },
       {
        "name": "Rádio Voz do Neiva",
@@ -9046,7 +9224,9 @@
         "news_talk",
         "rock",
         "world"
-       ]
+       ],
+       "rb": "9619895a-0601-11e8-ae97-52543be04c81",
+       "logo": "https://www.tejofm.pt/favicon.ico"
       },
       {
        "name": "Tejo Rádio Jornal",
@@ -9063,7 +9243,9 @@
         "news_talk",
         "pop_hits",
         "rock"
-       ]
+       ],
+       "rb": "961950e5-0601-11e8-ae97-52543be04c81",
+       "logo": "http://cdn-radiotime-logos.tunein.com/s83751q.png"
       },
       {
        "name": "Torres Novas FM 100.8 radio",
@@ -9128,7 +9310,9 @@
         "news_talk",
         "pop_hits",
         "rock"
-       ]
+       ],
+       "rb": "9619a540-0601-11e8-ae97-52543be04c81",
+       "logo": "http://www.acorianooriental.pt/favicon.ico"
       },
       {
        "name": "TSF Rádio Açores",
@@ -9142,7 +9326,8 @@
         "news_talk",
         "easy_listening",
         "pop_hits"
-       ]
+       ],
+       "rb": "96199d18-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "TSF Rádio Notícias",
@@ -9180,7 +9365,8 @@
         "news_talk",
         "rock",
         "world"
-       ]
+       ],
+       "rb": "961991fd-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Universidade FM",
@@ -9263,7 +9449,9 @@
         "news_talk",
         "oldies",
         "world"
-       ]
+       ],
+       "rb": "bf4e9e0e-6b72-46c3-aafe-b57eb8fcfe23",
+       "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/1022-000919141305.png?q=10&v=3&w=120"
       },
       {
        "name": "Antena 1 Memória Portugal",
@@ -9311,7 +9499,8 @@
         "classical",
         "decade_80s",
         "decade_70s"
-       ]
+       ],
+       "rb": "c6ed0be5-21dd-4b03-aa18-0dbc9a0c3f87"
       },
       {
        "name": "M80 - 70's",
@@ -9340,7 +9529,9 @@
         "oldies",
         "easy_listening",
         "decade_90s"
-       ]
+       ],
+       "rb": "6d70bf8d-8590-4e20-847d-e5f49148210d",
+       "logo": "https://bauermedia.pt/m80/m80-90/favicon.ico"
       },
       {
        "name": "M80 Rádio – 60s",
@@ -9351,7 +9542,9 @@
         "oldies",
         "decade_70s",
         "decade_80s"
-       ]
+       ],
+       "rb": "1ac20829-1ca7-4abe-bd7f-b8dcd835b29b",
+       "logo": "http://webradiodirectory.com/wp-content/uploads/2021/01/fe90a6d0b5158acae63737fe4b9b204f.jpg"
       },
       {
        "name": "M80 Rádio – 70s",
@@ -9362,7 +9555,8 @@
         "decade_70s",
         "easy_listening",
         "decade_80s"
-       ]
+       ],
+       "rb": "2ac1284f-231a-4516-939b-939b193b6565"
       },
       {
        "name": "M80 Rádio – Pop",
@@ -9374,7 +9568,8 @@
         "decade_70s",
         "decade_80s",
         "decade_90s"
-       ]
+       ],
+       "rb": "b50fea42-9c22-45c3-a7d5-afc772cab87d"
       },
       {
        "name": "MUNDIALFM",
@@ -9662,7 +9857,9 @@
         "rock",
         "decade_80s",
         "decade_90s"
-       ]
+       ],
+       "rb": "f85575d6-16c9-48de-85c2-c32f41847634",
+       "logo": "https://radioxlfm.pt/wp-content/uploads/2020/07/cropped-favicon-novo-180x180.png"
       },
       {
        "name": "Rádio XL FM",
@@ -9680,7 +9877,9 @@
         "christian_gospel",
         "rock",
         "various_eclectic"
-       ]
+       ],
+       "rb": "961911ef-0601-11e8-ae97-52543be04c81",
+       "logo": "http://cdn-radiotime-logos.tunein.com/s87852q.png"
       },
       {
        "name": "VFM 94.6",
@@ -9728,7 +9927,9 @@
        "tags": [
         "opera",
         "classical"
-       ]
+       ],
+       "rb": "4793cb1d-3628-49d8-b71f-77eb59ec4158",
+       "logo": "https://www.celsoazevedo.com/files/2022/11/antena-2-opera.png"
       }
      ]
     },
@@ -9837,7 +10038,9 @@
       {
        "name": "Antena 3",
        "url": "https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "282ac845-f97c-401b-a5ba-2e2c2a2e0d15",
+       "logo": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/1-143718101410.png?q=10&v=3&w=275"
       },
       {
        "name": "Antena Livre 89.7 FM",
@@ -10024,7 +10227,9 @@
         "rock",
         "decade_70s",
         "various_eclectic"
-       ]
+       ],
+       "rb": "d0808b14-f138-4bac-9018-f9d120de3ede",
+       "logo": "https://radiogeice.com/favicon.ico"
       },
       {
        "name": "Gilão FM",
@@ -10044,7 +10249,9 @@
        "tags": [
         "pop_hits",
         "electronic"
-       ]
+       ],
+       "rb": "9618e6cb-0601-11e8-ae97-52543be04c81",
+       "logo": "http://www.hiper.fm/apple-touch-icon.png?v=qaqbm5nz6j"
       },
       {
        "name": "Hiper FM",
@@ -10169,7 +10376,8 @@
         "decade_80s",
         "ambient_relax",
         "oldies"
-       ]
+       ],
+       "rb": "849c06ea-d61f-45c3-a1d9-87d54d1e86eb"
       },
       {
        "name": "M80 Rádio – Pop",
@@ -10203,7 +10411,9 @@
       },
       {
        "name": "Mega Hits",
-       "url": "http://provisioning.streamtheworld.com/pls/mega_hits.pls"
+       "url": "http://provisioning.streamtheworld.com/pls/mega_hits.pls",
+       "rb": "9618e93b-0601-11e8-ae97-52543be04c81",
+       "logo": "http://cdn-radiotime-logos.tunein.com/s6745q.png"
       },
       {
        "name": "Mega Hits Portugal",
@@ -10676,7 +10886,8 @@
         "pop_hits",
         "news_talk",
         "soul_rnb_funk"
-       ]
+       ],
+       "rb": "2d4d495b-f10e-4563-b9e4-4c3b18d4a067"
       },
       {
        "name": "Radio Mega Montijo",
@@ -10889,7 +11100,9 @@
       },
       {
        "name": "Radio Zarco",
-       "url": "https://audio.serv.pt/8014/stream.mp3?_=4"
+       "url": "https://audio.serv.pt/8014/stream.mp3?_=4",
+       "rb": "8e3f5870-917d-4b68-85ce-dcacc4e9c4be",
+       "logo": "https://www.celsoazevedo.com/files/random/2024/radio-zarco.png"
       },
       {
        "name": "Radio_Emigrantes_e_Amigos",
@@ -10988,7 +11201,9 @@
         "rock",
         "easy_listening",
         "latin"
-       ]
+       ],
+       "rb": "007d00d1-67f0-44e8-a6a2-3cbac6941011",
+       "logo": "https://www.radios.com.br/aovivo/radio-record-1077-fm/8928"
       },
       {
        "name": "Record Leiria 101.4 FM",
@@ -11100,7 +11315,9 @@
         "hip_hop_rap",
         "disco_eurodance",
         "latin"
-       ]
+       ],
+       "rb": "f975f74a-d9e0-4ed9-b360-3fe0b5a0ecbd",
+       "logo": "https://radioaltominho.pt/Ava//current_animator.jpg?1740106077826"
       },
       {
        "name": "Rádio Alto Minho Listen live",
@@ -11109,7 +11326,9 @@
       },
       {
        "name": "Rádio Amália 92.0 FM",
-       "url": "http://centova.radios.pt:9496/stream"
+       "url": "http://centova.radios.pt:9496/stream",
+       "rb": "1b7e5f98-48e2-45f6-b641-c2145719fb77",
+       "logo": "https://www.radio.net/images/broadcasts/ea/be/14833/c300.png"
       },
       {
        "name": "Rádio Antena Livre",
@@ -11117,7 +11336,9 @@
        "tags": [
         "pop_hits",
         "easy_listening"
-       ]
+       ],
+       "rb": "961987df-0601-11e8-ae97-52543be04c81",
+       "logo": "http://cdn-radiotime-logos.tunein.com/s84143q.png"
       },
       {
        "name": "Rádio Antena Livre Gouveia 89.6 FM",
@@ -11261,7 +11482,9 @@
       },
       {
        "name": "Rádio Clube do Dão",
-       "url": "https://sp0.redeaudio.com/8052/stream"
+       "url": "https://sp0.redeaudio.com/8052/stream",
+       "rb": "f1684e6c-0be3-450c-aab5-225d4a9ab28a",
+       "logo": "https://cdn.radoxo.com/images/portugal/radio-clube-do-dao.webp"
       },
       {
        "name": "Rádio Clube Foz do Mondego",
@@ -11270,7 +11493,8 @@
         "pop_hits",
         "oldies",
         "news_talk"
-       ]
+       ],
+       "rb": "77382bc6-0201-48f1-a1c6-8613a2848e91"
       },
       {
        "name": "Rádio Clube Madeira",
@@ -11278,7 +11502,9 @@
       },
       {
        "name": "Rádio Clube Madeira 106.8 FM",
-       "url": "https://audio.serv.pt/8020/stream.mp3"
+       "url": "https://audio.serv.pt/8020/stream.mp3",
+       "rb": "4d7f4936-d129-4c3f-bb99-1a52798668bb",
+       "logo": "https://www.celsoazevedo.com/files/random/2024/radio-clube.png"
       },
       {
        "name": "Rádio Clube Pacos de Ferreira 101.8 FM",
@@ -11297,7 +11523,9 @@
         "rock",
         "news_talk",
         "electronic"
-       ]
+       ],
+       "rb": "2b501db4-e4b6-4106-9670-9875536f70f1",
+       "logo": "https://static2.mytuner.mobi/media/tvos_radios/drkZNBUn6W.png"
       },
       {
        "name": "Rádio Comercial",
@@ -11356,7 +11584,9 @@
       },
       {
        "name": "Rádio Douro Nacional - Lamego radio",
-       "url": "https://sp0.redeaudio.com/9796/stream"
+       "url": "https://sp0.redeaudio.com/9796/stream",
+       "rb": "892123bf-0e86-4afa-a973-4edf5ea4dbac",
+       "logo": "https://cdn.radoxo.com/images/portugal/radio-douro-nacional-lamego.webp"
       },
       {
        "name": "Rádio Dreams",
@@ -11381,7 +11611,9 @@
         "pop_hits",
         "rock",
         "easy_listening"
-       ]
+       ],
+       "rb": "96194363-0601-11e8-ae97-52543be04c81",
+       "logo": "http://cdn-radiotime-logos.tunein.com/s84093q.png"
       },
       {
        "name": "Rádio Festival",
@@ -11538,7 +11770,9 @@
         "pop_hits",
         "rock",
         "easy_listening"
-       ]
+       ],
+       "rb": "96190d7e-0601-11e8-ae97-52543be04c81",
+       "logo": "http://cdn-radiotime-logos.tunein.com/s81786q.png"
       },
       {
        "name": "Rádio Meo Music",
@@ -11566,7 +11800,9 @@
         "folk",
         "reggae_ska"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "17022766-6ebe-469e-aa46-19f9293cc6ba",
+       "logo": "https://radiosudoeste.pt/favicon.ico"
       },
       {
        "name": "Rádio Metropolitana Porto",
@@ -11583,7 +11819,8 @@
       },
       {
        "name": "Rádio Montalegre",
-       "url": "http://centova.radio.com.pt:9566"
+       "url": "http://centova.radio.com.pt:9566",
+       "rb": "96191361-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Rádio Música MRA",
@@ -11610,7 +11847,9 @@
       },
       {
        "name": "Rádio Nova 98.9 FM",
-       "url": "http://centova.radios.pt:9528/stream"
+       "url": "http://centova.radios.pt:9528/stream",
+       "rb": "4e6095bf-bee9-4a54-a910-3e620f22c921",
+       "logo": "https://www.radionova.fm/wp-content/uploads/2023/05/cropped-favicon-32x32.png"
       },
       {
        "name": "Rádio Nova Estrela",
@@ -11626,7 +11865,8 @@
         "rock",
         "folk",
         "latin"
-       ]
+       ],
+       "rb": "961936d3-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Rádio Nove3cinco",
@@ -11658,7 +11898,9 @@
       },
       {
        "name": "Rádio Palmeira Madeira 96.1 FM",
-       "url": "https://audio.serv.pt/8018/stream.mp3"
+       "url": "https://audio.serv.pt/8018/stream.mp3",
+       "rb": "8a2b7baa-6da9-4c13-b74b-ec1c7367bbb9",
+       "logo": "https://www.celsoazevedo.com/files/random/2024/radio-palmeira.png"
       },
       {
        "name": "Rádio Palmeira Madeira 96.1 FM",
@@ -11678,7 +11920,9 @@
       },
       {
        "name": "Rádio Pico",
-       "url": "http://centova.radios.pt:9420/stream"
+       "url": "http://centova.radios.pt:9420/stream",
+       "rb": "961e18f1-0601-11e8-ae97-52543be04c81",
+       "logo": "http://www.radiopico.com/fx/logo_radiopico_2012.png"
       },
       {
        "name": "Rádio Popular Afifense",
@@ -11721,7 +11965,8 @@
         "pop_hits",
         "easy_listening",
         "various_eclectic"
-       ]
+       ],
+       "rb": "573f009c-11d4-48db-b006-d1e8cb9df6a1"
       },
       {
        "name": "Rádio Portuguesa do Var Listen live",
@@ -11780,7 +12025,9 @@
        "tags": [
         "pop_hits",
         "latin"
-       ]
+       ],
+       "rb": "2d2dcc6a-6761-40b9-9eb2-3d3df0a65c53",
+       "logo": "https://www.celsoazevedo.com/files/random/2024/radio-sol.png"
       },
       {
        "name": "Rádio Somos Todos Primos",
@@ -11802,7 +12049,9 @@
        "tags": [
         "pop_hits",
         "rock"
-       ]
+       ],
+       "rb": "96192def-0601-11e8-ae97-52543be04c81",
+       "logo": "http://cdn-radiotime-logos.tunein.com/s171052q.png"
       },
       {
        "name": "Rádio Ultra FM 88.2",
@@ -11810,7 +12059,8 @@
       },
       {
        "name": "Rádio Valdevez",
-       "url": "https://centova.radio.com.pt/proxy/508?mp=/stream"
+       "url": "https://centova.radio.com.pt/proxy/508?mp=/stream",
+       "rb": "c906c435-8b5d-4b35-a9aa-bfb992a9c659"
       },
       {
        "name": "Rádio Vale do Minho",
@@ -11833,7 +12083,8 @@
        "tags": [
         "pop_hits",
         "various_eclectic"
-       ]
+       ],
+       "rb": "96197cd5-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Rádio Vidigueira",
@@ -12018,7 +12269,9 @@
        "tags": [
         "pop_hits",
         "world"
-       ]
+       ],
+       "rb": "96193306-0601-11e8-ae97-52543be04c81",
+       "logo": "http://cdn-radiotime-logos.tunein.com/s87851q.png"
       },
       {
        "name": "TLA Rádio",
@@ -12168,7 +12421,9 @@
       {
        "name": "Web Radio Voz De Queimada",
        "url": "https://spaudio.servers.pt/8010/stream",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "a3111ed9-a55f-4b4d-bc5a-a561b3205861",
+       "logo": "https://cdn.radoxo.com/images/portugal/web-radio-voz-de-queimada-armamar.webp"
       },
       {
        "name": "WRL Radio 1",
@@ -12330,7 +12585,8 @@
        "tags": [
         "rock",
         "decade_80s"
-       ]
+       ],
+       "rb": "fb943379-925b-4428-a84c-92f2dc8e2da8"
       },
       {
        "name": "91 Fm Rádio - Rádio Litoral Oeste",
@@ -12368,7 +12624,9 @@
        "tags": [
         "pop_hits",
         "rock"
-       ]
+       ],
+       "rb": "961970f5-0601-11e8-ae97-52543be04c81",
+       "logo": "http://cdn-radiotime-logos.tunein.com/s81734q.png"
       },
       {
        "name": "Amor Portugal Radio",
@@ -12395,7 +12653,8 @@
         "news_talk",
         "rock",
         "electronic"
-       ]
+       ],
+       "rb": "eaa99e4a-2a7c-4e16-96bc-b225bab5b0da"
       },
       {
        "name": "Antenne Niedersachsen Greatest Hits Listen live",
@@ -12647,7 +12906,8 @@
       {
        "name": "felgueiras",
        "url": "http://centova.radio.com.pt:8459/stream%7CFelgueiras%7CPop%7CPT%7C96%7C0",
-       "country_inferred": true
+       "country_inferred": true,
+       "rb": "24cf5637-610d-476b-8750-a45f25c1b186"
       },
       {
        "name": "Hard & Heavy Metal Hits Radio",
@@ -12893,7 +13153,9 @@
         "rock",
         "pop_hits",
         "decade_80s"
-       ]
+       ],
+       "rb": "300f74ed-1fe7-4fc5-88fc-6063f73591f4",
+       "logo": "https://bauermedia.pt/m80/m80-rock/favicon.ico"
       },
       {
        "name": "M80 Rádio – Rock",
@@ -12952,7 +13214,9 @@
         "classical",
         "alternative_indie"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "898410ff-8421-44fb-81f2-0090c287881d",
+       "logo": "https://www.wix.com/favicon.ico"
       },
       {
        "name": "New-radio radio",
@@ -12969,7 +13233,9 @@
        "tags": [
         "rock",
         "pop_hits"
-       ]
+       ],
+       "rb": "e21f12c2-5c2b-4926-9ff4-dd4167d63161",
+       "logo": "https://www.nit.pt/wp-content/themes/nit-sage-v2/dist/images/favicon/favicon-128.png"
       },
       {
        "name": "nRP",
@@ -13065,11 +13331,14 @@
       },
       {
        "name": "Posto Emissor do Funchal Canal 1 - OM",
-       "url": "http://centova.radio.com.pt:9422"
+       "url": "http://centova.radio.com.pt:9422",
+       "rb": "efdd75ce-edc1-48e9-a503-98a78ce677d4",
+       "logo": "http://pef.pt/favicon.ico"
       },
       {
        "name": "Posto Emissor do Funchal OM",
-       "url": "http://centova.radio.com.pt:9422/stream"
+       "url": "http://centova.radio.com.pt:9422/stream",
+       "rb": "49ae1b6c-c47e-434a-84f0-4a46af3c3c9f"
       },
       {
        "name": "Posto Emissor do Funchal OM 1530",
@@ -13110,7 +13379,9 @@
        "tags": [
         "rock",
         "pop_hits"
-       ]
+       ],
+       "rb": "7255c3d9-f151-4b0c-846e-e9979a1104f1",
+       "logo": "https://cdn.radoxo.com/images/portugal/radialistas-de-viseu.webp"
       },
       {
        "name": "Radio 105 Latino",
@@ -13232,7 +13503,8 @@
        "tags": [
         "rock",
         "world"
-       ]
+       ],
+       "rb": "4694a5fd-c9e9-439d-94c6-c2aeb8f17171"
       },
       {
        "name": "Radio Farol Ria Listen live",
@@ -13523,7 +13795,8 @@
         "rock",
         "metal"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "30a09972-730a-42d8-8614-c9148b05992f"
       },
       {
        "name": "Radio Mundo Romance",
@@ -13682,7 +13955,8 @@
         "decade_80s",
         "oldies",
         "classical"
-       ]
+       ],
+       "rb": "df6c713f-7558-4c87-bdee-f8255c95511e"
       },
       {
        "name": "Radio Utopia",
@@ -13783,7 +14057,8 @@
         "rock",
         "folk",
         "classical"
-       ]
+       ],
+       "rb": "4a8828ff-1834-4790-8388-fc7758729ef1"
       },
       {
        "name": "RFM - Oceano Pacifico",
@@ -13981,7 +14256,9 @@
         "rock",
         "folk",
         "latin"
-       ]
+       ],
+       "rb": "96195488-0601-11e8-ae97-52543be04c81",
+       "logo": "http://cdn-radiotime-logos.tunein.com/s11079q.png"
       },
       {
        "name": "Rádio Cruzeiro",
@@ -14008,7 +14285,9 @@
        "tags": [
         "pop_hits",
         "rock"
-       ]
+       ],
+       "rb": "96197a7d-0601-11e8-ae97-52543be04c81",
+       "logo": "http://www.rcmafra.pt/img/apple-touch-icon.png"
       },
       {
        "name": "Rádio Elmo",
@@ -14016,7 +14295,8 @@
        "tags": [
         "rock",
         "world"
-       ]
+       ],
+       "rb": "961976a8-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Rádio Escala radio",
@@ -14086,7 +14366,9 @@
         "house",
         "electronic",
         "world"
-       ]
+       ],
+       "rb": "9619725a-0601-11e8-ae97-52543be04c81",
+       "logo": "http://cdn-radiotime-logos.tunein.com/s1653q.png"
       },
       {
        "name": "Rádio Horizonte Açores",
@@ -14192,7 +14474,9 @@
         "rock",
         "pop_hits",
         "electronic"
-       ]
+       ],
+       "rb": "9618739f-0601-11e8-ae97-52543be04c81",
+       "logo": "http://www.radionovaera.pt/resources/img/favicon/apple-icon-120x120.png"
       },
       {
        "name": "Rádio Nova Era – 100.1 FM – Lisbon – Lisbon District – PT",
@@ -14219,7 +14503,9 @@
        "tags": [
         "pop_hits",
         "rock"
-       ]
+       ],
+       "rb": "9619800a-0601-11e8-ae97-52543be04c81",
+       "logo": "http://www.radioportalegre.pt/favicon.ico"
       },
       {
        "name": "Rádio Regional do Centro",
@@ -14327,7 +14613,8 @@
        "tags": [
         "rock",
         "world"
-       ]
+       ],
+       "rb": "9618a6f6-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Rádio Zoom",
@@ -14383,7 +14670,9 @@
        "tags": [
         "rock",
         "world"
-       ]
+       ],
+       "rb": "9619323b-0601-11e8-ae97-52543be04c81",
+       "logo": "http://cdn-radiotime-logos.tunein.com/s82204q.png"
       },
       {
        "name": "Singa FM",
@@ -14653,7 +14942,9 @@
        "tags": [
         "smooth_jazz",
         "jazz"
-       ]
+       ],
+       "rb": "0b5ba280-1823-4b72-bd01-10e3efb2ac20",
+       "logo": "https://www.celsoazevedo.com/files/2022/11/antena-2-jazzin.png"
       },
       {
        "name": "Deleted1001006",
@@ -14740,7 +15031,8 @@
         "classical",
         "decade_70s",
         "oldies"
-       ]
+       ],
+       "rb": "8d7f68a9-d1c8-4a49-ad3e-69e56db8d280"
       },
       {
        "name": "Radio Lagoa 99.4 FM",
@@ -14850,7 +15142,9 @@
         "soul_rnb_funk",
         "jazz"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "cff465ef-869b-4270-9839-b37708e13561",
+       "logo": "https://smoothfm.pt/favicon.ico"
       },
       {
        "name": "Soul Breeze Radio",
@@ -15086,7 +15380,9 @@
         "sports",
         "news_talk",
         "world"
-       ]
+       ],
+       "rb": "c9fbc557-0a5d-47c8-911f-e830b370c4cc",
+       "logo": "https://www.recordfm.pt/player_m_santarem.htm"
       },
       {
        "name": "Relatos da Tasca",
@@ -15109,7 +15405,9 @@
         "pop_hits",
         "sports",
         "news_talk"
-       ]
+       ],
+       "rb": "d7864112-a8d4-4d17-8f56-bf97d5be439e",
+       "logo": "http://altotamegafm.pt/img/apple-icon-120x120.png"
       },
       {
        "name": "Rádio HabboDesportivo",
@@ -15742,7 +16040,8 @@
        "tags": [
         "various_eclectic",
         "pop_hits"
-       ]
+       ],
+       "rb": "4c3d781a-16b7-4b9f-ac61-66b54c97f23c"
       },
       {
        "name": "Rádio NoAr 107.8 FM",
@@ -16089,7 +16388,9 @@
       },
       {
        "name": "Record FM Algarve",
-       "url": "https://nl.digitalrm.pt:8020/stream"
+       "url": "https://nl.digitalrm.pt:8020/stream",
+       "rb": "d522956d-d0fb-4a07-abdb-650b2ff0d9f0",
+       "logo": "https://www.recordfm.pt/player_m_algarve.htm"
       },
       {
        "name": "Rlcb Tuga",
@@ -16222,7 +16523,9 @@
         "news_talk",
         "world",
         "rock"
-       ]
+       ],
+       "rb": "9619974c-0601-11e8-ae97-52543be04c81",
+       "logo": "http://cdn-radiotime-logos.tunein.com/s84216q.png"
       },
       {
        "name": "Rádio Maiorca",
@@ -16232,7 +16535,9 @@
         "christian_gospel",
         "news_talk",
         "pop_hits"
-       ]
+       ],
+       "rb": "8e55decb-7729-430f-9a8e-92b057e75aab",
+       "logo": "https://maiorcafm.pt/maiorcafm_logo.png"
       },
       {
        "name": "Rádio Manelo Star",
@@ -16279,7 +16584,9 @@
       },
       {
        "name": "Rádio Universitária do Minho",
-       "url": "http://centova.radio.com.pt:9558/"
+       "url": "http://centova.radio.com.pt:9558/",
+       "rb": "9619379b-0601-11e8-ae97-52543be04c81",
+       "logo": "http://www.rum.pt/_nuxt/icons/icon_64.08fe96.png"
       },
       {
        "name": "Rádio Voz de Matosinhos – Matosinhos – PT-13",
@@ -17051,7 +17358,9 @@
       {
        "name": "Antena 3 – Paredes de Coura – PT-16",
        "url": "https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8?DVR",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "ba4a59be-3ba1-4461-b9de-f489d605c7ac",
+       "logo": "https://i.ibb.co/1rcQ9sr/1-143718101410.webp"
       },
       {
        "name": "antena 4",
@@ -17060,7 +17369,8 @@
       },
       {
        "name": "Antena Livre",
-       "url": "http://centova.radio.com.pt:9456"
+       "url": "http://centova.radio.com.pt:9456",
+       "rb": "960bcef5-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Antena Livre",
@@ -17849,7 +18159,9 @@
       },
       {
        "name": "Batida FM",
-       "url": "http://stream-icy.bauermedia.pt/batidafm.aac?n=06724e09cd9a4ad63dc4"
+       "url": "http://stream-icy.bauermedia.pt/batidafm.aac?n=06724e09cd9a4ad63dc4",
+       "rb": "5e7299f0-becd-4f5b-ba63-f923e63e60b7",
+       "logo": "https://batida.fm/favicon.ico"
       },
       {
        "name": "Bau Dos Avos",
@@ -18508,7 +18820,8 @@
       },
       {
        "name": "cidade hiphop",
-       "url": "https://stream-hls.bauermedia.pt/cidhiphop.aac/playlist.m3u8?n=9150960c6fea31e7d3be"
+       "url": "https://stream-hls.bauermedia.pt/cidhiphop.aac/playlist.m3u8?n=9150960c6fea31e7d3be",
+       "rb": "9ac5ac2e-d34c-4814-b3ad-9958a0de9b6a"
       },
       {
        "name": "Cidade Latina – Lisbon – Lisbon District – PT",
@@ -18580,7 +18893,9 @@
       {
        "name": "CLASSIC ROCK Station – Lisbon – Lisbon District – PT",
        "url": "https://classicrock.streeemer.com/listen/classic_rock/radio.aac",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "faf70a6b-2ec9-49cd-a642-0a7159593369",
+       "logo": "https://mytuner-radio.com/favicon.ico"
       },
       {
        "name": "CLASSICAL Mood – Lisbon – Lisbon District – PT",
@@ -18957,7 +19272,9 @@
       {
        "name": "Digital Radio Romania",
        "url": "https://radio.sonicpanel.ro/8058/stream",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "352c141e-4547-4141-8ff7-9b6ed3668150",
+       "logo": "https://radio.sonicpanel.ro/cp/musiclibrary/nowplay_delfinulcuplete1165.png"
       },
       {
        "name": "Diogo Canga",
@@ -19809,7 +20126,8 @@
       },
       {
        "name": "FM Afro",
-       "url": "https://stream.zeno.fm/d91bup73pf9uv"
+       "url": "https://stream.zeno.fm/d91bup73pf9uv",
+       "rb": "09ed738e-43ad-4c80-afd6-ff99cd4a8615"
       },
       {
        "name": "FM Brasil",
@@ -20084,7 +20402,9 @@
       {
        "name": "GoloFM",
        "url": "https://sp0.redeaudio.com/8154/stream",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "7b56337d-048b-4545-ba70-704e37cdba7a",
+       "logo": "https://golo.fm/favicon.ico"
       },
       {
        "name": "GomesPlay",
@@ -20997,11 +21317,14 @@
       {
        "name": "La French Radio  Portugal",
        "url": "https://www.radioking.com/play/lfr-portugal?n=b64072f4a53ea63af305",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "644f28f1-928a-4fc8-8f69-789476f9fafa",
+       "logo": "https://www.lafrenchradio.pt/upload/design/5ffda59fed57e1.23982984.jpg"
       },
       {
        "name": "Lady G4A Gaming Radio",
-       "url": "https://stream.zeno.fm/e8wz7kbpypiuv"
+       "url": "https://stream.zeno.fm/e8wz7kbpypiuv",
+       "rb": "0cd0ee15-d56e-4603-8626-6f645529e6ba"
       },
       {
        "name": "Lady Gaga",
@@ -21034,7 +21357,8 @@
       {
        "name": "LATINA BANDIDA! – Lisbon – Lisbon District – PT",
        "url": "https://latina.streeemer.com/listen/latina/radio.aac",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "fea616ca-00ac-458a-8ab5-f0dc90f8e11f"
       },
       {
        "name": "LATINA FM",
@@ -21366,7 +21690,8 @@
       },
       {
        "name": "Lusophonica",
-       "url": "https://stream.radiojar.com/dxkmh6hv1f8uv?1651072328"
+       "url": "https://stream.radiojar.com/dxkmh6hv1f8uv?1651072328",
+       "rb": "06efe05f-7471-49b2-85b3-fcbecd8ebc4e"
       },
       {
        "name": "Lusophonica",
@@ -22773,7 +23098,9 @@
       {
        "name": "Onda Livre Rádio",
        "url": "https://centova.radio.com.pt/proxy/572?mp=/stream",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "07059fbf-b328-4fe6-8808-43fc2ed2e32d",
+       "logo": "https://ondalivrefm.net/favicon.ico"
       },
       {
        "name": "ONDA MUSICAL",
@@ -22833,7 +23160,9 @@
       {
        "name": "Orbital FM",
        "url": "https://ec2.yesstreaming.net:3025/stream?n=55bb12387e2ddf16277a",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "23533638-2a48-44ad-abe3-d7d931fe6232",
+       "logo": "https://www.orbital.pt/orbitalrds.gif"
       },
       {
        "name": "Orbital FM",
@@ -23099,7 +23428,8 @@
       },
       {
        "name": "Platina FM",
-       "url": "https://stream.zeno.fm/bckqpsxrqv8uv"
+       "url": "https://stream.zeno.fm/bckqpsxrqv8uv",
+       "rb": "d024beb9-4443-4a1a-8939-e0868f3f6100"
       },
       {
        "name": "PlayList 1",
@@ -23491,7 +23821,9 @@
       {
        "name": "Radar 97.8 FM",
        "url": "http://proic1.redeaudio.com:80/radar_aac",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "c4768f86-1489-4eff-8871-59f38164a315",
+       "logo": "https://radarlisboa.fm/wp-content/uploads/2016/02/logo_abril-1.png"
       },
       {
        "name": "RadEvolution",
@@ -24257,7 +24589,8 @@
       {
        "name": "Radio Comercial 2000",
        "url": "https://stream-hls.bauermedia.pt/rcbest2000.aac/playlist.m3u8",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "04e5765a-fc96-48dd-a5f4-ae2234a1a8ab"
       },
       {
        "name": "Radio Comercial 90",
@@ -24376,7 +24709,8 @@
       },
       {
        "name": "RADIO CUANDO CUBANGO",
-       "url": "https://stream.zeno.fm/n5r034egx4zuv"
+       "url": "https://stream.zeno.fm/n5r034egx4zuv",
+       "rb": "a610e425-be6e-4a5e-b479-eb83db3aec7a"
       },
       {
        "name": "Radio Culto",
@@ -25523,7 +25857,9 @@
       {
        "name": "Radio Limite",
        "url": "http://centova.radios.pt:9408/stream",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "d74d7874-1ad4-4de4-8d61-f5bc56e3344b",
+       "logo": "https://radiolimite.net/wp-content/uploads/2025/03/mainlogo-300x208.png"
       },
       {
        "name": "RADIO LINDA E SENSUAL",
@@ -25769,7 +26105,8 @@
       },
       {
        "name": "RADIO METAL ON",
-       "url": "https://radiometalon.com/listen/radio_metal_on_the_heavy/radio.mp3"
+       "url": "https://radiometalon.com/listen/radio_metal_on_the_heavy/radio.mp3",
+       "rb": "ea9307a6-42d4-43b6-b22d-ecc3cb3ec4c0"
       },
       {
        "name": "Radio Metal On - Lusitania",
@@ -26457,7 +26794,8 @@
       {
        "name": "Radio Portuguesa do Var",
        "url": "https://sonic.servsonic.com:7003/",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "9f24883b-99f5-4404-8c51-b163eb31bf3a"
       },
       {
        "name": "Radio Positive - Luxembourg",
@@ -26634,7 +26972,9 @@
       {
        "name": "Radio Regional Vila Real",
        "url": "https://play.radioregional.pt/stream/3/",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "823b9c9b-182a-462b-8fe4-e6e6d12ec9a6",
+       "logo": "https://radioregional.pt/wp-content/uploads/2022/02/rr-logo-1.png"
       },
       {
        "name": "Radio Regional Vila Real",
@@ -28499,7 +28839,9 @@
       {
        "name": "REWIND 2000s",
        "url": "https://2000.streeemer.com/listen/2000s/radio.aac?n=191f29d567fbe3e5b77d",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "91b76901-a68a-42d9-b70e-c57e01bf47a6",
+       "logo": "https://static2.mytuner.mobi/media/tvos_radios/KpJGgFhkNZ.png"
       },
       {
        "name": "REWIND 2000’s – Lisbon – Lisbon District – PT",
@@ -28517,7 +28859,9 @@
       },
       {
        "name": "RFM",
-       "url": "https://23603.live.streamtheworld.com/RFMAAC.aac"
+       "url": "https://23603.live.streamtheworld.com/RFMAAC.aac",
+       "rb": "856155ee-f434-4a45-9225-391c0e618b8b",
+       "logo": "https://rfmsite-images.azureedge.net/icons/touch-icon-iphone-retina.png"
       },
       {
        "name": "RFM",
@@ -28799,7 +29143,9 @@
       {
        "name": "RTP - RDP Internacional",
        "url": "http://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8?DVR",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "deb76866-2c70-49da-9e7c-7bba10d81af2",
+       "logo": "https://i.ibb.co/dKfSgKZ/95-594018101410.png"
       },
       {
        "name": "RUA Rádio Universitária do Algarve",
@@ -29089,7 +29435,8 @@
       {
        "name": "Rádio Amor Portugal",
        "url": "https://stream.radioamorportugal.com:8443/rap.mp3?n=ee9e94b92c2f745fd77d",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "696e8bf6-3f39-4e8a-b31f-babc5ae3ed8a"
       },
       {
        "name": "Rádio Amparo",
@@ -29192,7 +29539,8 @@
       },
       {
        "name": "Rádio Barca",
-       "url": "http://centova.radio.com.pt:8483/"
+       "url": "http://centova.radio.com.pt:8483/",
+       "rb": "96198e05-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Rádio Barcelos",
@@ -29266,7 +29614,8 @@
       },
       {
        "name": "Rádio BPM Angola",
-       "url": "https://stream.zeno.fm/l4feq7zw5d2uv"
+       "url": "https://stream.zeno.fm/l4feq7zw5d2uv",
+       "rb": "4c1fbd69-c5cb-46fc-b02c-9ccd6c8bc6af"
       },
       {
        "name": "Rádio Broas- Stream Escolar",
@@ -29389,7 +29738,9 @@
       },
       {
        "name": "Rádio Cidade Hoje",
-       "url": "http://centova.radio.com.pt:8119/"
+       "url": "http://centova.radio.com.pt:8119/",
+       "rb": "9619360d-0601-11e8-ae97-52543be04c81",
+       "logo": "http://cdn-radiotime-logos.tunein.com/s82196q.png"
       },
       {
        "name": "Rádio Cidade Hoje",
@@ -29423,7 +29774,9 @@
       {
        "name": "Rádio Clube de Lamego",
        "url": "http://audio.ptisp.com:8110/?n=d9d8aa0acb13162e8cd2",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "99660eba-311b-461a-b2ff-10aefef237cb",
+       "logo": "http://rclamego.com/upload/5f6d3c2bc65e68.77595989.ico"
       },
       {
        "name": "Rádio Clube de Mafra",
@@ -29520,7 +29873,9 @@
       },
       {
        "name": "Rádio Comunitária dos Espargos",
-       "url": "https://stream.zeno.fm/c2sm9z24muhvv"
+       "url": "https://stream.zeno.fm/c2sm9z24muhvv",
+       "rb": "a7bbb30f-4f11-4552-bf95-3e44a4b6759b",
+       "logo": "https://scontent-lis1-1.xx.fbcdn.net/v/t39.30808-6/307701114_153638580689153_2130199285424453066_n.jpg?stp=dst-jpg_tt6&cstp=mx309x310&ctp=s309x310&_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=d1SqGmhr9FkQ7kNvwE8pr85&_nc_oc=Adqc2TSsn834oh_VDgH-4jj7LJBK7z9VNUNikrxfGn3PATzFBR5aEn9_d7vdiXB0rsc&_nc_zt=23&_nc_ht=scontent-lis1-1.xx&_nc_gid=Br7dwQ9hpxUv0ojhSKQXMQ&_nc_ss=7b289&oh=00_Af8FxWhVASPzs2u_RJYuqglKQ8AKLVVD3Mixi_3OEgG4YQ&oe=6A2F26CB"
       },
       {
        "name": "Rádio Condestável – Sertã – PT-05",
@@ -29993,7 +30348,8 @@
       },
       {
        "name": "Rádio Lagoa",
-       "url": "http://centova.radio.com.pt:9488/"
+       "url": "http://centova.radio.com.pt:9488/",
+       "rb": "9619730d-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "rádio Larsson",
@@ -30193,7 +30549,8 @@
        "name": "Rádio Miramar - Moçambique",
        "url": "https://nl.digitalrm.pt:8150/stream",
        "country_inferred": true,
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "af946ff9-2910-4ed2-8fe3-40010f67a03b"
       },
       {
        "name": "Rádio Miróbriga M24",
@@ -30256,7 +30613,9 @@
       {
        "name": "Rádio Movimento",
        "url": "https://stream.rcast.net/61025?n=73ed943eb2a671f92677",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "ec7c1dd5-4515-4711-8a9c-003689fa97be",
+       "logo": "http://radiomovimento.pt/images/rm-logo_2023.png"
       },
       {
        "name": "Rádio Mulheres de Valor",
@@ -30313,7 +30672,9 @@
       },
       {
        "name": "Rádio NOAR",
-       "url": "https://stream.zeno.fm/x6s194sq4ehvv"
+       "url": "https://stream.zeno.fm/x6s194sq4ehvv",
+       "rb": "cd5918b2-1848-4f3b-92a3-0aa5c44173bc",
+       "logo": "https://cdn.radoxo.com/images/portugal/sempre-noar.webp"
       },
       {
        "name": "Rádio Nostalgia",
@@ -30322,7 +30683,9 @@
       },
       {
        "name": "Rádio Nova 98.9 FM",
-       "url": "http://centova.radio.com.pt:9528/"
+       "url": "http://centova.radio.com.pt:9528/",
+       "rb": "9619866d-0601-11e8-ae97-52543be04c81",
+       "logo": "https://www.radionova.fm/wp-content/uploads/2023/05/cropped-favicon-180x180.png"
       },
       {
        "name": "Rádio Nova Cidade (RNC)",
@@ -30363,7 +30726,9 @@
       },
       {
        "name": "Rádio Observador",
-       "url": "http://195.23.85.126:8455/listen.pls?sid=1"
+       "url": "http://195.23.85.126:8455/listen.pls?sid=1",
+       "rb": "e822ed30-1b14-4a90-906f-a1267e3d761d",
+       "logo": "https://observador.pt/wp-content/themes/observador-child/assets/build/img/favicon.ico"
       },
       {
        "name": "Rádio Observador",
@@ -30441,7 +30806,9 @@
       {
        "name": "Rádio Pax – PT-02",
        "url": "https://centova.radio.com.pt/proxy/484?mp=/stream",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "0a5d4c22-8d26-405b-be94-fc5d62d90da5",
+       "logo": "https://radioonline.com.pt/regiao/alentejo/#pax"
       },
       {
        "name": "Rádio Pazamor e Alegria",
@@ -30679,7 +31046,9 @@
       },
       {
        "name": "Rádio Renascença",
-       "url": "http://provisioning.streamtheworld.com/pls/RADIO_RENASCENCA.pls"
+       "url": "http://provisioning.streamtheworld.com/pls/RADIO_RENASCENCA.pls",
+       "rb": "9618e7a0-0601-11e8-ae97-52543be04c81",
+       "logo": "https://rrsite-images.azureedge.net/favicon/apple-touch-icon.png"
       },
       {
        "name": "Rádio Renascença - Edição da Noite",
@@ -31531,7 +31900,9 @@
       {
        "name": "Smooth Jazz – Groov – Lisbon – Lisbon District – PT",
        "url": "https://jazz.streeemer.com/listen/jazz/radio.aac",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "696b91cc-7e89-4ed7-9705-1e4683bf0e75",
+       "logo": "https://mytuner-radio.com/favicon.ico"
       },
       {
        "name": "smoothjazz24",
@@ -31620,7 +31991,8 @@
       },
       {
        "name": "SONS FM",
-       "url": "https://stream.zeno.fm/p31ewqfadchvv"
+       "url": "https://stream.zeno.fm/p31ewqfadchvv",
+       "rb": "1b41bad0-5478-4b1c-8287-dec1ffc4047c"
       },
       {
        "name": "SONSDOTEMPO",
@@ -33033,7 +33405,9 @@
       {
        "name": "Wonder 80s",
        "url": "https://80.streeemer.com/listen/80s/radio.mp3?n=96bc36f5387af0770a21",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "69157655-60d8-4a46-8088-764482b9eb73",
+       "logo": "https://static2.mytuner.mobi/media/tvos_radios/2C5DZ9pVXS.jpg"
       },
       {
        "name": "World Gangue - Habbo",
@@ -33266,7 +33640,9 @@
         "pop_hits",
         "folk",
         "christian_gospel"
-       ]
+       ],
+       "rb": "ac843a5b-f7ef-4b89-9491-590bdaf20b4c",
+       "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Radio_Comercial.jpg"
       }
      ]
     },
@@ -33568,7 +33944,9 @@
        "tags": [
         "christian_gospel",
         "news_talk"
-       ]
+       ],
+       "rb": "51a857ca-8a03-4d00-a3a7-35ea399c84d5",
+       "logo": "https://tligradio.org/wp-content/uploads/2021/03/True-Life-in-God-Radio-Logo-Ver2-zh.png"
       }
      ]
     },
@@ -33622,7 +34000,8 @@
         "electronic",
         "trance_goa",
         "house"
-       ]
+       ],
+       "rb": "9619be25-0601-11e8-ae97-52543be04c81"
       }
      ]
     },
@@ -33729,7 +34108,9 @@
        "tags": [
         "rock",
         "metal"
-       ]
+       ],
+       "rb": "b05bc526-0822-4a8d-9e86-e0b19f119f30",
+       "logo": "https://metalon.org/wordpress/wp-content/uploads/2017/01/cropped-cropped-metalon-3-9.png"
       },
       {
        "name": "RADIO METAL ON: The Heavy",

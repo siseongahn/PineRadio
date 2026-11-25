@@ -105,7 +105,8 @@
      "stations": [
       {
        "name": "Bible Witness Radio",
-       "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3179571_SC"
+       "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3179571_SC",
+       "rb": "8b143b5e-e16c-4413-86d4-484b0ae55357"
       },
       {
        "name": "Bible Witness Web Radio",
@@ -155,7 +156,9 @@
       {
        "name": "GOLD 905",
        "url": "https://22403.live.streamtheworld.com/GOLD905_SC?n=052b2ef6b9637bbfafb3",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "1ada4b42-53e9-460f-8fa2-631c2c75801c",
+       "logo": "https://www.melisten.sg/static/apple-touch-icon.png?v=2023"
       },
       {
        "name": "Gold 905",
@@ -189,7 +192,9 @@
         "classical",
         "news_talk",
         "pop_hits"
-       ]
+       ],
+       "rb": "5027e04c-0b7a-11e9-a80b-52543be04c81",
+       "logo": "http://www.meradio.sg/static/apple-touch-icon.png?v=2023"
       }
      ]
     },
@@ -264,7 +269,8 @@
        "tags": [
         "easy_listening",
         "pop_hits"
-       ]
+       ],
+       "rb": "9bb4c812-be47-49ff-a199-5c112ef70f26"
       },
       {
        "name": "Power 98 Love Songs",
@@ -443,7 +449,8 @@
        "tags": [
         "easy_listening",
         "jazz"
-       ]
+       ],
+       "rb": "a31df372-cfc9-430e-86b4-cc8e289f4d7d"
       },
       {
        "name": "Love 97.2 FM",
@@ -460,7 +467,9 @@
        "tags": [
         "jazz",
         "classical"
-       ]
+       ],
+       "rb": "2e484061-ac27-4fec-92ed-d5924a77c17e",
+       "logo": "https://www16.mediacorp.sg/melisten/radiostation-logos/symphony-924.png"
       }
      ]
     },
@@ -485,7 +494,9 @@
         "easy_listening",
         "various_eclectic",
         "pop_hits"
-       ]
+       ],
+       "rb": "3118adbf-0b7e-11e9-a80b-52543be04c81",
+       "logo": "http://www.meradio.sg/static/apple-touch-icon.png?v=2023"
       },
       {
        "name": "987FM",
@@ -493,7 +504,9 @@
        "tags": [
         "news_talk",
         "pop_hits"
-       ]
+       ],
+       "rb": "82102b0e-68e9-411e-87b8-7cae36046096",
+       "logo": "https://www.melisten.sg/static/apple-icon-120x120.png"
       },
       {
        "name": "Asia Expat Radio",
@@ -512,7 +525,8 @@
         "sports",
         "pop_hits",
         "easy_listening"
-       ]
+       ],
+       "rb": "4001c109-50a2-490c-aa90-5e2687155697"
       },
       {
        "name": "Bernama Radio",
@@ -537,11 +551,15 @@
       {
        "name": "CNA 938",
        "url": "https://22893.live.streamtheworld.com/938NOW_SC?n=8c16937fd53a053f0150",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "4d1d714a-904d-4c33-abd4-a19da2ffbfb6",
+       "logo": "http://melisten.sg/static/apple-icon-120x120.png"
       },
       {
        "name": "CNA 938 Live Singapore",
-       "url": "http://playerservices.streamtheworld.com/pls/938NOW_PREM.pls"
+       "url": "http://playerservices.streamtheworld.com/pls/938NOW_PREM.pls",
+       "rb": "bfa448fd-2b74-4a60-a78d-7fea62cc0577",
+       "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b0/CNA938_logo.png"
       },
       {
        "name": "CNA 938 Radio",
@@ -550,7 +568,9 @@
       },
       {
        "name": "CNA938",
-       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/938NOW_PREM_SC"
+       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/938NOW_PREM_SC",
+       "rb": "7c4653df-6d49-466f-896f-db2de5a19608",
+       "logo": "https://www16.mediacorp.sg/melisten/radiostation-logos/cna-938.png"
       },
       {
        "name": "CNA938 Listen live",
@@ -607,7 +627,8 @@
        "tags": [
         "news_talk",
         "pop_hits"
-       ]
+       ],
+       "rb": "9a04ab83-0b7e-11e9-a80b-52543be04c81"
       },
       {
        "name": "MONEY FM 89.3",
@@ -664,7 +685,9 @@
         "rock",
         "pop_hits",
         "classical"
-       ]
+       ],
+       "rb": "106c22a4-0b78-11e9-a80b-52543be04c81",
+       "logo": "http://www.meradio.sg/static/apple-icon-120x120.png"
       },
       {
        "name": "Kiss92 Singapore",
@@ -755,7 +778,9 @@
       {
        "name": "973FM Blasts That Last",
        "url": "http://c16.radioboss.fm:8115/autodj",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "95a5eca2-0341-443d-8343-7a1f6f58ea02",
+       "logo": "https://973fm.weebly.com/uploads/6/2/8/3/62839335/published/973logo-1_1.png?1531151203"
       },
       {
        "name": "973FM Blasts That Last",
@@ -781,7 +806,9 @@
       {
        "name": "987",
        "url": "https://14033.live.streamtheworld.com/987FM_SC?n=c8d7b9970bd63aa111ee",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "ec8dafec-03b5-49d7-934d-a70817e2755a",
+       "logo": "https://www.melisten.sg/static/apple-touch-icon.png?v=2023"
       },
       {
        "name": "987 FM",
@@ -790,11 +817,15 @@
         "pop_hits",
         "rock",
         "easy_listening"
-       ]
+       ],
+       "rb": "9c64379c-0b77-11e9-a80b-52543be04c81",
+       "logo": "http://www.meradio.sg/static/apple-icon-120x120.png"
       },
       {
        "name": "987 FM",
-       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/987FM_PREM.aac"
+       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/987FM_PREM.aac",
+       "rb": "d77838fc-f8dc-4b29-addc-dbe0de47b56c",
+       "logo": "https://www16.mediacorp.sg/melisten/radiostation-logos/987.png"
       },
       {
        "name": "987FM",
@@ -847,7 +878,9 @@
       },
       {
        "name": "Class 95 FM",
-       "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95_PREM.aac"
+       "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95_PREM.aac",
+       "rb": "aba522d0-e676-4098-b051-87e1db850716",
+       "logo": "https://www16.mediacorp.sg/melisten/radiostation-logos/class-95.png"
       },
       {
        "name": "Class 95 FM Listen live",
@@ -897,7 +930,8 @@
        "tags": [
         "pop_hits",
         "blues"
-       ]
+       ],
+       "rb": "61047175-495f-45ac-afd5-1bf195a75127"
       },
       {
        "name": "Kopitiam FM",
@@ -931,7 +965,8 @@
         "rock",
         "easy_listening",
         "news_talk"
-       ]
+       ],
+       "rb": "0904b107-a8fe-45f2-b0c2-be45d1742115"
       },
       {
        "name": "Power 98 RAW",
@@ -959,7 +994,8 @@
       },
       {
        "name": "Radio Melody with Brother Bjorn",
-       "url": "http://ssl.geckohost.nz:9191/autodj"
+       "url": "http://ssl.geckohost.nz:9191/autodj",
+       "rb": "fa9609ad-1f6f-41a1-8e81-1000d9458dcf"
       },
       {
        "name": "Radio Melody with Brother Bjorn radio",
@@ -986,7 +1022,9 @@
       {
        "name": "RIA 897",
        "url": "https://22393.live.streamtheworld.com/RIA897FM_SC?n=22f4e5b6082fb5e8bb1b",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "722e9620-5c47-4139-b4ae-9d3a2ffd2bd5",
+       "logo": "https://yt3.ggpht.com/ytc/AMLnZu_SfufvaDW12AZL2cX8C9oG1G1pxRDu6ctcPN75VA=s900-c-k-c0x00ffffff-no-rj"
       },
       {
        "name": "The Live Radio",
@@ -1004,7 +1042,9 @@
        "tags": [
         "pop_hits",
         "rock"
-       ]
+       ],
+       "rb": "3f006a1e-172c-4e3e-a6f7-cb9ab9df21ca",
+       "logo": "https://www.ufm1003.sg/wp-content/assets/5/img/NAV_01_Logo_1003.svg"
       },
       {
        "name": "XFM 96.3",
@@ -1073,7 +1113,9 @@
         "decade_70s",
         "decade_2000s",
         "oldies"
-       ]
+       ],
+       "rb": "b1a05101-0b76-11e9-a80b-52543be04c81",
+       "logo": "http://www.meradio.sg/static/apple-icon-120x120.png"
       },
       {
        "name": "Gold 90.5FM",
@@ -1092,7 +1134,9 @@
        "tags": [
         "pop_hits",
         "rock"
-       ]
+       ],
+       "rb": "b81bb1bf-879e-4e04-83f2-b04d824c378b",
+       "logo": "https://www16.mediacorp.sg/melisten/radiostation-logos/gold-905.png"
       },
       {
        "name": "More FM - Wanganui 92.8 FM Listen live",
@@ -1183,7 +1227,8 @@
         "hip_hop_rap",
         "techno",
         "trance_goa"
-       ]
+       ],
+       "rb": "be4e6721-9486-454e-b559-47bee8336bdc"
       },
       {
        "name": "XRadio radio",
@@ -1364,7 +1409,9 @@
       {
        "name": "AXR Singapore",
        "url": "http://provisioning.streamtheworld.com/pls/AXR_SINGAPORE.pls?n=18dd82edbab610946748",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "4859de0e-6ddc-4e85-8a32-70c392d80439",
+       "logo": "https://content.audiospace.co/stations/210/files/Logos/final_designlogostandart-01.png"
       },
       {
        "name": "Barnone Radio",
@@ -1407,7 +1454,9 @@
       },
       {
        "name": "Channel News Asia TV",
-       "url": "http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8"
+       "url": "http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8",
+       "rb": "7d166dec-8dbf-46e6-8449-c12466c1c0f4",
+       "logo": "http://www.channelnewsasia.com/favicon.ico"
       },
       {
        "name": "Class 95 FM",
@@ -1654,12 +1703,15 @@
       },
       {
        "name": "ONE FM",
-       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/one_FM_913AAC.aac?dist=radiosingaporeapp"
+       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/one_FM_913AAC.aac?dist=radiosingaporeapp",
+       "rb": "96141efc-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "One FM 91.3",
        "url": "https://playerservices.streamtheworld.com/pls/ONE_FM_913AAC.pls?n=fc0ae5f5ebd7fa282d66",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "ec714979-7130-483a-b25d-d2642b47e82c",
+       "logo": "https://cdn.webrad.io/images/logos/radiosingapore-org/one-fm.png"
       },
       {
        "name": "ONE FM 91.3",
@@ -1985,7 +2037,8 @@
         "decade_90s",
         "world",
         "oldies"
-       ]
+       ],
+       "rb": "abbee82e-0b7b-11e9-a80b-52543be04c81"
       },
       {
        "name": "Capital 95.8 FM",
@@ -1996,7 +2049,9 @@
         "easy_listening",
         "world",
         "oldies"
-       ]
+       ],
+       "rb": "7036e1ed-0b7d-11e9-a80b-52543be04c81",
+       "logo": "http://www.meradio.sg/static/apple-icon-120x120.png"
       },
       {
        "name": "Capital 95.8FM",
@@ -2012,7 +2067,9 @@
        "tags": [
         "news_talk",
         "world"
-       ]
+       ],
+       "rb": "eef37dac-e2b2-4f37-bb86-81ac3fe65135",
+       "logo": "https://www16.mediacorp.sg/melisten/radiostation-logos/capital-958.png"
       },
       {
        "name": "UFM 100.3",
@@ -2030,7 +2087,8 @@
         "pop_hits",
         "news_talk",
         "easy_listening"
-       ]
+       ],
+       "rb": "84ac5af8-3bff-4e68-8294-84a43a950d07"
       }
      ]
     },
@@ -2052,11 +2110,14 @@
        "tags": [
         "pop_hits",
         "easy_listening"
-       ]
+       ],
+       "rb": "8a9c4662-0b7c-11e9-a80b-52543be04c81"
       },
       {
        "name": "Love 97.2 FM",
-       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FM_PREM_SC.aac"
+       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FM_PREM_SC.aac",
+       "rb": "8153ae5a-0cb6-4ed2-b54d-6e24ca5be5b6",
+       "logo": "https://www16.mediacorp.sg/melisten/radiostation-logos/love-972.png"
       },
       {
        "name": "Love 97.2FM",
@@ -2066,7 +2127,9 @@
         "decade_80s",
         "decade_90s",
         "easy_listening"
-       ]
+       ],
+       "rb": "fff132f1-0b79-11e9-a80b-52543be04c81",
+       "logo": "http://www.meradio.sg/static/apple-icon-120x120.png"
       },
       {
        "name": "Love 972",
@@ -2081,11 +2144,14 @@
         "rock",
         "world",
         "easy_listening"
-       ]
+       ],
+       "rb": "06993d81-0b79-11e9-a80b-52543be04c81"
       },
       {
        "name": "YES 93.3 FM",
-       "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/YES933_PREM.aac"
+       "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/YES933_PREM.aac",
+       "rb": "9a09b7c9-3254-4a1c-be15-d039938742b4",
+       "logo": "https://www16.mediacorp.sg/melisten/radiostation-logos/yes-933.png"
       },
       {
        "name": "YES 933",
@@ -2207,7 +2273,9 @@
         "world",
         "easy_listening",
         "pop_hits"
-       ]
+       ],
+       "rb": "19fb2bc2-0b7f-11e9-a80b-52543be04c81",
+       "logo": "http://www.meradio.sg/static/apple-touch-icon.png?v=2023"
       },
       {
        "name": "Oli FM",
@@ -2219,7 +2287,9 @@
       },
       {
        "name": "Oli FM 96.8",
-       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FM_PREM_SC.aac"
+       "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FM_PREM_SC.aac",
+       "rb": "ca8099de-1d34-424b-8a52-a1ee99ae6f4e",
+       "logo": "https://www16.mediacorp.sg/melisten/radiostation-logos/oli-968.png"
       }
      ]
     },
@@ -2280,7 +2350,8 @@
         "pop_hits",
         "easy_listening",
         "oldies"
-       ]
+       ],
+       "rb": "d6d9f4a7-1422-4183-9fea-2b4d2ee99a5b"
       }
      ]
     },
@@ -2293,7 +2364,9 @@
        "tags": [
         "pop_hits",
         "easy_listening"
-       ]
+       ],
+       "rb": "a46e2092-0b7a-11e9-a80b-52543be04c81",
+       "logo": "http://www.meradio.sg/static/apple-icon-120x120.png"
       },
       {
        "name": "Warna 942",
@@ -2310,7 +2383,9 @@
        "tags": [
         "pop_hits",
         "world"
-       ]
+       ],
+       "rb": "54ed3626-3156-456f-922f-f39864923ede",
+       "logo": "https://www16.mediacorp.sg/melisten/radiostation-logos/ria-897.png"
       },
       {
        "name": "Warna 94.2",
@@ -2318,7 +2393,9 @@
        "tags": [
         "pop_hits",
         "world"
-       ]
+       ],
+       "rb": "f699e43f-b717-41d1-8d05-b5e07506a2d0",
+       "logo": "https://www16.mediacorp.sg/melisten/radiostation-logos/warna-942.png"
       }
      ]
     },
@@ -2392,7 +2469,9 @@
         "ambient_relax",
         "easy_listening",
         "pop_hits"
-       ]
+       ],
+       "rb": "bb5714c1-ca84-46fe-8a2d-c784738eb5fc",
+       "logo": "https://cdn.raddio.net/img/icons/apple-icon-120x120.png"
       }
      ]
     }

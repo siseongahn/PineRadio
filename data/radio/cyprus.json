@@ -77,11 +77,14 @@
      "stations": [
       {
        "name": "Radio Agios Demetrios",
-       "url": "http://eco.onestreaming.com:8474/"
+       "url": "http://eco.onestreaming.com:8474/",
+       "rb": "9992cf45-3ec2-11e9-aa55-52543be04c81"
       },
       {
        "name": "Radio Ieras Mitropolis Lemesou",
-       "url": "http://93.109.209.123:9080/stream.mp3"
+       "url": "http://93.109.209.123:9080/stream.mp3",
+       "rb": "7065ab06-412a-4bbd-96fa-4ef502a70eb5",
+       "logo": "https://cdn.e-radio.gr/logos/cy/big/imlemesou.png"
       },
       {
        "name": "translation of the Quran in Greek",
@@ -95,7 +98,9 @@
         "christian_gospel",
         "folk",
         "latin"
-       ]
+       ],
+       "rb": "57e9fe17-be3c-4911-aa7e-a302e056b119",
+       "logo": "https://zenithfm.com.cy/favicon.ico"
       },
       {
        "name": "Εκκλησία Ερήμης",
@@ -186,7 +191,9 @@
         "news_talk",
         "pop_hits",
         "jazz"
-       ]
+       ],
+       "rb": "8e24da89-1180-11e8-ae97-52543be04c81",
+       "logo": "https://control.divio.com/static/favicon.png"
       }
      ]
     },
@@ -335,7 +342,9 @@
         "news_talk",
         "easy_listening",
         "pop_hits"
-       ]
+       ],
+       "rb": "53cfef35-635f-4c9d-a125-8f627981628e",
+       "logo": "https://politis.com.cy/images/favicon/favicon-32x32.png"
       },
       {
        "name": "Radio Elios",
@@ -496,7 +505,9 @@
        "tags": [
         "folk",
         "pop_hits"
-       ]
+       ],
+       "rb": "475750d8-effd-4f8c-b7c7-605e0190931c",
+       "logo": "http://resources.live24.gr/resources/images/stations/0db18c17-4d17-4464-a375-ba2870eba634.png"
       },
       {
        "name": "artFM Radio",
@@ -523,7 +534,8 @@
         "classical",
         "pop_hits",
         "news_talk"
-       ]
+       ],
+       "rb": "cb992f71-e64c-11e8-a9cc-52543be04c81"
       },
       {
        "name": "Kanali-6 106 FM",
@@ -553,7 +565,8 @@
        "tags": [
         "pop_hits",
         "gothic_industrial"
-       ]
+       ],
+       "rb": "a440e2d9-37cf-4b4e-adb3-b94e65541f60"
       }
      ]
     },
@@ -693,7 +706,8 @@
         "news_talk",
         "sports",
         "pop_hits"
-       ]
+       ],
+       "rb": "9699f00f-7251-4f5b-b887-e20fe4b4d048"
       },
       {
        "name": "Active Radio",
@@ -822,7 +836,8 @@
        "tags": [
         "news_talk",
         "pop_hits"
-       ]
+       ],
+       "rb": "860bed25-d8b1-4266-8d82-a33965242a61"
       },
       {
        "name": "CyBC Radio 2",
@@ -838,7 +853,8 @@
        "tags": [
         "news_talk",
         "pop_hits"
-       ]
+       ],
+       "rb": "4b8bfd19-d718-4ebc-b306-e389cab6b70c"
       },
       {
        "name": "Kanali 7",
@@ -850,7 +866,9 @@
       },
       {
        "name": "Kanali7 98.4 FM",
-       "url": "http://live.kanali7.com:4010/"
+       "url": "http://live.kanali7.com:4010/",
+       "rb": "963770be-0601-11e8-ae97-52543be04c81",
+       "logo": "http://new.kanali7.com/wp-content/uploads/2016/03/kanali-7-logo-low.png"
       },
       {
        "name": "Kibris FM",
@@ -889,7 +907,9 @@
        "tags": [
         "news_talk",
         "pop_hits"
-       ]
+       ],
+       "rb": "52bde6b1-1737-11e8-ae97-52543be04c81",
+       "logo": "https://control.divio.com/static/favicon.png"
       },
       {
        "name": "Radio Cosmos",
@@ -922,7 +942,9 @@
         "pop_hits",
         "news_talk",
         "electronic"
-       ]
+       ],
+       "rb": "9d01e20a-1739-11e8-ae97-52543be04c81",
+       "logo": "http://kissfm.com.cy/wp-content/uploads/2016/02/fav.png"
       },
       {
        "name": "Radio Pafos",
@@ -973,7 +995,9 @@
         "christian_gospel",
         "world",
         "alternative_indie"
-       ]
+       ],
+       "rb": "9660917f-ce43-11e8-a54a-52543be04c81",
+       "logo": "https://tpc.googlesyndication.com/simgad/9820055778066934470"
       },
       {
        "name": "Star FM 93.7 radio",
@@ -993,7 +1017,8 @@
        "tags": [
         "sports",
         "news_talk"
-       ]
+       ],
+       "rb": "59e8078b-2da3-11e8-91bf-52543be04c81"
       },
       {
        "name": "Super Sport FM",
@@ -1001,7 +1026,9 @@
        "tags": [
         "news_talk",
         "sports"
-       ]
+       ],
+       "rb": "46927910-5bd1-4142-aac9-73e12942e9d3",
+       "logo": "https://sport-fm.com.cy/wp-content/uploads/2024/06/cropped-cropped-cropped-logo.png"
       },
       {
        "name": "Trito Live",
@@ -1009,7 +1036,9 @@
        "tags": [
         "news_talk",
         "pop_hits"
-       ]
+       ],
+       "rb": "77bf34c0-087b-11e8-ae97-52543be04c81",
+       "logo": "https://control.divio.com/static/favicon.png"
       },
       {
        "name": "UCY Voice 95.2FM",
@@ -1072,7 +1101,9 @@
         "alternative_indie",
         "decade_70s",
         "electronic"
-       ]
+       ],
+       "rb": "5c8ec37e-f584-4af2-93d7-d942ae6bf41c",
+       "logo": "https://kissfm.com.cy/wp-content/uploads/2016/04/Untitled-5.png"
       },
       {
        "name": "Love Zone",
@@ -1209,7 +1240,8 @@
         "pop_hits",
         "easy_listening",
         "world"
-       ]
+       ],
+       "rb": "0558bdf4-b142-11e8-afe1-52543be04c81"
       },
       {
        "name": "Klik FM",
@@ -1275,7 +1307,8 @@
         "pop_hits",
         "rock",
         "world"
-       ]
+       ],
+       "rb": "c0baf79e-2da3-11e8-91bf-52543be04c81"
       },
       {
        "name": "Super FM Radio",
@@ -1448,7 +1481,9 @@
         "easy_listening",
         "pop_hits",
         "news_talk"
-       ]
+       ],
+       "rb": "a217bafc-5165-46cf-9d78-142809f9efe8",
+       "logo": "https://resources.live24.gr/resources/images/stations/c69cf970-f33b-4c0e-ac4e-5a5ab8d17c81.png"
       },
       {
        "name": "Rock FM Cyprus",
@@ -1456,7 +1491,9 @@
        "tags": [
         "rock",
         "various_eclectic"
-       ]
+       ],
+       "rb": "934bfb1c-b141-11e8-afe1-52543be04c81",
+       "logo": "http://img1.wsimg.com/isteam/ip/23e625b3-9829-4f54-a786-73978949b161/rock%20fm%20logo%20clean%20b.png/:/rs=w:114,h:114,m"
       },
       {
        "name": "Rock FM Limassol",
@@ -1565,7 +1602,9 @@
        "tags": [
         "sports",
         "news_talk"
-       ]
+       ],
+       "rb": "32b7a6bb-40f4-4166-a7d8-73c6ea4ab8dc",
+       "logo": "http://www.24sports.com.cy/listen_live/sporfm_logo.svg"
       }
      ]
     },
@@ -1774,7 +1813,9 @@
       {
        "name": "Capital Türk",
        "url": "https://radyo1.radyo-dinle.tc/8210/stream",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "5309c12b-ef84-43a2-8e6b-1d9d994bea01",
+       "logo": "https://api.enerjiplay.com/uploads/images/file-1779347661585-346247390.jpg"
       },
       {
        "name": "Carantina FM",
@@ -1808,7 +1849,8 @@
       {
        "name": "Cool Radio 91.6",
        "url": "http://live3.istoikona.net/stream/cooleradio/stream.pls?n=394793ed20a97c7ac3e3",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "0ad4597d-1830-4062-a6a9-7a7d4636dec6"
       },
       {
        "name": "CUT Radio",
@@ -1994,7 +2036,9 @@
       },
       {
        "name": "Love FM",
-       "url": "http://eradio.networksolutions.com.cy:1935/LoveRadio/Loveradio.stream/playlist.m3u8"
+       "url": "http://eradio.networksolutions.com.cy:1935/LoveRadio/Loveradio.stream/playlist.m3u8",
+       "rb": "3ee0ecc7-4be2-4ee9-b356-61d98b40d933",
+       "logo": "http://www.lovefm.com.cy/uploads/6/2/2/6/62260227/lovefm-logo-copy.png"
       },
       {
        "name": "Love FM Cyprus",
@@ -2078,7 +2122,9 @@
       },
       {
        "name": "PIK Sat TV",
-       "url": "http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8"
+       "url": "http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8",
+       "rb": "be20711a-1e45-11e9-a80b-52543be04c81",
+       "logo": "https://control.divio.com/static/favicon.png"
       },
       {
        "name": "pk1234",
@@ -2153,7 +2199,9 @@
       },
       {
        "name": "Radio Logos - «Ο Άγιος Δημήτριος»",
-       "url": "http://r1.cloudskep.com/radio/agiosdemetrios/icecast.audio"
+       "url": "http://r1.cloudskep.com/radio/agiosdemetrios/icecast.audio",
+       "rb": "971985c2-f082-4513-8e65-715c988a0ced",
+       "logo": "https://logosradio.com.cy/assets/images/o-alithinos-logos-1.png"
       },
       {
        "name": "Radio Napa",
@@ -2341,7 +2389,8 @@
       {
        "name": "Zucca Radio",
        "url": "http://95.217.120.122/",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "bd91cfa2-0e05-40a4-b77e-cc7c3b86d946"
       },
       {
        "name": "ZUCCA RADIO",
@@ -2555,7 +2604,8 @@
         "alternative_indie",
         "classical",
         "electronic"
-       ]
+       ],
+       "rb": "caeab5d2-73f4-4a20-a092-c8146508e67c"
       }
      ]
     },
@@ -2734,7 +2784,9 @@
         "pop_hits",
         "college_community",
         "world"
-       ]
+       ],
+       "rb": "963e5f78-0601-11e8-ae97-52543be04c81",
+       "logo": "https://brtk.net/wp-content/uploads/2024/11/28/cropped-brt-icon-180x180.png?ver=ebc4c4ff24f512d1ba2ae8331bfa527d"
       },
       {
        "name": "Bayrak FM",
@@ -2765,7 +2817,9 @@
      "stations": [
       {
        "name": "Capital Radio",
-       "url": "https://radyo1.radyo-dinle.tc/8256/stream"
+       "url": "https://radyo1.radyo-dinle.tc/8256/stream",
+       "rb": "5410588b-6614-48e6-9b88-8f372f8512f8",
+       "logo": "https://api.enerjiplay.com/uploads/images/file-1779347508013-389877087.jpg"
       },
       {
        "name": "Kıbrıs First FM",
@@ -2851,7 +2905,9 @@
       },
       {
        "name": "Russian Radio Cyprus",
-       "url": "https://stream.veblot.net/proxy/russianradio/stream/"
+       "url": "https://stream.veblot.net/proxy/russianradio/stream/",
+       "rb": "670526e2-4e5c-4900-a866-fcba98540310",
+       "logo": "https://russianradio.cy/wp-content/uploads/2024/06/cropped-rr-favico-180x180.png"
       },
       {
        "name": "Russian Wave Radio",
@@ -2905,7 +2961,8 @@
         "news_talk",
         "folk",
         "pop_hits"
-       ]
+       ],
+       "rb": "0b42d20d-3351-4005-82bb-21a0de5b1233"
       }
      ]
     },
@@ -2914,7 +2971,9 @@
      "stations": [
       {
        "name": "塞浦路斯CCN欧洲中国平台",
-       "url": "https://cdn.istoikona.com/ccnrtv/live/playlist.m3u8?n=116350509930562684f0"
+       "url": "https://cdn.istoikona.com/ccnrtv/live/playlist.m3u8?n=116350509930562684f0",
+       "rb": "76b72808-097a-4777-91db-6641628e2c34",
+       "logo": "https://ccnnetwork.cn/wp-content/uploads/2021/07/newccnlogo2021.png"
       }
      ]
     }

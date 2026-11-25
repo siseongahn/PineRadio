@@ -350,6 +350,8 @@ def main():
                    "audiobooks": aindex}, f, ensure_ascii=False, indent=1)
     import featured  # noqa: E402  (imports this module, so not at the top)
     featured.apply(out)
+    import radiobrowser  # noqa: E402  (logos and Radio Browser ids; needs network)
+    radiobrowser.apply(out)
 
 
 if __name__ == "__main__":

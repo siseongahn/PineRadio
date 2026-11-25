@@ -241,7 +241,9 @@
       },
       {
        "name": "Юмор FM",
-       "url": "http://live.humorfm.by:8000/veseloeradio"
+       "url": "http://live.humorfm.by:8000/veseloeradio",
+       "rb": "962b35ca-0601-11e8-ae97-52543be04c81",
+       "logo": "http://humorfm.by/apple-touch-icon.png"
       }
      ]
     },
@@ -349,7 +351,9 @@
         "easy_listening",
         "pop_hits",
         "world"
-       ]
+       ],
+       "rb": "d0101385-e8b2-46f2-952e-c987081a8c5e",
+       "logo": "http://hosted.muses.org/2.4.4/ffmp3-appy/bg.png"
       },
       {
        "name": "Mir (Minsk) Radio",
@@ -443,7 +447,8 @@
         "easy_listening",
         "pop_hits",
         "various_eclectic"
-       ]
+       ],
+       "rb": "4d135b21-0794-4a65-8906-a92d936a74e0"
       },
       {
        "name": "Гомель Радио",
@@ -456,7 +461,8 @@
         "pop_hits",
         "easy_listening",
         "various_eclectic"
-       ]
+       ],
+       "rb": "0dfcd823-d005-422b-8a58-f589c1530a2c"
       }
      ]
     },
@@ -512,7 +518,9 @@
         "electronic",
         "house"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "6f389330-a45d-489e-bebc-46e31420c308",
+       "logo": "https://www.novoeradio.by/uploads/images/settings/314c6f5a-0e1c-4ace-aa91-aba0ca3e2599_logo.svg"
       },
       {
        "name": "Pilot FM Radio",
@@ -739,7 +747,9 @@
        "tags": [
         "house",
         "chillout_lounge"
-       ]
+       ],
+       "rb": "fa88d4ee-82ba-4531-aacd-6b4a58cec56e",
+       "logo": "https://4you.fm/logo-4you.png"
       },
       {
        "name": "Soundeo FM",
@@ -802,7 +812,9 @@
         "rock",
         "metal"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "4297153c-4e5b-11ea-b877-52543be04c81",
+       "logo": "http://dzed-bardaitis.com/favicon.png"
       },
       {
        "name": "Dzed Bardaitis Radio",
@@ -935,7 +947,9 @@
        "tags": [
         "pop_hits",
         "news_talk"
-       ]
+       ],
+       "rb": "7375b2fc-ecf1-4104-a048-c3e970996fde",
+       "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250120_155239659.jpg?alt=media&token=06e37193-75e0-416b-95b1-d0e2484c9d02"
       },
       {
        "name": "Narodnoe Radio",
@@ -1047,7 +1061,9 @@
        "tags": [
         "pop_hits",
         "news_talk"
-       ]
+       ],
+       "rb": "b6c195a2-da91-484a-85ef-751eafed4693",
+       "logo": "https://www.tvrmogilev.by/_img/logo-radio.svg"
       },
       {
        "name": "Radio Mogilev",
@@ -1430,7 +1446,8 @@
        "tags": [
         "pop_hits",
         "news_talk"
-       ]
+       ],
+       "rb": "9630a026-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Zefir FM Radio",
@@ -1496,7 +1513,8 @@
        "tags": [
         "pop_hits",
         "news_talk"
-       ]
+       ],
+       "rb": "448b4cb5-cead-4a0d-96c6-e9cb816c3213"
       },
       {
        "name": "Тёплое Радио Нетоп FM",
@@ -1526,7 +1544,8 @@
         "world",
         "kids"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "3ed49ddd-8292-48e2-907d-cb4404b6b9a6"
       },
       {
        "name": "Aplus Radio Rock",
@@ -1826,7 +1845,8 @@
         "rock",
         "pop_hits",
         "electronic"
-       ]
+       ],
+       "rb": "0b25eaf4-8cca-4b09-9f35-5b883cb8fac7"
       },
       {
        "name": "Радио Би-Эй",
@@ -1916,7 +1936,9 @@
         "techno",
         "house"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "270d50a7-cb2b-42df-8967-05ff4756a54c",
+       "logo": "https://www.novoeradio.by/favicon.ico"
       }
      ]
     },
@@ -1984,7 +2006,9 @@
      "stations": [
       {
        "name": "\"Radio \"\"123\"\"\"",
-       "url": "http://de1.internet-radio.com:8173/stream"
+       "url": "http://de1.internet-radio.com:8173/stream",
+       "rb": "2bdea757-76f2-4b64-ba58-85b6dce4bcc0",
+       "logo": "https://radio123.by/favicon.ico"
       },
       {
        "name": "\"Radio \"\"Prabhupada\"\"\"",
@@ -2047,7 +2071,8 @@
       },
       {
        "name": "Aplus One aac, 16 kb/s",
-       "url": "http://s.aplus.fm:9000/aplus_16.aac?n=811d67df0a0068a2a8ef"
+       "url": "http://s.aplus.fm:9000/aplus_16.aac?n=811d67df0a0068a2a8ef",
+       "rb": "cc4b7c1a-b0b6-48e0-a958-edb131961fd4"
       },
       {
        "name": "BeeLife",
@@ -2837,7 +2862,8 @@
       {
        "name": "Город FM Брест 97,7",
        "url": "https://stream2.datacenter.by/GorodFM",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "272054f7-6f76-4886-a399-de1b7bef46c4"
       },
       {
        "name": "Дельта",
@@ -2878,7 +2904,8 @@
        "name": "Радио MFM - Гродно 105.0 МГц",
        "url": "https://radio.105fm.by/radio.105.0mfm",
        "country_inferred": true,
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "7141294e-1831-437b-b81a-b8b93caeebdc"
       },
       {
        "name": "Радио s13.ru",
@@ -2906,16 +2933,20 @@
        "name": "Радио Zефир FM - Бобруйск 95.4 FM",
        "url": "https://stream2.datacenter.by/zefirfm",
        "country_inferred": true,
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "3676db62-4923-44d2-80c3-9e7e423cec6d",
+       "logo": "https://www.phonostar.de/images/auto_created/zefir_fm184x184.png"
       },
       {
        "name": "Радио Брест",
        "url": "http://178.124.131.35:8012/trkbrest",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "961ac73d-771d-47bd-b3d1-413d69a2b892"
       },
       {
        "name": "Радио Брест 104.8 Fm",
-       "url": "https://stream2.datacenter.by:2199/tunein/trkbres1.pls?n=cd8b24bb5d8bc03bd33a"
+       "url": "https://stream2.datacenter.by:2199/tunein/trkbres1.pls?n=cd8b24bb5d8bc03bd33a",
+       "rb": "961ac73d-771d-47bd-b3d1-413d69a2b892"
       },
       {
        "name": "Радио Легенды FM - Минск 94.1 MHz",
@@ -3019,7 +3050,9 @@
         "pop_hits",
         "ambient_relax",
         "world"
-       ]
+       ],
+       "rb": "6ad3f6e9-eac9-11e9-a96c-52543be04c81",
+       "logo": "http://radiorelax.by//apple-touch-icon.png"
       }
      ]
     },
@@ -3032,7 +3065,9 @@
        "tags": [
         "christian_gospel",
         "pop_hits"
-       ]
+       ],
+       "rb": "2626d81c-6a22-416b-bfdc-ca9391065fd0",
+       "logo": "https://www.radiomaria.by/images/icons/icon-128.png"
       }
      ]
     },
@@ -3156,7 +3191,9 @@
         "rock",
         "alternative_indie",
         "pop_hits"
-       ]
+       ],
+       "rb": "4d676d0f-c986-11e9-8502-52543be04c81",
+       "logo": "https://euroradio.fm/themes/custom/euroradio/favicon.ico"
       },
       {
        "name": "Humor FM",
@@ -3166,7 +3203,8 @@
         "various_eclectic",
         "comedy",
         "news_talk"
-       ]
+       ],
+       "rb": "5a030ffd-03a7-11ea-bbf2-52543be04c81"
       },
       {
        "name": "Lider FM",
@@ -3174,7 +3212,8 @@
        "tags": [
         "news_talk",
         "pop_hits"
-       ]
+       ],
+       "rb": "51092631-e960-477e-8559-c283f73c6105"
       },
       {
        "name": "Mestnoe Radio",
@@ -3206,7 +3245,8 @@
         "news_talk",
         "rock",
         "pop_hits"
-       ]
+       ],
+       "rb": "96195abc-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Radio Vitebsk",
@@ -3218,7 +3258,9 @@
       },
       {
        "name": "Еўрарадыё BY",
-       "url": "http://stream1.euroradio.fm:8000/euroradio1"
+       "url": "http://stream1.euroradio.fm:8000/euroradio1",
+       "rb": "962df7f6-0601-11e8-ae97-52543be04c81",
+       "logo": "https://euroradio.fm/themes/custom/euroradio/favicon.ico"
       },
       {
        "name": "Радыё Сталіца - Беларусь",
@@ -3266,7 +3308,8 @@
        "tags": [
         "pop_hits",
         "oldies"
-       ]
+       ],
+       "rb": "2f192e8a-c8d6-45b8-a9f3-444af84275e7"
       },
       {
        "name": "Lider FM",
@@ -3279,7 +3322,8 @@
         "pop_hits",
         "easy_listening",
         "classical"
-       ]
+       ],
+       "rb": "4fc00115-e4af-4cd3-9efa-a4bf2366b357"
       },
       {
        "name": "Radio Brest",
@@ -3287,7 +3331,9 @@
        "tags": [
         "pop_hits",
         "news_talk"
-       ]
+       ],
+       "rb": "e6a59f89-ef16-40a7-96fc-f1c33912677e",
+       "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250121_161518260.jpg?alt=media&token=c61b5830-d0b6-4304-af0a-22cd089e5799"
       },
       {
        "name": "Radio Grodno",
@@ -3320,7 +3366,8 @@
         "rock",
         "world",
         "easy_listening"
-       ]
+       ],
+       "rb": "3937d9d4-4ee8-444b-bdb6-fbf64c7324f8"
       },
       {
        "name": "Ranak FM 88.4",

@@ -17,7 +17,9 @@
         "pop_hits",
         "country",
         "folk"
-       ]
+       ],
+       "rb": "04958d14-f0fd-4c34-ad43-7b0a0a562e0c",
+       "logo": "https://yzfwydwirfiyaapvbacl.supabase.co/storage/v1/object/public/rasa-assets/stations/f528bd9d-def2-446b-b22a-c78692b4e902/logo.webp?v=1775518735"
       },
       {
        "name": "Lindin",
@@ -37,7 +39,9 @@
       {
        "name": "SJEY - Kristiligt kringvarp",
        "url": "https://lurta.sjey.fo/high_aac",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "c4f98f0d-b541-4585-b3b8-e6ed969dd609",
+       "logo": "https://d371i8ihhgym7w.cloudfront.net/19234188.jpg"
       },
       {
        "name": "Sjey radio",
@@ -106,7 +110,8 @@
         "pop_hits",
         "news_talk",
         "various_eclectic"
-       ]
+       ],
+       "rb": "9643d481-0601-11e8-ae97-52543be04c81"
       }
      ]
     },
@@ -120,7 +125,8 @@
       },
       {
        "name": "VoxPop Radio",
-       "url": "http://stream.midlar.fo/voxpop"
+       "url": "http://stream.midlar.fo/voxpop",
+       "rb": "963cbfb8-0601-11e8-ae97-52543be04c81"
       }
      ]
     },
@@ -147,7 +153,8 @@
         "classical",
         "world",
         "various_eclectic"
-       ]
+       ],
+       "rb": "9617c327-0601-11e8-ae97-52543be04c81"
       }
      ]
     },
@@ -190,7 +197,8 @@
       },
       {
        "name": "KVF2",
-       "url": "http://netvarp.kringvarp.fo:4443/kvf2_2?n=5b6dd480f247d9fde002"
+       "url": "http://netvarp.kringvarp.fo:4443/kvf2_2?n=5b6dd480f247d9fde002",
+       "rb": "028984e9-9ef1-490f-bb04-da88caeb6798"
       },
       {
        "name": "NextWeb Radio",
@@ -284,7 +292,9 @@
         "news_talk",
         "pop_hits",
         "easy_listening"
-       ]
+       ],
+       "rb": "cdd65fdd-3a21-481f-a20e-d20b0f58f625",
+       "logo": "https://www.aldan.fo/wp-content/uploads/2026/01/aldan-fallback.jpg"
       }
      ]
     }

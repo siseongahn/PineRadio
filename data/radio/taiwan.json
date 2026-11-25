@@ -60,7 +60,8 @@
      "stations": [
       {
        "name": "Classical FM",
-       "url": "http://onair.family977.com.tw:8000/live.mp3"
+       "url": "http://onair.family977.com.tw:8000/live.mp3",
+       "rb": "18ece015-83f6-4caa-958c-adfb30b53e58"
       },
       {
        "name": "Classical Taiwan 99.7",
@@ -75,7 +76,8 @@
        "tags": [
         "classical",
         "jazz"
-       ]
+       ],
+       "rb": "a2ae6e7e-e193-4f95-b25d-1fa4e5a7d632"
       },
       {
        "name": "Gold FM 901",
@@ -94,7 +96,8 @@
         "classical",
         "easy_listening",
         "christian_gospel"
-       ]
+       ],
+       "rb": "7a27042e-94ef-46aa-835d-dfa408bcca04"
       },
       {
        "name": "台中古典音樂台 radio",
@@ -316,7 +319,9 @@
      "stations": [
       {
        "name": "1766 Internet Radio",
-       "url": "http://livestream.1766.today:1768/live1.mp3"
+       "url": "http://livestream.1766.today:1768/live1.mp3",
+       "rb": "25970dbd-3591-46b6-bfaa-668e8be26152",
+       "logo": "https://www.1766.today/wp-content/uploads/2016/11/cropped-radio_icon_660px-180x180.png"
       },
       {
        "name": "Alian96.3 原住民族廣播電台 radio",
@@ -399,15 +404,18 @@
       },
       {
        "name": "FM107.1 Universal Radio",
-       "url": "http://60.248.53.115:8081/"
+       "url": "http://60.248.53.115:8081/",
+       "rb": "794526d9-47b3-4313-9475-6dcba1c930ef"
       },
       {
        "name": "FM90.9 The Voice of Chaozhou Radio",
-       "url": "http://59.120.255.170:8081/"
+       "url": "http://59.120.255.170:8081/",
+       "rb": "86378b8d-8780-45e6-922c-b8b1297237a8"
       },
       {
        "name": "FM92.5 Voice of Pingtung",
-       "url": "http://59.120.255.169:8081/"
+       "url": "http://59.120.255.169:8081/",
+       "rb": "20126f50-f822-4b08-916d-a19fd572b02d"
       },
       {
        "name": "FM97.9 Kavalan Radio",
@@ -415,7 +423,8 @@
        "tags": [
         "news_talk",
         "pop_hits"
-       ]
+       ],
+       "rb": "c164cf0c-835b-4109-8f17-05a0d1a83d4d"
       },
       {
        "name": "Hakka Radio",
@@ -499,7 +508,9 @@
         "news_talk",
         "folk",
         "pop_hits"
-       ]
+       ],
+       "rb": "528cb5db-a6b3-4abb-bf7f-d1ed99cb2a5d",
+       "logo": "https://liveonlineradio.net/img/favicon_96.png"
       },
       {
        "name": "needs RADIO",
@@ -516,7 +527,8 @@
        "tags": [
         "news_talk",
         "pop_hits"
-       ]
+       ],
+       "rb": "a5b116a3-5c62-4318-a13d-e231f45b4f2c"
       },
       {
        "name": "Radio Voice of Ming Chuan radio",
@@ -606,7 +618,8 @@
         "pop_hits",
         "world"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "9b614adf-04e1-4a2e-b23c-2bf5ed16a694"
       },
       {
        "name": "世 新 廣播 電台 SHRS 88.1 FM",
@@ -615,7 +628,9 @@
         "news_talk",
         "pop_hits",
         "college_community"
-       ]
+       ],
+       "rb": "43892763-bca1-49a5-9d64-11410c37bdbc",
+       "logo": "https://myradio.com.tw/_next/image?url=https://image.myradio.com.tw/A4801.jpg&w=256&q=75"
       },
       {
        "name": "世新廣播電台",
@@ -623,7 +638,9 @@
        "tags": [
         "news_talk",
         "college_community"
-       ]
+       ],
+       "rb": "74073d5f-0874-4469-8745-1ec0a9e3472f",
+       "logo": "https://myradio.com.tw/_next/image?url=https://image.myradio.com.tw/A4802.jpg&w=256&q=75"
       },
       {
        "name": "中廣I go 531",
@@ -669,7 +686,9 @@
        "tags": [
         "news_talk",
         "pop_hits"
-       ]
+       ],
+       "rb": "1eb90727-81cb-49d5-9e82-e602853c08c6",
+       "logo": "https://gogoradiofm1043.com.tw/images/f4.png"
       },
       {
        "name": "佳音電台",
@@ -677,7 +696,8 @@
        "tags": [
         "news_talk",
         "pop_hits"
-       ]
+       ],
+       "rb": "1fbef30f-dfa0-471b-b0ea-dd296391d30e"
       },
       {
        "name": "光華之聲",
@@ -698,7 +718,8 @@
        "tags": [
         "news_talk",
         "pop_hits"
-       ]
+       ],
+       "rb": "44dd89fd-72c1-4d15-970d-e84718bc7bcb"
       },
       {
        "name": "台湾之音-RTI国语",
@@ -733,7 +754,8 @@
        "tags": [
         "news_talk",
         "pop_hits"
-       ]
+       ],
+       "rb": "af7cf56a-a366-47fc-bbb4-e6c4bd5b2ec6"
       },
       {
        "name": "大千電台 radio",
@@ -777,7 +799,8 @@
       {
        "name": "太陽電台",
        "url": "http://211.20.119.102:8081/",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "ef129d58-ac72-4e69-a1ae-2cb896611d3c"
       },
       {
        "name": "央廣 亞洲頻道",
@@ -794,7 +817,8 @@
       },
       {
        "name": "屏東大武山廣播",
-       "url": "http://59.120.255.171:8081/"
+       "url": "http://59.120.255.171:8081/",
+       "rb": "7a54e715-467f-47c1-8785-b812719170d2"
       },
       {
        "name": "教育廣播電臺-彰化分臺FM",
@@ -863,7 +887,9 @@
       },
       {
        "name": "桃園GO GO104.3",
-       "url": "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/fm1043/chunklist_w1108784103.m3u8"
+       "url": "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/fm1043/chunklist_w1108784103.m3u8",
+       "rb": "b396f10e-3722-4d13-b78d-20db0f72882e",
+       "logo": "https://liveonlineradio.net/wp-content/uploads/2021/09/gogo-radio-fm-104.3-220x108.jpg"
       },
       {
        "name": "歡喜之聲 105.5 FM",
@@ -871,7 +897,8 @@
        "tags": [
         "news_talk",
         "pop_hits"
-       ]
+       ],
+       "rb": "278f4665-f188-4fdc-bd83-d199e762efb5"
       },
       {
        "name": "正義電台",
@@ -888,11 +915,14 @@
        "tags": [
         "news_talk",
         "pop_hits"
-       ]
+       ],
+       "rb": "98e6c0ab-2458-4eb0-8400-c41b525441a7",
+       "logo": "https://www.csbc.com.tw/wp-content/uploads/2019/12/cropped-6044e1b77e91b4fe89b435-2-180x180.png"
       },
       {
        "name": "正聲廣播電台FM104",
-       "url": "https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/chunklist_w872521607.m3u8"
+       "url": "https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/chunklist_w872521607.m3u8",
+       "rb": "40c961b3-7c52-4da1-b956-5728759b2ad4"
       },
       {
        "name": "正聲綜合台 radio",
@@ -900,7 +930,8 @@
        "tags": [
         "news_talk",
         "pop_hits"
-       ]
+       ],
+       "rb": "4c7d3d26-6339-4535-a4e6-98284f519cbc"
       },
       {
        "name": "民本廣播 AM 1296",
@@ -912,11 +943,13 @@
       },
       {
        "name": "民本電台-1",
-       "url": "https://streamak0134.akamaized.net/live0134lh-5gst/_definst_/am1296/chunklist.m3u8"
+       "url": "https://streamak0134.akamaized.net/live0134lh-5gst/_definst_/am1296/chunklist.m3u8",
+       "rb": "227ebcf0-354a-4e1f-b3ec-a0ab943b3b40"
       },
       {
        "name": "民本電台-2",
-       "url": "https://streamak0134.akamaized.net/live0134lh-5gst/_definst_/am855/chunklist.m3u8"
+       "url": "https://streamak0134.akamaized.net/live0134lh-5gst/_definst_/am855/chunklist.m3u8",
+       "rb": "04b902cd-9f22-4466-892c-3976f7868a71"
       },
       {
        "name": "淡江之聲 FM88.7",
@@ -937,7 +970,8 @@
         "news_talk",
         "classical",
         "easy_listening"
-       ]
+       ],
+       "rb": "c18cd9da-3469-4ded-9efe-04aa7d9f2523"
       },
       {
        "name": "環宇電台 radio",
@@ -960,7 +994,8 @@
        "tags": [
         "news_talk",
         "pop_hits"
-       ]
+       ],
+       "rb": "74cf8b19-bc5b-4ae8-9e47-62fbcb21014d"
       },
       {
        "name": "綠色和平電台",
@@ -973,11 +1008,15 @@
       },
       {
        "name": "臺北電台",
-       "url": "https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8"
+       "url": "https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8",
+       "rb": "e8ac5c8f-e0ce-4bea-8846-b9ff7d911aea",
+       "logo": "https://www.radio.gov.taipei/images/favicon.ico"
       },
       {
        "name": "臺北電台AM",
-       "url": "https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/am/playlist.m3u8"
+       "url": "https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/am/playlist.m3u8",
+       "rb": "6be26492-2d96-444d-afa6-91fd5b374bed",
+       "logo": "http://www.radio.gov.taipei/images/favicon.ico"
       },
       {
        "name": "臺藝之聲 VOTA",
@@ -1003,7 +1042,9 @@
       },
       {
        "name": "苗栗正義電台",
-       "url": "http://211.20.119.103:8081"
+       "url": "http://211.20.119.103:8081",
+       "rb": "bc812df5-feb1-420a-a0c7-530b828de163",
+       "logo": "https://liveonlineradio.net/wp-content/uploads/2021/10/正義電台-FM-88.9-220x108.webp"
       },
       {
        "name": "華藝廣播公司",
@@ -1015,15 +1056,18 @@
       },
       {
        "name": "警察廣播電台 - 台北台",
-       "url": "http://stream.pbs.gov.tw:1935/live/TPS/playlist.m3u8"
+       "url": "http://stream.pbs.gov.tw:1935/live/TPS/playlist.m3u8",
+       "rb": "b8932709-f573-4674-b976-09c4ef8aa96a"
       },
       {
        "name": "警察廣播電臺 - 全國治安交通網",
-       "url": "http://stream.pbs.gov.tw:1935/live/mp3:PBS/playlist.m3u8"
+       "url": "http://stream.pbs.gov.tw:1935/live/mp3:PBS/playlist.m3u8",
+       "rb": "48a90040-a11d-459c-85e0-866b2f4e94dc"
       },
       {
        "name": "警察廣播電臺 - 宜蘭分臺",
-       "url": "http://stream.pbs.gov.tw:1935/live/ELS/playlist.m3u8"
+       "url": "http://stream.pbs.gov.tw:1935/live/ELS/playlist.m3u8",
+       "rb": "5dc593a5-a770-44c7-ae14-4f4750a2319a"
       },
       {
        "name": "警察廣播電臺 - 新竹分臺",
@@ -1031,7 +1075,8 @@
       },
       {
        "name": "警察廣播電臺 - 臺中分臺",
-       "url": "http://stream.pbs.gov.tw:1935/live/TCS/playlist.m3u8"
+       "url": "http://stream.pbs.gov.tw:1935/live/TCS/playlist.m3u8",
+       "rb": "88f387e9-bd42-4b0c-a2aa-0321c965f5f7"
       },
       {
        "name": "警察廣播電臺 - 臺南分臺",
@@ -1043,7 +1088,8 @@
       },
       {
        "name": "警察廣播電臺 - 花蓮分臺",
-       "url": "http://stream.pbs.gov.tw:1935/live/HLS/playlist.m3u8"
+       "url": "http://stream.pbs.gov.tw:1935/live/HLS/playlist.m3u8",
+       "rb": "12e63479-12ff-4d1d-b78d-fcd9fdfedc44"
       },
       {
        "name": "警察廣播電臺 - 高雄分臺",
@@ -1066,7 +1112,9 @@
        "tags": [
         "news_talk",
         "pop_hits"
-       ]
+       ],
+       "rb": "50a7e8d6-1e03-4384-908f-5305e83eff65",
+       "logo": "https://zh-cn.facebook.com/favicon.ico"
       },
       {
        "name": "非凡音電台 radio",
@@ -1170,7 +1218,9 @@
       },
       {
        "name": "Boss Online Radio",
-       "url": "https://stream.radiojar.com/ehzvurp9tv8uv"
+       "url": "https://stream.radiojar.com/ehzvurp9tv8uv",
+       "rb": "9ca3a4d5-51f7-46f7-9b8b-7ce7f3b4c655",
+       "logo": "https://cdn.onlineradiobox.com/img/l/7/107307.v1.png"
       },
       {
        "name": "Hit FM聯播網",
@@ -1222,7 +1272,9 @@
       },
       {
        "name": "亞太電台92.3",
-       "url": "https://n13.rcs.revma.com/kydend74hv8uv"
+       "url": "https://n13.rcs.revma.com/kydend74hv8uv",
+       "rb": "39619832-dd03-4dc3-9ddb-fca5d9a31dac",
+       "logo": "https://www.asiafm.com.tw/wp-content/uploads/2021/07/asia_logo1.gif"
       },
       {
        "name": "亞洲廣播電台92.7",
@@ -1234,7 +1286,8 @@
        "tags": [
         "pop_hits",
         "news_talk"
-       ]
+       ],
+       "rb": "9e31ffb7-8586-425c-b149-fc633a7507cc"
       },
       {
        "name": "台中廣播",
@@ -1249,7 +1302,8 @@
       {
        "name": "城市廣播網 FM 92.9 城市廣播",
        "url": "http://fm929.cityfm.tw:8080/929.mp3",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "397481b9-2120-4445-8368-3d3dccd4fda6"
       },
       {
        "name": "好事聯播網 Best Radio FM90.3 – 90.3 FM – TW-TXG",
@@ -1431,12 +1485,16 @@
       {
        "name": "179music",
        "url": "https://stream.zeno.fm/mss1yzbbbm8uv",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "29044ec4-7e4a-4f72-9499-82bc378640b7",
+       "logo": "https://zeno.fm/_ipx/q_85&fit_cover&s_288x288/https://images.zeno.fm/m2s_GHlJCj8KPIkj295khgQ3xtVZdh116e45WAjrdHo/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRFE5LWYtb3dvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRFFwNWlnbmdvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTU2MTgxNzAwMA.webp"
       },
       {
        "name": "179白陽經典",
        "url": "https://stream.zeno.fm/v5169mx3cm8uv",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "0e375ab8-4a5c-4cb2-83db-7ea38cccc52e",
+       "logo": "https://zeno.fm/_ipx/q_85&fit_cover&s_288x288/https://images.zeno.fm/DAvt8GYW2S2vl1G2db0FOGqfzSNJ_XC0JPp-4v9j32k/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRFF0NlRWckFnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRFExN3Yxd2drTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTUwMTM2ODAwMA.webp"
       },
       {
        "name": "216002test",
@@ -1710,7 +1768,8 @@
       {
        "name": "RTI 臺灣之音",
        "url": "https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/chunklist.m3u8?n=5c05b16e5f6c0e2dd755",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "a598b0a8-6863-4dac-9a62-74ceb084f39f"
       },
       {
        "name": "selection",
@@ -1725,7 +1784,8 @@
       {
        "name": "Stars RADIO星蹤之愛廣播網",
        "url": "https://cdn280.ccdntech.com/live-http/_definst_/vod280_Live/stars/playlist.m3u8?n=5b2e0c8614a1594c341b",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "02abdcd7-2477-46cf-8ccf-feb177d54d87"
       },
       {
        "name": "Stars RADIO星蹤之愛廣播網 – Banqiao District – TW-TPE",
@@ -1780,7 +1840,9 @@
       {
        "name": "Wild FM station",
        "url": "https://stream.zeno.fm/m3rh225sgm8uv",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "4c9ce6a4-cf4a-4e07-a87a-dcdc8e3179a3",
+       "logo": "https://zeno.fm/favicon.ico"
       },
       {
        "name": "YESRadio",
@@ -1847,11 +1909,13 @@
       {
        "name": "台中古典音樂台",
        "url": "http://onair.family977.com.tw:8000/live.mp3.m3u?n=0fe15b792666beb412ee",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "18ece015-83f6-4caa-958c-adfb30b53e58"
       },
       {
        "name": "台中廣播",
-       "url": "http://211.20.119.101:8081/"
+       "url": "http://211.20.119.101:8081/",
+       "rb": "4b69f9bb-9c13-4b01-a19b-fc2e8c5b21a9"
       },
       {
        "name": "台北愛樂電台 FM99.7 – 99.7 FM – TW-TPE",
@@ -1901,12 +1965,14 @@
       {
        "name": "寶島客家廣播電台",
        "url": "http://taiwan-radio.tw:8000/TP.FM93.7?n=c24ce5e342982155e554",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "26e76720-2e4f-4b13-9617-970cffa1116b"
       },
       {
        "name": "寶島聯播網",
        "url": "http://125.227.87.206:8000/FM98.5",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "3b7d5ee7-dbec-46fa-af65-e0d2de535c15"
       },
       {
        "name": "復興廣播電台 Fuxing Broadcasting Station – TW-TXG",
@@ -2167,7 +2233,9 @@
      "stations": [
       {
        "name": "Phate",
-       "url": "http://phate.io/listen"
+       "url": "http://phate.io/listen",
+       "rb": "e0401ca6-9638-11e8-a767-52543be04c81",
+       "logo": "https://i.imgur.com/8bomhbn.jpg"
       }
      ]
     }

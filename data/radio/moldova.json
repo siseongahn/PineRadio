@@ -37,7 +37,9 @@
       },
       {
        "name": "Radio ZUM4",
-       "url": "https://streams.radiozum.md/listen/zum4/ZUM4?n=082bd907659e0173d285"
+       "url": "https://streams.radiozum.md/listen/zum4/ZUM4?n=082bd907659e0173d285",
+       "rb": "938ba257-1ac8-49a5-bf60-eb26f0fe75ec",
+       "logo": "https://res.cloudinary.com/super7/image/upload/v1698337048/rz-api-prod/images/radio_zum_4_study_work.jpg"
       }
      ]
     },
@@ -309,7 +311,8 @@
         "pop_hits",
         "electronic"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "4d51be51-641d-4b05-b2cd-8cf2cf152e5a"
       },
       {
        "name": "HIT FM Best Hits",
@@ -571,7 +574,8 @@
         "world",
         "pop_hits"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "e70f3c0d-7e3a-4973-a5e4-19471790a25f"
       },
       {
        "name": "Radio Bucovina",
@@ -631,7 +635,9 @@
         "pop_hits",
         "folk"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "d86169ad-3b18-4c84-a330-9dd5b0a0e2a5",
+       "logo": "https://www.radionoroc.md/favicon.ico"
       },
       {
        "name": "Radio Plai",
@@ -742,7 +748,8 @@
         "pop_hits",
         "news_talk",
         "techno"
-       ]
+       ],
+       "rb": "960ef757-0601-11e8-ae97-52543be04c81"
       }
      ]
     },
@@ -808,7 +815,9 @@
         "news_talk",
         "rock",
         "pop_hits"
-       ]
+       ],
+       "rb": "978c9832-a05e-11e8-a9f3-52543be04c81",
+       "logo": "https://ecofm.md/wp-content/uploads/2017/10/cropped-customcolor_icon_transparent_background-180x180.png"
       },
       {
        "name": "Filadelfia Moldova",
@@ -850,7 +859,8 @@
        "tags": [
         "pop_hits",
         "news_talk"
-       ]
+       ],
+       "rb": "8b6000a2-0eeb-4eb2-8511-a168de0e9ce9"
       },
       {
        "name": "OM Radio 2",
@@ -906,12 +916,16 @@
         "news_talk",
         "decade_80s",
         "decade_90s"
-       ]
+       ],
+       "rb": "8a880290-9fcf-11e8-a767-52543be04c81",
+       "logo": "http://www.frocus.net/images/logotv/aquarelle-fm.jpg"
       },
       {
        "name": "Radio Chișinău",
        "url": "https://radiochisinau.md/hls/RChisinau.m3u8",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "fc35788d-7e79-4228-b130-2598c5a46738",
+       "logo": "https://radiochisinau.md/static/images/v1.logo.png"
       },
       {
        "name": "Radio Chișinău radio",
@@ -985,7 +999,9 @@
        "tags": [
         "news_talk",
         "pop_hits"
-       ]
+       ],
+       "rb": "d7014431-ab51-48c2-9899-2fdc47f01224",
+       "logo": "https://radiomoldova.md/apple-touch-icon.png"
       },
       {
        "name": "Radio Noroc",
@@ -1099,7 +1115,8 @@
       {
        "name": "России",
        "url": "https://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_64kbps",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "7fb4e699-2028-4bbe-a1a7-038a6d0873de"
       },
       {
        "name": "Русское Любимое radio",
@@ -1141,7 +1158,8 @@
         "decade_70s",
         "decade_90s"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "f3569a3c-a56a-475b-89dc-4d56d8b575f9"
       }
      ]
     },
@@ -1288,7 +1306,8 @@
       },
       {
        "name": "Muz FM radio",
-       "url": "https://live.muzfm.md/muzfm"
+       "url": "https://live.muzfm.md/muzfm",
+       "rb": "40a45617-74c2-49ee-aef6-b329978da43e"
       },
       {
        "name": "Novoe Radio (Moldova)",
@@ -1333,7 +1352,9 @@
         "rock",
         "folk"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "6f674387-513a-437b-8014-7a15a95fa67e",
+       "logo": "https://radiomoldova.md/images/RM_muzical_logo.svg"
       },
       {
        "name": "Radio Orhei 97.5 FM",
@@ -1392,7 +1413,9 @@
        "tags": [
         "pop_hits",
         "electronic"
-       ]
+       ],
+       "rb": "835c1306-01f8-4291-ac6d-623739c9b891",
+       "logo": "https://res.cloudinary.com/super7/image/upload/v1637683737/rz-api-prod/images/pqthijlqa2bx6kmlajt6.png"
       },
       {
        "name": "Radio Zum 93.3 FM",
@@ -1401,7 +1424,8 @@
       },
       {
        "name": "Smile FM",
-       "url": "https://sonicssl.namehost.ro/8050/?n=0760409115c3807403ed"
+       "url": "https://sonicssl.namehost.ro/8050/?n=0760409115c3807403ed",
+       "rb": "c63563c8-edc3-4bb5-9962-63375bb4d6ad"
       },
       {
        "name": "Авторадио",
@@ -1511,7 +1535,9 @@
       },
       {
        "name": "Radio ROKS Moldova",
-       "url": "https://stream.dixi.md:9443/Roks?n=ff03f8f54feb0b851607"
+       "url": "https://stream.dixi.md:9443/Roks?n=ff03f8f54feb0b851607",
+       "rb": "5306033e-8ae2-4e29-82a5-70045a0994ed",
+       "logo": "https://gitlab.com/alexby306/host-images/-/raw/c423ddd4e04814d37b020222f2ff4fca04aef928/radio-roks.jpg"
       },
       {
        "name": "Record Rock radio",
@@ -1539,7 +1565,9 @@
         "pop_hits",
         "soul_rnb_funk"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "fb22f28c-d4d6-4a03-92cc-ceba6ec92937",
+       "logo": "https://radiobeat.md/images/favi1.png"
       },
       {
        "name": "Wilin Vision Radio",
@@ -1895,7 +1923,8 @@
       },
       {
        "name": "Radio RFI Moldova",
-       "url": "https://asculta.radiorfi.ro/live.mp3?n=2e4fd8b6115fb077b00f"
+       "url": "https://asculta.radiorfi.ro/live.mp3?n=2e4fd8b6115fb077b00f",
+       "rb": "ef7e6372-87d6-426e-bced-e2fa92401666"
       },
       {
        "name": "Radio Sim - Enigma",
@@ -2033,7 +2062,8 @@
        "tags": [
         "pop_hits",
         "classical"
-       ]
+       ],
+       "rb": "0e130ba3-ee72-4128-a162-4731a40fa53e"
       }
      ]
     },
@@ -2073,7 +2103,9 @@
        "tags": [
         "electronic",
         "pop_hits"
-       ]
+       ],
+       "rb": "b8cc0b5b-8425-4735-bdcc-c72c7935c84d",
+       "logo": "http://dancefmmoldova.md/images/96x96/10648733/dancefmlogosmall.png"
       },
       {
        "name": "HIT FM",
@@ -2093,7 +2125,8 @@
         "electronic",
         "news_talk",
         "classical"
-       ]
+       ],
+       "rb": "0e527d75-30db-4d43-850c-4db38984c18e"
       },
       {
        "name": "RADIO RECORD",
@@ -2110,7 +2143,8 @@
        "tags": [
         "electronic",
         "pop_hits"
-       ]
+       ],
+       "rb": "92b99738-5c8f-4450-9f19-c8f0ca235559"
       },
       {
        "name": "Radio ZUM 2",
@@ -2120,7 +2154,9 @@
         "pop_hits",
         "electronic",
         "hip_hop_rap"
-       ]
+       ],
+       "rb": "ad013d77-cdf0-42b0-ae73-a5c12347237b",
+       "logo": "https://res.cloudinary.com/super7/image/upload/v1637683703/rz-api-prod/images/agnni2vhfudmfoun8vpg.png"
       },
       {
        "name": "Record Moldova",
@@ -2173,11 +2209,14 @@
        "tags": [
         "news_talk",
         "pop_hits"
-       ]
+       ],
+       "rb": "3d8b1284-142e-4b13-a141-24c458c96a2a",
+       "logo": "https://jurnalfm.md/wp-content/uploads/2020/08/JFM-LOGO.png"
       },
       {
        "name": "love radio",
-       "url": "http://37.233.41.76:8000/lovefm"
+       "url": "http://37.233.41.76:8000/lovefm",
+       "rb": "32cbdc2a-3e4e-4160-9eb3-ceeef61316ab"
       },
       {
        "name": "Radio 7",
@@ -2204,7 +2243,8 @@
         "pop_hits",
         "news_talk",
         "electronic"
-       ]
+       ],
+       "rb": "5b74f9f4-5d24-4069-9167-618465315661"
       },
       {
        "name": "Русское Радио",
@@ -2231,7 +2271,9 @@
         "disco_eurodance",
         "pop_hits",
         "news_talk"
-       ]
+       ],
+       "rb": "91900e91-4864-4ff0-b782-50817669c4ac",
+       "logo": "https://static.tildacdn.one/tild6364-6361-4237-a239-306236386565/180.png"
       }
      ]
     },

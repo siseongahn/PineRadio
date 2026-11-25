@@ -42,7 +42,9 @@
         "classical",
         "alternative_indie",
         "pop_hits"
-       ]
+       ],
+       "rb": "6e18d0d4-d3f4-436e-b7df-efb27105d92e",
+       "logo": "https://zhanafm.kz/favicon-32x32.png"
       }
      ]
     },
@@ -127,7 +129,8 @@
         "ambient_relax",
         "easy_listening",
         "chillout_lounge"
-       ]
+       ],
+       "rb": "065763eb-324c-4565-8c7e-ee1f0652d607"
       }
      ]
     },
@@ -269,7 +272,8 @@
         "pop_hits",
         "easy_listening",
         "decade_90s"
-       ]
+       ],
+       "rb": "59996d89-7bf3-4c1f-80b3-a141ac769fa3"
       },
       {
        "name": "Моя Мелодия",
@@ -393,7 +397,9 @@
       },
       {
        "name": "Russian Dance Radio",
-       "url": "https://lux-radio.com:8015/stream"
+       "url": "https://lux-radio.com:8015/stream",
+       "rb": "2c21d6a9-8cf2-4d26-a4bb-712352e918db",
+       "logo": "https://cdn.onlineradiobox.com/img/l/1/99521.v1.png"
       },
       {
        "name": "Space Beat Radio",
@@ -436,7 +442,8 @@
         "electronic",
         "pop_hits",
         "easy_listening"
-       ]
+       ],
+       "rb": "46793fb4-4daf-47c6-b64e-f59510f2ec14"
       },
       {
        "name": "Народное радио radio",
@@ -444,7 +451,8 @@
        "tags": [
         "pop_hits",
         "electronic"
-       ]
+       ],
+       "rb": "1fdb98e2-65dd-4cd5-85f1-99af94959fa0"
       },
       {
        "name": "Радио Nostalgie Listen live",
@@ -457,7 +465,8 @@
         "decade_70s",
         "decade_80s",
         "decade_90s"
-       ]
+       ],
+       "rb": "193a1672-2f14-43c1-8290-7ceb3a6e132b"
       },
       {
        "name": "Радио Талап",
@@ -573,7 +582,9 @@
         "easy_listening",
         "news_talk"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "11208a93-9194-4a60-84f8-99bfe1912b83",
+       "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240422_113249093.jpg?alt=media&token=f4c478dc-d724-4936-8fd1-50a22dcf3539"
       },
       {
        "name": "Русский Город",
@@ -793,7 +804,9 @@
         "pop_hits",
         "electronic"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "53d8dc8f-92cf-452f-8674-3d404e91e776",
+       "logo": "https://streema.com/_ipx/f_avif,webp&q_80&s_160x160/https://static-media.streema.com/media/cache/e2/b9/e2b9f77fd2d83b6447e2bb6ebb6a9f22.jpg"
       },
       {
        "name": "Radio City",
@@ -860,7 +873,9 @@
       },
       {
        "name": "beu",
-       "url": "https://stream.beufm.kz/beufm"
+       "url": "https://stream.beufm.kz/beufm",
+       "rb": "8d19ab98-ff22-440c-af05-0b1669b8a2ba",
+       "logo": "https://beufm.kz/template/logo_white.png"
       },
       {
        "name": "Dala FM 100.2",
@@ -901,7 +916,8 @@
       },
       {
        "name": "Pioner FM",
-       "url": "https://live.zhanafm.kz:8443/pionerfm?n=b0676d4d28c1fe20c719"
+       "url": "https://live.zhanafm.kz:8443/pionerfm?n=b0676d4d28c1fe20c719",
+       "rb": "41a64f88-c639-4f5b-8dec-0543f94ceb1a"
       },
       {
        "name": "Radio 7 (Semey)",
@@ -915,7 +931,9 @@
       },
       {
        "name": "Radio Azamat",
-       "url": "https://listen4.myradio24.com/8162"
+       "url": "https://listen4.myradio24.com/8162",
+       "rb": "a4be486b-4dbc-443d-afbf-0d6483d80181",
+       "logo": "https://vmeste.eu/img/services/96/myradio24.png"
       },
       {
        "name": "Radio Ice",
@@ -966,7 +984,8 @@
        "tags": [
         "pop_hits",
         "electronic"
-       ]
+       ],
+       "rb": "93dda347-fb16-448c-9827-6028e0df82d2"
       },
       {
        "name": "ОстровОК!",
@@ -984,7 +1003,9 @@
       },
       {
        "name": "Радио SANA",
-       "url": "https://listen4.myradio24.com/radiosana?n=dd19c9c08db528270a3d"
+       "url": "https://listen4.myradio24.com/radiosana?n=dd19c9c08db528270a3d",
+       "rb": "51dd947f-f30a-4f15-8259-7c062190e8c1",
+       "logo": "http://hordelo.kz/files/4616/6597/6684/Banner_Radio_2021.jpg"
       },
       {
        "name": "Радио Вышка Казахстан",
@@ -1202,7 +1223,9 @@
       {
        "name": "Love Radio - Казахстан",
        "url": "https://stream.gakku.tv:8443/love128.mp3",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "75437893-9527-4de8-902e-c04f08af2dfc",
+       "logo": "https://loveradio.kz/img/touch-icon-ipad-pro.png"
       },
       {
        "name": "Lux Radio",
@@ -1230,7 +1253,8 @@
       },
       {
        "name": "NS-Rock",
-       "url": "https://icecast.ns.kz/radions"
+       "url": "https://icecast.ns.kz/radions",
+       "rb": "dbaf93a0-220f-4b76-81db-89d60dbac857"
       },
       {
        "name": "Orda FM",
@@ -1467,7 +1491,8 @@
       },
       {
        "name": "Радио 7 Казахстан",
-       "url": "https://listen2.myradio24.com/8334?n=856ee9cd75fe8b8e578b"
+       "url": "https://listen2.myradio24.com/8334?n=856ee9cd75fe8b8e578b",
+       "rb": "700c9a09-b765-4c30-b484-f41729ed4afc"
       },
       {
        "name": "Радио КН",
@@ -1480,7 +1505,8 @@
       },
       {
        "name": "Радио Талап",
-       "url": "https://okeyradio.ru/okey?n=82d91da9d85129bd5897"
+       "url": "https://okeyradio.ru/okey?n=82d91da9d85129bd5897",
+       "rb": "4beb9a12-0267-4726-a9ea-33a88754811b"
       },
       {
        "name": "Рауан",
@@ -1545,7 +1571,9 @@
        "tags": [
         "classical",
         "news_talk"
-       ]
+       ],
+       "rb": "dbcb9ca8-5c14-4fd4-977a-04bfe3c6ba4c",
+       "logo": "https://qazradio.fm/images/classicfm.png?v=0.133"
       }
      ]
     },
@@ -1585,7 +1613,8 @@
        "tags": [
         "electronic",
         "pop_hits"
-       ]
+       ],
+       "rb": "9239fe5a-34fd-4f22-a021-4e835fdad527"
       }
      ]
     },
@@ -1627,7 +1656,9 @@
         "folk",
         "rock",
         "pop_hits"
-       ]
+       ],
+       "rb": "a9c1d385-48ed-4e6c-b235-0d4f2e383916",
+       "logo": "https://cdn.onlineradiobox.com/img/l/7/3257.v8.png"
       },
       {
        "name": "Той Думан Радиосы",
@@ -1673,7 +1704,9 @@
         "pop_hits",
         "folk",
         "various_eclectic"
-       ]
+       ],
+       "rb": "3aa2641c-45aa-4ee8-b1e2-1b397fac47e5",
+       "logo": "https://qazradio.fm/images/qazradio.png"
       },
       {
        "name": "Radio Astana",
@@ -1712,7 +1745,9 @@
         "hip_hop_rap",
         "various_eclectic",
         "pop_hits"
-       ]
+       ],
+       "rb": "21745b17-764e-471a-ae34-5f92c88e7e34",
+       "logo": "https://qazradio.fm/images/icon-114x114.png?9"
       }
      ]
     },
@@ -1721,7 +1756,8 @@
      "stations": [
       {
        "name": "Avtoradio",
-       "url": "http://178.88.167.62:8080/AVTORADIO_192"
+       "url": "http://178.88.167.62:8080/AVTORADIO_192",
+       "rb": "ec84163e-cb4f-4b60-b62a-eb905c84dfdc"
       },
       {
        "name": "Dala FM",
@@ -1754,7 +1790,9 @@
         "pop_hits",
         "electronic",
         "classical"
-       ]
+       ],
+       "rb": "a0d11402-f9cd-487a-904f-cabc86924a8c",
+       "logo": "http://zhuldyzfm.kz/sites/default/files/favicon.png"
       },
       {
        "name": "Авторадио (Avtoradio)",
@@ -1787,7 +1825,8 @@
         "alternative_indie",
         "easy_listening",
         "folk"
-       ]
+       ],
+       "rb": "12605daa-5785-44dc-bc3d-084bb4e0e872"
       }
      ]
     },
@@ -1821,7 +1860,8 @@
       },
       {
        "name": "KTK TV",
-       "url": "http://89.218.30.37/ktklive/live.hq/playlist.m3u8"
+       "url": "http://89.218.30.37/ktklive/live.hq/playlist.m3u8",
+       "rb": "a47510c5-2d32-11e9-a35e-52543be04c81"
       },
       {
        "name": "Radio 102",
@@ -1898,7 +1938,8 @@
      "stations": [
       {
        "name": "Радио Рауан",
-       "url": "https://listen4.myradio24.com/rauan?n=459674d475705692fb85"
+       "url": "https://listen4.myradio24.com/rauan?n=459674d475705692fb85",
+       "rb": "017ee3eb-83e7-45cb-88e0-cf3a222c0f2d"
       }
      ]
     }

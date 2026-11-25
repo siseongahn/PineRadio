@@ -23,7 +23,8 @@
         "alternative_indie",
         "pop_hits",
         "decade_80s"
-       ]
+       ],
+       "rb": "91868544-2e2e-421d-b1ba-a67ac155d1c3"
       },
       {
        "name": "8Radio",
@@ -39,7 +40,8 @@
        "tags": [
         "alternative_indie",
         "rock"
-       ]
+       ],
+       "rb": "6650bb57-12aa-41d3-8ae4-ed5dcf0909cd"
       },
       {
        "name": "8Radio.com",
@@ -82,7 +84,9 @@
         "easy_listening",
         "pop_hits"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "36fac466-1863-4940-a793-5a6c091e6a5d",
+       "logo": "https://www.98fm.com/i/android-icon-192x192.png"
       },
       {
        "name": "Athlone Community Radio",
@@ -351,7 +355,8 @@
         "alternative_indie",
         "pop_hits"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "d1f3bbb8-bb22-4efd-9f23-0e22ad2ae209"
       },
       {
        "name": "RTÉ 2XM",
@@ -434,7 +439,8 @@
         "rock",
         "drum_and_bass",
         "pop_hits"
-       ]
+       ],
+       "rb": "6645eb1c-400c-421b-8816-514030ece640"
       },
       {
        "name": "Today XM",
@@ -498,7 +504,9 @@
         "news_talk",
         "various_eclectic",
         "electronic"
-       ]
+       ],
+       "rb": "91f28d4c-e1ce-48b6-a7a0-3f56f8385e4f",
+       "logo": "https://images.radio.co/station_logos/sf0986595a.20220329055810.png"
       },
       {
        "name": "XT alternative radio",
@@ -513,7 +521,9 @@
         "soundtrack",
         "alternative_indie",
         "classical"
-       ]
+       ],
+       "rb": "9adaa838-570e-4007-83cc-6abfdc5e6f58",
+       "logo": "https://pea.fm/uploads/posts/2020-08/1597928797_zenith-classic-rock.jpg"
       }
      ]
     },
@@ -539,7 +549,8 @@
        "tags": [
         "ambient_relax",
         "easy_listening"
-       ]
+       ],
+       "rb": "9615c387-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Ignoreland Radio",
@@ -822,7 +833,8 @@
       },
       {
        "name": "Radio Maria Ireland",
-       "url": "http://cloudrad.io/radiomariaireland/listen.pls"
+       "url": "http://cloudrad.io/radiomariaireland/listen.pls",
+       "rb": "9615f63a-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Radio Star Country 98.1 FM",
@@ -885,7 +897,8 @@
        "tags": [
         "christian_gospel",
         "news_talk"
-       ]
+       ],
+       "rb": "5b5ab52b-b3b4-11ea-993a-52543be04c81"
       },
       {
        "name": "UCB Ireland",
@@ -895,7 +908,9 @@
       {
        "name": "UCBI WORSHIP",
        "url": "https://stream.btsstream.com/stream/iworship",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "6297d10b-e9a9-4f6b-8504-0aba01f646bd",
+       "logo": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fuk.radio.net%2Fimages%2Fbroadcasts%2F93%2F9f%2F130137%2F1%2Fc300.png&tbnid=_l8rjHnL2ip3MM&vet=12ahUKEwjBkOeNpIaBAxWBs4sKHWJKCJwQMygAegQIARA9..i&imgrefurl=https%3A%2F%2Fuk.radio.net%2Fs%2Fucbirelandworship&docid=LLoJBiNVqqetTM&w=300&h=300&q=ucbi%20worship&client=firefox-b-lm&ved=2ahUKEwjBkOeNpIaBAxWBs4sKHWJKCJwQMygAegQIARA9"
       }
      ]
     },
@@ -931,7 +946,9 @@
        "tags": [
         "classical",
         "holiday"
-       ]
+       ],
+       "rb": "c422abf3-929d-41bc-9d39-bffdf56b7a7e",
+       "logo": "https://christmasfm.com/wp-content/uploads/cropped-cfm-hat-512x512-1-180x180.png"
       },
       {
        "name": "Ciao World Radio",
@@ -1087,7 +1104,8 @@
         "classical",
         "oldies",
         "pop_hits"
-       ]
+       ],
+       "rb": "e2a68842-b99a-4175-a139-4c842bd0268b"
       },
       {
        "name": "RTÉ Lyric fm",
@@ -1102,11 +1120,14 @@
       },
       {
        "name": "RTÉ lyric fm",
-       "url": "https://liveaudio.rte.ie/hls-radio/lyric/chunklist.m3u8"
+       "url": "https://liveaudio.rte.ie/hls-radio/lyric/chunklist.m3u8",
+       "rb": "8ea007b1-157d-4972-a967-ffcb4baa61c7"
       },
       {
        "name": "RTÉ lyric fm",
-       "url": "https://icecast.rte.ie/lyric"
+       "url": "https://icecast.rte.ie/lyric",
+       "rb": "c96b0b99-6dc6-4b76-9971-b48a55c628ca",
+       "logo": "https://www.liveradio.ie/files/images/101096/resized/140x134c/rte_lyric_fm.png"
       },
       {
        "name": "RTÉ Lyric FM",
@@ -1137,7 +1158,8 @@
         "classical",
         "rock",
         "alternative_indie"
-       ]
+       ],
+       "rb": "6cafffd6-6368-47ff-a6e4-fc82945f7125"
       },
       {
        "name": "UDMI Radio",
@@ -1213,7 +1235,9 @@
        "tags": [
         "college_community",
         "various_eclectic"
-       ]
+       ],
+       "rb": "9615d92c-0601-11e8-ae97-52543be04c81",
+       "logo": "http://www.liveradio.ie/files/images/101415/resized/140x134c/dundalk_fm.jpg"
       },
       {
        "name": "Dundalk FM",
@@ -1454,7 +1478,9 @@
         "various_eclectic",
         "decade_1920s_50s",
         "decade_60s"
-       ]
+       ],
+       "rb": "e4e13330-27d5-4a5d-b1ac-f0fbd0fa2ca5",
+       "logo": "https://mm.aiircdn.com/619/5d5199be0aa8e.png"
       },
       {
        "name": "C103 Country",
@@ -1980,7 +2006,9 @@
        "tags": [
         "decade_70s",
         "rock"
-       ]
+       ],
+       "rb": "713f93f3-e43b-496c-a119-9e7fa4b603d1",
+       "logo": "https://uk.radio.net/300/gemradiogold.png?version=821b631d86bb60e11cc1f872384823d6"
       },
       {
        "name": "Gem Radio New Wave",
@@ -2164,7 +2192,9 @@
        "tags": [
         "decade_80s",
         "pop_hits"
-       ]
+       ],
+       "rb": "e2b4f407-6a8f-404e-a0bf-bed8cc8088c6",
+       "logo": "https://cdn-profiles.tunein.com/s306851/images/logog.jpg"
       },
       {
        "name": "Today FM 80s Listen live",
@@ -2317,7 +2347,9 @@
         "folk",
         "country",
         "decade_70s"
-       ]
+       ],
+       "rb": "599c433e-f416-4fee-b1c4-cef23900e1dd",
+       "logo": "https://mm.aiircdn.com/619/5d5199be0aa8e.png"
       },
       {
        "name": "Charity Radio Gold",
@@ -2435,7 +2467,9 @@
         "decade_80s",
         "oldies",
         "hip_hop_rap"
-       ]
+       ],
+       "rb": "40fec7f4-fac4-41e1-8322-a13a84e00269",
+       "logo": "https://static.mytuner.mobi/media/tvos_radios/KpTMbhCTjy.png"
       },
       {
        "name": "Heartbeat FM",
@@ -2500,7 +2534,9 @@
         "easy_listening",
         "pop_hits",
         "oldies"
-       ]
+       ],
+       "rb": "6cd3e750-4369-484f-81c9-f74f10c942f3",
+       "logo": "https://static2.mytuner.mobi/media/tvos_radios/414/irelands-love-radio.43bea26a.png"
       },
       {
        "name": "loveradioie",
@@ -2689,7 +2725,9 @@
         "electronic",
         "trance_goa",
         "house"
-       ]
+       ],
+       "rb": "001ea586-423e-4c2b-afee-460c60e24100",
+       "logo": "https://www.liveradio.ie/files/images/491331/resized/180x172c/screenshot_20211216_030436_instagram.jpg"
       },
       {
        "name": "Cork’s 96FM FIT MIX",
@@ -2837,7 +2875,8 @@
       },
       {
        "name": "Dublin’s 98FM Dance",
-       "url": "https://edge.audioxi.com/98DANCE"
+       "url": "https://edge.audioxi.com/98DANCE",
+       "rb": "147538f0-2ca5-4844-97af-90cd2be99c28"
       },
       {
        "name": "Extreme FM",
@@ -2897,7 +2936,9 @@
         "techno",
         "trance_goa",
         "hip_hop_rap"
-       ]
+       ],
+       "rb": "aa9ee750-9e83-4360-89db-ab8f4c416a79",
+       "logo": "https://mmo.aiircdn.com/606/655bcddbaa77f.png"
       },
       {
        "name": "Freedom FM",
@@ -3119,7 +3160,8 @@
         "electronic",
         "techno",
         "house"
-       ]
+       ],
+       "rb": "a7683a1d-462c-4fa8-8ea1-e61c597371ed"
       },
       {
        "name": "PHEVER IrI",
@@ -3131,7 +3173,8 @@
         "soul_rnb_funk",
         "disco_eurodance",
         "drum_and_bass"
-       ]
+       ],
+       "rb": "a7683a1d-462c-4fa8-8ea1-e61c597371ed"
       },
       {
        "name": "PHEVER TV-Radio",
@@ -3179,7 +3222,8 @@
       },
       {
        "name": "PowerFM Dublin 320Kbps MP3",
-       "url": "https://www.powerfm.org:8443/powerfm.mp3?n=03c5c4c8a972aeb10a2f"
+       "url": "https://www.powerfm.org:8443/powerfm.mp3?n=03c5c4c8a972aeb10a2f",
+       "rb": "8c58327c-b6cc-458a-a857-3bd93a56e4df"
       },
       {
        "name": "Progressive & Tech-house on MixLive.ie",
@@ -3203,7 +3247,8 @@
         "house",
         "soul_rnb_funk",
         "chillout_lounge"
-       ]
+       ],
+       "rb": "ba6fb930-d9be-4b59-bf8c-2c24c5db6699"
       },
       {
        "name": "Pure Radio",
@@ -3244,7 +3289,9 @@
         "electronic",
         "pop_hits",
         "house"
-       ]
+       ],
+       "rb": "9bd7e003-fa39-4b83-b402-eb85434dbc0d",
+       "logo": "https://irp.cdn-website.com/af95f693/site_favicon_16_1676457849374.ico"
       },
       {
        "name": "RetroNow",
@@ -3339,7 +3386,8 @@
       },
       {
        "name": "Storm North East FM",
-       "url": "https://stormnortheast.com:8443/storm"
+       "url": "https://stormnortheast.com:8443/storm",
+       "rb": "ba03ebeb-2dc2-41d2-bf07-093e4fe72a6d"
       },
       {
        "name": "Submit Promo on MixLive.ie",
@@ -3443,7 +3491,8 @@
        "tags": [
         "electronic",
         "trance_goa"
-       ]
+       ],
+       "rb": "a5be3d91-3546-11ea-8dd7-52543be04c81"
       },
       {
        "name": "TrancePulse Dublin",
@@ -3452,7 +3501,9 @@
         "electronic",
         "trance_goa",
         "drum_and_bass"
-       ]
+       ],
+       "rb": "4303734f-8ddd-4ecf-b78b-cc5a1c3347a7",
+       "logo": "https://trancepulsefm.ie/wp-content/uploads/elementor/thumbs/Trancepulse-1-qhvmeannx5ha8zqboniuwvif323gi2k5pqrpcwjovs.png"
       },
       {
        "name": "TrancePulse Dublin",
@@ -3535,7 +3586,8 @@
         "world",
         "trance_goa",
         "electronic"
-       ]
+       ],
+       "rb": "2b33fcdc-8eba-4a2d-9e93-59050bd80bb2"
       },
       {
        "name": "Ceol FM",
@@ -3701,7 +3753,8 @@
        "tags": [
         "various_eclectic",
         "folk"
-       ]
+       ],
+       "rb": "db747080-d906-484c-9132-4b289dbb9c26"
       },
       {
        "name": "Irish Pub Radio",
@@ -3766,7 +3819,9 @@
       },
       {
        "name": "Radio Siamsa",
-       "url": "https://cast02.siamsa.ie/radio/8000/radio.mp3"
+       "url": "https://cast02.siamsa.ie/radio/8000/radio.mp3",
+       "rb": "aa92d0d1-fce2-4897-9211-0a10fd879471",
+       "logo": "https://siamsa.ie/favicon.ico"
       },
       {
        "name": "RosFM 94.6",
@@ -3913,7 +3968,8 @@
         "oldies",
         "jazz",
         "rock"
-       ]
+       ],
+       "rb": "c1b571b9-5aee-4ff1-952b-c3159338075a"
       },
       {
        "name": "Christmas FM - Classics",
@@ -3937,7 +3993,9 @@
         "news_talk",
         "soul_rnb_funk",
         "country"
-       ]
+       ],
+       "rb": "96570d0f-a8c9-4083-bfd1-0cd783663662",
+       "logo": "https://christmasfm.com/wp-content/uploads/cropped-cfm-hat-512x512-1-180x180.png"
       },
       {
        "name": "Christmas FM Classics",
@@ -3954,7 +4012,9 @@
         "country",
         "pop_hits",
         "jazz"
-       ]
+       ],
+       "rb": "ba3115af-e5a8-4b36-afdd-8fc5d9d1ef02",
+       "logo": "https://christmasfm.com/wp-content/uploads/cropped-cfm-hat-512x512-1-192x192.png"
       },
       {
        "name": "Christmas FM Ireland",
@@ -4440,7 +4500,8 @@
        "tags": [
         "news_talk",
         "world"
-       ]
+       ],
+       "rb": "7daeeed1-ab41-44b2-af95-532ad0ab0fc7"
       },
       {
        "name": "Clare FM",
@@ -4476,7 +4537,9 @@
         "college_community",
         "decade_70s",
         "decade_60s"
-       ]
+       ],
+       "rb": "1c33aa8c-bb01-412f-aa63-e94aa6c33770",
+       "logo": "https://www.liveradio.ie/files/images/344781/resized/180x172c/clonmellon_community_radio.jpg"
       },
       {
        "name": "Community Radio Youghal",
@@ -4662,7 +4725,9 @@
         "soul_rnb_funk",
         "sports",
         "electronic"
-       ]
+       ],
+       "rb": "ad48771d-17a7-11ea-a620-52543be04c81",
+       "logo": "https://www.98fm.com/favicon.ico?v=11"
       },
       {
        "name": "Dundalk Bay and North Dublin Bay Marine",
@@ -4825,7 +4890,9 @@
         "news_talk",
         "pop_hits",
         "college_community"
-       ]
+       ],
+       "rb": "df3c1b03-8de1-4e39-9d1c-c823024e538c",
+       "logo": "https://liffeysoundfm.ie/wp-content/uploads/2017/01/Logo_edit-300x239.jpg"
       },
       {
        "name": "Limerick City Community Radio",
@@ -4874,7 +4941,9 @@
         "easy_listening",
         "ambient_relax",
         "country"
-       ]
+       ],
+       "rb": "d45a9c6f-8526-11e9-aa30-52543be04c81",
+       "logo": "https://mm.aiircdn.com/617/5d77b07fec8c4.png"
       },
       {
        "name": "LMFM",
@@ -4899,7 +4968,9 @@
         "rock",
         "folk",
         "oldies"
-       ]
+       ],
+       "rb": "d076cfe4-9ce5-4698-8173-e205d3b7a2d9",
+       "logo": "https://lcrfm.ie/upload/design/63e2f0016ab023.27627383.png"
       },
       {
        "name": "Mid West Radio",
@@ -4985,7 +5056,9 @@
        "tags": [
         "news_talk",
         "sports"
-       ]
+       ],
+       "rb": "395c7b09-6311-44d2-9593-61185e2c6b7a",
+       "logo": "https://www.newstalk.com/i/android-icon-192x192.png?v=6"
       },
       {
        "name": "Newstalk",
@@ -5046,7 +5119,9 @@
       },
       {
        "name": "Off The Ball",
-       "url": "https://stream.audioxi.com/OTB"
+       "url": "https://stream.audioxi.com/OTB",
+       "rb": "8207a7a8-9644-4088-9949-05a98709f159",
+       "logo": "https://www.offtheball.com/images/logo-stacked-otb.svg?v1694182767"
       },
       {
        "name": "Open Your Mind Radio",
@@ -5215,7 +5290,8 @@
         "news_talk",
         "pop_hits",
         "folk"
-       ]
+       ],
+       "rb": "1692f135-2fca-4d2d-a315-5019bc890635"
       },
       {
        "name": "RTÉ Radio 1",
@@ -5223,7 +5299,8 @@
        "tags": [
         "news_talk",
         "sports"
-       ]
+       ],
+       "rb": "02dd025e-d691-4310-bd2f-cf16007bdefb"
       },
       {
        "name": "RTÉ Radio 1",
@@ -5285,7 +5362,8 @@
         "news_talk",
         "sports",
         "college_community"
-       ]
+       ],
+       "rb": "e0e39893-e989-4ec3-a57a-e184c4e0af7a"
       },
       {
        "name": "Shannonside",
@@ -5408,7 +5486,8 @@
         "college_community",
         "news_talk"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "65f29258-bc0a-4e9d-877d-6a6ef688e1a9"
       },
       {
        "name": "UCC FM",
@@ -5592,7 +5671,9 @@
         "decade_70s",
         "decade_60s",
         "electronic"
-       ]
+       ],
+       "rb": "7e75d295-da3d-41e9-9d69-757e7a281821",
+       "logo": "https://mmo.aiircdn.com/286/650a94ce36fd7.png"
       },
       {
        "name": "Classic Hits 4FM 94.9",
@@ -5754,7 +5835,8 @@
         "chillout_lounge",
         "ambient_relax",
         "jazz"
-       ]
+       ],
+       "rb": "5b18e000-6063-465b-ae65-e1ee7bc15983"
       },
       {
        "name": "Harmony Beautiful Music",
@@ -5888,7 +5970,8 @@
         "decade_60s",
         "decade_80s",
         "decade_90s"
-       ]
+       ],
+       "rb": "ab60fa96-0abd-4896-9156-91874f8240d2"
       },
       {
        "name": "Premier Radio International",
@@ -6032,7 +6115,9 @@
         "pop_hits",
         "various_eclectic",
         "easy_listening"
-       ]
+       ],
+       "rb": "e4875d4e-23d7-4b8a-af50-48d5be4152a4",
+       "logo": "https://1doperadio.com/hcgi/platform/api/files/pbc_1792246063/dt5nt4pu4qxih9c/untitled_1_b9d9uytagp.png"
       },
       {
        "name": "Solid Gold Radio Ireland",
@@ -6046,12 +6131,14 @@
       {
        "name": "SOLID GOLD RADIO IRELAND",
        "url": "https://az11.yesstreaming.net:8020/radio.mp3",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "5c153996-c2f7-4bdb-a326-5b45dc7816a5"
       },
       {
        "name": "Solid Gold Radio Ireland",
        "url": "https://a1.asurahosting.com:10000/radio.mp3",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "b42d1cbe-acf8-4a1f-a077-5675daefeab2"
       },
       {
        "name": "solid gold radio ireland",
@@ -6133,7 +6220,9 @@
         "oldies",
         "decade_90s",
         "rock"
-       ]
+       ],
+       "rb": "d642f94f-cd58-4f64-bd7a-5e6359b2512c",
+       "logo": "https://90snetwork.com/"
       },
       {
        "name": "The Hit Network Ireland radio",
@@ -6176,7 +6265,9 @@
         "decade_80s",
         "rock"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "e596d6e2-8acb-4cf2-b9aa-f3727f7a1252",
+       "logo": "https://cdn.onlineradiobox.com/img/l/0/110200.v3.png"
       },
       {
        "name": "Timewarp Radio Ireland",
@@ -6232,7 +6323,9 @@
         "oldies",
         "holiday"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "67aba42b-46a0-465c-8267-c9418b18b6dd",
+       "logo": "https://img1.wsimg.com/isteam/ip/0f31d834-d4d9-411f-9779-2be3e50de7a6/dc1.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:710,cg:true"
       },
       {
        "name": "WMR Radio Online",
@@ -6282,12 +6375,15 @@
         "news_talk",
         "electronic",
         "various_eclectic"
-       ]
+       ],
+       "rb": "2ac62767-b780-4c89-9bee-00098817a794"
       },
       {
        "name": "BFBS Northern Ireland",
        "url": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs4.aac",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "3b7b87cd-3287-4a1e-b5fc-7f3d76b9e4a3",
+       "logo": "https://radio.bfbs.com/icons/icon-512x512.png?v=0afec91a27aaa6d57f2b000c6fbe8cac"
       },
       {
        "name": "Big Hits Radio UK",
@@ -6365,7 +6461,9 @@
         "techno",
         "easy_listening",
         "various_eclectic"
-       ]
+       ],
+       "rb": "140203eb-525f-11ea-be63-52543be04c81",
+       "logo": "https://mm.aiircdn.com/157/58de62950e8e5.jpg"
       },
       {
        "name": "Cork’s Red Hot",
@@ -6438,7 +6536,8 @@
       },
       {
        "name": "Finn Valley FM",
-       "url": "http://visual.shoutca.st:8000/?n=6053fec73d0eb1246981"
+       "url": "http://visual.shoutca.st:8000/?n=6053fec73d0eb1246981",
+       "rb": "a39642b1-9405-43cd-8e0e-bd0a476b30db"
       },
       {
        "name": "FM104",
@@ -6451,7 +6550,9 @@
         "hip_hop_rap",
         "chillout_lounge",
         "soul_rnb_funk"
-       ]
+       ],
+       "rb": "9cd72f5e-5395-4c61-a9a3-923a70cbffcb",
+       "logo": "https://mm.aiircdn.com/620/5d9f214ccc05f.png"
       },
       {
        "name": "FM104",
@@ -6495,7 +6596,9 @@
        "tags": [
         "pop_hits",
         "various_eclectic"
-       ]
+       ],
+       "rb": "96159d2f-0601-11e8-ae97-52543be04c81",
+       "logo": "https://highlandradio.com/wp-content/uploads/2022/01/cropped-highland-favicon-01-180x180.png"
       },
       {
        "name": "IRadio iLove iLocal",
@@ -6715,7 +6818,8 @@
       },
       {
        "name": "RTÉ 2FM",
-       "url": "https://liveaudio.rte.ie/hls-radio/2fm/chunklist.m3u8"
+       "url": "https://liveaudio.rte.ie/hls-radio/2fm/chunklist.m3u8",
+       "rb": "f11919a5-3545-47a9-a420-80c5be17fe38"
       },
       {
        "name": "RTÉ 2fm",
@@ -6749,7 +6853,9 @@
        "tags": [
         "pop_hits",
         "various_eclectic"
-       ]
+       ],
+       "rb": "79275323-ea2c-11e9-a96c-52543be04c81",
+       "logo": "http://www.hospitalradio.ie/images/logo.png"
       },
       {
        "name": "ShannonSide FM",
@@ -6807,7 +6913,9 @@
         "pop_hits",
         "decade_80s"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "51b12504-53a5-4a90-9cf0-097b0acfd891",
+       "logo": "https://www.todayfm.com/favicon.ico?v=11"
       },
       {
        "name": "Touch Radio",
@@ -6823,7 +6931,9 @@
         "rock",
         "electronic",
         "alternative_indie"
-       ]
+       ],
+       "rb": "39e36b50-06aa-4588-88c0-5de002af1e1e",
+       "logo": "https://www.turbo80s.com/images/apple-scanner-icon-144x144.png"
       },
       {
        "name": "ULFM radio",
@@ -7143,7 +7253,8 @@
         "electronic",
         "pop_hits",
         "decade_80s"
-       ]
+       ],
+       "rb": "1a67978d-cf66-4bdf-b902-31017f9b5936"
       },
       {
        "name": "Gem Radio Gold",
@@ -7448,7 +7559,8 @@
         "pop_hits",
         "folk",
         "electronic"
-       ]
+       ],
+       "rb": "92d157ae-2a18-11e8-91bf-52543be04c81"
       },
       {
        "name": "Real FM Listen live",
@@ -7594,7 +7706,8 @@
         "decade_90s",
         "news_talk",
         "various_eclectic"
-       ]
+       ],
+       "rb": "d0a1da9f-46b3-11e9-aa55-52543be04c81"
       },
       {
        "name": "Today FM",
@@ -7606,7 +7719,9 @@
         "decade_90s",
         "easy_listening",
         "news_talk"
-       ]
+       ],
+       "rb": "124b8ece-53b7-11ea-be63-52543be04c81",
+       "logo": "https://www.todayfm.com/i/android-icon-192x192.png?v=6"
       },
       {
        "name": "Today FM",
@@ -7618,7 +7733,9 @@
         "pop_hits",
         "easy_listening"
        ],
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "57d37976-f406-11e9-a96c-52543be04c81",
+       "logo": "https://www.todayfm.com/i/apple-touch-icon.png?v=6"
       },
       {
        "name": "UCBI WORSHIP",
@@ -8285,7 +8402,9 @@
         "news_talk",
         "pop_hits",
         "rock"
-       ]
+       ],
+       "rb": "96159ba6-0601-11e8-ae97-52543be04c81",
+       "logo": "https://www.midwestradio.ie/wp-content/uploads/2024/10/cropped-favicon-180x180.webp"
       },
       {
        "name": "Ocean FM",
@@ -8652,7 +8771,9 @@
       },
       {
        "name": "CFC FM",
-       "url": "https://visual.shoutca.st/stream/crcfm?n=f3cab878598ecc2e5f4b"
+       "url": "https://visual.shoutca.st/stream/crcfm?n=f3cab878598ecc2e5f4b",
+       "rb": "61d45bd6-dc37-4965-b27d-7ffa66667240",
+       "logo": "https://crcfm.ie/uploads/1/4/7/7/147722784/published/crcfm-3d-logo.png?1713432061"
       },
       {
        "name": "CharityRadio",
@@ -9125,7 +9246,9 @@
       {
        "name": "Head Wax Radio",
        "url": "https://headwaxradio.radioca.st/stream",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "08d1d016-ff49-4e50-95be-e2ded8a32924",
+       "logo": "https://www.wix.com/favicon.ico"
       },
       {
        "name": "HeatBeat Radio",
@@ -9248,7 +9371,9 @@
       {
        "name": "Irish Pub Radio",
        "url": "https://solid24.streamupsolutions.com:2199/tunein/vbkiacud.pls?n=ea18bb11e4dc3f743c4c",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "c5613036-f32f-40c8-bce0-c980f55c5a11",
+       "logo": "https://www.irishpubradio.com/images/logo.png"
       },
       {
        "name": "Irish Radio",
@@ -9327,7 +9452,9 @@
       {
        "name": "Kfm 97.6",
        "url": "https://live-bauerie.sharp-stream.com/KFM?_=668840?n=6ab8908e840c61802fa9",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "2b930575-e0cd-41fa-8d81-8d8963f1666d",
+       "logo": "https://mmo.aiircdn.com/516/607824528e9c8.png"
       },
       {
        "name": "Kfm Radio",
@@ -9628,7 +9755,9 @@
       {
        "name": "NearFM",
        "url": "http://stream11.shoutcastsolutions.com:8114/stream",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "fa144ef5-60a2-4866-94ea-b44d2a197622",
+       "logo": "https://nearfm.ie/favicon.ico"
       },
       {
        "name": "Neo Web Radio Best Of",
@@ -9893,7 +10022,9 @@
       },
       {
        "name": "PowerFM Dublin 320Kbps Ogg/Vorbis",
-       "url": "https://www.powerfm.org:8443/powerfm.ogg?n=12034ec69c9e22dc6fc8"
+       "url": "https://www.powerfm.org:8443/powerfm.ogg?n=12034ec69c9e22dc6fc8",
+       "rb": "e3119588-7d01-446c-9bcc-5cb9e302943f",
+       "logo": "https://powerfm.org/favicon.ico"
       },
       {
        "name": "PRADIO",
@@ -10001,7 +10132,8 @@
       {
        "name": "Radio Maria",
        "url": "http://dreamsiteradiocp2.com:8014/live",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "9615f63a-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Radio Maria - Ireland",
@@ -10032,7 +10164,9 @@
       {
        "name": "Radio Psychobilly",
        "url": "http://stream.laut.fm/radio-psychobilly.m3u?n=6266b98dafd196ebe6ae",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "af936b96-04ed-4e29-9eb4-0cbeb1377fb6",
+       "logo": "https://assets.laut.fm/ab112c237fd76ec3e2a43ad3ac46f8e9?t=_120x120"
       },
       {
        "name": "Radio Ri Ra",
@@ -10091,7 +10225,8 @@
       },
       {
        "name": "Raidió na Gaeltachta",
-       "url": "https://liveaudio.rte.ie/hls-radio/rnag/chunklist.m3u8"
+       "url": "https://liveaudio.rte.ie/hls-radio/rnag/chunklist.m3u8",
+       "rb": "069656f5-0e23-4564-bd0a-33d9b220415b"
       },
       {
        "name": "ramas2",
@@ -10359,7 +10494,8 @@
       {
        "name": "Sunshine Soul – Dublin – Leinster – IE",
        "url": "https://live-bauerie.sharp-stream.com/SSOULAAC",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "36062ee8-fd2d-4d16-b639-180b4f2b8eb8"
       },
       {
        "name": "SuperMusic",
@@ -10483,7 +10619,8 @@
       },
       {
        "name": "Today FM 80's",
-       "url": "http://stream.audioxi.com/T80"
+       "url": "http://stream.audioxi.com/T80",
+       "rb": "915bd41e-6637-4d3d-87ef-1ab70b38829e"
       },
       {
        "name": "Today FM 90's",
@@ -10512,7 +10649,8 @@
       {
        "name": "Total Country Inchicore",
        "url": "https://totalcountry.radioca.st/stream",
-       "language_inferred": true
+       "language_inferred": true,
+       "rb": "4eddf8c5-0fe3-4009-8d0a-830b0f153dab"
       },
       {
        "name": "Totally Music Radio",
@@ -10657,7 +10795,8 @@
       },
       {
        "name": "West Cork FM",
-       "url": "http://lyra.shoutca.st:8147/live?n=f5c31f109222fa7f9e67"
+       "url": "http://lyra.shoutca.st:8147/live?n=f5c31f109222fa7f9e67",
+       "rb": "7a4a6299-f388-4e11-a8ba-b2a4002ea927"
       },
       {
        "name": "West Limerick 102FM",
@@ -10721,7 +10860,8 @@
         "news_talk",
         "alternative_indie",
         "college_community"
-       ]
+       ],
+       "rb": "a67d4b9c-fc8f-482f-adeb-3c3d0a54c5fa"
       },
       {
        "name": "Radio Active",
@@ -10757,7 +10897,9 @@
       },
       {
        "name": "Symphony Radio",
-       "url": "https://christmasfm.cdnstream1.com/2551_128.mp3"
+       "url": "https://christmasfm.cdnstream1.com/2551_128.mp3",
+       "rb": "df44c4d5-df63-4f39-9230-ea57fa8d916b",
+       "logo": "https://imgur.com/Kc1dhwp"
       }
      ]
     },
@@ -10838,7 +10980,8 @@
         "decade_1920s_50s",
         "rock",
         "soul_rnb_funk"
-       ]
+       ],
+       "rb": "6de5904b-f41d-45f6-be47-c1307df27633"
       }
      ]
     },
@@ -11100,7 +11243,9 @@
         "easy_listening",
         "pop_hits",
         "college_community"
-       ]
+       ],
+       "rb": "96157e6f-0601-11e8-ae97-52543be04c81",
+       "logo": "https://www.raidionalife.ie/wp-content/uploads/cropped-favicon-180x180.png"
       },
       {
        "name": "RTÉ 2fm",
@@ -11362,7 +11507,8 @@
        "tags": [
         "world",
         "folk"
-       ]
+       ],
+       "rb": "e30883d9-2a3d-4c5b-8518-a472646f5a4a"
       },
       {
        "name": "Midwest Radio",
