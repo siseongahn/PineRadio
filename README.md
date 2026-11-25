@@ -169,7 +169,9 @@ A full rebuild takes about 1–2 minutes and needs only the Python 3 standard li
   - If a station has no language tag, it gets the most common language among stations from the same country and is marked with `language_inferred`.
 - **Unclassified stations:** stations with no usable country end up in `radio/unknown.json`. Stations with no genre are filed under `unclassified`.
 
-To adjust the rules, edit `GENRE_RULES` in `tools/build_stations.py` or the tables in `tools/geo_lang.py`, then rebuild.
+- **Genre overrides:** `GENRE_OVERRIDES` in `tools/build_stations.py` sets the genre by station name, ahead of the playlist tags. For example, every South Korean station named "KBS" is filed under news & talk.
+
+To adjust the rules, edit `GENRE_RULES` or `GENRE_OVERRIDES` in `tools/build_stations.py` or the tables in `tools/geo_lang.py`, then rebuild.
 
 ## Hosting
 

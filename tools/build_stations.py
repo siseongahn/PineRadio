@@ -83,6 +83,19 @@ COMPILED = [(g, re.compile(rx)) for g, rx in GENRE_RULES]
 # 대표 장르 선정 시 가중치 (연대/잡다 목록은 실제 장르보다 우선순위 낮음)
 WEIGHT = defaultdict(lambda: 1.0, {g: 0.5 for g, _ in GENRE_RULES
                                     if g.startswith("decade_") or g in ("various_eclectic", "college_community", "pop_hits")})
+# 방송 이름으로 장르를 강제 지정: (국가, 이름 정규식, 장르). 플레이리스트 태그보다 우선.
+GENRE_OVERRIDES = [
+    ("South Korea", re.compile(r"\bKBS\b", re.I), "news_talk"),   # 한국 KBS 방송은 모두 뉴스/토크
+]
+
+
+def override_genre(country, name, genre):
+    for c, rx, g in GENRE_OVERRIDES:
+        if country == c and rx.search(name):
+            return g
+    return genre
+
+
 SKIP_FILES = re.compile(r"^---")  # 저장소 전체 합본 파일(everything/sorted/randomized)
 AUDIO_EXT = {"mp3", "ogg", "m4a", "m4b", "flac", "opus", "aac", "wav", "wma"}
 
@@ -253,7 +266,7 @@ def build_radio(root, out):
             rec["country_inferred"] = True
         if s["inferred"]:
             rec["language_inferred"] = True
-        tree[s["c"]][s["l"]][s["g"]].append(rec)
+        tree[s["c"]][s["l"]][override_genre(s["c"], rec["name"], s["g"])].append(rec)
 
     rdir = os.path.join(out, "radio")
     os.makedirs(rdir, exist_ok=True)

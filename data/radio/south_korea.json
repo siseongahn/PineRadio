@@ -316,7 +316,7 @@
      ]
     },
     "classical": {
-     "count": 12,
+     "count": 10,
      "stations": [
       {
        "name": "Asami-Radio",
@@ -389,19 +389,6 @@
         "pop_hits",
         "classical"
        ],
-       "language_inferred": true
-      },
-      {
-       "name": "KBS Classic FM",
-       "url": "http://serpent0.duckdns.org:8088/kbsfm.pls",
-       "tags": [
-        "classical",
-        "news_talk"
-       ]
-      },
-      {
-       "name": "KBS Classic FM",
-       "url": "http://kbs-radio.gscdn.com/tunein_1fm/_definst_/tunein_1fm.stream/playlist.m3u8",
        "language_inferred": true
       },
       {
@@ -1018,7 +1005,7 @@
      ]
     },
     "news_talk": {
-     "count": 106,
+     "count": 122,
      "stations": [
       {
        "name": "3 Radio KBS",
@@ -1347,8 +1334,43 @@
        ]
       },
       {
+       "name": "KBS 1라디오 (KBS Radio 1) – 97.3 FM – Seoul – Republic of Korea",
+       "url": "https://1radio.gscdn.kbs.co.kr/1radio_192_4.m3u8?Expires=1668266116&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xcmFkaW8uZ3NjZG4ua2JzLmNvLmtyLzFyYWRpb18xOTJfNC5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjY4MjY2MTE2fX19",
+       "language_inferred": true
+      },
+      {
+       "name": "KBS 2라디오 해피FM (KBS Radio 2 – Happy FM) – 106.1 FM – Seoul – Republic of Korea",
+       "url": "https://2radio.gscdn.kbs.co.kr/2radio_192_3.m3u8?Expires=1668267189&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ycmFkaW8uZ3NjZG4ua2JzLmNvLmtyLzJyYWRpb18xOTJfMy5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjY4MjY3MTg5fX19",
+       "language_inferred": true
+      },
+      {
+       "name": "KBS Classic FM",
+       "url": "http://serpent0.duckdns.org:8088/kbsfm.pls",
+       "tags": [
+        "classical",
+        "news_talk"
+       ]
+      },
+      {
+       "name": "KBS Classic FM",
+       "url": "http://kbs-radio.gscdn.com/tunein_1fm/_definst_/tunein_1fm.stream/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
        "name": "KBS Cool FM",
        "url": "http://serpent0.duckdns.org:8088/kbs2fm.pls"
+      },
+      {
+       "name": "KBS News - Seoul Calling (updated Mon thru Fri)",
+       "url": "http://worldvod.play.kbs.co.kr/podcast/Podcast/Seoul/"
+      },
+      {
+       "name": "KBS World - Win.K 11",
+       "url": "http://kbsrki.gscdn.com:1935/kbsrki2/_definst_/kbsrki2.stream/playlist.m3u8"
+      },
+      {
+       "name": "KBS World - نشرة الأخبار (updated Mon thru Sat)",
+       "url": "http://worldvod.play.kbs.co.kr/podcast/Podcast/News/a200817.mp3"
       },
       {
        "name": "KBS World Radio",
@@ -1361,9 +1383,31 @@
        "language_inferred": true
       },
       {
+       "name": "KBS World Radio",
+       "url": "https://18733.live.streamtheworld.com/KSFC_FM.mp3",
+       "language_inferred": true
+      },
+      {
+       "name": "KBS World Radio - Ch 1",
+       "url": "http://kbsrki.gscdn.com:1935/kbsrki1/_definst_/kbsrki1.stream/playlist.m3u8"
+      },
+      {
+       "name": "KBS World Radio - Channel 2",
+       "url": "http://kbsrki.gscdn.com/kbsrki2/_definst_/kbsrki2.stream/playlist.m3u8"
+      },
+      {
+       "name": "KBS World Radio - German Stream",
+       "url": "http://worldradio.gscdn.kbs.co.kr/worldradio_192_1.m3u8"
+      },
+      {
        "name": "KBS World Radio Korean",
        "url": "http://world.kbs.co.kr/korean/",
        "country_inferred": true,
+       "language_inferred": true
+      },
+      {
+       "name": "KBS World Radio – Ch 1 – Seoul – Republic of Korea",
+       "url": "https://wink11.gscdn.kbs.co.kr/ch1_64_2.m3u8?Expires=1668265773&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly93aW5rMTEuZ3NjZG4ua2JzLmNvLmtyL2NoMV82NF8yLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NjgyNjU3NzN9fX1dfQ__&Sig",
        "language_inferred": true
       },
       {
@@ -1376,8 +1420,28 @@
        "language_inferred": true
       },
       {
+       "name": "KBS 제2라디오",
+       "url": "http://kbs-radio.gscdn.com/tunein_2radio/_definst_/tunein_2radio.stream/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
        "name": "KBS 제3라디오",
        "url": "http://kbs-radio.gscdn.com/tunein_3radio/_definst_/tunein_3radio.stream/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "KBS 쿨FM",
+       "url": "http://kbs-radio.gscdn.com/tunein_2fm/_definst_/tunein_2fm.stream/playlist.m3u8",
+       "language_inferred": true
+      },
+      {
+       "name": "KBS 쿨FM(CoolFM)-KBS 제 2 FM – Seoul – Republic of Korea",
+       "url": "https://2fm.gscdn.kbs.co.kr/2fm_192_3.m3u8?Expires=1668266871&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0uZ3NjZG4ua2JzLmNvLmtyLzJmbV8xOTJfMy5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjY4MjY2ODcxfX19XX0_&Signature",
+       "language_inferred": true
+      },
+      {
+       "name": "KBS 클래식FM(Classic FM)-KBS제1FM – 90.3 FM – Masan – Gyeongsangnam-do – Republic of Korea",
+       "url": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Expires=1668267094&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLzFmbV8xOTJfMi5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjY4MjY3MDk0fX19XX0_&Signature",
        "language_inferred": true
       },
       {
@@ -1763,7 +1827,7 @@
      ]
     },
     "pop_hits": {
-     "count": 43,
+     "count": 41,
      "stations": [
       {
        "name": "24sky",
@@ -1865,16 +1929,6 @@
       {
        "name": "K.B.I.C.",
        "url": "http://kbic.info:8880/http://kbic.info:8882/",
-       "language_inferred": true
-      },
-      {
-       "name": "KBS 제2라디오",
-       "url": "http://kbs-radio.gscdn.com/tunein_2radio/_definst_/tunein_2radio.stream/playlist.m3u8",
-       "language_inferred": true
-      },
-      {
-       "name": "KBS 쿨FM",
-       "url": "http://kbs-radio.gscdn.com/tunein_2fm/_definst_/tunein_2fm.stream/playlist.m3u8",
        "language_inferred": true
       },
       {
@@ -2253,7 +2307,7 @@
      ]
     },
     "various_eclectic": {
-     "count": 11,
+     "count": 9,
      "stations": [
       {
        "name": "AFN Casey(동두천)",
@@ -2270,14 +2324,6 @@
       {
        "name": "Jazzheart",
        "url": "http://jazzheart.inlive.co.kr/listen.pls"
-      },
-      {
-       "name": "KBS World Radio - Channel 2",
-       "url": "http://kbsrki.gscdn.com/kbsrki2/_definst_/kbsrki2.stream/playlist.m3u8"
-      },
-      {
-       "name": "KBS World Radio - German Stream",
-       "url": "http://worldradio.gscdn.kbs.co.kr/worldradio_192_1.m3u8"
       },
       {
        "name": "MBC 4 U FM ( 울산MBC )",
@@ -2439,7 +2485,7 @@
      ]
     },
     "unclassified": {
-     "count": 129,
+     "count": 119,
      "stations": [
       {
        "name": "AFN The Eagle Osan",
@@ -2664,52 +2710,6 @@
       {
        "name": "kbc 광주방송 MyFM",
        "url": "http://119.200.131.11:1935/KBCFM/kbcra_aac/playlist.m3u8"
-      },
-      {
-       "name": "KBS 1라디오 (KBS Radio 1) – 97.3 FM – Seoul – Republic of Korea",
-       "url": "https://1radio.gscdn.kbs.co.kr/1radio_192_4.m3u8?Expires=1668266116&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xcmFkaW8uZ3NjZG4ua2JzLmNvLmtyLzFyYWRpb18xOTJfNC5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjY4MjY2MTE2fX19",
-       "language_inferred": true
-      },
-      {
-       "name": "KBS 2라디오 해피FM (KBS Radio 2 – Happy FM) – 106.1 FM – Seoul – Republic of Korea",
-       "url": "https://2radio.gscdn.kbs.co.kr/2radio_192_3.m3u8?Expires=1668267189&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ycmFkaW8uZ3NjZG4ua2JzLmNvLmtyLzJyYWRpb18xOTJfMy5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjY4MjY3MTg5fX19",
-       "language_inferred": true
-      },
-      {
-       "name": "KBS News - Seoul Calling (updated Mon thru Fri)",
-       "url": "http://worldvod.play.kbs.co.kr/podcast/Podcast/Seoul/"
-      },
-      {
-       "name": "KBS World - Win.K 11",
-       "url": "http://kbsrki.gscdn.com:1935/kbsrki2/_definst_/kbsrki2.stream/playlist.m3u8"
-      },
-      {
-       "name": "KBS World - نشرة الأخبار (updated Mon thru Sat)",
-       "url": "http://worldvod.play.kbs.co.kr/podcast/Podcast/News/a200817.mp3"
-      },
-      {
-       "name": "KBS World Radio",
-       "url": "https://18733.live.streamtheworld.com/KSFC_FM.mp3",
-       "language_inferred": true
-      },
-      {
-       "name": "KBS World Radio - Ch 1",
-       "url": "http://kbsrki.gscdn.com:1935/kbsrki1/_definst_/kbsrki1.stream/playlist.m3u8"
-      },
-      {
-       "name": "KBS World Radio – Ch 1 – Seoul – Republic of Korea",
-       "url": "https://wink11.gscdn.kbs.co.kr/ch1_64_2.m3u8?Expires=1668265773&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly93aW5rMTEuZ3NjZG4ua2JzLmNvLmtyL2NoMV82NF8yLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NjgyNjU3NzN9fX1dfQ__&Sig",
-       "language_inferred": true
-      },
-      {
-       "name": "KBS 쿨FM(CoolFM)-KBS 제 2 FM – Seoul – Republic of Korea",
-       "url": "https://2fm.gscdn.kbs.co.kr/2fm_192_3.m3u8?Expires=1668266871&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0uZ3NjZG4ua2JzLmNvLmtyLzJmbV8xOTJfMy5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjY4MjY2ODcxfX19XX0_&Signature",
-       "language_inferred": true
-      },
-      {
-       "name": "KBS 클래식FM(Classic FM)-KBS제1FM – 90.3 FM – Masan – Gyeongsangnam-do – Republic of Korea",
-       "url": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Expires=1668267094&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLzFmbV8xOTJfMi5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjY4MjY3MDk0fX19XX0_&Signature",
-       "language_inferred": true
       },
       {
        "name": "KFM 99.9",
