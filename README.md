@@ -37,6 +37,7 @@ Then open <http://localhost:8000>. Locally the page plays every stream directly,
   - It can cover the current selection or everything.
   - The "everywhere" search loads files in the background and shows results as they arrive.
 - **Favorites:** stations and playlists, saved in the browser.
+- **Hide the list:** the button at the left of the header closes and reopens the country / collection list. The choice is saved in the browser.
 
 ### Playback
 - **Formats:** plain audio streams and HLS (`.m3u8`, via [hls.js](https://github.com/video-dev/hls.js)).
