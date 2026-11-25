@@ -1,9 +1,9 @@
 ---
 name: pineradio-stream-proxy
-description: Install, update, verify or troubleshoot the PineRadio stream relay (tools/stream_proxy.py behind nginx) that lets plain-http radio streams play on the https site https://digipine.com/radio/. Use when http stations fail to play on the https site ("Mixed Content", "automatically upgraded to HTTPS", "재생할 수 없는 스트림", "http 방송 재생 안 됨"), when setting up the relay on a server, or after changing tools/stream_proxy.py or the station data.
+description: Install, update, verify or troubleshoot how https://digipine.com/radio/ is served — the PineRadio stream relay (tools/stream_proxy.py behind nginx) that lets plain-http radio streams play on the https site, and the nginx rules for which repo files are public (index.html, data/, icons/, manifest.webmanifest) and which must stay hidden (tools/, deploy/, dotfiles). Use when http stations fail to play on the https site ("Mixed Content", "automatically upgraded to HTTPS", "재생할 수 없는 스트림", "http 방송 재생 안 됨"), when a site file returns 404 on the server (e.g. manifest.webmanifest, icons), when setting up the server, or after changing tools/stream_proxy.py, the station data or the set of top-level site files.
 ---
 
-# PineRadio stream relay
+# PineRadio hosting and stream relay
 
 ## Why it exists
 `https://digipine.com/radio/` is served over https. Browsers block plain-http audio on https pages:
@@ -20,6 +20,49 @@ Files in this repo:
 - `deploy/nginx-stream-proxy.conf`: the `location = /radio/stream` block.
 - `deploy/pineradio-stream.service`: the systemd unit (runs unprivileged as a DynamicUser).
 - `index.html`: `playableUrl()` sends http URLs through the relay when `location.protocol === "https:"`.
+
+## Current status (last checked 2026-11-25)
+Checked from outside with curl:
+
+| Item | Status |
+|---|---|
+| Relay | Installed and working. `/radio/stream?u=<http station>` → `200 audio/mpeg`. |
+| Site files | `index.html`, `data/…`, `icons/favicon.ico`, `icons/*.png` → 200. |
+| `manifest.webmanifest` | **404**. nginx's public allowlist doesn't include it yet; fix it as described in "Public files" below. |
+| Private paths | `tools/…` and `deploy/…` → 404, `.git/…` and `.codex/…` → 403. Correct, keep it that way. |
+
+Re-run the checks in "Verify" before trusting this table.
+
+## Public files (what nginx may serve)
+The checkout contains more than the website, so nginx must serve only these:
+
+| Path under `/radio/` | Content type | Notes |
+|---|---|---|
+| `index.html` (and `/radio/` itself) | `text/html` | the whole app |
+| `data/**.json` | `application/json` | station and audiobook data; gzip helps a lot (16–50 MB files) |
+| `icons/*.png`, `icons/favicon.ico` | `image/png`, `image/x-icon` | favicon, apple-touch-icon, manifest icons, header logo |
+| `manifest.webmanifest` | `application/manifest+json` | home-screen install metadata |
+| `stream` | proxied | the relay, see below |
+
+Never serve `tools/`, `deploy/`, `.git/`, `.codex/`, `.forgejo/`, `README.md` or `*.py`.
+
+The live config already allows everything except the manifest. How to add it depends on how the
+`/radio/` location filters files, so look at the config first (`sudo nginx -T | grep -n -A15 'location.*radio'`):
+- **Extension list** (e.g. `location ~ \.(html|json|png|ico)$`): add `webmanifest` to the list.
+  Make sure `mime.types` maps it with `application/manifest+json webmanifest;` (nginx ≥ 1.21
+  ships this; otherwise add a `types { application/manifest+json webmanifest; }` block).
+- **Explicit locations**: add one for the file:
+  ```nginx
+  location = /radio/manifest.webmanifest {
+      alias /srv/pineradio/manifest.webmanifest;
+      default_type application/manifest+json;
+  }
+  ```
+
+Then `sudo nginx -t && sudo systemctl reload nginx`.
+
+Whenever a new top-level site file or folder is added to the repo, update this table and the nginx
+allowlist in the same change.
 
 ## Server layout assumptions
 - The live checkout is `/srv/pineradio` (the Forgejo workflow `.forgejo/workflows/deploy.yml`
@@ -69,6 +112,17 @@ curl -s -m 6 -w ' %{http_code}\n' 'https://digipine.com/radio/stream?u=http%3A%2
 curl -s -m 6 -w ' %{http_code}\n' 'https://digipine.com/radio/stream?u=http%3A%2F%2F127.0.0.1%2F'
 ```
 
+Static files and privacy, also from any machine:
+```sh
+B=https://digipine.com/radio
+# must be 200 with the right type
+for p in / icons/favicon.ico icons/favicon-32.png icons/apple-touch-icon.png manifest.webmanifest data/index.json; do
+  curl -s -o /dev/null -m 10 -w "%{http_code} %{content_type} /$p\n" "$B/$p"; done
+# must NOT be 200
+for p in tools/stream_proxy.py deploy/pineradio-stream.service .git/HEAD .codex/skills/pineradio-stream-proxy/SKILL.md README.md; do
+  curl -s -o /dev/null -m 10 -w "%{http_code} /$p\n" "$B/$p"; done
+```
+
 Then open https://digipine.com/radio/ and play an http station (hover a row to see its URL). In
 DevTools → Network, the request should go to `stream?u=…` with status 200. The console should show
 no "Mixed Content" warning for audio.
@@ -77,6 +131,7 @@ The first test station may be offline someday. If it fails, pick another `http:/
 `data/radio/*.json` before concluding the relay is broken.
 
 ## Updating
+- **New public site file** (like `manifest.webmanifest` or `icons/`): allow it in nginx (see "Public files"). The deploy workflow copies the file to the server, but nginx won't serve a path it doesn't allow.
 - **Station data changes** (`data/` rebuilt and pushed): no action needed. The relay reloads its
   allowlist within 60 s of `data/index.json` changing.
 - **`tools/stream_proxy.py` changes**: the deploy workflow only fast-forwards the checkout, so restart
@@ -86,6 +141,8 @@ The first test station may be offline someday. If it fails, pick another `http:/
 ## Troubleshooting
 | Symptom | Likely cause / fix |
 |---|---|
+| `manifest.webmanifest` (or another new site file) returns 404 | nginx allowlist doesn't include it. See "Public files". Check that the file exists in `/srv/pineradio` first. |
+| Private path (`tools/`, `deploy/`, `.git/`) returns 200 | nginx is serving the whole checkout. Restrict the `/radio/` location to the files in "Public files" right away. |
 | `/radio/stream` returns 404 (nginx HTML page) | nginx location missing or in the wrong `server` block. Add it inside the https block for digipine.com and reload. |
 | 502 Bad Gateway from nginx | Relay not running. Check `systemctl status pineradio-stream` and `journalctl -u pineradio-stream -n 50`. |
 | 403 `host is not a known radio station` | The URL's host:port isn't in `data/radio/*.json` (by design), or the allowlist hasn't reloaded yet (wait 60 s or restart). |
