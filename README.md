@@ -37,7 +37,7 @@ Then open <http://localhost:8000>. Locally the page plays every stream directly,
   - It can cover the current selection or everything.
   - The "everywhere" search loads files in the background and shows results as they arrive.
 - **Favorites:** stations and playlists, saved in the browser.
-- **Station logos:** shown in the list, the player bar and the lock screen (Media Session). Logos come from the data; `tools/radiobrowser.py` fills in missing ones from [Radio Browser](https://www.radio-browser.info). Without a logo, the first letter of the name is shown.
+- **Station logos:** shown in the list, the player bar and the lock screen (Media Session). Logos come from the data; `tools/radiobrowser.py` fills in missing ones from [Radio Browser](https://www.radio-browser.info). As in PinePlayerPro, a logo sits on white (a non-square one inside an 8% margin), and a station without one gets a drawn radio picture: a transmitter tower, radio waves and a LIVE badge, with the station name on the lock-screen artwork.
 - **Station details:** the ⓘ button opens the station's country, language, genre, tags, bitrate and stream URL. It also loads live details from the Radio Browser API: homepage, codec, votes, plays in the last day and the last online check.
 - **Hide the list:** the button after the site name in the header closes and reopens the country / collection list. The choice is saved in the browser.
 

@@ -112,6 +112,10 @@ aside .filter input { width: 100%; padding: 6px 10px; border: 1px solid var(--li
   width: 40px; height: 40px; border-radius: 6px; background: var(--chip); object-fit: cover;
   display: grid; place-items: center; color: var(--muted); font-weight: 700; overflow: hidden;
 }
+/* station logos, as in PinePlayerPro: on white, a non-square logo fits inside an 8% margin */
+img.logo { background: #fff; object-fit: contain; padding: 8%; box-sizing: border-box; }
+img.logo.square { padding: 0; object-fit: cover; }
+img.logo.radio-art { background: none; padding: 0; object-fit: cover; }
 .info { min-width: 0; }
 .name { font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .sub { color: var(--muted); font-size: 12px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
@@ -819,14 +823,112 @@ function stationRow(r) {
   row.append(btn, logo, info, acts);
   return row;
 }
-function initial(name) { return el("div", "logo", (name || "?").trim().charAt(0).toUpperCase()); }
 // Station logo (from the data, filled from Radio Browser by tools/radiobrowser.py), or the first letter
 // of the name when there is none or it fails to load. http logos would be blocked on the https site.
 const usableLogo = u => /^https:\/\//i.test(u || "") || (/^http:\/\//i.test(u || "") && location.protocol !== "https:") ? u : null;
 function stationArt(url, name) {
-  if (!usableLogo(url)) return initial(name);
+  if (!usableLogo(url)) return radioArtImg();
   const img = el("img", "logo"); img.loading = "lazy"; img.referrerPolicy = "no-referrer"; img.alt = "";
-  img.src = url; img.onerror = () => img.replaceWith(initial(name));
+  img.onload = () => {
+    const w = img.naturalWidth, h = img.naturalHeight;
+    if (w < 8 || h < 8) return img.replaceWith(radioArtImg());          // a 1px tracker or broken icon
+    img.classList.toggle("square", Math.abs(w - h) <= Math.max(w, h) * 0.04);
+  };
+  img.onerror = () => img.replaceWith(radioArtImg());
+  img.src = url;
+  return img;
+}
+
+// ---------- internet radio art ----------
+// Port of PinePlayerPro's DGCreateInternetRadioImage (WebPlayer/DGItemArtwork.m): navy→purple gradient,
+// glow, transmitter tower with radio waves, red LIVE pill and, on large art, the station name.
+// Drawn once per name on a canvas; small places (list, player bar) share the nameless one.
+const radioArtCache = new Map();
+function radioArtURL(name, size = 640) {
+  const key = size + "|" + (name || "");
+  if (radioArtCache.has(key)) return radioArtCache.get(key);
+  const cv = document.createElement("canvas"); cv.width = cv.height = size;
+  const g = cv.getContext("2d");
+  const S = 640; g.scale(size / S, size / S);
+  const named = !!name, k = named ? 0.80 : 1.0;
+  const Y = y => S - y;                          // CoreGraphics (origin bottom-left) → canvas
+  const font = (w, px) => `${w} ${px}px -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif`;
+
+  const bg = g.createLinearGradient(0, 0, S, S);
+  bg.addColorStop(0, "#17215A"); bg.addColorStop(1, "#6B339E");
+  g.fillStyle = bg; g.fillRect(0, 0, S, S);
+
+  const tip = { x: S * 0.5, y: Y(S * (named ? 0.68 : 0.58)) };
+  const glow = g.createRadialGradient(tip.x, tip.y, 0, tip.x, tip.y, S * 0.46 * k);
+  glow.addColorStop(0, "rgba(255,255,255,.20)"); glow.addColorStop(1, "rgba(255,255,255,0)");
+  g.fillStyle = glow; g.fillRect(0, 0, S, S);
+
+  g.lineCap = "round"; g.lineJoin = "round";
+  const span = 0.30 * Math.PI;
+  for (let i = 0; i < 3; i++) {
+    const r = S * (0.12 + 0.085 * i) * k;
+    g.lineWidth = S * 0.028 * k; g.strokeStyle = `rgba(255,255,255,${0.95 - 0.25 * i})`;
+    g.beginPath(); g.arc(tip.x, tip.y, r, -span, span); g.stroke();
+    g.beginPath(); g.arc(tip.x, tip.y, r, Math.PI - span, Math.PI + span); g.stroke();
+  }
+
+  g.strokeStyle = "#fff"; g.lineWidth = S * 0.024 * k;
+  const baseY = tip.y + S * 0.31 * k, halfBase = S * 0.085 * k;
+  g.beginPath(); g.moveTo(tip.x - halfBase, baseY); g.lineTo(tip.x, tip.y); g.lineTo(tip.x + halfBase, baseY); g.stroke();
+  for (let i = 1; i <= 2; i++) {
+    const t = i / 3, y = tip.y + (baseY - tip.y) * t, hw = halfBase * t;
+    g.beginPath(); g.moveTo(tip.x - hw, y); g.lineTo(tip.x + hw, y); g.stroke();
+  }
+  g.fillStyle = "#fff"; g.beginPath(); g.arc(tip.x, tip.y, S * 0.034 * k, 0, 2 * Math.PI); g.fill();
+
+  // LIVE pill
+  const lp = S * 0.052;
+  g.font = font(800, lp); g.textBaseline = "middle";
+  if ("letterSpacing" in g) g.letterSpacing = S * 0.008 + "px";
+  const tw = g.measureText("LIVE").width;
+  const dotGap = S * 0.03, liveDot = S * 0.022;
+  const pillW = tw + liveDot + dotGap + S * 0.08, pillH = lp * 1.2 + S * 0.035;
+  const pillBottom = Y(named ? S * 0.075 : S * 0.11), pillTop = pillBottom - pillH, px = (S - pillW) / 2;
+  g.fillStyle = "rgb(230,41,56)";
+  g.beginPath(); g.roundRect ? g.roundRect(px, pillTop, pillW, pillH, pillH / 2) : g.rect(px, pillTop, pillW, pillH); g.fill();
+  const mid = pillTop + pillH / 2, x = px + S * 0.04;
+  g.fillStyle = "#fff"; g.beginPath(); g.arc(x + liveDot / 2, mid, liveDot / 2, 0, 2 * Math.PI); g.fill();
+  g.fillText("LIVE", x + liveDot + dotGap, mid + 1);
+  if ("letterSpacing" in g) g.letterSpacing = "0px";
+
+  // station name between the tower and LIVE: one line if it fits, else up to two, shrinking as needed
+  if (named) {
+    const box = { x: S * 0.07, w: S * 0.86, top: baseY + S * 0.05, bottom: pillTop - S * 0.025 };
+    const wrap = (pt) => {
+      g.font = font(700, pt);
+      const lines = []; let line = "";
+      for (const ch of name.split(/(\s+)/).flatMap(w => g.measureText(w).width > box.w ? [...w] : [w])) {
+        const tryLine = line + ch;
+        if (line && g.measureText(tryLine.trimEnd()).width > box.w) { lines.push(line.trim()); line = ch.trimStart(); }
+        else line = tryLine;
+      }
+      if (line.trim()) lines.push(line.trim());
+      return lines;
+    };
+    let pt = S * 0.085, lines = [];
+    for (; pt >= S * 0.035; pt -= S * 0.004) {
+      lines = wrap(pt);
+      g.font = font(700, pt);
+      const oneLineFits = g.measureText(name).width <= box.w;
+      if (lines.length * pt * 1.2 <= box.bottom - box.top && (oneLineFits || lines.length <= 2) && (oneLineFits || pt <= S * 0.07)) break;
+    }
+    g.font = font(700, pt); g.textAlign = "center"; g.textBaseline = "middle"; g.fillStyle = "#fff";
+    g.shadowColor = "rgba(0,0,0,.35)"; g.shadowOffsetY = S * 0.004; g.shadowBlur = S * 0.012;
+    const lh = pt * 1.2, y0 = (box.top + box.bottom) / 2 - (lines.length - 1) * lh / 2;
+    lines.forEach((l, i) => g.fillText(l, S / 2, y0 + i * lh));
+  }
+  const url = cv.toDataURL("image/png");
+  radioArtCache.set(key, url);
+  return url;
+}
+function radioArtImg() {
+  const img = el("img", "logo radio-art"); img.alt = "";
+  img.src = radioArtURL(null, 128);
   return img;
 }
 
@@ -1038,7 +1140,8 @@ function updateNow(key, err) {
   if ("mediaSession" in navigator && P.current) {
     const logo = P.current.kind === "radio" && usableLogo(P.current.r.logo);
     navigator.mediaSession.metadata = new MediaMetadata({ title: P.current.title, artist: currentSub() || APP_NAME,
-      artwork: logo ? [{ src: logo }] : [{ src: "icons/icon-512.png", sizes: "512x512", type: "image/png" }] });
+      artwork: logo ? [{ src: logo }]
+        : [{ src: P.current.kind === "radio" ? radioArtURL(P.current.title, 512) : "icons/icon-512.png", sizes: "512x512", type: "image/png" }] });
   }
 }
 // Live radio drops when the phone's network blips (e.g. switching 5G cells) and the browser then just
