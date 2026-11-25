@@ -144,6 +144,32 @@ footer {
 .now { min-width: 0; }
 .now .name { font-size: 14px; }
 .now .sub.err { color: var(--danger); }
+.now-wrap { display: flex; gap: 10px; align-items: center; min-width: 0; }
+.now-art { flex-shrink: 0; }
+
+/* station details dialog */
+dialog#details {
+  border: 1px solid var(--line); border-radius: 12px; background: var(--panel); color: var(--text);
+  padding: 0; width: min(520px, calc(100vw - 32px)); max-height: calc(100vh - 48px); box-shadow: 0 10px 40px rgba(0,0,0,.35);
+}
+dialog#details::backdrop { background: rgba(0,0,0,.45); }
+.d-head { display: flex; gap: 14px; align-items: center; padding: 16px 16px 12px; border-bottom: 1px solid var(--line); }
+.d-head .logo { width: 72px; height: 72px; font-size: 28px; border-radius: 10px; flex-shrink: 0; }
+.d-head .d-title { flex: 1; min-width: 0; }
+.d-head h2 { margin: 0 0 4px; font-size: 18px; line-height: 1.3; overflow-wrap: anywhere; }
+.d-head .d-acts { display: flex; gap: 6px; margin-top: 8px; }
+.d-head .d-acts button { border: 1px solid var(--line); background: var(--bg); border-radius: 8px; padding: 5px 12px; display: flex; gap: 6px; align-items: center; }
+.d-head .d-acts button.on { color: #d9a400; }
+.d-close { align-self: flex-start; }
+.d-body { padding: 4px 16px 16px; overflow-y: auto; }
+.d-body h3 { font-size: 12px; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); margin: 16px 0 6px; }
+.d-grid { display: grid; grid-template-columns: max-content 1fr; gap: 6px 14px; font-size: 14px; margin: 0; }
+.d-grid dt { color: var(--muted); }
+.d-grid dd { margin: 0; min-width: 0; overflow-wrap: anywhere; }
+.d-grid a { color: var(--accent); }
+.d-url { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 12px; }
+.d-ok { color: var(--accent); } .d-fail { color: var(--danger); }
+.d-note { color: var(--muted); font-size: 13px; }
 .seek { display: flex; gap: 8px; align-items: center; font-size: 12px; color: var(--muted); font-variant-numeric: tabular-nums; }
 .seek input { flex: 1; accent-color: var(--accent); }
 .vol { display: flex; gap: 6px; align-items: center; }
@@ -210,10 +236,13 @@ body.side-closed aside { display: none; }
     <button class="big" id="toggle" disabled></button>
     <button class="icon-btn" id="next"><svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M16 6h2v12h-2zM6 18l8.5-6L6 6z"/></svg></button>
   </div>
+  <div class="now-wrap">
+  <div class="now-art hidden" id="nowArt"></div>
   <div class="now">
     <div class="name" id="nowName"></div>
     <div class="sub" id="nowSub"></div>
     <div class="seek hidden" id="seekBox"><span id="tCur">0:00</span><input id="seek" type="range" min="0" max="1000" value="0"><span id="tDur">0:00</span></div>
+  </div>
   </div>
   <div class="vol">
     <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M11 5 6 9H2v6h4l5 4z"/><path d="M15.5 8.5a5 5 0 0 1 0 7"/></svg>
@@ -222,6 +251,7 @@ body.side-closed aside { display: none; }
 </footer>
 
 <audio id="audio" preload="none"></audio>
+<dialog id="details"></dialog>
 
 <script>
 "use strict";
@@ -272,6 +302,24 @@ const UI = {
   play_from_start:  ["Play from the beginning", "从头播放", "從頭播放", "Lire depuis le début", "Von Anfang an abspielen", "最初から再生", "처음부터 재생", "Слушать с начала", "Reproducir desde el principio"],
   track_count:      ["Number of tracks", "音轨数", "曲目數", "Nombre de pistes", "Anzahl der Titel", "トラック数", "트랙 수", "Количество треков", "Número de pistas"],
   favorite:         ["Favorite", "收藏", "收藏", "Favori", "Favorit", "お気に入り", "즐겨찾기", "В избранное", "Favorito"],
+  info:             ["Station details", "电台详情", "電台詳情", "Détails de la station", "Senderdetails", "局の詳細", "방송 정보", "О станции", "Detalles de la emisora"],
+  close:            ["Close", "关闭", "關閉", "Fermer", "Schließen", "閉じる", "닫기", "Закрыть", "Cerrar"],
+  d_country:        ["Country", "国家/地区", "國家/地區", "Pays", "Land", "国・地域", "국가", "Страна", "País"],
+  d_bitrate:        ["Bitrate", "码率", "位元率", "Débit", "Bitrate", "ビットレート", "비트레이트", "Битрейт", "Tasa de bits"],
+  d_tags:           ["Tags", "标签", "標籤", "Tags", "Tags", "タグ", "태그", "Теги", "Etiquetas"],
+  d_stream:         ["Stream URL", "流地址", "串流網址", "URL du flux", "Stream-URL", "ストリームURL", "스트림 주소", "Адрес потока", "URL del stream"],
+  d_homepage:       ["Homepage", "主页", "首頁", "Site web", "Website", "ホームページ", "홈페이지", "Сайт", "Sitio web"],
+  d_codec:          ["Codec", "编码", "編碼", "Codec", "Codec", "コーデック", "코덱", "Кодек", "Códec"],
+  d_region:         ["Region", "地区", "地區", "Région", "Region", "地域", "지역", "Регион", "Región"],
+  d_votes:          ["Votes", "投票", "投票", "Votes", "Stimmen", "投票数", "추천 수", "Голоса", "Votos"],
+  d_clicks:         ["Plays in the last day", "过去一天播放次数", "過去一天播放次數", "Écoutes sur 24 h", "Aufrufe (24 h)", "過去24時間の再生数", "최근 24시간 재생 수", "Прослушиваний за сутки", "Reproducciones (24 h)"],
+  d_check:          ["Last check", "最近检测", "最近檢測", "Dernière vérification", "Letzte Prüfung", "最終チェック", "마지막 점검", "Последняя проверка", "Última comprobación"],
+  d_ok:             ["Online", "在线", "線上", "En ligne", "Online", "オンライン", "정상", "В эфире", "En línea"],
+  d_fail:           ["Offline", "离线", "離線", "Hors ligne", "Offline", "オフライン", "응답 없음", "Не в эфире", "Fuera de línea"],
+  d_rb_loading:     ["Loading Radio Browser details…", "正在加载 Radio Browser 信息…", "正在載入 Radio Browser 資訊…", "Chargement des infos Radio Browser…", "Lade Radio-Browser-Daten…", "Radio Browser の情報を読み込み中…", "Radio Browser 정보를 불러오는 중…", "Загрузка данных Radio Browser…", "Cargando datos de Radio Browser…"],
+  d_rb_none:        ["Not listed on Radio Browser", "Radio Browser 中没有此电台", "Radio Browser 中沒有此電台", "Absente de Radio Browser", "Nicht bei Radio Browser gelistet", "Radio Browser に登録されていません", "Radio Browser에 등록되지 않은 방송입니다", "Нет в Radio Browser", "No figura en Radio Browser"],
+  d_rb_error:       ["Couldn't load Radio Browser details", "无法加载 Radio Browser 信息", "無法載入 Radio Browser 資訊", "Impossible de charger les infos Radio Browser", "Radio-Browser-Daten konnten nicht geladen werden", "Radio Browser の情報を読み込めませんでした", "Radio Browser 정보를 불러오지 못했습니다", "Не удалось загрузить данные Radio Browser", "No se pudieron cargar los datos de Radio Browser"],
+  d_rb_open:        ["View on Radio Browser", "在 Radio Browser 查看", "在 Radio Browser 檢視", "Voir sur Radio Browser", "Bei Radio Browser ansehen", "Radio Browser で見る", "Radio Browser에서 보기", "Открыть в Radio Browser", "Ver en Radio Browser"],
   copy_url:         ["Copy URL", "复制网址", "複製網址", "Copier l'URL", "URL kopieren", "URLをコピー", "주소 복사", "Копировать URL", "Copiar URL"],
   guess_country:    ["Guessed from the stream's domain", "根据流地址域名推测", "依串流網址網域推測", "Déduit du domaine du flux", "Aus der Domain des Streams geschätzt", "ストリームのドメインから推定", "스트림 주소 도메인으로 추정", "Определено по домену потока", "Deducido del dominio del stream"],
   guess_lang:       ["Guessed from the country", "根据国家推测", "依國家推測", "Déduite du pays", "Aus dem Land geschätzt", "国から推定", "국가 기준으로 추정", "Определён по стране", "Deducido del país"],
@@ -412,6 +460,8 @@ const ICON_PAUSE = '<svg width="14" height="14" viewBox="0 0 24 24" fill="curren
 const ICON_BIG_PLAY = '<svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M7 4v16l13-8z"/></svg>';
 const ICON_BIG_PAUSE = '<svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M6 4h4v16H6zM14 4h4v16h-4z"/></svg>';
 const ICON_STAR = '<svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="m12 2 3.1 6.3 6.9 1-5 4.9 1.2 6.8L12 17.8 5.8 21l1.2-6.8-5-4.9 6.9-1z"/></svg>';
+const ICON_INFO = '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 11v6M12 7.5v.5"/></svg>';
+const ICON_CLOSE = '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 6l12 12M18 6 6 18"/></svg>';
 const ICON_COPY = '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="12" height="12" rx="2"/><path d="M5 15V5a2 2 0 0 1 2-2h10"/></svg>';
 
 // ---------- tiny helpers ----------
@@ -747,11 +797,7 @@ function stationRow(r) {
   const btn = el("button", "play"); btn.innerHTML = P.current?.url === r.url && !audio.paused ? ICON_PAUSE : ICON_PLAY;
   btn.title = t("play");
   btn.onclick = () => P.current?.url === r.url ? P.toggle() : P.playStation(r, S.rows);
-  let logo;
-  if (r.logo && !(location.protocol === "https:" && r.logo.startsWith("http://"))) {   // http logos would be blocked on https
-    logo = el("img", "logo"); logo.loading = "lazy"; logo.referrerPolicy = "no-referrer"; logo.alt = "";
-    logo.src = r.logo; logo.onerror = () => logo.replaceWith(initial(r.name));
-  } else logo = initial(r.name);
+  const logo = stationArt(r.logo, r.name);
   const info = el("div", "info");
   info.append(el("div", "name", r.name));
   const sub = el("div", "sub");
@@ -763,15 +809,112 @@ function stationRow(r) {
   sub.title = r.url;
   info.append(sub);
   const acts = el("div", "actions");
-  const fav = el("button", "icon-btn" + (isFav(r.url) ? " fav-on" : "")); fav.innerHTML = ICON_STAR; fav.title = t("favorite");
+  const fav = el("button", "icon-btn fav" + (isFav(r.url) ? " fav-on" : "")); fav.innerHTML = ICON_STAR; fav.title = t("favorite");
   fav.onclick = () => { toggleFav(r); fav.classList.toggle("fav-on", isFav(r.url)); };
   const copy = el("button", "icon-btn"); copy.innerHTML = ICON_COPY; copy.title = t("copy_url");
   copy.onclick = () => navigator.clipboard?.writeText(r.url).then(() => { copy.style.color = "var(--accent)"; setTimeout(() => copy.style.color = "", 800); });
-  acts.append(fav, copy);
+  const more = el("button", "icon-btn"); more.innerHTML = ICON_INFO; more.title = t("info");
+  more.onclick = () => openDetails(r);
+  acts.append(more, fav, copy);
   row.append(btn, logo, info, acts);
   return row;
 }
 function initial(name) { return el("div", "logo", (name || "?").trim().charAt(0).toUpperCase()); }
+// Station logo (from the data, filled from Radio Browser by tools/radiobrowser.py), or the first letter
+// of the name when there is none or it fails to load. http logos would be blocked on the https site.
+const usableLogo = u => /^https:\/\//i.test(u || "") || (/^http:\/\//i.test(u || "") && location.protocol !== "https:") ? u : null;
+function stationArt(url, name) {
+  if (!usableLogo(url)) return initial(name);
+  const img = el("img", "logo"); img.loading = "lazy"; img.referrerPolicy = "no-referrer"; img.alt = "";
+  img.src = url; img.onerror = () => img.replaceWith(initial(name));
+  return img;
+}
+
+// ---------- station details ----------
+// Data we have, plus live details from Radio Browser (radio-browser.info, public API with CORS):
+// by the "rb" station id when the data has one, otherwise by exact stream address.
+const RB_API = "https://all.api.radio-browser.info/json/stations/";
+const rbCache = new Map();
+function rbLookup(r) {
+  const key = r.rb || r.url;
+  if (!rbCache.has(key)) {
+    const q = r.rb ? "byuuid/" + encodeURIComponent(r.rb) : "byurl?url=" + encodeURIComponent(r.url);
+    rbCache.set(key, fetch(RB_API + q).then(res => { if (!res.ok) throw new Error(res.status); return res.json(); })
+      .then(list => list[0] || null)
+      .catch(e => { rbCache.delete(key); throw e; }));
+  }
+  return rbCache.get(key);
+}
+const safeHttpUrl = u => { try { const x = new URL(u); return /^https?:$/.test(x.protocol) ? x.href : null; } catch { return null; } };
+function dGrid(pairs) {
+  const dl = el("dl", "d-grid");
+  for (const [k, v] of pairs) {
+    if (v == null || v === "") continue;
+    dl.append(el("dt", null, k));
+    const dd = el("dd"); typeof v === "string" ? (dd.textContent = v) : dd.append(v); dl.append(dd);
+  }
+  return dl;
+}
+function openDetails(r) {
+  const dlg = $("#details"); dlg.textContent = "";
+  const head = el("div", "d-head");
+  const art = stationArt(r.logo, r.name);
+  const title = el("div", "d-title");
+  title.append(el("h2", null, r.name));
+  const acts = el("div", "d-acts");
+  const play = el("button"); play.innerHTML = ICON_PLAY; play.append(t("play"));
+  play.onclick = () => { if (P.current?.url !== r.url) P.playStation(r, S.rows.includes(r) ? S.rows : [r]); dlg.close(); };
+  const fav = el("button", isFav(r.url) ? "on" : ""); fav.innerHTML = ICON_STAR; fav.append(t("favorite"));
+  fav.onclick = () => { toggleFav(r); fav.classList.toggle("on", isFav(r.url)); syncRowFav(r); };
+  acts.append(play, fav); title.append(acts);
+  const close = el("button", "icon-btn d-close"); close.innerHTML = ICON_CLOSE; close.title = t("close");
+  close.onclick = () => dlg.close();
+  head.append(art, title, close);
+
+  const body = el("div", "d-body");
+  const url = el("a", "d-url", r.url); url.href = safeHttpUrl(r.url) || "#"; url.target = "_blank"; url.rel = "noopener noreferrer";
+  body.append(dGrid([
+    [t("d_country"), r.country && r.country !== "Unknown" ? countryName(r.country) : null],
+    [t("label_language"), r.lang && r.lang !== "Unknown" ? langName(r.lang) : null],
+    [t("label_genre"), r.genre ? genreName(r.genre) : null],
+    [t("d_tags"), r.tags?.length ? r.tags.map(genreName).join(", ") : null],
+    [t("d_bitrate"), r.bitrate ? r.bitrate + " kbps" : null],
+    [t("d_stream"), url],
+  ]));
+  body.append(el("h3", null, "Radio Browser"));
+  const rbBox = body.appendChild(el("div", "d-note", t("d_rb_loading")));
+  dlg.append(head, body);
+  dlg.showModal();
+
+  rbLookup(r).then(s => {
+    if (!dlg.open || !body.isConnected) return;
+    if (!s) { rbBox.textContent = t("d_rb_none"); return; }
+    if (!usableLogo(r.logo) && usableLogo(s.favicon)) art.replaceWith(stationArt(s.favicon, r.name));
+    const link = (href, text) => { const h = safeHttpUrl(href); if (!h) return null; const a = el("a", null, text || h); a.href = h; a.target = "_blank"; a.rel = "noopener noreferrer"; return a; };
+    const check = s.lastchecktime_iso8601 ? el("span", s.lastcheckok ? "d-ok" : "d-fail",
+      `${t(s.lastcheckok ? "d_ok" : "d_fail")} · ${new Date(s.lastchecktime_iso8601).toLocaleString(LOCALE)}`) : null;
+    const grid = dGrid([
+      [t("d_homepage"), link(s.homepage)],
+      [t("d_region"), [s.state, s.country].filter(Boolean).join(", ") || null],
+      [t("label_language"), s.language || null],
+      [t("d_codec"), [s.codec, s.hls ? "HLS" : null].filter(x => x && x !== "UNKNOWN").join(" · ") || null],
+      [t("d_bitrate"), s.bitrate ? s.bitrate + " kbps" : null],
+      [t("d_tags"), s.tags ? ((tags) => tags.slice(0, 12).join(", ") + (tags.length > 12 ? ", …" : ""))(s.tags.split(",").filter(Boolean)) : null],
+      [t("d_votes"), s.votes != null ? num(s.votes) : null],
+      [t("d_clicks"), s.clickcount != null ? num(s.clickcount) : null],
+      [t("d_check"), check],
+      ["", link("https://www.radio-browser.info/history/" + encodeURIComponent(s.stationuuid), t("d_rb_open"))],
+    ]);
+    rbBox.replaceWith(grid);
+  }).catch(() => { if (body.isConnected) rbBox.textContent = t("d_rb_error"); });
+}
+// keep the star in the list in step with a change made in the dialog
+function syncRowFav(r) {
+  document.querySelectorAll(".row[data-url]").forEach(row => {
+    if (row.dataset.url === r.url) row.querySelector(".fav")?.classList.toggle("fav-on", isFav(r.url));
+  });
+}
+$("#details").addEventListener("click", e => { if (e.target.id === "details") e.target.close(); });   // click on the backdrop
 
 function bookRow(r) {
   const wrap = el("div");
@@ -885,8 +1028,17 @@ function updateNow(key, err) {
   $("#toggle").innerHTML = audio.paused ? ICON_BIG_PLAY : ICON_BIG_PAUSE;
   $("#seekBox").classList.toggle("hidden", !(P.current?.kind === "book" && isFinite(audio.duration)));
   document.title = P.current && !audio.paused ? `▶ ${P.current.title} · ${APP_NAME}` : APP_NAME;
+  const artKey = P.current?.kind === "radio" ? P.current.url : "";
+  const box = $("#nowArt");
+  if (box.dataset.key !== artKey) {
+    box.dataset.key = artKey;
+    box.replaceChildren(...(artKey ? [stationArt(P.current.r.logo, P.current.title)] : []));
+    box.classList.toggle("hidden", !artKey);
+  }
   if ("mediaSession" in navigator && P.current) {
-    navigator.mediaSession.metadata = new MediaMetadata({ title: P.current.title, artist: currentSub() || APP_NAME });
+    const logo = P.current.kind === "radio" && usableLogo(P.current.r.logo);
+    navigator.mediaSession.metadata = new MediaMetadata({ title: P.current.title, artist: currentSub() || APP_NAME,
+      artwork: logo ? [{ src: logo }] : [{ src: "icons/icon-512.png", sizes: "512x512", type: "image/png" }] });
   }
 }
 // Live radio drops when the phone's network blips (e.g. switching 5G cells) and the browser then just

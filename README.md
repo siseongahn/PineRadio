@@ -37,6 +37,8 @@ Then open <http://localhost:8000>. Locally the page plays every stream directly,
   - It can cover the current selection or everything.
   - The "everywhere" search loads files in the background and shows results as they arrive.
 - **Favorites:** stations and playlists, saved in the browser.
+- **Station logos:** shown in the list, the player bar and the lock screen (Media Session). Logos come from the data; `tools/radiobrowser.py` fills in missing ones from [Radio Browser](https://www.radio-browser.info). Without a logo, the first letter of the name is shown.
+- **Station details:** the ⓘ button opens the station's country, language, genre, tags, bitrate and stream URL. It also loads live details from the Radio Browser API: homepage, codec, votes, plays in the last day and the last online check.
 - **Hide the list:** the button after the site name in the header closes and reopens the country / collection list. The choice is saved in the browser.
 
 ### Playback
@@ -77,6 +79,7 @@ data/
 tools/
   build_stations.py         m3u → JSON converter
   featured.py               puts tools/featured/*.m3u at the top of their country
+  radiobrowser.py           adds Radio Browser logos and station ids ("rb") to data/radio
   featured/<country>.m3u    hand-picked stations per country, in display order
   geo_lang.py               country, language and ISO code tables used for classification
   stream_proxy.py           stream relay for the https site
@@ -116,7 +119,7 @@ deploy/
 }
 ```
 
-The `bitrate`, `logo`, `tags`, `country_inferred` and `language_inferred` fields are optional.
+The `bitrate`, `logo`, `tags`, `country_inferred` and `language_inferred` fields are optional, and so are `featured` (rank in `tools/featured/*.m3u`) and `rb` (Radio Browser station id).
 
 ### Audiobook file format
 
@@ -143,6 +146,8 @@ Download both, then run:
 ```sh
 python3 -I tools/build_stations.py <m3u-radio-music-playlists dir> <m3u-audiobooks dir> data
 ```
+
+The build then applies `tools/featured/*.m3u` and downloads the Radio Browser station list (about 60 MB) to add logos and station ids. If the download fails, the build continues without them; run `python3 -I tools/radiobrowser.py data` later.
 
 A full rebuild takes about 1–2 minutes and needs only the Python 3 standard library.
 
