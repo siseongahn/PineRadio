@@ -348,6 +348,8 @@ def main():
         json.dump({"radio": {"total": uniq, "hierarchy": "country > language > genre", "countries": rindex,
                              "language_codes": {l: LANGUAGE_CODE[l] for l in sorted({l for c in rindex.values() for l in c["languages"]}) if l in LANGUAGE_CODE}},
                    "audiobooks": aindex}, f, ensure_ascii=False, indent=1)
+    import featured  # noqa: E402  (imports this module, so not at the top)
+    featured.apply(out)
 
 
 if __name__ == "__main__":

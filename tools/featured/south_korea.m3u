@@ -1,0 +1,55 @@
+#EXTM3U
+#PLAYLIST:Korean Radio Stations 2026
+# Stations listed first for South Korea, in this order (tools/featured.py).
+# pine-genre / pine-language set the genre and language; without them the KBS rules in
+# GENRE_OVERRIDES (build_stations.py) decide the genre, and the language is Korean.
+#EXTINF:-1 group-title="Korea",KBS 1라디오
+http://serpent0.duckdns.org:8088/kbs1radio.pls
+#EXTINF:-1 group-title="Korea",KBS 클래식FM
+http://serpent0.duckdns.org:8088/kbsfm.pls
+#EXTINF:-1 tvg-logo="https://res.static.kbs.co.kr/favicon.png" group-title="Korea",KBS Cool FM
+http://serpent0.duckdns.org:8088/kbs2fm.pls
+#EXTINF:-1 group-title="Korea",KBS 해피FM
+http://serpent0.duckdns.org:8088/kbs2radio.pls
+#EXTINF:-1 group-title="Korea" pine-genre="pop_hits",SBS 파워FM
+http://serpent0.duckdns.org:8088/sbsfm.pls
+#EXTINF:-1 group-title="Korea" pine-genre="news_talk",SBS 러브FM
+http://serpent0.duckdns.org:8088/sbs2fm.pls
+#EXTINF:-1 group-title="Korea" pine-genre="news_talk",CBS 표준FM 98.1
+https://m-aac.cbs.co.kr/mweb_cbs981/_definst_/cbs981.stream/playlist.m3u8
+#EXTINF:-1 group-title="Korea" pine-genre="pop_hits",CBS 음악FM 93.9
+https://m-aac.cbs.co.kr/cbs939/_definst_/cbs939.stream/playlist.m3u8
+#EXTINF:-1 group-title="Korea" pine-genre="christian_gospel",CBS JOY4U
+https://m-aac.cbs.co.kr/mweb_cbscmc/_definst_/cbscmc.stream/playlist.m3u8
+#EXTINF:-1 group-title="Korea" pine-genre="news_talk",EBS FM
+https://ebsonair.ebs.co.kr/fmradiofamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="Korea" pine-genre="news_talk",YTN 라디오
+https://radiolive.ytn.co.kr/radio/_definst_/20211118_fmlive/playlist.m3u8
+#EXTINF:-1 group-title="Korea" pine-genre="news_talk",TBS FM 95.1
+https://cdnfm.tbs.seoul.kr/tbs/_definst_/tbs_fm_web_360.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Korea" pine-genre="news_talk" pine-language="English",TBS eFM 101.3
+https://cdnefm.tbs.seoul.kr/tbs/_definst_/tbs_efm_web_360.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Korea" pine-genre="world",국악방송
+https://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/playlist.m3u8
+#EXTINF:-1 group-title="Korea" pine-genre="news_talk",TBN 경인교통방송
+http://radio2.tbn.or.kr:1935/gyeongin/myStream/playlist.m3u8
+#EXTINF:-1 group-title="Korea" pine-genre="news_talk",TBN 울산교통방송
+http://radio2.tbn.or.kr:1935/ulsan/myStream/playlist.m3u8
+#EXTINF:-1 group-title="Korea" pine-genre="news_talk",경인방송 iFM
+https://stream.ifm.kr/live/aod1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EQd7zsUgIsdtDSAldbre7DT0V2vsW-As6J51zcMnfycMpyJRgFIO311XvDExg-g-TA=w480-h960" group-title="Korea" pine-genre="news_talk",OBS 라디오
+https://vod3.obs.co.kr:444/live/obsstream1/radio.stream/playlist.m3u8
+#EXTINF:-1 group-title="Korea" pine-genre="news_talk",국방FM
+https://mediaworks.dema.mil.kr/live_edge/audio.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.arirang.com/favicon.ico" group-title="Korea" pine-genre="news_talk" pine-language="English",아리랑 라디오
+http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="Korea" pine-genre="christian_gospel",극동방송 서울 106.9
+http://mlive2.febc.net:1935/live/seoulfm/playlist.m3u8
+#EXTINF:-1 group-title="Korea" pine-genre="pop_hits",안동MBC FM4U
+https://live.andongmbc.co.kr/live/fmlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpfZhAjmDC9Q6KIOILQiRnGR7_KpXwJ_RwArzYCNVwPg&s=10" group-title="Korea" pine-genre="pop_hits",MBC충북 FM4U
+http://211.33.246.4:32954/radio_fm/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Korea" pine-genre="news_talk" pine-language="English",부산 BeFM 90.5
+http://befm905.live.smilecdn.com:1935/befm905_live/live/playlist.m3u8
+#EXTINF:-1 group-title="Korea" pine-genre="college_community",마포FM
+http://115.85.182.39/mapofm?type=.mp3

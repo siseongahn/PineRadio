@@ -76,6 +76,8 @@ data/
   audiobooks/<name>.json    one file per collection
 tools/
   build_stations.py         m3u → JSON converter
+  featured.py               puts tools/featured/*.m3u at the top of their country
+  featured/<country>.m3u    hand-picked stations per country, in display order
   geo_lang.py               country, language and ISO code tables used for classification
   stream_proxy.py           stream relay for the https site
 deploy/
@@ -170,6 +172,11 @@ A full rebuild takes about 1–2 minutes and needs only the Python 3 standard li
 - **Unclassified stations:** stations with no usable country end up in `radio/unknown.json`. Stations with no genre are filed under `unclassified`.
 
 - **Genre overrides:** `GENRE_OVERRIDES` in `tools/build_stations.py` sets the genre by station name, ahead of the playlist tags. For example, South Korean "KBS" stations are filed under news & talk, except KBS Classic FM, which stays under classical.
+
+- **Featured stations:** `tools/featured/<country file>.m3u` lists hand-picked stations that the page shows first for that country, in list order. For example, `south_korea.m3u` holds 25 Korean stations (KBS, SBS, CBS, EBS, YTN, …).
+  - `pine-genre="…"` and `pine-language="…"` on an `#EXTINF` line set the genre and language. Without them, the language is the country's main language.
+  - A station already in the data at the same address is replaced by the featured entry.
+  - The build applies the lists automatically. After editing a list, apply it without a rebuild: `python3 -I tools/featured.py data`.
 
 To adjust the rules, edit `GENRE_RULES` or `GENRE_OVERRIDES` in `tools/build_stations.py` or the tables in `tools/geo_lang.py`, then rebuild.
 

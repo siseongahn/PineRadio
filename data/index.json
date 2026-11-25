@@ -1,6 +1,6 @@
 {
  "radio": {
-  "total": 746100,
+  "total": 746108,
   "hierarchy": "country > language > genre",
   "countries": {
    "Afghanistan": {
@@ -18211,17 +18211,18 @@
    },
    "South Korea": {
     "file": "radio/south_korea.json",
-    "count": 490,
+    "count": 498,
     "languages": {
      "Korean": {
-      "count": 464,
+      "count": 469,
       "genres": {
        "alternative_indie": 3,
        "ambient_relax": 4,
        "blues": 1,
        "chillout_lounge": 3,
-       "christian_gospel": 35,
+       "christian_gospel": 37,
        "classical": 13,
+       "college_community": 1,
        "disco_eurodance": 2,
        "easy_listening": 11,
        "electronic": 10,
@@ -18233,25 +18234,25 @@
        "metal": 3,
        "news_talk": 119,
        "oldies": 1,
-       "pop_hits": 41,
+       "pop_hits": 45,
        "rock": 13,
        "soul_rnb_funk": 6,
        "soundtrack": 2,
        "techno": 1,
        "trance_goa": 2,
        "various_eclectic": 9,
-       "world": 18,
-       "unclassified": 119
+       "world": 19,
+       "unclassified": 116
       }
      },
      "English": {
-      "count": 12,
+      "count": 15,
       "genres": {
        "blues": 1,
        "easy_listening": 1,
        "hip_hop_rap": 1,
        "jazz": 1,
-       "news_talk": 2,
+       "news_talk": 5,
        "various_eclectic": 1,
        "unclassified": 5
       }

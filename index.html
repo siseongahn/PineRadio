@@ -460,6 +460,8 @@ async function radioRows(country) {
     for (const [genre, G] of Object.entries(L.genres))
       for (const s of G.stations)
         rows.push({ kind: "radio", ...s, country, lang, genre, _k: norm(s.name) + " " + norm(s.url) });
+  // hand-picked stations (tools/featured/*.m3u) come first, in their list order
+  rows.sort((a, b) => (a.featured || Infinity) - (b.featured || Infinity));
   radioRowsCache.set(country, rows);
   return rows;
 }
