@@ -71,6 +71,8 @@ aside .filter input { width: 100%; padding: 6px 10px; border: 1px solid var(--li
 }
 .side-item:hover { background: var(--chip); }
 .side-item.on { background: var(--accent-soft); color: var(--accent); font-weight: 600; }
+.side-all { font-weight: 600; border-bottom: 1px solid var(--line); }
+.chip-more { background: none; border-color: var(--line); color: var(--muted); }
 .side-item .n { color: var(--muted); font-variant-numeric: tabular-nums; font-size: 12px; }
 .side-head {
   padding: 10px 14px 4px; font-size: 11px; font-weight: 600; letter-spacing: .04em; text-transform: uppercase; color: var(--muted);
@@ -236,6 +238,10 @@ const UI = {
   sec_other:        ["Other countries", "其他国家和地区", "其他國家和地區", "Autres pays", "Weitere Länder", "その他の国・地域", "기타 국가", "Другие страны", "Otros países"],
   stats_line:       ["{s} stations · {b} audiobooks", "{s} 个电台 · {b} 部有声书", "{s} 個電台 · {b} 部有聲書", "{s} stations · {b} livres audio", "{s} Sender · {b} Hörbücher", "{s} 局 · オーディオブック {b} 本", "방송 {s}개 · 오디오북 {b}개", "Станций: {s} · аудиокниг: {b}", "{s} emisoras · {b} audiolibros"],
   stats_detail:     ["{t} audiobook tracks in {c} collections", "{c} 个合集，共 {t} 个有声书音轨", "{c} 個合集，共 {t} 首有聲書曲目", "{t} pistes de livres audio dans {c} collections", "{t} Hörbuch-Titel in {c} Sammlungen", "{c} コレクション・{t} トラック", "컬렉션 {c}개 · 트랙 {t}개", "Треков аудиокниг: {t} в {c} коллекциях", "{t} pistas de audiolibros en {c} colecciones"],
+  all_countries:    ["All countries", "全部国家和地区", "全部國家和地區", "Tous les pays", "Alle Länder", "すべての国・地域", "전체 국가", "Все страны", "Todos los países"],
+  loading_n:        ["loading {d}/{t}", "加载中 {d}/{t}", "載入中 {d}/{t}", "chargement {d}/{t}", "Laden {d}/{t}", "読み込み中 {d}/{t}", "불러오는 중 {d}/{t}", "загрузка {d}/{t}", "cargando {d}/{t}"],
+  chips_more:       ["+{n} more", "还有 {n} 个", "還有 {n} 個", "+{n} de plus", "+{n} weitere", "他 {n} 件", "+{n}개 더", "ещё {n}", "+{n} más"],
+  chips_less:       ["Show less", "收起", "收起", "Moins", "Weniger", "閉じる", "접기", "Свернуть", "Mostrar menos"],
   find_collection:  ["Find a collection", "查找合集", "尋找合集", "Trouver une collection", "Sammlung suchen", "コレクションを探す", "컬렉션 찾기", "Найти коллекцию", "Buscar colección"],
   unknown_country:  ["Unknown country", "未知国家", "未知國家", "Pays inconnu", "Unbekanntes Land", "国不明", "국가 미상", "Страна неизвестна", "País desconocido"],
   unknown_lang:     ["Unknown language", "未知语言", "未知語言", "Langue inconnue", "Unbekannte Sprache", "言語不明", "언어 미상", "Язык неизвестен", "Idioma desconocido"],
@@ -518,6 +524,13 @@ function renderSide() {
   const frag = document.createDocumentFragment();
   if (S.tab === "radio") {
     const { local, other } = countryGroups();
+    const allLabel = t("all_countries");
+    if (!f || norm(allLabel).includes(f) || "all countries".includes(f)) {
+      const b = el("button", "side-item side-all" + (S.country === ALL ? " on" : ""));
+      b.append(el("span", null, allLabel), el("span", "n", num(S.index.radio.total)));
+      b.onclick = () => { S.country = ALL; S.lang = S.genre = null; store.set("country", ALL); resetAndRender(); };
+      frag.append(b);
+    }
     const addGroup = (title, list) => {
       const items = list.filter(([name]) => !f || norm(countryName(name)).includes(f) || norm(name).includes(f));
       if (!items.length) return;
@@ -568,25 +581,29 @@ async function renderContent() {
 
   if (S.tab === "radio") {
     const countries = S.index.radio.countries;
-    if (!S.country || !countries[S.country]) {
+    if (!S.country || (S.country !== ALL && !countries[S.country])) {
       const { local, other } = countryGroups();
       S.country = (local[0] || other[0])[0];
     }
-    const info = countries[S.country];
-    c.append(crumb(countryName(S.country), t("n_stations", { n: num(info.count) })));
-    c.append(chipsRow(t("label_language"), Object.entries(info.languages).map(([l, v]) => [l, langName(l, true), v.count]), S.lang,
-      v => { S.lang = v; S.genre = null; S.shown = PAGE; renderContent(); }));
+    const isAll = S.country === ALL;
+    const info = isAll ? allCountriesInfo() : countries[S.country];
+    c.append(crumb(isAll ? t("all_countries") : countryName(S.country), t("n_stations", { n: num(info.count) })));
+    const langs = Object.entries(info.languages).sort((a, b) => b[1].count - a[1].count);
+    c.append(chipsRow(t("label_language"), langs.map(([l, v]) => [l, langName(l, true), v.count]), S.lang,
+      v => { S.lang = v; S.genre = null; S.shown = PAGE; renderContent(); }, 20));
     const gcount = {};
     for (const [l, v] of Object.entries(info.languages)) if (!S.lang || S.lang === l)
       for (const [g, n] of Object.entries(v.genres)) gcount[g] = (gcount[g] || 0) + n;
     const gs = Object.entries(gcount).sort((a, b) => (a[0] === "unclassified") - (b[0] === "unclassified") || b[1] - a[1]);
     c.append(chipsRow(t("label_genre"), gs.map(([g, n]) => [g, genreName(g), n]), S.genre,
       v => { S.genre = v; S.shown = PAGE; renderContent(); }));
+    const keep = r => (!S.lang || r.lang === S.lang) && (!S.genre || r.genre === S.genre) && matches(r, q);
+    if (isAll) return renderAllCountries(c, keep, run);
     const status = c.appendChild(el("div", "status", t("loading")));
     let rows;
     try { rows = await radioRows(S.country); } catch (e) { status.textContent = t("load_failed", { e: e.message }); return; }
     if (run !== S.runId) return;
-    S.rows = rows.filter(r => (!S.lang || r.lang === S.lang) && (!S.genre || r.genre === S.genre) && matches(r, q));
+    S.rows = rows.filter(keep);
     status.textContent = statusText(S.rows.length);
     return renderRows(c);
   }
@@ -602,6 +619,49 @@ async function renderContent() {
   S.rows = rows.filter(r => matches(r, q));
   status.textContent = statusText(S.rows.length);
   renderRows(c);
+}
+
+// "All countries": counts come from index.json at once; stations load country by country
+// (largest first, 4 at a time) and matching rows show up as they arrive.
+const ALL = "*";
+let allInfoCache = null;
+function allCountriesInfo() {
+  if (allInfoCache) return allInfoCache;
+  const languages = {};
+  for (const c of Object.values(S.index.radio.countries))
+    for (const [l, v] of Object.entries(c.languages)) {
+      const L = languages[l] || (languages[l] = { count: 0, genres: {} });
+      L.count += v.count;
+      for (const [g, n] of Object.entries(v.genres)) L.genres[g] = (L.genres[g] || 0) + n;
+    }
+  return (allInfoCache = { count: S.index.radio.total, languages });
+}
+async function renderAllCountries(c, keep, run) {
+  const status = c.appendChild(el("div", "status"));
+  const listBox = c.appendChild(el("div"));
+  const keys = Object.entries(S.index.radio.countries).sort((a, b) => b[1].count - a[1].count).map(e => e[0]);
+  S.rows = []; let done = 0, i = 0, lastPaint = 0;
+  const paint = final => {
+    status.textContent = statusText(S.rows.length) + (final ? "" : " · " + t("loading_n", { d: done, t: keys.length }));
+    // repaint the list only while it is still short, so scrolling isn't disturbed later
+    if (final || (S.rows.length <= S.shown + PAGE && performance.now() - lastPaint > 400)) {
+      lastPaint = performance.now(); listBox.textContent = ""; renderRows(listBox);
+    }
+  };
+  const worker = async () => {
+    while (i < keys.length && run === S.runId) {
+      const k = keys[i++];
+      try {
+        const rows = await radioRows(k);
+        if (run !== S.runId) return;
+        for (const r of rows) if (keep(r)) S.rows.push(r);
+      } catch (e) { console.warn(e); }
+      done++; paint(false);
+    }
+  };
+  paint(false);
+  await Promise.all(Array.from({ length: 4 }, worker));
+  if (run === S.runId) paint(true);
 }
 
 async function renderGlobal(c, q, run) {
@@ -636,7 +696,8 @@ async function renderGlobal(c, q, run) {
 function crumb(title, meta) {
   const d = el("div", "crumb"); d.append(el("h2", null, title), el("span", "meta", meta)); return d;
 }
-function chipsRow(label, items, current, onPick) {
+const expandedChips = new Set();
+function chipsRow(label, items, current, onPick, limit) {
   const d = el("div", "chips"); d.append(el("span", "label", label));
   const mk = (val, text, n) => {
     const b = el("button", "chip" + (current === val ? " on" : ""), text);
@@ -645,7 +706,16 @@ function chipsRow(label, items, current, onPick) {
     d.append(b);
   };
   mk(null, t("all"));
-  for (const [v, txt, n] of items) mk(v, txt, n);
+  const collapsible = limit && items.length > limit + 4;
+  const open = !collapsible || expandedChips.has(label);
+  // keep the selected value visible even when collapsed
+  const shown = open ? items : items.filter((it, idx) => idx < limit || it[0] === current);
+  for (const [v, txt, n] of shown) mk(v, txt, n);
+  if (collapsible) {
+    const tog = el("button", "chip chip-more", open ? t("chips_less") : t("chips_more", { n: num(items.length - shown.length) }));
+    tog.onclick = () => { open ? expandedChips.delete(label) : expandedChips.add(label); renderContent(); };
+    d.append(tog);
+  }
   return d;
 }
 
