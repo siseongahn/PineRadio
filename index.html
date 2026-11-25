@@ -10,6 +10,10 @@
 <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
 <link rel="manifest" href="manifest.webmanifest">
 <meta name="theme-color" content="#2f7d4f">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<!-- only the glyphs of "PineRadio" are downloaded (text= subset) -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fugaz+One&text=PineRadio&display=swap">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/hls.js/1.5.13/hls.min.js"></script>
 <style>
 :root {
@@ -43,6 +47,7 @@ header {
   background: var(--panel); border-bottom: 1px solid var(--line); flex-wrap: wrap;
 }
 .brand { font-weight: 700; font-size: 16px; display: flex; align-items: center; gap: 6px; }
+.brand-name { font-family: "Fugaz One", -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 400; font-size: 18px; line-height: 1.1; letter-spacing: .01em; }
 .brand img { width: 24px; height: 24px; border-radius: 6px; display: block; }
 .brand-stats { font-size: 11px; font-weight: 400; line-height: 1.2; color: var(--muted); white-space: nowrap; font-variant-numeric: tabular-nums; }
 .brand-stats:empty { display: none; }
@@ -166,7 +171,7 @@ footer {
   <div class="brand">
     <img src="icons/logo-48.png" srcset="icons/logo-48.png 2x, icons/logo-72.png 3x" width="24" height="24" alt="">
     <div>
-      <div>PineRadio</div>
+      <div class="brand-name">PineRadio</div>
       <div class="brand-stats" id="stats"></div>
     </div>
   </div>
