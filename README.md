@@ -27,6 +27,10 @@ Then open <http://localhost:8000>. Locally the page plays every stream directly,
 ### Browsing and search
 - **Header totals:** the header shows the total number of stations and audiobooks, read from `data/index.json`. Hover it to see the track and collection counts.
 - **Radio:** pick a country in the sidebar, then narrow down with language and genre filters.
+- **All countries:** the first sidebar entry lists every station.
+  - The filter counts show at once, read from `data/index.json`.
+  - Stations load country by country, largest first, and show up as they arrive.
+  - Long filter rows (116 languages) collapse to the top 20 with a "+N more" toggle.
 - **Audiobooks:** pick a collection, then expand a playlist to see its tracks. Tracks play one after another.
 - **Search:** matches station names and URLs.
   - It can cover the current selection or everything.
@@ -212,6 +216,8 @@ Install, verification and troubleshooting steps are in the Codex skill
 | `67a99b6` | Fixed the Mokpo FEBC stream URL in the data |
 | `873e194` | Codex skill extended to hosting: public files, status and checks |
 | `2ef33f3` | Total station and audiobook counts in the header |
+| `0e1c689` | README brought up to date with the work so far |
+| `0708882` | "All countries" sidebar entry with progressive loading and collapsible filter chips |
 
 ## Credits
 
