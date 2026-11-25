@@ -49,8 +49,6 @@ header {
 .brand { font-weight: 700; font-size: 16px; display: flex; align-items: center; gap: 6px; }
 .brand-name { font-family: "Fugaz One", -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 400; font-size: 18px; line-height: 1.1; letter-spacing: .01em; }
 .brand img { width: 24px; height: 24px; border-radius: 6px; display: block; }
-.brand-stats { font-size: 11px; font-weight: 400; line-height: 1.2; color: var(--muted); white-space: nowrap; font-variant-numeric: tabular-nums; }
-.brand-stats:empty { display: none; }
 .tabs { display: flex; background: var(--chip); border-radius: 8px; padding: 3px; }
 .tabs button { border: 0; background: none; padding: 5px 14px; border-radius: 6px; color: var(--muted); }
 .tabs button.on { background: var(--panel); color: var(--text); box-shadow: var(--shadow); font-weight: 600; }
@@ -170,10 +168,7 @@ footer {
 <header>
   <div class="brand">
     <img src="icons/logo-48.png" srcset="icons/logo-48.png 2x, icons/logo-72.png 3x" width="24" height="24" alt="">
-    <div>
-      <div class="brand-name">PinePlayer Radio</div>
-      <div class="brand-stats" id="stats"></div>
-    </div>
+    <div class="brand-name">PinePlayer Radio</div>
   </div>
   <div class="tabs" role="tablist">
     <button data-tab="radio" class="on" data-i18n="tab_radio"></button>
@@ -241,8 +236,6 @@ const UI = {
   find_country:     ["Find a country", "查找国家", "尋找國家", "Trouver un pays", "Land suchen", "国を探す", "국가 찾기", "Найти страну", "Buscar país"],
   sec_local:        ["English-speaking countries", "中文国家和地区", "中文國家和地區", "Pays francophones", "Deutschsprachige Länder", "日本語圏", "한국어 사용 국가", "Русскоязычные страны", "Países hispanohablantes"],
   sec_other:        ["Other countries", "其他国家和地区", "其他國家和地區", "Autres pays", "Weitere Länder", "その他の国・地域", "기타 국가", "Другие страны", "Otros países"],
-  stats_line:       ["{s} stations · {b} audiobooks", "{s} 个电台 · {b} 部有声书", "{s} 個電台 · {b} 部有聲書", "{s} stations · {b} livres audio", "{s} Sender · {b} Hörbücher", "{s} 局 · オーディオブック {b} 本", "방송 {s}개 · 오디오북 {b}개", "Станций: {s} · аудиокниг: {b}", "{s} emisoras · {b} audiolibros"],
-  stats_detail:     ["{t} audiobook tracks in {c} collections", "{c} 个合集，共 {t} 个有声书音轨", "{c} 個合集，共 {t} 首有聲書曲目", "{t} pistes de livres audio dans {c} collections", "{t} Hörbuch-Titel in {c} Sammlungen", "{c} コレクション・{t} トラック", "컬렉션 {c}개 · 트랙 {t}개", "Треков аудиокниг: {t} в {c} коллекциях", "{t} pistas de audiolibros en {c} colecciones"],
   all_countries:    ["All countries", "全部国家和地区", "全部國家和地區", "Tous les pays", "Alle Länder", "すべての国・地域", "전체 국가", "Все страны", "Todos los países"],
   loading_n:        ["loading {d}/{t}", "加载中 {d}/{t}", "載入中 {d}/{t}", "chargement {d}/{t}", "Laden {d}/{t}", "読み込み中 {d}/{t}", "불러오는 중 {d}/{t}", "загрузка {d}/{t}", "cargando {d}/{t}"],
   chips_more:       ["+{n} more", "还有 {n} 个", "還有 {n} 個", "+{n} de plus", "+{n} weitere", "他 {n} 件", "+{n}개 더", "ещё {n}", "+{n} más"],
@@ -484,17 +477,6 @@ function applyStaticText() {
   $("#sideFilter").placeholder = t(S.tab === "audiobooks" ? "find_collection" : "find_country");
   $("#prev").title = t("prev"); $("#next").title = t("next"); $("#toggle").title = t("toggle");
   $("#vol").title = t("volume");
-}
-
-// ---------- header totals ----------
-function renderStats() {
-  const box = $("#stats");
-  if (!S.index) { box.textContent = ""; return; }
-  const books = Object.values(S.index.audiobooks);
-  const playlists = books.reduce((n, b) => n + b.playlists, 0);
-  const tracks = books.reduce((n, b) => n + b.tracks, 0);
-  box.textContent = t("stats_line", { s: num(S.index.radio.total), b: num(playlists) });
-  box.title = t("stats_detail", { t: num(tracks), c: num(books.length) });
 }
 
 // ---------- sidebar ----------
@@ -935,7 +917,7 @@ uiLang.onchange = () => {
   setLocale(uiLang.value); store.set("locale", uiLang.value);
   // no country picked by hand yet → follow the new language's first country
   if (store.get("country", null) == null) { S.country = null; S.lang = S.genre = null; }
-  applyStaticText(); updateNow(); renderStats();
+  applyStaticText(); updateNow();
   if (S.index) { renderSide(); renderContent(); }
 };
 
@@ -966,7 +948,6 @@ updateNow();
 (async () => {
   try {
     S.index = await loadJSON("data/index.json");
-    renderStats();
   } catch (e) {
     $("#content").append(el("div", "empty", t("index_fail")));
     return;
