@@ -645,7 +645,7 @@ function stationRow(r) {
   btn.title = t("play");
   btn.onclick = () => P.current?.url === r.url ? P.toggle() : P.playStation(r, S.rows);
   let logo;
-  if (r.logo) {
+  if (r.logo && !(location.protocol === "https:" && r.logo.startsWith("http://"))) {   // http logos would be blocked on https
     logo = el("img", "logo"); logo.loading = "lazy"; logo.referrerPolicy = "no-referrer"; logo.alt = "";
     logo.src = r.logo; logo.onerror = () => logo.replaceWith(initial(r.name));
   } else logo = initial(r.name);
@@ -713,6 +713,11 @@ function toggleFav(r) {
 }
 
 // ---------- player ----------
+// On an https page browsers block plain-http audio ("mixed content"), so http streams go through
+// the server-side relay at ./stream (tools/stream_proxy.py behind nginx). On http/localhost: direct.
+function playableUrl(url) {
+  return location.protocol === "https:" && /^http:\/\//i.test(url) ? "stream?u=" + encodeURIComponent(url) : url;
+}
 const audio = $("#audio");
 let hls = null;
 // status is stored as a key (+ error flag) so it can be re-rendered when the language changes
@@ -722,7 +727,8 @@ const P = {
   load(url) {
     if (hls) { hls.destroy(); hls = null; }
     audio.removeAttribute("src");
-    const isHls = /\.m3u8(\?|$)/i.test(url);
+    const isHls = /\.m3u8(\?|$)/i.test(url);   // decided on the original URL, before proxying
+    url = playableUrl(url);
     if (isHls && !audio.canPlayType("application/vnd.apple.mpegurl") && window.Hls?.isSupported()) {
       hls = new Hls();
       hls.on(Hls.Events.ERROR, (_, d) => { if (d.fatal) showErr("err_hls"); });

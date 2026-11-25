@@ -1,0 +1,31 @@
+# systemd unit for the PineRadio stream relay (tools/stream_proxy.py).
+# Install: sudo cp deploy/pineradio-stream.service /etc/systemd/system/
+#          sudo systemctl daemon-reload && sudo systemctl enable --now pineradio-stream
+[Unit]
+Description=PineRadio stream relay (http radio streams for the https site)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+ExecStart=/usr/bin/python3 -I /srv/pineradio/tools/stream_proxy.py --data /srv/pineradio/data --host 127.0.0.1 --port 8090
+# Optional: a fixed HMAC key keeps signed HLS segment URLs valid across restarts.
+# Environment=PINERADIO_PROXY_SECRET=change-me
+Restart=always
+RestartSec=3
+
+# run unprivileged and read-only
+DynamicUser=yes
+NoNewPrivileges=yes
+ProtectSystem=strict
+ProtectHome=yes
+PrivateTmp=yes
+PrivateDevices=yes
+ProtectKernelTunables=yes
+ProtectKernelModules=yes
+ProtectControlGroups=yes
+RestrictAddressFamilies=AF_INET AF_INET6 AF_UNIX
+LimitNOFILE=8192
+MemoryMax=1G
+
+[Install]
+WantedBy=multi-user.target

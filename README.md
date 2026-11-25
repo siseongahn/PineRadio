@@ -127,6 +127,19 @@ A full rebuild takes about 1–2 minutes and needs only the Python 3 standard li
 
 To adjust the rules, edit `GENRE_RULES` in `tools/build_stations.py` or the tables in `tools/geo_lang.py`, then rebuild.
 
+## Stream relay for https hosting
+
+Browsers block plain-http audio on https pages, and about 42% of the stations are http-only. When the
+page is served over https, it sends `http://` streams through a small relay at `./stream?u=<url>`:
+
+- `tools/stream_proxy.py`: the relay. It uses only the Python standard library and follows redirects, `.pls`/`.m3u` playlists and HLS.
+- `deploy/nginx-stream-proxy.conf`: the nginx `location` that forwards to the relay.
+- `deploy/pineradio-stream.service`: the systemd unit.
+
+The relay only accepts hosts that appear in the station data and refuses private or loopback
+addresses, so it is not an open proxy. Install and troubleshooting steps are in
+`.codex/skills/pineradio-stream-proxy/SKILL.md`. On `http://localhost` the relay is not needed.
+
 ## Known limitations
 
 - **Dead stations:** the source lists are crowdsourced and change constantly, so many stations will be offline. The player reports these as playback errors.
