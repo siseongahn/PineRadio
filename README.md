@@ -55,6 +55,9 @@ Then open <http://localhost:8000>. Locally the page plays every stream directly,
 
 ### Look
 - **App icon:** the PinePlayerPro app icon is used for the favicon, apple-touch-icon, web manifest and header logo.
+- **Header name:** "PineRadio" is set in [Fugaz One](https://fonts.google.com/specimen/Fugaz+One).
+  - It comes from Google Fonts, and only the glyphs of the name are downloaded.
+  - If the font can't be loaded, the system font is used.
 - **Themes:** light and dark mode follow the system setting.
 - **Phone layout:** works at phone width.
 
@@ -218,6 +221,8 @@ Install, verification and troubleshooting steps are in the Codex skill
 | `2ef33f3` | Total station and audiobook counts in the header |
 | `0e1c689` | README brought up to date with the work so far |
 | `0708882` | "All countries" sidebar entry with progressive loading and collapsible filter chips |
+| `4ade5a3` | README: "All countries" and change history |
+| `7b49925` | Fugaz One font for the PineRadio name in the header |
 
 ## Credits
 
