@@ -3,6 +3,12 @@
 # Stations listed first for South Korea, in this order (tools/featured.py).
 # pine-genre / pine-language set the genre and language; without them the KBS rules in
 # GENRE_OVERRIDES (build_stations.py) decide the genre, and the language is Korean.
+#EXTINF:-1 group-title="Korea" pine-genre="news_talk" pine-replaces="http://serpent0.duckdns.org:8088/mbcsfm.pls",MBC 표준FM
+https://sminiplay.imbc.com/aacplay.ashx?channel=sfm
+#EXTINF:-1 group-title="Korea" pine-genre="pop_hits" pine-replaces="http://serpent0.duckdns.org:8088/mbcfm.pls",MBC FM4U
+https://sminiplay.imbc.com/aacplay.ashx?channel=mfm
+#EXTINF:-1 group-title="Korea" pine-genre="pop_hits",MBC 올댓뮤직
+https://sminiplay.imbc.com/aacplay.ashx?channel=chm
 #EXTINF:-1 group-title="Korea",KBS 1라디오
 http://serpent0.duckdns.org:8088/kbs1radio.pls
 #EXTINF:-1 group-title="Korea",KBS 클래식FM

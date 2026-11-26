@@ -42,6 +42,8 @@ Then open <http://localhost:8000>. Locally the page plays every stream directly,
 - **Hide the list:** the button after the site name in the header closes and reopens the country / collection list. The choice is saved in the browser.
 
 ### Playback
+
+- **MBC:** South Korea starts with MBC 표준FM, FM4U and 올댓뮤직. The player resolves a fresh HTTPS HLS URL from mini's JSONP endpoint on every play/reconnect; expiring stream tokens are never stored in station data or favorites. Old MBC favorites using the two serpent0 playlist URLs also use this resolver. This depends on mini's undocumented interface and may need maintenance if MBC changes it; technical availability does not grant redistribution rights. Confirm MBC's usage conditions before public distribution.
 - **Formats:** plain audio streams and HLS (`.m3u8`, via [hls.js](https://github.com/video-dev/hls.js)).
 - **Reconnect:** a station that has played and then drops (a network blip, e.g. switching 5G cells) is reconnected up to 5 times, 1–15 s apart, before an error shows. A station that never starts fails at once.
 - **Previous/next:** follows the current result list, or the playlist for audiobooks.
@@ -120,6 +122,8 @@ deploy/
 ```
 
 The `bitrate`, `logo`, `tags`, `country_inferred` and `language_inferred` fields are optional, and so are `featured` (rank in `tools/featured/*.m3u`) and `rb` (Radio Browser station id).
+
+Featured entries can specify `pine-replaces="<old URL>"` to remove an obsolete address during every rebuild. Reapplying featured lists preserves existing station metadata at unchanged URLs.
 
 ### Audiobook file format
 

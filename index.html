@@ -1068,24 +1068,90 @@ function playableUrl(url) {
 }
 const audio = $("#audio");
 let hls = null;
+// mini issues expiring HLS links. Keep the channel endpoint as the station identity and
+// request a fresh link for every play/reconnect, using mini's supported JSONP response.
+let mbcRequestId = 0;
+function mbcChannel(url) {
+  const legacy = { "http://serpent0.duckdns.org:8088/mbcsfm.pls": "sfm",
+    "http://serpent0.duckdns.org:8088/mbcfm.pls": "mfm" };
+  if (legacy[url]) return legacy[url]; // also keeps existing favorites playable
+  try {
+    const u = new URL(url);
+    const channel = u.searchParams.get("channel");
+    return u.origin === "https://sminiplay.imbc.com" && u.pathname === "/aacplay.ashx"
+      && ["sfm", "mfm", "chm"].includes(channel) ? channel : null;
+  } catch { return null; }
+}
+function resolveMbc(channel, signal) {
+  return new Promise((resolve, reject) => {
+    const callback = "pineMbc" + (++mbcRequestId);
+    const script = document.createElement("script");
+    let timer, settled = false;
+    const finish = (err, url) => {
+      if (settled) return;
+      settled = true;
+      clearTimeout(timer); script.remove();
+      if (err) {
+        // Removing a JSONP script does not reliably cancel its network request. A late
+        // response must have a harmless callback instead of throwing or starting playback.
+        window[callback] = () => {};
+        setTimeout(() => { delete window[callback]; }, 60000);
+      } else { delete window[callback]; }
+      signal.removeEventListener("abort", abort);
+      err ? reject(err) : resolve(url);
+    };
+    const abort = () => finish(new DOMException("Cancelled", "AbortError"));
+    window[callback] = data => {
+      try {
+        const u = new URL(data.AACLiveURL);
+        if (u.protocol !== "https:" || !u.hostname.endsWith(".imbc.com") || !u.pathname.endsWith(".m3u8")) {
+          throw new Error("Invalid MBC stream");
+        }
+        finish(null, u.href);
+      } catch (err) { finish(err); }
+    };
+    script.onerror = () => finish(new Error("MBC connection failed"));
+    timer = setTimeout(() => finish(new Error("MBC connection timed out")), 15000);
+    signal.addEventListener("abort", abort, { once: true });
+    if (signal.aborted) { abort(); return; }
+    script.src = "https://sminiplay.imbc.com/aacplay.ashx?" + new URLSearchParams({
+      channel, protocol: "M3U8", agent: "webapp", rtype: "jsonp", callback,
+    });
+    document.head.append(script);
+  });
+}
 // status is stored as a key (+ error flag) so it can be re-rendered when the language changes
 let nowState = { key: null, err: false };
 const P = {
-  current: null, queue: [], qi: -1, wantPlay: false,
-  load(url) {
+  current: null, queue: [], qi: -1, wantPlay: false, request: null,
+  async load(url) {
     clearRetry(); this.wantPlay = true;
+    this.request?.abort();
+    const request = this.request = new AbortController();
     if (hls) { hls.destroy(); hls = null; }
+    audio.pause();
     audio.removeAttribute("src");
+    const channel = mbcChannel(url);
+    if (channel) {
+      audio.load();
+      updateNow("st_connecting");
+      try { url = await resolveMbc(channel, request.signal); }
+      catch (err) {
+        if (!request.signal.aborted && !reconnect()) showErr("err_stream");
+        return;
+      }
+      if (request.signal.aborted || !this.wantPlay) return;
+    }
     const isHls = /\.m3u8(\?|$)/i.test(url);   // decided on the original URL, before proxying
     url = playableUrl(url);
     if (isHls && !audio.canPlayType("application/vnd.apple.mpegurl") && window.Hls?.isSupported()) {
       hls = new Hls();
-      hls.on(Hls.Events.ERROR, (_, d) => { if (d.fatal && !reconnect()) showErr("err_hls"); });
+      hls.on(Hls.Events.ERROR, (_, d) => { if (!request.signal.aborted && d.fatal && !reconnect()) showErr("err_hls"); });
       hls.loadSource(url); hls.attachMedia(audio);
     } else {
       audio.src = url;
     }
-    audio.play().catch(e => { if (e.name !== "AbortError") showErr(e.name === "NotAllowedError" ? "err_tap" : "err_stream"); });
+    audio.play().catch(e => { if (!request.signal.aborted && e.name !== "AbortError") showErr(e.name === "NotAllowedError" ? "err_tap" : "err_stream"); });
   },
   playStation(r, list) {
     this.queue = list.filter(x => x.kind === "radio"); this.qi = this.queue.indexOf(r);
@@ -1106,10 +1172,13 @@ const P = {
   },
   toggle() {
     if (!this.current) return;
+    if (this.wantPlay && mbcChannel(this.current.url) && !audio.getAttribute("src") && !hls) {
+      this.wantPlay = false; this.request?.abort(); clearRetry(); updateNow("st_paused"); return;
+    }
     if (audio.paused) {
       // live streams: reconnect instead of resuming a stale buffer
       if (this.current.kind === "radio") this.load(this.current.url); else audio.play();
-    } else { this.wantPlay = false; clearRetry(); audio.pause(); }
+    } else { this.wantPlay = false; this.request?.abort(); clearRetry(); audio.pause(); }
   },
 };
 function currentSub() {

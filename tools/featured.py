@@ -11,6 +11,7 @@ Per-entry #EXTINF attributes:
                              GENRE_OVERRIDES in build_stations.py still applies on top
   pine-language="English"    language (default: the country's largest language)
   tvg-logo="https://…"       logo
+  pine-replaces="http://…"  obsolete station address to remove on every rebuild
 
 build_stations.py runs this after every rebuild. To apply list changes without a rebuild:
   python3 -I tools/featured.py data
@@ -49,9 +50,11 @@ def apply(out):
             doc = json.load(f)
         picks = [(url, name, attrs) for url, name, attrs in parse_m3u(m3u)]
         keys = {norm_url(url) for url, _, _ in picks}
+        keys.update(norm_url(attrs["pine-replaces"]) for _, _, attrs in picks if attrs.get("pine-replaces"))
 
         # take out earlier featured entries and anything at a featured address, remembering its genre
         old_genre = {}
+        old_records = {}
         rows = []  # (language, genre, record)
         for lang, lv in doc["languages"].items():
             for genre, gv in lv["genres"].items():
@@ -59,6 +62,7 @@ def apply(out):
                     key = norm_url(rec["url"])
                     if key in keys:
                         old_genre.setdefault(key, genre)
+                        old_records.setdefault(key, rec)
                         continue
                     if rec.pop("featured", None) is not None:
                         continue
@@ -68,7 +72,7 @@ def apply(out):
         for rank, (url, name, attrs) in enumerate(picks, 1):
             name = name or url
             genre = attrs.get("pine-genre") or old_genre.get(norm_url(url)) or "unclassified"
-            rec = {"name": name, "url": url}
+            rec = {**old_records.get(norm_url(url), {}), "name": name, "url": url}
             if attrs.get("tvg-logo"):
                 rec["logo"] = attrs["tvg-logo"]
             rec["featured"] = rank
