@@ -309,7 +309,8 @@ const UI = {
   info:             ["Station details", "电台详情", "電台詳情", "Détails de la station", "Senderdetails", "局の詳細", "방송 정보", "О станции", "Detalles de la emisora"],
   close:            ["Close", "关闭", "關閉", "Fermer", "Schließen", "閉じる", "닫기", "Закрыть", "Cerrar"],
   d_country:        ["Country", "国家/地区", "國家/地區", "Pays", "Land", "国・地域", "국가", "Страна", "País"],
-  d_active:         ["Active", "可用次数", "可用次數", "Actif", "Aktiv", "接続成功回数", "접속 성공", "Успешные проверки", "Conexiones exitosas"],
+  d_active:         ["Operational", "运行中", "運作中", "En service", "In Betrieb", "稼働中", "운영 중", "Работает", "En servicio"],
+  d_unverified:     ["Unverified", "未确认", "未確認", "Non vérifié", "Ungeprüft", "未確認", "미확인", "Не проверено", "Sin verificar"],
   d_bitrate:        ["Bitrate", "码率", "位元率", "Débit", "Bitrate", "ビットレート", "비트레이트", "Битрейт", "Tasa de bits"],
   d_tags:           ["Tags", "标签", "標籤", "Tags", "Tags", "タグ", "태그", "Теги", "Etiquetas"],
   d_stream:         ["Stream URL", "流地址", "串流網址", "URL du flux", "Stream-URL", "ストリームURL", "스트림 주소", "Адрес потока", "URL del stream"],
@@ -811,7 +812,7 @@ function stationRow(r) {
   if (r.lang) tag(langName(r.lang), r.language_inferred, r.language_inferred ? t("guess_lang") : "");
   if (r.genre) tag(genreName(r.genre));
   if (r.bitrate) tag(r.bitrate + " kbps");
-  tag(t("d_active") + " " + (r.active ?? 0));
+  tag(t(r.active > 0 ? "d_active" : "d_unverified"));
   sub.title = r.url;
   info.append(sub);
   const acts = el("div", "actions");
