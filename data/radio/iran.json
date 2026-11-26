@@ -10,6 +10,7 @@
      "stations": [
       {
        "name": "Radio Tooka",
+       "active": 0,
        "url": "http://173.192.105.231:6274/Live",
        "tags": [
         "alternative_indie",
@@ -25,6 +26,7 @@
      "stations": [
       {
        "name": "IRIB Radio Quran",
+       "active": 0,
        "url": "http://s3.cdn1.iranseda.ir:1935/liveedge/radio-quran/chunklist.m3u8",
        "tags": [
         "christian_gospel",
@@ -33,6 +35,7 @@
       },
       {
        "name": "IRIB Radio Talavat",
+       "active": 0,
        "url": "http://s3.cdn1.iranseda.ir:1935/liveedge/radio-talavat/chunklist.m3u8",
        "tags": [
         "christian_gospel",
@@ -41,6 +44,7 @@
       },
       {
        "name": "Tzgospel Swahili (Iran) radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/pwbr04ca7ehvv",
        "language_inferred": true
       }
@@ -51,10 +55,12 @@
      "stations": [
       {
        "name": "Alyaman Alaraby",
+       "active": 0,
        "url": "http://www.radioma3ak.com:8100"
       },
       {
        "name": "Iranian Radio Traditional",
+       "active": 0,
        "url": "http://listen.shoutcast.com/IranianRadioTraditionalSonati",
        "tags": [
         "pop_hits",
@@ -64,6 +70,7 @@
       },
       {
        "name": "parsa",
+       "active": 0,
        "url": "http://parsa.icdndhcp.com:18000/stream?n=475a0263170d2e8b32eb",
        "language_inferred": true,
        "rb": "dcb4d366-5b06-4f4d-a5cb-0b81d1c09521",
@@ -71,10 +78,12 @@
       },
       {
        "name": "Radio 6o8",
+       "active": 0,
        "url": "http://radio6o8.com:8000/stream"
       },
       {
        "name": "Radio Azadegan",
+       "active": 0,
        "url": "http://205.164.41.42/radioazadegan",
        "tags": [
         "news_talk",
@@ -84,6 +93,7 @@
       },
       {
        "name": "Radio Donya",
+       "active": 0,
        "url": "http://ample-zeno-12.radiojar.com:80/nppkday6n6duv?rj-ttl=5&amprj-token=AAABZhPJ7OpJ0d90I8aC8GpJjWdaEC3UcL7QA5TnPqe4QvzpgEU_2A",
        "tags": [
         "classical",
@@ -95,6 +105,7 @@
       },
       {
        "name": "radio faloode",
+       "active": 0,
        "url": "http://142.202.48.147:8000/live",
        "tags": [
         "classical",
@@ -104,6 +115,7 @@
       },
       {
        "name": "Radio Golha",
+       "active": 0,
        "url": "mms://84.244.130.224/RadioGolha",
        "tags": [
         "oldies",
@@ -112,6 +124,7 @@
       },
       {
        "name": "Radio Melody Stockholm",
+       "active": 0,
        "url": "http://78.69.242.58:8000/stream.nsv",
        "tags": [
         "pop_hits",
@@ -121,6 +134,7 @@
       },
       {
        "name": "RadioSimorgh Authentic Iranian music",
+       "active": 0,
        "url": "https://stream.zeno.fm/9svfnobkrxrvv?n=9e9ca2773afc2e8abf7c",
        "language_inferred": true,
        "rb": "a1fbace9-f758-443d-8bca-2dd43c64898a",
@@ -128,6 +142,7 @@
       },
       {
        "name": "Radiosimorgh Kl News And Music And Talk",
+       "active": 0,
        "url": "http://irib.com.my/images/stories/Audio/Live_Radio.wvx",
        "tags": [
         "news_talk",
@@ -151,23 +166,28 @@
      "stations": [
       {
        "name": "FARVARDINSAIID",
+       "active": 0,
        "url": "https://stream.zeno.fm/wxlp1l2yr6vvv"
       },
       {
        "name": "FORUD FOULADVAND",
+       "active": 0,
        "url": "https://stream.zeno.fm/6yueewgntmstv"
       },
       {
        "name": "radio-nava-abhar-rood",
+       "active": 0,
        "url": "https://stream.zeno.fm/ucw0c5ayqf9uv"
       },
       {
        "name": "radioforexgram",
+       "active": 0,
        "url": "https://stream.zeno.fm/rkqswk90mp8uv",
        "language_inferred": true
       },
       {
        "name": "yoosofan",
+       "active": 0,
        "url": "https://stream.zeno.fm/z87pd7rtwd0uv"
       }
      ]
@@ -177,6 +197,7 @@
      "stations": [
       {
        "name": "IRIB Radio Saba",
+       "active": 0,
        "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-saba/playlist.m3u8",
        "tags": [
         "pop_hits",
@@ -185,23 +206,28 @@
       },
       {
        "name": "Radio Hooy",
+       "active": 0,
        "url": "https://stream.zeno.fm/0ceuwf8ftg8uv"
       },
       {
        "name": "Radio Shemroon",
+       "active": 0,
        "url": "https://stream.zeno.fm/t23ehnzx5x8uv"
       },
       {
        "name": "SobheJome",
+       "active": 0,
        "url": "https://stream.zeno.fm/f3gvbfp838quv"
       },
       {
        "name": "Tataloo",
+       "active": 0,
        "url": "https://stream.zeno.fm/cafhw0gctg8uv",
        "language_inferred": true
       },
       {
        "name": "Vegas RolePlay",
+       "active": 0,
        "url": "https://stream.zeno.fm/p246av8xn0hvv",
        "language_inferred": true
       }
@@ -212,6 +238,7 @@
      "stations": [
       {
        "name": "Radio PRC",
+       "active": 0,
        "url": "https://radio.radioprc.net",
        "tags": [
         "easy_listening",
@@ -225,6 +252,7 @@
      "stations": [
       {
        "name": "Embedded Radio",
+       "active": 0,
        "url": "http://play.mehranplus.com",
        "tags": [
         "electronic",
@@ -233,6 +261,7 @@
       },
       {
        "name": "Ibiza Underground Radio",
+       "active": 0,
        "url": "https://soundcloud.app.goo.gl/vCr2RhaDJGauSQx29",
        "tags": [
         "electronic",
@@ -242,6 +271,7 @@
       },
       {
        "name": "Iranian Radio Dance",
+       "active": 0,
        "url": "http://listen.shoutcast.com/IranianRadioDance",
        "tags": [
         "pop_hits",
@@ -251,6 +281,7 @@
       },
       {
        "name": "IranianRadio.com - Dance Party",
+       "active": 0,
        "url": "https://streaming.shoutcast.com/IranianRadioDance",
        "tags": [
         "pop_hits",
@@ -259,6 +290,7 @@
       },
       {
        "name": "Mirante FM",
+       "active": 0,
        "url": "http://streaming14.hstbr.net:8054/live",
        "tags": [
         "electronic",
@@ -268,6 +300,7 @@
       },
       {
        "name": "Radio Eram",
+       "active": 0,
        "url": "http://37.59.47.192:8200/",
        "tags": [
         "electronic",
@@ -277,6 +310,7 @@
       },
       {
        "name": "Radio Eram",
+       "active": 0,
        "url": "http://37.59.47.192:8200/listning.mp3",
        "tags": [
         "electronic",
@@ -285,6 +319,7 @@
       },
       {
        "name": "Radio Eram",
+       "active": 0,
        "url": "http://37.59.47.192:8200/listen.mp3",
        "tags": [
         "pop_hits",
@@ -294,6 +329,7 @@
       },
       {
        "name": "Radio Eram radio",
+       "active": 0,
        "url": "https://audio.radioeram.com/",
        "tags": [
         "electronic",
@@ -303,6 +339,7 @@
       },
       {
        "name": "Radio PRC",
+       "active": 0,
        "url": "https://ample-06.radiojar.com/3x69de6ud5zuv?rj-ttl=5&rj-tok=AAABdDSbGuEACGbc4QZ1a9Kivw",
        "tags": [
         "electronic",
@@ -317,6 +354,7 @@
      "stations": [
       {
        "name": "IRIB Ava",
+       "active": 0,
        "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-avaa/playlist.m3u8",
        "tags": [
         "pop_hits",
@@ -325,21 +363,25 @@
       },
       {
        "name": "London Persian Radio (LPR)",
+       "active": 0,
        "url": "https://stream.pcradio.ru/londonpersian-med",
        "language_inferred": true
       },
       {
        "name": "Radio Darvish radio",
+       "active": 0,
        "url": "https://radiodarvish.radio12345.com/",
        "language_inferred": true
       },
       {
        "name": "Radio Luristan Jonobi",
+       "active": 0,
        "url": "http://206.190.131.100:9350/stream/1",
        "language_inferred": true
       },
       {
        "name": "Radio Navahang",
+       "active": 0,
        "url": "https://navairan.com/stream.nsv",
        "tags": [
         "pop_hits",
@@ -349,21 +391,25 @@
       },
       {
        "name": "Radio Navahang",
+       "active": 0,
        "url": "https://stream.pcradio.ru/rad_nvtgrn-med",
        "language_inferred": true
       },
       {
        "name": "Radio PRC",
+       "active": 0,
        "url": "https://stream.pcradio.ru/rad_rdrmcm-med",
        "language_inferred": true
       },
       {
        "name": "Radio Ran",
+       "active": 0,
        "url": "https://stream.pcradio.ru/radioran_co_il-med",
        "language_inferred": true
       },
       {
        "name": "Radio Shadi",
+       "active": 0,
        "url": "http://streamdb6web.securenetsystems.net/v5/SHADI",
        "tags": [
         "folk",
@@ -373,6 +419,7 @@
       },
       {
        "name": "Rodio Quran | رودیو قرآن",
+       "active": 0,
        "url": "https://stream.rodio.ir/radio/8020/radio.mp3",
        "tags": [
         "folk",
@@ -383,6 +430,7 @@
       },
       {
        "name": "ایستگاه ابهررود: رادیو اینترنتی ابهر و رها",
+       "active": 0,
        "url": "https://stream.zeno.fm/nqcvmcbzftzuv",
        "tags": [
         "folk",
@@ -392,6 +440,7 @@
       },
       {
        "name": "رادیو نمایش",
+       "active": 0,
        "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-namayesh/playlist.m3u8",
        "tags": [
         "folk",
@@ -406,15 +455,18 @@
      "stations": [
       {
        "name": "Persian Rap",
+       "active": 0,
        "url": "http://streammax6.radioca.st/streammax6"
       },
       {
        "name": "Persian Rap Radio",
+       "active": 0,
        "url": "http://node-15.zeno.fm:80/edu18fr0xqzuv",
        "language_inferred": true
       },
       {
        "name": "Persian Rap Radio",
+       "active": 0,
        "url": "https://streammax6.radioca.st/streammax6.pls",
        "tags": [
         "hip_hop_rap",
@@ -423,6 +475,7 @@
       },
       {
        "name": "Persian Rap Radio",
+       "active": 0,
        "url": "http://node-07.zeno.fm:80/edu18fr0xqzuv",
        "tags": [
         "hip_hop_rap",
@@ -434,6 +487,7 @@
       },
       {
        "name": "Radio Eram",
+       "active": 0,
        "url": "http://37.59.47.192:8200/stream/",
        "tags": [
         "hip_hop_rap",
@@ -448,6 +502,7 @@
      "stations": [
       {
        "name": "IRIB Radio Ziarat",
+       "active": 0,
        "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-ziarat/playlist.m3u8",
        "tags": [
         "islamic_quran",
@@ -462,6 +517,7 @@
      "stations": [
       {
        "name": "Persian Energy Radio",
+       "active": 0,
        "url": "http://listen.radionomy.com/radiohamseda",
        "tags": [
         "country",
@@ -477,6 +533,7 @@
      "stations": [
       {
        "name": "Mdmdnd",
+       "active": 0,
        "url": "https://stream.zeno.fm/pr984e4e4zhvv",
        "language_inferred": true
       }
@@ -487,6 +544,7 @@
      "stations": [
       {
        "name": "Ahlulbayt TV",
+       "active": 0,
        "url": "http://109.123.126.14:1935/live/livestream1.sdp/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -497,6 +555,7 @@
       },
       {
        "name": "Iran International",
+       "active": 0,
        "url": "http://n05.radiojar.com/iintl_c?rj-ttl=5&rj-tok=AAABfEA3IHMA-42MdeJAJ66gzg",
        "tags": [
         "news_talk",
@@ -505,11 +564,13 @@
       },
       {
        "name": "Iran TV 2",
+       "active": 0,
        "url": "http://www2.irib.ir/live/tv2.asx",
        "language_inferred": true
       },
       {
        "name": "IRIB Radio Abadan",
+       "active": 0,
        "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-abadan/chunklist.m3u8",
        "tags": [
         "news_talk",
@@ -518,6 +579,7 @@
       },
       {
        "name": "IRIB Radio Ahvaz",
+       "active": 0,
        "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-khoozestan/chunklist.m3u8",
        "tags": [
         "news_talk",
@@ -526,6 +588,7 @@
       },
       {
        "name": "IRIB Radio Alborz",
+       "active": 0,
        "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-alborz/chunklist.m3u8",
        "tags": [
         "news_talk",
@@ -534,11 +597,13 @@
       },
       {
        "name": "IRIB Radio Arabic",
+       "active": 0,
        "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-arabic/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "IRIB Radio Arak",
+       "active": 0,
        "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-markazi/chunklist.m3u8",
        "tags": [
         "news_talk",
@@ -547,6 +612,7 @@
       },
       {
        "name": "IRIB Radio Ardabil",
+       "active": 0,
        "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-ardebil/chunklist.m3u8",
        "tags": [
         "news_talk",
@@ -555,6 +621,7 @@
       },
       {
        "name": "IRIB Radio Bandar Abbas",
+       "active": 0,
        "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-bandarabas/chunklist.m3u8",
        "tags": [
         "news_talk",
@@ -563,6 +630,7 @@
       },
       {
        "name": "IRIB Radio Birjand",
+       "active": 0,
        "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-khorasanjonoobi/chunklist.m3u8",
        "tags": [
         "news_talk",
@@ -571,6 +639,7 @@
       },
       {
        "name": "IRIB Radio Bojnord",
+       "active": 0,
        "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-khorsanshomali/chunklist.m3u8",
        "tags": [
         "news_talk",
@@ -579,6 +648,7 @@
       },
       {
        "name": "IRIB Radio Bushehr",
+       "active": 0,
        "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-bushehr/chunklist.m3u8",
        "tags": [
         "news_talk",
@@ -587,30 +657,36 @@
       },
       {
        "name": "IRIB Radio Eghtesad",
+       "active": 0,
        "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-eghtesad/playlist.m3u8"
       },
       {
        "name": "IRIB Radio Eghtesad",
+       "active": 0,
        "url": "http://s0.cdn2.iranseda.ir:1935/liveedge/radio-eghtesad/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "IRIB Radio Eghtesad",
+       "active": 0,
        "url": "http://s3.cdn1.iranseda.ir:1935/liveedge/radio-eghtesad/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "IRIB Radio Enghelab",
+       "active": 0,
        "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-monasebati/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "IRIB Radio English",
+       "active": 0,
        "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-english/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "IRIB Radio Esfahan",
+       "active": 0,
        "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-esfahan/chunklist.m3u8",
        "tags": [
         "news_talk",
@@ -619,6 +695,7 @@
       },
       {
        "name": "IRIB Radio Gilan",
+       "active": 0,
        "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-rasht/chunklist.m3u8",
        "tags": [
         "news_talk",
@@ -627,19 +704,23 @@
       },
       {
        "name": "IRIB Radio Goftego",
+       "active": 0,
        "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-goftego/playlist.m3u8"
       },
       {
        "name": "IRIB Radio Goftego",
+       "active": 0,
        "url": "http://s1.cdn2.iranseda.ir:1935/liveedge/radio-goftego/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "IRIB Radio Goftogoo",
+       "active": 0,
        "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-goftego/chunklist.m3u8"
       },
       {
        "name": "IRIB Radio Gorgan",
+       "active": 0,
        "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-gorgan/chunklist.m3u8",
        "tags": [
         "news_talk",
@@ -648,6 +729,7 @@
       },
       {
        "name": "IRIB Radio Hamadan",
+       "active": 0,
        "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-hamedan/chunklist.m3u8",
        "tags": [
         "news_talk",
@@ -656,6 +738,7 @@
       },
       {
        "name": "IRIB Radio Ilam",
+       "active": 0,
        "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-ilam/chunklist.m3u8",
        "tags": [
         "news_talk",
@@ -664,6 +747,7 @@
       },
       {
        "name": "IRIB Radio Iran",
+       "active": 0,
        "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-iran/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -674,6 +758,7 @@
       },
       {
        "name": "IRIB Radio Iran",
+       "active": 0,
        "url": "http://s3.cdn1.iranseda.ir:1935/liveedge/radio-iran/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -682,11 +767,13 @@
       },
       {
        "name": "IRIB Radio Iran",
+       "active": 0,
        "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-iran/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "IRIB Radio Kerman",
+       "active": 0,
        "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-kerman/chunklist.m3u8",
        "tags": [
         "news_talk",
@@ -695,6 +782,7 @@
       },
       {
        "name": "IRIB Radio Kermanshah",
+       "active": 0,
        "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-kermanshah/chunklist.m3u8",
        "tags": [
         "news_talk",
@@ -703,6 +791,7 @@
       },
       {
        "name": "IRIB Radio Kish",
+       "active": 0,
        "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-kish/chunklist.m3u8",
        "tags": [
         "news_talk",
@@ -711,6 +800,7 @@
       },
       {
        "name": "IRIB Radio Lorestan",
+       "active": 0,
        "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-lorestan/chunklist.m3u8",
        "tags": [
         "news_talk",
@@ -719,6 +809,7 @@
       },
       {
        "name": "IRIB Radio Maaref",
+       "active": 0,
        "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-maaref/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -728,6 +819,7 @@
       },
       {
        "name": "IRIB Radio Mahabad",
+       "active": 0,
        "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-mahabad/chunklist.m3u8",
        "tags": [
         "news_talk",
@@ -736,6 +828,7 @@
       },
       {
        "name": "IRIB Radio Mashhad",
+       "active": 0,
        "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-khorasanrazavi/chunklist.m3u8",
        "tags": [
         "news_talk",
@@ -744,6 +837,7 @@
       },
       {
        "name": "IRIB Radio Monasebati",
+       "active": 0,
        "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-monasebati/chunklist.m3u8",
        "tags": [
         "news_talk",
@@ -752,6 +846,7 @@
       },
       {
        "name": "IRIB Radio Namayesh",
+       "active": 0,
        "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-namayesh/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -760,12 +855,14 @@
       },
       {
        "name": "IRIB Radio Namayesh",
+       "active": 0,
        "url": "http://cdn1.live.irib.ir:1935/channel-live/smil:r-namayesh/playlist.m3u8",
        "country_inferred": true,
        "language_inferred": true
       },
       {
        "name": "IRIB Radio Namayesh",
+       "active": 0,
        "url": "http://s3.cdn1.iranseda.ir:1935/liveedge/radio-namayesh/media_w2071815829_98604.aac",
        "tags": [
         "news_talk",
@@ -775,6 +872,7 @@
       },
       {
        "name": "IRIB Radio Namayesh",
+       "active": 0,
        "url": "http://s2.cdn2.iranseda.ir:1935/liveedge/radio-namayesh/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -785,6 +883,7 @@
       },
       {
        "name": "IRIB Radio Payam",
+       "active": 0,
        "url": "http://s3.cdn1.iranseda.ir:1935/liveedge/radio-payam/chunklist.m3u8",
        "tags": [
         "news_talk",
@@ -793,6 +892,7 @@
       },
       {
        "name": "IRIB Radio Qazvin",
+       "active": 0,
        "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-qazvin/chunklist.m3u8",
        "tags": [
         "news_talk",
@@ -801,6 +901,7 @@
       },
       {
        "name": "IRIB Radio Qom",
+       "active": 0,
        "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-qom/chunklist.m3u8",
        "tags": [
         "news_talk",
@@ -809,11 +910,13 @@
       },
       {
        "name": "IRIB Radio Quran",
+       "active": 0,
        "url": "http://s3.cdn1.iranseda.ir:1935/liveedge/radio-quran/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "IRIB Radio Saba",
+       "active": 0,
        "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-saba/chunklist.m3u8",
        "tags": [
         "news_talk",
@@ -822,10 +925,12 @@
       },
       {
        "name": "IRIB Radio Salamat",
+       "active": 0,
        "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-salamat/playlist.m3u8"
       },
       {
        "name": "IRIB Radio Sanandaj",
+       "active": 0,
        "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-kordestan/chunklist.m3u8",
        "tags": [
         "news_talk",
@@ -834,6 +939,7 @@
       },
       {
        "name": "IRIB Radio Sari",
+       "active": 0,
        "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-sari/chunklist.m3u8",
        "tags": [
         "news_talk",
@@ -842,6 +948,7 @@
       },
       {
        "name": "IRIB Radio Semnan",
+       "active": 0,
        "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-semnan/chunklist.m3u8",
        "tags": [
         "news_talk",
@@ -850,6 +957,7 @@
       },
       {
        "name": "IRIB Radio Shahr-e Kord",
+       "active": 0,
        "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-shahrekord/chunklist.m3u8",
        "tags": [
         "news_talk",
@@ -858,6 +966,7 @@
       },
       {
        "name": "IRIB Radio Shiraz",
+       "active": 0,
        "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-fars/chunklist.m3u8",
        "tags": [
         "news_talk",
@@ -866,6 +975,7 @@
       },
       {
        "name": "IRIB Radio Tabriz",
+       "active": 0,
        "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-tabriz/chunklist.m3u8",
        "tags": [
         "news_talk",
@@ -874,6 +984,7 @@
       },
       {
        "name": "IRIB Radio Talavat",
+       "active": 0,
        "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-tartil/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -883,21 +994,25 @@
       },
       {
        "name": "IRIB Radio Talavat",
+       "active": 0,
        "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-talavat/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "IRIB Radio Talavat",
+       "active": 0,
        "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-talavat/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "IRIB Radio Tehran",
+       "active": 0,
        "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-tehran/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "IRIB Radio Tehran",
+       "active": 0,
        "url": "http://s3.cdn1.iranseda.ir:1935/liveedge/radio-tehran/chunklist.m3u8",
        "tags": [
         "news_talk",
@@ -906,6 +1021,7 @@
       },
       {
        "name": "IRIB Radio Urmia",
+       "active": 0,
        "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-azgharbi/chunklist.m3u8",
        "tags": [
         "news_talk",
@@ -914,6 +1030,7 @@
       },
       {
        "name": "IRIB Radio West Azerbaijan",
+       "active": 0,
        "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-azgharbi/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -924,6 +1041,7 @@
       },
       {
        "name": "IRIB Radio Yasuj",
+       "active": 0,
        "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-yasuj/chunklist.m3u8",
        "tags": [
         "news_talk",
@@ -932,6 +1050,7 @@
       },
       {
        "name": "IRIB Radio Yazd",
+       "active": 0,
        "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-yazd/chunklist.m3u8",
        "tags": [
         "news_talk",
@@ -940,6 +1059,7 @@
       },
       {
        "name": "IRIB Radio Zahedan",
+       "active": 0,
        "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-zahedan/chunklist.m3u8",
        "tags": [
         "news_talk",
@@ -948,6 +1068,7 @@
       },
       {
        "name": "IRIB Radio Zanjan",
+       "active": 0,
        "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-zanjan/chunklist.m3u8",
        "tags": [
         "news_talk",
@@ -956,6 +1077,7 @@
       },
       {
        "name": "IRIB Radio Ziarat",
+       "active": 0,
        "url": "http://s3.cdn1.iranseda.ir:1935/liveedge/radio-ziarat/chunklist.m3u8",
        "tags": [
         "news_talk",
@@ -964,6 +1086,7 @@
       },
       {
        "name": "IRIB Varzesh Radio",
+       "active": 0,
        "url": "http://95.65.87.128/broadwave.mp3",
        "tags": [
         "news_talk",
@@ -973,19 +1096,23 @@
       },
       {
        "name": "IRIB WS 5",
+       "active": 0,
        "url": "http://stream.parstoday.com:1935/ws/irib5/playlist.m3u8"
       },
       {
        "name": "IRIB WS 6",
+       "active": 0,
        "url": "http://stream.parstoday.com:1935/ws/irib6/playlist.m3u8"
       },
       {
        "name": "IRIB WS3 Arabic Radio",
+       "active": 0,
        "url": "https://stream.pcradio.ru/rad_rbcrdnt-med",
        "language_inferred": true
       },
       {
        "name": "Pars Today Radio English Listen live",
+       "active": 0,
        "url": "https://stream.parstoday.com/ws/irib8/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -995,6 +1122,7 @@
       },
       {
        "name": "Pars Today Radio Spanish Listen live",
+       "active": 0,
        "url": "https://aod.parstoday.com:82/archive/mp3/20210829/20210829-Spanish-3.mp3",
        "tags": [
         "news_talk",
@@ -1004,6 +1132,7 @@
       },
       {
        "name": "Pars Today – Dari",
+       "active": 0,
        "url": "http://s3.cdn1.iranseda.ir:1935/liveedge/radio-boroon-dari/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -1013,6 +1142,7 @@
       },
       {
        "name": "ParsToday Radio English",
+       "active": 0,
        "url": "https://live1.presstv.com/live/irib8/index.m3u8",
        "tags": [
         "news_talk",
@@ -1022,25 +1152,30 @@
       },
       {
        "name": "ParsToday Radio Spanish",
+       "active": 0,
        "url": "https://stream.parstoday.com/ws/irib6/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "Persian Radio",
+       "active": 0,
        "url": "http://epersianradio.com/epersianradio.mp3",
        "language_inferred": true
       },
       {
        "name": "R Goftegoo",
+       "active": 0,
        "url": "http://liveradio.irib.ir/goftegoo.m3u8"
       },
       {
        "name": "Radio Arman",
+       "active": 0,
        "url": "http://88.198.236.234:8313/stream/1",
        "language_inferred": true
       },
       {
        "name": "Radio Danesh",
+       "active": 0,
        "url": "http://liveradio.irib.ir/danesh.m3u8",
        "tags": [
         "news_talk",
@@ -1050,15 +1185,18 @@
       },
       {
        "name": "Radio Darbast",
+       "active": 0,
        "url": "https://www.liveradio.es/http://live.radiodarbast.com:8443/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio Eghtesad",
+       "active": 0,
        "url": "http://liveradio.irib.ir/eghtesad.m3u8"
       },
       {
        "name": "Radio Farda",
+       "active": 0,
        "url": "https://stream.radiojar.com/cp13r2cpn3quv",
        "tags": [
         "news_talk",
@@ -1070,16 +1208,19 @@
       },
       {
        "name": "Radio Farda",
+       "active": 0,
        "url": "https://stream.pcradio.ru/farda_ir-med",
        "language_inferred": true
       },
       {
        "name": "Radio Hamseda",
+       "active": 0,
        "url": "http://www.radiohamseda.com/live.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio Iran International",
+       "active": 0,
        "url": "https://radio.iraninternational.app/iintl_c",
        "tags": [
         "news_talk",
@@ -1096,10 +1237,12 @@
       },
       {
        "name": "Radio Ma Va Shoma",
+       "active": 0,
        "url": "https://onlineradiobox.com/json/us/mavashoma/play?platform=web"
       },
       {
        "name": "Radio Mojdeh - Iranian Farsi/Persian Christian music and talk",
+       "active": 0,
        "url": "https://ic2326.c1261.fastserv.com/rm128?n=66973708e8d53ddd6978",
        "tags": [
         "news_talk",
@@ -1111,6 +1254,7 @@
       },
       {
        "name": "Radio Nawa Arabic",
+       "active": 0,
        "url": "http://nawaradio.primcast.com:4098/stream.mp3",
        "tags": [
         "news_talk",
@@ -1119,6 +1263,7 @@
       },
       {
        "name": "Radio Payam",
+       "active": 0,
        "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-payam/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -1130,6 +1275,7 @@
       },
       {
        "name": "Radio Payam",
+       "active": 0,
        "url": "http://listen.shoutcast.com/radiopayam",
        "tags": [
         "news_talk",
@@ -1139,6 +1285,7 @@
       },
       {
        "name": "Radio Tondar",
+       "active": 0,
        "url": "http://88.198.35.138:8000/128/stream.mp3",
        "tags": [
         "news_talk",
@@ -1148,17 +1295,20 @@
       },
       {
        "name": "Radio Varzesh",
+       "active": 0,
        "url": "http://cdn1.live.irib.ir:1935/channel-live/smil:r-varzesh/playlist.m3u8",
        "country_inferred": true,
        "language_inferred": true
       },
       {
        "name": "Radioarmaniran",
+       "active": 0,
        "url": "http://radioarmaniran.com:8313/stream/1",
        "language_inferred": true
       },
       {
        "name": "Sedaye Ashena 2",
+       "active": 0,
        "url": "http://liveradio.irib.ir/ashna2.m3u8",
        "tags": [
         "news_talk",
@@ -1167,23 +1317,28 @@
       },
       {
        "name": "Sedaye Ashna",
+       "active": 0,
        "url": "http://sedayeashna.irib.ir/documents/366574/1124415/goftemane-farhangi.mp3/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "SKICR Radio",
+       "active": 0,
        "url": "http://radio.skicrtv.in:10302"
       },
       {
        "name": "VOA News",
+       "active": 0,
        "url": "http://n05.radiojar.com/t2n88q0st5quv?rj-ttl=5&rj-tok=AAABeuJN50MAV6FYMXEZZVVrJg"
       },
       {
        "name": "رادیو رنگین‌کمان",
+       "active": 0,
        "url": "http://s2.radio.co/sccac9b205/listen"
       },
       {
        "name": "رودیو موسیقی – Rodio Noheh",
+       "active": 0,
        "url": "https://stream.rodio.ir/radio/8010/radio.mp3",
        "tags": [
         "news_talk",
@@ -1198,6 +1353,7 @@
      "stations": [
       {
        "name": "Radio Darbast",
+       "active": 0,
        "url": "http://live.radiodarbast.com:8443/stream.mp3",
        "tags": [
         "pop_hits",
@@ -1213,70 +1369,85 @@
      "stations": [
       {
        "name": "Iranian Radio Persian Pop",
+       "active": 0,
        "url": "http://listen.shoutcast.com/IranianRadioPop",
        "language_inferred": true
       },
       {
        "name": "IranianRadio - Pop",
+       "active": 0,
        "url": "http://streaming.shoutcast.com/IranianRadioPop",
        "language_inferred": true
       },
       {
        "name": "IranianRadio.com - Persian Pop",
+       "active": 0,
        "url": "http://www.iranianradio.com/radio/iranianradio-pop128.php?file=pls"
       },
       {
        "name": "IRIB Radio Javan",
+       "active": 0,
        "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-javan/playlist.m3u8"
       },
       {
        "name": "Media Stations",
+       "active": 0,
        "url": "http://31.12.64.211/mediastations",
        "language_inferred": true
       },
       {
        "name": "Middle Eastern Classical",
+       "active": 0,
        "url": "https://node-14.zeno.fm/r8b9smty1a0uv.aac",
        "language_inferred": true
       },
       {
        "name": "Radio 0098",
+       "active": 0,
        "url": "http://radio.radio0098.com:8000/radio1",
        "language_inferred": true
       },
       {
        "name": "Radio Ali (راديو على)",
+       "active": 0,
        "url": "http://204.9.190.92:9300/"
       },
       {
        "name": "radio ava",
+       "active": 0,
        "url": "http://player.iranseda.ir/live-player/?VALID=TRUE&CH=21&t=b&auto=true&SAVE=TRUE",
        "language_inferred": true
       },
       {
        "name": "Radio AvazFarsi",
+       "active": 0,
        "url": "https://radio.avazfarsi.com/8002/stream"
       },
       {
        "name": "Radio AvazFarsi radio",
+       "active": 0,
        "url": "https://radio.avazfarsi.com:8000/radio.mp3"
       },
       {
        "name": "Radio Hamdam",
+       "active": 0,
        "url": "http://37.187.79.153:5566/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio persian",
+       "active": 0,
        "url": "http://r.pgbu.ir:8000/live?n=d01c53781ee225095c7c"
       },
       {
        "name": "Radio Tehroon",
+       "active": 0,
        "url": "https://radiotehroon.out.airtime.pro/radiotehroon_a",
        "language_inferred": true
       },
       {
        "name": "Rodio",
+       "active": 0,
        "url": "https://stream.rodio.ir/radio/8000/radio.mp3",
        "tags": [
         "pop_hits",
@@ -1289,6 +1460,7 @@
       },
       {
        "name": "RTSH-Radio Tirana1",
+       "active": 0,
        "url": "http://167.114.131.90:5054/stream.mp3",
        "language_inferred": true
       }
@@ -1299,6 +1471,7 @@
      "stations": [
       {
        "name": "Avaz Farsi Radio",
+       "active": 0,
        "url": "http://avazfarsi.com:9300/stream",
        "tags": [
         "pop_hits",
@@ -1313,20 +1486,24 @@
      "stations": [
       {
        "name": "favorite Songs",
+       "active": 0,
        "url": "https://stream.zeno.fm/8epa1pm48ehvv",
        "language_inferred": true
       },
       {
        "name": "Gta san",
+       "active": 0,
        "url": "https://stream.zeno.fm/uyc5kv8fe18uv",
        "language_inferred": true
       },
       {
        "name": "IRIB Radio Varzesh",
+       "active": 0,
        "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-varzesh/chunklist.m3u8"
       },
       {
        "name": "IRIB Radio Varzesh",
+       "active": 0,
        "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-varzesh/playlist.m3u8",
        "tags": [
         "sports",
@@ -1335,11 +1512,13 @@
       },
       {
        "name": "qashqai radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/3hvqc7u3g18uv",
        "language_inferred": true
       },
       {
        "name": "TBCoiN",
+       "active": 0,
        "url": "https://stream.zeno.fm/qhuvf6vza0hvv",
        "language_inferred": true
       }
@@ -1350,6 +1529,7 @@
      "stations": [
       {
        "name": "Play FM",
+       "active": 0,
        "url": "https://streaming.radionomy.com/Elium-ClubDance",
        "tags": [
         "pop_hits",
@@ -1365,6 +1545,7 @@
      "stations": [
       {
        "name": "Radio Faloode",
+       "active": 0,
        "url": "http://206.221.177.137:8000/live",
        "language_inferred": true
       }
@@ -1375,6 +1556,7 @@
      "stations": [
       {
        "name": "Bia2 Radio",
+       "active": 0,
        "url": "http://199.58.163.15:8002",
        "tags": [
         "world",
@@ -1384,10 +1566,12 @@
       },
       {
        "name": "IranianRadio.com - Eshghe Iran",
+       "active": 0,
        "url": "http://www.iranianradio.com/radio/iranianradio-eshgheiran128.php?file=pls"
       },
       {
        "name": "Nava7 Persian & Iran Radio Folk Music",
+       "active": 0,
        "url": "http://5.39.71.159:8578/autodj",
        "tags": [
         "world",
@@ -1397,6 +1581,7 @@
       },
       {
        "name": "Radio Darvish",
+       "active": 0,
        "url": "http://95.154.202.117/stream.mp3?ipport=95.154.202.117_8843",
        "tags": [
         "world",
@@ -1405,6 +1590,7 @@
       },
       {
        "name": "Radio Farda",
+       "active": 0,
        "url": "https://n03.radiojar.com/cp13r2cpn3quv",
        "tags": [
         "news_talk",
@@ -1419,2434 +1605,2943 @@
      "stations": [
       {
        "name": "(Payam) الكويت",
+       "active": 0,
        "url": "http://headend1.iranseda.ir:8134/hls-live/livepkgr/_definst_/radio-payam/radio-payam-40k.m3u8"
       },
       {
        "name": "(Payam) الكويت – Tehran – IR-07",
+       "active": 0,
        "url": "http://s2.cdn1.iranseda.ir:1935/liveedge/radio-payam/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "14masoum",
+       "active": 0,
        "url": "https://stream.zeno.fm/hc8m93k1gchvv",
        "language_inferred": true
       },
       {
        "name": "27 music",
+       "active": 0,
        "url": "https://stream.zeno.fm/uwpe4c94pf9uv",
        "language_inferred": true
       },
       {
        "name": "3D Music",
+       "active": 0,
        "url": "https://stream.zeno.fm/u0s0t3g0df9uv",
        "language_inferred": true
       },
       {
        "name": "abhar-raha-bklam",
+       "active": 0,
        "url": "https://stream.zeno.fm/eqk7k20s2f8uv",
        "language_inferred": true
       },
       {
        "name": "abharazad",
+       "active": 0,
        "url": "https://stream.zeno.fm/kno811iy5o4tv",
        "language_inferred": true
       },
       {
        "name": "aboliw",
+       "active": 0,
        "url": "https://stream.zeno.fm/x5pmzpzdgfhvv",
        "language_inferred": true
       },
       {
        "name": "AFRA SANAT",
+       "active": 0,
        "url": "https://stream.zeno.fm/s8wtm6xcywitv",
        "language_inferred": true
       },
       {
        "name": "Ahwaz.fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/496e38d8dkhvv",
        "language_inferred": true
       },
       {
        "name": "Al Jihad Fm",
+       "active": 0,
        "url": "http://i.klikhost.net:8044/"
       },
       {
        "name": "Ali_lord3789",
+       "active": 0,
        "url": "https://stream.zeno.fm/wx6ab7u5w0hvv",
        "language_inferred": true
       },
       {
        "name": "Alone City English",
+       "active": 0,
        "url": "https://stream.zeno.fm/cvrqdpiwnmutv",
        "language_inferred": true
       },
       {
        "name": "Alone City Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/e2s2ctvqvkltv",
        "language_inferred": true
       },
       {
        "name": "Alone City Radio Pop",
+       "active": 0,
        "url": "https://stream.zeno.fm/gvi5km83ucgvv"
       },
       {
        "name": "Alone City Radio Remix",
+       "active": 0,
        "url": "https://stream.zeno.fm/dcgomoy0j4quv",
        "language_inferred": true
       },
       {
        "name": "alphamedia",
+       "active": 0,
        "url": "https://stream.zeno.fm/3t800d76dxhvv",
        "language_inferred": true
       },
       {
        "name": "Amiekahansh",
+       "active": 0,
        "url": "https://stream.zeno.fm/3bptt67rhy8uv",
        "language_inferred": true
       },
       {
        "name": "Amozhgary Radio",
+       "active": 0,
        "url": "http://108.163.223.242:8325/"
       },
       {
        "name": "Angamy Radio",
+       "active": 0,
        "url": "http://angamy.com:9302/stream"
       },
       {
        "name": "animedubbers",
+       "active": 0,
        "url": "https://stream.zeno.fm/gu4mytv8qs8uv",
        "language_inferred": true
       },
       {
        "name": "arabic",
+       "active": 0,
        "url": "https://stream.zeno.fm/5unm4stwwchvv",
        "language_inferred": true
       },
       {
        "name": "Arabic4",
+       "active": 0,
        "url": "https://stream.zeno.fm/uzjwhwsqxbotv",
        "language_inferred": true
       },
       {
        "name": "Aram Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/e0beyanwvd0uv",
        "language_inferred": true
       },
       {
        "name": "Asra Radio",
+       "active": 0,
        "url": "http://live.atyaf.co:8002/"
       },
       {
        "name": "AVA Radio",
+       "active": 0,
        "url": "https://node-10.zeno.fm/awhpcpe29f8uv?rj-ttl=5&amprj-tok=AAABeMBT550ADaM_PSQQ8mqvPQ",
        "language_inferred": true
       },
       {
        "name": "AvazFarsi – IR",
+       "active": 0,
        "url": "http://avazfarsi.com:9300/listen.pls?sid=1",
        "language_inferred": true
       },
       {
        "name": "Ayyar RadioStation",
+       "active": 0,
        "url": "https://stream.zeno.fm/xcy1e64dy98uv"
       },
       {
        "name": "BaBaEiPvPer",
+       "active": 0,
        "url": "https://stream.zeno.fm/qmp33yzpd0hvv",
        "language_inferred": true
       },
       {
        "name": "BabolsarOld",
+       "active": 0,
        "url": "https://stream.zeno.fm/vwp4tsqhd18uv",
        "language_inferred": true
       },
       {
        "name": "Bach - Brandenburg Concertos",
+       "active": 0,
        "url": "https://stream.zeno.fm/v8eqz21b4p8uv",
        "language_inferred": true
       },
       {
        "name": "Bach - Easter Oratorio",
+       "active": 0,
        "url": "https://stream.zeno.fm/ebvs8d0b4p8uv",
        "language_inferred": true
       },
       {
        "name": "Bach - Flute Sonatas",
+       "active": 0,
        "url": "https://stream.zeno.fm/5dwudrbc4p8uv",
        "language_inferred": true
       },
       {
        "name": "Bach - Matthaeus Passion",
+       "active": 0,
        "url": "https://stream.zeno.fm/p3c6v8mp3p8uv",
        "language_inferred": true
       },
       {
        "name": "Bach - Violin Concertos",
+       "active": 0,
        "url": "https://stream.zeno.fm/1qps553b4p8uv",
        "language_inferred": true
       },
       {
        "name": "BBC Persian Radio",
+       "active": 0,
        "url": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-daria_backup"
       },
       {
        "name": "BBC Persian Radio - Radio Select (Persian)",
+       "active": 0,
        "url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-low/proto/http/vpid/p08ntkp7.mp3"
       },
       {
        "name": "Best Radio IR",
+       "active": 0,
        "url": "https://stream.zeno.fm/77m76m1c898uv",
        "language_inferred": true
       },
       {
        "name": "BIGZeuS radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/3r4z6y2bxnhvv",
        "language_inferred": true
       },
       {
        "name": "BIGZeuS radio station 2",
+       "active": 0,
        "url": "https://stream.zeno.fm/8dm22gy5ynhvv",
        "language_inferred": true
       },
       {
        "name": "BiosMTA",
+       "active": 0,
        "url": "https://stream.zeno.fm/a2xjayhqllxvv",
        "language_inferred": true
       },
       {
        "name": "Blitz24",
+       "active": 0,
        "url": "https://stream.zeno.fm/ttcq269z338uv",
        "language_inferred": true
       },
       {
        "name": "Blitz244",
+       "active": 0,
        "url": "https://stream.zeno.fm/zqeh2a8bbshvv",
        "language_inferred": true
       },
       {
        "name": "Blognews",
+       "active": 0,
        "url": "https://stream.zeno.fm/d825ysvcsd0uv",
        "language_inferred": true
       },
       {
        "name": "Blue MTA",
+       "active": 0,
        "url": "https://stream.zeno.fm/7c0hdcafbxhvv",
        "language_inferred": true
       },
       {
        "name": "Blue MTA Moharram",
+       "active": 0,
        "url": "https://stream.zeno.fm/q9gwpha90xhvv",
        "language_inferred": true
       },
       {
        "name": "Blue MTA Moharram",
+       "active": 0,
        "url": "https://stream.zeno.fm/cvmp82980xhvv",
        "language_inferred": true
       },
       {
        "name": "bot music",
+       "active": 0,
        "url": "https://stream.zeno.fm/3gudua0ygrhvv",
        "language_inferred": true
       },
       {
        "name": "BoT ReMiX (TS)",
+       "active": 0,
        "url": "https://stream.zeno.fm/hpeeqeh42rhvv",
        "language_inferred": true
       },
       {
        "name": "BoT TαTαLσσ  (TS)",
+       "active": 0,
        "url": "https://stream.zeno.fm/mafmxam42rhvv",
        "language_inferred": true
       },
       {
        "name": "BOTRAP",
+       "active": 0,
        "url": "https://stream.zeno.fm/ffxqy5wxe48uv",
        "language_inferred": true
       },
       {
        "name": "Central City",
+       "active": 0,
        "url": "https://stream.zeno.fm/kzzsnxm9py8uv",
        "language_inferred": true
       },
       {
        "name": "ChatNet",
+       "active": 0,
        "url": "https://stream.zeno.fm/kf043etpruhvv",
        "language_inferred": true
       },
       {
        "name": "Cinema Sound",
+       "active": 0,
        "url": "https://stream.zeno.fm/b9y59wha1hhvv",
        "language_inferred": true
       },
       {
        "name": "cobra.loli",
+       "active": 0,
        "url": "https://stream.zeno.fm/wdmpq3054bhvv",
        "language_inferred": true
       },
       {
        "name": "cobra.specs",
+       "active": 0,
        "url": "https://stream.zeno.fm/xy2ymfv54bhvv",
        "language_inferred": true
       },
       {
        "name": "Commander",
+       "active": 0,
        "url": "https://stream.zeno.fm/d9yhfegacchvv",
        "language_inferred": true
       },
       {
        "name": "CYREX Family",
+       "active": 0,
        "url": "https://stream.zeno.fm/x160fargev8uv",
        "language_inferred": true
       },
       {
        "name": "CYREX LIVE",
+       "active": 0,
        "url": "https://stream.zeno.fm/tm1xacnhev8uv",
        "language_inferred": true
       },
       {
        "name": "czeczeczesc",
+       "active": 0,
        "url": "https://stream.zeno.fm/jnmwqg38u5guv",
        "language_inferred": true
       },
       {
        "name": "Dance Musics",
+       "active": 0,
        "url": "https://stream.zeno.fm/qe8kc0mayf9uv",
        "language_inferred": true
       },
       {
        "name": "Dehghani",
+       "active": 0,
        "url": "https://stream.zeno.fm/w1ct6fn0g03tv",
        "language_inferred": true
       },
       {
        "name": "DeutschRadio",
+       "active": 0,
        "url": "https://stream.zeno.fm/6m7taeszwc9uv",
        "language_inferred": true
       },
       {
        "name": "Diamond_Base",
+       "active": 0,
        "url": "https://stream.zeno.fm/bita1ffz9ituv",
        "language_inferred": true
       },
       {
        "name": "Diamond_Pop",
+       "active": 0,
        "url": "https://stream.zeno.fm/g15q9cci5c2tv",
        "language_inferred": true
       },
       {
        "name": "Diamond_Rapp",
+       "active": 0,
        "url": "https://stream.zeno.fm/eklchicygievv",
        "language_inferred": true
       },
       {
        "name": "Diamond_Turkey",
+       "active": 0,
        "url": "https://stream.zeno.fm/ng0ns7qivqcvv",
        "language_inferred": true
       },
       {
        "name": "Disco Galaxy",
+       "active": 0,
        "url": "https://stream.zeno.fm/xixttfvaftcuv",
        "language_inferred": true
       },
       {
        "name": "Doomer russian",
+       "active": 0,
        "url": "https://stream.zeno.fm/f12ek65xty8uv",
        "language_inferred": true
       },
       {
        "name": "Dr. Farhang Holakouee",
+       "active": 0,
        "url": "https://stream.zeno.fm/fc33aqgrqg8uv"
       },
       {
        "name": "Dr.stop custom radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/2puaeyv8nf9uv",
        "language_inferred": true
       },
       {
        "name": "Elham Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/4e6z117fwf9uv",
        "language_inferred": true
       },
       {
        "name": "Elise chill Zone",
+       "active": 0,
        "url": "https://stream.zeno.fm/8y75d4135bhvv",
        "language_inferred": true
       },
       {
        "name": "ElXSHOTI",
+       "active": 0,
        "url": "https://stream.zeno.fm/g2d2wbkms0hvv",
        "language_inferred": true
       },
       {
        "name": "en Music",
+       "active": 0,
        "url": "https://stream.zeno.fm/37pufzyyygpvv",
        "language_inferred": true
       },
       {
        "name": "English matters",
+       "active": 0,
        "url": "https://stream.zeno.fm/dtemtccmyrhvv",
        "language_inferred": true
       },
       {
        "name": "Escobar",
+       "active": 0,
        "url": "https://stream.zeno.fm/vpsqe91yfkhvv",
        "language_inferred": true
       },
       {
        "name": "Eshghman",
+       "active": 0,
        "url": "https://stream.zeno.fm/ekbsmpnnachvv",
        "language_inferred": true
       },
       {
        "name": "Eternal dawn",
+       "active": 0,
        "url": "https://stream.zeno.fm/47bw3hz3pa0uv",
        "language_inferred": true
       },
       {
        "name": "ezmusic",
+       "active": 0,
        "url": "https://stream.zeno.fm/p2mw6d96p48uv",
        "language_inferred": true
       },
       {
        "name": "Faazaa",
+       "active": 0,
        "url": "https://stream.zeno.fm/f96a7khgk98uv",
        "language_inferred": true
       },
       {
        "name": "Fact_Game",
+       "active": 0,
        "url": "https://stream.zeno.fm/fmhgdvqk1nmtv",
        "language_inferred": true
       },
       {
        "name": "FrienDlyLive",
+       "active": 0,
        "url": "https://stream.zeno.fm/wad4e1wgbchvv",
        "language_inferred": true
       },
       {
        "name": "FuryMoharam",
+       "active": 0,
        "url": "https://stream.zeno.fm/hxng9bbdzxhvv",
        "language_inferred": true
       },
       {
        "name": "FuryRap",
+       "active": 0,
        "url": "https://stream.zeno.fm/mw60k244098uv",
        "language_inferred": true
       },
       {
        "name": "FuryShoti",
+       "active": 0,
        "url": "https://stream.zeno.fm/7ara3044098uv",
        "language_inferred": true
       },
       {
        "name": "Gadidi",
+       "active": 0,
        "url": "https://stream.zeno.fm/vkyz14aa0xhvv",
        "language_inferred": true
       },
       {
        "name": "Galaxy Metal",
+       "active": 0,
        "url": "https://stream.zeno.fm/wj0zz3gdmdqtv",
        "language_inferred": true
       },
       {
        "name": "GAMBERON",
+       "active": 0,
        "url": "https://stream.zeno.fm/6k02ma38nzzuv",
        "language_inferred": true
       },
       {
        "name": "Gavazn",
+       "active": 0,
        "url": "https://stream.zeno.fm/t6uhr8g96p8uv",
        "language_inferred": true
       },
       {
        "name": "Gheseyezohrejome",
+       "active": 0,
        "url": "https://stream.zeno.fm/gu4p2qbr98quv",
        "language_inferred": true
       },
       {
        "name": "give_gallery",
+       "active": 0,
        "url": "https://stream.zeno.fm/72fbchxz0a0uv"
       },
       {
        "name": "hadi radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/ynqoyyeq2xnuv",
        "language_inferred": true
       },
       {
        "name": "HAMHES",
+       "active": 0,
        "url": "https://stream.zeno.fm/8p6dx5hvng8uv"
       },
       {
        "name": "HAMHES",
+       "active": 0,
        "url": "https://stream.zeno.fm/gnc62cpspg8uv",
        "language_inferred": true
       },
       {
        "name": "hamrah",
+       "active": 0,
        "url": "https://stream.zeno.fm/cbrgazhnb78uv",
        "language_inferred": true
       },
       {
        "name": "Hamstantine",
+       "active": 0,
        "url": "https://stream.zeno.fm/z4u7spwc938uv",
        "language_inferred": true
       },
       {
        "name": "Harmony of the Motherland",
+       "active": 0,
        "url": "https://stream.zeno.fm/syx4c5dfkf9uv",
        "language_inferred": true
       },
       {
        "name": "hasan24",
+       "active": 0,
        "url": "https://stream.zeno.fm/ch37yk94pf9uv",
        "language_inferred": true
       },
       {
        "name": "Hayedeh",
+       "active": 0,
        "url": "https://stream.zeno.fm/c798bwgctg8uv",
        "language_inferred": true
       },
       {
        "name": "HECTOR",
+       "active": 0,
        "url": "https://stream.zeno.fm/e1z8rf2dgfhvv",
        "language_inferred": true
       },
       {
        "name": "Hesam_K.H",
+       "active": 0,
        "url": "https://stream.zeno.fm/vzfkkjkj7klvv",
        "language_inferred": true
       },
       {
        "name": "Hip-Hop Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/4vqvdddvb0hvv",
        "language_inferred": true
       },
       {
        "name": "I am KiNG",
+       "active": 0,
        "url": "https://stream.zeno.fm/kf33epq32rhvv",
        "language_inferred": true
       },
       {
        "name": "iD telegram PannicPoint",
+       "active": 0,
        "url": "https://stream.zeno.fm/tueeqcrd5nhvv",
        "language_inferred": true
       },
       {
        "name": "IRan Rap",
+       "active": 0,
        "url": "https://stream.zeno.fm/fvmikg7pk6cvv",
        "language_inferred": true
       },
       {
        "name": "Iran Revolution",
+       "active": 0,
        "url": "https://stream.zeno.fm/8gdzrgsfjnftv",
        "language_inferred": true
       },
       {
        "name": "iran1400",
+       "active": 0,
        "url": "https://stream.zeno.fm/xzbegu95na0uv",
        "language_inferred": true
       },
       {
        "name": "Iranbest",
+       "active": 0,
        "url": "https://stream.zeno.fm/s1tp3g9wmwzuv",
        "language_inferred": true
       },
       {
        "name": "IRANIAN",
+       "active": 0,
        "url": "https://stream.zeno.fm/te4wehk40a0uv",
        "language_inferred": true
       },
       {
        "name": "Iranian Traditional Music",
+       "active": 0,
        "url": "https://stream.zeno.fm/pdhvssg704zuv"
       },
       {
        "name": "IranianRadio.com – Persian Pop – Tehran – IR-07",
+       "active": 0,
        "url": "http://www.iranianradio.com/radio/iranianradio-pop24.php?file=pls",
        "language_inferred": true
       },
       {
        "name": "IRgold",
+       "active": 0,
        "url": "https://stream.zeno.fm/tuwp55she18uv",
        "language_inferred": true
       },
       {
        "name": "IRIB R Eghtesad رادیو اقتصاد",
+       "active": 0,
        "url": "http://headend2.iranseda.ir/liveHLS/radio-eghtesad.m3u8"
       },
       {
        "name": "IRIB R Farhang رادیو فرهنگ",
+       "active": 0,
        "url": "http://headend1.iranseda.ir/liveHLS/radio-farhang.m3u8"
       },
       {
        "name": "IRIB R Javan راديو جوان",
+       "active": 0,
        "url": "http://headend2.iranseda.ir/liveHLS/radio-javan.m3u8"
       },
       {
        "name": "IRIB R Javan راديو جوان – Tehran – IR-07",
+       "active": 0,
        "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-javan/chunklist_w551412542.m3u8",
        "language_inferred": true
       },
       {
        "name": "IRIB R Maaref",
+       "active": 0,
        "url": "http://headend1.iranseda.ir/liveHLS/radio-maaref.m3u8"
       },
       {
        "name": "IRIB R Maaref – Tehran – IR-07",
+       "active": 0,
        "url": "http://s2.cdn1.iranseda.ir:1935/liveedge/radio-maaref/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "IRIB R Payam رادیو پیام",
+       "active": 0,
        "url": "http://headend2.iranseda.ir/liveHLS/radio-payam.m3u8"
       },
       {
        "name": "IRIB R Quran",
+       "active": 0,
        "url": "http://s2.cdn1.iranseda.ir:1935/liveedge/radio-varzesh/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "IRIB R Quran رادیو قرآن",
+       "active": 0,
        "url": "http://headend1.iranseda.ir/liveHLS/radio-quran.m3u8"
       },
       {
        "name": "IRIB R Quran رادیو قرآن – 585 AM – Tehran – IR-07",
+       "active": 0,
        "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-quran/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "IRIB R Saba رادیو صبا",
+       "active": 0,
        "url": "http://headend1.iranseda.ir/liveHLS/radio-saba.m3u8"
       },
       {
        "name": "IRIB R Saba رادیو صبا – IR",
+       "active": 0,
        "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-saba/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "IRIB R Tehran رادیو تهران",
+       "active": 0,
        "url": "http://headend1.iranseda.ir/liveHLS/radio-tehran.m3u8"
       },
       {
        "name": "IRIB R Varzesh رادیو ورزش",
+       "active": 0,
        "url": "http://headend2.iranseda.ir/liveHLS/radio-varzesh.m3u8"
       },
       {
        "name": "IRIB Radio Ava",
+       "active": 0,
        "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-avaa/chunklist.m3u8"
       },
       {
        "name": "IRIB radio ava",
+       "active": 0,
        "url": "http://headend1.iranseda.ir/liveHLS/radio-ava.m3u8",
        "country_inferred": true
       },
       {
        "name": "IRIB Radio Eghtesad",
+       "active": 0,
        "url": "http://s2.cdn1.iranseda.ir:1935/liveedge/radio-eghtesad/playlist.m3u8"
       },
       {
        "name": "IRIB Radio Enghelab",
+       "active": 0,
        "url": "http://s2.cdn1.iranseda.ir:1935/liveedge/radio-monasebati/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "IRIB Radio Farhang",
+       "active": 0,
        "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-farhang/chunklist.m3u8"
       },
       {
        "name": "IRIB Radio Javan",
+       "active": 0,
        "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-javan/chunklist.m3u8"
       },
       {
        "name": "IRIB Radio Javan",
+       "active": 0,
        "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-javan/playlist.m3u8"
       },
       {
        "name": "IRIB Radio Maaref",
+       "active": 0,
        "url": "http://s3.cdn1.iranseda.ir:1935/liveedge/radio-maaref/chunklist.m3u8"
       },
       {
        "name": "IRIB Radio Qazvin",
+       "active": 0,
        "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-qazvin/playlist.m3u8"
       },
       {
        "name": "IRIB Radio Qom",
+       "active": 0,
        "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-qom/playlist.m3u8"
       },
       {
        "name": "IRIB Radio Salamat",
+       "active": 0,
        "url": "http://s3.cdn1.iranseda.ir:1935/liveedge/radio-salamat/chunklist.m3u8"
       },
       {
        "name": "IRIB WS 1",
+       "active": 0,
        "url": "http://stream.parstoday.com:1935/ws/irib1/playlist.m3u8"
       },
       {
        "name": "IRIB WS 2",
+       "active": 0,
        "url": "http://stream.parstoday.com:1935/ws/irib2/playlist.m3u8"
       },
       {
        "name": "IRIB WS 4",
+       "active": 0,
        "url": "http://stream.parstoday.com:1935/ws/irib4/playlist.m3u8"
       },
       {
        "name": "IRIB WS3 Arabic Radio",
+       "active": 0,
        "url": "http://stream.parstoday.com:1935/ws/irib3/playlist.m3u8"
       },
       {
        "name": "IRIB WS3 Arabic Radio – Tehran – IR-07",
+       "active": 0,
        "url": "http://cdn1.live.irib.ir:1935/channel-live/smil:r-world3/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "IRIB WS7 Uzbek Radio",
+       "active": 0,
        "url": "http://stream.parstoday.com:1935/ws/irib7/playlist.m3u8"
       },
       {
        "name": "IRIB WS7 Uzbek Radio – Tehran – IR-07",
+       "active": 0,
        "url": "https://live1.presstv.com/live/irib7/index.m3u8",
        "language_inferred": true
       },
       {
        "name": "IRIB WS8 English Radio",
+       "active": 0,
        "url": "http://stream.parstoday.com:1935/ws/irib8/playlist.m3u8"
       },
       {
        "name": "IRIB_Ava",
+       "active": 0,
        "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-nama-ava/playlist.m3u8?n=e3a55d15d34c52077418"
       },
       {
        "name": "IRIB_Booshehr",
+       "active": 0,
        "url": "http://s0.cdn1.iranseda.ir:1935/liveedgeprovincial/radio-booshehr/playlist.m3u8?n=629d75b8b73f304a2eb8"
       },
       {
        "name": "IRIB_Eghtesad",
+       "active": 0,
        "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-eghtesad/playlist.m3u8?n=facd66a2daccf701a6ac"
       },
       {
        "name": "IRIB_Enghelab",
+       "active": 0,
        "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-monasebati/chunklist_w38298230.m3u8?n=4de183fe7899f57b1cd2"
       },
       {
        "name": "IRIB_English",
+       "active": 0,
        "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-english/chunklist_w1656473412.m3u8?n=96a6901b06e476cc3ed8"
       },
       {
        "name": "IRIB_Esfahan",
+       "active": 0,
        "url": "http://s0.cdn1.iranseda.ir:1935/liveedgeprovincial/radio-esfahan/playlist.m3u8?n=75f4bf20389c774c3934"
       },
       {
        "name": "IRIB_Fars",
+       "active": 0,
        "url": "http://s0.cdn1.iranseda.ir:1935/liveedgeprovincial/radio-fars/playlist.m3u8?n=29ad56246e8fbbc27a70"
       },
       {
        "name": "IRIB_Goftegoo",
+       "active": 0,
        "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-goftego/chunklist_w755519715.m3u8?n=bc2a8962db498814048c",
        "language_inferred": true
       },
       {
        "name": "IRIB_Khalije fars",
+       "active": 0,
        "url": "http://s0.cdn1.iranseda.ir:1935/liveedgeprovincial/radio-hormozgan/playlist.m3u8?n=701ae9036c239086b5f7"
       },
       {
        "name": "IRIB_Khoozestan",
+       "active": 0,
        "url": "http://s0.cdn1.iranseda.ir:1935/liveedgeprovincial/radio-khoozestan/playlist.m3u8?n=4406eec7cd3cd69a1a91",
        "language_inferred": true
       },
       {
        "name": "IRIB_Maaref",
+       "active": 0,
        "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-maaref/chunklist_w315273789.m3u8?n=3887ff02861bbbfee8af"
       },
       {
        "name": "IRIB_Quran",
+       "active": 0,
        "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-quran/chunklist_w847745462.m3u8?n=cc021f263bed94b8e7ed",
        "language_inferred": true
       },
       {
        "name": "IRIB_Salamat",
+       "active": 0,
        "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-salamat/chunklist_w902576092.m3u8?n=99ea41546824de4042b6"
       },
       {
        "name": "IRIB_Talavat",
+       "active": 0,
        "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-talavat/chunklist_w2140215930.m3u8?n=dd59e28901f5795a207f"
       },
       {
        "name": "IRIB_Varzesh",
+       "active": 0,
        "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-varzesh/playlist.m3u8?n=bdb8a0063e2dc6626071"
       },
       {
        "name": "IRIB_Yasooj",
+       "active": 0,
        "url": "http://s0.cdn1.iranseda.ir:1935/liveedgeprovincial/radio-yasuj/playlist.m3u8?n=5a89237b24780d124e10",
        "language_inferred": true
       },
       {
        "name": "IRP-GTA-Farsi",
+       "active": 0,
        "url": "https://stream.zeno.fm/qkwcl5kbajuvv",
        "language_inferred": true
       },
       {
        "name": "IRP-Music-Stream",
+       "active": 0,
        "url": "https://stream.zeno.fm/jka8f4fro3itv",
        "language_inferred": true
       },
       {
        "name": "IRP-New-Rap",
+       "active": 0,
        "url": "https://stream.zeno.fm/c39jeddutdfvv",
        "language_inferred": true
       },
       {
        "name": "IRP-Old-Music",
+       "active": 0,
        "url": "https://stream.zeno.fm/fqcdlbxlfgbuv",
        "language_inferred": true
       },
       {
        "name": "IRP-Russian-Music",
+       "active": 0,
        "url": "https://stream.zeno.fm/k6prrt1idd1vv",
        "language_inferred": true
       },
       {
        "name": "ISM Radio ArtOfSound",
+       "active": 0,
        "url": "https://stream.zeno.fm/y16hvtgsv98uv",
        "language_inferred": true
       },
       {
        "name": "ISM Radio Chill",
+       "active": 0,
        "url": "https://stream.zeno.fm/4p3k9wr4dy8uv",
        "language_inferred": true
       },
       {
        "name": "ISM Radio Ghostmane",
+       "active": 0,
        "url": "https://stream.zeno.fm/5n7anwg4dy8uv",
        "language_inferred": true
       },
       {
        "name": "ISM Radio Metal And Rock",
+       "active": 0,
        "url": "https://stream.zeno.fm/frcq1v0r0v8uv",
        "language_inferred": true
       },
       {
        "name": "ISM Radio Phonk",
+       "active": 0,
        "url": "https://stream.zeno.fm/xhe9qf85kuhvv"
       },
       {
        "name": "ISM Radio Rap",
+       "active": 0,
        "url": "https://stream.zeno.fm/dmpd0ct6kuhvv",
        "language_inferred": true
       },
       {
        "name": "ISM Radio Sad",
+       "active": 0,
        "url": "https://stream.zeno.fm/667zkdx3dy8uv",
        "language_inferred": true
       },
       {
        "name": "IWAN.ir",
+       "active": 0,
        "url": "https://stream.zeno.fm/235czpheashvv",
        "language_inferred": true
       },
       {
        "name": "JAADOO",
+       "active": 0,
        "url": "https://stream.zeno.fm/h48qpypae2zuv",
        "language_inferred": true
       },
       {
        "name": "JAVID SAAH",
+       "active": 0,
        "url": "https://stream.zeno.fm/c2ymzuf0gchvv",
        "language_inferred": true
       },
       {
        "name": "JDM Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/wbzsevlaoy6uv",
        "language_inferred": true
       },
       {
        "name": "Jefferson",
+       "active": 0,
        "url": "https://stream.zeno.fm/4ga1twxb8ehvv",
        "language_inferred": true
       },
       {
        "name": "Jefferson music",
+       "active": 0,
        "url": "https://stream.zeno.fm/7w6ns0t1zehvv",
        "language_inferred": true
       },
       {
        "name": "Jfigdlghf5",
+       "active": 0,
        "url": "https://stream.zeno.fm/tfnfbe67038uv",
        "language_inferred": true
       },
       {
        "name": "Just1Mmd",
+       "active": 0,
        "url": "https://stream.zeno.fm/1xtn5xzjvpnuv",
        "language_inferred": true
       },
       {
        "name": "JustTest",
+       "active": 0,
        "url": "https://stream.zeno.fm/stcxhufv7hhvv",
        "language_inferred": true
       },
       {
        "name": "khalse",
+       "active": 0,
        "url": "https://stream.zeno.fm/vwdy1xhbgv8uv",
        "language_inferred": true
       },
       {
        "name": "khiarshoor",
+       "active": 0,
        "url": "https://stream.zeno.fm/dzn2smn4dm8uv",
        "language_inferred": true
       },
       {
        "name": "KiNG_of_GTA",
+       "active": 0,
        "url": "https://stream.zeno.fm/7r1hkg032rhvv",
        "language_inferred": true
       },
       {
        "name": "KiNGMusic",
+       "active": 0,
        "url": "https://stream.zeno.fm/9t5m0vr42rhvv",
        "language_inferred": true
       },
       {
        "name": "Kordi Persian",
+       "active": 0,
        "url": "https://stream.zeno.fm/fpdbek89j1ouv",
        "language_inferred": true
       },
       {
        "name": "Kurdish1",
+       "active": 0,
        "url": "https://stream.zeno.fm/m7hxxyfhghjuv",
        "language_inferred": true
       },
       {
        "name": "Law chanel",
+       "active": 0,
        "url": "https://stream.zeno.fm/r0beq3t2np8uv",
        "language_inferred": true
       },
       {
        "name": "LifeCity RolePlay",
+       "active": 0,
        "url": "https://stream.zeno.fm/7y8xm1xzn0hvv"
       },
       {
        "name": "Lilyhozak - Station 3 - Live Iranian Persian Music Radio - Muzik Moozik Irooni Irani Song moosighi Farsi Moozic podcast dj دی جی پادکست موزیک ایرانی رادیو موسیقی 24 ساعته لی لی حوضک لیلی حوضک Ahang iran",
+       "active": 0,
        "url": "https://stream.zeno.fm/8gd6gs4hachvv",
        "language_inferred": true
       },
       {
        "name": "LinkBL",
+       "active": 0,
        "url": "https://stream.zeno.fm/31ar0numychvv",
        "language_inferred": true
       },
       {
        "name": "Lisna",
+       "active": 0,
        "url": "http://158.58.184.227:8000/radiolisna"
       },
       {
        "name": "LotusGaming",
+       "active": 0,
        "url": "https://stream.zeno.fm/1ev9bkmz298uv",
        "language_inferred": true
       },
       {
        "name": "Lucifer_property",
+       "active": 0,
        "url": "https://stream.zeno.fm/22zr69ku5rhvv"
       },
       {
        "name": "LUVIMANP HOST 1015",
+       "active": 0,
        "url": "https://stream.zeno.fm/b5s00tc5gc9uv",
        "language_inferred": true
       },
       {
        "name": "Luxury",
+       "active": 0,
        "url": "https://stream.zeno.fm/dv4qgce0txhvv",
        "language_inferred": true
       },
       {
        "name": "madahi",
+       "active": 0,
        "url": "https://stream.zeno.fm/m805uav9zxhvv",
        "language_inferred": true
       },
       {
        "name": "Madar Radio Persian Farsi Iranian Talk & Music",
+       "active": 0,
        "url": "http://audio.madarradio.com:9000/stream/1/"
       },
       {
        "name": "Majid1",
+       "active": 0,
        "url": "https://stream.zeno.fm/k6ar54npachvv",
        "language_inferred": true
       },
       {
        "name": "Majid1195",
+       "active": 0,
        "url": "https://stream.zeno.fm/nfpdxqrg5ehvv",
        "language_inferred": true
       },
       {
        "name": "Mamali",
+       "active": 0,
        "url": "https://stream.zeno.fm/3fhkk7he5zhvv",
        "language_inferred": true
       },
       {
        "name": "Marshal",
+       "active": 0,
        "url": "https://stream.zeno.fm/s9db25g09vzuv"
       },
       {
        "name": "matin123123000",
+       "active": 0,
        "url": "https://stream.zeno.fm/trhkhyqfxrkuv",
        "language_inferred": true
       },
       {
        "name": "Mattam",
+       "active": 0,
        "url": "https://stream.zeno.fm/rpjcwvhis3ftv",
        "language_inferred": true
       },
       {
        "name": "MehrabRadio112156",
+       "active": 0,
        "url": "https://stream.zeno.fm/lkemmelxrktvv",
        "language_inferred": true
       },
       {
        "name": "Mehrad",
+       "active": 0,
        "url": "https://stream.zeno.fm/vsd2yzc64bhvv",
        "language_inferred": true
       },
       {
        "name": "MENewstime",
+       "active": 0,
        "url": "https://stream.zeno.fm/gb570tq7nzzuv",
        "language_inferred": true
       },
       {
        "name": "Merlin Games",
+       "active": 0,
        "url": "https://stream.zeno.fm/cwev3kut6rhvv",
        "language_inferred": true
       },
       {
        "name": "Metallica - 1988 - ...And Justice For All",
+       "active": 0,
        "url": "https://stream.zeno.fm/ft7gt6krrg8uv",
        "language_inferred": true
       },
       {
        "name": "Metallica - 1996 - Load",
+       "active": 0,
        "url": "https://stream.zeno.fm/z8yg7a584p8uv",
        "language_inferred": true
       },
       {
        "name": "Metallica - 1997 - reload",
+       "active": 0,
        "url": "https://stream.zeno.fm/unhc1m684p8uv",
        "language_inferred": true
       },
       {
        "name": "Middle Eastern Classical",
+       "active": 0,
        "url": "https://node-29.zeno.fm/r8b9smty1a0uv",
        "language_inferred": true
       },
       {
        "name": "Middle Eastern Classical",
+       "active": 0,
        "url": "https://stream.zeno.fm/r8b9smty1a0uv",
        "language_inferred": true
       },
       {
        "name": "Mmd.music",
+       "active": 0,
        "url": "https://stream.zeno.fm/hhdcgg2t6rhvv",
        "language_inferred": true
       },
       {
        "name": "Mmdooooo",
+       "active": 0,
        "url": "https://stream.zeno.fm/5q8qke27qy8uv",
        "language_inferred": true
       },
       {
        "name": "Mohammadkhan Stream",
+       "active": 0,
        "url": "https://stream.zeno.fm/6rkr32bgha0uv",
        "language_inferred": true
       },
       {
        "name": "Moharam",
+       "active": 0,
        "url": "https://stream.zeno.fm/3d7bwdd96zhvv",
        "language_inferred": true
       },
       {
        "name": "monody",
+       "active": 0,
        "url": "https://stream.zeno.fm/grwvfmr54bhvv",
        "language_inferred": true
       },
       {
        "name": "MP Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/10dbz6z5gwzuv",
        "language_inferred": true
       },
       {
        "name": "MRTRADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/6vqz3t8vzuhvv",
        "language_inferred": true
       },
       {
        "name": "Music of Nations",
+       "active": 0,
        "url": "https://stream.zeno.fm/kw3yfd601a0uv",
        "language_inferred": true
       },
       {
        "name": "Music of Persia",
+       "active": 0,
        "url": "https://stream.zeno.fm/b7ema5d11a0uv"
       },
       {
        "name": "Music Planet",
+       "active": 0,
        "url": "http://streaming.radionomy.com/PersianMusicPlanet?type=.mp3",
        "language_inferred": true
       },
       {
        "name": "MusicSinAw",
+       "active": 0,
        "url": "https://stream.zeno.fm/dj0n80bbk72tv",
        "language_inferred": true
       },
       {
        "name": "my_music",
+       "active": 0,
        "url": "https://stream.zeno.fm/2yen8h6xcfhvv",
        "language_inferred": true
       },
       {
        "name": "Myspotlights",
+       "active": 0,
        "url": "https://stream.zeno.fm/xcq77787e78uv",
        "language_inferred": true
       },
       {
        "name": "Naghmeye Roh",
+       "active": 0,
        "url": "https://stream.zeno.fm/3544wyu5ng0uv"
       },
       {
        "name": "Nava7 Radio",
+       "active": 0,
        "url": "http://5.39.71.159:8578/stream"
       },
       {
        "name": "nhelkurdi",
+       "active": 0,
        "url": "https://stream.zeno.fm/mamftfrhmoovv",
        "language_inferred": true
       },
       {
        "name": "NHK - Radio News in Persian",
+       "active": 0,
        "url": "https://www3.nhk.or.jp/nhkworld/upld/medias/fa/radio/news/20200817233000_persian_1.mp3"
       },
       {
        "name": "NightCore",
+       "active": 0,
        "url": "https://stream.zeno.fm/gkwe6gsjeowtv",
        "language_inferred": true
       },
       {
        "name": "NikoMusic",
+       "active": 0,
        "url": "https://stream.zeno.fm/zw4ut2tryhhvv",
        "language_inferred": true
       },
       {
        "name": "Nofeh Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/48dya9zx7k0uv",
        "language_inferred": true
       },
       {
        "name": "nohe_1",
+       "active": 0,
        "url": "https://stream.zeno.fm/g6guavxk3zhvv",
        "language_inferred": true
       },
       {
        "name": "OOPS music",
+       "active": 0,
        "url": "https://stream.zeno.fm/9aamarqra78uv"
       },
       {
        "name": "Optop Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/zb2mm9t2kg8uv"
       },
       {
        "name": "ouijoiujioj",
+       "active": 0,
        "url": "https://stream.zeno.fm/bfbvc3kt068uv",
        "language_inferred": true
       },
       {
        "name": "OverTheNet-FreedomOfInternet",
+       "active": 0,
        "url": "https://stream.zeno.fm/d0z1pteielwvv",
        "language_inferred": true
       },
       {
        "name": "Pahlavi",
+       "active": 0,
        "url": "https://stream.zeno.fm/pqnzvmgctg8uv",
        "language_inferred": true
       },
       {
        "name": "Pars Today Radio",
+       "active": 0,
        "url": "https://live1.presstv.ir/live/irib8/index.m3u8",
        "language_inferred": true
       },
       {
        "name": "ParsToday Radio Dari",
+       "active": 0,
        "url": "https://live1.presstv.ir/live/irib7/index.m3u8",
        "language_inferred": true
       },
       {
        "name": "ParsToday Radio Spanish",
+       "active": 0,
        "url": "https://live1.presstv.ir/live/irib6/index.m3u8",
        "language_inferred": true
       },
       {
        "name": "Parti samp",
+       "active": 0,
        "url": "https://stream.zeno.fm/9w2aeruwvrhvv",
        "language_inferred": true
       },
       {
        "name": "Partiiiiii",
+       "active": 0,
        "url": "https://stream.zeno.fm/pv53gy8vvrhvv",
        "language_inferred": true
       },
       {
        "name": "partiiiiiiiiii76",
+       "active": 0,
        "url": "https://stream.zeno.fm/ffe5kabgzrhvv",
        "language_inferred": true
       },
       {
        "name": "Parviz music",
+       "active": 0,
        "url": "https://stream.zeno.fm/y376367fwf9uv",
        "language_inferred": true
       },
       {
        "name": "Parviz music(432)",
+       "active": 0,
        "url": "https://stream.zeno.fm/3cucffzecchvv",
        "language_inferred": true
       },
       {
        "name": "parviz talfighi",
+       "active": 0,
        "url": "https://stream.zeno.fm/cqanvc9u7bhvv",
        "language_inferred": true
       },
       {
        "name": "Patrick songs",
+       "active": 0,
        "url": "https://stream.zeno.fm/dvb7qp21vhhvv",
        "language_inferred": true
       },
       {
        "name": "PaydarMTA",
+       "active": 0,
        "url": "https://stream.zeno.fm/7k0wfrf4gc9uv",
        "language_inferred": true
       },
       {
        "name": "PaydarRadio",
+       "active": 0,
        "url": "https://stream.zeno.fm/kdxgqzd4gc9uv",
        "language_inferred": true
       },
       {
        "name": "PEAKY BLINDERS SONGS",
+       "active": 0,
        "url": "https://stream.zeno.fm/pmdxw2t7zs8uv",
        "language_inferred": true
       },
       {
        "name": "Persian Hit",
+       "active": 0,
        "url": "https://stream.zeno.fm/bryn8thqvs8uv",
        "language_inferred": true
       },
       {
        "name": "Persian Music",
+       "active": 0,
        "url": "https://stream.zeno.fm/82225tcf9x8uv",
        "language_inferred": true
       },
       {
        "name": "Persian Music",
+       "active": 0,
        "url": "https://stream.zeno.fm/6vmzeug0df9uv",
        "language_inferred": true
       },
       {
        "name": "Persian Neighborhood",
+       "active": 0,
        "url": "https://stream.zeno.fm/3r44g8vt8k0uv",
        "language_inferred": true
       },
       {
        "name": "Persian News",
+       "active": 0,
        "url": "https://stream.zeno.fm/b2y1e5dz9nhvv",
        "language_inferred": true
       },
       {
        "name": "Persian Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/3rar3e92wv8uv",
        "language_inferred": true
       },
       {
        "name": "Persian Rap",
+       "active": 0,
        "url": "https://stream.zeno.fm/zux23fr0xqzuv"
       },
       {
        "name": "Persian Rap",
+       "active": 0,
        "url": "https://stream.zeno.fm/a6qs0qg0df9uv",
        "language_inferred": true
       },
       {
        "name": "Persian Role Play",
+       "active": 0,
        "url": "https://stream.zeno.fm/4dpmkvvkbd0uv",
        "language_inferred": true
       },
       {
        "name": "Persian RolePlay",
+       "active": 0,
        "url": "https://stream.zeno.fm/0mqzt8u3238uv",
        "language_inferred": true
       },
       {
        "name": "PERSIANRAP",
+       "active": 0,
        "url": "https://stream.zeno.fm/r3a84ava7nhvv"
       },
       {
        "name": "PersianRolePlay",
+       "active": 0,
        "url": "http://node-24.zeno.fm/ysxbhuyqpd0uv",
        "language_inferred": true
       },
       {
        "name": "PersianRolePlay",
+       "active": 0,
        "url": "https://stream.zeno.fm/ysxbhuyqpd0uv",
        "language_inferred": true
       },
       {
        "name": "Phonk Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/ipjixwbimfnvv",
        "language_inferred": true
       },
       {
        "name": "Pishro",
+       "active": 0,
        "url": "https://stream.zeno.fm/ijpjnikcdvvvv",
        "language_inferred": true
       },
       {
        "name": "PoP Music",
+       "active": 0,
        "url": "https://stream.zeno.fm/yjmjjp95kpwtv",
        "language_inferred": true
       },
       {
        "name": "popupchinese-Absolute Beginners",
+       "active": 0,
        "url": "https://stream.zeno.fm/h67bcemrsp8uv",
        "language_inferred": true
       },
       {
        "name": "pouria khalili",
+       "active": 0,
        "url": "https://stream.zeno.fm/9e2g0hsg5ehvv",
        "language_inferred": true
       },
       {
        "name": "qsastvnoh",
+       "active": 0,
        "url": "https://stream.zeno.fm/agcxkhmmc0hvv",
        "language_inferred": true
       },
       {
        "name": "Queen - 1973 Queen",
+       "active": 0,
        "url": "https://stream.zeno.fm/mpbmbxt7hv8uv",
        "language_inferred": true
       },
       {
        "name": "Queen - 1974 Queen II",
+       "active": 0,
        "url": "https://stream.zeno.fm/ysmsyyu7hv8uv",
        "language_inferred": true
       },
       {
        "name": "Queen - 1974 Sheer Heart Attack",
+       "active": 0,
        "url": "https://stream.zeno.fm/spgv9sv7hv8uv",
        "language_inferred": true
       },
       {
        "name": "Queen - 1977 News of the World",
+       "active": 0,
        "url": "https://stream.zeno.fm/9c5dfy47hv8uv",
        "language_inferred": true
       },
       {
        "name": "Queen - 1978 Jazz",
+       "active": 0,
        "url": "https://stream.zeno.fm/vxbtk157hv8uv",
        "language_inferred": true
       },
       {
        "name": "Queen - 1980 The Game",
+       "active": 0,
        "url": "https://stream.zeno.fm/bg5uksa8hv8uv",
        "language_inferred": true
       },
       {
        "name": "Queen - 1984 The Works",
+       "active": 0,
        "url": "https://stream.zeno.fm/nek8q9b8hv8uv",
        "language_inferred": true
       },
       {
        "name": "Queen - 1991 Innuendo",
+       "active": 0,
        "url": "https://stream.zeno.fm/n92qgrb9hv8uv",
        "language_inferred": true
       },
       {
        "name": "Queen - 1995 Made in Heaven",
+       "active": 0,
        "url": "https://stream.zeno.fm/8s2wh6f9hv8uv",
        "language_inferred": true
       },
       {
        "name": "Quick train",
+       "active": 0,
        "url": "https://stream.zeno.fm/21ny9zhjq9ovv"
       },
       {
        "name": "QuietTheend",
+       "active": 0,
        "url": "https://stream.zeno.fm/ovkj4ohislguv",
        "language_inferred": true
       },
       {
        "name": "R Salamat رادیو سلامت",
+       "active": 0,
        "url": "http://headend2.iranseda.ir/liveHLS/radio-salamat.m3u8"
       },
       {
        "name": "Radio A-F-Shad",
+       "active": 0,
        "url": "https://stream.zeno.fm/eexbq3hwbphvv",
        "language_inferred": true
       },
       {
        "name": "Radio Al Atsary Majalengka",
+       "active": 0,
        "url": "http://sci.padjajaranhost.com:8225/"
       },
       {
        "name": "Radio Amo Saber",
+       "active": 0,
        "url": "https://stream.zeno.fm/mthrf5wkeieuv",
        "language_inferred": true
       },
       {
        "name": "Radio Arman",
+       "active": 0,
        "url": "http://148.251.187.85:8313"
       },
       {
        "name": "RADIO ASHNA",
+       "active": 0,
        "url": "https://stream.zeno.fm/x82fb62qdg8uv"
       },
       {
        "name": "Radio Asil رادیو اصیل",
+       "active": 0,
        "url": "https://stream.zeno.fm/fmpaf15rcphvv",
        "language_inferred": true
       },
       {
        "name": "Radio Ava رادیو آوا",
+       "active": 0,
        "url": "http://headend1.iranseda.ir/liveHLS/radio-avaa.m3u8"
       },
       {
        "name": "Radio Baba Bozorg",
+       "active": 0,
        "url": "https://stream.zeno.fm/sezhv0fvpuhvv",
        "language_inferred": true
       },
       {
        "name": "Radio Bacheha",
+       "active": 0,
        "url": "http://95.211.184.52:7799/stream/1",
        "language_inferred": true
       },
       {
        "name": "Radio Backfire",
+       "active": 0,
        "url": "https://stream.zeno.fm/zz9n6chxhrhvv",
        "language_inferred": true
       },
       {
        "name": "radio bahaimedia",
+       "active": 0,
        "url": "https://stream.zeno.fm/7m72ksev5yzuv",
        "language_inferred": true
       },
       {
        "name": "Radio BingX(Trial broadcast)",
+       "active": 0,
        "url": "https://stream.zeno.fm/8n6dw9nvwrhvv",
        "language_inferred": true
       },
       {
        "name": "Radio Borhan",
+       "active": 0,
        "url": "https://stream.zeno.fm/q6b06e10kc9uv"
       },
       {
        "name": "Radio Cafe",
+       "active": 0,
        "url": "https://stream.zeno.fm/q2d7sx4ebchvv",
        "language_inferred": true
       },
       {
        "name": "Radio Chenar",
+       "active": 0,
        "url": "https://stream.zeno.fm/zmup0s8wqg0uv",
        "language_inferred": true
       },
       {
        "name": "Radio Clubhouse",
+       "active": 0,
        "url": "https://stream.zeno.fm/0mu45tc8hv8uv"
       },
       {
        "name": "Radio Dance",
+       "active": 0,
        "url": "https://stream.zeno.fm/gnb91pb6af9uv",
        "language_inferred": true
       },
       {
        "name": "Radio Darbast",
+       "active": 0,
        "url": "https://stream.zeno.fm/mv0wt9ybhfhvv",
        "language_inferred": true
       },
       {
        "name": "Radio Drill",
+       "active": 0,
        "url": "https://stream.zeno.fm/buwfmvfh0vytv",
        "language_inferred": true
       },
       {
        "name": "Radio Eram",
+       "active": 0,
        "url": "http://37.59.47.192:8200/stream1/",
        "language_inferred": true
       },
       {
        "name": "Radio Eram",
+       "active": 0,
        "url": "http://37.59.47.192:8200/stream.mp3?n=330c434bb7d02479668a"
       },
       {
        "name": "Radio Farda",
+       "active": 0,
        "url": "https://n09.radiojar.com/cp13r2cpn3quv",
        "language_inferred": true
       },
       {
        "name": "Radio Farda",
+       "active": 0,
        "url": "https://stream.zeno.fm/4pf0yk44rm0uv",
        "language_inferred": true
       },
       {
        "name": "radio Favourite alone",
+       "active": 0,
        "url": "https://stream.zeno.fm/1m43cxzqq0hvv",
        "language_inferred": true
       },
       {
        "name": "Radio Goftogoo رادیو گفت و گو",
+       "active": 0,
        "url": "http://headend1.iranseda.ir/liveHLS/radio-goftego.m3u8"
       },
       {
        "name": "Radio Hamdam 2",
+       "active": 0,
        "url": "http://37.187.79.153:5566"
       },
       {
        "name": "Radio Hamrrah",
+       "active": 0,
        "url": "https://stream.zeno.fm/h4k7fsqb7zhvv",
        "language_inferred": true
       },
       {
        "name": "Radio Hamseda",
+       "active": 0,
        "url": "http://listen.radionomy.com/rtstereo?type=.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio Ilam",
+       "active": 0,
        "url": "http://cdn1.live.irib.ir:1935/radio/smil:r-ilam/playlist.m3u8"
       },
       {
        "name": "Radio Iran",
+       "active": 0,
        "url": "https://stream.zeno.fm/7rz2bkyvaphvv",
        "language_inferred": true
       },
       {
        "name": "Radio Iran International",
+       "active": 0,
        "url": "https://n09.radiojar.com/dfnrphnr5f0uv",
        "language_inferred": true
       },
       {
        "name": "Radio Iran International – Tehran – IR-07",
+       "active": 0,
        "url": "https://n09.radiojar.com/dfnrphnr5f0uv?rj-ttl=5&rj-tok=AAABdZhsLsUA8fwMCxqQwk2WOg",
        "language_inferred": true
       },
       {
        "name": "Radio Iran Pulse",
+       "active": 0,
        "url": "https://onlineradiobox.com/json/ca/iranpulse/play?platform=web"
       },
       {
        "name": "Radio Iran رادیو ایران",
+       "active": 0,
        "url": "http://headend1.iranseda.ir/liveHLS/radio-iran.m3u8"
       },
       {
        "name": "Radio Iran – KIRN",
+       "active": 0,
        "url": "http://ice41.securenetsystems.net/KIRN?&amptype=.mp3",
        "language_inferred": true
       },
       {
        "name": "radio iranian",
+       "active": 0,
        "url": "https://stream.zeno.fm/5tv4e631ss8uv",
        "language_inferred": true
       },
       {
        "name": "Radio Jadeed",
+       "active": 0,
        "url": "https://onlineradiobox.com/json/us/radiojadeed/play?platform=web",
        "language_inferred": true
       },
       {
        "name": "radio javan",
+       "active": 0,
        "url": "https://stream.zeno.fm/p83wzvtm4nhvv",
        "language_inferred": true
       },
       {
        "name": "Radio Javan",
+       "active": 0,
        "url": "https://stream.zeno.fm/rysp1ne5rm0uv",
        "language_inferred": true
       },
       {
        "name": "Radio javan stream(parviz)",
+       "active": 0,
        "url": "https://stream.zeno.fm/z2xmp8xr8bhvv",
        "language_inferred": true
       },
       {
        "name": "radio javan t",
+       "active": 0,
        "url": "https://stream.zeno.fm/0bv3dsx57nhvv",
        "language_inferred": true
       },
       {
        "name": "Radio Jibi",
+       "active": 0,
        "url": "https://stream.zeno.fm/qxv8z3gy0f8uv",
        "language_inferred": true
       },
       {
        "name": "Radio Kanpuriya – 90.0 FM – Kanpur – IN-UP",
+       "active": 0,
        "url": "https://stream.zeno.fm/bxuwf5d96zhvv",
        "language_inferred": true
       },
       {
        "name": "Radio Kermanshah",
+       "active": 0,
        "url": "http://cdn1.live.irib.ir:1935/radio/smil:r-kermanshah/playlist.m3u8"
       },
       {
        "name": "Radio Khatereh",
+       "active": 0,
        "url": "https://servidor22-5.brlogic.com:7160/live?source=website?n=95d8aee9c97220466d41"
       },
       {
        "name": "Radio KURD",
+       "active": 0,
        "url": "https://stream.zeno.fm/fgt32tzswhhvv",
        "language_inferred": true
       },
       {
        "name": "Radio LGBT",
+       "active": 0,
        "url": "https://stream.zeno.fm/eyq538fctg8uv",
        "language_inferred": true
       },
       {
        "name": "radio light",
+       "active": 0,
        "url": "https://stream.zeno.fm/7dmdueykpd0uv",
        "language_inferred": true
       },
       {
        "name": "Radio Lite",
+       "active": 0,
        "url": "https://stream.zeno.fm/8sly0vicesyuv",
        "language_inferred": true
       },
       {
        "name": "Radio Maaref",
+       "active": 0,
        "url": "http://s3.cdn1.iranseda.ir:1935/liveedge/radio-maaref/playlist.m3u8"
       },
       {
        "name": "Radio Mahabad IRIB",
+       "active": 0,
        "url": "https://mytuner-radio.com/radio/country/iran-stations"
       },
       {
        "name": "Radio Mahoor",
+       "active": 0,
        "url": "http://38.99.146.102:8000/mahoor.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio Mahoor - GLWiZ",
+       "active": 0,
        "url": "https://stream.zeno.fm/6ata8mv7p98uv",
        "language_inferred": true
       },
       {
        "name": "Radio Mahoor Shaer - GLWiZ",
+       "active": 0,
        "url": "https://stream.zeno.fm/a7d0gqw7p98uv"
       },
       {
        "name": "radio martia",
+       "active": 0,
        "url": "https://stream.zeno.fm/ytt9h39m11zuv"
       },
       {
        "name": "Radio Mehrab",
+       "active": 0,
        "url": "https://stream.zeno.fm/nazptmx0pfhvv",
        "language_inferred": true
       },
       {
        "name": "Radio Mihan",
+       "active": 0,
        "url": "https://stream.zeno.fm/7kghhtd5rm0uv",
        "language_inferred": true
       },
       {
        "name": "Radio Moshta",
+       "active": 0,
        "url": "http://46.4.147.236:9984/"
       },
       {
        "name": "Radio Moshta – IR",
+       "active": 0,
        "url": "http://185.88.177.45:9980/",
        "language_inferred": true
       },
       {
        "name": "Radio MpGames",
+       "active": 0,
        "url": "https://stream.zeno.fm/p2xutbrgx98uv",
        "language_inferred": true
       },
       {
        "name": "radio music",
+       "active": 0,
        "url": "https://stream.zeno.fm/gmrr9uwnzhhvv",
        "language_inferred": true
       },
       {
        "name": "Radio Music Rap",
+       "active": 0,
        "url": "https://stream.zeno.fm/d83sbcck4nhvv",
        "language_inferred": true
       },
       {
        "name": "Radio Nava",
+       "active": 0,
        "url": "https://stream.zeno.fm/03frn73xqnhvv",
        "language_inferred": true
       },
       {
        "name": "Radio Navahang",
+       "active": 0,
        "url": "http://radio.navahang.com:9000/stream.nsv"
       },
       {
        "name": "Radio Navahang – IR",
+       "active": 0,
        "url": "https://navairan.com/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "radio negahroshan",
+       "active": 0,
        "url": "http://t.ngr1.ir:8000/stream.ogg?n=5f3c3a8f2efd0c3f7945",
        "language_inferred": true
       },
       {
        "name": "Radio Nohe",
+       "active": 0,
        "url": "https://stream.zeno.fm/v3cegdrwb0hvv",
        "language_inferred": true
       },
       {
        "name": "radio nohe - SpServer",
+       "active": 0,
        "url": "https://stream.zeno.fm/ma5062zh4zhvv",
        "language_inferred": true
       },
       {
        "name": "Radio Nostalgic",
+       "active": 0,
        "url": "https://stream.zeno.fm/d495s089yy8uv",
        "language_inferred": true
       },
       {
        "name": "Radio Old",
+       "active": 0,
        "url": "https://stream.zeno.fm/mf698tb0n0hvv",
        "language_inferred": true
       },
       {
        "name": "Radio Parsian",
+       "active": 0,
        "url": "https://usa14.fastcast4u.com/proxy/universe?mp=%2F1"
       },
       {
        "name": "radio pasargad",
+       "active": 0,
        "url": "https://stream.zeno.fm/74dtxmv8ma0uv",
        "language_inferred": true
       },
       {
        "name": "Radio Qham",
+       "active": 0,
        "url": "https://stream.zeno.fm/0pmb42gwbphvv",
        "language_inferred": true
       },
       {
        "name": "Radio Qham",
+       "active": 0,
        "url": "https://stream.zeno.fm/6yw3mzgwbphvv",
        "language_inferred": true
       },
       {
        "name": "Radio Rapfarsi",
+       "active": 0,
        "url": "https://stream.zeno.fm/dkmapqz0pfhvv",
        "language_inferred": true
       },
       {
        "name": "Radio Romaan",
+       "active": 0,
        "url": "https://stream.zeno.fm/yqdk4q7zetzuv",
        "language_inferred": true
       },
       {
        "name": "Radio RS",
+       "active": 0,
        "url": "https://stream.zeno.fm/d7e4z6z8998uv",
        "language_inferred": true
       },
       {
        "name": "Radio Sabz",
+       "active": 0,
        "url": "https://audio-edge-hy4wy.blr.d.radiomast.io/40c489b5-90af-4625-8282-8cc02dfb4adc?t=dark"
       },
       {
        "name": "Radio Sangan",
+       "active": 0,
        "url": "https://stream.zeno.fm/0frf4bb53hhvv",
        "language_inferred": true
       },
       {
        "name": "Radio Sedaye Mardom | رادیو صدای مردم",
+       "active": 0,
        "url": "http://209.190.64.25:8000/listen.pls"
       },
       {
        "name": "Radio Sedaye Mardom | رادیو صدای مردم – Tehran – IR-07",
+       "active": 0,
        "url": "http://media2.radiosedayemardom.com:8000/listen.pls?sid=1",
        "language_inferred": true
       },
       {
        "name": "Radio Shemroon",
+       "active": 0,
        "url": "http://usa7.fastcast4u.com:5919/stream?n=13036bf4c626343f81eb",
        "language_inferred": true
       },
       {
        "name": "Radio Shemroon Persian",
+       "active": 0,
        "url": "https://node-30.zeno.fm/1nr41vqw9wquv?rj-ttl=5&amprj-tok=AAABfZ-KVUgAToAnBr-sFL562g",
        "language_inferred": true
       },
       {
        "name": "Radio Shoma 93.4",
+       "active": 0,
        "url": "https://n05.radiojar.com/rzcfw4cbsxquv?rj-ttl=5&amprj-tok=AAABdp7I8xQAbv8WtI0MCYSyaA",
        "language_inferred": true
       },
       {
        "name": "Radio Shooti",
+       "active": 0,
        "url": "https://stream.zeno.fm/gygy9m20df9uv",
        "language_inferred": true
       },
       {
        "name": "Radio Simorgh",
+       "active": 0,
        "url": "https://node-26.zeno.fm/37qaepdrqrquv",
        "language_inferred": true
       },
       {
        "name": "Radio Simorgh Audio Library",
+       "active": 0,
        "url": "https://node-33.zeno.fm/1tec604vfzzuv",
        "language_inferred": true
       },
       {
        "name": "RADIO SIMORGH AUDIO LIBRARY",
+       "active": 0,
        "url": "https://stream.zeno.fm/1tec604vfzzuv"
       },
       {
        "name": "Radio Simorgh Educational",
+       "active": 0,
        "url": "https://node-14.zeno.fm/4vx1t2vvfzzuv",
        "language_inferred": true
       },
       {
        "name": "RADIO SIMORGH EDUCATIONAL",
+       "active": 0,
        "url": "https://stream.zeno.fm/4vx1t2vvfzzuv"
       },
       {
        "name": "Radio Simorgh Music And Entertainment",
+       "active": 0,
        "url": "https://node-27.zeno.fm/4zckbpdrqrquv",
        "language_inferred": true
       },
       {
        "name": "RADIO SIMORGH Original Persian Music",
+       "active": 0,
        "url": "https://stream.zeno.fm/a4r7t5a6vrquv"
       },
       {
        "name": "Radio Tataloo",
+       "active": 0,
        "url": "https://stream.zeno.fm/sva75hq0pfhvv",
        "language_inferred": true
       },
       {
        "name": "Radio Tehranto",
+       "active": 0,
        "url": "https://stream.zeno.fm/mq0t2wp1zf8uv",
        "language_inferred": true
       },
       {
        "name": "Radio The_Slark",
+       "active": 0,
        "url": "https://stream.zeno.fm/gnbzbxhk4nhvv",
        "language_inferred": true
       },
       {
        "name": "Radio TK",
+       "active": 0,
        "url": "https://stream.zeno.fm/kqb35yua2hhvv"
       },
       {
        "name": "Radio Tondar",
+       "active": 0,
        "url": "http://88.198.35.138:8000/128",
        "language_inferred": true
       },
       {
        "name": "Radio Tondar",
+       "active": 0,
        "url": "https://stream-62.zeno.fm/tbse1ecrmchvv",
        "language_inferred": true
       },
       {
        "name": "Radio Tooka",
+       "active": 0,
        "url": "http://stream.radio.co/s46656a3af/listen",
        "language_inferred": true
       },
       {
        "name": "Radio Two0man",
+       "active": 0,
        "url": "https://stream.zeno.fm/346cngkmakhvv",
        "language_inferred": true
       },
       {
        "name": "Radio UoK",
+       "active": 0,
        "url": "https://stream.zeno.fm/dk6atg9kmkhvv"
       },
       {
        "name": "Radio Varzesh Sports",
+       "active": 0,
        "url": "http://headend2.iranseda.ir:8134/hls-live/livepkgr/_definst_/radio-varzesh/radio-varzesh-40k.m3u8",
        "language_inferred": true
       },
       {
        "name": "RADIO WORLD_OF_WAR_AS",
+       "active": 0,
        "url": "https://stream.zeno.fm/n2w4rwehqd0uv",
        "language_inferred": true
       },
       {
        "name": "radio yadaki",
+       "active": 0,
        "url": "https://stream.zeno.fm/7a8tyrcbkfhvv"
       },
       {
        "name": "Radio Zahedan",
+       "active": 0,
        "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-zahedan/playlist.m3u8"
       },
       {
        "name": "Radio ZZA",
+       "active": 0,
        "url": "https://listen.radioking.com/radio/526993/stream/585442",
        "language_inferred": true
       },
       {
        "name": "Radio-AF-Qham",
+       "active": 0,
        "url": "https://stream.zeno.fm/5dhek9gwbphvv",
        "language_inferred": true
       },
       {
        "name": "Radio-ma",
+       "active": 0,
        "url": "https://stream.zeno.fm/wa8250wvp0hvv",
        "language_inferred": true
       },
       {
        "name": "Radio-Music",
+       "active": 0,
        "url": "https://stream.zeno.fm/wkc3zmszn0hvv",
        "language_inferred": true
       },
       {
        "name": "radio-pars-iran",
+       "active": 0,
        "url": "https://stream.zeno.fm/6fa3jgp4t5duv",
        "language_inferred": true
       },
       {
        "name": "radio-vr",
+       "active": 0,
        "url": "https://stream.zeno.fm/j4ftmwhywiyvv",
        "language_inferred": true
       },
       {
        "name": "radioabhar1",
+       "active": 0,
        "url": "https://stream.zeno.fm/fhlinfc0gtstv",
        "language_inferred": true
       },
       {
        "name": "radioabhar2",
+       "active": 0,
        "url": "https://stream.zeno.fm/mybbejpkckkvv",
        "language_inferred": true
       },
       {
        "name": "radioabhar3",
+       "active": 0,
        "url": "https://stream.zeno.fm/noq6umbw1nwvv",
        "language_inferred": true
       },
       {
        "name": "radioazadbk",
+       "active": 0,
        "url": "https://stream.zeno.fm/1t7b0bzs2f8uv",
        "language_inferred": true
       },
       {
        "name": "radiomartia",
+       "active": 0,
        "url": "https://stream.zeno.fm/u2q0rp0w6k0uv",
        "language_inferred": true
       },
       {
        "name": "radiommusic",
+       "active": 0,
        "url": "https://stream.zeno.fm/fpybsw6fdd0uv"
       },
       {
        "name": "RadioMo",
+       "active": 0,
        "url": "http://protostar.shoutca.st:9167/stream",
        "language_inferred": true
       },
       {
        "name": "radioRapiran",
+       "active": 0,
        "url": "https://stream.zeno.fm/cx2qrpy8a48uv",
        "language_inferred": true
       },
       {
        "name": "RadioSimorgh",
+       "active": 0,
        "url": "https://stream.zeno.fm/jl8n7thgcdftv?n=070087278c4870a55ad3",
        "language_inferred": true,
        "rb": "f4ac88e5-962b-4bd8-b71c-429cab02bb59"
       },
       {
        "name": "RADIOSIMORGH Music and entertainment",
+       "active": 0,
        "url": "https://stream.zeno.fm/4zckbpdrqrquv"
       },
       {
        "name": "radiosina",
+       "active": 0,
        "url": "https://stream.zeno.fm/xgdeg7pae2zuv",
        "language_inferred": true
       },
       {
        "name": "RadioZZA",
+       "active": 0,
        "url": "http://www.radioking.com/play/radiozza",
        "language_inferred": true
       },
       {
        "name": "RadiYol",
+       "active": 0,
        "url": "http://188.165.232.7:8524/",
        "language_inferred": true
       },
       {
        "name": "RaghebMG",
+       "active": 0,
        "url": "https://stream.zeno.fm/p42kgm2dma0uv",
        "language_inferred": true
       },
       {
        "name": "RandomEng",
+       "active": 0,
        "url": "https://stream.zeno.fm/w8hjeg8q2l6uv",
        "language_inferred": true
       },
       {
        "name": "Rap E Fars",
+       "active": 0,
        "url": "https://stream.zeno.fm/vwrk26kbaf9uv",
        "language_inferred": true
       },
       {
        "name": "Rap Farsi",
+       "active": 0,
        "url": "https://stream.zeno.fm/qp7t6epf368uv",
        "language_inferred": true
       },
       {
        "name": "Rap Farsi",
+       "active": 0,
        "url": "https://stream.zeno.fm/x03y7nk4kv8uv",
        "language_inferred": true
       },
       {
        "name": "Rap Gang",
+       "active": 0,
        "url": "https://stream.zeno.fm/b6v9azp28nhvv",
        "language_inferred": true
       },
       {
        "name": "Rap Persian",
+       "active": 0,
        "url": "https://stream.zeno.fm/8uqe0mfqzhhvv",
        "language_inferred": true
       },
       {
        "name": "Rapfars",
+       "active": 0,
        "url": "https://stream.zeno.fm/887ctgxe1hhvv",
        "language_inferred": true
       },
       {
        "name": "rapradioss",
+       "active": 0,
        "url": "https://stream.zeno.fm/5kvzzobwbo8uv",
        "language_inferred": true
       },
       {
        "name": "Rapsina",
+       "active": 0,
        "url": "https://stream.zeno.fm/skuabnwg4nhvv",
        "language_inferred": true
       },
       {
        "name": "razesina",
+       "active": 0,
        "url": "https://stream.zeno.fm/bz92vtzsv38uv",
        "language_inferred": true
       },
       {
        "name": "Real Life",
+       "active": 0,
        "url": "https://stream.zeno.fm/r1m2bta29nhvv",
        "language_inferred": true
       },
       {
        "name": "Red Rp - Persian",
+       "active": 0,
        "url": "https://stream.zeno.fm/9ve0cxx5qs8uv"
       },
       {
        "name": "Red Rp Rap",
+       "active": 0,
        "url": "https://stream.zeno.fm/um24pa1qtnhvv",
        "language_inferred": true
       },
       {
        "name": "REDE FM LIVE BRAZIL",
+       "active": 0,
        "url": "https://stream2.svrdedicado.org/8266/stream",
        "language_inferred": true
       },
       {
        "name": "rediogapcast",
+       "active": 0,
        "url": "https://stream.zeno.fm/71hqtafmqd0uv",
        "language_inferred": true
       },
       {
        "name": "Reza-Rap",
+       "active": 0,
        "url": "https://stream.zeno.fm/gmpr5pmdbkhvv",
        "language_inferred": true
       },
       {
        "name": "Reza.radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/k930aq6k3zhvv",
        "language_inferred": true
       },
       {
        "name": "RockStar MTA",
+       "active": 0,
        "url": "https://stream.zeno.fm/xt5kbb8xbuhvv",
        "language_inferred": true
       },
       {
        "name": "Rodio Noheh | رودیو نوحه",
+       "active": 0,
        "url": "https://stream.rodio.ir/listen/noheh/radio.mp3",
        "country_inferred": true,
        "language_inferred": true
       },
       {
        "name": "roshdetocast",
+       "active": 0,
        "url": "https://stream.zeno.fm/y61e9ucge18uv",
        "language_inferred": true
       },
       {
        "name": "RoyalCity - English Music",
+       "active": 0,
        "url": "https://stream.zeno.fm/d90ztsfvk1huv",
        "language_inferred": true
       },
       {
        "name": "RoyalCity - Persian Music",
+       "active": 0,
        "url": "https://stream.zeno.fm/pppoleb7gzeuv",
        "language_inferred": true
       },
       {
        "name": "Saber Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/20pbsyxxfxpvv",
        "language_inferred": true
       },
       {
        "name": "Sahar Music",
+       "active": 0,
        "url": "https://stream.zeno.fm/w1wy4wmayf9uv",
        "language_inferred": true
       },
       {
        "name": "Sahar TV – IR",
+       "active": 0,
        "url": "http://www2.irib.ir/live/sahar2.asx",
        "language_inferred": true
       },
       {
        "name": "Samplpgame",
+       "active": 0,
        "url": "https://stream.zeno.fm/ydc0sdng3zhvv",
        "language_inferred": true
       },
       {
        "name": "Sawtal Shaab",
+       "active": 0,
        "url": "http://sirius.shoutca.st:8646/"
       },
       {
        "name": "Selena",
+       "active": 0,
        "url": "https://stream.zeno.fm/0gdvmfnxgrhvv",
        "language_inferred": true
       },
       {
        "name": "Sepanta Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/0d9tzcvz24zuv",
        "language_inferred": true
       },
       {
        "name": "sepehr",
+       "active": 0,
        "url": "https://stream.zeno.fm/d5wzstr9xg0uv",
        "language_inferred": true
       },
       {
        "name": "Shad sina",
+       "active": 0,
        "url": "https://stream.zeno.fm/drxp6mfvvrhvv",
        "language_inferred": true
       },
       {
        "name": "Shadowmind",
+       "active": 0,
        "url": "https://stream.zeno.fm/z7zu1rnq3zhvv",
        "language_inferred": true
       },
       {
        "name": "shoti10",
+       "active": 0,
        "url": "https://stream.zeno.fm/bztf11tavuhvv",
        "language_inferred": true
       },
       {
        "name": "Silence Bones",
+       "active": 0,
        "url": "https://stream.zeno.fm/xbkuja2mhm7uv",
        "language_inferred": true
       },
       {
        "name": "Silence Nostalgi",
+       "active": 0,
        "url": "https://stream.zeno.fm/bbz7i8ztx8svv",
        "language_inferred": true
       },
       {
        "name": "Silence Phonk",
+       "active": 0,
        "url": "https://stream.zeno.fm/jv6y4slolo4tv",
        "language_inferred": true
       },
       {
        "name": "Silence Pishro",
+       "active": 0,
        "url": "https://stream.zeno.fm/ejrmyh8bvr0vv",
        "language_inferred": true
       },
       {
        "name": "Silence Rap",
+       "active": 0,
        "url": "https://stream.zeno.fm/iewbsxh672yvv",
        "language_inferred": true
       },
       {
        "name": "Silence Rap English",
+       "active": 0,
        "url": "https://stream.zeno.fm/nfpovc0xq0iuv",
        "language_inferred": true
       },
       {
        "name": "Silence RolePlay",
+       "active": 0,
        "url": "https://stream.zeno.fm/3nlbnpluw9otv",
        "language_inferred": true
       },
       {
        "name": "Silence Shooti",
+       "active": 0,
        "url": "https://stream.zeno.fm/mjqkbmr4mcsvv",
        "language_inferred": true
       },
       {
        "name": "Simp bass radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/37gzzxkywhhvv",
        "language_inferred": true
       },
       {
        "name": "SinAshod",
+       "active": 0,
        "url": "https://stream.zeno.fm/40wm57u71xhvv",
        "language_inferred": true
       },
       {
        "name": "SiR_AriaN PlayList",
+       "active": 0,
        "url": "https://stream.zeno.fm/0xdvmxm90s8uv",
        "language_inferred": true
       },
       {
        "name": "sixone",
+       "active": 0,
        "url": "https://stream.zeno.fm/5rzku1c14rhvv",
        "language_inferred": true
       },
       {
        "name": "Skill Team Official",
+       "active": 0,
        "url": "https://stream.zeno.fm/1dec5c9hffhvv",
        "language_inferred": true
       },
       {
        "name": "SKills Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/bh5gtdg0zhwvv"
       },
       {
        "name": "Slessradio",
+       "active": 0,
        "url": "https://stream.zeno.fm/36rc3kvh0hhvv",
        "language_inferred": true
       },
       {
        "name": "slessradio",
+       "active": 0,
        "url": "https://stream.zeno.fm/cz9s3fumefhvv",
        "language_inferred": true
       },
       {
        "name": "spiral",
+       "active": 0,
        "url": "https://stream.zeno.fm/gxbgmegr2zhvv",
        "language_inferred": true
       },
       {
        "name": "Sputnik Persian",
+       "active": 0,
        "url": "http://icecast.rian.cdnvideo.ru/rian.voiceirn"
       },
       {
        "name": "Taboo",
+       "active": 0,
        "url": "https://stream.zeno.fm/pwk3euevm8quv"
       },
       {
        "name": "tataliti",
+       "active": 0,
        "url": "https://stream.zeno.fm/un43sz5k9whvv",
        "language_inferred": true
       },
       {
        "name": "Tataloo",
+       "active": 0,
        "url": "https://stream.zeno.fm/7tfpn1en6s8uv",
        "language_inferred": true
       },
       {
        "name": "tataloo radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/q2avxv3ssnhvv",
        "language_inferred": true
       },
       {
        "name": "Tea Time Farsi",
+       "active": 0,
        "url": "https://stream.zeno.fm/rceezk03za0uv",
        "language_inferred": true
       },
       {
        "name": "Tehran",
+       "active": 0,
        "url": "https://stream.zeno.fm/d9wtgcczgkhvv"
       },
       {
        "name": "Tehran To Berlin",
+       "active": 0,
        "url": "https://stream.zeno.fm/uqya62e1q98uv",
        "language_inferred": true
       },
       {
        "name": "Tenium",
+       "active": 0,
        "url": "https://stream.zeno.fm/tc2pnsb2uc9uv"
       },
       {
        "name": "Testttyudh",
+       "active": 0,
        "url": "https://stream.zeno.fm/t0m5shcbpxhvv",
        "language_inferred": true
       },
       {
        "name": "TheKiNG",
+       "active": 0,
        "url": "https://stream.zeno.fm/gx87h4t23rhvv",
        "language_inferred": true
       },
       {
        "name": "TheLost",
+       "active": 0,
        "url": "https://stream.zeno.fm/e56te5fewnhvv",
        "language_inferred": true
       },
       {
        "name": "TheLost",
+       "active": 0,
        "url": "https://stream.zeno.fm/bgsncrd9wnhvv",
        "language_inferred": true
       },
       {
        "name": "Toloo Radio",
+       "active": 0,
        "url": "http://asx.packdeal.com/Ray-Audio.ASX",
        "language_inferred": true
       },
       {
        "name": "TopMix Special Persian Rap",
+       "active": 0,
        "url": "https://stream.zeno.fm/si4nll80ci9tv",
        "language_inferred": true
       },
       {
        "name": "totritoRadio",
+       "active": 0,
        "url": "https://stream.zeno.fm/0utqysbqkkhvv",
        "language_inferred": true
       },
       {
        "name": "Unknown",
+       "active": 0,
        "url": "https://stream.zeno.fm/d6ucff6ra78uv",
        "language_inferred": true
       },
       {
        "name": "VENUS Rap",
+       "active": 0,
        "url": "https://stream.zeno.fm/sbwdkf9wm18uv",
        "language_inferred": true
       },
       {
        "name": "Vip3R Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/p20rg2tqzk0uv",
        "language_inferred": true
       },
       {
        "name": "WS3 Radio Tahran Arabic",
+       "active": 0,
        "url": "https://live.arabicradio.net/hls/arabic_high.m3u8?n=fd6788308cae443bd6b1"
       },
       {
        "name": "XantiaELX12V",
+       "active": 0,
        "url": "https://stream.zeno.fm/x0cwn6nyqnhvv",
        "language_inferred": true
       },
       {
        "name": "xforex",
+       "active": 0,
        "url": "https://stream.zeno.fm/p8pmagv3wv8uv",
        "language_inferred": true
       },
       {
        "name": "Xforex Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/t3p8dhgscphvv",
        "language_inferred": true
       },
       {
        "name": "Xforexnews",
+       "active": 0,
        "url": "https://stream.zeno.fm/baqw8xywyv8uv",
        "language_inferred": true
       },
       {
        "name": "xxxtaction",
+       "active": 0,
        "url": "https://stream.zeno.fm/x01p1bn6468uv",
        "language_inferred": true
       },
       {
        "name": "Xxxtentasion",
+       "active": 0,
        "url": "https://stream.zeno.fm/hn005xvg5nhvv",
        "language_inferred": true
       },
       {
        "name": "xxxxxx",
+       "active": 0,
        "url": "https://stream.zeno.fm/02qgtqx91hhvv",
        "language_inferred": true
       },
       {
        "name": "ZAMPIREOVIC",
+       "active": 0,
        "url": "https://stream.zeno.fm/eqn5w00dcchvv",
        "language_inferred": true
       },
       {
        "name": "zelda.custom",
+       "active": 0,
        "url": "https://stream.zeno.fm/f8q4u0e54bhvv",
        "language_inferred": true
       },
       {
        "name": "Zilan",
+       "active": 0,
        "url": "https://stream.zeno.fm/004zyb8d7f0uv"
       },
       {
        "name": "آونگ کاست",
+       "active": 0,
        "url": "https://stream.zeno.fm/6lcksxbwut2vv",
        "language_inferred": true
       },
       {
        "name": "اذاعة طهران العربية",
+       "active": 0,
        "url": "https://live.arabicradio.net/hls/arabic.m3u8",
        "language_inferred": true
       },
       {
        "name": "ایستگاه باجغلی",
+       "active": 0,
        "url": "https://stream.zeno.fm/2ukzwgg15hhvv",
        "language_inferred": true
       },
       {
        "name": "ایستگاه رادیویی ابهر",
+       "active": 0,
        "url": "https://stream.zeno.fm/w2mtecbzftzuv"
       },
       {
        "name": "ایستگاه پلی بک ملودی",
+       "active": 0,
        "url": "https://stream.zeno.fm/4e8wwdya4k0uv"
       },
       {
        "name": "تلاوت قرآن كريم",
+       "active": 0,
        "url": "http://s0.cdn2.iranseda.ir:1935/liveedge/radio-talavat/chunklist_w626256624.m3u8?n=ea4e2d9c7e850ebb93cb"
       },
       {
        "name": "راديو ترتیل",
+       "active": 0,
        "url": "http://s2.cdn1.iranseda.ir:1935/liveedge/radio-tartil/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "رادیو آونگ کلاپ",
+       "active": 0,
        "url": "https://stream.zeno.fm/fpabqr8pd9zuv",
        "language_inferred": true
       },
       {
        "name": "رادیو تهران",
+       "active": 0,
        "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-tehran/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "رادیو مناسبتی",
+       "active": 0,
        "url": "https://cdnw.telewebion.com/radiomonasebati/live/576p/index.m3u8",
        "language_inferred": true
       },
       {
        "name": "رادیو همراز",
+       "active": 0,
        "url": "https://stream.zeno.fm/rc4snlo0o1xuv"
       },
       {
        "name": "رادیو پیام",
+       "active": 0,
        "url": "http://s0.cdn2.iranseda.ir:1935/liveedge/radio-payam/playlist.m3u8?n=90298bf08f5ffbae6ed4"
       },
       {
        "name": "رادیو گفتگو",
+       "active": 0,
        "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-goftego/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "شبکه جهانی راديو گردشگر",
+       "active": 0,
        "url": "https://stream.zeno.fm/4p6uqaadt7zuv"
       },
       {
        "name": "شبکه جهانی رادیو دریا Radio Darya",
+       "active": 0,
        "url": "https://stream.zeno.fm/nz49hhzz808uv"
       },
       {
        "name": "صدای خاطره",
+       "active": 0,
        "url": "https://stream.zeno.fm/5ugcmeg86zhvv",
        "language_inferred": true
       },
       {
        "name": "علوم غریبه استاد راحیل",
+       "active": 0,
        "url": "https://stream.zeno.fm/5r15ky27t68uv",
        "language_inferred": true
       },
       {
        "name": "قرآن، طعم آفتاب زنده",
+       "active": 0,
        "url": "http://s1.cdn2.iranseda.ir:1935/liveedge/radio-quran/chunklist_w1668184178.m3u8?n=868c5cd39f2e49de9119"
       },
       {
        "name": "نه به جمهوری اسلامی",
+       "active": 0,
        "url": "https://stream.zeno.fm/zpxrhc4d2c9uv",
        "language_inferred": true
       }
@@ -3862,6 +4557,7 @@
      "stations": [
       {
        "name": "Shemroon Radio",
+       "active": 0,
        "url": "http://192.99.17.12:5919/stream"
       }
      ]
@@ -3871,6 +4567,7 @@
      "stations": [
       {
        "name": "IRIB Radio Ava",
+       "active": 0,
        "url": "http://s2.cdn1.iranseda.ir:1935/liveedge/radio-avaa/playlist.m3u8",
        "tags": [
         "folk",
@@ -3886,6 +4583,7 @@
      "stations": [
       {
        "name": "IRIB Radio Arabic",
+       "active": 0,
        "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-arabic/chunklist.m3u8",
        "tags": [
         "news_talk",
@@ -3894,10 +4592,12 @@
       },
       {
        "name": "IRIB Radio Arabic",
+       "active": 0,
        "url": "http://s2.cdn1.iranseda.ir:1935/liveedge/radio-tehran/playlist.m3u8"
       },
       {
        "name": "IRIB Radio Farhang",
+       "active": 0,
        "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-farhang/playlist.m3u8",
        "tags": [
         "islamic_quran",
@@ -3907,6 +4607,7 @@
       },
       {
        "name": "IRIB Radio Quran",
+       "active": 0,
        "url": "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-quran/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -3916,6 +4617,7 @@
       },
       {
        "name": "Radio Mahabad",
+       "active": 0,
        "url": "http://s1.cdn1.iranseda.ir:1935/liveedgeprovincial/radio-mahabad/playlist.m3u8",
        "tags": [
         "islamic_quran",
@@ -3924,10 +4626,12 @@
       },
       {
        "name": "رادیو جوان",
+       "active": 0,
        "url": "http://s2.cdn1.iranseda.ir:1935/liveedge/radio-javan/playlist.m3u8"
       },
       {
        "name": "رادیو پیام",
+       "active": 0,
        "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-payam/playlist.m3u8"
       }
      ]
@@ -3937,6 +4641,7 @@
      "stations": [
       {
        "name": "Radio Eram",
+       "active": 0,
        "url": "https://radio1.radioeram.com/",
        "tags": [
         "oldies",
@@ -3952,10 +4657,12 @@
      "stations": [
       {
        "name": "Radio AFNL",
+       "active": 0,
        "url": "https://bozztv.com/1gbw5/tintv/tintv/chunklist.m3u8"
       },
       {
        "name": "Radio Narmak",
+       "active": 0,
        "url": "https://ais-edge09-live365-dal02.cdnstream.com/a99375"
       }
      ]
@@ -3965,6 +4672,7 @@
      "stations": [
       {
        "name": "IRIB - Radio Ava",
+       "active": 0,
        "url": "http://altcdn.iranseda.ir:1935/channel-live/smil:r-ava/playlist.m3u8"
       }
      ]
@@ -3979,14 +4687,17 @@
      "stations": [
       {
        "name": "Mahabad",
+       "active": 0,
        "url": "http://cdn1.live.irib.ir:1935/radio/smil:r-mahabad/playlist.m3u8"
       },
       {
        "name": "Mahabad radio 2",
+       "active": 0,
        "url": "https://stream.zeno.fm/2qn48knhm98uv"
       },
       {
        "name": "Radio Mahabad 1",
+       "active": 0,
        "url": "https://stream.zeno.fm/tbu3myren98uv"
       }
      ]
@@ -4001,6 +4712,7 @@
      "stations": [
       {
        "name": "IRIB Radio English",
+       "active": 0,
        "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-english/chunklist.m3u8",
        "tags": [
         "news_talk",
@@ -4014,6 +4726,7 @@
      "stations": [
       {
        "name": "TWXO FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/gqvupmbvhdmuv"
       }
      ]
@@ -4028,10 +4741,12 @@
      "stations": [
       {
        "name": "LeeyMusicRadio",
+       "active": 0,
        "url": "https://stream.zeno.fm/01e21368mg0uv"
       },
       {
        "name": "Retro Persia",
+       "active": 0,
        "url": "https://stream.zeno.fm/vtp09m08d8zuv"
       }
      ]
@@ -4046,6 +4761,7 @@
      "stations": [
       {
        "name": "IRIB Radio Farhang",
+       "active": 0,
        "url": "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-farhang/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -4064,6 +4780,7 @@
      "stations": [
       {
        "name": "Snaga Naroda",
+       "active": 0,
        "url": "http://tachyon.shoutca.st:8847/",
        "tags": [
         "various_eclectic",
@@ -4082,6 +4799,7 @@
      "stations": [
       {
        "name": "Tin Tuc Vietnamese News 24hrs",
+       "active": 0,
        "url": "http://radio.vnunited.com:8000/stream/1/",
        "tags": [
         "news_talk",
@@ -4102,6 +4820,7 @@
      "stations": [
       {
        "name": "Russkoe Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/43q0ey00phruv"
       }
      ]
@@ -4116,6 +4835,7 @@
      "stations": [
       {
        "name": "Tzgospel swahili",
+       "active": 0,
        "url": "https://stream.zeno.fm/f11vv4ca7ehvv"
       }
      ]
@@ -4130,6 +4850,7 @@
      "stations": [
       {
        "name": "jkjkjkjkgvjhfghstxxgffg",
+       "active": 0,
        "url": "https://stream.zeno.fm/fy0r7e6snwzuv"
       }
      ]
@@ -4144,6 +4865,7 @@
      "stations": [
       {
        "name": "Iranianradio Com Eshghe Iran The Greatest Mix Of All Things Iranian",
+       "active": 0,
        "url": "http://ns35014.ovh.net:8002/stream/1"
       }
      ]

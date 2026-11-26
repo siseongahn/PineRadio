@@ -10,6 +10,7 @@
      "stations": [
       {
        "name": "Radio Cristo Viene 100.6 FM Listen live",
+       "active": 0,
        "url": "https://stream20.usastreams.com:7000/server",
        "tags": [
         "christian_gospel",
@@ -24,6 +25,7 @@
      "stations": [
       {
        "name": "Harvest Family Radio",
+       "active": 0,
        "url": "https://ic1.christiannetcast.com/khmg-fm",
        "tags": [
         "christian_gospel",
@@ -32,6 +34,7 @@
       },
       {
        "name": "Joy FM 91.9 radio",
+       "active": 0,
        "url": "https://streamdb9web.securenetsystems.net/cirrusencore/JOYFM",
        "tags": [
         "christian_gospel",
@@ -41,6 +44,7 @@
       },
       {
        "name": "KGCA-LP",
+       "active": 0,
        "url": "http://99.198.118.250:8152/",
        "tags": [
         "christian_gospel",
@@ -49,6 +53,7 @@
       },
       {
        "name": "KHMG 88.1 FM Listen live",
+       "active": 0,
        "url": "https://ic1.sslstream.com/khmg-fm?rnd=7338",
        "language_inferred": true
       }
@@ -59,6 +64,7 @@
      "stations": [
       {
        "name": "KTWG AM800 Radio Listen live",
+       "active": 0,
        "url": "https://ice3.securenetsystems.net/KGUM2",
        "tags": [
         "news_talk",
@@ -74,6 +80,7 @@
      "stations": [
       {
        "name": "GTM Radio Listen live",
+       "active": 0,
        "url": "https://sonic01.instainternet.com/8314/server",
        "tags": [
         "news_talk",
@@ -89,6 +96,7 @@
      "stations": [
       {
        "name": "i94-FM",
+       "active": 0,
        "url": "http://www.ophanim.net:8370/stream",
        "tags": [
         "news_talk",
@@ -98,6 +106,7 @@
       },
       {
        "name": "Isla 63 - KUAM",
+       "active": 0,
        "url": "https://www.ophanim.net:8444/s/9010",
        "tags": [
         "news_talk",
@@ -109,6 +118,7 @@
       },
       {
        "name": "Isla63 AM",
+       "active": 0,
        "url": "http://www.ophanim.net:9010/stream",
        "tags": [
         "news_talk",
@@ -118,6 +128,7 @@
       },
       {
        "name": "Joy FM - KSDA Listen live",
+       "active": 0,
        "url": "https://ice5.securenetsystems.net/JOYFM",
        "tags": [
         "news_talk",
@@ -129,11 +140,13 @@
       },
       {
        "name": "K-57 – KGUM",
+       "active": 0,
        "url": "http://202.123.144.36:8000/",
        "language_inferred": true
       },
       {
        "name": "KPRG FM",
+       "active": 0,
        "url": "https://peridot.streamguys.com:5090/live",
        "tags": [
         "news_talk",
@@ -146,6 +159,7 @@
       },
       {
        "name": "KUAM i94-FM",
+       "active": 0,
        "url": "http://www.ophanim.net:8370/stream.mp3",
        "tags": [
         "news_talk",
@@ -155,6 +169,7 @@
       },
       {
        "name": "KUAM-AM 630 \"Isla 63\" Hagatna",
+       "active": 0,
        "url": "http://www.ophanim.net:9010",
        "tags": [
         "various_eclectic",
@@ -165,6 +180,7 @@
       },
       {
        "name": "KUSG",
+       "active": 0,
        "url": "https://ice10.securenetsystems.net/KUSG",
        "tags": [
         "news_talk",
@@ -176,6 +192,7 @@
       },
       {
        "name": "Radio K57 AM",
+       "active": 0,
        "url": "https://ice2.securenetsystems.net/KGUM2",
        "tags": [
         "news_talk",
@@ -186,6 +203,7 @@
       },
       {
        "name": "The Breeze 93.9 FM",
+       "active": 0,
        "url": "https://www.ophanim.net:8444/s/8370",
        "tags": [
         "pop_hits",
@@ -205,6 +223,7 @@
      "stations": [
       {
        "name": "Guam Shark – KZGU",
+       "active": 0,
        "url": "https://ice8.securenetsystems.net/KRSI",
        "tags": [
         "pop_hits",
@@ -218,6 +237,7 @@
       },
       {
        "name": "KAT-FM",
+       "active": 0,
        "url": "https://ice3.securenetsystems.net/KGUMFM",
        "tags": [
         "various_eclectic",
@@ -227,24 +247,29 @@
       },
       {
        "name": "KSDA Joy FM",
+       "active": 0,
        "url": "https://ice5.securenetsystems.net/JOYFM?playSessionID=3CE152BB-96A2-42F0-A1DA84A2D587BA5B",
        "language_inferred": true
       },
       {
        "name": "KSTO FM",
+       "active": 0,
        "url": "https://cdn.stobcm.com/radio/ksto1.stream/chunklist.m3u8"
       },
       {
        "name": "Megamixx 101.9",
+       "active": 0,
        "url": "http://95.154.193.6:8014/listen.pls"
       },
       {
        "name": "Radio The Shark radio",
+       "active": 0,
        "url": "https://streamdb7web.securenetsystems.net/v5/KRSI",
        "language_inferred": true
       },
       {
        "name": "Star 101 Listen live",
+       "active": 0,
        "url": "https://ice9.securenetsystems.net/KNUT",
        "tags": [
         "pop_hits",
@@ -256,11 +281,13 @@
       },
       {
        "name": "Station Beta, Hagåtña radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/ettxwxhgp7mtv",
        "language_inferred": true
       },
       {
        "name": "The Shark",
+       "active": 0,
        "url": "https://ice8.securenetsystems.net/KRSI?playSessionID=2FB594A5-A707-4A26-9D81640D1627400C",
        "language_inferred": true
       }
@@ -271,6 +298,7 @@
      "stations": [
       {
        "name": "KKMP – K221EF",
+       "active": 0,
        "url": "http://s2.yesstreaming.net:7208/stream/",
        "tags": [
         "reggae_ska",
@@ -286,6 +314,7 @@
      "stations": [
       {
        "name": "105.1 The Kat - KGUM-FM",
+       "active": 0,
        "url": "https://ice2.securenetsystems.net/KGUMFM",
        "tags": [
         "rock",
@@ -297,6 +326,7 @@
       },
       {
        "name": "105.1 The Kat – KGUM-FM",
+       "active": 0,
        "url": "http://202.123.144.36:8000/stream/4/",
        "tags": [
         "rock",
@@ -307,6 +337,7 @@
       },
       {
        "name": "BOSS 104.3 FM",
+       "active": 0,
        "url": "https://ice10.securenetsystems.net/KIJI",
        "tags": [
         "rock",
@@ -320,6 +351,7 @@
       },
       {
        "name": "The Kat - KGUM-FM",
+       "active": 0,
        "url": "https://ice2.securenetsystems.net/KGUMFM?ver=274640",
        "tags": [
         "decade_2000s",
@@ -336,6 +368,7 @@
      "stations": [
       {
        "name": "Power 98",
+       "active": 0,
        "url": "https://ice3.securenetsystems.net/KZGZ",
        "tags": [
         "soul_rnb_funk",
@@ -355,57 +388,68 @@
      "stations": [
       {
        "name": "Dar Yadar Wadih El Safi Song",
+       "active": 0,
        "url": "https://stream.zeno.fm/jqm8vmtie37tv",
        "language_inferred": true
       },
       {
        "name": "guam line in brazil",
+       "active": 0,
        "url": "https://stream1.svrdedicado.org/8368/stream",
        "language_inferred": true
       },
       {
        "name": "KGUM - Newstalk K57",
+       "active": 0,
        "url": "https://ice3.securenetsystems.net/KGUM2?playSessionID=7D2FE90A-F78E-48FC-853DFE60FCCF6372",
        "language_inferred": true
       },
       {
        "name": "KGUM 105.1 KAT-FM",
+       "active": 0,
        "url": "https://ice3.securenetsystems.net/KGUMFM?playSessionID=DF2D48FD-774B-49EB-BF63F48651DD15BF",
        "language_inferred": true
       },
       {
        "name": "Power 98",
+       "active": 0,
        "url": "https://ice3.securenetsystems.net/KZGZ?playSessionID=0EA88430-BCE9-4CAE-8F1AE75BD90087AF",
        "language_inferred": true
       },
       {
        "name": "Radio Arrigo Barnabe",
+       "active": 0,
        "url": "https://stream.zeno.fm/sb1hgtu7xa0uv",
        "language_inferred": true
       },
       {
        "name": "Radio Roy Obison",
+       "active": 0,
        "url": "https://stream.zeno.fm/k7fb2gfmqd0uv",
        "language_inferred": true
       },
       {
        "name": "TFC Guam",
+       "active": 0,
        "url": "https://tfcguam-abscbn-ono.amagi.tv/index.m3u8?n=2e4640a4ed2f6729299d",
        "language_inferred": true,
        "rb": "d1466267-42e2-4c2a-ad29-3a261c419ab2"
       },
       {
        "name": "ThePOINT",
+       "active": 0,
        "url": "https://stream.zeno.fm/5q0d74y6q98uv",
        "language_inferred": true
       },
       {
        "name": "TTTY CHANNEL",
+       "active": 0,
        "url": "https://stream.zeno.fm/2f7br0hr498uv",
        "language_inferred": true
       },
       {
        "name": "WENH-LD",
+       "active": 0,
        "url": "https://stream.zeno.fm/rnh5fzens68uv",
        "language_inferred": true
       }
@@ -421,6 +465,7 @@
      "stations": [
       {
        "name": "Tzgospel swahili",
+       "active": 0,
        "url": "https://stream.zeno.fm/vymxg02mffhvv"
       }
      ]

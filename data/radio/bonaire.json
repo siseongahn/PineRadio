@@ -10,6 +10,7 @@
      "stations": [
       {
        "name": "Powernet Radio",
+       "active": 0,
        "url": "http://162.210.192.98:37426/stream.nsv",
        "tags": [
         "decade_2000s",
@@ -24,6 +25,7 @@
      "stations": [
       {
        "name": "Radio Cool FM radio",
+       "active": 0,
        "url": "https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8",
        "tags": [
         "pop_hits",
@@ -40,6 +42,7 @@
      "stations": [
       {
        "name": "Alfa 93.1 FM",
+       "active": 0,
        "url": "http://78.129.229.120:8581/stream/1?n=ec90a7829311becbcc32",
        "tags": [
         "folk",
@@ -48,6 +51,7 @@
       },
       {
        "name": "Radio Alpha FM radio",
+       "active": 0,
        "url": "http://88.150.230.110:11991/stream.nsv",
        "tags": [
         "pop_hits",
@@ -63,6 +67,7 @@
      "stations": [
       {
        "name": "KISS FM - Balkan Beats Listen live",
+       "active": 0,
        "url": "https://topradio-de-hz-fal-stream02-cluster01.radiohost.de/kissfm-balkan-beats_mp3-192?ref=radioplayer",
        "tags": [
         "hip_hop_rap",
@@ -78,6 +83,7 @@
      "stations": [
       {
        "name": "BON F.M. 102.7 radio",
+       "active": 0,
        "url": "http://162.244.80.21:6482/stream.mp3",
        "tags": [
         "news_talk",
@@ -87,6 +93,7 @@
       },
       {
        "name": "Radio Hot Online Bonaire radio",
+       "active": 0,
        "url": "http://78.129.187.73/stream.mp3?ipport=78.129.187.73_13051",
        "tags": [
         "news_talk",
@@ -101,6 +108,7 @@
      "stations": [
       {
        "name": "Radio Alegria  radio",
+       "active": 0,
        "url": "https://radioalegriaonline.out.airtime.pro/radioalegriaonline_a",
        "tags": [
         "pop_hits",
@@ -111,6 +119,7 @@
       },
       {
        "name": "Radio Karpata En Vivo",
+       "active": 0,
        "url": "https://stream.zeno.fm/fpc440mz3tzuv",
        "tags": [
         "pop_hits",
@@ -125,6 +134,7 @@
      "stations": [
       {
        "name": "radio bibu online radio",
+       "active": 0,
        "url": "http://78.129.234.163/stream.mp3?ipport=78.129.234.163_4092",
        "tags": [
         "rock",
@@ -136,6 +146,7 @@
       },
       {
        "name": "Radio Bibu radio",
+       "active": 0,
        "url": "http://78.129.224.17:36793/stream.nsv",
        "tags": [
         "rock",
@@ -150,11 +161,13 @@
      "stations": [
       {
        "name": "Radio BroKeS 93.5",
+       "active": 0,
        "url": "https://mscp4.live-streams.nl:8202/live",
        "language_inferred": true
       },
       {
        "name": "Radio Flamingo 97.1 FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/20xaqs3x2ehvv?zs=3KIYV3brSu6nGO82SKwdJQ",
        "language_inferred": true
       }
@@ -165,170 +178,204 @@
      "stations": [
       {
        "name": "1karathik",
+       "active": 0,
        "url": "https://stream.zeno.fm/6sh51n58938uv",
        "language_inferred": true
       },
       {
        "name": "2g né vida",
+       "active": 0,
        "url": "https://stream.zeno.fm/bz6nga1hsuhvv",
        "language_inferred": true
       },
       {
        "name": "8d audio",
+       "active": 0,
        "url": "https://stream.zeno.fm/m1h6p53c5uhvv",
        "language_inferred": true
       },
       {
        "name": "96.9 OYE FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/95fnv5c1dzzuv"
       },
       {
        "name": "Anonimo",
+       "active": 0,
        "url": "https://stream.zeno.fm/du6355creuhvv",
        "language_inferred": true
       },
       {
        "name": "Avergrs Sefendod",
+       "active": 0,
        "url": "https://stream.zeno.fm/ufh56tzzxc9uv",
        "language_inferred": true
       },
       {
        "name": "biba pa Dios",
+       "active": 0,
        "url": "https://stream.zeno.fm/ma4tqurv8bhvv",
        "language_inferred": true
       },
       {
        "name": "BO RADIO BONAIRE",
+       "active": 0,
        "url": "https://stream.zeno.fm/2thkcap2uc9uv",
        "language_inferred": true
       },
       {
        "name": "Bo Radio Bonaire",
+       "active": 0,
        "url": "https://stream.zeno.fm/rknn9p60s98uv",
        "language_inferred": true
       },
       {
        "name": "Bo Radio Bonaire",
+       "active": 0,
        "url": "https://stream.zeno.fm/oovpjlsq9lvvv",
        "language_inferred": true
       },
       {
        "name": "Bula Bo Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/43y60a7fam8uv",
        "language_inferred": true
       },
       {
        "name": "CARIBBEAN WORSHIP STATION",
+       "active": 0,
        "url": "https://stream.zeno.fm/fppmgbp2fd0uv",
        "language_inferred": true
       },
       {
        "name": "FRESH FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/cktgb51ard0uv",
        "language_inferred": true
       },
       {
        "name": "Fresh FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/969za5apduhvv",
        "language_inferred": true
       },
       {
        "name": "INOPERATIVE",
+       "active": 0,
        "url": "https://stream.zeno.fm/cpmp5xiwahjtv",
        "language_inferred": true
       },
       {
        "name": "LIVE STREAMING",
+       "active": 0,
        "url": "https://stream.zeno.fm/6znx2t7qgf9uv",
        "language_inferred": true
       },
       {
        "name": "Louloulove85",
+       "active": 0,
        "url": "https://stream.zeno.fm/rmb1fab4ktquv",
        "language_inferred": true
       },
       {
        "name": "martijnfm",
+       "active": 0,
        "url": "https://stream.zeno.fm/yqfg2ew5mfhvv",
        "language_inferred": true
       },
       {
        "name": "Mega Hit FM",
+       "active": 0,
        "url": "http://megaspice.primcast.com:5216/listen.pls?sid=1?n=1d903421143583737274",
        "language_inferred": true
       },
       {
        "name": "Mestre",
+       "active": 0,
        "url": "https://stream.zeno.fm/e0a670euxhhvv",
        "language_inferred": true
       },
       {
        "name": "miller",
+       "active": 0,
        "url": "https://stream.zeno.fm/qfu23msu1uhvv",
        "language_inferred": true
       },
       {
        "name": "Powernet Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/zex7b80n5a0uv",
        "language_inferred": true
       },
       {
        "name": "Radio Ambiente Online",
+       "active": 0,
        "url": "https://stream.zeno.fm/dym3mbm36p8uv",
        "language_inferred": true
       },
       {
        "name": "Radio Flamingo 97.1 FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/20xaqs3x2ehvv",
        "language_inferred": true
       },
       {
        "name": "Radio Flamingo 97.1Fm bonaire radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/rhxzts3x2ehvv",
        "language_inferred": true
       },
       {
        "name": "Radio Karibe Bonaire Online",
+       "active": 0,
        "url": "https://stream.zeno.fm/ja2kqvjti8otv",
        "language_inferred": true
       },
       {
        "name": "Radio Karpata Krioyo",
+       "active": 0,
        "url": "https://stream.zeno.fm/skvuxeamqd0uv",
        "language_inferred": true
       },
       {
        "name": "Radio Suave FM Bonaire",
+       "active": 0,
        "url": "https://stream.zeno.fm/tmwwn6n6g0hvv",
        "language_inferred": true
       },
       {
        "name": "Radio Vishon 97.1 Bonaire radio",
+       "active": 0,
        "url": "http://uk2.internet-radio.com:8108/stream.nsv",
        "language_inferred": true
       },
       {
        "name": "Radio Vishon Bonaire",
+       "active": 0,
        "url": "https://stream.zeno.fm/rk28andtad0uv",
        "language_inferred": true
       },
       {
        "name": "Radio Vitrola",
+       "active": 0,
        "url": "https://stream.zeno.fm/e6r6b6d04rhvv",
        "language_inferred": true
       },
       {
        "name": "Rádio TROPICAL  ondas curtas 49 MT 9549 kw",
+       "active": 0,
        "url": "https://stream.zeno.fm/xtsbd93yvrhvv",
        "language_inferred": true
       },
       {
        "name": "SixSixSix",
+       "active": 0,
        "url": "https://stream.zeno.fm/9hlwu1mpnhluv",
        "language_inferred": true
       },
       {
        "name": "Transmishon Di Flamingo 97 Bonaire",
+       "active": 0,
        "url": "https://stream.zeno.fm/wwvptm54dxhvv",
        "language_inferred": true
       }
@@ -344,6 +391,7 @@
      "stations": [
       {
        "name": "Voz di Bonaire 94.7 - Riscado",
+       "active": 0,
        "url": "http://159.203.190.86:8304/stream.mp3",
        "tags": [
         "news_talk",
@@ -360,6 +408,7 @@
      "stations": [
       {
        "name": "Mega Hit FM",
+       "active": 0,
        "url": "http://megaspice.primcast.com:5216/stream.mp3"
       }
      ]
@@ -374,6 +423,7 @@
      "stations": [
       {
        "name": "Radio Joyride",
+       "active": 0,
        "url": "http://server-51.stream-server.nl:8619/stream?type=http&nocache=609?n=879cba6fed23697f7852"
       }
      ]

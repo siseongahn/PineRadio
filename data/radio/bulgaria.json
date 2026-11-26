@@ -10,6 +10,7 @@
      "stations": [
       {
        "name": "ARM RADIO VM",
+       "active": 0,
        "url": "http://streaming.shoutcast.com/R-Armedia?",
        "tags": [
         "alternative_indie",
@@ -20,11 +21,13 @@
       },
       {
        "name": "XRaYdio",
+       "active": 0,
        "url": "https://securestreams3.autopo.st:1421/live",
        "language_inferred": true
       },
       {
        "name": "XRaydio 1",
+       "active": 0,
        "url": "https://xraydio.ddns.net/live",
        "tags": [
         "alternative_indie",
@@ -46,6 +49,7 @@
      "stations": [
       {
        "name": "Eilo Ambient and Chill Radio",
+       "active": 0,
        "url": "http://eilo.org:8000/ambient",
        "tags": [
         "ambient_relax",
@@ -55,15 +59,18 @@
       },
       {
        "name": "Lozenets Radio",
+       "active": 0,
        "url": "http://streaming.shoutcast.com/Lozenets"
       },
       {
        "name": "Radio Lozenets",
+       "active": 0,
        "url": "http://listen.shoutcast.com/lozenets",
        "language_inferred": true
       },
       {
        "name": "Vanilla",
+       "active": 0,
        "url": "https://play.global.audio/vanillahi.aac?n=cd72140cc069aad340d1",
        "rb": "3f107ac4-949c-4c65-8bea-d1cba3a7e728",
        "logo": "https://www.radioplay.bg/assets/logos/vanilla.png"
@@ -75,11 +82,13 @@
      "stations": [
       {
        "name": "AREHAORG",
+       "active": 0,
        "url": "http://178.32.107.151:6768/listen.pls",
        "language_inferred": true
       },
       {
        "name": "Deep Lounge Radio",
+       "active": 0,
        "url": "https://www.liveradio.es/http://93.152.140.225:8000/stream/2/",
        "tags": [
         "chillout_lounge",
@@ -89,6 +98,7 @@
       },
       {
        "name": "Eilo Radio – Ambient & Chill Radio",
+       "active": 0,
        "url": "http://stream.eilo.org:8000/ambient",
        "tags": [
         "pop_hits",
@@ -99,6 +109,7 @@
       },
       {
        "name": "Jazz FM",
+       "active": 0,
        "url": "http://46.10.150.123/jazz-fm.mp3",
        "tags": [
         "chillout_lounge",
@@ -108,11 +119,13 @@
       },
       {
        "name": "Jazz FM Lounge",
+       "active": 0,
        "url": "http://46.10.150.243:80/jazz-fm-lounge.mp3",
        "language_inferred": true
       },
       {
        "name": "nRadio",
+       "active": 0,
        "url": "http://stream.nradio.online:8000/nRadio",
        "tags": [
         "chillout_lounge",
@@ -124,11 +137,13 @@
       },
       {
        "name": "Radio 33 Ambient and Chill",
+       "active": 0,
        "url": "http://radio33.org:8160/radio33",
        "language_inferred": true
       },
       {
        "name": "Radio Deluxe",
+       "active": 0,
        "url": "https://play.radiomaxxfm.com/deluxe",
        "tags": [
         "pop_hits",
@@ -137,6 +152,7 @@
       },
       {
        "name": "Radio Lozenets",
+       "active": 0,
        "url": "http://95.154.254.157:34372",
        "tags": [
         "chillout_lounge",
@@ -148,6 +164,7 @@
       },
       {
        "name": "Radio NET",
+       "active": 0,
        "url": "http://195.24.89.6:8000/",
        "tags": [
         "chillout_lounge",
@@ -166,10 +183,12 @@
      "stations": [
       {
        "name": "Beinsa Duno",
+       "active": 0,
        "url": "http://87.126.166.233:8000"
       },
       {
        "name": "Radio 865",
+       "active": 0,
        "url": "http://94.26.60.47:3690/live",
        "tags": [
         "christian_gospel",
@@ -179,6 +198,7 @@
       },
       {
        "name": "Radio Bojia Sila",
+       "active": 0,
        "url": "https://stream.zenolive.com/6t0ec6rwtuquv",
        "tags": [
         "christian_gospel",
@@ -187,17 +207,20 @@
       },
       {
        "name": "Radio Kanon",
+       "active": 0,
        "url": "https://stream.pcradio.ru/radio_kanon-med",
        "language_inferred": true
       },
       {
        "name": "Радио Канон - Radio Kanon",
+       "active": 0,
        "url": "http://79.98.108.170:8059/stream",
        "rb": "ae938ded-ad1b-11e8-aa67-52543be04c81",
        "logo": "http://www.radiokanon.com/images/favicon.png"
       },
       {
        "name": "Радио „Епархийски глас“",
+       "active": 0,
        "url": "https://radio.mitropolia-sofia.org:7610/stream?n=8b29a2dcf6aff65da1c3",
        "rb": "087bbce7-9fc7-48f3-9f8b-1b1109852108"
       }
@@ -208,11 +231,13 @@
      "stations": [
       {
        "name": "Binar Klasika",
+       "active": 0,
        "url": "https://edge17.cdn.bg:20030/fls/BINAR-Classic.stream/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "BNR - Hristo Botev",
+       "active": 0,
        "url": "http://stream.bnr.bg:8012/hristo-botev.aac",
        "tags": [
         "classical",
@@ -225,6 +250,7 @@
       },
       {
        "name": "BNR 1 Hristo Botev",
+       "active": 0,
        "url": "http://lb.blb.cdn.bg:2032/fls/HrBotev.stream/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -233,20 +259,24 @@
       },
       {
        "name": "BNR Radio BINAR-Classic",
+       "active": 0,
        "url": "https://lb-hls.cdn.bg/2003/fls/BINAR-Classic.stream/playlist.m3u8"
       },
       {
        "name": "Classic FM",
+       "active": 0,
        "url": "http://live.btvradio.bg/classic-fm.mp3.m3u",
        "language_inferred": true
       },
       {
        "name": "Classic FM (Sofia) Radio",
+       "active": 0,
        "url": "https://stream.pcradio.ru/classicfm_bg-med",
        "language_inferred": true
       },
       {
        "name": "Classic FM 89.1",
+       "active": 0,
        "url": "http://46.10.150.123/classic-fm.mp3",
        "tags": [
         "classical",
@@ -255,10 +285,12 @@
       },
       {
        "name": "Classic FM radio",
+       "active": 0,
        "url": "http://live.btvradio.bg/classic-fm.mp3"
       },
       {
        "name": "Classic FM България",
+       "active": 0,
        "url": "https://bravo.btv.bg/radio/classic-radio-proxy/index.php",
        "tags": [
         "classical",
@@ -267,11 +299,13 @@
       },
       {
        "name": "classicfm",
+       "active": 0,
        "url": "https://bravo.btv.bg/m3u/classicfm.m3u",
        "language_inferred": true
       },
       {
        "name": "Deep Lounge Radio",
+       "active": 0,
        "url": "http://93.152.140.225:8000/stream/5/stream/1",
        "tags": [
         "classical",
@@ -288,6 +322,7 @@
       },
       {
        "name": "Drooble radio",
+       "active": 0,
        "url": "https://drooble.com/radio-stream/all",
        "tags": [
         "classical",
@@ -305,6 +340,7 @@
       },
       {
        "name": "Hit FM Bulgaria",
+       "active": 0,
        "url": "http://play.hitfmbg.com:8000/hitfm",
        "tags": [
         "classical",
@@ -322,20 +358,24 @@
       },
       {
        "name": "Metro Virtuoso Radio",
+       "active": 0,
        "url": "https://radiocp.jump.bg/proxy/feed333?mp=/MVR"
       },
       {
        "name": "Metro Virtuoso Radio",
+       "active": 0,
        "url": "https://meg.novahost.bg/proxy/feed333?mp=%2FMVR"
       },
       {
        "name": "Metro Virtuoso Radio",
+       "active": 0,
        "url": "https://radio.jump.bg/proxy/metrolowb?mp=/MVRLOWDATA",
        "country_inferred": true,
        "language_inferred": true
       },
       {
        "name": "Metro Virtuoso Radio HD - By Metro Cast Stations",
+       "active": 0,
        "url": "http://eu1.reliastream.com:7092/MVR",
        "tags": [
         "classical",
@@ -346,6 +386,7 @@
       },
       {
        "name": "Radio Maxx FM Deluxe",
+       "active": 0,
        "url": "http://play.radiomaxxfm.com:8000/deluxe",
        "tags": [
         "classical",
@@ -357,6 +398,7 @@
       },
       {
        "name": "Radio Melody",
+       "active": 0,
        "url": "http://193.108.24.6:8000/melody?file=.mp3",
        "tags": [
         "classical",
@@ -368,6 +410,7 @@
       },
       {
        "name": "Radio Melody",
+       "active": 0,
        "url": "http://193.108.24.6:8000/melody",
        "tags": [
         "pop_hits",
@@ -377,6 +420,7 @@
       },
       {
        "name": "Veronika",
+       "active": 0,
        "url": "http://play.global.audio/veronika.aac",
        "tags": [
         "classical",
@@ -387,6 +431,7 @@
       },
       {
        "name": "Радио 1",
+       "active": 0,
        "url": "http://play.global.audio/radio1128"
       }
      ]
@@ -396,20 +441,24 @@
      "stations": [
       {
        "name": "kurvi i bqlo",
+       "active": 0,
        "url": "https://stream.zeno.fm/dqhuq1h5bf9uv",
        "language_inferred": true
       },
       {
        "name": "kurvi i bqlo",
+       "active": 0,
        "url": "https://stream.zeno.fm/37mdn7h5bf9uv",
        "language_inferred": true
       },
       {
        "name": "Radio Reakcia",
+       "active": 0,
        "url": "http://stream.reakcia.net:8038/live"
       },
       {
        "name": "retrobg",
+       "active": 0,
        "url": "https://stream.zeno.fm/yxuqf50makhvv",
        "language_inferred": true
       }
@@ -420,11 +469,13 @@
      "stations": [
       {
        "name": "karnalovofm",
+       "active": 0,
        "url": "https://stream.zeno.fm/aczzad4t0v8uv",
        "language_inferred": true
       },
       {
        "name": "RadioChalgaHit",
+       "active": 0,
        "url": "https://stream.zeno.fm/arw796ytbphvv",
        "language_inferred": true
       }
@@ -435,6 +486,7 @@
      "stations": [
       {
        "name": "Vega+ Sandaski",
+       "active": 0,
        "url": "http://www.ultranet.biz/vegasandanski.m3u",
        "tags": [
         "decade_2000s",
@@ -452,6 +504,7 @@
      "stations": [
       {
        "name": "Play FM Bulgaria",
+       "active": 0,
        "url": "http://stream.playfmbg.com:9998/stream",
        "tags": [
         "decade_80s",
@@ -465,6 +518,7 @@
       },
       {
        "name": "Play FM Bulgaria",
+       "active": 0,
        "url": "https://playfmbg.com:8898/stream",
        "tags": [
         "pop_hits",
@@ -475,6 +529,7 @@
       },
       {
        "name": "Radio Lagoshevtsi",
+       "active": 0,
        "url": "https://www.liveradio.es/http://radio.jump.bg:8484/stream",
        "tags": [
         "decade_80s",
@@ -484,6 +539,7 @@
       },
       {
        "name": "Radio Melodia Silistra",
+       "active": 0,
        "url": "http://g5.turbohost.eu:8010/stream128",
        "language_inferred": true,
        "rb": "8dbb2c0c-7068-4eb5-a65f-435b06225150"
@@ -495,6 +551,7 @@
      "stations": [
       {
        "name": "Dance Mania radio",
+       "active": 0,
        "url": "http://46.10.211.50:800/stream.nsv",
        "tags": [
         "decade_90s",
@@ -503,6 +560,7 @@
       },
       {
        "name": "Energy 90s",
+       "active": 0,
        "url": "http://stream.radioreklama.bg/energy-90s",
        "bitrate": 128,
        "logo": "http://radio.pervii.com/im/0/1563677630.jpg",
@@ -515,6 +573,7 @@
       },
       {
        "name": "Hot Hits FM",
+       "active": 0,
        "url": "https://radio.jump.bg/proxy/kiril/stream",
        "tags": [
         "decade_90s",
@@ -524,6 +583,7 @@
       },
       {
        "name": "Radio Energy 90s Only Sofia 128k",
+       "active": 0,
        "url": "https://play.global.audio/energy-90s",
        "tags": [
         "decade_90s",
@@ -543,6 +603,7 @@
      "stations": [
       {
        "name": "Goldenrose",
+       "active": 0,
        "url": "http://goldenrose.radiostream123.com",
        "tags": [
         "disco_eurodance",
@@ -553,6 +614,7 @@
       },
       {
        "name": "Radio Millenium Uk",
+       "active": 0,
        "url": "http://listen.radiomillenium.co.uk:9000/millenium-hd",
        "tags": [
         "easy_listening",
@@ -564,6 +626,7 @@
       },
       {
        "name": "Radio Sevtopolis",
+       "active": 0,
        "url": "https://radiocp.novahost.bg:2199/tunein/radio123.pls",
        "tags": [
         "pop_hits",
@@ -581,6 +644,7 @@
      "stations": [
       {
        "name": "Eilo Drum and Bass Radio",
+       "active": 0,
        "url": "http://eilo.org:8000/drum",
        "tags": [
         "drum_and_bass",
@@ -591,6 +655,7 @@
       },
       {
        "name": "Eilo Dubstep Radio",
+       "active": 0,
        "url": "http://eilo.org:8000/dubstep",
        "tags": [
         "drum_and_bass",
@@ -601,6 +666,7 @@
       },
       {
        "name": "VM ARMedia",
+       "active": 0,
        "url": "http://178.32.107.151:6768/stream",
        "tags": [
         "house",
@@ -616,6 +682,7 @@
      "stations": [
       {
        "name": "Avto Radio",
+       "active": 0,
        "url": "https://play.global.audio/avtoradio.mp3",
        "tags": [
         "pop_hits",
@@ -626,6 +693,7 @@
       },
       {
        "name": "Bumerang FM",
+       "active": 0,
        "url": "http://185.20.88.1:8010",
        "tags": [
         "pop_hits",
@@ -639,6 +707,7 @@
       },
       {
        "name": "Easy Radio",
+       "active": 0,
        "url": "https://live.easyradio.bg/192?type=.mp3",
        "tags": [
         "easy_listening",
@@ -648,6 +717,7 @@
       },
       {
        "name": "Feelings Radio",
+       "active": 0,
        "url": "https://cast2.radiohost.ovh:2200/proxy/feelingsradio?mp=/stream",
        "language_inferred": true,
        "rb": "c46ef0f0-17e5-4af4-acf0-d031ae770f55",
@@ -655,10 +725,12 @@
       },
       {
        "name": "FM Plus",
+       "active": 0,
        "url": "http://fmplus-stream.atlantis.bg:8000/fmplus_low.ogg"
       },
       {
        "name": "Hit Radio Ultra",
+       "active": 0,
        "url": "https://www.liveradio.es/http://88.80.96.25:8020/",
        "tags": [
         "easy_listening",
@@ -668,6 +740,7 @@
       },
       {
        "name": "Katara",
+       "active": 0,
        "url": "http://www.katrafm.net:9000/live",
        "tags": [
         "pop_hits",
@@ -678,6 +751,7 @@
       },
       {
        "name": "Metro HITS radio",
+       "active": 0,
        "url": "https://meg.novahost.bg/proxy/feed30?mp=%2FMHR",
        "tags": [
         "pop_hits",
@@ -686,6 +760,7 @@
       },
       {
        "name": "Power FM BG Radio",
+       "active": 0,
        "url": "https://stream.pcradio.ru/rad_powerfmbrgs-med",
        "tags": [
         "easy_listening",
@@ -695,6 +770,7 @@
       },
       {
        "name": "Radio FM + radio",
+       "active": 0,
        "url": "http://193.108.24.21:8000/fmplus?file=.mp3",
        "tags": [
         "easy_listening",
@@ -704,6 +780,7 @@
       },
       {
        "name": "Radio Zorana",
+       "active": 0,
        "url": "http://212.95.165.98:8001/",
        "tags": [
         "easy_listening",
@@ -712,6 +789,7 @@
       },
       {
        "name": "Rusko Radio",
+       "active": 0,
        "url": "https://stream.pcradio.ru/rad_ruskrdbg-med",
        "tags": [
         "easy_listening",
@@ -721,6 +799,7 @@
       },
       {
        "name": "Vitosha",
+       "active": 0,
        "url": "https://bss.neterra.tv/rtplive/vitosharadio_live.stream/playlist.m3u8",
        "tags": [
         "pop_hits",
@@ -729,6 +808,7 @@
       },
       {
        "name": "Радио Вероника 96.7 (Radio Veronika)",
+       "active": 0,
        "url": "https://149.13.0.80/veronika.ogg",
        "tags": [
         "easy_listening",
@@ -742,6 +822,7 @@
      "stations": [
       {
        "name": "ARHEA.ORG",
+       "active": 0,
        "url": "http://178.32.107.151:6768/",
        "tags": [
         "ambient_relax",
@@ -751,6 +832,7 @@
       },
       {
        "name": "Avto Radio",
+       "active": 0,
        "url": "http://stream.radioreklama.bg/avtoradio.mp3",
        "tags": [
         "electronic",
@@ -759,16 +841,19 @@
       },
       {
        "name": "Dance With Me",
+       "active": 0,
        "url": "http://g5.turbohost.eu:8002/stream320",
        "rb": "c8400901-d83e-4528-8d32-fd258b45f9eb",
        "logo": "http://www.dancewithme-bg.com/images/liveradio/logo.png"
       },
       {
        "name": "DanPen Trance Radio",
+       "active": 0,
        "url": "http://178.62.205.116/radio/8000/radio.mp3"
       },
       {
        "name": "Deep Radio Bulgaria",
+       "active": 0,
        "url": "http://93.152.140.225:8000/stream/4/",
        "tags": [
         "electronic",
@@ -778,16 +863,19 @@
       },
       {
        "name": "Deep Radio Europe",
+       "active": 0,
        "url": "https://www.liveradio.es/http://79.98.108.174:8000/stream",
        "language_inferred": true
       },
       {
        "name": "Deep Radio Europe",
+       "active": 0,
        "url": "https://stream.pcradio.ru/rad_dprdbg-med",
        "language_inferred": true
       },
       {
        "name": "Deep WAVE",
+       "active": 0,
        "url": "https://play-radio4.jump.bg:7000/stream",
        "tags": [
         "electronic",
@@ -799,6 +887,7 @@
       },
       {
        "name": "DJ Cobricio Hit Radio",
+       "active": 0,
        "url": "http://109.120.246.225:200/",
        "tags": [
         "electronic",
@@ -810,6 +899,7 @@
       },
       {
        "name": "DJ Zone House Radio",
+       "active": 0,
        "url": "http://162.244.80.106:11181/",
        "tags": [
         "electronic",
@@ -818,15 +908,18 @@
       },
       {
        "name": "EILO Drum and Bass Radio",
+       "active": 0,
        "url": "http://stream.eilo.org:8000/drum"
       },
       {
        "name": "Eilo Earth and Beat",
+       "active": 0,
        "url": "https://eilo.org/earthbeat",
        "language_inferred": true
       },
       {
        "name": "Eilo Gabbafreakz Radio",
+       "active": 0,
        "url": "http://eilo.org:8000/gabbafreakz",
        "tags": [
         "electronic",
@@ -835,6 +928,7 @@
       },
       {
        "name": "EILO Happy Hardcore Radio",
+       "active": 0,
        "url": "http://stream.eilo.org:8000/happycore",
        "tags": [
         "electronic",
@@ -843,6 +937,7 @@
       },
       {
        "name": "EILO Progressive Radio",
+       "active": 0,
        "url": "http://eilo.org:8000/progressive",
        "tags": [
         "electronic",
@@ -851,6 +946,7 @@
       },
       {
        "name": "Eilo Psychedelic Radio",
+       "active": 0,
        "url": "http://eilo.org:8000/psychedelic",
        "tags": [
         "electronic",
@@ -859,14 +955,17 @@
       },
       {
        "name": "EILO Psychedelic Radio",
+       "active": 0,
        "url": "http://stream.eilo.org:8000/psychedelic"
       },
       {
        "name": "EILO Radio",
+       "active": 0,
        "url": "http://stream.eilo.org:8000/mixotic"
       },
       {
        "name": "Eilo Radio – Hard Techno Radio",
+       "active": 0,
        "url": "http://stream.eilo.org:8000/hard",
        "tags": [
         "electronic",
@@ -876,6 +975,7 @@
       },
       {
        "name": "EILO Techno Radio",
+       "active": 0,
        "url": "http://stream.eilo.org:8000/techno",
        "tags": [
         "electronic",
@@ -884,6 +984,7 @@
       },
       {
        "name": "Energy Bulgaria",
+       "active": 0,
        "url": "http://149.13.0.80/nrj128",
        "tags": [
         "oldies",
@@ -894,6 +995,7 @@
       },
       {
        "name": "Extreme Deep House Radio",
+       "active": 0,
        "url": "https://www.liveradio.es/http://5.9.140.203:14113/stream",
        "tags": [
         "chillout_lounge",
@@ -904,11 +1006,13 @@
       },
       {
        "name": "Extreme Deep House Radio",
+       "active": 0,
        "url": "https://stream.pcradio.ru/rad_xtrmdphs-med",
        "language_inferred": true
       },
       {
        "name": "Hit FM Bulgaria",
+       "active": 0,
        "url": "https://play.zwebsolutions.eu:8834/hitfm-low",
        "tags": [
         "pop_hits",
@@ -917,6 +1021,7 @@
       },
       {
        "name": "Hit FM Bulgaria",
+       "active": 0,
        "url": "https://play.hitfmbg.com/hitfm",
        "tags": [
         "pop_hits",
@@ -926,6 +1031,7 @@
       },
       {
        "name": "Hot Hits FM",
+       "active": 0,
        "url": "https://play5.hothitsfm.com/stream",
        "tags": [
         "electronic",
@@ -935,6 +1041,7 @@
       },
       {
        "name": "Hot Hits FM",
+       "active": 0,
        "url": "https://radio.jump.bg:7040/stream",
        "tags": [
         "pop_hits",
@@ -944,6 +1051,7 @@
       },
       {
        "name": "Hot Hits FM radio",
+       "active": 0,
        "url": "https://live.hothitsfm.com/stream",
        "tags": [
         "electronic",
@@ -956,6 +1064,7 @@
       },
       {
        "name": "Internet Radio Best",
+       "active": 0,
        "url": "http://radio-best.net:8000/best",
        "tags": [
         "electronic",
@@ -966,6 +1075,7 @@
       },
       {
        "name": "Katra FM 101.8",
+       "active": 0,
        "url": "http://www.katrafm.net:8000/live",
        "bitrate": 192,
        "logo": "http://radio.pervii.com/im/5/1551875345.jpg",
@@ -976,6 +1086,7 @@
       },
       {
        "name": "LS Fantasy",
+       "active": 0,
        "url": "http://109.169.23.17:8121/live",
        "tags": [
         "electronic",
@@ -985,6 +1096,7 @@
       },
       {
        "name": "LS Fantasy radio",
+       "active": 0,
        "url": "http://109.169.23.124:8200/stream",
        "tags": [
         "electronic",
@@ -995,6 +1107,7 @@
       },
       {
        "name": "Maxx FM",
+       "active": 0,
        "url": "https://play.radiomaxxfm.com/maxx-lo",
        "tags": [
         "electronic",
@@ -1004,6 +1117,7 @@
       },
       {
        "name": "Maxx FM Bulgaria",
+       "active": 0,
        "url": "http://play.radiomaxxfm.com:8000/maxx-high",
        "tags": [
         "electronic",
@@ -1012,6 +1126,7 @@
       },
       {
        "name": "Maxx FM Bulgaria",
+       "active": 0,
        "url": "https://play.radiomaxxfm.com/maxx-high",
        "language_inferred": true,
        "rb": "3539dc4a-670a-4c74-91e3-eb4d54a42ea6",
@@ -1019,6 +1134,7 @@
       },
       {
        "name": "Metro DANCE Radio",
+       "active": 0,
        "url": "https://eu1.reliastream.com/proxy/mdr?mp=/MDR",
        "tags": [
         "electronic",
@@ -1032,6 +1148,7 @@
       },
       {
        "name": "Metro Dance Radio",
+       "active": 0,
        "url": "https://securestreams4.reliastream.com:1577/MDR",
        "tags": [
         "electronic",
@@ -1042,17 +1159,20 @@
       },
       {
        "name": "Metro Love 90&amp#39s Radio",
+       "active": 0,
        "url": "https://radio.jump.bg/proxy/feed911?mp=/MLR90S",
        "country_inferred": true,
        "language_inferred": true
       },
       {
        "name": "N Radio",
+       "active": 0,
        "url": "http://play.nradio.networx.bg:8018/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Note FM! radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/rvw1h2zk7s8uv",
        "tags": [
         "pop_hits",
@@ -1064,6 +1184,7 @@
       },
       {
        "name": "Nova",
+       "active": 0,
        "url": "http://stream.metacast.eu/nova.ogg",
        "tags": [
         "electronic",
@@ -1073,6 +1194,7 @@
       },
       {
        "name": "Power FM Burgas",
+       "active": 0,
        "url": "https://a1.vizitec.com:8001/powerfm.mp3",
        "tags": [
         "pop_hits",
@@ -1082,11 +1204,13 @@
       },
       {
        "name": "Radio 1 (Bulgaria)",
+       "active": 0,
        "url": "https://stream.pcradio.ru/rad_rd1bg-med",
        "language_inferred": true
       },
       {
        "name": "Radio 33 Electro Esthetica",
+       "active": 0,
        "url": "http://www.radio33.org:8070/",
        "tags": [
         "electronic",
@@ -1096,6 +1220,7 @@
       },
       {
        "name": "Radio Belisimo",
+       "active": 0,
        "url": "http://79.98.108.170:8002/",
        "tags": [
         "electronic",
@@ -1105,6 +1230,7 @@
       },
       {
        "name": "Radio City",
+       "active": 0,
        "url": "https://play.global.audio/city.opus",
        "tags": [
         "pop_hits",
@@ -1116,17 +1242,20 @@
       },
       {
        "name": "Radio Dance With Me",
+       "active": 0,
        "url": "http://g5.turbohost.eu:8002/stream128",
        "rb": "d50058fc-fb71-4ba3-acd9-3a873c6bac26",
        "logo": "http://www.dancewithme-bg.com/images/liveradio/logo.png"
       },
       {
        "name": "Radio Dance With Me",
+       "active": 0,
        "url": "http://g5.turbohost.eu:8002/stream128_live",
        "language_inferred": true
       },
       {
        "name": "Radio Dee Jay",
+       "active": 0,
        "url": "http://78.130.174.215:8000/live",
        "tags": [
         "electronic",
@@ -1137,6 +1266,7 @@
       },
       {
        "name": "Radio Eilo - Happy Hardcore Radio",
+       "active": 0,
        "url": "http://eilo.org:8000/happycore",
        "tags": [
         "electronic",
@@ -1145,11 +1275,13 @@
       },
       {
        "name": "Radio Energy (Sofia)",
+       "active": 0,
        "url": "https://stream.pcradio.ru/nrj_bg_sofia-med",
        "language_inferred": true
       },
       {
        "name": "Radio Hot Dance",
+       "active": 0,
        "url": "http://listen.hotget.net:800/",
        "tags": [
         "electronic",
@@ -1158,6 +1290,7 @@
       },
       {
        "name": "Radio Kesarevo",
+       "active": 0,
        "url": "https://ssl22.radyotelekom.com/8136/stream",
        "tags": [
         "electronic",
@@ -1169,6 +1302,7 @@
       },
       {
        "name": "Radio Millenium",
+       "active": 0,
        "url": "http://radiomillenium.radiomillenium.eu:8000/millenium",
        "tags": [
         "electronic",
@@ -1179,6 +1313,7 @@
       },
       {
        "name": "Radio N-JOY radio",
+       "active": 0,
        "url": "https://web.static.btv.bg/radio/njoy-radio-proxy/index.php",
        "tags": [
         "electronic",
@@ -1188,6 +1323,7 @@
       },
       {
        "name": "Radio Natural",
+       "active": 0,
        "url": "http://78.130.146.170:8000/live128",
        "tags": [
         "electronic",
@@ -1198,6 +1334,7 @@
       },
       {
        "name": "Radio Net 106.9 FM radio",
+       "active": 0,
        "url": "http://s10.myradiostream.com:15272/stream.nsv",
        "tags": [
         "news_talk",
@@ -1207,6 +1344,7 @@
       },
       {
        "name": "Radio Nostalgia",
+       "active": 0,
        "url": "https://stream.zeno.fm/bfkspxrh4zhvv",
        "tags": [
         "electronic",
@@ -1216,6 +1354,7 @@
       },
       {
        "name": "Radio Nova 101.7 FM radio",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_NOVAAAC_L_SC?dist=DESKTOP",
        "tags": [
         "electronic",
@@ -1226,6 +1365,7 @@
       },
       {
        "name": "Radio ORV",
+       "active": 0,
        "url": "http://radio.orvmedia.com:8005/stream",
        "tags": [
         "pop_hits",
@@ -1236,15 +1376,18 @@
       },
       {
        "name": "Radio R1",
+       "active": 0,
        "url": "http://listen.radionomy.com/radio-r1",
        "language_inferred": true
       },
       {
        "name": "Radio Sevlievo",
+       "active": 0,
        "url": "http://93.155.136.27:8000/stream.mp3"
       },
       {
        "name": "Radio TS",
+       "active": 0,
        "url": "http://www.globcom.net:8008/",
        "tags": [
         "pop_hits",
@@ -1254,10 +1397,12 @@
       },
       {
        "name": "Radio TS",
+       "active": 0,
        "url": "http://www.globcom.net:8008/stream.mp3"
       },
       {
        "name": "Radio Victoria Bulgaria",
+       "active": 0,
        "url": "http://play.radiomaxxfm.com:8000/victoriafm",
        "tags": [
         "electronic",
@@ -1266,6 +1411,7 @@
       },
       {
        "name": "Radio Viva",
+       "active": 0,
        "url": "http://stream.radioextra-bg.net:8000/viva-eurodance",
        "tags": [
         "electronic",
@@ -1276,6 +1422,7 @@
       },
       {
        "name": "Radioplay Café",
+       "active": 0,
        "url": "https://play.global.audio/cafe.aac",
        "tags": [
         "pop_hits",
@@ -1284,6 +1431,7 @@
       },
       {
        "name": "Radyo Yonika",
+       "active": 0,
        "url": "https://radyo1.radyo-dinle.tc:7031/stream",
        "tags": [
         "pop_hits",
@@ -1294,6 +1442,7 @@
       },
       {
        "name": "Radyo Yonika",
+       "active": 0,
        "url": "https://radyo1.radyo-dinle.tc/8222/stream",
        "tags": [
         "pop_hits",
@@ -1304,6 +1453,7 @@
       },
       {
        "name": "SoulFreak - Soulful House Radio",
+       "active": 0,
        "url": "https://www.liveradio.es/http://162.244.80.106:11177/stream",
        "tags": [
         "electronic",
@@ -1313,6 +1463,7 @@
       },
       {
        "name": "Sweet Radio",
+       "active": 0,
        "url": "http://cdn.tvoetoradio.net:8000/HD",
        "tags": [
         "electronic",
@@ -1322,10 +1473,12 @@
       },
       {
        "name": "Sweet Radio Bulgaria",
+       "active": 0,
        "url": "http://178.169.146.189:8000/sweet-low"
       },
       {
        "name": "Traffic Radio Station",
+       "active": 0,
        "url": "http://radio.networx.bg:8000/TrafficRadio",
        "tags": [
         "electronic",
@@ -1335,6 +1488,7 @@
       },
       {
        "name": "Tvoeto Radio",
+       "active": 0,
        "url": "http://79.98.108.173:8010/radio",
        "tags": [
         "electronic",
@@ -1343,6 +1497,7 @@
       },
       {
        "name": "Tvoeto Radio",
+       "active": 0,
        "url": "http://cdn.tvoetoradio.net:8000/tvoetoradio-low",
        "tags": [
         "pop_hits",
@@ -1351,6 +1506,7 @@
       },
       {
        "name": "Victoria FM",
+       "active": 0,
        "url": "https://play.radiomaxxfm.com/victoriafm",
        "tags": [
         "electronic",
@@ -1361,6 +1517,7 @@
       },
       {
        "name": "Алфа Радио (Alpha Radio)",
+       "active": 0,
        "url": "http://alpharadio.bg:8000/stream",
        "tags": [
         "electronic",
@@ -1370,6 +1527,7 @@
       },
       {
        "name": "БГ радио (opus)",
+       "active": 0,
        "url": "http://stream.radioreklama.bg/bgradio.opus",
        "tags": [
         "electronic",
@@ -1380,6 +1538,7 @@
       },
       {
        "name": "Радио Vega +",
+       "active": 0,
        "url": "http://88.80.96.25:40070/vega.mp3",
        "tags": [
         "pop_hits",
@@ -1392,6 +1551,7 @@
       },
       {
        "name": "Радио VOX radio",
+       "active": 0,
        "url": "https://servidor21.brlogic.com:7094/live",
        "tags": [
         "electronic",
@@ -1401,6 +1561,7 @@
       },
       {
        "name": "Релакс Радио Folk radio",
+       "active": 0,
        "url": "http://79.98.108.170:8060/stream.nsv",
        "tags": [
         "pop_hits",
@@ -1414,6 +1575,7 @@
      "stations": [
       {
        "name": "Balkan Retro Radio",
+       "active": 0,
        "url": "http://rsde.isv.net:8000/stream",
        "tags": [
         "pop_hits",
@@ -1423,21 +1585,25 @@
       },
       {
        "name": "BNR Radio BINAR-Folk",
+       "active": 0,
        "url": "https://lb-hls.cdn.bg/2003/fls/BINAR-Folk.stream/playlist.m3u8"
       },
       {
        "name": "City Latin",
+       "active": 0,
        "url": "https://play.global.audio/citylatinhi.aac?n=4e375be0130f07755a6d",
        "rb": "8d6ccb47-cf6b-4bdf-a174-12578c07dd9e",
        "logo": "https://www.radioplay.bg/assets/logos/citylatin.png"
       },
       {
        "name": "Divata Pantera",
+       "active": 0,
        "url": "https://radiocp.jump.bg:7152/",
        "language_inferred": true
       },
       {
        "name": "DJ Cobricio Hit Radio",
+       "active": 0,
        "url": "http://109.120.246.225:755/",
        "tags": [
         "house",
@@ -1448,10 +1614,12 @@
       },
       {
        "name": "Folk Radio Ls Fantasy",
+       "active": 0,
        "url": "http://82.145.59.200:17772/live"
       },
       {
        "name": "Folk Radio Nazdrave",
+       "active": 0,
        "url": "http://powerdj.sf.ddns.bulsat.com:8020/stream.nsv",
        "tags": [
         "folk",
@@ -1460,15 +1628,18 @@
       },
       {
        "name": "Folk Radio Nazdrave (Фолк радио Наздраве)",
+       "active": 0,
        "url": "http://str1.folkradionazdrave.com"
       },
       {
        "name": "Folk Radio Nazdrave - Фолк радио Наздраве",
+       "active": 0,
        "url": "http://vanku.pppoe.optic-com.eu:8000/",
        "language_inferred": true
       },
       {
        "name": "Folk-Mania",
+       "active": 0,
        "url": "https://play-radio0.jump.bg:7202/stream.mp3",
        "tags": [
         "folk",
@@ -1478,6 +1649,7 @@
       },
       {
        "name": "Forty Radio",
+       "active": 0,
        "url": "http://s1.miami.cloudplay.ro/",
        "tags": [
         "folk",
@@ -1487,6 +1659,7 @@
       },
       {
        "name": "Horizont Bnr",
+       "active": 0,
        "url": "http://stream.bnr.bg:8002/horizont.mp3",
        "tags": [
         "news_talk",
@@ -1497,22 +1670,26 @@
       },
       {
        "name": "Lele Male",
+       "active": 0,
        "url": "http://79.98.108.170:8332/",
        "language_inferred": true,
        "rb": "33b927aa-e4f3-4084-9f50-c74eedfba446"
       },
       {
        "name": "onlajn-radio-folklor",
+       "active": 0,
        "url": "https://listen.radioking.com/radio/244465/stream/288622",
        "language_inferred": true
       },
       {
        "name": "Radio 999 radio",
+       "active": 0,
        "url": "https://radio999bg.com:8080/live",
        "language_inferred": true
       },
       {
        "name": "Radio Antena 91.0 FM",
+       "active": 0,
        "url": "http://188.126.1.25:8000/antena",
        "tags": [
         "soundtrack",
@@ -1521,26 +1698,31 @@
       },
       {
        "name": "Radio Balkanika",
+       "active": 0,
        "url": "https://ssl120.radyotelekom.com.tr:8122/stream",
        "language_inferred": true
       },
       {
        "name": "Radio Bella Petrich",
+       "active": 0,
        "url": "http://194.146.235.35:9999/listen.pls",
        "language_inferred": true
       },
       {
        "name": "Radio BG Voice Bslkan",
+       "active": 0,
        "url": "https://streams.radio.co/sd38725529/listen",
        "language_inferred": true
       },
       {
        "name": "Radio Bojia Sila",
+       "active": 0,
        "url": "http://node-32.zeno.fm/6t0ec6rwtuquv?zs=Md3XwI3fQ2OlSpKyaCw68A\\u0026rj-tok=AAABf4Llc4IATAYXRrUJ1GXY7w\\u0026rj-ttl=5",
        "language_inferred": true
       },
       {
        "name": "Radio BULGARI",
+       "active": 0,
        "url": "http://79.98.108.170:8159/stream.nsv",
        "tags": [
         "pop_hits",
@@ -1550,6 +1732,7 @@
       },
       {
        "name": "Radio BULGARI radio",
+       "active": 0,
        "url": "https://play.radiobulgari.com:7013/stream",
        "tags": [
         "pop_hits",
@@ -1559,17 +1742,20 @@
       },
       {
        "name": "Radio Chalga Hit",
+       "active": 0,
        "url": "https://stream.rcast.net/67086",
        "language_inferred": true
       },
       {
        "name": "Radio Chanove",
+       "active": 0,
        "url": "http://radio.chanove.com:8000/stream",
        "rb": "16667447-3ea1-4f21-bdc1-8c103280a542",
        "logo": "http://www.chanove.com/templates/beez_20/images/plus.png"
       },
       {
        "name": "Radio Cyberfolk",
+       "active": 0,
        "url": "http://141.0.169.245/cyberfolk-128",
        "tags": [
         "pop_hits",
@@ -1578,6 +1764,7 @@
       },
       {
        "name": "Radio Folk",
+       "active": 0,
        "url": "http://83.97.65.98:8000/",
        "tags": [
         "folk",
@@ -1587,6 +1774,7 @@
       },
       {
        "name": "Radio Folk BG",
+       "active": 0,
        "url": "http://radio.folkbg.net:8000/stream/1/",
        "bitrate": 320,
        "logo": "http://radio.pervii.com/logo/1432958063.png",
@@ -1598,6 +1786,7 @@
       },
       {
        "name": "Radio Folk Bg",
+       "active": 0,
        "url": "http://listen.folkbg.net:8000/folkbg",
        "tags": [
         "folk",
@@ -1606,6 +1795,7 @@
       },
       {
        "name": "Radio Folk BG",
+       "active": 0,
        "url": "http://radio.folkbg.net:8000/stream.mp3",
        "tags": [
         "folk",
@@ -1615,6 +1805,7 @@
       },
       {
        "name": "Radio FolkBG",
+       "active": 0,
        "url": "http://radio.folkbg.net:8000/",
        "tags": [
         "folk",
@@ -1624,6 +1815,7 @@
       },
       {
        "name": "Radio FolkBG radio",
+       "active": 0,
        "url": "https://listen.folkbg.net:8001/folkbg",
        "tags": [
         "pop_hits",
@@ -1633,11 +1825,13 @@
       },
       {
        "name": "Radio Gea Sandanski",
+       "active": 0,
        "url": "http://83.228.20.184:8000",
        "language_inferred": true
       },
       {
        "name": "Radio Hushove",
+       "active": 0,
        "url": "http://79.98.108.173:8006/radioxaschove",
        "tags": [
         "folk",
@@ -1648,18 +1842,21 @@
       },
       {
        "name": "Radio Jega",
+       "active": 0,
        "url": "http://g5.turbohost.eu:8004/stream",
        "language_inferred": true,
        "rb": "819225b5-15bc-4bb5-a5e2-c79680f6baa7"
       },
       {
        "name": "Radio Jugomania",
+       "active": 0,
        "url": "https://s8.yesstreaming.net:17051/autodj",
        "language_inferred": true,
        "rb": "345d48b7-bfe4-4e33-afeb-b5ab1d07aa96"
       },
       {
        "name": "Radio Kesarevo",
+       "active": 0,
        "url": "https://ssl22.radyotelekom.com:8136/stream",
        "tags": [
         "folk",
@@ -1670,12 +1867,14 @@
       },
       {
        "name": "Radio Lele Male",
+       "active": 0,
        "url": "https://play-radio0.jump.bg:7332/stream",
        "country_inferred": true,
        "language_inferred": true
       },
       {
        "name": "Radio Maxx Fm",
+       "active": 0,
        "url": "http://79.98.108.170:8221/",
        "tags": [
         "folk",
@@ -1685,6 +1884,7 @@
       },
       {
        "name": "Radio Orgazam",
+       "active": 0,
        "url": "https://ams-pioneer02.dedicateware.com:1185/stream",
        "tags": [
         "folk",
@@ -1694,16 +1894,19 @@
       },
       {
        "name": "Radio Orgazam",
+       "active": 0,
        "url": "http://79.98.108.170:8126/live",
        "language_inferred": true
       },
       {
        "name": "Radio Orgazam Folk",
+       "active": 0,
        "url": "http://79.98.108.170:8126/stream",
        "language_inferred": true
       },
       {
        "name": "Radio Party Mix",
+       "active": 0,
        "url": "http://79.98.108.179:8000/stream",
        "tags": [
         "folk",
@@ -1712,24 +1915,29 @@
       },
       {
        "name": "Radio Payner Hit",
+       "active": 0,
        "url": "https://radio.jump.bg:7271/stream.mp3%3B",
        "language_inferred": true
       },
       {
        "name": "Radio Pianica (Bulgaria)",
+       "active": 0,
        "url": "https://stream.pcradio.ru/rad_pnc-med",
        "language_inferred": true
       },
       {
        "name": "Radio Ritmo Folk",
+       "active": 0,
        "url": "http://live.radioritmo.eu:8085/stream/1"
       },
       {
        "name": "Radio Ritmo Folk",
+       "active": 0,
        "url": "http://live.radioritmo.eu:8085/stream.mp3"
       },
       {
        "name": "Radio Ritmo Mix",
+       "active": 0,
        "url": "http://live.radioritmo.eu:8090/stream/1",
        "tags": [
         "folk",
@@ -1738,6 +1946,7 @@
       },
       {
        "name": "Radio Severozapad Media",
+       "active": 0,
        "url": "http://play.rsmedia.net/severozapad",
        "tags": [
         "pop_hits",
@@ -1747,6 +1956,7 @@
       },
       {
        "name": "Radio Signal Plus radio",
+       "active": 0,
        "url": "http://212.36.10.250:8000/signalhigh",
        "tags": [
         "folk",
@@ -1757,17 +1967,20 @@
       },
       {
        "name": "Radio Sladko Izkushenie",
+       "active": 0,
        "url": "http://g5.turbohost.eu:8006/autodj",
        "language_inferred": true,
        "rb": "f27e1f22-49ca-43c1-8ba1-c52ba01a5c7c"
       },
       {
        "name": "Radio Studio Oriahovo",
+       "active": 0,
        "url": "https://radio.jump.bg:7445/",
        "language_inferred": true
       },
       {
        "name": "Radio Tatkovina",
+       "active": 0,
        "url": "http://www.tatkovina.eu:8000/stream",
        "tags": [
         "pop_hits",
@@ -1777,10 +1990,12 @@
       },
       {
        "name": "Radio Ultra",
+       "active": 0,
        "url": "http://88.80.96.25:8000/stream.mp3"
       },
       {
        "name": "Radio Ultra",
+       "active": 0,
        "url": "https://stream.pcradio.ru/rad_rdltrbg-med",
        "tags": [
         "folk",
@@ -1790,6 +2005,7 @@
       },
       {
        "name": "Radio Ultra Blagoevgrad",
+       "active": 0,
        "url": "http://88.80.96.25:3060/stream/1",
        "tags": [
         "folk",
@@ -1798,6 +2014,7 @@
       },
       {
        "name": "Radio Ultra Pernik",
+       "active": 0,
        "url": "http://88.80.96.25:8020/stream/1",
        "tags": [
         "folk",
@@ -1806,6 +2023,7 @@
       },
       {
        "name": "Radio Veronika",
+       "active": 0,
        "url": "http://stream.radioreklama.bg/veronika64",
        "bitrate": 48,
        "logo": "http://radio.pervii.com/logo/1436097474.png",
@@ -1819,6 +2037,7 @@
       },
       {
        "name": "Radio Veronika 96.7",
+       "active": 0,
        "url": "https://stream.pcradio.ru/rad_rdvrnk-med",
        "tags": [
         "folk",
@@ -1828,6 +2047,7 @@
       },
       {
        "name": "Radio Veselina 99.1 FM",
+       "active": 0,
        "url": "https://stream.pcradio.ru/rad_vselinbg-med",
        "tags": [
         "folk",
@@ -1837,6 +2057,7 @@
       },
       {
        "name": "Radio VFM, Pazardzhik radio",
+       "active": 0,
        "url": "http://79.98.108.192:8000/vfm",
        "tags": [
         "folk",
@@ -1846,6 +2067,7 @@
       },
       {
        "name": "RadioChalgaHit",
+       "active": 0,
        "url": "https://a1.asurahosting.com:8650/radio.mp3",
        "tags": [
         "oldies",
@@ -1855,6 +2077,7 @@
       },
       {
        "name": "Raduci Folk",
+       "active": 0,
        "url": "http://raduci.com:9009/folk128",
        "tags": [
         "folk",
@@ -1864,31 +2087,37 @@
       },
       {
        "name": "Relax Radio Folk",
+       "active": 0,
        "url": "http://79.98.108.170:8060",
        "bitrate": 128,
        "logo": "http://radio.pervii.com/logo/1403697346.png"
       },
       {
        "name": "Sanalgocmen Radio",
+       "active": 0,
        "url": "http://159.253.37.137:9972/stream/1",
        "language_inferred": true
       },
       {
        "name": "Zorana",
+       "active": 0,
        "url": "http://212.95.165.98:8001/stream/1/",
        "language_inferred": true
       },
       {
        "name": "Веселина Фолк",
+       "active": 0,
        "url": "https://bss2.neterra.tv/veselinafolk/veselinafolk_0.m3u8"
       },
       {
        "name": "Зорана",
+       "active": 0,
        "url": "https://radio.jump.bg/proxy/radio12/stream",
        "rb": "277a3721-3418-4fe4-9a6e-1ea87f4db9d5"
       },
       {
        "name": "Общинско радио Чепеларе",
+       "active": 0,
        "url": "http://94.26.108.242:9000/stream",
        "tags": [
         "news_talk",
@@ -1898,6 +2127,7 @@
       },
       {
        "name": "Радио Sensebox radio",
+       "active": 0,
        "url": "http://79.98.108.170/proxy/manuel?mp=/stream/1",
        "tags": [
         "folk",
@@ -1907,6 +2137,7 @@
       },
       {
        "name": "Радио TV9  radio",
+       "active": 0,
        "url": "http://88.80.96.25:30500/stream.nsv",
        "tags": [
         "folk",
@@ -1916,6 +2147,7 @@
       },
       {
        "name": "Радио Ultra",
+       "active": 0,
        "url": "http://88.80.96.25:40070/ultra.mp3",
        "tags": [
         "pop_hits",
@@ -1924,10 +2156,12 @@
       },
       {
        "name": "Радио Александрина",
+       "active": 0,
        "url": "http://radio.aleksandrina.net:8000/stream/1"
       },
       {
        "name": "Радио Еврофолк   radio",
+       "active": 0,
        "url": "http://s2.myradiostream.com:6680/stream.nsv",
        "tags": [
         "folk",
@@ -1937,6 +2171,7 @@
       },
       {
        "name": "Радио Леле Мале",
+       "active": 0,
        "url": "http://79.98.108.170:8332/stream",
        "tags": [
         "news_talk",
@@ -1948,11 +2183,13 @@
       },
       {
        "name": "Радио Пайнер",
+       "active": 0,
        "url": "http://87.120.6.86:8000/hq",
        "language_inferred": true
       },
       {
        "name": "Радио Севтополис",
+       "active": 0,
        "url": "http://79.98.108.178:8004/stream.nsv",
        "tags": [
         "folk",
@@ -1962,6 +2199,7 @@
       },
       {
        "name": "Радио Севтополис radio",
+       "active": 0,
        "url": "http://79.98.108.170:8068/stream",
        "tags": [
         "folk",
@@ -1972,6 +2210,7 @@
       },
       {
        "name": "Радио Татковина",
+       "active": 0,
        "url": "http://www.tatkovina.com:8000/bg",
        "tags": [
         "folk",
@@ -1981,6 +2220,7 @@
       },
       {
        "name": "Радио ударник radio",
+       "active": 0,
        "url": "http://213.91.137.64:8000/mobile99",
        "tags": [
         "folk",
@@ -1992,6 +2232,7 @@
       },
       {
        "name": "Радио Хоро",
+       "active": 0,
        "url": "http://g5.turbohost.eu:8020/stream256",
        "tags": [
         "folk",
@@ -2002,17 +2243,20 @@
       },
       {
        "name": "Радио Хоро",
+       "active": 0,
        "url": "http://g5.turbohost.eu:8020/stream256.m3u",
        "language_inferred": true,
        "rb": "2345b180-c3c0-4178-9f80-42c7ca1ccb6f"
       },
       {
        "name": "Рила Фолк",
+       "active": 0,
        "url": "http://79.98.108.176:8016",
        "language_inferred": true
       },
       {
        "name": "Фолк радио Наздраве",
+       "active": 0,
        "url": "http://powerdj.sf.ddns.bulsat.com:8066/",
        "tags": [
         "folk",
@@ -2027,6 +2271,7 @@
      "stations": [
       {
        "name": "Breaking Barriers Bulgaria",
+       "active": 0,
        "url": "http://streaming.radionomy.com/BreakingBarriers",
        "tags": [
         "pop_hits",
@@ -2037,6 +2282,7 @@
       },
       {
        "name": "Jigga Radio",
+       "active": 0,
        "url": "http://jiggaradio.com:10080/play",
        "tags": [
         "hip_hop_rap",
@@ -2046,6 +2292,7 @@
       },
       {
        "name": "Metro Urban Hits",
+       "active": 0,
        "url": "https://eu1.reliastream.com/proxy/metroxmas?mp=/MCR",
        "tags": [
         "hip_hop_rap",
@@ -2058,6 +2305,7 @@
       },
       {
        "name": "Peti Polk Radio",
+       "active": 0,
        "url": "http://79.98.108.171:8006/",
        "tags": [
         "hip_hop_rap",
@@ -2068,15 +2316,18 @@
       },
       {
        "name": "Radio Bizonio",
+       "active": 0,
        "url": "http://freeuk22.listen2myradio.com:33527/"
       },
       {
        "name": "Radio Bizonio",
+       "active": 0,
        "url": "https://freeuk5.listen2myradio.com/live.mp3?typeportmount=s2_27550_stream_637971279",
        "language_inferred": true
       },
       {
        "name": "Radio Bizonio radio",
+       "active": 0,
        "url": "http://uk3freenew.listen2myradio.com:25738/stream.nsv",
        "tags": [
         "hip_hop_rap",
@@ -2088,6 +2339,7 @@
       },
       {
        "name": "Пети Полк Студио",
+       "active": 0,
        "url": "http://65.109.81.84:8684/stream",
        "tags": [
         "hip_hop_rap",
@@ -2102,6 +2354,7 @@
      "stations": [
       {
        "name": "DanPen Radio",
+       "active": 0,
        "url": "https://server.danpenradio.net/radio/8000/radio.mp3",
        "tags": [
         "house",
@@ -2114,6 +2367,7 @@
       },
       {
        "name": "Deep Radio",
+       "active": 0,
        "url": "http://93.152.140.225:8000/stream/1/",
        "tags": [
         "house",
@@ -2131,6 +2385,7 @@
       },
       {
        "name": "DJ Zone House Radio",
+       "active": 0,
        "url": "http://162.244.80.106:11181/&amptype=mp3",
        "tags": [
         "house",
@@ -2140,6 +2395,7 @@
       },
       {
        "name": "DJ ZONE House Radio",
+       "active": 0,
        "url": "https://www.liveradio.es/http://162.244.80.106:11181/stream",
        "tags": [
         "house",
@@ -2149,6 +2405,7 @@
       },
       {
        "name": "Dream FM Bulgaria",
+       "active": 0,
        "url": "http://play.dreamfmbg.eu:8000/dreamfm-high",
        "tags": [
         "house",
@@ -2158,6 +2415,7 @@
       },
       {
        "name": "Eilo House Radio",
+       "active": 0,
        "url": "http://eilo.org:8000/house",
        "tags": [
         "house",
@@ -2167,6 +2425,7 @@
       },
       {
        "name": "EILO House Radio",
+       "active": 0,
        "url": "http://stream.eilo.org:8000/house",
        "tags": [
         "electronic",
@@ -2175,32 +2434,38 @@
       },
       {
        "name": "Extreme Deep House Radio",
+       "active": 0,
        "url": "https://play-radio0.jump.bg:7117/stream",
        "language_inferred": true
       },
       {
        "name": "Metrocast - Metro Dance",
+       "active": 0,
        "url": "https://eu1.reliastream.com/proxy/feeda?mp=/MDR64",
        "language_inferred": true
       },
       {
        "name": "nRadio",
+       "active": 0,
        "url": "http://radio.networx.bg:8000/nRadio",
        "language_inferred": true
       },
       {
        "name": "Nradio",
+       "active": 0,
        "url": "http://play.nradio.networx.bg:8018/stream1",
        "country_inferred": true,
        "language_inferred": true
       },
       {
        "name": "Radio Deliorman",
+       "active": 0,
        "url": "http://192.168.0.39:27015/stream/1",
        "language_inferred": true
       },
       {
        "name": "Radio DYNAMICO",
+       "active": 0,
        "url": "https://stream.zeno.fm/aouhb3mxmo2tv",
        "tags": [
         "house",
@@ -2211,6 +2476,7 @@
       },
       {
        "name": "Radio DYNAMICO radio",
+       "active": 0,
        "url": "https://onlineradiobox.com/json/uk/dynamico/play?platform=web",
        "tags": [
         "electronic",
@@ -2222,6 +2488,7 @@
       },
       {
        "name": "Radio FM Receiver",
+       "active": 0,
        "url": "http://play.fmreceiver.eu:8000/fmreceiver",
        "tags": [
         "house",
@@ -2231,6 +2498,7 @@
       },
       {
        "name": "Radio Maxxfm Non Stop Music",
+       "active": 0,
        "url": "http://play.radiomaxxfm.com/maxx.m3u",
        "tags": [
         "house",
@@ -2241,6 +2509,7 @@
       },
       {
        "name": "Radio NOVA 101.7 FM",
+       "active": 0,
        "url": "http://149.13.0.80/nova128",
        "tags": [
         "house",
@@ -2249,11 +2518,13 @@
       },
       {
        "name": "Radio Yujen Briag - Power Station",
+       "active": 0,
        "url": "https://www.radioking.com/play/iujenbriagburgas/524027",
        "language_inferred": true
       },
       {
        "name": "Radio „Южен бряг“ - Бургас : [Power Station]",
+       "active": 0,
        "url": "https://listen.radioking.com/radio/454916/stream/524027",
        "tags": [
         "house",
@@ -2262,6 +2533,7 @@
       },
       {
        "name": "TFMradio.net",
+       "active": 0,
        "url": "http://on.tfmradio.net:8000/stream?type=.mp3",
        "tags": [
         "house",
@@ -2276,14 +2548,17 @@
       },
       {
        "name": "Traffic Radio Station",
+       "active": 0,
        "url": "http://radio.networx-bg.com:8002/stream.mp3"
       },
       {
        "name": "Traffic Radio Station",
+       "active": 0,
        "url": "http://networx.trafficradio.org:8002/"
       },
       {
        "name": "Ventura Radio - DEEP Vocal House & Nu Disco",
+       "active": 0,
        "url": "https://vocal.ventura.radio/listen/d33b.house_-_247_deep_vocal_house/radio.mp3",
        "tags": [
         "house",
@@ -2294,6 +2569,7 @@
       },
       {
        "name": "X-Centr1c",
+       "active": 0,
        "url": "https://radio.jump.bg:9037/stream",
        "tags": [
         "house",
@@ -2305,6 +2581,7 @@
       },
       {
        "name": "Zone Radio, Sofia",
+       "active": 0,
        "url": "http://79.98.108.170:8036/live",
        "tags": [
         "house",
@@ -2320,15 +2597,18 @@
      "stations": [
       {
        "name": "Binar Jazz",
+       "active": 0,
        "url": "https://edge16.cdn.bg:20030/fls/BINAR-PunkJazz.stream/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "BNR Radio BINAR-PunkJazz",
+       "active": 0,
        "url": "https://lb-hls.cdn.bg/2003/fls/BINAR-PunkJazz.stream/playlist.m3u8"
       },
       {
        "name": "Classic FM Sofia",
+       "active": 0,
        "url": "http://46.10.150.243/classic-fm.mp3",
        "tags": [
         "classical",
@@ -2337,6 +2617,7 @@
       },
       {
        "name": "Eilo Radio - Jazz, Funk & Soul Radio",
+       "active": 0,
        "url": "http://eilo.org/jazzfunksoul",
        "tags": [
         "jazz",
@@ -2345,6 +2626,7 @@
       },
       {
        "name": "Jazz FM",
+       "active": 0,
        "url": "http://live.btvradio.bg/jazz-fm.mp3",
        "tags": [
         "jazz",
@@ -2360,15 +2642,18 @@
       },
       {
        "name": "Jazz FM",
+       "active": 0,
        "url": "http://live.btvradio.bg/jazz-fm.mp3.m3u"
       },
       {
        "name": "Jazz FM (Sofia) Radio",
+       "active": 0,
        "url": "https://stream.pcradio.ru/jazzfm_bg-med",
        "language_inferred": true
       },
       {
        "name": "Jazz FM - Sofia",
+       "active": 0,
        "url": "https://www.liveradio.es/http://46.10.150.123:80/jazz-fm.mp3",
        "tags": [
         "blues",
@@ -2379,11 +2664,13 @@
       },
       {
        "name": "Jazz FM Lounge",
+       "active": 0,
        "url": "http://live.btvradio.bg/jazz-fm-lounge.mp3?1400493764757.mp3",
        "language_inferred": true
       },
       {
        "name": "Jazz FM Lounge",
+       "active": 0,
        "url": "http://46.10.150.123/jazz-fm-lounge.mp3",
        "tags": [
         "jazz",
@@ -2392,6 +2679,7 @@
       },
       {
        "name": "Jazz FM Lounge - Sofia",
+       "active": 0,
        "url": "https://www.liveradio.es/http://46.10.150.123:80/jazz-fm-lounge.mp3",
        "tags": [
         "chillout_lounge",
@@ -2401,6 +2689,7 @@
       },
       {
        "name": "Radio NET Bulgaria",
+       "active": 0,
        "url": "https://stream.pcradio.ru/rad_rdnetbulgr-med",
        "tags": [
         "jazz",
@@ -2410,6 +2699,7 @@
       },
       {
        "name": "XRaydio 2",
+       "active": 0,
        "url": "https://xraydio.ddns.net/jukebox",
        "tags": [
         "soul_rnb_funk",
@@ -2433,30 +2723,36 @@
      "stations": [
       {
        "name": "BNR Radio Hlapeta",
+       "active": 0,
        "url": "https://lb-hls.cdn.bg/2032/fls/Hlapeta.stream/playlist.m3u8"
       },
       {
        "name": "Chalga Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/1abuwzc5608uv",
        "language_inferred": true
       },
       {
        "name": "Children Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/632fttz62hhvv",
        "language_inferred": true
       },
       {
        "name": "GreeningSiren radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/vc9764zg4p8uv",
        "language_inferred": true
       },
       {
        "name": "Sigansko",
+       "active": 0,
        "url": "https://stream.zeno.fm/ucfzuyxfqrhvv",
        "language_inferred": true
       },
       {
        "name": "Детското.БНР",
+       "active": 0,
        "url": "https://lb-hls.evpn.bg/2032/fls/Hlapeta.stream/playlist.m3u8",
        "country_inferred": true,
        "language_inferred": true
@@ -2468,6 +2764,7 @@
      "stations": [
       {
        "name": "Bad Rock Radio-Hard && Heavy Rock",
+       "active": 0,
        "url": "https://radio.jump.bg:7049/live",
        "tags": [
         "rock",
@@ -2477,10 +2774,12 @@
       },
       {
        "name": "Radio Tangra",
+       "active": 0,
        "url": "http://stream-02.radiotangra.com:8000/Tangra-middle"
       },
       {
        "name": "Z-Rock Оберон",
+       "active": 0,
        "url": "http://193.108.24.6:8000/zrock.m3u",
        "tags": [
         "rock",
@@ -2496,6 +2795,7 @@
      "stations": [
       {
        "name": "Avto Radio",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AVTORADIOAAC_L_SC?dist=DESKTOP",
        "tags": [
         "pop_hits",
@@ -2507,6 +2807,7 @@
       },
       {
        "name": "Avto Radio",
+       "active": 0,
        "url": "https://21293.live.streamtheworld.com:443/AVTORADIOAAC_L.aac?dist=onlineradiobox",
        "tags": [
         "pop_hits",
@@ -2515,6 +2816,7 @@
       },
       {
        "name": "BG Radio",
+       "active": 0,
        "url": "http://stream.metacast.eu/bgradio.opus",
        "tags": [
         "news_talk",
@@ -2524,31 +2826,37 @@
       },
       {
        "name": "BNR Botev",
+       "active": 0,
        "url": "https://www.liveradio.es/http://stream.bnr.bg:8003/botev.mp3",
        "language_inferred": true
       },
       {
        "name": "BNR Horizont Radio",
+       "active": 0,
        "url": "https://stream.pcradio.ru/bnr_bg_hori-med",
        "language_inferred": true
       },
       {
        "name": "BNR Hristo Botev Radio",
+       "active": 0,
        "url": "https://stream.pcradio.ru/bnr_bg_hrist-med",
        "language_inferred": true
       },
       {
        "name": "BNR Radio",
+       "active": 0,
        "url": "https://e106-ts.cdn.bg/regstations/fls/Vidin.stream/chunklist.m3u8",
        "language_inferred": true
       },
       {
        "name": "BNR Radio Blagoevgrad - БНР Радио Благоевград",
+       "active": 0,
        "url": "https://lb-hls.cdn.bg/2032/fls/Blagoevgrad.stream/playlist.m3u8",
        "rb": "c04a4193-cb72-4b07-b70c-dd7e9c5778a6"
       },
       {
        "name": "BNR Radio Burgas",
+       "active": 0,
        "url": "https://lb-hls.cdn.bg/2032/fls/Burgas.stream/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -2561,11 +2869,13 @@
       },
       {
        "name": "BNR Radio Burgas",
+       "active": 0,
        "url": "https://e106-ts.cdn.bg/regstations/fls/Burgas.stream/chunklist.m3u8",
        "language_inferred": true
       },
       {
        "name": "BNR Radio Horizont",
+       "active": 0,
        "url": "https://lb-hls.cdn.bg/2032/fls/Horizont.stream/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -2579,6 +2889,7 @@
       },
       {
        "name": "BNR Radio Hristo Botev",
+       "active": 0,
        "url": "https://lb-hls.cdn.bg/2032/fls/HrBotev.stream/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -2592,6 +2903,7 @@
       },
       {
        "name": "BNR Radio Kardzhali",
+       "active": 0,
        "url": "https://lb-hls.cdn.bg/2032/fls/Kardzhali.stream/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -2603,6 +2915,7 @@
       },
       {
        "name": "BNR Radio Plovdiv",
+       "active": 0,
        "url": "https://lb-hls.cdn.bg/2032/fls/Plovdiv.stream/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -2614,10 +2927,12 @@
       },
       {
        "name": "BNR Radio Plovidv",
+       "active": 0,
        "url": "http://80.80.147.102:28/live128"
       },
       {
        "name": "BNR Radio Shumen",
+       "active": 0,
        "url": "http://stream.bnr.bg:8033/radio-shumen.aac",
        "tags": [
         "news_talk",
@@ -2627,6 +2942,7 @@
       },
       {
        "name": "BNR Radio Shumen",
+       "active": 0,
        "url": "https://lb-hls.cdn.bg/2032/fls/Shumen.stream/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -2638,6 +2954,7 @@
       },
       {
        "name": "BNR Radio Sofia",
+       "active": 0,
        "url": "https://lb-hls.cdn.bg/2032/fls/Sofia.stream/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -2651,11 +2968,13 @@
       },
       {
        "name": "BNR Radio Sofia",
+       "active": 0,
        "url": "https://stream.pcradio.ru/bnr_sofia-med",
        "language_inferred": true
       },
       {
        "name": "BNR Radio Sofia 94.5 FM",
+       "active": 0,
        "url": "http://stream.bnr.bg:8030/radio-sofia.aac",
        "tags": [
         "news_talk",
@@ -2666,6 +2985,7 @@
       },
       {
        "name": "BNR Radio Stara Zagora",
+       "active": 0,
        "url": "https://lb-hls.cdn.bg/2032/fls/StZagora.stream/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -2676,6 +2996,7 @@
       },
       {
        "name": "BNR Radio Stara Zagora 88.3 FM",
+       "active": 0,
        "url": "http://82.103.99.99:8000/radiosz",
        "tags": [
         "news_talk",
@@ -2686,11 +3007,13 @@
       },
       {
        "name": "BNR Radio Stara Zagora – BNR R Stara Zagora",
+       "active": 0,
        "url": "http://edge14.cdn.bg:2032/fls/StZagora.stream/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "BNR Radio Varna",
+       "active": 0,
        "url": "http://broadcast.masters.bg:8000/live",
        "tags": [
         "news_talk",
@@ -2703,6 +3026,7 @@
       },
       {
        "name": "BNR Radio Varna",
+       "active": 0,
        "url": "https://lb-hls.cdn.bg/2032/fls/Varna.stream/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -2714,6 +3038,7 @@
       },
       {
        "name": "BNR Radio Vidin",
+       "active": 0,
        "url": "https://lb-hls.cdn.bg/2032/fls/Vidin.stream/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -2725,6 +3050,7 @@
       },
       {
        "name": "BNR Радио София",
+       "active": 0,
        "url": "https://edge16.cdn.bg:20320/fls/Sofia.stream/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -2734,6 +3060,7 @@
       },
       {
        "name": "BNR Хоризонт",
+       "active": 0,
        "url": "https://e106-ts.cdn.bg/regstations/fls/Horizont.stream/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -2745,6 +3072,7 @@
       },
       {
        "name": "BTV Radio",
+       "active": 0,
        "url": "https://bravo.btv.bg/radioplayer/btvradio.mp3",
        "tags": [
         "news_talk",
@@ -2754,6 +3082,7 @@
       },
       {
        "name": "bTV Radio",
+       "active": 0,
        "url": "http://live.btvradio.bg/btv-radio.mp3",
        "tags": [
         "news_talk",
@@ -2762,6 +3091,7 @@
       },
       {
        "name": "BTV Radio",
+       "active": 0,
        "url": "https://web.static.btv.bg/radioplayer/btvradio.mp3",
        "tags": [
         "news_talk",
@@ -2771,6 +3101,7 @@
       },
       {
        "name": "bTV Radio",
+       "active": 0,
        "url": "http://46.10.150.123/btv-radio.mp3",
        "tags": [
         "pop_hits",
@@ -2779,6 +3110,7 @@
       },
       {
        "name": "Bulgaria ON AIR",
+       "active": 0,
        "url": "https://live.radio.bgonair.bg/RadioBOA",
        "tags": [
         "news_talk",
@@ -2791,6 +3123,7 @@
       },
       {
        "name": "Darik Radio",
+       "active": 0,
        "url": "https://darikradio.by.host.bg:8000/S2-128",
        "tags": [
         "news_talk",
@@ -2801,11 +3134,13 @@
       },
       {
        "name": "Darik Radio",
+       "active": 0,
        "url": "https://stream.pcradio.ru/darikradio_bg-med",
        "language_inferred": true
       },
       {
        "name": "Focus Sofia",
+       "active": 0,
        "url": "https://focusradio.audiostreaming.ml/1",
        "tags": [
         "news_talk",
@@ -2814,6 +3149,7 @@
       },
       {
        "name": "Focus Varna",
+       "active": 0,
        "url": "http://online.focus-radio.net:8100/varna",
        "tags": [
         "news_talk",
@@ -2822,11 +3158,13 @@
       },
       {
        "name": "FRED FILM RADIO, Sofia",
+       "active": 0,
        "url": "https://s10.webradio-hosting.com/proxy/fredradiobg/stream",
        "rb": "f1542263-5db9-4f88-86fb-43c7b2611cad"
       },
       {
        "name": "Katra FM",
+       "active": 0,
        "url": "http://www.katrafm.net:8010/live",
        "tags": [
         "pop_hits",
@@ -2836,6 +3174,7 @@
       },
       {
        "name": "Metro Dance Radio",
+       "active": 0,
        "url": "https://radio.jump.bg/proxy/predp?mp=/MDR",
        "tags": [
         "news_talk",
@@ -2847,6 +3186,7 @@
       },
       {
        "name": "Metro Dance Xtra Radio",
+       "active": 0,
        "url": "https://radio.jump.bg/proxy/servicech1?mp=/MDRXTRA",
        "tags": [
         "news_talk",
@@ -2860,6 +3200,7 @@
       },
       {
        "name": "Metro Love",
+       "active": 0,
        "url": "https://eu1.reliastream.com/proxy/service?mp=/service",
        "tags": [
         "pop_hits",
@@ -2872,6 +3213,7 @@
       },
       {
        "name": "Metro Love 2K Radio",
+       "active": 0,
        "url": "https://radio.jump.bg/proxy/feed81?mp=/MLR2K",
        "tags": [
         "news_talk",
@@ -2881,6 +3223,7 @@
       },
       {
        "name": "Metro Love 70&amp#39s Radio",
+       "active": 0,
        "url": "https://radio.jump.bg/proxy/feedyyy02?mp=/MLR70S",
        "tags": [
         "news_talk",
@@ -2896,6 +3239,7 @@
       },
       {
        "name": "Metro Love 80&amp#39s Radio",
+       "active": 0,
        "url": "https://radio.jump.bg/proxy/feed911?mp=/MLR80S",
        "tags": [
         "news_talk",
@@ -2906,6 +3250,7 @@
       },
       {
        "name": "Metro Love 80s",
+       "active": 0,
        "url": "https://eu1.reliastream.com/proxy/love80?mp=/MLR80S",
        "tags": [
         "pop_hits",
@@ -2918,6 +3263,7 @@
       },
       {
        "name": "Metro Love 90s Plus",
+       "active": 0,
        "url": "https://eu1.reliastream.com/proxy/love80?mp=/MLR90S",
        "tags": [
         "pop_hits",
@@ -2929,6 +3275,7 @@
       },
       {
        "name": "Metro Love Radio",
+       "active": 0,
        "url": "https://radio.jump.bg/proxy/msrrrelay?mp=/service",
        "tags": [
         "news_talk",
@@ -2941,6 +3288,7 @@
       },
       {
        "name": "Metro Top Radio",
+       "active": 0,
        "url": "https://eu1.reliastream.com/proxy/mgr?mp=/MGR",
        "tags": [
         "news_talk",
@@ -2951,6 +3299,7 @@
       },
       {
        "name": "Nova News",
+       "active": 0,
        "url": "https://radio.nova.bg/novanews.aac",
        "tags": [
         "news_talk",
@@ -2960,12 +3309,14 @@
       },
       {
        "name": "Nova News",
+       "active": 0,
        "url": "http://149.13.0.80/novanews.mp4",
        "rb": "964a7ab6-0601-11e8-ae97-52543be04c81",
        "logo": "https://nstatic.nova.bg/files/nova/images/apple-touch-icon.png"
       },
       {
        "name": "Nova News 957",
+       "active": 0,
        "url": "https://stream.radioreklama.bg/novanews.aac",
        "bitrate": 128,
        "logo": "http://radio.pervii.com/im/7/1561733667.jpg",
@@ -2977,6 +3328,7 @@
       },
       {
        "name": "Power FM 91.1",
+       "active": 0,
        "url": "http://a1.virtualradio.eu:8000/powerfm.mp3",
        "tags": [
         "pop_hits",
@@ -2987,6 +3339,7 @@
       },
       {
        "name": "Radio 1 радио 1 класическите хитове",
+       "active": 0,
        "url": "http://stream.radioreklama.bg/radio164",
        "bitrate": 48,
        "logo": "http://radio.pervii.com/logo/1436097293.png",
@@ -3001,6 +3354,7 @@
       },
       {
        "name": "Radio 999",
+       "active": 0,
        "url": "http://62.204.158.5:8081/live",
        "tags": [
         "pop_hits",
@@ -3012,6 +3366,7 @@
       },
       {
        "name": "Radio Aura",
+       "active": 0,
        "url": "https://streamingv2.shoutcast.com/radio-aura-blagoevgrad",
        "tags": [
         "news_talk",
@@ -3022,6 +3377,7 @@
       },
       {
        "name": "Radio Aura radio",
+       "active": 0,
        "url": "https://media2.streambrothers.com:8016/stream",
        "tags": [
         "news_talk",
@@ -3032,12 +3388,14 @@
       },
       {
        "name": "Radio BD 1",
+       "active": 0,
        "url": "http://87.252.182.193:8000/",
        "language_inferred": true,
        "rb": "e4d3967d-e660-4ea6-a7cd-34cc04dbd166"
       },
       {
        "name": "Radio BD Besedi",
+       "active": 0,
        "url": "http://87.126.166.233:8000/stream.mp3",
        "tags": [
         "news_talk",
@@ -3047,6 +3405,7 @@
       },
       {
        "name": "Radio Bella",
+       "active": 0,
        "url": "http://194.146.235.35:9999/",
        "tags": [
         "news_talk",
@@ -3057,6 +3416,7 @@
       },
       {
        "name": "Radio Bubamara Svrljig",
+       "active": 0,
        "url": "http://shoutcast.netsi.net:8400",
        "tags": [
         "news_talk",
@@ -3066,6 +3426,7 @@
       },
       {
        "name": "Radio Dobrudja",
+       "active": 0,
        "url": "http://5.104.174.128:8000/radiodobrudja",
        "tags": [
         "news_talk",
@@ -3077,15 +3438,18 @@
       },
       {
        "name": "Radio Eparhiiski Glas",
+       "active": 0,
        "url": "https://radio.jump.bg:7046/live",
        "language_inferred": true
       },
       {
        "name": "Radio Focus Pazardzhik",
+       "active": 0,
        "url": "http://online.focus-radio.net:8100/pazardjik"
       },
       {
        "name": "Radio Focus Sofia",
+       "active": 0,
        "url": "http://online.focus-radio.net:8100/sofia",
        "tags": [
         "news_talk",
@@ -3094,6 +3458,7 @@
       },
       {
        "name": "Radio For Music Lovers",
+       "active": 0,
        "url": "https://stream.zeno.fm/xg8w82wf74zuv",
        "tags": [
         "news_talk",
@@ -3104,6 +3469,7 @@
       },
       {
        "name": "Radio Gea",
+       "active": 0,
        "url": "http://83.228.20.184:8000/stream.nsv",
        "tags": [
         "news_talk",
@@ -3113,11 +3479,13 @@
       },
       {
        "name": "Radio Horizont",
+       "active": 0,
        "url": "http://mp3.orbitel.bg:8000/darik.m3u",
        "language_inferred": true
       },
       {
        "name": "Radio Hot FM Bulgaria",
+       "active": 0,
        "url": "http://77.76.184.254:8000/hfm-public",
        "tags": [
         "news_talk",
@@ -3128,6 +3496,7 @@
       },
       {
        "name": "Radio K2",
+       "active": 0,
        "url": "http://stream.radiok2.bg:8000/rk2",
        "tags": [
         "news_talk",
@@ -3138,6 +3507,7 @@
       },
       {
        "name": "Radio Maia",
+       "active": 0,
        "url": "http://rnmediagroup.com:9000/stream.mp3",
        "tags": [
         "pop_hits",
@@ -3147,6 +3517,7 @@
       },
       {
        "name": "Radio Metronom",
+       "active": 0,
        "url": "http://radiometronom.com:8010/",
        "tags": [
         "news_talk",
@@ -3156,6 +3527,7 @@
       },
       {
        "name": "Radio Nova News",
+       "active": 0,
        "url": "https://25693.live.streamtheworld.com/RADIO_NOVANEWSAAC_L.aac",
        "tags": [
         "news_talk",
@@ -3165,10 +3537,12 @@
       },
       {
        "name": "Radio Nova News",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_NOVANEWSAAC_H_SC"
       },
       {
        "name": "Radio Sevlievo",
+       "active": 0,
        "url": "http://195.68.214.130:8000/stream.mp3",
        "tags": [
         "news_talk",
@@ -3177,17 +3551,20 @@
       },
       {
        "name": "Radio Stara Zagora",
+       "active": 0,
        "url": "https://www.liveradio.es/http://82.103.99.99:8000/radiosz",
        "language_inferred": true
       },
       {
        "name": "Radio Teteven",
+       "active": 0,
        "url": "http://g5.turbohost.eu:8001/teteven",
        "language_inferred": true,
        "rb": "7a526699-0e3e-4917-be49-82de4f55d918"
       },
       {
        "name": "Radio Ultra",
+       "active": 0,
        "url": "http://88.80.96.25:30048/",
        "tags": [
         "pop_hits",
@@ -3196,6 +3573,7 @@
       },
       {
        "name": "Radio Ultra Pazardzhik",
+       "active": 0,
        "url": "http://88.80.96.25:30500/",
        "tags": [
         "pop_hits",
@@ -3204,6 +3582,7 @@
       },
       {
        "name": "Radio Veronika",
+       "active": 0,
        "url": "http://149.13.0.80/veronika64",
        "tags": [
         "news_talk",
@@ -3214,6 +3593,7 @@
       },
       {
        "name": "Radio Vidin",
+       "active": 0,
        "url": "http://89.106.110.85:8000/",
        "tags": [
         "news_talk",
@@ -3223,14 +3603,17 @@
       },
       {
        "name": "Radio Vidin",
+       "active": 0,
        "url": "http://89.106.110.85:8000/stream/1"
       },
       {
        "name": "Radio Vidin",
+       "active": 0,
        "url": "http://89.106.110.85:8000/stream.mp3"
       },
       {
        "name": "Radio Vis Vitalis",
+       "active": 0,
        "url": "http://freeuk6.listen2myradio.com/stream.mp3?ipport=freeuk6.listen2myradio.com_22960/stream?type=.mp3",
        "tags": [
         "news_talk",
@@ -3240,6 +3623,7 @@
       },
       {
        "name": "Radio Vis Vitalis",
+       "active": 0,
        "url": "http://keepone.net/gtstrm/get123.php?surl=https://visvitalis.radiostream123.com/",
        "tags": [
         "news_talk",
@@ -3249,6 +3633,7 @@
       },
       {
        "name": "Radio Vis Vitalis radio",
+       "active": 0,
        "url": "http://freeuk24.listen2myradio.com:39679/stream.nsv",
        "tags": [
         "news_talk",
@@ -3257,6 +3642,7 @@
       },
       {
        "name": "TOP Radio",
+       "active": 0,
        "url": "https://radio.jump.bg/proxy/metrolowb?mp=/MGRLOWDATA",
        "tags": [
         "news_talk",
@@ -3267,15 +3653,18 @@
       },
       {
        "name": "TV 1 Radio",
+       "active": 0,
        "url": "https://tv1.cloudcdn.bg:8081/stream.m3u8",
        "language_inferred": true
       },
       {
        "name": "Venceremos",
+       "active": 0,
        "url": "https://listen7.myradio24.com/venceremos"
       },
       {
        "name": "Астра Плюс",
+       "active": 0,
        "url": "https://radio.jump.bg:7260/live",
        "tags": [
         "pop_hits",
@@ -3284,6 +3673,7 @@
       },
       {
        "name": "БГ Естрада",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BG_ESTRADAAAC_L.aac?dist=keepone.net",
        "tags": [
         "pop_hits",
@@ -3294,6 +3684,7 @@
       },
       {
        "name": "БГ Радио",
+       "active": 0,
        "url": "https://play.global.audio/bgradio.opus",
        "tags": [
         "news_talk",
@@ -3303,6 +3694,7 @@
       },
       {
        "name": "БНР Хоризонт",
+       "active": 0,
        "url": "https://crs.webdesign-flash.ro/?q=http://stream.bnr.bg:8011/horizont.aac&plugin_id=7628&site_id=8520577",
        "tags": [
         "news_talk",
@@ -3313,10 +3705,12 @@
       },
       {
        "name": "БНР – Детска програма (Детското.БНР)",
+       "active": 0,
        "url": "http://stream.bnr.bg:8013/detskoto-bnr.aac"
       },
       {
        "name": "БНР – Радио Благоевград",
+       "active": 0,
        "url": "http://stream.bnr.bg:8035/radio-blagoevgrad.aac",
        "tags": [
         "news_talk",
@@ -3327,16 +3721,19 @@
       },
       {
        "name": "БНР – Радио Бургас",
+       "active": 0,
        "url": "http://stream.bnr.bg:8037/radio-burgas.aac",
        "rb": "5d08753c-335d-431b-824e-6b47f627e793"
       },
       {
        "name": "БНР – Радио Кърджали",
+       "active": 0,
        "url": "http://stream.bnr.bg:8038/radio-kardzhali.aac",
        "rb": "7272bff9-d611-4387-b9e5-2208209b7c9a"
       },
       {
        "name": "БНР – Радио Пловдив",
+       "active": 0,
        "url": "http://stream.bnr.bg:8032/radio-plovdiv.aac",
        "tags": [
         "news_talk",
@@ -3347,6 +3744,7 @@
       },
       {
        "name": "БНР – Радио Стара Загора",
+       "active": 0,
        "url": "http://stream.bnr.bg:8034/radio-stara-zagora.aac",
        "tags": [
         "news_talk",
@@ -3355,11 +3753,13 @@
       },
       {
        "name": "Витоша",
+       "active": 0,
        "url": "https://e106-ts.cdn.bg/regstations/fls/Sofia.stream/chunklist.m3u8",
        "language_inferred": true
       },
       {
        "name": "Гласът на Бургас radio",
+       "active": 0,
        "url": "http://84.54.180.86:8000/stream.nsv",
        "tags": [
         "news_talk",
@@ -3370,6 +3770,7 @@
       },
       {
        "name": "Новините Cега radio",
+       "active": 0,
        "url": "http://193.108.24.6:8000/novinitesega",
        "tags": [
         "news_talk",
@@ -3380,6 +3781,7 @@
       },
       {
        "name": "Общинско радио Велико Търново",
+       "active": 0,
        "url": "http://195.34.121.140:8000/stream.nsv",
        "tags": [
         "news_talk",
@@ -3388,6 +3790,7 @@
       },
       {
        "name": "Общинско радио Чепеларе radio",
+       "active": 0,
        "url": "http://play.chepelare.bg/media/30-09-2021.mp3",
        "tags": [
         "news_talk",
@@ -3396,10 +3799,12 @@
       },
       {
        "name": "Онлайн радио \"Червеният Папагал\"",
+       "active": 0,
        "url": "https://stream.zeno.fm/80qzq207rm0uv"
       },
       {
        "name": "Радио 1 radio",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_1AAC_L_SC?dist=DESKTOP",
        "tags": [
         "news_talk",
@@ -3411,6 +3816,7 @@
       },
       {
        "name": "Радио Sense",
+       "active": 0,
        "url": "https://play.radiosense.com:8000/sense",
        "tags": [
         "news_talk",
@@ -3420,6 +3826,7 @@
       },
       {
        "name": "Радио Беинса Дуно",
+       "active": 0,
        "url": "http://87.252.182.193:8000/stream.mp3",
        "tags": [
         "news_talk",
@@ -3428,6 +3835,7 @@
       },
       {
        "name": "Радио Веселина",
+       "active": 0,
        "url": "https://bss1.neterra.tv/veselina/veselina.m3u8",
        "tags": [
         "pop_hits",
@@ -3440,6 +3848,7 @@
       },
       {
        "name": "Радио Веселина",
+       "active": 0,
        "url": "https://bss.neterra.tv/rtplive/veselinaradio_live.stream/playlist.m3u8",
        "tags": [
         "pop_hits",
@@ -3449,6 +3858,7 @@
       },
       {
        "name": "Радио Вис Виталис",
+       "active": 0,
        "url": "http://freeuk17.listen2myradio.com:10179/",
        "tags": [
         "news_talk",
@@ -3457,6 +3867,7 @@
       },
       {
        "name": "Радио Зетра",
+       "active": 0,
        "url": "http://79.98.108.170:8092/",
        "tags": [
         "news_talk",
@@ -3467,6 +3878,7 @@
       },
       {
        "name": "Радио Плевен",
+       "active": 0,
        "url": "http://stream.metacast.eu/radio1.opus",
        "tags": [
         "news_talk",
@@ -3476,6 +3888,7 @@
       },
       {
        "name": "Радио Разград radio",
+       "active": 0,
        "url": "http://188.126.1.25:8000/razgrad",
        "tags": [
         "news_talk",
@@ -3487,6 +3900,7 @@
       },
       {
        "name": "Радио Сливен Нет",
+       "active": 0,
        "url": "http://84.54.139.252:8080/stream.nsv",
        "tags": [
         "news_talk",
@@ -3496,6 +3910,7 @@
       },
       {
        "name": "Радио Търговище - Radio Targovishte",
+       "active": 0,
        "url": "https://ice31.securenetsystems.net/TARGOVISHTE",
        "tags": [
         "news_talk",
@@ -3505,6 +3920,7 @@
       },
       {
        "name": "Радио Търговище radio",
+       "active": 0,
        "url": "https://radiotargovishte.com/popup-player/",
        "tags": [
         "news_talk",
@@ -3519,11 +3935,13 @@
      "stations": [
       {
        "name": "Antena / Антена",
+       "active": 0,
        "url": "https://live.radioantena.bg/RadioAntena",
        "language_inferred": true
       },
       {
        "name": "BG Radio Estrada",
+       "active": 0,
        "url": "http://149.13.0.81/bgestrada",
        "tags": [
         "pop_hits",
@@ -3533,6 +3951,7 @@
       },
       {
        "name": "Darik Nostalgie",
+       "active": 0,
        "url": "https://darikradio.by.host.bg:8000/Nostalgie",
        "tags": [
         "oldies",
@@ -3544,10 +3963,12 @@
       },
       {
        "name": "Darik Nostalgie",
+       "active": 0,
        "url": "http://darikradio.by.host.bg:8000/Nostalgie.m3u"
       },
       {
        "name": "Radio 1",
+       "active": 0,
        "url": "https://149.13.0.80/radio1128",
        "tags": [
         "pop_hits",
@@ -3560,6 +3981,7 @@
       },
       {
        "name": "Radio The Big Boss",
+       "active": 0,
        "url": "http://79.98.108.172:8022/stream.mp3",
        "tags": [
         "oldies",
@@ -3570,6 +3992,7 @@
       },
       {
        "name": "Sky Radio Bulgaria",
+       "active": 0,
        "url": "http://93.152.140.225:8000/stream/3/",
        "tags": [
         "oldies",
@@ -3579,6 +4002,7 @@
       },
       {
        "name": "Радио Вероника radio",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_VERONIKAAAC_L.aac",
        "tags": [
         "pop_hits",
@@ -3596,21 +4020,25 @@
      "stations": [
       {
        "name": "AVTO RADIO",
+       "active": 0,
        "url": "https://25433.live.streamtheworld.com/AVTORADIOAAC_H.aac?dist=PREDAVATEL",
        "language_inferred": true
       },
       {
        "name": "Avto Radio",
+       "active": 0,
        "url": "https://149.13.0.81/avtoradio.mp3",
        "language_inferred": true
       },
       {
        "name": "BadRock Radio",
+       "active": 0,
        "url": "http://79.98.108.170:8028/live",
        "language_inferred": true
       },
       {
        "name": "BG Radio",
+       "active": 0,
        "url": "http://stream.radioreklama.bg/bgradio128",
        "bitrate": 128,
        "logo": "http://radio.pervii.com/logo/95590.jpg",
@@ -3618,6 +4046,7 @@
       },
       {
        "name": "BG Radio 91.9 FM",
+       "active": 0,
        "url": "https://149.13.0.80/bgradio128",
        "tags": [
         "pop_hits",
@@ -3627,31 +4056,37 @@
       },
       {
        "name": "Binar BG Pop",
+       "active": 0,
        "url": "https://edge16.cdn.bg:20030/fls/BINAR-BgPop.stream/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "Binar Duende",
+       "active": 0,
        "url": "https://edge16.cdn.bg:20030/fls/BINAR-Duende.stream/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "Binar Folklor",
+       "active": 0,
        "url": "https://edge17.cdn.bg:20030/fls/BINAR-Folk.stream/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "City Bulgaria",
+       "active": 0,
        "url": "http://31.13.223.148:8000/city.mp3",
        "rb": "63bbbebd-bea1-4397-bce1-224cf6f874a3"
       },
       {
        "name": "Dance FolkBG",
+       "active": 0,
        "url": "http://radio.folkbg.net:8000/folkbg/stream/1/",
        "language_inferred": true
       },
       {
        "name": "Deep Lounge BG",
+       "active": 0,
        "url": "http://93.152.140.225:8000/stream/2/DeepLounge%20BG/",
        "tags": [
         "pop_hits",
@@ -3660,6 +4095,7 @@
       },
       {
        "name": "Deep WAVE",
+       "active": 0,
        "url": "http://93.152.140.225:8000/stream/6",
        "tags": [
         "pop_hits",
@@ -3669,24 +4105,29 @@
       },
       {
        "name": "DPP Radio",
+       "active": 0,
        "url": "https://node-33.zeno.fm/8frxh207rm0uv.aac",
        "language_inferred": true
       },
       {
        "name": "Energy Sofia NRJ",
+       "active": 0,
        "url": "http://stream.radioreklama.bg/energy-90s.ogg"
       },
       {
        "name": "Folk Radio Nazdrave",
+       "active": 0,
        "url": "http://powerdj.sf.ddns.bulsat.com:8020/"
       },
       {
        "name": "Fresh Bulgaria",
+       "active": 0,
        "url": "http://31.13.223.148:8000/fresh.mp3",
        "rb": "3072e46f-f218-4fde-916e-a9af3ab7f835"
       },
       {
        "name": "Hit FM",
+       "active": 0,
        "url": "https://play.zwebsolutions.eu:8834/hitfm-high",
        "tags": [
         "pop_hits",
@@ -3697,10 +4138,12 @@
       },
       {
        "name": "Hit FM Bulgaria",
+       "active": 0,
        "url": "https://play.zwebsolutions.eu:8443/hitfm-high"
       },
       {
        "name": "Hit FM Bulgaria radio",
+       "active": 0,
        "url": "https://play.hitfmbg.com/hitfm-high",
        "tags": [
         "pop_hits",
@@ -3712,11 +4155,13 @@
       },
       {
        "name": "KATRA FM",
+       "active": 0,
        "url": "https://www.liveradio.es/http://www.katrafm.com:8000/live",
        "language_inferred": true
       },
       {
        "name": "KATRA FM",
+       "active": 0,
        "url": "http://www.katrafm.com:8000/live",
        "tags": [
         "pop_hits",
@@ -3727,6 +4172,7 @@
       },
       {
        "name": "Maya Burgas",
+       "active": 0,
        "url": "http://rnmediagroup.com:9000",
        "tags": [
         "pop_hits",
@@ -3737,6 +4183,7 @@
       },
       {
        "name": "Maya Varna",
+       "active": 0,
        "url": "http://rnmediagroup.com:10000/",
        "tags": [
         "pop_hits",
@@ -3748,6 +4195,7 @@
       },
       {
        "name": "Metro HITS Radio",
+       "active": 0,
        "url": "https://eu1.reliastream.com/proxy/mhr?mp=/MHR",
        "tags": [
         "pop_hits",
@@ -3757,12 +4205,14 @@
       },
       {
        "name": "Metro HITS Radio",
+       "active": 0,
        "url": "https://radiocp.jump.bg/proxy/feed30?mp=/MHR",
        "country_inferred": true,
        "language_inferred": true
       },
       {
        "name": "Metro Hits Radio HD - By Metro Cast Stations",
+       "active": 0,
        "url": "http://eu1.reliastream.com:7178/MHR",
        "tags": [
         "pop_hits",
@@ -3772,6 +4222,7 @@
       },
       {
        "name": "Metro HITS Radio Listen live",
+       "active": 0,
        "url": "https://meg.novahost.bg/proxy/feed30?mp=/MHR",
        "tags": [
         "pop_hits",
@@ -3780,6 +4231,7 @@
       },
       {
        "name": "Metro Hits! Radio",
+       "active": 0,
        "url": "https://radio.jump.bg/proxy/metrolowb?mp=/MHRLOWDATA",
        "tags": [
         "pop_hits",
@@ -3791,11 +4243,13 @@
       },
       {
        "name": "Music Space Radio",
+       "active": 0,
        "url": "http://62.149.196.16:8888/stream1",
        "language_inferred": true
       },
       {
        "name": "N-Joy",
+       "active": 0,
        "url": "http://46.10.150.243/njoy.mp3",
        "tags": [
         "pop_hits",
@@ -3806,30 +4260,36 @@
       },
       {
        "name": "N-Joy (Sofia) Radio",
+       "active": 0,
        "url": "https://stream.pcradio.ru/njoy_bg-med",
        "language_inferred": true
       },
       {
        "name": "NRJ Bulgaria",
+       "active": 0,
        "url": "https://22653.live.streamtheworld.com/RADIO_ENERGYAAC_L.aac"
       },
       {
        "name": "NRJ Radio ENERGY",
+       "active": 0,
        "url": "http://stream.radioreklama.bg/nrj128",
        "bitrate": 128,
        "logo": "http://radio.pervii.com/im/0/1563677630.jpg"
       },
       {
        "name": "NRJ Radio ENERGY – Sofia – Sofia-Capital – BG",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ENERGYAAC_L_SC?dist=DESKTOP",
        "language_inferred": true
       },
       {
        "name": "Party FM",
+       "active": 0,
        "url": "http://a2.virtualradio.eu:8000/partyfm.mp3"
       },
       {
        "name": "Radio 1",
+       "active": 0,
        "url": "http://stream.radioreklama.bg/radio1128",
        "bitrate": 128,
        "logo": "http://radio.pervii.com/logo/1436097293.png",
@@ -3837,12 +4297,14 @@
       },
       {
        "name": "Radio 1",
+       "active": 0,
        "url": "http://stream.metacast.eu/radio1128",
        "language_inferred": true,
        "rb": "f5317e43-f378-4689-b186-776dfdf30fe1"
       },
       {
        "name": "Radio 1 Bulgaria",
+       "active": 0,
        "url": "http://149.13.0.81/radio1.ogg",
        "tags": [
         "pop_hits",
@@ -3854,6 +4316,7 @@
       },
       {
        "name": "Radio 1 Rock",
+       "active": 0,
        "url": "https://149.13.0.81/radio1rock.ogg",
        "tags": [
         "pop_hits",
@@ -3862,6 +4325,7 @@
       },
       {
        "name": "Radio 999",
+       "active": 0,
        "url": "http://www.radio999bg.com/live.php",
        "tags": [
         "pop_hits",
@@ -3871,19 +4335,23 @@
       },
       {
        "name": "Radio Atlantic",
+       "active": 0,
        "url": "http://79.98.108.192:8000/live"
       },
       {
        "name": "Radio Atlantic 97.0 FM radio",
+       "active": 0,
        "url": "https://c26.radioboss.fm:18187/stream",
        "language_inferred": true
       },
       {
        "name": "Radio Bella",
+       "active": 0,
        "url": "http://194.146.235.35:9999/stream.mp3"
       },
       {
        "name": "RADIO CITY",
+       "active": 0,
        "url": "http://stream.radioreklama.bg/city128",
        "bitrate": 128,
        "logo": "http://radio.pervii.com/im/2/1549626072.jpg",
@@ -3892,14 +4360,17 @@
       },
       {
        "name": "Radio City FM 99.7",
+       "active": 0,
        "url": "http://149.13.0.80:8000/city64"
       },
       {
        "name": "Radio Energy 89.5",
+       "active": 0,
        "url": "https://play.global.audio/nrj.aac"
       },
       {
        "name": "Radio Energy 90s Only Sofia",
+       "active": 0,
        "url": "https://play.global.audio/energy-90s.aac",
        "tags": [
         "pop_hits",
@@ -3912,6 +4383,7 @@
       },
       {
        "name": "Radio EVolution",
+       "active": 0,
        "url": "http://79.98.108.170:8163/live",
        "tags": [
         "pop_hits",
@@ -3920,6 +4392,7 @@
       },
       {
        "name": "Radio Family",
+       "active": 0,
        "url": "http://a1.virtualradio.eu:8000/family.mp3",
        "tags": [
         "pop_hits",
@@ -3930,21 +4403,25 @@
       },
       {
        "name": "Radio Focus Pirin",
+       "active": 0,
        "url": "http://online.focus-radio.net:8100/pirin.m3u",
        "language_inferred": true
       },
       {
        "name": "Radio Focus Varna",
+       "active": 0,
        "url": "http://online.focus-radio.net:8100/varna.m3u",
        "language_inferred": true
       },
       {
        "name": "Radio Focus Veliko Turnovo",
+       "active": 0,
        "url": "http://online.focus-radio.net:8100/vt.m3u",
        "language_inferred": true
       },
       {
        "name": "Radio Fresh",
+       "active": 0,
        "url": "http://193.108.24.21:8000/fresh",
        "tags": [
         "pop_hits",
@@ -3959,6 +4436,7 @@
       },
       {
        "name": "Radio Fresh",
+       "active": 0,
        "url": "http://193.108.24.21:8000/fresh?file=.mp3",
        "tags": [
         "pop_hits",
@@ -3969,6 +4447,7 @@
       },
       {
        "name": "Radio Gama 96.7 FM VIDIN",
+       "active": 0,
        "url": "http://g5.turbohost.eu:8003/gama128",
        "tags": [
         "pop_hits",
@@ -3978,21 +4457,25 @@
       },
       {
        "name": "Radio Helikon",
+       "active": 0,
        "url": "http://87.121.90.229:9000/live_128",
        "language_inferred": true,
        "rb": "0d7f58db-2dd1-4842-a4e5-2e2aa7d3fded"
       },
       {
        "name": "Radio Maia",
+       "active": 0,
        "url": "http://mail.rntel.com:9000"
       },
       {
        "name": "Radio Maxx FM Bulgaria",
+       "active": 0,
        "url": "http://play.radiomaxxfm.com:8000/maxx-high?ver=583633",
        "language_inferred": true
       },
       {
        "name": "Radio Maxx FM Bulgaria Listen live",
+       "active": 0,
        "url": "https://play.zwebsolutions.eu:8443/maxx-high",
        "tags": [
         "pop_hits",
@@ -4002,6 +4485,7 @@
       },
       {
        "name": "Radio MIXX",
+       "active": 0,
        "url": "http://83.97.65.98:9000/",
        "tags": [
         "pop_hits",
@@ -4012,6 +4496,7 @@
       },
       {
        "name": "Radio N-Joy",
+       "active": 0,
        "url": "http://live.btvradio.bg/njoy.mp3",
        "tags": [
         "pop_hits",
@@ -4022,6 +4507,7 @@
       },
       {
        "name": "Radio N-Joy",
+       "active": 0,
        "url": "http://live.btvradio.bg/njoy.mp3?1327480109359.mp3",
        "tags": [
         "pop_hits",
@@ -4030,10 +4516,12 @@
       },
       {
        "name": "Radio N-Joy",
+       "active": 0,
        "url": "http://46.10.150.123/njoy.mp3"
       },
       {
        "name": "Radio Nova",
+       "active": 0,
        "url": "http://149.13.0.81/nova128",
        "tags": [
         "pop_hits",
@@ -4045,6 +4533,7 @@
       },
       {
        "name": "Radio Nova 101.7",
+       "active": 0,
        "url": "http://stream.radioreklama.bg/nova128",
        "bitrate": 128,
        "logo": "http://radio.pervii.com/logo/1436097156.png",
@@ -4057,32 +4546,39 @@
       },
       {
        "name": "Radio Nova 101.7 FM",
+       "active": 0,
        "url": "http://stream.radioreklama.bg/nova.aac"
       },
       {
        "name": "Radio NRJ ENERGY 89.5 FM",
+       "active": 0,
        "url": "http://149.13.0.81:80/nrj128"
       },
       {
        "name": "Radio NRJ ENERGY 89.5 FM",
+       "active": 0,
        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ENERGYAAC_H_SC"
       },
       {
        "name": "Radio Paraga",
+       "active": 0,
        "url": "http://51.77.124.144:8151/mp3",
        "language_inferred": true
       },
       {
        "name": "Radio Payner Hit",
+       "active": 0,
        "url": "http://79.98.108.170:8271/stream.mp3"
       },
       {
        "name": "Radio Severozapad",
+       "active": 0,
        "url": "https://node-20.zeno.fm/5keayk7qvueuv",
        "language_inferred": true
       },
       {
        "name": "Radio Sevlievo - Радио Севлиево",
+       "active": 0,
        "url": "http://195.68.214.130:8000",
        "tags": [
         "pop_hits",
@@ -4093,21 +4589,25 @@
       },
       {
        "name": "Radio Sofia",
+       "active": 0,
        "url": "https://www.liveradio.es/http://stream.bnr.bg:8005/sofia.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio Targovishte",
+       "active": 0,
        "url": "http://79.98.108.170:8127/live",
        "language_inferred": true
       },
       {
        "name": "Radio Ultra Blagoevgrad",
+       "active": 0,
        "url": "http://77.77.47.222:3060/",
        "language_inferred": true
       },
       {
        "name": "Radio Ultra Bllagoevgrad",
+       "active": 0,
        "url": "http://88.80.96.25:3060/",
        "tags": [
         "pop_hits",
@@ -4118,6 +4618,7 @@
       },
       {
        "name": "Radio Ultra Pernik",
+       "active": 0,
        "url": "http://88.80.96.25:8020",
        "bitrate": 128,
        "logo": "http://radio.pervii.com/logo/1403639168.png",
@@ -4131,11 +4632,13 @@
       },
       {
        "name": "Radio Ultra Petrich",
+       "active": 0,
        "url": "http://77.77.47.222:8000/",
        "language_inferred": true
       },
       {
        "name": "Radio Ultra Sandanski",
+       "active": 0,
        "url": "http://88.80.96.25:8000/",
        "tags": [
         "pop_hits",
@@ -4147,10 +4650,12 @@
       },
       {
        "name": "Radio Vega",
+       "active": 0,
        "url": "http://88.80.96.25:3050/stream.mp3"
       },
       {
        "name": "Radio Vega Sandanski and Petrich",
+       "active": 0,
        "url": "http://88.80.96.25:8040/",
        "language_inferred": true,
        "rb": "9619f601-0601-11e8-ae97-52543be04c81",
@@ -4158,14 +4663,17 @@
       },
       {
        "name": "Radio Vega+",
+       "active": 0,
        "url": "http://88.80.96.25:3050/"
       },
       {
        "name": "Radio Veronika 96.7 FM",
+       "active": 0,
        "url": "http://149.13.0.80:8000/veronika64"
       },
       {
        "name": "Radio Vitosha",
+       "active": 0,
        "url": "https://bss1.neterra.tv/vitosha/vitosha.m3u8",
        "tags": [
         "pop_hits",
@@ -4178,10 +4686,12 @@
       },
       {
        "name": "Radio Vox Bulgaria",
+       "active": 0,
        "url": "https://streamingv2.shoutcast.com/radio-vox-bg"
       },
       {
        "name": "Radio Zorana - Радио Зорана",
+       "active": 0,
        "url": "https://play-radio7.jump.bg:7000/stream",
        "tags": [
         "pop_hits",
@@ -4191,10 +4701,12 @@
       },
       {
        "name": "RadioChalgaHit",
+       "active": 0,
        "url": "https://radio.jump.bg/proxy/andrei/stream"
       },
       {
        "name": "RadioChalgaHit",
+       "active": 0,
        "url": "http://79.98.108.180:8000/",
        "tags": [
         "pop_hits",
@@ -4204,15 +4716,18 @@
       },
       {
        "name": "Sense",
+       "active": 0,
        "url": "http://live.radiosense.bg:8000/sense",
        "language_inferred": true
       },
       {
        "name": "Sound 9 Studio",
+       "active": 0,
        "url": "http://streaming.sound9studio.com/musicstation"
       },
       {
        "name": "Test NRJ Sergio IP",
+       "active": 0,
        "url": "http://149.13.0.80/energy-90s",
        "tags": [
         "pop_hits",
@@ -4222,6 +4737,7 @@
       },
       {
        "name": "The Voice",
+       "active": 0,
        "url": "https://bss1.neterra.tv/thevoicefm/thevoicefm.m3u8",
        "tags": [
         "pop_hits",
@@ -4233,21 +4749,25 @@
       },
       {
        "name": "Ultra Blagoevgrad",
+       "active": 0,
        "url": "https://www.ultranet.biz/ultrablagoevgrad.m3u",
        "rb": "9619f7a6-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Vanilla Radio",
+       "active": 0,
        "url": "https://play.global.audio/vanilla.aac"
       },
       {
        "name": "Veronika",
+       "active": 0,
        "url": "http://stream.metacast.eu/veronika.ogg",
        "language_inferred": true,
        "rb": "9618e172-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Авторадио",
+       "active": 0,
        "url": "https://play.global.audio/avtoradio.opus",
        "tags": [
         "pop_hits",
@@ -4259,6 +4779,7 @@
       },
       {
        "name": "БГ Радио 91.9 ( BG Radio )",
+       "active": 0,
        "url": "https://play.global.audio/bgradio128",
        "tags": [
         "pop_hits",
@@ -4269,6 +4790,7 @@
       },
       {
        "name": "БГ Радио radio",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BG_RADIOAAC_L.aac",
        "tags": [
         "pop_hits",
@@ -4278,10 +4800,12 @@
       },
       {
        "name": "Бинар - БГ Поп",
+       "active": 0,
        "url": "https://lb-hls.cdn.bg/2003/fls/BINAR-BgPop.stream/playlist.m3u8"
       },
       {
        "name": "Енерджи (opus)",
+       "active": 0,
        "url": "http://stream.radioreklama.bg/nrj.opus",
        "tags": [
         "pop_hits",
@@ -4291,16 +4815,19 @@
       },
       {
        "name": "Радио 1",
+       "active": 0,
        "url": "https://stream.metacast.eu/radio1.ogg",
        "rb": "2eacc9e8-e40b-4b8e-b994-2363c07c28a3",
        "logo": "https://www.radio1.bg/theme_assets/radio1/images/favicon.png"
       },
       {
        "name": "Радио ENERGY 89.5 FM Listen live",
+       "active": 0,
        "url": "https://play.global.audio/nrj.opus"
       },
       {
        "name": "Радио S.O.M.E (Story of My Eyes) radio",
+       "active": 0,
        "url": "https://radio.jump.bg/proxy/tomi/stream",
        "tags": [
         "pop_hits",
@@ -4312,6 +4839,7 @@
       },
       {
        "name": "Радио В-99",
+       "active": 0,
        "url": "http://onair.gp-net.bg:6688/",
        "tags": [
         "pop_hits",
@@ -4321,6 +4849,7 @@
       },
       {
        "name": "Радио Веселина 99.1",
+       "active": 0,
        "url": "https://bss1.neterra.tv/veselina/stream_0.m3u8",
        "language_inferred": true,
        "rb": "7ecdb771-42cf-4c84-9bad-6854367149ad",
@@ -4328,11 +4857,13 @@
       },
       {
        "name": "Радио Витоша",
+       "active": 0,
        "url": "https://bss.neterra.tv/rtplive/vitosharadio_live.stream/chunklist.m3u8",
        "language_inferred": true
       },
       {
        "name": "Радио Гама",
+       "active": 0,
        "url": "http://g5.turbohost.eu:8003/gama?type=.mp3"
       }
      ]
@@ -4342,6 +4873,7 @@
      "stations": [
       {
        "name": "R1 Melodic Dubstep",
+       "active": 0,
        "url": "https://stream.zeno.fm/sgpeqtzkmzauv.m3u",
        "tags": [
         "ambient_relax",
@@ -4358,16 +4890,19 @@
      "stations": [
       {
        "name": "Bad Rock Radio-Classic Rock",
+       "active": 0,
        "url": "https://radio.jump.bg:7489/live",
        "language_inferred": true
       },
       {
        "name": "BadRock Hard & Heavy",
+       "active": 0,
        "url": "https://play-radio0.jump.bg:7049/live?n=00127a10de3c3c337b4a",
        "language_inferred": true
       },
       {
        "name": "BadRock Radio",
+       "active": 0,
        "url": "https://radio.jump.bg:7028/live",
        "tags": [
         "rock",
@@ -4379,6 +4914,7 @@
       },
       {
        "name": "BadRock Radio",
+       "active": 0,
        "url": "http://meg.novahost.bg:8028/live",
        "tags": [
         "rock",
@@ -4387,11 +4923,13 @@
       },
       {
        "name": "BadRock Radio - BadRock Hard & Heavy",
+       "active": 0,
        "url": "http://meg.novahost.bg:8049/live",
        "language_inferred": true
       },
       {
        "name": "BG Radio",
+       "active": 0,
        "url": "http://play.global.audio:80/bgradio.ogg",
        "tags": [
         "rock",
@@ -4401,11 +4939,13 @@
       },
       {
        "name": "bg-radio",
+       "active": 0,
        "url": "https://149.13.0.81/bgradio64",
        "language_inferred": true
       },
       {
        "name": "Country Rock Radio",
+       "active": 0,
        "url": "https://radio.jump.bg/proxy/feed104?mp=/MSRR",
        "tags": [
         "rock",
@@ -4419,6 +4959,7 @@
       },
       {
        "name": "Diana Oldies",
+       "active": 0,
        "url": "http://listen.radionomy.com/dianaoldies",
        "tags": [
         "rock",
@@ -4431,11 +4972,13 @@
       },
       {
        "name": "Dj La Muerte",
+       "active": 0,
        "url": "http://www.ustream.tv/music",
        "language_inferred": true
       },
       {
        "name": "Easy Radio",
+       "active": 0,
        "url": "https://live.easyradio.bg/aac?type=.mp3",
        "tags": [
         "decade_90s",
@@ -4451,6 +4994,7 @@
       },
       {
        "name": "Magic FM",
+       "active": 0,
        "url": "https://bss1.neterra.tv/magicfm/magicfm.m3u8",
        "tags": [
         "pop_hits",
@@ -4462,6 +5006,7 @@
       },
       {
        "name": "Magic FM",
+       "active": 0,
        "url": "https://bss.neterra.tv/rtplive/magicfmradio_live.stream/playlist.m3u8",
        "tags": [
         "pop_hits",
@@ -4471,6 +5016,7 @@
       },
       {
        "name": "Metro Country Rock",
+       "active": 0,
        "url": "https://eu1.reliastream.com/proxy/feedb?mp=/CRR64",
        "tags": [
         "country",
@@ -4482,6 +5028,7 @@
       },
       {
        "name": "Metro SOLID ROCK Radio",
+       "active": 0,
        "url": "https://radiocp.jump.bg/proxy/feed104?mp=/MSRR",
        "tags": [
         "rock",
@@ -4492,6 +5039,7 @@
       },
       {
        "name": "Metro Solid Rock Radio",
+       "active": 0,
        "url": "https://meg.novahost.bg/proxy/feed104?mp=%2FMSRR",
        "tags": [
         "rock",
@@ -4500,6 +5048,7 @@
       },
       {
        "name": "Metro SOLID ROCK Radio Listen live",
+       "active": 0,
        "url": "https://meg.novahost.bg/proxy/feed104?mp=/MSRR",
        "tags": [
         "rock",
@@ -4509,6 +5058,7 @@
       },
       {
        "name": "MMIROJV RADIO",
+       "active": 0,
        "url": "http://79.98.108.170:8277/stream",
        "tags": [
         "rock",
@@ -4519,6 +5069,7 @@
       },
       {
        "name": "MMIROJV RADIO",
+       "active": 0,
        "url": "http://79.98.108.170:8277/autodj",
        "tags": [
         "rock",
@@ -4529,6 +5080,7 @@
       },
       {
        "name": "Old Skull Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/r8s98br2ud0uv",
        "tags": [
         "rock",
@@ -4547,6 +5099,7 @@
       },
       {
        "name": "QFT.fm",
+       "active": 0,
        "url": "https://qft.monster/listen/radio_qfte/radio.mp3",
        "tags": [
         "comedy",
@@ -4556,6 +5109,7 @@
       },
       {
        "name": "Radio 1 Rock",
+       "active": 0,
        "url": "http://stream.radioreklama.bg/radio1rock64",
        "bitrate": 128,
        "logo": "http://radio.pervii.com/logo/1436097296.png",
@@ -4572,26 +5126,31 @@
       },
       {
        "name": "Radio 1 Rock",
+       "active": 0,
        "url": "http://stream.metacast.eu/radio1rock.opus"
       },
       {
        "name": "Radio 1 Rock",
+       "active": 0,
        "url": "https://stream.metacast.eu/radio1rock.ogg",
        "rb": "96093243-0601-11e8-ae97-52543be04c81",
        "logo": "http://www.radio1rock.bg/theme_assets/radio1rock/images/favicon.png"
       },
       {
        "name": "Radio 1 Rock",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_1_ROCKAAC_L.aac",
        "language_inferred": true
       },
       {
        "name": "Radio 1 Rock",
+       "active": 0,
        "url": "https://stream.pcradio.ru/rock1_bg-med",
        "language_inferred": true
       },
       {
        "name": "Radio 1 Rock 98.3 FM",
+       "active": 0,
        "url": "http://149.13.0.81/radio1rock128",
        "tags": [
         "rock",
@@ -4601,16 +5160,19 @@
       },
       {
        "name": "Radio 33 Dubstep",
+       "active": 0,
        "url": "http://radio33.org:8150/radio33",
        "language_inferred": true
       },
       {
        "name": "Radio 33 Progressive",
+       "active": 0,
        "url": "http://radio33.org:8120/radio33",
        "language_inferred": true
       },
       {
        "name": "Radio Kom",
+       "active": 0,
        "url": "http://radiocp.smshosting.bg:2199/stream/1",
        "tags": [
         "rock",
@@ -4621,6 +5183,7 @@
       },
       {
        "name": "Radio Sevlievo",
+       "active": 0,
        "url": "http://93.155.136.27:8000",
        "tags": [
         "pop_hits",
@@ -4632,6 +5195,7 @@
       },
       {
        "name": "Radio Sevlievo radio",
+       "active": 0,
        "url": "http://195.68.214.130:8000/stream.nsv",
        "tags": [
         "rock",
@@ -4641,12 +5205,14 @@
       },
       {
        "name": "Radio Tangra Mega Rock",
+       "active": 0,
        "url": "http://stream-bg-01.radiotangra.com:8000/Tangra.ogg?n=c0b7566029dc8744f97d",
        "rb": "bd8a6b13-7a0e-4a07-b4bb-ed6c18aab910",
        "logo": "https://radiotangra.com/wp-content/uploads/2023/02/Vector-Smart-Object.svg"
       },
       {
        "name": "Radio Z-Rock",
+       "active": 0,
        "url": "http://193.108.24.6:8000/zrock",
        "tags": [
         "rock",
@@ -4657,11 +5223,13 @@
       },
       {
        "name": "Radio Z-Rock",
+       "active": 0,
        "url": "http://46.10.150.123/z-rock.mp3?",
        "language_inferred": true
       },
       {
        "name": "Radio ZRock",
+       "active": 0,
        "url": "http://live.btvradio.bg/z-rock.mp3",
        "tags": [
         "rock",
@@ -4675,6 +5243,7 @@
       },
       {
        "name": "Radioxaschove.com",
+       "active": 0,
        "url": "http://79.98.108.173:8006/stream",
        "tags": [
         "pop_hits",
@@ -4685,10 +5254,12 @@
       },
       {
        "name": "Star FM",
+       "active": 0,
        "url": "http://pulsar.atlantis.bg:8000/starfm"
       },
       {
        "name": "Tangra",
+       "active": 0,
        "url": "http://stream-bg-01.radiotangra.com:8000/Tangra-high",
        "bitrate": 128,
        "logo": "http://radio.pervii.com/logo/72400.jpg",
@@ -4700,6 +5271,7 @@
       },
       {
        "name": "Tangra Mega Rock",
+       "active": 0,
        "url": "https://crs.webdesign-flash.ro/?q=http://stream-BG-02.radiotangra.com:8000/Tangra-high&plugin_id=7628&site_id=8520577",
        "tags": [
         "rock",
@@ -4708,17 +5280,20 @@
       },
       {
        "name": "tangra-mega-rok",
+       "active": 0,
        "url": "http://stream-02.radiotangra.com/Tangra-high",
        "language_inferred": true
       },
       {
        "name": "Under Noise",
+       "active": 0,
        "url": "http://play-radio21.jump.bg:8000/autodj_autodj",
        "country_inferred": true,
        "language_inferred": true
       },
       {
        "name": "Z-Rock bTV",
+       "active": 0,
        "url": "http://46.10.150.243/z-rock.mp3",
        "tags": [
         "rock",
@@ -4728,6 +5303,7 @@
       },
       {
        "name": "Радио 1",
+       "active": 0,
        "url": "https://play.global.audio/radio1.opus",
        "tags": [
         "rock",
@@ -4741,6 +5317,7 @@
       },
       {
        "name": "Радио 1 Рок",
+       "active": 0,
        "url": "https://play.global.audio/radio1rock.opus",
        "tags": [
         "rock",
@@ -4749,6 +5326,7 @@
       },
       {
        "name": "Радио Шофьори Несебър",
+       "active": 0,
        "url": "https://play-radio0.jump.bg:7067/stream",
        "tags": [
         "rock",
@@ -4760,6 +5338,7 @@
       },
       {
        "name": "Тангра Мега Рок",
+       "active": 0,
        "url": "http://stream-03.radiotangra.com/Tangra-middle"
       }
      ]
@@ -4769,6 +5348,7 @@
      "stations": [
       {
        "name": "BG Estrada",
+       "active": 0,
        "url": "https://play.global.audio/bgestrada",
        "tags": [
         "pop_hits",
@@ -4785,6 +5365,7 @@
      "stations": [
       {
        "name": "Jazz FM Lounge",
+       "active": 0,
        "url": "http://live.btvradio.bg/jazz-fm-lounge.mp3",
        "tags": [
         "smooth_jazz",
@@ -4795,6 +5376,7 @@
       },
       {
        "name": "Metro GROOVE! Radio",
+       "active": 0,
        "url": "https://meg.novahost.bg/proxy/metrocastsd2?mp=%2Fservice",
        "tags": [
         "smooth_jazz",
@@ -4808,6 +5390,7 @@
      "stations": [
       {
        "name": "Deep Radio Bulgaria",
+       "active": 0,
        "url": "http://93.152.140.225:8000/stream/4/stream/1",
        "tags": [
         "soul_rnb_funk",
@@ -4830,6 +5413,7 @@
       },
       {
        "name": "NJS Radio",
+       "active": 0,
        "url": "https://www.liveradio.es/http://162.244.80.106:11198/stream",
        "tags": [
         "hip_hop_rap",
@@ -4839,6 +5423,7 @@
       },
       {
        "name": "Radio Bizonio",
+       "active": 0,
        "url": "http://freeuk4.listen2myradio.com:35247/",
        "tags": [
         "soul_rnb_funk",
@@ -4848,6 +5433,7 @@
       },
       {
        "name": "Radio FM+",
+       "active": 0,
        "url": "http://193.108.24.21:8000/fmplus",
        "tags": [
         "pop_hits",
@@ -4860,6 +5446,7 @@
       },
       {
        "name": "Radio Ludogorie",
+       "active": 0,
        "url": "http://dj-isko.ovo.bg/",
        "tags": [
         "disco_eurodance",
@@ -4871,6 +5458,7 @@
       },
       {
        "name": "Radio Millenium Bulgaria",
+       "active": 0,
        "url": "http://radiomillenium.radiomillenium.eu:8000/millenium-low",
        "tags": [
         "soul_rnb_funk",
@@ -4880,6 +5468,7 @@
       },
       {
        "name": "Sofia Live",
+       "active": 0,
        "url": "http://ss22.witmind.com:8000/180sofia-96.m3u",
        "tags": [
         "soul_rnb_funk",
@@ -4889,6 +5478,7 @@
       },
       {
        "name": "Urban Hits Radio",
+       "active": 0,
        "url": "https://radio.jump.bg/proxy/feed11?mp=/UHRAAC",
        "tags": [
         "soul_rnb_funk",
@@ -4902,6 +5492,7 @@
       },
       {
        "name": "Vibes Radio Deep Soulful House",
+       "active": 0,
        "url": "https://crs.webdesign-flash.ro/?q=http://195.24.54.14:8002/&plugin_id=7628&site_id=8520577",
        "tags": [
         "soul_rnb_funk",
@@ -4911,6 +5502,7 @@
       },
       {
        "name": "Бинар - Фънк Соул",
+       "active": 0,
        "url": "https://edge16.cdn.bg:20030/fls/BINAR-Indie.stream/playlist.m3u8",
        "tags": [
         "soul_rnb_funk",
@@ -4921,6 +5513,7 @@
       },
       {
        "name": "Радио City 99.7 FM",
+       "active": 0,
        "url": "https://149.13.0.80/city64?type=.mp3/stream.mp3",
        "tags": [
         "pop_hits",
@@ -4932,6 +5525,7 @@
       },
       {
        "name": "Радио The Voice",
+       "active": 0,
        "url": "https://bss.neterra.tv/rtplive/thevoiceradio_live.stream/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -4946,6 +5540,7 @@
      "stations": [
       {
        "name": "Radio Antena",
+       "active": 0,
        "url": "http://antena.hothost.bg/"
       }
      ]
@@ -4955,11 +5550,13 @@
      "stations": [
       {
        "name": "do2xlasign",
+       "active": 0,
        "url": "https://stream.zeno.fm/chyi2utwsmhvv",
        "language_inferred": true
       },
       {
        "name": "Radio Loznitsa",
+       "active": 0,
        "url": "https://stream.zeno.fm/z9eyf88munhvv",
        "language_inferred": true
       }
@@ -4970,6 +5567,7 @@
      "stations": [
       {
        "name": "Eilo Techno Radio",
+       "active": 0,
        "url": "http://eilo.org:8000/techno",
        "tags": [
         "techno",
@@ -4978,6 +5576,7 @@
       },
       {
        "name": "Hard Techno Radio",
+       "active": 0,
        "url": "http://eilo.org:8000/hard",
        "tags": [
         "techno",
@@ -4987,11 +5586,13 @@
       },
       {
        "name": "Radio 33 Techno",
+       "active": 0,
        "url": "http://www.radio33.org:8000/",
        "language_inferred": true
       },
       {
        "name": "Radio Ludogorie",
+       "active": 0,
        "url": "http://s7.myradiostream.com/33204.htm",
        "tags": [
         "techno",
@@ -5002,6 +5603,7 @@
       },
       {
        "name": "Radio Nova",
+       "active": 0,
        "url": "http://play.global.audio:80/nova128",
        "tags": [
         "techno",
@@ -5012,6 +5614,7 @@
       },
       {
        "name": "X-Centr1c Radio Listen live",
+       "active": 0,
        "url": "https://radio.xcentr1c.com:9037/server",
        "tags": [
         "techno",
@@ -5026,10 +5629,12 @@
      "stations": [
       {
        "name": "Eilo Trance Radio",
+       "active": 0,
        "url": "http://eilo.org:8000/trance"
       },
       {
        "name": "EILO Trance Radio",
+       "active": 0,
        "url": "http://stream.eilo.org:8000/trance",
        "tags": [
         "electronic",
@@ -5038,6 +5643,7 @@
       },
       {
        "name": "Mixotic",
+       "active": 0,
        "url": "http://eilo.org:8000/mixotic",
        "tags": [
         "trance_goa",
@@ -5048,6 +5654,7 @@
       },
       {
        "name": "Radio 33 Psy and Goa",
+       "active": 0,
        "url": "http://radio33.org:8140/radio33",
        "tags": [
         "chillout_lounge",
@@ -5057,6 +5664,7 @@
       },
       {
        "name": "Radio Maxx Fm",
+       "active": 0,
        "url": "http://play.radiomaxxfm.com:8000/maxx"
       }
      ]
@@ -5066,14 +5674,17 @@
      "stations": [
       {
        "name": "BNR Radio Bulgaria",
+       "active": 0,
        "url": "http://stream.bnr.bg:8005/sofia.mp3"
       },
       {
        "name": "BNR Radio Sofia",
+       "active": 0,
        "url": "http://lb.blb.cdn.bg:2032/fls/Horizont.stream/playlist.m3u8"
       },
       {
        "name": "city64",
+       "active": 0,
        "url": "http://stream.radioreklama.bg/city64",
        "bitrate": 48,
        "logo": "http://radio.pervii.com/logo/1436097092.png",
@@ -5082,6 +5693,7 @@
       },
       {
        "name": "nrj64",
+       "active": 0,
        "url": "http://stream.radioreklama.bg/nrj64",
        "bitrate": 48,
        "logo": "http://radio.pervii.com/im/0/1563677630.jpg",
@@ -5091,25 +5703,30 @@
       },
       {
        "name": "Radio Party Mix BG",
+       "active": 0,
        "url": "http://79.98.108.170:8256/stream",
        "language_inferred": true
       },
       {
        "name": "Radio PetarDanov",
+       "active": 0,
        "url": "http://79.98.108.170:8152/stream",
        "language_inferred": true
       },
       {
        "name": "Radio Ritmo Mix",
+       "active": 0,
        "url": "http://live.radioritmo.eu:8090/stream.mp3"
       },
       {
        "name": "Radio River FM",
+       "active": 0,
        "url": "http://94.139.215.46:88/broadwave.asx?src=1&ampkbps=256",
        "language_inferred": true
       },
       {
        "name": "Радио Хеликон",
+       "active": 0,
        "url": "http://radio.helikon.bg:9000/live_128",
        "country_inferred": true,
        "language_inferred": true,
@@ -5123,14 +5740,17 @@
      "stations": [
       {
        "name": "Radio Focus Veliko Turnovo",
+       "active": 0,
        "url": "http://online.focus-radio.net:8100/vt"
       },
       {
        "name": "Radio Nova News",
+       "active": 0,
        "url": "http://149.13.0.80/novanews.ogg"
       },
       {
        "name": "Radio Sense",
+       "active": 0,
        "url": "http://listen.radiosense.bg:8003/sense",
        "tags": [
         "world",
@@ -5141,6 +5761,7 @@
       },
       {
        "name": "Radio Veronika",
+       "active": 0,
        "url": "https://play.global.audio/veronika64",
        "tags": [
         "world",
@@ -5151,10 +5772,12 @@
       },
       {
        "name": "Radiotochka BG",
+       "active": 0,
        "url": "http://212.233.253.48:8987/streamstream"
       },
       {
        "name": "Taganka",
+       "active": 0,
        "url": "https://streaming.radio.co/se0886fc22/listen"
       }
      ]
@@ -5164,127 +5787,152 @@
      "stations": [
       {
        "name": "24 Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/dncac346yf9uv",
        "language_inferred": true
       },
       {
        "name": "6 etaj Zlatica",
+       "active": 0,
        "url": "https://stream.zeno.fm/61cnypkvxd0uv",
        "language_inferred": true
       },
       {
        "name": "All In One Music Radio",
+       "active": 0,
        "url": "http://streaming.radionomy.com/JamendoLounge?lang=en-US,enq=0.9,esq=0.8",
        "language_inferred": true
       },
       {
        "name": "Allans station",
+       "active": 0,
        "url": "https://stream.zeno.fm/wsr598wzerquv",
        "language_inferred": true
       },
       {
        "name": "Anime Paradise Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/zmmtutsfhf9uv",
        "language_inferred": true
       },
       {
        "name": "Artistocrat Online Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/pvdomo7mjgvuv",
        "language_inferred": true
       },
       {
        "name": "Auto Exotic",
+       "active": 0,
        "url": "https://stream.zeno.fm/20ggna9y1ehvv",
        "language_inferred": true
       },
       {
        "name": "AYA Music",
+       "active": 0,
        "url": "https://stream.zeno.fm/7be04eegephvv",
        "language_inferred": true
       },
       {
        "name": "BadRock Classic Rock",
+       "active": 0,
        "url": "https://play-radio0.jump.bg:7489/live?n=6c99d24848642f8e59c1",
        "language_inferred": true
       },
       {
        "name": "BadRock Classic Rock – Dimitrovgrad – BG-09",
+       "active": 0,
        "url": "https://eu1.reliastream.com/proxy/badrockclassicrock?mp=/stream",
        "language_inferred": true
       },
       {
        "name": "BadRock Hard & Heavy – Sofia – Sofia-Capital – BG",
+       "active": 0,
        "url": "https://eu1.reliastream.com/proxy/badrockhard?mp=/stream",
        "language_inferred": true
       },
       {
        "name": "BadRock Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/aw5p43cyra0uv",
        "language_inferred": true
       },
       {
        "name": "BadRock Radio Hard",
+       "active": 0,
        "url": "https://stream.zeno.fm/sg0k2yersnhvv",
        "language_inferred": true
       },
       {
        "name": "BadRock Radio – Sofia – Sofia-Capital – BG",
+       "active": 0,
        "url": "https://eu1.reliastream.com/proxy/badrocknational?mp=/stream",
        "language_inferred": true
       },
       {
        "name": "baptistbg",
+       "active": 0,
        "url": "https://stream.zeno.fm/fkb438hbxa0uv",
        "language_inferred": true
       },
       {
        "name": "BG HIP HOP RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/d49ugbf9s18uv",
        "language_inferred": true
       },
       {
        "name": "BG Radio",
+       "active": 0,
        "url": "https://25483.live.streamtheworld.com/BG_RADIOAAC_L.aac",
        "language_inferred": true
       },
       {
        "name": "BG Radio",
+       "active": 0,
        "url": "http://stream.metacast.eu/bgradio128",
        "language_inferred": true,
        "rb": "eae5ec5b-bf87-48fb-b21c-dcf0658efa38"
       },
       {
        "name": "BG Radio",
+       "active": 0,
        "url": "http://149.13.0.80/bgradio.ogg",
        "language_inferred": true
       },
       {
        "name": "BG-GAMER",
+       "active": 0,
        "url": "https://stream.zeno.fm/knk7te3chfhvv",
        "language_inferred": true
       },
       {
        "name": "BILLIE BOUNCE FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/a0wc5wanc18uv",
        "language_inferred": true
       },
       {
        "name": "Binar  Duende - Бинар Дуенде",
+       "active": 0,
        "url": "http://lb-hls.cdn.bg/2003/fls/BINAR-Duende.stream/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "Binar Funk Soul",
+       "active": 0,
        "url": "https://edge17.cdn.bg:20030/fls/BINAR-Indie.stream/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "Black Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/564dqzs8vp8uv",
        "language_inferred": true
       },
       {
        "name": "BNR Horizont",
+       "active": 0,
        "url": "https://play.global.audio/testb.aac?dist=RADIOPLAY?n=47241a1cc24041e5cf95",
        "language_inferred": true,
        "rb": "479f7f2f-5e2d-4550-a49d-be5eb577749f",
@@ -5292,131 +5940,158 @@
       },
       {
        "name": "BNR Radio BINAR-Indie",
+       "active": 0,
        "url": "https://lb-hls.cdn.bg/2003/fls/BINAR-Indie.stream/playlist.m3u8"
       },
       {
        "name": "BNR Radio Plovdiv",
+       "active": 0,
        "url": "http://62.204.136.202:28/live128"
       },
       {
        "name": "BNR Radio Plovdiv – BG-06",
+       "active": 0,
        "url": "http://62.204.136.202:28/live128.m3u",
        "language_inferred": true
       },
       {
        "name": "BNR Radio Shumen - Радио Шумен",
+       "active": 0,
        "url": "https://e106-ts.cdn.bg/regstations/fls/Shumen.stream/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "BNR Radio Stara Zagora",
+       "active": 0,
        "url": "http://82.103.99.99:8000/radiosz-low"
       },
       {
        "name": "BNR Radio Stara Zagora – 88.3 FM – Stara Zagora – BG",
+       "active": 0,
        "url": "http://82.103.99.99:8000/radiosz-low.m3u",
        "language_inferred": true
       },
       {
        "name": "BNR Radio Varna – BG-03",
+       "active": 0,
        "url": "http://broadcast.masters.bg:8000/live.m3u",
        "language_inferred": true
       },
       {
        "name": "BNR Radio Vidin – Vidin – BG",
+       "active": 0,
        "url": "http://89.106.110.85:8000/listen.pls",
        "language_inferred": true
       },
       {
        "name": "BNR Varna",
+       "active": 0,
        "url": "http://stream.bnr.bg:8031/radio-varna.aac"
       },
       {
        "name": "Bogdan_XT",
+       "active": 0,
        "url": "https://stream.zeno.fm/gmdqh85qyhhvv",
        "language_inferred": true
       },
       {
        "name": "Borovets",
+       "active": 0,
        "url": "https://stream.zeno.fm/he9hrwrkcc9uv",
        "language_inferred": true
       },
       {
        "name": "BoyceAvenye",
+       "active": 0,
        "url": "https://stream.zeno.fm/t5v6humte1muv",
        "language_inferred": true
       },
       {
        "name": "Braille FM",
+       "active": 0,
        "url": "https://radio.jump.bg:7181/live",
        "language_inferred": true,
        "rb": "0c5c526f-d09f-49d7-89c6-4e82fe55b470"
       },
       {
        "name": "Bratq Romables",
+       "active": 0,
        "url": "https://stream.zeno.fm/bc6bb8zmephvv",
        "language_inferred": true
       },
       {
        "name": "BRSRadio",
+       "active": 0,
        "url": "http://130.61.23.153:81/listen/brsradio/radio.mp3",
        "language_inferred": true
       },
       {
        "name": "BRSRECORDS Radio Station",
+       "active": 0,
        "url": "https://stream.zeno.fm/b0c7u662kg8uv",
        "language_inferred": true
       },
       {
        "name": "BulgarianPower Radio",
+       "active": 0,
        "url": "https://node-34.zeno.fm/vg6e50wa3k0uv?rj-ttl=5&rj-tok=AAABdl1j97YAnv3WCi9pk6JjlQ"
       },
       {
        "name": "BulgarianPower Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/hc5px0wa3k0uv",
        "language_inferred": true
       },
       {
        "name": "Bumerang FM",
+       "active": 0,
        "url": "http://185.20.88.1:8010/stream.mp3"
       },
       {
        "name": "Burgas House Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/k3swz5cqn2zuv",
        "language_inferred": true
       },
       {
        "name": "C-BG Radio",
+       "active": 0,
        "url": "http://46.40.126.56:8000/"
       },
       {
        "name": "C-BG Radio – Sofia – Sofia-Capital – BG",
+       "active": 0,
        "url": "http://46.40.126.56:8000/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Caliente",
+       "active": 0,
        "url": "https://stream.zeno.fm/qnvmqzty0f8uv",
        "language_inferred": true
       },
       {
        "name": "Chichovci",
+       "active": 0,
        "url": "https://stream.zeno.fm/9mpdvah5tchvv",
        "language_inferred": true
       },
       {
        "name": "City HipHop R&B",
+       "active": 0,
        "url": "https://play.global.audio/cityrab.aac?dist=RADIOPLAY",
        "rb": "5912285f-4424-49e8-bb24-9fe9a456891b",
        "logo": "https://www.radioplay.bg/assets/logos/cityrab.png"
       },
       {
        "name": "City K-Pop",
+       "active": 0,
        "url": "https://play.global.audio/citykpop.aac?dist=RADIOPLAY",
        "language_inferred": true
       },
       {
        "name": "City Latin",
+       "active": 0,
        "url": "https://play.global.audio/citylatin.aac?dist=RADIOPLAY",
        "language_inferred": true,
        "rb": "a149f4b4-db63-4c6b-ab20-b6f9296d0eb6",
@@ -5424,366 +6099,439 @@
       },
       {
        "name": "Cool G",
+       "active": 0,
        "url": "https://stream.zeno.fm/kuurskxqkkhvv",
        "language_inferred": true
       },
       {
        "name": "Coool aa",
+       "active": 0,
        "url": "https://stream.zeno.fm/8ycasqf68nhvv",
        "language_inferred": true
       },
       {
        "name": "Coordinissimo",
+       "active": 0,
        "url": "https://stream.zeno.fm/2mh90rrv0p8uv",
        "language_inferred": true
       },
       {
        "name": "CrossFire International Rap",
+       "active": 0,
        "url": "https://stream.zeno.fm/b091dpmcby8uv",
        "language_inferred": true
       },
       {
        "name": "Crynfo Station",
+       "active": 0,
        "url": "http://streaming.shoutcast.com/CRYNFO?lang=en-US",
        "language_inferred": true
       },
       {
        "name": "CS FM BG",
+       "active": 0,
        "url": "https://stream.zeno.fm/cuhuefziqwftv",
        "language_inferred": true
       },
       {
        "name": "cumdragon",
+       "active": 0,
        "url": "https://stream.zeno.fm/p0yu1ds1wc9uv",
        "language_inferred": true
       },
       {
        "name": "Dance Size",
+       "active": 0,
        "url": "http://streaming.radionomy.com/DanceSize",
        "language_inferred": true
       },
       {
        "name": "DanPen Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/guy9zhz3sxhvv",
        "language_inferred": true
       },
       {
        "name": "DG RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/zg70aakc468uv",
        "language_inferred": true
       },
       {
        "name": "Direct Streaming",
+       "active": 0,
        "url": "https://stream.zeno.fm/e6gntv4xbphvv",
        "language_inferred": true
       },
       {
        "name": "Divsto Radio",
+       "active": 0,
        "url": "http://ivorpi.duckdns.org:8000/mpd",
        "language_inferred": true
       },
       {
        "name": "dixiklo-servers",
+       "active": 0,
        "url": "https://stream.zeno.fm/pbyc7d798f0uv",
        "language_inferred": true
       },
       {
        "name": "Dixiklo-Servers",
+       "active": 0,
        "url": "https://stream.zeno.fm/y333ba4bt18uv",
        "language_inferred": true
       },
       {
        "name": "DJ GEORGI",
+       "active": 0,
        "url": "https://stream.zeno.fm/gtnrp3ece2zuv",
        "language_inferred": true
       },
       {
        "name": "DJ Radio Zareti – Sofia – Sofia-Capital – BG",
+       "active": 0,
        "url": "https://servidor38.brlogic.com:7166/live?identifier=mytuner-radio&source=9066",
        "language_inferred": true
       },
       {
        "name": "DJ SOLOMUN",
+       "active": 0,
        "url": "https://stream.zeno.fm/r6nrzlcy22ivv",
        "language_inferred": true
       },
       {
        "name": "Dj Speed",
+       "active": 0,
        "url": "https://stream.zeno.fm/tsa55d5n5ehvv",
        "language_inferred": true
       },
       {
        "name": "DS Chalga FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/vus4c5tfdc9uv",
        "language_inferred": true
       },
       {
        "name": "DS Dance FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/x8fxa2tfdc9uv",
        "language_inferred": true
       },
       {
        "name": "DSC SOFIA -  BG RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/svaag81sp68uv",
        "language_inferred": true
       },
       {
        "name": "DSC SOFIA -  Jazz Radio Station",
+       "active": 0,
        "url": "https://stream.zeno.fm/ed8tfttsp68uv",
        "language_inferred": true
       },
       {
        "name": "DSC Sofia -  Training Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/qdp817vsp68uv",
        "language_inferred": true
       },
       {
        "name": "DSC SOFIA - RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/3f32mrpng48uv",
        "language_inferred": true
       },
       {
        "name": "DYNAMICO",
+       "active": 0,
        "url": "https://stream.zeno.fm/buvipazqj9qvv",
        "language_inferred": true
       },
       {
        "name": "DYNAMICO15",
+       "active": 0,
        "url": "https://stream.zeno.fm/xaslzl0ugnytv",
        "language_inferred": true
       },
       {
        "name": "Easy Radio Bulgaria",
+       "active": 0,
        "url": "https://live.easyradio.bg/flac",
        "language_inferred": true,
        "rb": "e1d2791a-9d9c-4c87-911e-0a953b835205"
       },
       {
        "name": "Electra Bulgaria",
+       "active": 0,
        "url": "https://stream.zeno.fm/rv59re9h5ehvv",
        "language_inferred": true
       },
       {
        "name": "Elite Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/caakz1nsty8uv",
        "language_inferred": true
       },
       {
        "name": "Evelyn",
+       "active": 0,
        "url": "https://stream.zeno.fm/87kgs69rruhvv",
        "language_inferred": true
       },
       {
        "name": "Evergreen",
+       "active": 0,
        "url": "https://stream.zeno.fm/olkaiydbvebtv",
        "language_inferred": true
       },
       {
        "name": "Evil Never Sleep",
+       "active": 0,
        "url": "https://stream.zeno.fm/dvpffu930xhvv",
        "language_inferred": true
       },
       {
        "name": "EvilNeverSleep",
+       "active": 0,
        "url": "https://stream.zeno.fm/ywunwdf50xhvv",
        "language_inferred": true
       },
       {
        "name": "Evolute",
+       "active": 0,
        "url": "https://stream.zeno.fm/hpkpkmrmkpavv",
        "language_inferred": true
       },
       {
        "name": "Feelings Radio",
+       "active": 0,
        "url": "http://95.217.48.53:9074/",
        "language_inferred": true
       },
       {
        "name": "FITNESS RADIO BULGARIA",
+       "active": 0,
        "url": "https://stream.zeno.fm/kad46cg98a0uv",
        "language_inferred": true
       },
       {
        "name": "focus",
+       "active": 0,
        "url": "https://focusradio.dataserv.cc/1?n=3b5087326acb0d846e0c",
        "rb": "36968279-b491-4b4f-a0bd-8fd5e5ea18ce",
        "logo": "https://top-radio.ru/assets/image/radio/180/focusbg.png"
       },
       {
        "name": "Folk Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/jjyf56ahdsquv",
        "language_inferred": true
       },
       {
        "name": "Folk Radio Cult",
+       "active": 0,
        "url": "http://play.folkradiocult.net:8198/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Folklorno radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/6m3r5acrcphvv",
        "language_inferred": true
       },
       {
        "name": "Forbidden",
+       "active": 0,
        "url": "https://stream.zeno.fm/bxqrdtekakhvv",
        "language_inferred": true
       },
       {
        "name": "FRED FILM RADIO Bulgarian",
+       "active": 0,
        "url": "http://s6.webradio-hosting.com:8016/"
       },
       {
        "name": "Friends Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/72c3vrhpug0uv",
        "language_inferred": true
       },
       {
        "name": "Front Yard Crips",
+       "active": 0,
        "url": "https://stream.zeno.fm/uqu39d5guuhvv",
        "language_inferred": true
       },
       {
        "name": "GABROVO INFO",
+       "active": 0,
        "url": "https://stream.zeno.fm/n5dctvt0qg0uv",
        "language_inferred": true
       },
       {
        "name": "ghibatest",
+       "active": 0,
        "url": "https://stream.zeno.fm/gvorzrl1cf1tv",
        "language_inferred": true
       },
       {
        "name": "Goce Delchev Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/mpw1gu4h738uv",
        "language_inferred": true
       },
       {
        "name": "Green Rock Fest Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/wh8pa6c00ehvv",
        "language_inferred": true
       },
       {
        "name": "GreeningSiren Radio",
+       "active": 0,
        "url": "http://node-28.zeno.fm/vc9764zg4p8uv",
        "language_inferred": true
       },
       {
        "name": "GURUFM",
+       "active": 0,
        "url": "https://stream.zeno.fm/b7p7dntyhchvv",
        "language_inferred": true
       },
       {
        "name": "Hard Rock Treasures",
+       "active": 0,
        "url": "https://stream.zeno.fm/pbhhuturkxhvv",
        "language_inferred": true
       },
       {
        "name": "Hit FM Bulgaria",
+       "active": 0,
        "url": "http://play.hitfmbg.com:8000/hitfm-high",
        "language_inferred": true
       },
       {
        "name": "Hit FM Bulgaria",
+       "active": 0,
        "url": "http://play.hitfmbg.com:8000/hitfm-low",
        "language_inferred": true
       },
       {
        "name": "Hit Radio Relax Dance",
+       "active": 0,
        "url": "http://79.98.108.170:8060/stream.mp3"
       },
       {
        "name": "Horizont Bnr",
+       "active": 0,
        "url": "https://e106-ts.cdn.bg/regstations/fls/Horizont.stream/chunklist.m3u8",
        "language_inferred": true
       },
       {
        "name": "Hot Hits FM – BG",
+       "active": 0,
        "url": "https://lowstream.hothitsfm.com/stream",
        "language_inferred": true
       },
       {
        "name": "HotNew",
+       "active": 0,
        "url": "https://node-22.zeno.fm/u3a7qxqz1a0uv.aac",
        "language_inferred": true
       },
       {
        "name": "HotNew",
+       "active": 0,
        "url": "https://stream.zeno.fm/u3a7qxqz1a0uv",
        "language_inferred": true
       },
       {
        "name": "Hustlaz",
+       "active": 0,
        "url": "https://stream.zeno.fm/1hr04rkk4zhvv",
        "language_inferred": true
       },
       {
        "name": "InBoX_FoX",
+       "active": 0,
        "url": "https://stream.zeno.fm/nsiuxkgmykmuv",
        "language_inferred": true
       },
       {
        "name": "Intriga",
+       "active": 0,
        "url": "https://stream.zeno.fm/emdcmcmktuhvv",
        "language_inferred": true
       },
       {
        "name": "ISUS E HRISTOS",
+       "active": 0,
        "url": "https://stream.zeno.fm/quzmnsc95nhvv",
        "language_inferred": true
       },
       {
        "name": "ISUS E PUTQT ISTINATA I JIVOTA",
+       "active": 0,
        "url": "https://stream.zeno.fm/zl3xh1powsbvv",
        "language_inferred": true
       },
       {
        "name": "IvakabbyFM",
+       "active": 0,
        "url": "https://stream.zeno.fm/ysxgigkiw8nvv",
        "language_inferred": true
       },
       {
        "name": "Ivakamix",
+       "active": 0,
        "url": "https://stream.zeno.fm/ljrgm6oouayuv",
        "language_inferred": true
       },
       {
        "name": "JimmyHill",
+       "active": 0,
        "url": "https://stream.zeno.fm/ts02ed8pduhvv",
        "language_inferred": true
       },
       {
        "name": "JimmyRocks",
+       "active": 0,
        "url": "https://stream.zeno.fm/pwngqwtneuhvv",
        "language_inferred": true
       },
       {
        "name": "JL radio bg",
+       "active": 0,
        "url": "https://stream.zeno.fm/kuufctjsnvvvv",
        "language_inferred": true
       },
       {
        "name": "Karucar Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/s9mcn79gf0hvv",
        "language_inferred": true
       },
       {
        "name": "Kenvelo Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/2s6zgwk2ekhvv",
        "language_inferred": true
       },
       {
        "name": "Kiss",
+       "active": 0,
        "url": "https://bss2.neterra.tv/kiss/kiss_0.m3u8?n=7d8916287fa3908645f5",
        "language_inferred": true
       },
       {
        "name": "KM STUDIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/gguvrkbevnhvv",
        "language_inferred": true
       },
       {
        "name": "KOLEDNOTO RADIO",
+       "active": 0,
        "url": "https://play.global.audio/radio1-koleda.aac?n=a63918e9a2782178563e",
        "language_inferred": true,
        "rb": "39cabfcd-4a82-4b69-ad2f-92d402818975",
@@ -5791,209 +6539,251 @@
       },
       {
        "name": "KriBulgraria",
+       "active": 0,
        "url": "https://stream.zeno.fm/15t73dknq18uv",
        "language_inferred": true
       },
       {
        "name": "Last Amateur Online Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/ays66gp6aa9uv",
        "language_inferred": true
       },
       {
        "name": "Lele Male",
+       "active": 0,
        "url": "http://79.98.108.170:8332/stream.mp3?n=b6f666ae49553f417a7f",
        "language_inferred": true
       },
       {
        "name": "Localradio",
+       "active": 0,
        "url": "https://stream.zeno.fm/3xvu4e16v0hvv",
        "language_inferred": true
       },
       {
        "name": "LocaMaina",
+       "active": 0,
        "url": "https://stream.zeno.fm/kescygnk7f0uv",
        "language_inferred": true
       },
       {
        "name": "LS Fantasy",
+       "active": 0,
        "url": "http://85.91.154.91:8000/live",
        "language_inferred": true
       },
       {
        "name": "Magic Party",
+       "active": 0,
        "url": "https://bss2.neterra.tv/magicparty/index.m3u8",
        "language_inferred": true
       },
       {
        "name": "Mahlenskoto FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/bsnxkb267zhvv",
        "language_inferred": true
       },
       {
        "name": "Maxx FM Bulgaria",
+       "active": 0,
        "url": "https://play.radiomaxxfm.com:8000/maxx-high.m3u"
       },
       {
        "name": "Maxx FM – Sofia – Sofia-Capital – BG",
+       "active": 0,
        "url": "https://play.zwebsolutions.eu:8834/maxx-lo",
        "language_inferred": true
       },
       {
        "name": "MD Folk",
+       "active": 0,
        "url": "https://stream.zeno.fm/hxn3raxs008uv",
        "language_inferred": true
       },
       {
        "name": "Metro DANCE Radio",
+       "active": 0,
        "url": "https://eu1.reliastream.com/proxy/mdr?mp=/MDR?n=cd3427ffe5f2065e0ba0"
       },
       {
        "name": "Metro Dance Radio",
+       "active": 0,
        "url": "http://5.63.151.52:7017/MDR"
       },
       {
        "name": "Metro Dance Xtra Radio – Sofia – Sofia-Capital – BG",
+       "active": 0,
        "url": "https://eu1.reliastream.com/proxy/metroplusa?mp=/MDRXTRA",
        "language_inferred": true
       },
       {
        "name": "Metro Groove Radio",
+       "active": 0,
        "url": "https://eu1.reliastream.com/stream/feedc.pls?mp=/MGR64",
        "language_inferred": true
       },
       {
        "name": "Metro Hits Radio",
+       "active": 0,
        "url": "https://eu1.reliastream.com/proxy/feeda?mp=/MHR64",
        "language_inferred": true
       },
       {
        "name": "Metro HITS Radio",
+       "active": 0,
        "url": "https://eu1.reliastream.com/proxy/mhr?mp=/MHR?n=c34b404131a4d1716833"
       },
       {
        "name": "Metro Love 2k Radio – Sofia – Sofia-Capital – BG",
+       "active": 0,
        "url": "https://eu1.reliastream.com/proxy/metroplusc?mp=/MLR2K",
        "language_inferred": true,
        "rb": "55829f8a-368b-493c-85fe-baa9065412a8"
       },
       {
        "name": "Metro Love 70’s Radio – Sofia – Sofia-Capital – BG",
+       "active": 0,
        "url": "https://eu1.reliastream.com/proxy/metroplusb?mp=/MLR70S",
        "language_inferred": true
       },
       {
        "name": "Metro Love Radio",
+       "active": 0,
        "url": "https://eu1.reliastream.com/proxy/feedb?mp=/MLR64",
        "language_inferred": true
       },
       {
        "name": "Metro Virtuoso Radio",
+       "active": 0,
        "url": "https://eu1.reliastream.com/proxy/mvr?mp=%2FMVR",
        "language_inferred": true
       },
       {
        "name": "Metrocast - Metro Virtuoso",
+       "active": 0,
        "url": "http://eu1.reliastream.com/proxy/feedc?mp=/MVR64",
        "language_inferred": true
       },
       {
        "name": "Metronom",
+       "active": 0,
        "url": "https://stream.zeno.fm/actzg7aua2zuv",
        "language_inferred": true
       },
       {
        "name": "MidNigh RP - Chalga Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/zkn96pcgffhvv",
        "language_inferred": true
       },
       {
        "name": "Midnight Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/1ydfteq5h0hvv",
        "language_inferred": true
       },
       {
        "name": "Miroslava",
+       "active": 0,
        "url": "https://stream.zeno.fm/vy8xfryg838uv",
        "language_inferred": true
       },
       {
        "name": "MishelFm",
+       "active": 0,
        "url": "https://stream.zeno.fm/n2ap8w7xgxhvv",
        "language_inferred": true
       },
       {
        "name": "MIXX",
+       "active": 0,
        "url": "http://83.97.65.98:9000/Title1=Radio",
        "rb": "96165981-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "Mixx",
+       "active": 0,
        "url": "http://83.97.65.98:9000/listen.pls",
        "language_inferred": true,
        "rb": "46f0d102-59a6-11e8-b0ce-52543be04c81"
       },
       {
        "name": "Music FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/u2kr5vmb8ehvv",
        "language_inferred": true
       },
       {
        "name": "Music.it",
+       "active": 0,
        "url": "https://stream.zeno.fm/2uz9t8270xhvv",
        "language_inferred": true
       },
       {
        "name": "my-test",
+       "active": 0,
        "url": "https://stream.zeno.fm/q577vfd4wv8uv",
        "language_inferred": true
       },
       {
        "name": "NADEGDA",
+       "active": 0,
        "url": "https://stream.zeno.fm/udrvatve4v8uv",
        "language_inferred": true
       },
       {
        "name": "NIGHT FISHES",
+       "active": 0,
        "url": "https://stream.zeno.fm/dmmgtepge18uv",
        "language_inferred": true
       },
       {
        "name": "Nightshift Podcast",
+       "active": 0,
        "url": "https://stream.zeno.fm/gvepcgh0ng8uv",
        "language_inferred": true
       },
       {
        "name": "NJOY Summer Mood",
+       "active": 0,
        "url": "https://bravo.btv.bg/radio/njoy-radio-proxy/index.php",
        "language_inferred": true
       },
       {
        "name": "NJS Radio - New Jack Swing",
+       "active": 0,
        "url": "http://162.244.80.106:11198/",
        "language_inferred": true
       },
       {
        "name": "Note FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/ffurhnrmwy8uv",
        "language_inferred": true
       },
       {
        "name": "Note FM - Old Edition",
+       "active": 0,
        "url": "https://stream.zeno.fm/tcz71mabt18uv",
        "language_inferred": true
       },
       {
        "name": "Note FM Bulgaria",
+       "active": 0,
        "url": "https://stream.zeno.fm/qgtheremwy8uv",
        "language_inferred": true
       },
       {
        "name": "Nova News 95.7",
+       "active": 0,
        "url": "https://play.global.audio/novanews.mp3",
        "language_inferred": true
       },
       {
        "name": "NovaNews Bulgaria",
+       "active": 0,
        "url": "https://play.global.audio/novanews.aac?n=a2793ee66cdddfa7e4cc",
        "language_inferred": true,
        "rb": "e8ac22a4-b9ee-47cd-b386-b393f834dab2",
@@ -6001,218 +6791,263 @@
       },
       {
        "name": "Old Skull Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/2kx74br2ud0uv",
        "language_inferred": true
       },
       {
        "name": "Online Obuchenie OTKRIVANE",
+       "active": 0,
        "url": "https://stream.zeno.fm/xup047462d0uv",
        "language_inferred": true
       },
       {
        "name": "Orthodox Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/yrwagrcebkhvv",
        "language_inferred": true
       },
       {
        "name": "Otaku club Kazanluk",
+       "active": 0,
        "url": "https://stream.zeno.fm/qzah00wehfhvv",
        "language_inferred": true
       },
       {
        "name": "Pink Folk Retro",
+       "active": 0,
        "url": "https://stream.zeno.fm/ftpyesdsic1tv",
        "language_inferred": true
       },
       {
        "name": "Play Radio",
+       "active": 0,
        "url": "https://playradio.bg:8898/stream",
        "language_inferred": true
       },
       {
        "name": "Power FM",
+       "active": 0,
        "url": "http://a2.virtualradio.eu:8000/powerfm.mp3",
        "language_inferred": true
       },
       {
        "name": "Power FM Lounge",
+       "active": 0,
        "url": "https://lounge.powerfm.bg:28001/live"
       },
       {
        "name": "PSY Trance MANIA",
+       "active": 0,
        "url": "https://stream.zeno.fm/w1v2pz46dkhvv",
        "language_inferred": true
       },
       {
        "name": "Putin Talks BGLSRP",
+       "active": 0,
        "url": "https://stream.zeno.fm/aqb53mwh9x8uv",
        "language_inferred": true
       },
       {
        "name": "qwertyradio",
+       "active": 0,
        "url": "https://stream.zeno.fm/6r5vw360tchvv",
        "language_inferred": true
       },
       {
        "name": "R.S.C. - Rotativo",
+       "active": 0,
        "url": "https://stream.zeno.fm/f1vanou03v6uv",
        "language_inferred": true
       },
       {
        "name": "Radio 33 Electro Esthetica",
+       "active": 0,
        "url": "http://radio33.org:8170/radio33?type=.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio 33 House",
+       "active": 0,
        "url": "http://radio33.org:8100/radio33?type=.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio Astra Plus",
+       "active": 0,
        "url": "https://play-radio0.jump.bg:7260/live"
       },
       {
        "name": "Radio Atlantic BG",
+       "active": 0,
        "url": "http://79.98.108.192:8000/atlantic_autodj",
        "language_inferred": true
       },
       {
        "name": "Radio Atlantic – BG-06",
+       "active": 0,
        "url": "http://c26.radioboss.fm:8187/stream",
        "language_inferred": true
       },
       {
        "name": "Radio Audi",
+       "active": 0,
        "url": "https://stream.zeno.fm/aijm5qiwzgatv",
        "language_inferred": true
       },
       {
        "name": "Radio Aurea",
+       "active": 0,
        "url": "http://93.123.123.7:8000/stream",
        "language_inferred": true
       },
       {
        "name": "Radio AUREA 90.4 FM",
+       "active": 0,
        "url": "http://93.123.123.7:8000/stream/1"
       },
       {
        "name": "Radio Barbayani Dance",
+       "active": 0,
        "url": "https://stream.zeno.fm/07t19tae9x8uv",
        "language_inferred": true
       },
       {
        "name": "Radio Barbayani Greece",
+       "active": 0,
        "url": "https://stream.zeno.fm/9y5xdwexbg8uv",
        "language_inferred": true
       },
       {
        "name": "Radio Barbayani Serbia",
+       "active": 0,
        "url": "https://stream.zeno.fm/fsc5q3yna78uv",
        "language_inferred": true
       },
       {
        "name": "Radio Barbayani TruckersMP",
+       "active": 0,
        "url": "https://stream.zeno.fm/9adrrcqvbg8uv",
        "language_inferred": true
       },
       {
        "name": "Radio Bella 90.2 FM",
+       "active": 0,
        "url": "http://194.146.235.35:9999/stream/1"
       },
       {
        "name": "Radio Berkk-M",
+       "active": 0,
        "url": "http://178.254.209.20:800/radioberkk.mp3?type=.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio Bizonio",
+       "active": 0,
        "url": "http://keepone.net/gtstrm/get123.php?surl=https://bizonio.radiostream321.com/",
        "language_inferred": true
       },
       {
        "name": "Radio Blagoevgrad",
+       "active": 0,
        "url": "http://edge13.cdn.bg:2032/fls/Blagoevgrad.stream/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "Radio Botevgrad",
+       "active": 0,
        "url": "https://stream.zeno.fm/q2wq1sgnq18uv",
        "language_inferred": true
       },
       {
        "name": "Radio Burgas",
+       "active": 0,
        "url": "https://edge17.cdn.bg:20320/fls/Burgas.stream/chunklist_w20670865.m3u8",
        "language_inferred": true
       },
       {
        "name": "Radio City",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_CITYAAC_L.aac?dist=RADIOPLAY",
        "language_inferred": true
       },
       {
        "name": "Radio Club Sophia",
+       "active": 0,
        "url": "http://radio1.streamhood.org:8002/"
       },
       {
        "name": "Radio Contact",
+       "active": 0,
        "url": "https://listen.radioking.com/radio/490082/stream/546899",
        "language_inferred": true,
        "rb": "cb177161-202d-4895-865d-07333927f41d"
       },
       {
        "name": "Radio Cuba",
+       "active": 0,
        "url": "https://stream.zeno.fm/19qpe4qmky8uv",
        "language_inferred": true
       },
       {
        "name": "Radio Dance Power",
+       "active": 0,
        "url": "https://stream.zeno.fm/b8854bpnnrhvv",
        "language_inferred": true
       },
       {
        "name": "Radio Djedai",
+       "active": 0,
        "url": "http://79.98.108.170:8062/stream.mp3"
       },
       {
        "name": "Radio Dobrudja",
+       "active": 0,
        "url": "http://radio.dtp-bg.bg:8000/radiodobrudja"
       },
       {
        "name": "Radio Dream Paradise",
+       "active": 0,
        "url": "https://stream.zeno.fm/fuxu70b96nhvv",
        "language_inferred": true
       },
       {
        "name": "Radio Dream Paradise",
+       "active": 0,
        "url": "https://stream.zeno.fm/uy3s1kb96nhvv",
        "language_inferred": true
       },
       {
        "name": "Radio DYNAMICO",
+       "active": 0,
        "url": "https://stream-43.zeno.fm/awufbu7zm0hvv",
        "language_inferred": true
       },
       {
        "name": "Radio Dynamico",
+       "active": 0,
        "url": "https://stream-46.zeno.fm/da50d4fxqnhvv?zs=J0Phl3FyQTupBCpp3Ac1cw",
        "language_inferred": true
       },
       {
        "name": "Radio Eilo - Dubstep Radio",
+       "active": 0,
        "url": "http://eilo.org/dubstep"
       },
       {
        "name": "Radio Eilo - Minimal Radio",
+       "active": 0,
        "url": "http://eilo.org:8000/minimal"
       },
       {
        "name": "Radio El Shadai – BG",
+       "active": 0,
        "url": "https://node-03.zeno.fm/hku46gxdexquv?zs=NSpwzOEFRACPhFs3WwjB4Q&rj-tok=AAABf9XtAZ8ApSAC4IkfM-BZiQ&rj-ttl=5",
        "language_inferred": true
       },
       {
        "name": "Radio ENERGY - 00s Only",
+       "active": 0,
        "url": "http://play.global.audio/energy-00shi.aac",
        "language_inferred": true,
        "rb": "3c30a055-aaf9-438a-98c3-5d32a02bd1e5",
@@ -6220,6 +7055,7 @@
       },
       {
        "name": "Radio Energy Hits 2000",
+       "active": 0,
        "url": "https://play.global.audio/energy-00s.aac?dist=RADIOPLAY",
        "language_inferred": true,
        "rb": "f4cf9cc6-a62d-4cd7-b531-070e12ebaa69",
@@ -6227,120 +7063,146 @@
       },
       {
        "name": "Radio Euronews Bulgaria",
+       "active": 0,
        "url": "http://freeuk25.listen2myradio.com:8560/stream"
       },
       {
        "name": "Radio Focus Bourgas",
+       "active": 0,
        "url": "http://online.focus-radio.net:8100/bs"
       },
       {
        "name": "Radio Focus Kustendil",
+       "active": 0,
        "url": "http://online.focus-radio.net:8100/kn"
       },
       {
        "name": "Radio Focus Pirin",
+       "active": 0,
        "url": "http://online.focus-radio.net:8100/pirin"
       },
       {
        "name": "Radio Focus Plovdiv",
+       "active": 0,
        "url": "http://online.focus-radio.net:8100/pld",
        "language_inferred": true
       },
       {
        "name": "Radio Focus Shumen",
+       "active": 0,
        "url": "http://online.focus-radio.net:8100/shumen"
       },
       {
        "name": "Radio Focus Sliven",
+       "active": 0,
        "url": "http://online.focus-radio.net:8100/sliven"
       },
       {
        "name": "Radio Focus Smolian",
+       "active": 0,
        "url": "http://online.focus-radio.net:8100/smolian"
       },
       {
        "name": "Radio Focus Sofia – Sofia – Sofia-Capital – BG",
+       "active": 0,
        "url": "http://online.focus-radio.net:8100/sofia.m3u",
        "language_inferred": true
       },
       {
        "name": "Radio Focus Vidin",
+       "active": 0,
        "url": "http://online.focus-radio.net:8100/vidin"
       },
       {
        "name": "Radio For Music Lovers",
+       "active": 0,
        "url": "http://node-20.zeno.fm/xg8w82wf74zuv?rj-ttl=5&amprj-tok=AAABdoOixvgAAjh0sp9qojWWfQ",
        "language_inferred": true
       },
       {
        "name": "Radio Fox BG",
+       "active": 0,
        "url": "http://foxbg.net:8080/live",
        "language_inferred": true
       },
       {
        "name": "Radio Kesarevo",
+       "active": 0,
        "url": "https://stream.zeno.fm/t6sudsu00f8uv",
        "language_inferred": true
       },
       {
        "name": "Radio Lelemale (Леле Мале) – Sofia – Sofia-Capital – BG",
+       "active": 0,
        "url": "https://play-radio0.jump.bg:7332",
        "language_inferred": true
       },
       {
        "name": "radio Maia",
+       "active": 0,
        "url": "http://radiomaia.com/player/index.php?pl=winamp&c=%D0%A0%D0%B0%D0%B4%D0%B8%D0%BE%20%D0%9C%D0%B0%D1%8F%20%D0%91%D1%83%D1%80%D0%B3%D0%B0%D1%81?n=64b6274f41b9f912d1df",
        "language_inferred": true
       },
       {
        "name": "radio Maia",
+       "active": 0,
        "url": "http://radiomaia.com/player/index.php?pl=winamp\\u0026c=%D0%A0%D0%B0%D0%B4%D0%B8%D0%BE%20%D0%9C%D0%B0%D1%8F%20%D0%91%D1%83%D1%80%D0%B3%D0%B0%D1%81",
        "language_inferred": true
       },
       {
        "name": "Radio Maia",
+       "active": 0,
        "url": "http://mail.rntel.com:9000/stream.mp3"
       },
       {
        "name": "Radio Mega",
+       "active": 0,
        "url": "https://stream.zeno.fm/9ee9usjpzvbuv",
        "language_inferred": true
       },
       {
        "name": "Radio Mixx – BG-02",
+       "active": 0,
        "url": "http://83.97.65.98:9000/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio NOVA Bulgaria",
+       "active": 0,
        "url": "https://149.13.0.80/nova.ogg"
       },
       {
        "name": "Radio NOVA NEWS",
+       "active": 0,
        "url": "http://22603.live.streamtheworld.com:80/RADIO_NOVANEWSAAC_H_SC",
        "language_inferred": true
       },
       {
        "name": "Radio Nova Zagora",
+       "active": 0,
        "url": "http://80.253.48.162:8090/nova.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio ORV",
+       "active": 0,
        "url": "https://stream.zeno.fm/8a24ucrtnwzuv",
        "language_inferred": true
       },
       {
        "name": "Radio Party Mix",
+       "active": 0,
        "url": "http://play-radio9.jump.bg:8000/stream",
        "language_inferred": true
       },
       {
        "name": "Radio Pianica",
+       "active": 0,
        "url": "https://mpc.mediacp.eu/stream/djmackrandy/stream"
       },
       {
        "name": "Radio Pianica",
+       "active": 0,
        "url": "http://mpc1.mediacp.eu:8024/listen.pls?n=4ec77567e03d37d66a42",
        "language_inferred": true,
        "rb": "375229cb-2a6b-4814-a679-ff67cd72c236",
@@ -6348,112 +7210,135 @@
       },
       {
        "name": "Radio Pianica",
+       "active": 0,
        "url": "https://stream.zeno.fm/3td6uqsqzhhvv",
        "language_inferred": true
       },
       {
        "name": "Radio Pirgos",
+       "active": 0,
        "url": "https://stream.zeno.fm/kq6u17r9mg0uv",
        "language_inferred": true
       },
       {
        "name": "Radio Rezonans",
+       "active": 0,
        "url": "http://88.87.10.53:8000/*.ogg",
        "rb": "d56a3a82-e815-43c6-9d94-9a0f785f792c"
       },
       {
        "name": "Radio Ritmo Folk",
+       "active": 0,
        "url": "http://live.radioritmo.eu:8085",
        "language_inferred": true
       },
       {
        "name": "Radio Ritmo Mix",
+       "active": 0,
        "url": "http://live.radioritmo.eu:8090",
        "language_inferred": true
       },
       {
        "name": "Radio Ritmo Romantic",
+       "active": 0,
        "url": "http://live.radioritmo.eu:8080/stream.mp3"
       },
       {
        "name": "Radio Ruse",
+       "active": 0,
        "url": "http://radio.networx-bg.com:8012/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio Rythm",
+       "active": 0,
        "url": "https://stream.zeno.fm/owtmqgsjo20uv",
        "language_inferred": true
       },
       {
        "name": "Radio Shanel Bg",
+       "active": 0,
        "url": "http://79.98.108.170:8159/stream",
        "language_inferred": true
       },
       {
        "name": "Radio Slavia",
+       "active": 0,
        "url": "https://stream.zeno.fm/7w27b1f54d0uv",
        "language_inferred": true
       },
       {
        "name": "Radio Sun",
+       "active": 0,
        "url": "https://stream.zeno.fm/uvp5a2utmchvv",
        "language_inferred": true
       },
       {
        "name": "Radio tapajos es fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/n799f9n3mg8uv",
        "language_inferred": true
       },
       {
        "name": "Radio V 99 Goce Delchev",
+       "active": 0,
        "url": "http://onair.gp-net.bg:6688/listen.pls",
        "language_inferred": true
       },
       {
        "name": "Radio Vanka",
+       "active": 0,
        "url": "https://stream.zeno.fm/zwsq65w7f18uv",
        "language_inferred": true
       },
       {
        "name": "Radio Vega +",
+       "active": 0,
        "url": "http://88.80.96.25:3050/?1705023133784?n=f9231ab185b519c8bd06",
        "language_inferred": true
       },
       {
        "name": "Radio Vega Sandanski and Petrich",
+       "active": 0,
        "url": "http://88.80.96.25:8040/stream.mp3"
       },
       {
        "name": "Radio Veliko Tarnovo",
+       "active": 0,
        "url": "http://94.155.220.20:8002/"
       },
       {
        "name": "Radio Veliko Tarnovo - Радио Велико Търново",
+       "active": 0,
        "url": "http://195.34.121.140:8002/",
        "language_inferred": true
       },
       {
        "name": "Radio Venceremos",
+       "active": 0,
        "url": "http://79.98.108.170:8196/"
       },
       {
        "name": "Radio Veronika",
+       "active": 0,
        "url": "https://22193.live.streamtheworld.com/RADIO_VERONIKAAAC_L.aac",
        "language_inferred": true
       },
       {
        "name": "Radio Vis Vitalis",
+       "active": 0,
        "url": "http://109.169.23.22:22960/",
        "language_inferred": true
       },
       {
        "name": "Radio Vox Bulgaria",
+       "active": 0,
        "url": "http://g5.turbohost.eu:8008/stream",
        "language_inferred": true
       },
       {
        "name": "Radio Zara – Stara Zagora – BG",
+       "active": 0,
        "url": "https://www.radiozara.bg/play",
        "language_inferred": true,
        "rb": "39b3b4eb-9a6a-4cab-9b84-141b519ea9d7",
@@ -6461,526 +7346,633 @@
       },
       {
        "name": "Radio Беинса Дуно",
+       "active": 0,
        "url": "http://87.126.166.233:8000/listen.pls",
        "language_inferred": true
       },
       {
        "name": "Radio НПС",
+       "active": 0,
        "url": "https://stream.zeno.fm/qzbu3rxr1uhvv",
        "language_inferred": true
       },
       {
        "name": "radio-kru-bg",
+       "active": 0,
        "url": "https://stream.zeno.fm/htzd8pyw4yzuv",
        "language_inferred": true
       },
       {
        "name": "radio-zetra",
+       "active": 0,
        "url": "http://g5.turbohost.eu:8001/live",
        "language_inferred": true
       },
       {
        "name": "Radio234BG",
+       "active": 0,
        "url": "https://stream.zeno.fm/yhscukbe6nxtv",
        "language_inferred": true
       },
       {
        "name": "Radio_Enenrgy",
+       "active": 0,
        "url": "https://stream.zeno.fm/bh0xf5hy4hhvv",
        "language_inferred": true
       },
       {
        "name": "RadioBulgaria",
+       "active": 0,
        "url": "https://stream.zeno.fm/awhtbcbgd78uv",
        "language_inferred": true
       },
       {
        "name": "RadioCool",
+       "active": 0,
        "url": "https://stream.zeno.fm/kg682khdtwzuv",
        "language_inferred": true
       },
       {
        "name": "RadioDashBg",
+       "active": 0,
        "url": "https://stream.zeno.fm/7ze30bav6rhvv",
        "language_inferred": true
       },
       {
        "name": "Radioplay Cafe",
+       "active": 0,
        "url": "https://play.global.audio/cafehi.aac?n=f3160274f4d265063ffd",
        "rb": "d89f7a54-c6fa-4e60-a7ff-f787a4749576",
        "logo": "https://www.radioplay.bg/assets/logos/cafe.png"
       },
       {
        "name": "RadioStr",
+       "active": 0,
        "url": "https://stream.zeno.fm/m29fpxxmmxhvv",
        "language_inferred": true
       },
       {
        "name": "RADIOTIKTOK2",
+       "active": 0,
        "url": "https://stream.zeno.fm/7p1vfngwcuhvv",
        "language_inferred": true
       },
       {
        "name": "radyo_bizim_fm2022",
+       "active": 0,
        "url": "https://stream.zeno.fm/r4tq2v2qmchvv",
        "language_inferred": true
       },
       {
        "name": "Ramdsd",
+       "active": 0,
        "url": "https://stream.zeno.fm/mtm4mygurf9uv",
        "language_inferred": true
       },
       {
        "name": "randomtunes",
+       "active": 0,
        "url": "https://stream.zeno.fm/m58q9hzx868uv",
        "language_inferred": true
       },
       {
        "name": "RAVE 4 UNITY ROAD TO 500",
+       "active": 0,
        "url": "https://stream.zeno.fm/1t9rx1fxfy8uv",
        "language_inferred": true
       },
       {
        "name": "RBBGVV",
+       "active": 0,
        "url": "https://stream.zeno.fm/5yqfuf8psnhvv",
        "language_inferred": true
       },
       {
        "name": "Red Lights",
+       "active": 0,
        "url": "https://stream.zeno.fm/wpgvdqutba9uv",
        "language_inferred": true
       },
       {
        "name": "Red Lights",
+       "active": 0,
        "url": "https://stream.zeno.fm/y5urkdzasnttv",
        "language_inferred": true
       },
       {
        "name": "Remixes FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/mkzyqb4nq68uv",
        "language_inferred": true
       },
       {
        "name": "Retro CORE",
+       "active": 0,
        "url": "http://79.98.108.170:8203/"
       },
       {
        "name": "RETRO RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/55053taesd0uv",
        "language_inferred": true
       },
       {
        "name": "ROULIS FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/ny6cgghvkrhvv",
        "language_inferred": true
       },
       {
        "name": "RS",
+       "active": 0,
        "url": "http://79.98.108.178:8004",
        "language_inferred": true
       },
       {
        "name": "sCOOL RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/bc314pwszk0uv",
        "language_inferred": true
       },
       {
        "name": "sdasdaa",
+       "active": 0,
        "url": "https://stream.zeno.fm/obpqn88tfamtv",
        "language_inferred": true
       },
       {
        "name": "ShanoRadio",
+       "active": 0,
        "url": "https://stream.zeno.fm/5ys02yqau18uv",
        "language_inferred": true
       },
       {
        "name": "Shlager Radio",
+       "active": 0,
        "url": "http://195.34.116.194:8888/shlager.mp3"
       },
       {
        "name": "Shocking",
+       "active": 0,
        "url": "https://stream.zeno.fm/0vwcmem1c48uv",
        "language_inferred": true
       },
       {
        "name": "Shrike",
+       "active": 0,
        "url": "https://stream.zeno.fm/w4499nd3znhvv",
        "language_inferred": true
       },
       {
        "name": "Shumen sometimes suck S-S-S",
+       "active": 0,
        "url": "https://stream.zeno.fm/k0z4ecsnyd0uv",
        "language_inferred": true
       },
       {
        "name": "Sirius FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/0h5c8n93dkhvv",
        "language_inferred": true
       },
       {
        "name": "Smooth One Radio – Sofia – Sofia-Capital – BG",
+       "active": 0,
        "url": "https://eu1.reliastream.com/proxy/metroplusa?mp=/SMOOTHONE",
        "language_inferred": true
       },
       {
        "name": "Solomun",
+       "active": 0,
        "url": "https://stream.zeno.fm/40d99e0qcphvv",
        "language_inferred": true
       },
       {
        "name": "soni friends",
+       "active": 0,
        "url": "https://stream.zeno.fm/yeeppkbwfy8uv",
        "language_inferred": true
       },
       {
        "name": "Speedy FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/m1rt6b0hr7zuv",
        "language_inferred": true
       },
       {
        "name": "Spoty Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/80zv0ewub0hvv",
        "language_inferred": true
       },
       {
        "name": "StreetzOfLS",
+       "active": 0,
        "url": "https://stream.zeno.fm/egt1bv1e6ehvv",
        "language_inferred": true
       },
       {
        "name": "Stroyno Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/kzqtzg9vhm0uv",
        "language_inferred": true
       },
       {
        "name": "Sweat FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/3r4zv2muqp8uv",
        "language_inferred": true
       },
       {
        "name": "syncho style",
+       "active": 0,
        "url": "https://stream.zeno.fm/mwtu67bce78uv",
        "language_inferred": true
       },
       {
        "name": "Syntrwave",
+       "active": 0,
        "url": "https://stream.zeno.fm/a1abtfu5vrquv",
        "language_inferred": true
       },
       {
        "name": "Tatkovina",
+       "active": 0,
        "url": "http://www.tatkovina.eu:8000/bg"
       },
       {
        "name": "tedaman",
+       "active": 0,
        "url": "https://stream.zeno.fm/6qwf7kqhodxtv",
        "language_inferred": true
       },
       {
        "name": "telnetbh",
+       "active": 0,
        "url": "https://stream.zeno.fm/kcr8vdpdfhfuv",
        "language_inferred": true
       },
       {
        "name": "Temple Music for Meditation",
+       "active": 0,
        "url": "https://stream.zeno.fm/mtarqn6vz68uv",
        "language_inferred": true
       },
       {
        "name": "TempoBG",
+       "active": 0,
        "url": "https://stream.zeno.fm/kraf1rburnhvv",
        "language_inferred": true
       },
       {
        "name": "Test23",
+       "active": 0,
        "url": "https://stream.zeno.fm/lvdk4qqxzf7tv",
        "language_inferred": true
       },
       {
        "name": "TetsuyaShiroo",
+       "active": 0,
        "url": "https://stream.zeno.fm/uxr7c4qhr0hvv",
        "language_inferred": true
       },
       {
        "name": "TetsuyaShiroo",
+       "active": 0,
        "url": "https://stream.zeno.fm/1st5t8ftkchvv",
        "language_inferred": true
       },
       {
        "name": "The Beat 102.7",
+       "active": 0,
        "url": "https://stream.zeno.fm/z3xva4vackhvv",
        "language_inferred": true
       },
       {
        "name": "The BoomBox",
+       "active": 0,
        "url": "https://node-03.zeno.fm/ugm6nymf74zuv.aac?rj-ttl=5&amprj-tok=AAABdDoCWmoAy7qi_Rnr3wCdrQ",
        "language_inferred": true
       },
       {
        "name": "THE DRUGS MUSIC",
+       "active": 0,
        "url": "https://stream.zeno.fm/m6rckmbvvrhvv",
        "language_inferred": true
       },
       {
        "name": "The Fit Station",
+       "active": 0,
        "url": "https://stream.zeno.fm/hu27dstxurhvv",
        "language_inferred": true
       },
       {
        "name": "tihotores greek music",
+       "active": 0,
        "url": "https://stream.zeno.fm/mx7qv483kg8uv",
        "language_inferred": true
       },
       {
        "name": "TLIG Radio - Bulgarian",
+       "active": 0,
        "url": "http://stream.tligradio.org/listen/bulgarian/radio.mp3",
        "language_inferred": true
       },
       {
        "name": "Trance Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/sv2tzanu7yjvv",
        "language_inferred": true
       },
       {
        "name": "Trance Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/q6w7oeribfuvv",
        "language_inferred": true
       },
       {
        "name": "Truck Simulator",
+       "active": 0,
        "url": "https://stream.zeno.fm/q331kguxbg0uv",
        "language_inferred": true
       },
       {
        "name": "TV Art",
+       "active": 0,
        "url": "https://stream.osc.bg/tvart/Stream3/chunklist_w1434769085.m3u8?n=8dfdda795900d0e33c05",
        "language_inferred": true
       },
       {
        "name": "Tvoeto Radio",
+       "active": 0,
        "url": "http://beatfm.org:8000/tvoetoradio-low"
       },
       {
        "name": "Tvoeto Radio – Sofia – Sofia-Capital – BG",
+       "active": 0,
        "url": "https://listen7.myradio24.com/61445?ver=910313",
        "language_inferred": true
       },
       {
        "name": "TXA RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/e639cbtyxc9uv",
        "language_inferred": true
       },
       {
        "name": "Ukrainian music",
+       "active": 0,
        "url": "https://stream.zeno.fm/wq0fpap09nhvv",
        "language_inferred": true
       },
       {
        "name": "uzistation",
+       "active": 0,
        "url": "https://stream.zeno.fm/7rn9fkgu438uv",
        "language_inferred": true
       },
       {
        "name": "Vega",
+       "active": 0,
        "url": "http://88.80.96.25:3050/?1358938480247.mp3",
        "language_inferred": true
       },
       {
        "name": "Vibes Radio Station",
+       "active": 0,
        "url": "http://185.123.188.62:8000/",
        "language_inferred": true
       },
       {
        "name": "Vibin with the tunes",
+       "active": 0,
        "url": "https://stream.zeno.fm/vsckn8pdyy8uv",
        "language_inferred": true
       },
       {
        "name": "Vipever radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/76jeer1vnskuv",
        "language_inferred": true
       },
       {
        "name": "Vision Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/6bqqayy69ehvv",
        "language_inferred": true
       },
       {
        "name": "VM ARMedia",
+       "active": 0,
        "url": "http://stream.zenolive.com/na6nbx6qqwzuv"
       },
       {
        "name": "Vox Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/bzemx43dfwzuv",
        "language_inferred": true
       },
       {
        "name": "WallKk",
+       "active": 0,
        "url": "https://stream.zeno.fm/sdaofvs4hkutv",
        "language_inferred": true
       },
       {
        "name": "WhitePride Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/2uer15pmc78uv",
        "language_inferred": true
       },
       {
        "name": "wse_FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/ra1y62fe2d0uv",
        "language_inferred": true
       },
       {
        "name": "xxxx985574",
+       "active": 0,
        "url": "https://stream.zeno.fm/yqptd4gm8s8uv",
        "language_inferred": true
       },
       {
        "name": "xxxxxxxxxx",
+       "active": 0,
        "url": "https://stream.zeno.fm/at6yrgf1yuhvv",
        "language_inferred": true
       },
       {
        "name": "Z-Rock Radio",
+       "active": 0,
        "url": "http://live.btvradio.bg/z-rock.mp3.m3u?n=9e21f796e883b726e5fa",
        "language_inferred": true
       },
       {
        "name": "Авторадио",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AVTORADIOAAC_H.aac"
       },
       {
        "name": "БНР – Радио Видин",
+       "active": 0,
        "url": "http://stream.bnr.bg:8036/radio-vidin.aac",
        "language_inferred": true,
        "rb": "fe4f9e41-6606-4dde-bf86-4dec93d290d7"
       },
       {
        "name": "Богослужение",
+       "active": 0,
        "url": "https://stream.zeno.fm/tsx6vq3ut98uv",
        "language_inferred": true
       },
       {
        "name": "Веселина Ретро",
+       "active": 0,
        "url": "https://bss2.neterra.tv/veselinaretro/veselinaretro_1.m3u8",
        "language_inferred": true
       },
       {
        "name": "Детското.БНР",
+       "active": 0,
        "url": "https://edge17.cdn.bg:20320/fls/Hlapeta.stream/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "Зетра",
+       "active": 0,
        "url": "http://79.98.108.170:8092/stream.mp3"
       },
       {
        "name": "Мая",
+       "active": 0,
        "url": "http://www.rnmediagroup.com:9000/listen.pls",
        "language_inferred": true,
        "rb": "8493fd40-59a6-11e8-b0ce-52543be04c81"
       },
       {
        "name": "Общинско радио Чепеларе",
+       "active": 0,
        "url": "http://31.41.22.114:9000/stream",
        "language_inferred": true
       },
       {
        "name": "Онлайн радио “Папагал”",
+       "active": 0,
        "url": "https://node-29.zeno.fm/8frxh207rm0uv",
        "language_inferred": true
       },
       {
        "name": "ОРИЕНТАЛ РАДИО",
+       "active": 0,
        "url": "https://stream.zeno.fm/vg6mtfgwwchvv",
        "language_inferred": true
       },
       {
        "name": "Радио 1 Пловдив",
+       "active": 0,
        "url": "http://25533.live.streamtheworld.com:80/RADIO_1AAC_L_SC"
       },
       {
        "name": "РАДИО 1 РОК",
+       "active": 0,
        "url": "http://play.global.audio:80/radio1rock64",
        "language_inferred": true
       },
       {
        "name": "Радио FolkBG",
+       "active": 0,
        "url": "http://server1.folkbg.net:8000/folkbg",
        "language_inferred": true
       },
       {
        "name": "Радио Ауреа (Radio Aurea)",
+       "active": 0,
        "url": "http://93.123.123.7:8000/listen.pls"
       },
       {
        "name": "РАДИО БЯЛА",
+       "active": 0,
        "url": "https://stream.zeno.fm/gn14r87bgwzuv",
        "language_inferred": true
       },
       {
        "name": "Радио Вис Виталис",
+       "active": 0,
        "url": "http://freeuk24.listen2myradio.com:39679/"
       },
       {
        "name": "Радио Витоша - Витоша Club Classics",
+       "active": 0,
        "url": "https://bss2.neterra.tv/vitoshaclassics/vitoshaclassics_0.m3u8",
        "language_inferred": true
       },
       {
        "name": "Радио Зорана",
+       "active": 0,
        "url": "http://79.98.108.177:8000/live"
       },
       {
        "name": "Радио ИСЛЯМ",
+       "active": 0,
        "url": "https://stream.zeno.fm/khubvzrr9c0uv",
        "language_inferred": true
       },
       {
        "name": "Радио Истина и Свобода",
+       "active": 0,
        "url": "https://stream.zeno.fm/4knvkgfhb78uv",
        "language_inferred": true
       },
       {
        "name": "Радио Мая",
+       "active": 0,
        "url": "http://87.119.111.12:10000/",
        "language_inferred": true
       },
       {
        "name": "Радио Мелодия",
+       "active": 0,
        "url": "http://g2.turbohost.eu:8010/stream128"
       },
       {
        "name": "Радио Монтана",
+       "active": 0,
        "url": "https://stream.zeno.fm/2uw54uvbv68uv",
        "language_inferred": true
       },
       {
        "name": "Радио Парти Микс – Party Mix – BG-06",
+       "active": 0,
        "url": "https://play-radio9.jump.bg:7000/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Радио Хеликон",
+       "active": 0,
        "url": "http://radio.helikon.bg:9000/live_64_autodj"
       },
       {
        "name": "РАДИО ЮГОМАНИЯ",
+       "active": 0,
        "url": "https://stream.zeno.fm/rdurb8d52d0uv",
        "language_inferred": true
       },
       {
        "name": "Слушайте Radio Vox тук",
+       "active": 0,
        "url": "https://stream.zeno.fm/ey90pd1xwxquv",
        "language_inferred": true
       },
       {
        "name": "СтудиоБожияСила",
+       "active": 0,
        "url": "https://stream.zeno.fm/zxg6b3vchqdvv",
        "language_inferred": true
       },
       {
        "name": "Шишкова градинка",
+       "active": 0,
        "url": "https://stream.zeno.fm/4pnst72vaphvv",
        "language_inferred": true
       }
@@ -6996,6 +7988,7 @@
      "stations": [
       {
        "name": "ARHEA ORG",
+       "active": 0,
        "url": "https://stream.zeno.fm/na6nbx6qqwzuv",
        "tags": [
         "ambient_relax",
@@ -7008,6 +8001,7 @@
       },
       {
        "name": "easyradio",
+       "active": 0,
        "url": "https://easyradio.bg/m3u/easyradio.bg-aac.m3u?n=b74147605eef3062fe7e",
        "tags": [
         "pop_hits",
@@ -7022,6 +8016,7 @@
      "stations": [
       {
        "name": "Radio Deep Lounge Radio",
+       "active": 0,
        "url": "http://93.152.140.225:8000/stream/5/",
        "tags": [
         "chillout_lounge",
@@ -7038,6 +8033,7 @@
      "stations": [
       {
        "name": "Classic FM 88.0",
+       "active": 0,
        "url": "https://bravo.btv.bg/radio/classic-radio-proxy/?n=b1c32c7532fc5116b024"
       }
      ]
@@ -7047,6 +8043,7 @@
      "stations": [
       {
        "name": "Orbilux",
+       "active": 0,
        "url": "https://radiocp.jump.bg:2199/tunein/yunal.pls",
        "tags": [
         "pop_hits",
@@ -7065,6 +8062,7 @@
      "stations": [
       {
        "name": "Shine Radio",
+       "active": 0,
        "url": "http://caster05.streampakket.com:9320/stream",
        "tags": [
         "easy_listening",
@@ -7084,10 +8082,12 @@
      "stations": [
       {
        "name": "Coda Radio",
+       "active": 0,
        "url": "http://62.75.208.172:8000/codaradio"
       },
       {
        "name": "Deep Radio Europe",
+       "active": 0,
        "url": "http://79.98.108.174:8000/stream",
        "tags": [
         "electronic",
@@ -7099,6 +8099,7 @@
       },
       {
        "name": "Deep Radio Europe",
+       "active": 0,
        "url": "https://radio.jump.bg/proxy/georgi18/stream",
        "tags": [
         "electronic",
@@ -7108,6 +8109,7 @@
       },
       {
        "name": "Eilo Radio - Progressive Radio",
+       "active": 0,
        "url": "https://eilo.org/progressive",
        "tags": [
         "ambient_relax",
@@ -7116,6 +8118,7 @@
       },
       {
        "name": "Online DJ Radio 64",
+       "active": 0,
        "url": "http://play-radio11.jump.bg:8000/stream64_autodj?n=23fdbf63158b822a7c2c",
        "tags": [
         "electronic",
@@ -7125,6 +8128,7 @@
       },
       {
        "name": "OnlineDJRadio",
+       "active": 0,
        "url": "https://play.onlinedjradio.com:7000/live",
        "tags": [
         "electronic",
@@ -7134,6 +8138,7 @@
       },
       {
        "name": "Radio Hot Dance",
+       "active": 0,
        "url": "http://listen.hotget.net:810",
        "bitrate": 128,
        "logo": "http://radio.pervii.com/logo/108672.jpg",
@@ -7145,6 +8150,7 @@
       },
       {
        "name": "Sweet Radio",
+       "active": 0,
        "url": "http://cdn.tvoetoradio.net:8000/test",
        "tags": [
         "electronic",
@@ -7153,6 +8159,7 @@
       },
       {
        "name": "Trance Radio - Eilo",
+       "active": 0,
        "url": "https://eilo.org/trance"
       }
      ]
@@ -7162,22 +8169,27 @@
      "stations": [
       {
        "name": "d33b House Radio - 24/7 Deep Vocal House && Progressive - Most Played",
+       "active": 0,
        "url": "https://vocal.d33b.house/listen/d33b.house_-_top_all_times/radio.mp3"
       },
       {
        "name": "d33b.house - 24/7 Deep Vocal House",
+       "active": 0,
        "url": "https://vocal.d33b.house/listen/d33b.house_-_247_deep_vocal_house/radio.mp3"
       },
       {
        "name": "d33b.house - 24/7 Progressive House",
+       "active": 0,
        "url": "https://vocal.d33b.house/listen/d33b.house_-_247_progressive_house/radio.mp3"
       },
       {
        "name": "d33b.house 24/7 Club, Tech, Breaks, Nu Disco, Progressive, Indie, Downtempo && Organic House",
+       "active": 0,
        "url": "https://vocal.d33b.house/listen/d33b_radio_all/radio.mp3"
       },
       {
        "name": "DJ Zone House Radio",
+       "active": 0,
        "url": "http://162.244.80.106:11181/stream",
        "tags": [
         "house",
@@ -7187,6 +8199,7 @@
       },
       {
        "name": "OnlineDJRadio",
+       "active": 0,
        "url": "http://play.onlinedjradio.com:8000/live",
        "bitrate": 192,
        "logo": "http://radio.pervii.com/im/5/1563162515.jpg",
@@ -7200,6 +8213,7 @@
       },
       {
        "name": "Platinum Radio London",
+       "active": 0,
        "url": "https://crs.webdesign-flash.ro/?q=http://91.121.78.191:8008/stream&plugin_id=7628&site_id=8520577",
        "tags": [
         "pop_hits",
@@ -7209,6 +8223,7 @@
       },
       {
        "name": "SoulFreak - Soulful House Radio",
+       "active": 0,
        "url": "http://162.244.80.106:11177/stream",
        "tags": [
         "house",
@@ -7225,6 +8240,7 @@
      "stations": [
       {
        "name": "Metro GROOVE Radio",
+       "active": 0,
        "url": "https://radiocp.jump.bg/proxy/metrocastsd2?mp=/service",
        "tags": [
         "news_talk",
@@ -7239,10 +8255,12 @@
      "stations": [
       {
        "name": "Radio N-Joy Bulgaria",
+       "active": 0,
        "url": "https://bravo.btv.bg/radio/njoy-radio-proxy/?n=c6037023bea49a29e6c5"
       },
       {
        "name": "Радио Сити",
+       "active": 0,
        "url": "https://crs.webdesign-flash.ro/?q=http://play.global.audio:80/city128&plugin_id=7628&site_id=8520577",
        "rb": "c2c261e1-90f9-40b1-a7f6-811b8493f93d",
        "logo": "https://www.city.bg/theme_assets/city/images/logo.png?v=2"
@@ -7254,12 +8272,14 @@
      "stations": [
       {
        "name": "1 Rock Bulgaria",
+       "active": 0,
        "url": "http://31.13.223.148:8000/1_rock.mp3",
        "rb": "96423ff1-0601-11e8-ae97-52543be04c81",
        "logo": "http://www.radio1rock.bg/theme_assets/radio1rock/images/favicon.png"
       },
       {
        "name": "BG Metal Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/f9hky6qs6s8uv",
        "tags": [
         "rock",
@@ -7268,6 +8288,7 @@
       },
       {
        "name": "Metro Country ROCK Radio",
+       "active": 0,
        "url": "https://eu1.reliastream.com/proxy/msrr?mp=/MSRR",
        "tags": [
         "rock",
@@ -7277,6 +8298,7 @@
       },
       {
        "name": "Radio The Big Boss",
+       "active": 0,
        "url": "http://79.98.108.172:8022",
        "bitrate": 160,
        "logo": "http://radio.pervii.com/im/2/1555325952.jpg",
@@ -7293,6 +8315,7 @@
       },
       {
        "name": "Radio Z-Rock Bulgaria",
+       "active": 0,
        "url": "https://bravo.btv.bg/radio/zrock-radio-proxy/",
        "tags": [
         "rock",
@@ -7301,6 +8324,7 @@
       },
       {
        "name": "XRaydio",
+       "active": 0,
        "url": "http://xraydio.ddns.net:8000/live",
        "tags": [
         "rock",
@@ -7326,6 +8350,7 @@
      "stations": [
       {
        "name": "EILO Jazz Funk Soul Radio",
+       "active": 0,
        "url": "http://stream.eilo.org:8000/jazzfunksoul",
        "tags": [
         "soul_rnb_funk",
@@ -7335,6 +8360,7 @@
       },
       {
        "name": "Eilo Radio - Jazz, Funk & Soul Radio",
+       "active": 0,
        "url": "http://eilo.org:8000/jazzfunksoul",
        "tags": [
         "soul_rnb_funk",
@@ -7345,6 +8371,7 @@
       },
       {
        "name": "NJS Radio - New Jack Swing",
+       "active": 0,
        "url": "http://162.244.80.106:11198/stream",
        "tags": [
         "soul_rnb_funk",
@@ -7356,6 +8383,7 @@
       },
       {
        "name": "NJS Radio - New Jack Swing",
+       "active": 0,
        "url": "http://162.244.80.106:11198/live"
       }
      ]
@@ -7365,6 +8393,7 @@
      "stations": [
       {
        "name": "DanPen Radio",
+       "active": 0,
        "url": "https://server.danpenradio.net/listen/danpen_radio/radio.mp3",
        "tags": [
         "techno",
@@ -7380,6 +8409,7 @@
      "stations": [
       {
        "name": "Eilo Earth and Beat Radio",
+       "active": 0,
        "url": "http://stream.eilo.org:8000/earthbeat",
        "tags": [
         "world",
@@ -7395,28 +8425,34 @@
      "stations": [
       {
        "name": "d33b.house - 24/7 New && Exclusive Club Music",
+       "active": 0,
        "url": "https://vocal.d33b.house/listen/d33b.house_-_247_new__exclusive_club_music/radio.mp3"
       },
       {
        "name": "DS Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/54ce0mp9z38uv"
       },
       {
        "name": "Nova Bulgaria",
+       "active": 0,
        "url": "http://31.13.223.148:8000/nova.mp3",
        "rb": "96419a8d-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "nRadio",
+       "active": 0,
        "url": "http://stream3.nradio.online:8000/nRadio-LQ"
       },
       {
        "name": "Radio Nova Bulgaria",
+       "active": 0,
        "url": "https://play.global.audio/nova.opus?n=91588ba57c5795d983d8",
        "rb": "5e742a0e-a341-4878-a683-46139b6c5b67"
       },
       {
        "name": "The Free Radio",
+       "active": 0,
        "url": "https://listen.thefreeradio.net/listen/the_free_radio/radio.mp3"
       }
      ]
@@ -7431,6 +8467,7 @@
      "stations": [
       {
        "name": "Balkansko Radio",
+       "active": 0,
        "url": "https://balkanskoradio.com/stream/live.mp3",
        "tags": [
         "pop_hits",
@@ -7440,6 +8477,7 @@
       },
       {
        "name": "Ellinikos Live",
+       "active": 0,
        "url": "https://azura.streams.ovh/listen/_ellinikos/radio.mp3",
        "tags": [
         "folk",
@@ -7449,6 +8487,7 @@
       },
       {
        "name": "Radio Pianica / Радио Пияника",
+       "active": 0,
        "url": "http://mpc.mediacp.eu:8744/",
        "bitrate": 192,
        "logo": "http://radio.pervii.com/im/7/1635492577.jpg"
@@ -7460,6 +8499,7 @@
      "stations": [
       {
        "name": "Радио Пияника",
+       "active": 0,
        "url": "http://mpc1.mediacp.eu:8024/",
        "rb": "375229cb-2a6b-4814-a679-ff67cd72c236",
        "logo": "https://www.radiopi.top/wp-content/themes/bridge/img/logo_white.png"
@@ -7471,6 +8511,7 @@
      "stations": [
       {
        "name": "HSRadio",
+       "active": 0,
        "url": "https://stream.zeno.fm/tr6eqdt0ct5tv"
       }
      ]
@@ -7485,10 +8526,12 @@
      "stations": [
       {
        "name": "ICE DEVILS",
+       "active": 0,
        "url": "https://stream.zeno.fm/ve6nxegv317tv"
       },
       {
        "name": "myradiogoldenhitsbg",
+       "active": 0,
        "url": "https://stream.zeno.fm/2dg9ey2mwuluv"
       }
      ]
@@ -7498,6 +8541,7 @@
      "stations": [
       {
        "name": "Radio Aurea",
+       "active": 0,
        "url": "http://93.123.123.7:8000/",
        "tags": [
         "folk",
@@ -7512,6 +8556,7 @@
      "stations": [
       {
        "name": "Радио 42",
+       "active": 0,
        "url": "https://stream.zeno.fm/c29pb9shc78uv"
       }
      ]
@@ -7526,6 +8571,7 @@
      "stations": [
       {
        "name": "Sunny-Beachradio",
+       "active": 0,
        "url": "https://sunny-beachradio.stream.laut.fm/sunny-beachradio",
        "tags": [
         "electronic",
@@ -7546,6 +8592,7 @@
      "stations": [
       {
        "name": "Radio MIXX",
+       "active": 0,
        "url": "http://83.97.65.98:9000/stream",
        "tags": [
         "news_talk",
@@ -7559,6 +8606,7 @@
      "stations": [
       {
        "name": "Radio Nikita Television",
+       "active": 0,
        "url": "http://solid55.streamupsolutions.com:30122/stream.mp3",
        "tags": [
         "rock",
@@ -7578,6 +8626,7 @@
      "stations": [
       {
        "name": "Radio Lagoshevtsi",
+       "active": 0,
        "url": "https://radio.jump.bg:8484/stream",
        "tags": [
         "ambient_relax",
@@ -7592,6 +8641,7 @@
      "stations": [
       {
        "name": "Radio Slavi",
+       "active": 0,
        "url": "http://79.98.108.170:8043",
        "tags": [
         "folk",
@@ -7606,6 +8656,7 @@
      "stations": [
       {
        "name": "RadioChalgaHit radio",
+       "active": 0,
        "url": "https://cast6.asurahosting.com/proxy/radiochalgahit/stream",
        "tags": [
         "oldies",
@@ -7626,6 +8677,7 @@
      "stations": [
       {
        "name": "Metro VIRTUOSO Radio",
+       "active": 0,
        "url": "https://eu1.reliastream.com/proxy/mvr?mp=/MVR",
        "rb": "f610872e-d45f-4830-b792-1be6f49dccec"
       }
@@ -7636,6 +8688,7 @@
      "stations": [
       {
        "name": "R1 Melodic Dubstep",
+       "active": 0,
        "url": "https://stream.zeno.fm/xcaubmtj5dquv",
        "tags": [
         "electronic",
@@ -7654,10 +8707,12 @@
      "stations": [
       {
        "name": "Radio Internacional 2",
+       "active": 0,
        "url": "https://stream.zeno.fm/fknpwummwxhvv"
       },
       {
        "name": "Torque League",
+       "active": 0,
        "url": "https://stream.zeno.fm/yjiylxbzdamuv"
       }
      ]
@@ -7672,6 +8727,7 @@
      "stations": [
       {
        "name": "Radio Pianica",
+       "active": 0,
        "url": "http://162.244.80.106:11610/stream"
       }
      ]
@@ -7686,6 +8742,7 @@
      "stations": [
       {
        "name": "Radio El Shadai",
+       "active": 0,
        "url": "https://stream.zeno.fm/hku46gxdexquv",
        "tags": [
         "christian_gospel",
@@ -7705,6 +8762,7 @@
      "stations": [
       {
        "name": "Hoy es Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/z4zfv4m7gc9uv"
       }
      ]
@@ -7719,6 +8777,7 @@
      "stations": [
       {
        "name": "ARHEA-ORG",
+       "active": 0,
        "url": "https://stream.zeno.fm/7z5k5w6qqwzuv"
       }
      ]
@@ -7733,6 +8792,7 @@
      "stations": [
       {
        "name": "Radio Bojia Sila",
+       "active": 0,
        "url": "https://stream.zeno.fm/6t0ec6rwtuquv"
       }
      ]
@@ -7747,6 +8807,7 @@
      "stations": [
       {
        "name": "Radio Sinai Sliven",
+       "active": 0,
        "url": "https://stream.zeno.fm/br8thchpgf9uv"
       }
      ]
@@ -7761,6 +8822,7 @@
      "stations": [
       {
        "name": "Kpop Imperor Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/q29c5kzegphvv"
       }
      ]

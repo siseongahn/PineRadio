@@ -10,6 +10,7 @@
      "stations": [
       {
        "name": "Kalaallit Nunaata Radioa",
+       "active": 0,
        "url": "https://i1.cdn.jetstre.am:8000/sz=knr=audio192",
        "language_inferred": true
       }
@@ -20,6 +21,7 @@
      "stations": [
       {
        "name": "Zona Latina103 Radio Listen live",
+       "active": 0,
        "url": "https://radio.yaservers.com/9996/server",
        "tags": [
         "news_talk",
@@ -35,6 +37,7 @@
      "stations": [
       {
        "name": "KNR Radio",
+       "active": 0,
        "url": "https://ice.cr2.streamzilla.xlcdn.com:8000/sz=knr=audio192",
        "tags": [
         "news_talk",
@@ -43,21 +46,25 @@
       },
       {
        "name": "KNR Radio",
+       "active": 0,
        "url": "https://rrr.sz.xlcdn.com/?account=knr\\u0026file=radio\\u0026type=live\\u0026service=icecast\\u0026port=8000\\u0026output=pls",
        "language_inferred": true
       },
       {
        "name": "KNR Radio",
+       "active": 0,
        "url": "https://rrr.sz.xlcdn.com/?account=knr&file=radio&type=live&service=icecast&port=8000&output=pls",
        "language_inferred": true
       },
       {
        "name": "KNR Radio – Kalaallit Nunaata Radioa",
+       "active": 0,
        "url": "https://ice.cr6.streamzilla.xlcdn.com:8000/sz=knr=audio192",
        "language_inferred": true
       },
       {
        "name": "Nanoq FM",
+       "active": 0,
        "url": "https://getnanoq.retro-radio.dk/Nanoq-TX-1",
        "tags": [
         "pop_hits",
@@ -73,6 +80,7 @@
      "stations": [
       {
        "name": "Nanoq FM radio",
+       "active": 0,
        "url": "https://onlineradiobox.com/json/gl/nanoqfm/play?platform=web",
        "language_inferred": true
       }
@@ -83,6 +91,7 @@
      "stations": [
       {
        "name": "Radio Fusión Alternativa radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/t1ry4xkmzk8uv",
        "tags": [
         "pop_hits",
@@ -97,6 +106,7 @@
      "stations": [
       {
        "name": "Inuunerup Nipaa 88.5",
+       "active": 0,
        "url": "http://stream.inn.gl:8000/nipaa/stream.mp3",
        "country_inferred": true,
        "language_inferred": true
@@ -108,6 +118,7 @@
      "stations": [
       {
        "name": "Kalaallit Nunaata Radioa KNR 90.3 Nuuk",
+       "active": 0,
        "url": "https://knr.gl/radiolivestream",
        "tags": [
         "news_talk",
@@ -123,84 +134,101 @@
      "stations": [
       {
        "name": "9Radio",
+       "active": 0,
        "url": "https://radio.plan9.rocks/?n=005d4fd5ede72093acfa",
        "language_inferred": true
       },
       {
        "name": "Amazon",
+       "active": 0,
        "url": "https://stream.zeno.fm/4dsfua7s0k4tv",
        "language_inferred": true
       },
       {
        "name": "BF FM Stereo",
+       "active": 0,
        "url": "https://stream.zeno.fm/vefte4rtpc9uv",
        "language_inferred": true
       },
       {
        "name": "every hits",
+       "active": 0,
        "url": "https://stream.zeno.fm/2hddtf88tc9uv",
        "language_inferred": true
       },
       {
        "name": "Kalaallit Nunaata Radioa",
+       "active": 0,
        "url": "https://ice.cr5.streamzilla.xlcdn.com:8000/sz=knr=audio192",
        "language_inferred": true
       },
       {
        "name": "Kalaallit Nunaata Radioa KNR Nuuk 16 kbps MP3",
+       "active": 0,
        "url": "https://i2.cdn.jetstre.am:8000/sz=knr=audio16?n=d2232b0e2f4372268a47"
       },
       {
        "name": "Kalaallit Nunaata Radioa KNR Nuuk 24 kbps MP3",
+       "active": 0,
        "url": "https://i1.cdn.jetstre.am:8000/sz=knr=audio24?n=24560d839ff91f6fa348"
       },
       {
        "name": "laquesuenaportodoslados",
+       "active": 0,
        "url": "https://stream.zeno.fm/xyv8zmxe0k8uv",
        "language_inferred": true
       },
       {
        "name": "no tape",
+       "active": 0,
        "url": "https://stream.zeno.fm/y1xwpgz1xv8uv",
        "language_inferred": true
       },
       {
        "name": "PLANET SEX",
+       "active": 0,
        "url": "https://stream.zeno.fm/rys41fspf48uv",
        "language_inferred": true
       },
       {
        "name": "Radio Fusión Alternativa – Ilulissat – Qaasuitsup – GL",
+       "active": 0,
        "url": "http://node-14.zeno.fm/t1ry4xkmzk8uv?rj-ttl=5",
        "language_inferred": true
       },
       {
        "name": "Radio station name",
+       "active": 0,
        "url": "https://stream.zeno.fm/0xfxagvgyxhvv",
        "language_inferred": true
       },
       {
        "name": "Raining Tacos FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/yp7w0g3c6zhvv",
        "language_inferred": true
       },
       {
        "name": "Song Of All Dialects Tamer Hosni",
+       "active": 0,
        "url": "https://stream.zeno.fm/t2mvb0wygxgtv",
        "language_inferred": true
       },
       {
        "name": "test",
+       "active": 0,
        "url": "https://pub0302.101.ru:8000/stream/pro/aac/64/158?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6Ij",
        "language_inferred": true
       },
       {
        "name": "Tropicalisimo dj netron",
+       "active": 0,
        "url": "https://stream.zeno.fm/5ff065u5py8uv",
        "language_inferred": true
       },
       {
        "name": "Tzgospel swahili",
+       "active": 0,
        "url": "https://stream.zeno.fm/60r79km7hfhvv",
        "language_inferred": true
       }
@@ -216,6 +244,7 @@
      "stations": [
       {
        "name": "ICE FM Nuuk",
+       "active": 0,
        "url": "https://media.limfjordnetradio.dk/icefm",
        "tags": [
         "pop_hits",
@@ -234,6 +263,7 @@
      "stations": [
       {
        "name": "Dfm rtv int160k",
+       "active": 0,
        "url": "http://dfm.nu/DFM_RTV_INT_1.m3u",
        "rb": "cf7861e6-bd17-11e8-aaf2-52543be04c81"
       }
@@ -249,6 +279,7 @@
      "stations": [
       {
        "name": "Kalaallit Nunaata Radioa KNR Nuuk 192 kbps MP3",
+       "active": 0,
        "url": "https://i2.cdn.jetstre.am:8000/sz=knr=audio192"
       }
      ]
@@ -263,6 +294,7 @@
      "stations": [
       {
        "name": "RADIO CAXIAS ROCK",
+       "active": 0,
        "url": "https://stream.zeno.fm/ik0m3lzcgexuv"
       }
      ]
@@ -277,6 +309,7 @@
      "stations": [
       {
        "name": "Radio Antarctique",
+       "active": 0,
        "url": "https://stream.zeno.fm/g511zgfpfg0uv"
       }
      ]

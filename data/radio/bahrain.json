@@ -10,6 +10,7 @@
      "stations": [
       {
        "name": "Radio Mirchi 104.2 FM",
+       "active": 0,
        "url": "http://162.244.80.118:4055/stream",
        "language_inferred": true
       }
@@ -20,6 +21,7 @@
      "stations": [
       {
        "name": "Bahrain Quran",
+       "active": 0,
        "url": "https://5c7b683162943.streamlock.net/live/ngrp:radio-106-1_all/playlist.m3u8",
        "language_inferred": true,
        "rb": "3e1a2014-d426-4f74-b237-8c109054911e",
@@ -27,6 +29,7 @@
       },
       {
        "name": "Holy Quran 106.1",
+       "active": 0,
        "url": "http://185.105.4.106:1935/live/radio-106-1/playlist.m3u8",
        "tags": [
         "christian_gospel",
@@ -40,6 +43,7 @@
      "stations": [
       {
        "name": "Traditional FM Music 95.0",
+       "active": 0,
        "url": "http://185.105.4.106:1935/live/radio-95-0/playlist.m3u8"
       }
      ]
@@ -49,6 +53,7 @@
      "stations": [
       {
        "name": "Bahrain 102.3 Listen live",
+       "active": 0,
        "url": "https://5c7b683162943.streamlock.net/live/ngrp:radio-102-3_all/chunklist_w1784095022_b363840.m3u8",
        "tags": [
         "news_talk",
@@ -65,6 +70,7 @@
      "stations": [
       {
        "name": "Princess Kawaii Anime",
+       "active": 0,
        "url": "https://stream.zeno.fm/cfkr6vdd5zhvv"
       }
      ]
@@ -74,6 +80,7 @@
      "stations": [
       {
        "name": "Bahrain FM 93.3",
+       "active": 0,
        "url": "http://185.105.4.106:1935/live/radio-93-3/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -82,6 +89,7 @@
       },
       {
        "name": "Bahrain Radio 102.3",
+       "active": 0,
        "url": "http://185.105.4.106:1935/live/radio-102-3/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -90,6 +98,7 @@
       },
       {
        "name": "BFBS Bahrain radio",
+       "active": 0,
        "url": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs9.aac",
        "tags": [
         "news_talk",
@@ -99,6 +108,7 @@
       },
       {
        "name": "Radio Bahrain 96.5",
+       "active": 0,
        "url": "http://185.105.4.106:1935/live/radio-96-5/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -112,6 +122,7 @@
      "stations": [
       {
        "name": "Bahrain 96.5 Listen live",
+       "active": 0,
        "url": "https://5c7b683162943.streamlock.net/live/ngrp:radio-96-5_all/chunklist_w507722157_b331072.m3u8",
        "tags": [
         "news_talk",
@@ -127,6 +138,7 @@
      "stations": [
       {
        "name": "Radio Bahrain",
+       "active": 0,
        "url": "https://5c7b683162943.streamlock.net/live/ngrp:radio-96-5_all/playlist.m3u8",
        "language_inferred": true
       }
@@ -137,6 +149,7 @@
      "stations": [
       {
        "name": "Bahrain FM 93.3 Listen live",
+       "active": 0,
        "url": "https://5c7b683162943.streamlock.net/live/ngrp:radio-93-3_all/chunklist_w1019144110_b981072.m3u8",
        "language_inferred": true
       }
@@ -147,11 +160,13 @@
      "stations": [
       {
        "name": "456789",
+       "active": 0,
        "url": "https://stream.zeno.fm/4ebth487dkhvv",
        "language_inferred": true
       },
       {
        "name": "AFN GO BAHRAIN",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BHNAAC.aac?n=e994592dd564507ed58d",
        "language_inferred": true,
        "rb": "69459a0b-9f41-4f97-a54d-561e5e077442",
@@ -159,218 +174,263 @@
       },
       {
        "name": "Alayam FM (الأيام إف إم)",
+       "active": 0,
        "url": "http://br.alayam.com:8000/"
       },
       {
        "name": "Arabian Gulf Radio",
+       "active": 0,
        "url": "http://185.105.4.106:1935/live/radio-98-4/playlist.m3u8"
       },
       {
        "name": "Bahrain 95 / الشعبية",
+       "active": 0,
        "url": "https://5c7b683162943.streamlock.net/live/ngrp:radio-95-0_all/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "Bahrain FM 93.3",
+       "active": 0,
        "url": "https://5c7b683162943.streamlock.net/live/ngrp:radio-93-3_all/playlist.m3u8",
        "language_inferred": true,
        "rb": "0b300680-fb8d-4a73-a05b-76f669cd8881"
       },
       {
        "name": "Bahrain traffic",
+       "active": 0,
        "url": "https://stream.zeno.fm/keyvt977wnhvv",
        "language_inferred": true
       },
       {
        "name": "Bonde do Gato preto",
+       "active": 0,
        "url": "https://stream.zeno.fm/8q3mr3046zhvv",
        "language_inferred": true
       },
       {
        "name": "DEMBOW",
+       "active": 0,
        "url": "https://stream.zeno.fm/uzjrymozszetv",
        "language_inferred": true
       },
       {
        "name": "DIVIANA SPOT",
+       "active": 0,
        "url": "https://stream.zeno.fm/vtexcwgwzqbuv"
       },
       {
        "name": "EO KROZZ",
+       "active": 0,
        "url": "https://stream.zeno.fm/kkmc9sb7q98uv",
        "language_inferred": true
       },
       {
        "name": "General",
+       "active": 0,
        "url": "https://stream.zeno.fm/hywde0axbuhvv",
        "language_inferred": true
       },
       {
        "name": "ithyvjradio",
+       "active": 0,
        "url": "https://stream.zeno.fm/h5eheay2kv8uv"
       },
       {
        "name": "Jaid radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/ycuwz2wskm0uv",
        "language_inferred": true
       },
       {
        "name": "Jeff_th",
+       "active": 0,
        "url": "https://stream.zeno.fm/mczhlvxdbqutv",
        "language_inferred": true
       },
       {
        "name": "jjkooolll",
+       "active": 0,
        "url": "https://stream.zeno.fm/qtzyrxqf6vgtv",
        "language_inferred": true
       },
       {
        "name": "jonizin",
+       "active": 0,
        "url": "https://stream.zeno.fm/nzyvqy7oyytvv",
        "language_inferred": true
       },
       {
        "name": "kayan Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/g8p0w9ntxhhvv",
        "language_inferred": true
       },
       {
        "name": "LINK 17",
+       "active": 0,
        "url": "https://stream.zeno.fm/a4aand5y6hhvv",
        "language_inferred": true
       },
       {
        "name": "MALAK99",
+       "active": 0,
        "url": "https://stream.zeno.fm/vkt420kwey8uv",
        "language_inferred": true
       },
       {
        "name": "minesat",
+       "active": 0,
        "url": "https://stream.zeno.fm/y52t9sp5zehvv",
        "language_inferred": true
       },
       {
        "name": "mixxxcxf",
+       "active": 0,
        "url": "https://stream.zeno.fm/xvora1tsmj0tv"
       },
       {
        "name": "Mohamed - reslan",
+       "active": 0,
        "url": "https://stream.zeno.fm/qsac8a7bbshvv",
        "language_inferred": true
       },
       {
        "name": "MSPINELLI1710 ducreu",
+       "active": 0,
        "url": "https://stream.zeno.fm/4uu7kp78kuhvv",
        "language_inferred": true
       },
       {
        "name": "Music365",
+       "active": 0,
        "url": "https://stream.zeno.fm/qxwh6h6bn48uv",
        "language_inferred": true
       },
       {
        "name": "Nestor en vivo",
+       "active": 0,
        "url": "https://stream.zeno.fm/1h9wu2p1dkhvv"
       },
       {
        "name": "Popular Songs Arabic Tune",
+       "active": 0,
        "url": "https://stream.zeno.fm/fb7xlhdpnyptv",
        "language_inferred": true
       },
       {
        "name": "quranmethod",
+       "active": 0,
        "url": "https://stream.zeno.fm/xd0y3akw1ehvv",
        "language_inferred": true
       },
       {
        "name": "Radio Bahrain 102.3",
+       "active": 0,
        "url": "https://5c7b683162943.streamlock.net/live/ngrp:radio-102-3_all/playlist.m3u8",
        "language_inferred": true,
        "rb": "96498d97-63cc-472d-b1b2-16af81082d8b"
       },
       {
        "name": "Radio Cia Lulu Santos",
+       "active": 0,
        "url": "https://stream.zeno.fm/4tuakuz0ra0uv",
        "language_inferred": true
       },
       {
        "name": "Radio Paul MacCartnei",
+       "active": 0,
        "url": "https://stream.zeno.fm/0wvtqxdhpd0uv",
        "language_inferred": true
       },
       {
        "name": "Radio Salmos",
+       "active": 0,
        "url": "https://stream.zeno.fm/gmhc745qta0uv",
        "language_inferred": true
       },
       {
        "name": "radio888",
+       "active": 0,
        "url": "https://stream.zeno.fm/a3xkzzdwey8uv",
        "language_inferred": true
       },
       {
        "name": "Rádio seu FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/nd5t12b0rzzuv"
       },
       {
        "name": "sai3222",
+       "active": 0,
        "url": "https://stream.zeno.fm/uklykomxcivvv",
        "language_inferred": true
       },
       {
        "name": "sdef55t5",
+       "active": 0,
        "url": "https://stream.zeno.fm/ny5fhn3hs68uv",
        "language_inferred": true
       },
       {
        "name": "sin nombre",
+       "active": 0,
        "url": "https://stream.zeno.fm/9fu51f66xnhvv"
       },
       {
        "name": "STRIKALLO",
+       "active": 0,
        "url": "https://stream.zeno.fm/5b1kbp3dt18uv",
        "language_inferred": true
       },
       {
        "name": "test12",
+       "active": 0,
        "url": "https://stream.zeno.fm/rr2p52y8zxhvv",
        "language_inferred": true
       },
       {
        "name": "The Voice of Ummah - Manama",
+       "active": 0,
        "url": "http://s6.voscast.com:7634/stream1463678495689/1",
        "language_inferred": true
       },
       {
        "name": "Traditional Radio 95.0",
+       "active": 0,
        "url": "https://5c7b683162943.streamlock.net/live/ngrp:radio-95-0_all/chunklist_w1641860732_b981072.m3u8?n=2d2f199ef0f231cb70a3",
        "language_inferred": true,
        "rb": "b35b9f40-86b2-4686-852c-12190c252e87"
       },
       {
        "name": "Web rádio",
+       "active": 0,
        "url": "https://stream.zeno.fm/7nbdvzthhf9uv"
       },
       {
        "name": "wwwwwwwwwww",
+       "active": 0,
        "url": "https://stream.zeno.fm/8vr1vt2k838uv"
       },
       {
        "name": "XXXXXXXXXXXX",
+       "active": 0,
        "url": "https://stream.zeno.fm/pz08uspsz68uv"
       },
       {
        "name": "Your FM 104.2",
+       "active": 0,
        "url": "http://108.163.223.242:8131/stream/1",
        "language_inferred": true
       },
       {
        "name": "صوت القرآن",
+       "active": 0,
        "url": "https://stream.zeno.fm/a4vh8y66af9uv",
        "language_inferred": true
       },
       {
        "name": "صوت القرآن",
+       "active": 0,
        "url": "https://stream.zeno.fm/c87chv66af9uv",
        "language_inferred": true
       }
@@ -386,6 +446,7 @@
      "stations": [
       {
        "name": "AFN Bahrain - The Eagle",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BHN_SC",
        "tags": [
         "pop_hits",
@@ -399,15 +460,18 @@
      "stations": [
       {
        "name": "AFN 360 Bahrain",
+       "active": 0,
        "url": "http://playerservices.streamtheworld.com/m3u/AFNE_BHN.m3u",
        "rb": "963c38d2-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "ilayastar",
+       "active": 0,
        "url": "https://stream.zeno.fm/8vh458se3v8uv"
       },
       {
        "name": "Tzgospel swahili",
+       "active": 0,
        "url": "https://stream.zeno.fm/x79yp6mvcfhvv"
       }
      ]
@@ -422,6 +486,7 @@
      "stations": [
       {
        "name": "Radio The Voice of Ummah radio",
+       "active": 0,
        "url": "https://mediati.me/radio/8010/radio.mp3?1608014536",
        "tags": [
         "christian_gospel",
@@ -437,6 +502,7 @@
      "stations": [
       {
        "name": "Voice of Ummah",
+       "active": 0,
        "url": "https://stream.zeno.fm/n8xute7694zuv"
       }
      ]
@@ -451,6 +517,7 @@
      "stations": [
       {
        "name": "The Voice of Ummah",
+       "active": 0,
        "url": "https://mediati.me/radio/8010/radio.mp3",
        "tags": [
         "christian_gospel",
@@ -470,6 +537,7 @@
      "stations": [
       {
        "name": "BMC Radio, Manama",
+       "active": 0,
        "url": "https://eu8.fastcast4u.com/proxy/rjrejin?mp=/1"
       }
      ]
@@ -484,6 +552,7 @@
      "stations": [
       {
        "name": "Radio N-R Bahrain",
+       "active": 0,
        "url": "https://stream.zeno.fm/k7206g363hhvv"
       }
      ]
@@ -498,6 +567,7 @@
      "stations": [
       {
        "name": "Radio Sky afg",
+       "active": 0,
        "url": "https://stream.zeno.fm/hfxt6mm60s8uv"
       }
      ]
@@ -512,6 +582,7 @@
      "stations": [
       {
        "name": "WEB RÁDIO VERDE VALE",
+       "active": 0,
        "url": "https://stream.zeno.fm/ekx4y7u827zuv"
       }
      ]
@@ -526,6 +597,7 @@
      "stations": [
       {
        "name": "RADIO VIVER EM CRISTO",
+       "active": 0,
        "url": "https://stream.zeno.fm/tu7xy0f88a0uv"
       }
      ]

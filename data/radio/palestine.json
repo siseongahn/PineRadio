@@ -10,6 +10,7 @@
      "stations": [
       {
        "name": "Q Voice 91.5 FM",
+       "active": 0,
        "url": "http://s10.voscast.com:9986",
        "tags": [
         "islamic_quran",
@@ -19,6 +20,7 @@
       },
       {
        "name": "Radio Ramallah Quran",
+       "active": 0,
        "url": "http://streamer.mada.ps:8029/quranfm",
        "tags": [
         "christian_gospel",
@@ -33,11 +35,13 @@
      "stations": [
       {
        "name": "Ajyal Radio Classic",
+       "active": 0,
        "url": "http://streamer.mada.ps:8037/classic",
        "country_inferred": true
       },
       {
        "name": "Cool FM 104.0 radio",
+       "active": 0,
        "url": "http://217.66.226.47:8006/",
        "tags": [
         "classical",
@@ -47,6 +51,7 @@
       },
       {
        "name": "Tarab FM",
+       "active": 0,
        "url": "http://streamer.mada.ps:8031/radioramallah",
        "tags": [
         "classical",
@@ -55,6 +60,7 @@
       },
       {
        "name": "راديو كلاسيك",
+       "active": 0,
        "url": "https://sawtelghad.org:7006/",
        "language_inferred": true
       }
@@ -65,6 +71,7 @@
      "stations": [
       {
        "name": "kanaan",
+       "active": 0,
        "url": "https://stream.zeno.fm/tgx1afw9kg0uv",
        "language_inferred": true
       }
@@ -75,6 +82,7 @@
      "stations": [
       {
        "name": "adwani",
+       "active": 0,
        "url": "https://stream.zeno.fm/u1e15zd1tchvv",
        "language_inferred": true
       }
@@ -85,11 +93,13 @@
      "stations": [
       {
        "name": "راديو ترانس radio",
+       "active": 0,
        "url": "http://sawtelghad.org:8002/",
        "language_inferred": true
       },
       {
        "name": "راديو راب",
+       "active": 0,
        "url": "https://sawtelghad.org:7004/",
        "tags": [
         "electronic",
@@ -103,10 +113,12 @@
      "stations": [
       {
        "name": "Falastini Radio",
+       "active": 0,
        "url": "http://176.31.107.8:8289/stream"
       },
       {
        "name": "Radio Mawwal 101.7 FM",
+       "active": 0,
        "url": "http://rs.hadara.ps:8008",
        "tags": [
         "world",
@@ -115,6 +127,7 @@
       },
       {
        "name": "Rádio Poléia FM",
+       "active": 0,
        "url": "https://player-ssl.kshost.com.br:9208/live",
        "language_inferred": true
       }
@@ -125,6 +138,7 @@
      "stations": [
       {
        "name": "AlQuran AlKareem Radio",
+       "active": 0,
        "url": "https://sawtelghad.org:7001/",
        "tags": [
         "islamic_quran",
@@ -134,12 +148,14 @@
       },
       {
        "name": "Quran",
+       "active": 0,
        "url": "http://62.210.106.9:8012",
        "bitrate": 64,
        "logo": "http://radio.pervii.com/logo/1403579201.png"
       },
       {
        "name": "Quran Radio",
+       "active": 0,
        "url": "http://www.quran-radio.org:8002/",
        "tags": [
         "islamic_quran",
@@ -150,6 +166,7 @@
       },
       {
        "name": "Quran Radio",
+       "active": 0,
        "url": "http://www.quran-radio.org:8080/stream.mp3",
        "tags": [
         "islamic_quran",
@@ -159,6 +176,7 @@
       },
       {
        "name": "Quran Radio",
+       "active": 0,
        "url": "http://www.quran-radio.org:8080/",
        "language_inferred": true
       }
@@ -169,6 +187,7 @@
      "stations": [
       {
        "name": "7ala Radio 107.4 FM",
+       "active": 0,
        "url": "http://rs.hadara.ps:8010/",
        "tags": [
         "world",
@@ -183,6 +202,7 @@
      "stations": [
       {
        "name": "Ajyal Radio",
+       "active": 0,
        "url": "http://46.43.64.50:8008/AJYAL",
        "tags": [
         "pop_hits",
@@ -193,6 +213,7 @@
       },
       {
        "name": "Al-Quds Radio 102.7",
+       "active": 0,
        "url": "http://live.alboraq.ps:8000/stream.mp3",
        "tags": [
         "news_talk",
@@ -204,6 +225,7 @@
       },
       {
        "name": "Al7an Radio",
+       "active": 0,
        "url": "https://sawtelghad.org:7003/",
        "tags": [
         "various_eclectic",
@@ -212,10 +234,12 @@
       },
       {
        "name": "Alhorya Radio",
+       "active": 0,
        "url": "http://217.66.226.47:8330"
       },
       {
        "name": "Burj FM",
+       "active": 0,
        "url": "http://82.213.26.67:8000/stream",
        "tags": [
         "news_talk",
@@ -225,6 +249,7 @@
       },
       {
        "name": "Gaza FM",
+       "active": 0,
        "url": "http://173.212.226.153:8000",
        "tags": [
         "news_talk",
@@ -233,6 +258,7 @@
       },
       {
        "name": "Hayat FM",
+       "active": 0,
        "url": "http://stream.purecore.net:8000/",
        "tags": [
         "news_talk",
@@ -242,6 +268,7 @@
       },
       {
        "name": "Hayat FM 100.8",
+       "active": 0,
        "url": "http://hayatfm.ps:8000/",
        "tags": [
         "news_talk",
@@ -251,6 +278,7 @@
       },
       {
        "name": "Hayat FM radio",
+       "active": 0,
        "url": "https://rs.hadara.ps:9614/",
        "tags": [
         "news_talk",
@@ -260,6 +288,7 @@
       },
       {
        "name": "Nas FM",
+       "active": 0,
        "url": "http://5.34.160.146:8000/live",
        "tags": [
         "news_talk",
@@ -269,6 +298,7 @@
       },
       {
        "name": "Quds Radio 102.7",
+       "active": 0,
        "url": "http://live.alboraq.ps:8000/",
        "tags": [
         "news_talk",
@@ -277,6 +307,7 @@
       },
       {
        "name": "Radio 7ala",
+       "active": 0,
        "url": "http://rs.hadara.ps:8010/.mp3",
        "tags": [
         "news_talk",
@@ -286,6 +317,7 @@
       },
       {
        "name": "Radio Al Mahaba",
+       "active": 0,
        "url": "http://streamer.mada.ps:8026/almahaba.ogg",
        "tags": [
         "news_talk",
@@ -295,10 +327,12 @@
       },
       {
        "name": "Radio Alaqsa Voice",
+       "active": 0,
        "url": "http://live.atyaf.co:8004/stream.mp3"
       },
       {
        "name": "Radio Alaqsa Voice",
+       "active": 0,
        "url": "http://live.atyaf.co:8004/",
        "tags": [
         "news_talk",
@@ -307,18 +341,22 @@
       },
       {
        "name": "Radio Angham",
+       "active": 0,
        "url": "http://46.43.64.50:8010/ANGHAM"
       },
       {
        "name": "Radio Angham radio",
+       "active": 0,
        "url": "https://streamer.mada.ps:8207/ANGHAM"
       },
       {
        "name": "Radio Mawwal radio",
+       "active": 0,
        "url": "http://streamer.mada.ps:8041/mawwal"
       },
       {
        "name": "Radio Nagham",
+       "active": 0,
        "url": "http://rs.hadara.ps:8610/stream",
        "tags": [
         "news_talk",
@@ -328,6 +366,7 @@
       },
       {
        "name": "Radio Nisaa 96 FM",
+       "active": 0,
        "url": "https://icecast.mada.ps:8498/stream",
        "tags": [
         "various_eclectic",
@@ -336,6 +375,7 @@
       },
       {
        "name": "Radio Nissa",
+       "active": 0,
        "url": "http://5.34.160.144:8000/stream",
        "tags": [
         "news_talk",
@@ -344,10 +384,12 @@
       },
       {
        "name": "Radio Nissa",
+       "active": 0,
        "url": "https://icecast.mada.ps:8210/stream"
       },
       {
        "name": "Radio Nissa radio",
+       "active": 0,
        "url": "https://streamer.mada.ps:8210/nisaa",
        "tags": [
         "news_talk",
@@ -358,6 +400,7 @@
       },
       {
        "name": "Radio Orient Bethlehem",
+       "active": 0,
        "url": "http://streamer.mada.ps:8034/orient",
        "tags": [
         "news_talk",
@@ -366,6 +409,7 @@
       },
       {
        "name": "Raya FM",
+       "active": 0,
        "url": "http://live.raya.ps:8064/stream.mp3",
        "tags": [
         "pop_hits",
@@ -375,20 +419,24 @@
       },
       {
        "name": "TMFM",
+       "active": 0,
        "url": "http://streamer.mada.ps:8026/stream",
        "country_inferred": true,
        "language_inferred": true
       },
       {
        "name": "Turath Radio",
+       "active": 0,
        "url": "https://sawtelghad.org:7002/"
       },
       {
        "name": "Voice of Palestine Radio",
+       "active": 0,
        "url": "http://46.43.69.146:8008/stream.nsv&type=mp3"
       },
       {
        "name": "Wattan FM radio",
+       "active": 0,
        "url": "http://46.43.64.50:8091/wattan",
        "tags": [
         "news_talk",
@@ -398,6 +446,7 @@
       },
       {
        "name": "إذاعة صوت الغد radio",
+       "active": 0,
        "url": "https://sawtelghad.org:7000/",
        "tags": [
         "news_talk",
@@ -411,15 +460,18 @@
      "stations": [
       {
        "name": "Maestro Beat Web",
+       "active": 0,
        "url": "http://s3.voscast.com:8162/",
        "language_inferred": true
       },
       {
        "name": "Sawt Alsharq (راديو الشرق)",
+       "active": 0,
        "url": "http://178.214.74.22:8000/stream.mp3"
       },
       {
        "name": "راديو زمان radio",
+       "active": 0,
        "url": "http://sawtelghad.org:8010/",
        "language_inferred": true
       }
@@ -430,23 +482,28 @@
      "stations": [
       {
        "name": "Future Radio FM (راديو المستقبل)",
+       "active": 0,
        "url": "http://live.blue.ps:8000/"
       },
       {
        "name": "Jerusalem 24",
+       "active": 0,
        "url": "https://icecast.mada.ps:8404/24fmen",
        "language_inferred": true
       },
       {
        "name": "Nawras Radio 93.5 FM",
+       "active": 0,
        "url": "http://217.66.226.47:8024"
       },
       {
        "name": "Radio 7ala (راديو حلا)",
+       "active": 0,
        "url": "http://217.66.226.47:8010"
       },
       {
        "name": "Radio Bethlehem 2000",
+       "active": 0,
        "url": "http://rs.hadara.ps:8002/stream",
        "tags": [
         "various_eclectic",
@@ -455,19 +512,23 @@
       },
       {
        "name": "Radio Marah (راديو مرح)",
+       "active": 0,
        "url": "http://omardes.org:9994/stream.mp3&13202692901&duration=99999&id=scplayer&autostart=true"
       },
       {
        "name": "Radio Sawa 94.2 FM radio",
+       "active": 0,
        "url": "https://mbnv-audio-ingest.akamaized.net/hls/live/2038905/MBNV_SAWA_LEVANT_AUDIO_HLS/master_11.m3u8"
       },
       {
        "name": "Radio Yenbo3",
+       "active": 0,
        "url": "http://144.217.167.114:8000/",
        "language_inferred": true
       },
       {
        "name": "Raya FM",
+       "active": 0,
        "url": "http://live.raya.fm:8064/",
        "tags": [
         "pop_hits",
@@ -476,6 +537,7 @@
       },
       {
        "name": "Raya FM",
+       "active": 0,
        "url": "https://crs.webdesign-flash.ro/?q=http://live.raya.ps:8064/stream/&plugin_id=7628&site_id=8520577",
        "tags": [
         "pop_hits",
@@ -484,11 +546,13 @@
       },
       {
        "name": "راديو فيروز radio",
+       "active": 0,
        "url": "http://sawtelghad.org:8008/",
        "language_inferred": true
       },
       {
        "name": "راديو كوكب الشرق radio",
+       "active": 0,
        "url": "http://sawtelghad.org:8006/",
        "language_inferred": true
       }
@@ -499,6 +563,7 @@
      "stations": [
       {
        "name": "Futuer Fm",
+       "active": 0,
        "url": "http://live.blue.ps:8000/stream/1",
        "tags": [
         "rock",
@@ -513,6 +578,7 @@
      "stations": [
       {
        "name": "Radio Alhara",
+       "active": 0,
        "url": "https://crs.webdesign-flash.ro/?q=http://stream.radiojar.com/78cxy6wkxtzuv&plugin_id=7628&site_id=8520577",
        "tags": [
         "soul_rnb_funk",
@@ -529,6 +595,7 @@
      "stations": [
       {
        "name": "راديو صوريف",
+       "active": 0,
        "url": "https://stream.zeno.fm/cmpk4mngnkhvv",
        "language_inferred": true
       }
@@ -539,6 +606,7 @@
      "stations": [
       {
        "name": "Asra Voice",
+       "active": 0,
        "url": "http://live.atyaf.co:8002/stream.mp3",
        "language_inferred": true
       }
@@ -549,10 +617,12 @@
      "stations": [
       {
        "name": "24FM",
+       "active": 0,
        "url": "https://icecast.mada.ps:8402/24fm"
       },
       {
        "name": "Al Balad FM 95.6",
+       "active": 0,
        "url": "http://live.masterweb-ps.com:8006/",
        "tags": [
         "world",
@@ -561,10 +631,12 @@
       },
       {
        "name": "Bethlehem 2000 89.6 FM",
+       "active": 0,
        "url": "http://rs.hadara.ps:8046/"
       },
       {
        "name": "Falastini Radio",
+       "active": 0,
        "url": "https://palradio.radioca.st/",
        "tags": [
         "news_talk",
@@ -573,6 +645,7 @@
       },
       {
        "name": "Hayat FM",
+       "active": 0,
        "url": "https://streamingv2.shoutcast.com/hayat-fm",
        "tags": [
         "world",
@@ -581,10 +654,12 @@
       },
       {
        "name": "Iman Radio 96.2",
+       "active": 0,
        "url": "http://164.68.114.52:8000/stream.mp3"
       },
       {
        "name": "Najah FM An-Najah National University 88.5 FM",
+       "active": 0,
        "url": "http://rs.hadara.ps:8550/stream/",
        "tags": [
         "world",
@@ -593,22 +668,27 @@
       },
       {
        "name": "Nawras Radio 93.5 FM",
+       "active": 0,
        "url": "http://rs.hadara.ps:8024/"
       },
       {
        "name": "Panorama FM 103.2",
+       "active": 0,
        "url": "http://www.panoramafm.ps:8008/"
       },
       {
        "name": "PowerFM Arabic",
+       "active": 0,
        "url": "http://rs.hadara.ps:8044/"
       },
       {
        "name": "Radio 7ria FM 92.7",
+       "active": 0,
        "url": "http://217.66.226.47:8000"
       },
       {
        "name": "Radio Angham 92.3 FM",
+       "active": 0,
        "url": "http://streamer.mada.ps:8010/ANGHAM",
        "tags": [
         "news_talk",
@@ -618,10 +698,12 @@
       },
       {
        "name": "Radio Farah 91.2 FM",
+       "active": 0,
        "url": "http://fara7.callu.ps:8000/live"
       },
       {
        "name": "Radio Hebron FM 90.4",
+       "active": 0,
        "url": "http://www.alhaneny.com:8056",
        "tags": [
         "news_talk",
@@ -630,18 +712,22 @@
       },
       {
        "name": "Radio Klaket",
+       "active": 0,
        "url": "http://live.radioklaket.ps/radio/8000/radio.mp3"
       },
       {
        "name": "Radio Kolalnas 107.3 FM",
+       "active": 0,
        "url": "http://38.96.175.23:5206/"
       },
       {
        "name": "Radio Rabea FM 88.7",
+       "active": 0,
        "url": "http://radio.r4fm.ps:8044/"
       },
       {
        "name": "Raya FM 96.8",
+       "active": 0,
        "url": "http://live.raya.ps:8064/",
        "tags": [
         "news_talk",
@@ -650,6 +736,7 @@
       },
       {
        "name": "Raya Raya Mix",
+       "active": 0,
        "url": "http://live.raya.ps:8032/stream.mp3",
        "country_inferred": true
       }
@@ -660,476 +747,574 @@
      "stations": [
       {
        "name": "24FM",
+       "active": 0,
        "url": "http://24fm.callu.ps:8000/live"
       },
       {
        "name": "A7la FM (أحلى إف إم)",
+       "active": 0,
        "url": "http://a7lafm.callu.ps:8000/mount"
       },
       {
        "name": "A8ani",
+       "active": 0,
        "url": "https://stream.zeno.fm/m1p6saq6yg0uv",
        "language_inferred": true
       },
       {
        "name": "AAAAAAAAAAAA",
+       "active": 0,
        "url": "https://stream.zeno.fm/0ubs04hqw2hvv",
        "language_inferred": true
       },
       {
        "name": "AJYAL Radio (راديو أجيال)",
+       "active": 0,
        "url": "https://streamer.mada.ps:8208/ajyal",
        "rb": "8cd9d640-ed84-4584-82e2-36567c23249b"
       },
       {
        "name": "AJYAL Radio (راديو أجيال) – East Jerusalem – West Bank – Palestine",
+       "active": 0,
        "url": "http://streamer.mada.ps:8008/AJYAL",
        "language_inferred": true
       },
       {
        "name": "Ajyal Radio Music Only",
+       "active": 0,
        "url": "http://streamer.mada.ps:8039/musiconly",
        "country_inferred": true
       },
       {
        "name": "Ajyal Radio Network (ARN)",
+       "active": 0,
        "url": "http://streamer.mada.ps:8008/ajyal",
        "language_inferred": true
       },
       {
        "name": "Al Huriya News Agency (شبكة الحرية الإعلامية )",
+       "active": 0,
        "url": "http://rs.hadara.ps:8000/stream.mp3"
       },
       {
        "name": "AL Quran AL Kareem",
+       "active": 0,
        "url": "https://stream.zeno.fm/f5ve851shm8uv",
        "language_inferred": true
       },
       {
        "name": "Al Resalah radio (الرسالة نت)",
+       "active": 0,
        "url": "http://live.atyaf.co:8008/stream.mp3"
       },
       {
        "name": "alasraa",
+       "active": 0,
        "url": "https://stream.zeno.fm/bva5ccmee18uv",
        "language_inferred": true
       },
       {
        "name": "Alhorya Radio (الحرية راديو)",
+       "active": 0,
        "url": "http://5.79.64.175:9500/"
       },
       {
        "name": "Alhorya Radio (الحرية راديو) – Ramallah – West Bank – Palestine",
+       "active": 0,
        "url": "https://server.radiowsla.net/9308/stream",
        "language_inferred": true
       },
       {
        "name": "Ammar Hasan",
+       "active": 0,
        "url": "https://stream.zeno.fm/ag47ggd4v7zuv",
        "language_inferred": true
       },
       {
        "name": "Athan Radio",
+       "active": 0,
        "url": "http://streamer.mada.ps:8016/athan"
       },
       {
        "name": "AtherTubasfm",
+       "active": 0,
        "url": "https://stream.zeno.fm/3f8gghnfgphvv"
       },
       {
        "name": "Baithlehem 2000 (راديو بيت لحم ) – Bethlehem – West Bank – Palestine",
+       "active": 0,
        "url": "http://rs.hadara.ps:8002/listen.pls",
        "language_inferred": true
       },
       {
        "name": "Balboa Classic",
+       "active": 0,
        "url": "https://stream.zeno.fm/s6bsuy9ym18uv",
        "language_inferred": true
       },
       {
        "name": "barqgaza",
+       "active": 0,
        "url": "https://stream.zeno.fm/9mw2nbwf838uv",
        "language_inferred": true
       },
       {
        "name": "Burj FM",
+       "active": 0,
        "url": "http://82.213.26.67:8000/",
        "language_inferred": true
       },
       {
        "name": "Cool FM",
+       "active": 0,
        "url": "http://streamer.mada.ps:8043/coolfm",
        "country_inferred": true,
        "language_inferred": true
       },
       {
        "name": "Cool FM Radio 104",
+       "active": 0,
        "url": "http://rs.hadara.ps:8006/stream/1",
        "language_inferred": true
       },
       {
        "name": "DJ Bshara Rantisi",
+       "active": 0,
        "url": "https://stream.zeno.fm/26wswhkkhg0uv",
        "language_inferred": true
       },
       {
        "name": "DR AIHAM",
+       "active": 0,
        "url": "https://stream.zeno.fm/chbhskfbvnhvv",
        "language_inferred": true
       },
       {
        "name": "ELSC TALKS",
+       "active": 0,
        "url": "https://stream.zeno.fm/v1z5t6mnug0uv",
        "language_inferred": true
       },
       {
        "name": "FajerFM",
+       "active": 0,
        "url": "http://217.66.226.47:8004/live"
       },
       {
        "name": "Falastini Radio",
+       "active": 0,
        "url": "http://176.31.107.8:8289/",
        "language_inferred": true
       },
       {
        "name": "Feminist FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/b5ydeggbhg8uv",
        "language_inferred": true
       },
       {
        "name": "Fm 2 Zaid",
+       "active": 0,
        "url": "https://stream.zeno.fm/727pxvmuuxhvv",
        "language_inferred": true
       },
       {
        "name": "Hayat 100.8 FM",
+       "active": 0,
        "url": "http://stream.purecore.net:8000/stream/1",
        "language_inferred": true
       },
       {
        "name": "Hayat FM (إذاعة حياة) – 100.8 FM – Hebron – West Bank – Palestine",
+       "active": 0,
        "url": "http://213.239.218.99:7172/live?1441300173012.mp3",
        "language_inferred": true
       },
       {
        "name": "Holy Quran Radio 96.9 FM",
+       "active": 0,
        "url": "http://www.quran-radio.org:8002/stream/1",
        "language_inferred": true
       },
       {
        "name": "jenin redio",
+       "active": 0,
        "url": "https://stream.zeno.fm/p7mtzgz2pnhvv",
        "language_inferred": true
       },
       {
        "name": "Jerusalem 24 - 106.1 FM",
+       "active": 0,
        "url": "https://audio.callu.ps/24fmen",
        "country_inferred": true,
        "language_inferred": true
       },
       {
        "name": "Joe Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/mr5f12e9fphvv",
        "language_inferred": true
       },
       {
        "name": "kingops",
+       "active": 0,
        "url": "https://stream.zeno.fm/kuzzgq570s8uv",
        "language_inferred": true
       },
       {
        "name": "Kolalnas Radio (راديو كل الناس)",
+       "active": 0,
        "url": "http://mmbradio1.serverroom.us:5206/"
       },
       {
        "name": "Kolalnas Radio (راديو كل الناس) – Hebron – West Bank – Palestine",
+       "active": 0,
        "url": "http://mmbradio1.serverroom.us:5206/listen.pls",
        "language_inferred": true
       },
       {
        "name": "kytk.fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/pffsu2gckfhvv",
        "language_inferred": true
       },
       {
        "name": "Maan Panorama FM",
+       "active": 0,
        "url": "http://panoramafm.ps:8008/stream",
        "country_inferred": true,
        "language_inferred": true
       },
       {
        "name": "MAXPLAY - SLOW MIX",
+       "active": 0,
        "url": "https://stream.zeno.fm/1cq694vn9whvv",
        "language_inferred": true
       },
       {
        "name": "MAXPLAY RADIO - Fadel Shaker",
+       "active": 0,
        "url": "https://stream.zeno.fm/1ku4hh8gfuhvv",
        "language_inferred": true
       },
       {
        "name": "MAXPLAY RADIO - Husain Aljasmi",
+       "active": 0,
        "url": "https://stream.zeno.fm/sg5ee2ypeuhvv",
        "language_inferred": true
       },
       {
        "name": "MAXPLAY RADIO - Melhem Barakat",
+       "active": 0,
        "url": "https://stream.zeno.fm/gwhk3u1keuhvv"
       },
       {
        "name": "MAXPLAY RADIO - MT",
+       "active": 0,
        "url": "https://stream.zeno.fm/ckxcwphhfuhvv",
        "language_inferred": true
       },
       {
        "name": "MAXPLAY RADIO - S-MIX",
+       "active": 0,
        "url": "https://stream.zeno.fm/et65fv92sxhvv",
        "language_inferred": true
       },
       {
        "name": "MAXPLAY RADIO - Sabah Fakhri",
+       "active": 0,
        "url": "https://stream.zeno.fm/r15s90qgfuhvv",
        "language_inferred": true
       },
       {
        "name": "Meoisk",
+       "active": 0,
        "url": "https://stream.zeno.fm/ncb4t8ngxy8uv",
        "language_inferred": true
       },
       {
        "name": "MMAXPLAY RADIO - Remix",
+       "active": 0,
        "url": "https://stream.zeno.fm/28xyyzkakuhvv",
        "language_inferred": true
       },
       {
        "name": "Nas FM",
+       "active": 0,
        "url": "https://streaming.zaytonatube.com/NasRadio.aac/",
        "language_inferred": true
       },
       {
        "name": "NTL.Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/lpcwxdbarpzuv",
        "language_inferred": true
       },
       {
        "name": "One FM",
+       "active": 0,
        "url": "http://streamer.mada.ps:8027/onefm",
        "country_inferred": true
       },
       {
        "name": "Online A-z",
+       "active": 0,
        "url": "https://stream.zeno.fm/32c1e79khf9uv",
        "language_inferred": true
       },
       {
        "name": "Palestine Youth Radio (راديو شباب فلسطين)",
+       "active": 0,
        "url": "http://217.66.226.47:8320/"
       },
       {
        "name": "Panorama FM",
+       "active": 0,
        "url": "http://panoramafm.ps:8008/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Panorama FM 103.2",
+       "active": 0,
        "url": "http://www.panoramafm.ps:8008/stream/1",
        "language_inferred": true
       },
       {
        "name": "Podcast.ps",
+       "active": 0,
        "url": "https://stream.zeno.fm/afj1m79sbbfuv",
        "language_inferred": true
       },
       {
        "name": "Power Radio",
+       "active": 0,
        "url": "http://rs.hadara.ps:8044/stream"
       },
       {
        "name": "Radio Alam (راديو علم)",
+       "active": 0,
        "url": "http://213.6.105.235:8000/broadwave.mp3"
       },
       {
        "name": "Radio alHara",
+       "active": 0,
        "url": "http://n02.radiojar.com/78cxy6wkxtzuv?1634328730=&rj-tok=AAABfIWfHK4AlWz8Q03vJJQdWw&rj-ttl=5?n=f5471cba5fc648d70bf4",
        "language_inferred": true
       },
       {
        "name": "Radio AlHara",
+       "active": 0,
        "url": "http://n02.radiojar.com/78cxy6wkxtzuv?1634328730=&rj-tok=AAABfIWfHK4AlWz8Q03vJJQdWw&rj-ttl=5?n=cb44237f50c3d8873b79",
        "language_inferred": true
       },
       {
        "name": "Radio arb3a Fm ( راديو الرابعة)",
+       "active": 0,
        "url": "http://radio.r4fm.ps:8044/stream.mp3"
       },
       {
        "name": "Radio Bethlehem 2000",
+       "active": 0,
        "url": "http://217.66.226.47:8002/stream/"
       },
       {
        "name": "Radio Bethlehem 2000 - RB2000",
+       "active": 0,
        "url": "http://rs.hadara.ps:8046/stream",
        "country_inferred": true,
        "language_inferred": true
       },
       {
        "name": "Radio Hayat",
+       "active": 0,
        "url": "https://stream.zeno.fm/067dc4ob4f4vv",
        "language_inferred": true
       },
       {
        "name": "Radio Nagham",
+       "active": 0,
        "url": "http://rs.hadara.ps:8610/stream?type=http&ampnocache=7",
        "language_inferred": true
       },
       {
        "name": "Radio Nagham (راديو نغم)",
+       "active": 0,
        "url": "http://213.6.76.82:8000/nagham.mp3"
       },
       {
        "name": "Radio Nagham (راديو نغم) – Qalqilyah – West Bank – Palestine",
+       "active": 0,
        "url": "http://rs.hadara.ps:8610/stream/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio Rabea FM 88.7",
+       "active": 0,
        "url": "http://radio.r4fm.ps:8044/stream/1",
        "language_inferred": true
       },
       {
        "name": "Radio Sharq (راديو الشرق)",
+       "active": 0,
        "url": "http://178.214.74.22/stream.mp3"
       },
       {
        "name": "Radio Sirajfm",
+       "active": 0,
        "url": "http://144.76.87.231:8000/live",
        "language_inferred": true
       },
       {
        "name": "Sawt El Ghad",
+       "active": 0,
        "url": "http://204.93.165.211:1050/",
        "language_inferred": true
       },
       {
        "name": "Sawt el Ghad (صوت الغد)",
+       "active": 0,
        "url": "http://live.sawtelghad.net:8000/stream",
        "language_inferred": true
       },
       {
        "name": "Sirajfm 93.5FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/1db35rs024zuv",
        "language_inferred": true
       },
       {
        "name": "SSSSSSSSSSSSSSSSSSSSSS",
+       "active": 0,
        "url": "https://stream.zeno.fm/7mxc9vmqw2hvv",
        "language_inferred": true
       },
       {
        "name": "Tafsir Quran & Islam Radio Station",
+       "active": 0,
        "url": "https://radio.quranradiotafsir.com/9992/stream"
       },
       {
        "name": "TareqShaheen",
+       "active": 0,
        "url": "https://stream.zeno.fm/b84e1ay2uhhvv",
        "language_inferred": true
       },
       {
        "name": "türkçe",
+       "active": 0,
        "url": "https://stream.zeno.fm/74kgm9kt0uhvv",
        "language_inferred": true
       },
       {
        "name": "Voice of Palestine اذاعة صوت فلسطين",
+       "active": 0,
        "url": "http://46.43.69.146:8008/stream.mp3&type=mp3"
       },
       {
        "name": "Voice of Palestine اذاعة صوت فلسطين – 90.7 FM – Ramallah – West Bank – Palestine",
+       "active": 0,
        "url": "https://pbc.furrera.ps/voiceofpalestine/tracks-a1/mono.m3u8",
        "language_inferred": true
       },
       {
        "name": "Wattan FM",
+       "active": 0,
        "url": "https://rs.hadara.ps:9556/stream?n=96da3f2b6851b86318ce",
        "language_inferred": true
       },
       {
        "name": "WTLS 2",
+       "active": 0,
        "url": "https://stream.zeno.fm/4exasemx7k0uv",
        "language_inferred": true
       },
       {
        "name": "yazn twasle fm in the wep",
+       "active": 0,
        "url": "https://stream.zeno.fm/ex73723x1ehvv",
        "language_inferred": true
       },
       {
        "name": "Yosino Animo No 02",
+       "active": 0,
        "url": "https://stream.zeno.fm/lp5ok9ss3ravv",
        "language_inferred": true
       },
       {
        "name": "Zaytona",
+       "active": 0,
        "url": "https://stream.zeno.fm/2pfwbxq52rhvv",
        "language_inferred": true
       },
       {
        "name": "إذاعة 24FM - فلسطين",
+       "active": 0,
        "url": "https://audio.callu.ps/24fm",
        "country_inferred": true,
        "language_inferred": true
       },
       {
        "name": "إذاعة زمن FM (ZMN FM) – Gaza – Gaza Strip – Palestine",
+       "active": 0,
        "url": "http://rs.hadara.ps:8608/stream/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "إذاعة صوت الغد - راديو ترانس",
+       "active": 0,
        "url": "http://sawtelghad.org:8002/stream",
        "language_inferred": true
       },
       {
        "name": "إذاعة صوت الغد - راديو راب",
+       "active": 0,
        "url": "http://sawtelghad.org:8555/stream",
        "language_inferred": true
       },
       {
        "name": "إذاعة صوت الغد - راديو وطني",
+       "active": 0,
        "url": "https://sawtelghad.org:7005/stream.mp3/"
       },
       {
        "name": "الاقصى",
+       "active": 0,
        "url": "https://stream.alaqsavoice.ps/stream.mp3/"
       },
       {
        "name": "راديو أجيال - فلسطين",
+       "active": 0,
        "url": "https://icecast.mada.ps:8495/ajyalnewssl",
        "country_inferred": true,
        "language_inferred": true
       },
       {
        "name": "راديو طرب",
+       "active": 0,
        "url": "https://sawtelghad.org:7007/",
        "rb": "f27afa46-8650-4a88-a632-6f46e61427b2",
        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7bT8sxvjzHGaSGYnFogkr7zWi0Fjubf_E-lKsH42c7g&s=10"
       },
       {
        "name": "راديو مدرسة دير جرير",
+       "active": 0,
        "url": "https://stream.zeno.fm/c1fkenbxfdjuv",
        "language_inferred": true
       },
       {
        "name": "راديو وطني",
+       "active": 0,
        "url": "https://sawtelghad.org:7005/"
       },
       {
        "name": "صوت المواطن",
+       "active": 0,
        "url": "https://stream.zeno.fm/mqkxmmpzgsvvv",
        "language_inferred": true
       },
       {
        "name": "ميادين يطا",
+       "active": 0,
        "url": "https://stream.zeno.fm/79ytmw5kmrhvv"
       }
      ]
@@ -1144,10 +1329,12 @@
      "stations": [
       {
        "name": "ᴬⁿᵒⁿʸᵐᵒᵘˢ ᴹⁱⁿᵃⁿᵍᵏᵃᵇᵃᵘ✅",
+       "active": 0,
        "url": "https://stream.zeno.fm/zwzbcp7fsg8uv"
       },
       {
        "name": "ᴵⁿᵛᵉˢᵗⁱᵍᵃˢⁱ ᴶᵘʳⁿᵃˡⁱˢᵗⁱᵏ✅",
+       "active": 0,
        "url": "https://stream.zeno.fm/0q2d6a7f0k8uv"
       }
      ]
@@ -1162,6 +1349,7 @@
      "stations": [
       {
        "name": "Kool 104 FM",
+       "active": 0,
        "url": "https://ice42.securenetsystems.net/KQBK?playSessionID=893715E2-D578-F731-09E75DFFEE53C84F"
       }
      ]
@@ -1176,6 +1364,7 @@
      "stations": [
       {
        "name": "Cool FM Radio 104",
+       "active": 0,
        "url": "http://rs.hadara.ps:8006/"
       }
      ]
@@ -1190,6 +1379,7 @@
      "stations": [
       {
        "name": "Marah FM 100.8",
+       "active": 0,
        "url": "http://rs.hadara.ps:8056/",
        "tags": [
         "news_talk",
@@ -1208,6 +1398,7 @@
      "stations": [
       {
        "name": "Tzgospel radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/w0qesc6gffhvv"
       }
      ]

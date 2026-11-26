@@ -10,6 +10,7 @@
      "stations": [
       {
        "name": "Facethemusic",
+       "active": 0,
        "url": "http://173.208.177.90:14982/listen.pls"
       }
      ]
@@ -19,6 +20,7 @@
      "stations": [
       {
        "name": "antenne 1 Happy Listen live",
+       "active": 0,
        "url": "https://stream.antenne1.de/happy/livestream1.aac",
        "tags": [
         "pop_hits",
@@ -32,6 +34,7 @@
      "stations": [
       {
        "name": "Sckoolboy",
+       "active": 0,
        "url": "https://stream.zeno.fm/g8zchechfv8uv"
       }
      ]
@@ -41,6 +44,7 @@
      "stations": [
       {
        "name": "GoldFM 1024",
+       "active": 0,
        "url": "http://85.195.17.209:8080"
       }
      ]
@@ -50,6 +54,7 @@
      "stations": [
       {
        "name": "Hitrádio Osmdesátka Listen live",
+       "active": 0,
        "url": "https://19993.live.streamtheworld.com/HITRADIO_OSMDESATKA_128.mp3",
        "tags": [
         "rock",
@@ -64,10 +69,12 @@
      "stations": [
       {
        "name": "1dahanush",
+       "active": 0,
        "url": "https://stream.zeno.fm/kpy2zqz8938uv"
       },
       {
        "name": "shibuya kei",
+       "active": 0,
        "url": "https://stream.zeno.fm/9nhagr4w3rbuv"
       }
      ]

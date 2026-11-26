@@ -10,10 +10,12 @@
      "stations": [
       {
        "name": "KMOA 89.7 FM",
+       "active": 0,
        "url": "http://173.193.205.96:8356"
       },
       {
        "name": "創世",
+       "active": 0,
        "url": "https://cdn.deepcore.online/hlsme/ctv_hk_720.m3u8?n=aca2e2d6d45d346bd380",
        "language_inferred": true
       }
@@ -24,6 +26,7 @@
      "stations": [
       {
        "name": "104.7 The Beat radio",
+       "active": 0,
        "url": "https://streamdb8web.securenetsystems.net/cirruscontent/KKBT",
        "tags": [
         "electronic",
@@ -40,6 +43,7 @@
      "stations": [
       {
        "name": "YounkinFM",
+       "active": 0,
        "url": "https://s3.unlimitedradiohosting.com/public/younkinfm",
        "language_inferred": true
       }
@@ -50,6 +54,7 @@
      "stations": [
       {
        "name": "KSBS-FM Jazz Radio",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3408139_SC",
        "language_inferred": true
       }
@@ -60,11 +65,13 @@
      "stations": [
       {
        "name": "V103 Listen live",
+       "active": 0,
        "url": "https://ice10.securenetsystems.net/WVUV?playSessionID=1AD90EF1-CE44-B02E-6F01D878E0890CFA",
        "language_inferred": true
       },
       {
        "name": "WVUV-FM - V103 103.1 FM",
+       "active": 0,
        "url": "https://ice10.securenetsystems.net/WVUV",
        "tags": [
         "news_talk",
@@ -82,10 +89,12 @@
      "stations": [
       {
        "name": "104.7 The Beat",
+       "active": 0,
        "url": "https://ice5.securenetsystems.net/KKBT"
       },
       {
        "name": "93KHJ",
+       "active": 0,
        "url": "https://ice9.securenetsystems.net/KKHJ",
        "tags": [
         "pop_hits",
@@ -97,6 +106,7 @@
       },
       {
        "name": "KSBS-FM Island Radio",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3429070_SC",
        "tags": [
         "pop_hits",
@@ -106,6 +116,7 @@
       },
       {
        "name": "Station Beta, Pago Pago radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/vxmoc8vjo5juv",
        "language_inferred": true
       }
@@ -116,6 +127,7 @@
      "stations": [
       {
        "name": "93KHJ radio",
+       "active": 0,
        "url": "https://streamdb7web.securenetsystems.net/v5/KKHJ",
        "tags": [
         "rock",
@@ -126,6 +138,7 @@
       },
       {
        "name": "KSBS-FM R&B Rock Radio",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3477521_SC",
        "language_inferred": true
       }
@@ -136,6 +149,7 @@
      "stations": [
       {
        "name": "93KHJ Listen live",
+       "active": 0,
        "url": "https://ice9.securenetsystems.net/KKHJ?playSessionID=1AA68A98-9E7B-FC25-7B7342EB8111635A",
        "tags": [
         "pop_hits",
@@ -152,34 +166,41 @@
      "stations": [
       {
        "name": "Island 92",
+       "active": 0,
        "url": "http://205.161.15.113:88/broadwave.mp3?src=3&kbps=128"
       },
       {
        "name": "KPPO 90.5 FM (US Only)",
+       "active": 0,
        "url": "https://ice9.securenetsystems.net/KPPO"
       },
       {
        "name": "KSBS Cool Rock – Pago Pago – Eastern District – AS",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3643205_SC",
        "language_inferred": true
       },
       {
        "name": "KSBS Musika Samoa – Pago Pago – Eastern District – AS",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3643255_SC",
        "language_inferred": true
       },
       {
        "name": "KSBS-FM News",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3478073.aac",
        "language_inferred": true
       },
       {
        "name": "WABC Pure Gold Radio Airchecks",
+       "active": 0,
        "url": "https://sp14.instainternet.com:8036/stream?type=http\\u0026nocache=5",
        "language_inferred": true
       },
       {
        "name": "WVUV - V103",
+       "active": 0,
        "url": "https://ice10.securenetsystems.net/WVUV?playSessionID=E4848040-BCFD-D444-9E096471378AED52",
        "language_inferred": true
       }

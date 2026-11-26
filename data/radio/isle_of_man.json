@@ -10,6 +10,7 @@
      "stations": [
       {
        "name": "U2 Zoo Station Radio The Best Of Live U2",
+       "active": 0,
        "url": "http://fr.radio.u-2.im:9998/stream/1",
        "tags": [
         "rock",
@@ -25,6 +26,7 @@
      "stations": [
       {
        "name": "Estéreo Católica",
+       "active": 0,
        "url": "https://ea.im:8443/live",
        "country_inferred": true,
        "language_inferred": true
@@ -36,6 +38,7 @@
      "stations": [
       {
        "name": "Hitradio Buxtehude Classic",
+       "active": 0,
        "url": "https://stream.hitradio-buxtehude.de/radiode/hitradio-buxtehude-classic",
        "tags": [
         "classical",
@@ -50,6 +53,7 @@
      "stations": [
       {
        "name": "1dev_radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/z931y5ub938uv",
        "language_inferred": true
       }
@@ -60,6 +64,7 @@
      "stations": [
       {
        "name": "Radio Vis de Taina",
+       "active": 0,
        "url": "http://89.39.189.44:8000/stream",
        "language_inferred": true
       }
@@ -70,6 +75,7 @@
      "stations": [
       {
        "name": "1 Mix Radio House",
+       "active": 0,
        "url": "http://fr1.1mix.co.uk:8014/",
        "language_inferred": true
       }
@@ -80,6 +86,7 @@
      "stations": [
       {
        "name": "Manx Radio AM",
+       "active": 0,
        "url": "http://tx.sharp-stream.com/icecast.php?i=manxradioam.mp3",
        "tags": [
         "college_community",
@@ -89,11 +96,13 @@
       },
       {
        "name": "Manx Radio FM",
+       "active": 0,
        "url": "https://stream.pcradio.ru/manxradio_fm-med",
        "language_inferred": true
       },
       {
        "name": "Manx Radio FM",
+       "active": 0,
        "url": "http://tx.sharp-stream.com/icecast.php?i=manxradiofm.mp3",
        "tags": [
         "college_community",
@@ -108,6 +117,7 @@
      "stations": [
       {
        "name": "Manx Radio AM",
+       "active": 0,
        "url": "https://edge-event-10-gos2.sharp-stream.com/manxradioam.aac",
        "language_inferred": true
       }
@@ -118,38 +128,46 @@
      "stations": [
       {
        "name": "Breaktrue fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/5mrnkoylpmrvv",
        "language_inferred": true
       },
       {
        "name": "Energy FM",
+       "active": 0,
        "url": "http://91.121.78.191:8096/stream.mp3"
       },
       {
        "name": "Manx Radio FM",
+       "active": 0,
        "url": "http://tx.sharp-stream.com/http_live.php?i=manxradiofm.aac"
       },
       {
        "name": "Manx Rally Radio",
+       "active": 0,
        "url": "http://api.spreaker.com/listen/user/5047832/episode/latest/shoutcast"
       },
       {
        "name": "Radio I-T-S",
+       "active": 0,
        "url": "https://stream.zeno.fm/dg10hha6aa9uv",
        "language_inferred": true
       },
       {
        "name": "ScarlettFM",
+       "active": 0,
        "url": "http://europa.shoutca.st:8293/stream",
        "language_inferred": true
       },
       {
        "name": "Sykes Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/zfexhug1yp8uv",
        "language_inferred": true
       },
       {
        "name": "Tzgospel swahili",
+       "active": 0,
        "url": "https://stream.zeno.fm/229vw09dgfhvv",
        "language_inferred": true
       }

@@ -10,6 +10,7 @@
      "stations": [
       {
        "name": "Radio Sonline",
+       "active": 0,
        "url": "http://www.Radio-Sonline.es.tl",
        "tags": [
         "alternative_indie",
@@ -25,6 +26,7 @@
      "stations": [
       {
        "name": "Radio rede timor-leste live radio",
+       "active": 0,
        "url": "https://sonicpanel.oficialserver.com:7186/",
        "tags": [
         "christian_gospel",
@@ -34,10 +36,12 @@
       },
       {
        "name": "Radio Timor Kmanek",
+       "active": 0,
        "url": "http://rtk.indocaster.com:8800/stream"
       },
       {
        "name": "Tzgospel Radio (Timor)",
+       "active": 0,
        "url": "https://stream.zeno.fm/ttpgp5da7ehvv",
        "language_inferred": true
       }
@@ -48,6 +52,7 @@
      "stations": [
       {
        "name": "buji watamtum",
+       "active": 0,
        "url": "https://stream.zeno.fm/w31n2dyhwf9uv",
        "language_inferred": true
       }
@@ -58,6 +63,7 @@
      "stations": [
       {
        "name": "Game music",
+       "active": 0,
        "url": "https://stream.zeno.fm/d3pfdg2pyd0uv",
        "language_inferred": true
       }
@@ -68,6 +74,7 @@
      "stations": [
       {
        "name": "Radio Liberdade Dili",
+       "active": 0,
        "url": "http://radio.kalohan.net:8186/",
        "tags": [
         "news_talk",
@@ -76,6 +83,7 @@
       },
       {
        "name": "Radio Liberdade Dili",
+       "active": 0,
        "url": "https://c2.siar.us/proxy/rld?mp=/:8132/",
        "tags": [
         "news_talk",
@@ -84,6 +92,7 @@
       },
       {
        "name": "Radio Liberdade Dili radio",
+       "active": 0,
        "url": "https://streaming.kalohan.net/proxy/raliber?mp=/stream",
        "tags": [
         "news_talk",
@@ -98,6 +107,7 @@
      "stations": [
       {
        "name": "Music Okey Listen live",
+       "active": 0,
        "url": "https://sonica.cloudstreaming.eu:10969/stream?icy=http",
        "tags": [
         "rock",
@@ -114,6 +124,7 @@
      "stations": [
       {
        "name": "RMF 2000 Listen live",
+       "active": 0,
        "url": "https://rs8-krk2-cyfronet.rmfstream.pl/2000",
        "tags": [
         "rock",
@@ -129,6 +140,7 @@
      "stations": [
       {
        "name": "Radio Liberdade Dili FM 95.8 Listen live",
+       "active": 0,
        "url": "https://ssl.aloncast.com:1579/stream.mp3",
        "tags": [
         "rock",
@@ -146,89 +158,107 @@
      "stations": [
       {
        "name": "Alone.",
+       "active": 0,
        "url": "https://stream.zeno.fm/jvkto0m5e4juv",
        "language_inferred": true
       },
       {
        "name": "Alone.",
+       "active": 0,
        "url": "https://stream.zeno.fm/mhdjfhwvxnctv",
        "language_inferred": true
       },
       {
        "name": "Alone.",
+       "active": 0,
        "url": "https://stream.zeno.fm/cxxk6ppb830uv",
        "language_inferred": true
       },
       {
        "name": "GMNFMRadio",
+       "active": 0,
        "url": "https://stream.zeno.fm/nrs367axfkhvv"
       },
       {
        "name": "Larata",
+       "active": 0,
        "url": "https://stream.zeno.fm/tud52xq537zuv",
        "language_inferred": true
       },
       {
        "name": "RADIO CATOLICA IRAPUATO – Dili – Díli – TP",
+       "active": 0,
        "url": "http://node-19.zeno.fm/smctf84agy5tv",
        "language_inferred": true
       },
       {
        "name": "Radio Comunidade Cova Taroman – 94.5 FM – Liquica – Liquiçá – TP",
+       "active": 0,
        "url": "http://freeuk7.listen2myradio.com:16882/",
        "language_inferred": true
       },
       {
        "name": "Radio Comunidade Maliana – Dili – Díli – TP",
+       "active": 0,
        "url": "https://ssl.aloncast.com:1494/",
        "language_inferred": true
       },
       {
        "name": "Radio Comunidade Maubisse Mau-Loko – Maubara – Liquiçá – TP",
+       "active": 0,
        "url": "https://ssl.aloncast.com:1495/",
        "language_inferred": true
       },
       {
        "name": "RADIO RZO EAST TIMOR",
+       "active": 0,
        "url": "https://stream.zeno.fm/tsghtncm2p8uv"
       },
       {
        "name": "Radio Timor Kmanek – 98.5 FM – Dili – Díli – TP",
+       "active": 0,
        "url": "https://a1.siar.us/radio/8250/radio.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio Vinicus de Moraes",
+       "active": 0,
        "url": "https://stream.zeno.fm/k3r4q5rfma0uv",
        "language_inferred": true
       },
       {
        "name": "RádioNaEscola",
+       "active": 0,
        "url": "https://stream.zeno.fm/gyr8ntvzaphvv",
        "language_inferred": true
       },
       {
        "name": "Siberian Mouses 1st Studio Mm 27 7l",
+       "active": 0,
        "url": "https://stream.zeno.fm/ekixtf7vckxuv",
        "language_inferred": true
       },
       {
        "name": "Song Amer Mounib Our Days Btodina",
+       "active": 0,
        "url": "https://stream.zeno.fm/m0rahtx8z5qtv",
        "language_inferred": true
       },
       {
        "name": "TamilRockers Com Bad Genius",
+       "active": 0,
        "url": "https://stream.zeno.fm/imme1hqqgc9vv",
        "language_inferred": true
       },
       {
        "name": "TVREDEFJR.COM",
+       "active": 0,
        "url": "https://stream.zeno.fm/bdqaxyyn7s8uv",
        "language_inferred": true
       },
       {
        "name": "VIVENCIA",
+       "active": 0,
        "url": "https://stream.zeno.fm/ww5nu009u68uv",
        "language_inferred": true
       }
@@ -244,6 +274,7 @@
      "stations": [
       {
        "name": "Sovereign radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/v3gt2pefgq2vv"
       }
      ]
@@ -258,6 +289,7 @@
      "stations": [
       {
        "name": "Tzgospel swahili",
+       "active": 0,
        "url": "https://stream.zeno.fm/dv0mg5da7ehvv"
       }
      ]

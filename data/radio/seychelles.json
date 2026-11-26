@@ -10,6 +10,7 @@
      "stations": [
       {
        "name": "Anime stereo Listen live",
+       "active": 0,
        "url": "https://radioanime.radioca.st/server",
        "tags": [
         "sports",
@@ -26,6 +27,7 @@
      "stations": [
       {
        "name": "Bitter Sweet Music SC radio",
+       "active": 0,
        "url": "http://91.121.236.34:8520/sc",
        "tags": [
         "pop_hits",
@@ -41,6 +43,7 @@
      "stations": [
       {
        "name": "Tzgospel swahili (Seychelles) radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/kf64g441nfhvv",
        "language_inferred": true
       }
@@ -51,6 +54,7 @@
      "stations": [
       {
        "name": "Radio 078",
+       "active": 0,
        "url": "https://cc6.beheerstream.com/proxy/radio078/stream",
        "language_inferred": true
       }
@@ -61,6 +65,7 @@
      "stations": [
       {
        "name": "Italo Radio",
+       "active": 0,
        "url": "https://cc6.beheerstream.com/proxy/italoradiofm/stream",
        "language_inferred": true
       }
@@ -71,6 +76,7 @@
      "stations": [
       {
        "name": "Radiosesel",
+       "active": 0,
        "url": "http://176.31.123.49:8000/stream",
        "tags": [
         "folk",
@@ -91,6 +97,7 @@
      "stations": [
       {
        "name": "PureFM radio",
+       "active": 0,
        "url": "http://s3.voscast.com:10814/7931f11e1ab47f23",
        "tags": [
         "news_talk",
@@ -100,6 +107,7 @@
       },
       {
        "name": "SBC Paradise FM",
+       "active": 0,
        "url": "https://streaming.fabrik.fm/paradise-fm/echocast/audio/index.m3u8",
        "tags": [
         "news_talk",
@@ -110,6 +118,7 @@
       },
       {
        "name": "SBC Paradise FM",
+       "active": 0,
        "url": "https://streaming.fabrik.fm/paradise-fm/echocast/audio/medium/index.m3u8",
        "tags": [
         "news_talk",
@@ -121,6 +130,7 @@
       },
       {
        "name": "SBC PARADISE FM",
+       "active": 0,
        "url": "https://streaming.fabrik.fm/paradise-fm/echocast/audio/low/index.m3u8",
        "tags": [
         "news_talk",
@@ -131,6 +141,7 @@
       },
       {
        "name": "SBC – Radyo Sesel",
+       "active": 0,
        "url": "https://streaming.fabrik.fm/radyo-sesel/echocast/audio/index.m3u8",
        "rb": "d5fa49c4-a20e-4ce3-a675-ea0f670a6ab6"
       }
@@ -141,6 +152,7 @@
      "stations": [
       {
        "name": "Hitradio 724 radio",
+       "active": 0,
        "url": "https://cc6.beheerstream.com/proxy/tjjpejuk?mp=/stream",
        "tags": [
         "decade_70s",
@@ -157,6 +169,7 @@
      "stations": [
       {
        "name": "Inside Seychelles",
+       "active": 0,
        "url": "http://stream.radio.co/sb947e1883/listen.m3u",
        "tags": [
         "pop_hits",
@@ -166,6 +179,7 @@
       },
       {
        "name": "ItaloRadio.fm",
+       "active": 0,
        "url": "http://italoradiofm.shoutcaststream.com:8102/stream",
        "tags": [
         "various_eclectic",
@@ -175,10 +189,12 @@
       },
       {
        "name": "Pure FM Seychelles",
+       "active": 0,
        "url": "http://s1.voscast.com:10750/"
       },
       {
        "name": "PureFM",
+       "active": 0,
        "url": "http://www.purefm.sc:8010/purefmlive.mp3",
        "language_inferred": true
       }
@@ -189,6 +205,7 @@
      "stations": [
       {
        "name": "Inside Seychelles",
+       "active": 0,
        "url": "https://stream.radio.co/sb947e1883/listen",
        "tags": [
         "pop_hits",
@@ -207,6 +224,7 @@
      "stations": [
       {
        "name": "Asterisk Radio",
+       "active": 0,
        "url": "http://192.99.17.12:6410/",
        "tags": [
         "rock",
@@ -215,6 +233,7 @@
       },
       {
        "name": "egoFM - 50fresh Listen live",
+       "active": 0,
        "url": "https://cast.egofm.de/50fresh.mp3",
        "tags": [
         "rock",
@@ -224,11 +243,13 @@
       },
       {
        "name": "Get Back Vintage Rock Radio",
+       "active": 0,
        "url": "https://cc5.beheerstream.com/8190/stream",
        "language_inferred": true
       },
       {
        "name": "ISKC Radio Group – ISKC Hardrock Channel",
+       "active": 0,
        "url": "https://crs.webdesign-flash.ro/?q=http://mediaserv68.live-streams.nl:8012/HardRockChannel/&plugin_id=7628&site_id=8520577",
        "tags": [
         "techno",
@@ -245,6 +266,7 @@
      "stations": [
       {
        "name": "DJ Baya Live Radio",
+       "active": 0,
        "url": "http://proxima.shoutca.st:8905/stream",
        "tags": [
         "soul_rnb_funk",
@@ -254,6 +276,7 @@
       },
       {
        "name": "United Rock Nations",
+       "active": 0,
        "url": "http://188.165.32.218:8002/stream",
        "tags": [
         "rock",
@@ -269,6 +292,7 @@
      "stations": [
       {
        "name": "SBC - Paradise FM",
+       "active": 0,
        "url": "http://162.144.86.239:8010/sbc_fm.mp3",
        "tags": [
         "sports",
@@ -283,6 +307,7 @@
      "stations": [
       {
        "name": "ISKC Radio Group - ISKC Hardrock Channel",
+       "active": 0,
        "url": "https://mediaserv68.live-streams.nl:18012/HardRockChannel/",
        "language_inferred": true
       }
@@ -293,6 +318,7 @@
      "stations": [
       {
        "name": "HOMERADIOGROOVE",
+       "active": 0,
        "url": "http://streaming.shoutcast.com/HOMERADIOGROOVE-homeradiogroovetk?lang=nl%2cen-US%3bq%3d0.7%2cen%3bq%3d0.3&ad=radiono5",
        "tags": [
         "trance_goa",
@@ -307,6 +333,7 @@
      "stations": [
       {
        "name": "ISKC Radio Group - ISKC Blues Cafe",
+       "active": 0,
        "url": "http://mediaserv68.live-streams.nl:8012/BluesCafe",
        "language_inferred": true,
        "rb": "c0fa9f19-e5f9-4502-99b3-e33f577cea18",
@@ -319,22 +346,26 @@
      "stations": [
       {
        "name": "Asterisk Radio",
+       "active": 0,
        "url": "http://167.114.11.80:5195/stream",
        "language_inferred": true
       },
       {
        "name": "CZ-SK OldSchool Rock",
+       "active": 0,
        "url": "https://stream.zeno.fm/dtpwu9g0ra0uv",
        "language_inferred": true
       },
       {
        "name": "ISKC Radio Group - ISKC Extreme Metal",
+       "active": 0,
        "url": "http://mediaserv68.live-streams.nl:8012/ExtremeMetal",
        "language_inferred": true,
        "rb": "6a1a6571-b1d4-4fd9-8cba-9586fda25aae"
       },
       {
        "name": "ItaloRadio.FM – SC",
+       "active": 0,
        "url": "https://panel.beheerstream.com:2199/tunein/italoradiofm.pls",
        "language_inferred": true,
        "rb": "a5ecf0e5-a3cb-44d6-9924-1c52986e74a2",
@@ -342,35 +373,42 @@
       },
       {
        "name": "Pure907 Seychelles",
+       "active": 0,
        "url": "http://s3.voscast.com:10814/",
        "language_inferred": true
       },
       {
        "name": "Radio Sesel",
+       "active": 0,
        "url": "http://176.31.123.49:2199/tunein/svibes.pls"
       },
       {
        "name": "Righteous Sounds",
+       "active": 0,
        "url": "https://stream.zeno.fm/vedvqrc5xg0uv",
        "language_inferred": true
       },
       {
        "name": "SBC Radyo Sesel  (AM Service)",
+       "active": 0,
        "url": "https://streaming.fabrik.fm/radyo-sesel/echocast/audio/low/index.m3u8",
        "language_inferred": true
       },
       {
        "name": "Studio 26 Radio",
+       "active": 0,
        "url": "http://studio26radio.shoutcaststream.com:8050/stream/",
        "language_inferred": true
       },
       {
        "name": "Tzgospel swahili",
+       "active": 0,
        "url": "https://stream.zeno.fm/z52sqr7f0hhvv",
        "language_inferred": true
       },
       {
        "name": "United Rock Nations – Victoria – English River – SC",
+       "active": 0,
        "url": "http://stream.votreradiosurlenet.eu/unitedrocknations.mp3",
        "language_inferred": true
       }
@@ -386,6 +424,7 @@
      "stations": [
       {
        "name": "Radio 078",
+       "active": 0,
        "url": "https://cc6.beheerstream.com/proxy/radio078?mp=/stream",
        "tags": [
         "oldies",
@@ -405,10 +444,12 @@
      "stations": [
       {
        "name": "ISKC Only Live",
+       "active": 0,
        "url": "http://mediaserv68.live-streams.nl:8012/OnlyLive"
       },
       {
        "name": "ISKC Rock Radio",
+       "active": 0,
        "url": "http://mediaserv68.live-streams.nl:8012/RockRadio",
        "tags": [
         "rock",
@@ -423,6 +464,7 @@
      "stations": [
       {
        "name": "ISKC RadioActive",
+       "active": 0,
        "url": "http://mediaserv68.live-streams.nl:8012/RadioActive",
        "rb": "5264a988-3c26-4f7d-9ca4-c6d906878383",
        "logo": "https://i0.wp.com/iskcrocks.com/wp-content/uploads/2014/10/cropped-Baloon720.jpg?fit=192%2C192&ssl=1"
@@ -439,6 +481,7 @@
      "stations": [
       {
        "name": "Italo Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/k27sy16a47zuv.aac",
        "tags": [
         "electronic",
@@ -457,6 +500,7 @@
      "stations": [
       {
        "name": "Homeradiogroove",
+       "active": 0,
        "url": "http://80.211.203.79:8020/homeradiogroove",
        "tags": [
         "electronic",
@@ -478,6 +522,7 @@
      "stations": [
       {
        "name": "Radyo Tann Dada",
+       "active": 0,
        "url": "https://stream.zeno.fm/v2mvbwzxafhvv"
       }
      ]
@@ -492,6 +537,7 @@
      "stations": [
       {
        "name": "Tzgospel swahili",
+       "active": 0,
        "url": "https://stream.zeno.fm/1gn4a441nfhvv"
       }
      ]

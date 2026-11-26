@@ -10,6 +10,7 @@
      "stations": [
       {
        "name": "Bypass FM Listen live",
+       "active": 0,
        "url": "https://node-07.zeno.fm/9umgbtf8ztzuv",
        "tags": [
         "rock",
@@ -21,6 +22,7 @@
       },
       {
        "name": "Питер FM Listen live",
+       "active": 0,
        "url": "https://radiokrug.ru/radio/piterfm/icecast.audio",
        "tags": [
         "rock",
@@ -35,6 +37,7 @@
      "stations": [
       {
        "name": "The Reef - WAXJ radio",
+       "active": 0,
        "url": "https://147.135.84.28/waxj-fm",
        "tags": [
         "christian_gospel",
@@ -46,11 +49,13 @@
       },
       {
        "name": "The Voice Of Hope - WIVH",
+       "active": 0,
        "url": "http://stream2314.egihosting.com:8000/",
        "language_inferred": true
       },
       {
        "name": "Victorious Radio",
+       "active": 0,
        "url": "http://s3.radio.co/s7a50ded51/listen",
        "tags": [
         "christian_gospel",
@@ -60,6 +65,7 @@
       },
       {
        "name": "WTJC Radio",
+       "active": 0,
        "url": "http://s9.viastreaming.net:7820",
        "tags": [
         "christian_gospel",
@@ -72,10 +78,12 @@
       },
       {
        "name": "WTJC-LP",
+       "active": 0,
        "url": "http://s9.viastreaming.net:7820/listen.pls"
       },
       {
        "name": "WTJC-LP radio",
+       "active": 0,
        "url": "http://s9.viastreaming.net:7820/011411476069954stream.nsv",
        "tags": [
         "christian_gospel",
@@ -91,6 +99,7 @@
      "stations": [
       {
        "name": "104.9 The Mongoose radio",
+       "active": 0,
        "url": "https://jkc.streamguys1.com/WMNG",
        "tags": [
         "classical",
@@ -105,6 +114,7 @@
      "stations": [
       {
        "name": "104.9 The Mongoose - WMNG",
+       "active": 0,
        "url": "https://jkc.streamguys1.com/WMNG-FM",
        "tags": [
         "classical",
@@ -115,6 +125,7 @@
       },
       {
        "name": "Caribbean Country – WVVI-FM",
+       "active": 0,
        "url": "http://208.84.199.84:8088/broadwave.mp3",
        "tags": [
         "country",
@@ -129,6 +140,7 @@
      "stations": [
       {
        "name": "Isle 95 - WJKC",
+       "active": 0,
        "url": "https://jkc.streamguys1.com/WJKC-FM",
        "tags": [
         "pop_hits",
@@ -139,6 +151,7 @@
       },
       {
        "name": "Sunny FM – WVIQ",
+       "active": 0,
        "url": "http://208.84.199.84:8085/broadwave.mp3",
        "tags": [
         "pop_hits",
@@ -155,6 +168,7 @@
      "stations": [
       {
        "name": "WMYP-Rumba radio",
+       "active": 0,
        "url": "http://streamdb4.securenetsystems.net/v5/WMYP",
        "tags": [
         "folk",
@@ -169,6 +183,7 @@
      "stations": [
       {
        "name": "Da Vybe 107.9 – WLDV",
+       "active": 0,
        "url": "https://ice3.securenetsystems.net/WLDV",
        "tags": [
         "hip_hop_rap",
@@ -179,6 +194,7 @@
       },
       {
        "name": "Isle 95",
+       "active": 0,
        "url": "http://208.84.199.84:8084/broadwave.mp3",
        "tags": [
         "pop_hits",
@@ -189,6 +205,7 @@
       },
       {
        "name": "The Reef - WAXJ 103.5 FM Listen live",
+       "active": 0,
        "url": "https://ic2.sslstream.com/waxj-fm",
        "tags": [
         "hip_hop_rap",
@@ -203,6 +220,7 @@
      "stations": [
       {
        "name": "RadioSky Music Jazz",
+       "active": 0,
        "url": "http://198.50.250.193:7020/stream"
       }
      ]
@@ -212,6 +230,7 @@
      "stations": [
       {
        "name": "Rumba 98.3 - WMYP",
+       "active": 0,
        "url": "http://199.77.132.247:8087/broadwave.mp3?src=1&amprate=1&ampref=",
        "tags": [
         "latin",
@@ -221,6 +240,7 @@
       },
       {
        "name": "The Reef 103.5 - WAXJ",
+       "active": 0,
        "url": "https://ic2.mainstreamnetwork.com/waxj-fm",
        "tags": [
         "latin",
@@ -233,6 +253,7 @@
       },
       {
        "name": "The Reef 1620 AM - WDHP",
+       "active": 0,
        "url": "http://147.135.84.28:80/wdhp-am",
        "tags": [
         "latin",
@@ -243,6 +264,7 @@
       },
       {
        "name": "WUVI 97.3 FM Listen live",
+       "active": 0,
        "url": "https://sixminutes.com:9000/wuvi",
        "tags": [
         "news_talk",
@@ -260,6 +282,7 @@
      "stations": [
       {
        "name": "News Talk AM 970 - WSTX",
+       "active": 0,
        "url": "http://162.244.81.33:8340",
        "tags": [
         "news_talk",
@@ -270,6 +293,7 @@
       },
       {
        "name": "WDHP The Reef radio",
+       "active": 0,
        "url": "https://ic2.mainstreamnetwork.com/wdhp-am",
        "tags": [
         "news_talk",
@@ -283,6 +307,7 @@
       },
       {
        "name": "WSTA Lucky 13 Radio – WSTA",
+       "active": 0,
        "url": "https://crs.webdesign-flash.ro/?q=http://stream.1340wsta.com:8000/stream.mp3&plugin_id=7628&site_id=8520577",
        "tags": [
         "news_talk",
@@ -293,6 +318,7 @@
       },
       {
        "name": "WSTX-AM 970 Christiansted",
+       "active": 0,
        "url": "http://wstxradio2.serverroom.net:8340/",
        "tags": [
         "news_talk",
@@ -304,6 +330,7 @@
       },
       {
        "name": "WTJX NPR",
+       "active": 0,
        "url": "https://quarrel.streamguys1.com:7405/wtjxfm",
        "tags": [
         "news_talk",
@@ -314,6 +341,7 @@
       },
       {
        "name": "WVIE Virgin Islands",
+       "active": 0,
        "url": "https://5e1d043cba697.streamlock.net/visland/visland/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -331,6 +359,7 @@
      "stations": [
       {
        "name": "104.9 MONGOOSE",
+       "active": 0,
        "url": "https://crs.webdesign-flash.ro/?q=http://208.84.199.84:8086/broadwave.mp3&plugin_id=7628&site_id=8520577",
        "tags": [
         "oldies",
@@ -346,6 +375,7 @@
      "stations": [
       {
        "name": "Sunny FM-WVIQ radio",
+       "active": 0,
        "url": "https://jkc.streamguys1.com/WVIQ-FM",
        "tags": [
         "pop_hits",
@@ -360,6 +390,7 @@
      "stations": [
       {
        "name": "Isle 95",
+       "active": 0,
        "url": "https://jkc.streamguys1.com/WJKC",
        "tags": [
         "reggae_ska",
@@ -371,6 +402,7 @@
       },
       {
        "name": "WSTX – WSTX-FM",
+       "active": 0,
        "url": "http://162.244.81.33:7490",
        "tags": [
         "reggae_ska",
@@ -381,6 +413,7 @@
       },
       {
        "name": "WSTX-FM 100.3 Christiansted",
+       "active": 0,
        "url": "http://wstxradio.serverroom.net:7490/",
        "tags": [
         "reggae_ska",
@@ -398,6 +431,7 @@
      "stations": [
       {
        "name": "Aviva Radio",
+       "active": 0,
        "url": "https://stream.zenolive.com/gtpdd4k7a2wtv",
        "tags": [
         "rock",
@@ -409,6 +443,7 @@
       },
       {
        "name": "Nora Oldies 60er & 70er Listen live",
+       "active": 0,
        "url": "https://norawebstreams-stream23.radiohost.de/nora-oldies_mp3-192",
        "tags": [
         "rock",
@@ -425,6 +460,7 @@
      "stations": [
       {
        "name": "The Plum Radio",
+       "active": 0,
        "url": "http://streamer.radio.co/s738e802f0/listen",
        "tags": [
         "soul_rnb_funk",
@@ -441,6 +477,7 @@
      "stations": [
       {
        "name": "Hippie Soul Cafe",
+       "active": 0,
        "url": "http://ample-02.radiojar.com:80/a11mn5xkb",
        "tags": [
         "soul_rnb_funk",
@@ -450,6 +487,7 @@
       },
       {
        "name": "Radiokey",
+       "active": 0,
        "url": "https://live.audiradio.com:8006/key107",
        "tags": [
         "soul_rnb_funk",
@@ -467,16 +505,19 @@
      "stations": [
       {
        "name": "Latino 91.9 - WVSE",
+       "active": 0,
        "url": "http://server7.servistreaming.com:10020/autodj",
        "language_inferred": true
       },
       {
        "name": "RadioSky Music Jazz",
+       "active": 0,
        "url": "http://radioskymusicjazz.ddns.net:8000/radioskymusic",
        "language_inferred": true
       },
       {
        "name": "VAV Radio",
+       "active": 0,
        "url": "http://vavradio1.out.airtime.pro:8000/vavradio1_a",
        "language_inferred": true
       }
@@ -492,6 +533,7 @@
      "stations": [
       {
        "name": "WMYP \"Rumba 98.3\" Frederiksted",
+       "active": 0,
        "url": "http://208.84.199.84:8087/broadwave.mp3"
       }
      ]
@@ -501,6 +543,7 @@
      "stations": [
       {
        "name": "EXA FM: En Todas Partes Ponte Exa",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac?n=c107f51c6d3cd8a8c5c1",
        "tags": [
         "rock",
@@ -512,6 +555,7 @@
       },
       {
        "name": "WZIN The Buzz 104.3 FM",
+       "active": 0,
        "url": "http://vip.livecastnet.com:8000/thebuzz.mp3"
       }
      ]
@@ -526,6 +570,7 @@
      "stations": [
       {
        "name": "BRN Radio - Arabic Channel",
+       "active": 0,
        "url": "http://192.241.185.108:8094/stream",
        "rb": "96178d87-0601-11e8-ae97-52543be04c81",
        "logo": "http://brnradio.com/favicon.ico"
@@ -542,6 +587,7 @@
      "stations": [
       {
        "name": "BRN Radio - French Channel",
+       "active": 0,
        "url": "http://192.241.185.108:8106/stream"
       }
      ]
@@ -556,6 +602,7 @@
      "stations": [
       {
        "name": "BRN Radio - Hebrew Channel",
+       "active": 0,
        "url": "http://192.241.185.108:8050/stream",
        "tags": [
         "news_talk",
@@ -574,6 +621,7 @@
      "stations": [
       {
        "name": "BRN Radio - Greek Channel",
+       "active": 0,
        "url": "http://192.241.185.108:8112/stream"
       }
      ]

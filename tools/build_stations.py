@@ -17,6 +17,7 @@ usage: python3 -I build_stations.py <radio_repo_dir> <audiobooks_repo_dir> <out_
 
 out/index.json 에 전체 트리와 개수 요약.
 """
+import glob
 import json
 import os
 import re
@@ -186,7 +187,21 @@ def parse_m3u(path):
         return
 
 
-def build_radio(root, out):
+def existing_active_counts(out):
+    counts = {}
+    for path in glob.glob(os.path.join(out, "radio", "*.json")):
+        with open(path, encoding="utf-8") as f:
+            doc = json.load(f)
+        for lang in doc["languages"].values():
+            for genre in lang["genres"].values():
+                for row in genre["stations"]:
+                    if row.get("active", 0) > 0:
+                        counts[row["url"]] = row["active"]
+    return counts
+
+
+def build_radio(root, out, active_counts=None):
+    active_counts = active_counts or {}
     stations = {}  # key -> dict
     files = 0
     for dp, dns, fns in os.walk(root):
@@ -257,7 +272,8 @@ def build_radio(root, out):
 
     tree = defaultdict(lambda: defaultdict(lambda: defaultdict(list)))
     for s in stations.values():
-        rec = {"name": s["names"].most_common(1)[0][0] if s["names"] else s["url"], "url": s["url"]}
+        rec = {"name": s["names"].most_common(1)[0][0] if s["names"] else s["url"],
+               "active": active_counts.get(s["url"], 0), "url": s["url"]}
         if s["bitrate"]:
             rec["bitrate"] = s["bitrate"]
         if s["logo"]:
@@ -340,7 +356,8 @@ def build_audiobooks(root, out):
 
 def main():
     radio_root, ab_root, out = sys.argv[1:4]
-    files, uniq, rindex = build_radio(radio_root, out)
+    active_counts = existing_active_counts(out)
+    files, uniq, rindex = build_radio(radio_root, out, active_counts)
     print(f"radio: {files} m3u files, {uniq} unique stations, {len(rindex)} countries")
     turls, dup, aindex = build_audiobooks(ab_root, out)
     print(f"audiobooks: {turls} unique audio urls ({dup} duplicates removed), {len(aindex)} collections")
@@ -349,7 +366,7 @@ def main():
                              "language_codes": {l: LANGUAGE_CODE[l] for l in sorted({l for c in rindex.values() for l in c["languages"]}) if l in LANGUAGE_CODE}},
                    "audiobooks": aindex}, f, ensure_ascii=False, indent=1)
     import featured  # noqa: E402  (imports this module, so not at the top)
-    featured.apply(out)
+    featured.apply(out, active_counts)
     import radiobrowser  # noqa: E402  (logos and Radio Browser ids; needs network)
     radiobrowser.apply(out)
 

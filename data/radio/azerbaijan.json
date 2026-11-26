@@ -10,6 +10,7 @@
      "stations": [
       {
        "name": "AutoLife Azerbaijan",
+       "active": 0,
        "url": "http://radio.autolife.audio:8000/radio",
        "tags": [
         "blues",
@@ -24,6 +25,7 @@
      "stations": [
       {
        "name": "Baku Jukebox",
+       "active": 0,
        "url": "http://78.109.52.73:8000/bkjbox",
        "tags": [
         "classical",
@@ -36,6 +38,7 @@
       },
       {
        "name": "Naxcivan Radiosu",
+       "active": 0,
        "url": "http://s33.myradiostream.com:12782/listen.mp3",
        "tags": [
         "classical",
@@ -45,6 +48,7 @@
       },
       {
        "name": "Radio Veten",
+       "active": 0,
        "url": "https://cdn2.cloudrad.io/radioveten/0kgkkzanmueuv/source/listen.m3u",
        "tags": [
         "oldies",
@@ -56,6 +60,7 @@
       },
       {
        "name": "Radio Vətən",
+       "active": 0,
        "url": "http://stream.zeno.fm/0kgkkzanmueuv.m3u",
        "tags": [
         "classical",
@@ -70,21 +75,25 @@
      "stations": [
       {
        "name": "ADNSU RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/t70ng6yzafhvv",
        "language_inferred": true
       },
       {
        "name": "baku chess",
+       "active": 0,
        "url": "https://stream.zeno.fm/zvym95hy7k0uv",
        "language_inferred": true
       },
       {
        "name": "Covers",
+       "active": 0,
        "url": "https://stream.zeno.fm/w7xypyf5uc9uv",
        "language_inferred": true
       },
       {
        "name": "UNECRADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/z34zc1ugdq8uv",
        "language_inferred": true
       }
@@ -95,10 +104,12 @@
      "stations": [
       {
        "name": "Cipcip",
+       "active": 0,
        "url": "https://stream.zeno.fm/bqrnn6cx868uv"
       },
       {
        "name": "Portakal FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/e1t619n8h0hvv",
        "language_inferred": true
       }
@@ -109,6 +120,7 @@
      "stations": [
       {
        "name": "Radio Veten",
+       "active": 0,
        "url": "https://node-29.zeno.fm/0kgkkzanmueuv",
        "tags": [
         "decade_70s",
@@ -126,11 +138,13 @@
      "stations": [
       {
        "name": "Kaspiyskiy Gruz Radio",
+       "active": 0,
        "url": "https://stream.pcradio.ru/kaspiyskiy_gruz-med",
        "language_inferred": true
       },
       {
        "name": "One FM Azerbaijan",
+       "active": 0,
        "url": "http://557e041d4bdc.sn.mynetname.net:8000/onefm.aacp56",
        "tags": [
         "pop_hits",
@@ -145,6 +159,7 @@
      "stations": [
       {
        "name": "Anti Radio",
+       "active": 0,
        "url": "http://94.20.88.200:8000/web",
        "language_inferred": true
       }
@@ -155,16 +170,19 @@
      "stations": [
       {
        "name": "AutoLife Azerbaijan Radio",
+       "active": 0,
        "url": "https://stream.pcradio.ru/autolife_azer-med",
        "language_inferred": true
       },
       {
        "name": "Azad 106.3",
+       "active": 0,
        "url": "http://85.132.71.10:8000/atv1063fm",
        "language_inferred": true
       },
       {
        "name": "Azad 106.3 FM",
+       "active": 0,
        "url": "http://85.132.81.184:1935/radio/atv2/playlist.m3u8"
       }
      ]
@@ -174,6 +192,7 @@
      "stations": [
       {
        "name": "Anti Radio",
+       "active": 0,
        "url": "https://stream.antiradio.net/radio/8000/web",
        "tags": [
         "pop_hits",
@@ -190,6 +209,7 @@
       },
       {
        "name": "Anti Radio",
+       "active": 0,
        "url": "https://stream.pcradio.ru/rad_ntrdnt-med",
        "tags": [
         "electronic",
@@ -199,6 +219,7 @@
       },
       {
        "name": "DANCE FM, Baku radio",
+       "active": 0,
        "url": "http://557e041d4bdc.sn.mynetname.net:8000/onefm",
        "tags": [
         "electronic",
@@ -207,6 +228,7 @@
       },
       {
        "name": "DFM Azerbaijan Radio",
+       "active": 0,
        "url": "https://stream.pcradio.ru/rad_ondffm-med",
        "tags": [
         "electronic",
@@ -216,10 +238,12 @@
       },
       {
        "name": "Mix Fm Karabakh (Mix.am)",
+       "active": 0,
        "url": "http://mix.am:8000/Mix"
       },
       {
        "name": "Xezer 103 Fm",
+       "active": 0,
        "url": "https://s40.myradiostream.com/22546/listen.mp3",
        "tags": [
         "electronic",
@@ -232,6 +256,7 @@
       },
       {
        "name": "Xezer 103 Fm",
+       "active": 0,
        "url": "http://s30.myradiostream.com:32684/listen.mp3",
        "language_inferred": true
       }
@@ -242,6 +267,7 @@
      "stations": [
       {
        "name": "90 FM (Baku) Radio",
+       "active": 0,
        "url": "https://stream.pcradio.ru/rad_bakfmazrbjn-med",
        "tags": [
         "folk",
@@ -251,6 +277,7 @@
       },
       {
        "name": "Araz FM",
+       "active": 0,
        "url": "http://s14.myradiostream.com:30454/listen.mp3",
        "tags": [
         "folk",
@@ -259,6 +286,7 @@
       },
       {
        "name": "Araz FM 103.3 (Baku) Radio",
+       "active": 0,
        "url": "https://stream.pcradio.ru/rad_rzfmz-med",
        "tags": [
         "folk",
@@ -268,6 +296,7 @@
       },
       {
        "name": "Asan Radio",
+       "active": 0,
        "url": "https://stream.pcradio.ru/rad_asnrdaz-med",
        "tags": [
         "folk",
@@ -277,11 +306,13 @@
       },
       {
        "name": "Baku Retro FM Radio",
+       "active": 0,
        "url": "https://stream.pcradio.ru/rad_bakrtrofm-med",
        "language_inferred": true
       },
       {
        "name": "bakuretrofm",
+       "active": 0,
        "url": "http://5.191.241.101:8000/bakuretrofm",
        "tags": [
         "oldies",
@@ -290,6 +321,7 @@
       },
       {
        "name": "Ferqli FM",
+       "active": 0,
        "url": "https://s39.myradiostream.com/5458/listen.mp3",
        "tags": [
         "news_talk",
@@ -301,6 +333,7 @@
       },
       {
        "name": "Iradio",
+       "active": 0,
        "url": "https://stream.radiojar.com/a80hx0asnzwtv",
        "tags": [
         "news_talk",
@@ -310,6 +343,7 @@
       },
       {
        "name": "Media FM Muğam",
+       "active": 0,
        "url": "http://95.217.196.109:8000/mediamugam",
        "tags": [
         "folk",
@@ -318,6 +352,7 @@
       },
       {
        "name": "Media FM radio",
+       "active": 0,
        "url": "https://icecast.livetv.az/mediafm",
        "tags": [
         "folk",
@@ -328,6 +363,7 @@
       },
       {
        "name": "Media FM Radio",
+       "active": 0,
        "url": "https://stream.pcradio.ru/rad_medfmaz-med",
        "tags": [
         "folk",
@@ -337,6 +373,7 @@
       },
       {
        "name": "Mix FM",
+       "active": 0,
        "url": "http://cast.mix.am/mix",
        "tags": [
         "folk",
@@ -346,6 +383,7 @@
       },
       {
        "name": "Naz Radio",
+       "active": 0,
        "url": "https://stream.pcradio.ru/rad_nazrdaz-med",
        "tags": [
         "folk",
@@ -355,6 +393,7 @@
       },
       {
        "name": "Radio YSF radio",
+       "active": 0,
        "url": "https://icecast.livetv.az/yusif",
        "tags": [
         "folk",
@@ -364,6 +403,7 @@
       },
       {
        "name": "Rakevet",
+       "active": 0,
        "url": "https://s0.radioheart.ru:8000/RH20728",
        "tags": [
         "pop_hits",
@@ -374,6 +414,7 @@
       },
       {
        "name": "YSF",
+       "active": 0,
        "url": "http://95.217.196.109:8000/yusif",
        "tags": [
         "folk",
@@ -382,11 +423,13 @@
       },
       {
        "name": "Yurd FM",
+       "active": 0,
        "url": "https://icecast.livetv.az/yurdfm",
        "rb": "aeb8bc72-b103-46c5-b9dd-4ebbb96af3fb"
       },
       {
        "name": "Yurd FM Radio",
+       "active": 0,
        "url": "https://stream.pcradio.ru/rad_yrdfmaz-med",
        "language_inferred": true
       }
@@ -397,6 +440,7 @@
      "stations": [
       {
        "name": "Radio Shoutaz",
+       "active": 0,
        "url": "http://free.radioheart.ru:8000/r-heart",
        "tags": [
         "pop_hits",
@@ -407,6 +451,7 @@
       },
       {
        "name": "Xezer 103 Fm Listen live",
+       "active": 0,
        "url": "https://s30.myradiostream.com/32684/listen.mp3",
        "tags": [
         "hip_hop_rap",
@@ -423,6 +468,7 @@
      "stations": [
       {
        "name": "AutoLife Azerbaijan",
+       "active": 0,
        "url": "https://radio.autoliferadio.com:8005/radio",
        "tags": [
         "pop_hits",
@@ -438,6 +484,7 @@
       },
       {
        "name": "Jazzradio.az",
+       "active": 0,
        "url": "http://tune.az:8030/stream",
        "tags": [
         "jazz",
@@ -447,6 +494,7 @@
       },
       {
        "name": "JazZradio.aZ Listen live",
+       "active": 0,
        "url": "https://tune.az:8035/server",
        "tags": [
         "pop_hits",
@@ -456,6 +504,7 @@
       },
       {
        "name": "Lider FM",
+       "active": 0,
        "url": "https://mytuner-radio.com/radio/country/azerbaijan-stations",
        "tags": [
         "jazz",
@@ -464,6 +513,7 @@
       },
       {
        "name": "Radio Baijan",
+       "active": 0,
        "url": "http://thisisbaijan.out.airtime.pro:8000/thisisbaijan_a",
        "tags": [
         "various_eclectic",
@@ -473,6 +523,7 @@
       },
       {
        "name": "Radio FeM",
+       "active": 0,
        "url": "http://feministing.out.airtime.pro:8000/feministing_a",
        "tags": [
         "folk",
@@ -482,6 +533,7 @@
       },
       {
        "name": "Radio Grupfm",
+       "active": 0,
        "url": "http://78.129.234.163:26529/",
        "tags": [
         "jazz",
@@ -491,6 +543,7 @@
       },
       {
        "name": "Radio Tune Azerbaijan",
+       "active": 0,
        "url": "https://tune.az:8015/stream",
        "tags": [
         "jazz",
@@ -503,6 +556,7 @@
       },
       {
        "name": "Radio Tune Azerbaijan",
+       "active": 0,
        "url": "http://tune.az:8010/stream",
        "tags": [
         "ambient_relax",
@@ -518,11 +572,13 @@
      "stations": [
       {
        "name": "LUVTINNP HOST 1006",
+       "active": 0,
        "url": "https://stream.zeno.fm/8xewc8f8fc9uv",
        "language_inferred": true
       },
       {
        "name": "Silent Stryders",
+       "active": 0,
        "url": "https://stream.zeno.fm/mtzrxtlk9vjtv",
        "language_inferred": true
       }
@@ -533,6 +589,7 @@
      "stations": [
       {
        "name": "Asan Radio",
+       "active": 0,
        "url": "http://94.20.74.206:4448/stream1",
        "tags": [
         "news_talk",
@@ -544,6 +601,7 @@
       },
       {
        "name": "Azad 106 FM",
+       "active": 0,
        "url": "http://85.132.81.184:8080/106new/index.m3u8",
        "tags": [
         "news_talk",
@@ -552,6 +610,7 @@
       },
       {
        "name": "Azadliq Radiosu - Radio Liberty",
+       "active": 0,
        "url": "https://stream.radiojar.com/s90a46bpn3quv",
        "tags": [
         "news_talk",
@@ -561,6 +620,7 @@
       },
       {
        "name": "Azərbaycan Radiosu",
+       "active": 0,
        "url": "http://www.aztv.az/canli/aztv-canli.htm",
        "tags": [
         "news_talk",
@@ -571,6 +631,7 @@
       },
       {
        "name": "İctimai Radio 90 FM",
+       "active": 0,
        "url": "https://stream.itv.az/rtmp:/radio/playlist.m3u8",
        "tags": [
         "pop_hits",
@@ -580,6 +641,7 @@
       },
       {
        "name": "Kepez FM",
+       "active": 0,
        "url": "http://85.132.78.122:3344/now",
        "tags": [
         "pop_hits",
@@ -590,6 +652,7 @@
       },
       {
        "name": "Naxcivanin Sesi Radio",
+       "active": 0,
        "url": "http://sc6.spacialnet.com:34258",
        "tags": [
         "news_talk",
@@ -600,6 +663,7 @@
       },
       {
        "name": "Naxçıvanın səsi radio",
+       "active": 0,
        "url": "http://freeuk29.listen2myradio.com:15111/stream.nsv",
        "tags": [
         "news_talk",
@@ -610,6 +674,7 @@
       },
       {
        "name": "Radio Antenn",
+       "active": 0,
        "url": "http://95.217.196.109:8000/antennfm",
        "tags": [
         "pop_hits",
@@ -619,6 +684,7 @@
       },
       {
        "name": "Radio Enerji 101.1 FM radio",
+       "active": 0,
        "url": "https://icecast.livetv.az/antennfm",
        "tags": [
         "news_talk",
@@ -629,6 +695,7 @@
       },
       {
        "name": "Radio TMB 100.5 radio",
+       "active": 0,
        "url": "https://s39.myradiostream.com/:5458/listen.mp3",
        "tags": [
         "news_talk",
@@ -639,6 +706,7 @@
       },
       {
        "name": "Sputnik Azərbaycan Listen live",
+       "active": 0,
        "url": "https://icecast-ruvr.cdnvideo.ru/rian.voiceaz1",
        "tags": [
         "news_talk",
@@ -654,6 +722,7 @@
      "stations": [
       {
        "name": "Emil Selimli",
+       "active": 0,
        "url": "https://node-16.zeno.fm/0kgkkzanmueuv",
        "tags": [
         "pop_hits",
@@ -666,6 +735,7 @@
       },
       {
        "name": "GSR FM",
+       "active": 0,
        "url": "http://199.180.72.2:8505/stream",
        "tags": [
         "news_talk",
@@ -676,6 +746,7 @@
       },
       {
        "name": "Media FM",
+       "active": 0,
        "url": "http://85.132.71.10:8000/live",
        "tags": [
         "pop_hits",
@@ -690,25 +761,30 @@
      "stations": [
       {
        "name": "106.3 FM",
+       "active": 0,
        "url": "https://stream.atv.az/WebRTCAppEE/streams/517878792239218486180700_adaptive.m3u8",
        "language_inferred": true
       },
       {
        "name": "106.3 FM",
+       "active": 0,
        "url": "http://85.132.81.184:8080/106.3new/index.m3u8",
        "language_inferred": true
       },
       {
        "name": "10Line Radio",
+       "active": 0,
        "url": "http://10line.az:8000/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Ans Fm",
+       "active": 0,
        "url": "http://stream.ansradio.ws:8152/ANS-102FM-128k-Online"
       },
       {
        "name": "Araz FM",
+       "active": 0,
        "url": "http://s39.myradiostream.com:5458/listen.mp3",
        "tags": [
         "pop_hits",
@@ -718,16 +794,19 @@
       },
       {
        "name": "Araz FM",
+       "active": 0,
        "url": "http://s39.myradiostream.com:5458/",
        "rb": "90a6c7fb-78e9-4f94-8b3d-3e3ad104aeb9"
       },
       {
        "name": "AutoLife Radio Azerbaijan",
+       "active": 0,
        "url": "http://radio.autoliferadio.com:8090/radio",
        "rb": "5b42c7de-0774-4d6b-b2dc-3e41d7fc2daf"
       },
       {
        "name": "AVTO FM",
+       "active": 0,
        "url": "http://5.191.241.101:8000/avtofm",
        "tags": [
         "pop_hits",
@@ -739,26 +818,31 @@
       },
       {
        "name": "Avto FM",
+       "active": 0,
        "url": "http://85.132.81.137:8000/avtofm",
        "language_inferred": true
       },
       {
        "name": "AVTOFM -107.7 FM",
+       "active": 0,
        "url": "http://85.132.71.10:8000/avtofm"
       },
       {
        "name": "Azad Azərbaycan radiosu",
+       "active": 0,
        "url": "https://audiostr.atv.az/106.3fm",
        "rb": "ae302143-a684-407c-9b37-24e36595eb5b",
        "logo": "https://liveonlineradio.net/wp-content/uploads/2018/01/106.3-FM.jpg"
       },
       {
        "name": "Azərbaycan Radiosu",
+       "active": 0,
        "url": "https://str.yodacdn.net/radio_respublica/tracks-a1/mono.m3u8?token=9e0b89c00b413b57a38f5c2618397fae08d9323d-06fbfa3027c5bfca89294ba638b12e12-1673186220-1673175420",
        "language_inferred": true
       },
       {
        "name": "BakiRadio",
+       "active": 0,
        "url": "https://broadcast.bakiradio.az/radio/8000/bakiradio",
        "tags": [
         "pop_hits",
@@ -769,16 +853,19 @@
       },
       {
        "name": "BakiRadio",
+       "active": 0,
        "url": "http://45.155.207.151/radio/8010/radio.mp3",
        "language_inferred": true
       },
       {
        "name": "BakiRadio",
+       "active": 0,
        "url": "https://broadcast.bakiradio.azradio/8000/bakiradio",
        "language_inferred": true
       },
       {
        "name": "BakiRadio International Listen live",
+       "active": 0,
        "url": "https://broadcast.bakiradio.az/radio/8010/radio.mp3",
        "tags": [
         "pop_hits",
@@ -788,6 +875,7 @@
       },
       {
        "name": "BakiRadio Lite",
+       "active": 0,
        "url": "https://broadcast.bakiradio.az/radio/8000/bakiradiolite",
        "tags": [
         "pop_hits",
@@ -798,20 +886,24 @@
       },
       {
        "name": "Baku Hit FM radio",
+       "active": 0,
        "url": "http://5.191.241.101:8000/bakuhitfm"
       },
       {
        "name": "Europa Plus",
+       "active": 0,
        "url": "https://ep128.hostingradio.ru:8052/europaplus256.mp3",
        "language_inferred": true
       },
       {
        "name": "Kuq Ezi",
+       "active": 0,
        "url": "http://shoutcaststreaming.net:8002/",
        "language_inferred": true
       },
       {
        "name": "Naxcivanin Sesi Radio",
+       "active": 0,
        "url": "https://s2.free-shoutcast.com/stream/18022/stream.mp3",
        "tags": [
         "pop_hits",
@@ -820,15 +912,18 @@
       },
       {
        "name": "Radio 106 FM",
+       "active": 0,
        "url": "http://85.132.81.184:8080/106/index.m3u8"
       },
       {
        "name": "Radio Antenn",
+       "active": 0,
        "url": "http://85.132.71.10:8000/antenn-mp3?1234",
        "language_inferred": true
       },
       {
        "name": "Radio Antenn",
+       "active": 0,
        "url": "http://85.132.71.10:8000/antenn-mp3",
        "tags": [
         "pop_hits",
@@ -840,26 +935,31 @@
       },
       {
        "name": "Radio NEXT",
+       "active": 0,
        "url": "http://live.fbc.az:8000/disput128",
        "language_inferred": true
       },
       {
        "name": "Radio Space 104 FM (Azerbajdzhan)",
+       "active": 0,
        "url": "https://stream.pcradio.ru/rad_spcrdz-med",
        "language_inferred": true
       },
       {
        "name": "Radio Veten (Vətən)",
+       "active": 0,
        "url": "https://stream.pcradio.ru/radioveten_ml-med",
        "language_inferred": true
       },
       {
        "name": "Radio YSF",
+       "active": 0,
        "url": "http://85.132.71.10:8000/yusif",
        "language_inferred": true
       },
       {
        "name": "VIVA FM (Azerbaijan)",
+       "active": 0,
        "url": "https://stream.zeno.fm/tbfu8vxb84zuv",
        "language_inferred": true
       }
@@ -870,11 +970,13 @@
      "stations": [
       {
        "name": "Business Radio BOSS",
+       "active": 0,
        "url": "http://185.129.2.198:9043/live",
        "language_inferred": true
       },
       {
        "name": "Europa Plus Baku - Pop Rock",
+       "active": 0,
        "url": "https://hls-01-fresh.emgsound.ru/9/128/playlist.m3u8",
        "tags": [
         "pop_hits",
@@ -883,6 +985,7 @@
       },
       {
        "name": "Live And Digital",
+       "active": 0,
        "url": "http://149.56.147.197:9587/stream",
        "tags": [
         "rock",
@@ -892,6 +995,7 @@
       },
       {
        "name": "Naxçıvan Radiosu",
+       "active": 0,
        "url": "http://s33.myradiostream.com:12782/stream.nsv",
        "tags": [
         "pop_hits",
@@ -902,6 +1006,7 @@
       },
       {
        "name": "radiocto",
+       "active": 0,
        "url": "https://yayin.girenizfm.com.tr/8196/stream?n=847b3c548ceca07ebb01",
        "tags": [
         "rock",
@@ -917,6 +1022,7 @@
      "stations": [
       {
        "name": "Jazzradio.az",
+       "active": 0,
        "url": "https://tune.az:8035/stream",
        "tags": [
         "smooth_jazz",
@@ -932,6 +1038,7 @@
      "stations": [
       {
        "name": "Funk793Radio",
+       "active": 0,
        "url": "http://listen.radionomy.com/funk793radio",
        "tags": [
         "soul_rnb_funk",
@@ -946,6 +1053,7 @@
      "stations": [
       {
        "name": "Day.Az Radio",
+       "active": 0,
        "url": "https://radio.day.az:9443/192",
        "tags": [
         "sports",
@@ -963,11 +1071,13 @@
      "stations": [
       {
        "name": "BakiRadio",
+       "active": 0,
        "url": "http://193.201.126.23:8000/bakiradio",
        "language_inferred": true
       },
       {
        "name": "I-Republic",
+       "active": 0,
        "url": "http://www.intervalsignals.net/sounds/aze-z-azr1_261001.mp3",
        "language_inferred": true
       }
@@ -978,10 +1088,12 @@
      "stations": [
       {
        "name": "90 FM",
+       "active": 0,
        "url": "http://85.132.81.13:8888/2702"
       },
       {
        "name": "Day.Az Radio",
+       "active": 0,
        "url": "https://radio.day.az:9443/128m",
        "tags": [
         "world",
@@ -990,6 +1102,7 @@
       },
       {
        "name": "Media FM",
+       "active": 0,
        "url": "http://95.217.196.109:8000/mediafm",
        "tags": [
         "pop_hits",
@@ -999,6 +1112,7 @@
       },
       {
        "name": "Naxcivan Radiosu",
+       "active": 0,
        "url": "http://s33.myradiostream.com:12782/",
        "tags": [
         "various_eclectic",
@@ -1007,6 +1121,7 @@
       },
       {
        "name": "Radio Hay Network",
+       "active": 0,
        "url": "http://live.mix.am:8000/rhyerevan",
        "tags": [
         "world",
@@ -1021,97 +1136,117 @@
      "stations": [
       {
        "name": "105 fm",
+       "active": 0,
        "url": "http://85.132.27.212:8888/azradio?listening-from-radio-radio-garden=1654328466"
       },
       {
        "name": "90 FM Ictimai Radio",
+       "active": 0,
        "url": "https://stream.itv.az/rtmp:/radio/chunks.m3u8",
        "language_inferred": true
       },
       {
        "name": "Adronia",
+       "active": 0,
        "url": "https://stream.zeno.fm/d1rp7k2xsxhvv",
        "language_inferred": true
       },
       {
        "name": "ANCL FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/opn7f5kzkmjuv"
       },
       {
        "name": "ANR Karabakh – Stepanakert – Xankǝndi – AZ",
+       "active": 0,
        "url": "http://radio.mix.am:7777/anr",
        "language_inferred": true
       },
       {
        "name": "Antonov",
+       "active": 0,
        "url": "https://str2.pcradio.ru/Jurij_Antonov-med",
        "language_inferred": true
       },
       {
        "name": "ARB Ulduz",
+       "active": 0,
        "url": "http://85.132.81.184:8080/ulduz/live/index.m3u8"
       },
       {
        "name": "ASAN Radio",
+       "active": 0,
        "url": "https://play.asanradio.az/?n=ae9708eed81484a39dbb",
        "rb": "21198a50-06a2-4691-801e-047f8b4df555"
       },
       {
        "name": "Auto Life",
+       "active": 0,
        "url": "http://radio.autoliferadio.com:8000/radio"
       },
       {
        "name": "AvropaAz Radio – Baku – AZ-BA",
+       "active": 0,
        "url": "http://avropa.az/radio.m3u",
        "language_inferred": true
       },
       {
        "name": "AZAD TV",
+       "active": 0,
        "url": "http://85.132.81.184:8080/atv/index.m3u8"
       },
       {
        "name": "Azma FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/6dchgafdu0hvv",
        "language_inferred": true
       },
       {
        "name": "AzmaRepublic",
+       "active": 0,
        "url": "https://stream.zeno.fm/kqb36pu3ud0uv",
        "language_inferred": true
       },
       {
        "name": "Azərbaycan Radiosu 105FM",
+       "active": 0,
        "url": "https://str.yodacdn.net/radio_respublica/index.m3u8",
        "language_inferred": true
       },
       {
        "name": "BAGHIR FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/7qyzqd3kd0hvv",
        "language_inferred": true
       },
       {
        "name": "BakiRadio",
+       "active": 0,
        "url": "https://stream.zeno.fm/qs1gv2vd0k8uv",
        "language_inferred": true
       },
       {
        "name": "CBC FM",
+       "active": 0,
        "url": "http://95.217.196.109:8000/cbcradio",
        "language_inferred": true
       },
       {
        "name": "CBC FM - Qarabağ, Azərbaycan",
+       "active": 0,
        "url": "https://icecast.livetv.az/cbcradio",
        "country_inferred": true,
        "language_inferred": true
       },
       {
        "name": "cinemaplus",
+       "active": 0,
        "url": "https://stream.zeno.fm/q7opl64hqrtuv",
        "language_inferred": true
       },
       {
        "name": "CodeRadio from FreeCodeCamp",
+       "active": 0,
        "url": "https://coderadio-admin-v2.freecodecamp.org/listen/coderadio/radio.mp3?n=65ecadef6a94f8c87131",
        "language_inferred": true,
        "rb": "60ede1ca-d7fa-4a36-a047-aec873b9be41",
@@ -1119,389 +1254,468 @@
       },
       {
        "name": "DARK021",
+       "active": 0,
        "url": "https://stream.zeno.fm/1zv8g61w6bhvv",
        "language_inferred": true
       },
       {
        "name": "De cria",
+       "active": 0,
        "url": "https://stream.zeno.fm/ygsy9gbks0hvv",
        "language_inferred": true
       },
       {
        "name": "difm radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/4kahpt91es8uv",
        "language_inferred": true
       },
       {
        "name": "EA Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/8sge0k5mefhvv",
        "language_inferred": true
       },
       {
        "name": "EA Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/rk15ms5mefhvv",
        "language_inferred": true
       },
       {
        "name": "EDMAzerbaijan",
+       "active": 0,
        "url": "https://stream.zeno.fm/xm67k2heeq8uv",
        "language_inferred": true
       },
       {
        "name": "Farwars",
+       "active": 0,
        "url": "https://stream.zeno.fm/g6m9zvqvtxhvv",
        "language_inferred": true
       },
       {
        "name": "Flashview",
+       "active": 0,
        "url": "https://stream.zeno.fm/s1k5d2auuxhvv",
        "language_inferred": true
       },
       {
        "name": "FM 10k",
+       "active": 0,
        "url": "https://stream.zeno.fm/6j0n37ca9xkvv",
        "language_inferred": true
       },
       {
        "name": "garapod",
+       "active": 0,
        "url": "https://stream.zeno.fm/7z7ebew28nhvv",
        "language_inferred": true
       },
       {
        "name": "GTA Azerbaycan",
+       "active": 0,
        "url": "https://stream.zeno.fm/tev5tsebkg0uv",
        "language_inferred": true
       },
       {
        "name": "Göyçay Radiosu",
+       "active": 0,
        "url": "https://stream.zeno.fm/z5p2gtq8qchvv",
        "language_inferred": true
       },
       {
        "name": "Hacker Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/8p8wmtzawuhvv",
        "language_inferred": true
       },
       {
        "name": "HadiyevMusic Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/8bmbp6amyk8uv",
        "language_inferred": true
       },
       {
        "name": "Hello FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/2y3hs7ksa78uv",
        "language_inferred": true
       },
       {
        "name": "Hisset Relaxation Radio",
+       "active": 0,
        "url": "http://hisset.in:8000/radio?type=.mp3",
        "language_inferred": true
       },
       {
        "name": "Hspro203",
+       "active": 0,
        "url": "https://stream.zeno.fm/s58mmapwhrhvv",
        "language_inferred": true
       },
       {
        "name": "iRadio az",
+       "active": 0,
        "url": "http://n09.radiojar.com/a80hx0asnzwtv",
        "language_inferred": true
       },
       {
        "name": "iRadio AZERBAIJAN",
+       "active": 0,
        "url": "http://ample-11.radiojar.com/a80hx0asnzwtv?rj-ttl=5&amprj-token=AAABbSSHh-MQ6ZK-gWzRVTK-GGaYa0WR5u8xMQ7Buo-8m9GV6KDWsg",
        "language_inferred": true
       },
       {
        "name": "Lezgi Radio – AZ-QUS",
+       "active": 0,
        "url": "http://stream4.radiostyle.ru:8004/lezgifm",
        "language_inferred": true
       },
       {
        "name": "Love Radio Baku",
+       "active": 0,
        "url": "http://78.129.187.57:37104/stream.mp3"
       },
       {
        "name": "LUVKANNP HOST 1002",
+       "active": 0,
        "url": "https://stream.zeno.fm/vpk191k8fc9uv",
        "language_inferred": true
       },
       {
        "name": "LZZZZZ",
+       "active": 0,
        "url": "https://stream.zeno.fm/ujnfdxwac8ovv",
        "language_inferred": true
       },
       {
        "name": "Mango Team",
+       "active": 0,
        "url": "https://stream.zeno.fm/ybm3eh4ggfhvv",
        "language_inferred": true
       },
       {
        "name": "Media FM 105.5 – 105.5 FM – Baku – AZ-BA",
+       "active": 0,
        "url": "http://85.132.71.10:8000/live.m3u",
        "language_inferred": true
       },
       {
        "name": "Media FM Jazz",
+       "active": 0,
        "url": "http://95.217.196.109:8000/mediajazz",
        "language_inferred": true
       },
       {
        "name": "Megastore",
+       "active": 0,
        "url": "https://stream.zeno.fm/742n296g4uhvv",
        "language_inferred": true
       },
       {
        "name": "Mesut Fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/w45dqnp5kfhvv",
        "language_inferred": true
       },
       {
        "name": "Meyxana",
+       "active": 0,
        "url": "https://stream.zeno.fm/rao4fdwtllkvv",
        "language_inferred": true
       },
       {
        "name": "mikpro",
+       "active": 0,
        "url": "https://stream.zeno.fm/6xq59b0ef0hvv",
        "language_inferred": true
       },
       {
        "name": "Mix FM Stepanakert",
+       "active": 0,
        "url": "http://live.mix.am:8000/mix1",
        "language_inferred": true
       },
       {
        "name": "MIX Radio 2 – 105.0 – 105.0 FM – Stepanakert – Xankǝndi – AZ",
+       "active": 0,
        "url": "https://cast.mix.am/mix2",
        "language_inferred": true
       },
       {
        "name": "MIX Radio 3 – 103.0 – 103.0 FM – Stepanakert – Xankǝndi – AZ",
+       "active": 0,
        "url": "https://cast.mix.am/mix3",
        "language_inferred": true
       },
       {
        "name": "Musica Macaco",
+       "active": 0,
        "url": "https://stream.zeno.fm/ihzwvqwq0gvvv",
        "language_inferred": true
       },
       {
        "name": "Naxcivanradiosu",
+       "active": 0,
        "url": "http://37.59.40.90:12782/stream.mp3"
       },
       {
        "name": "Nessa virada do ano",
+       "active": 0,
        "url": "https://stream.zeno.fm/n66medkpyrhvv",
        "language_inferred": true
       },
       {
        "name": "o corte americano",
+       "active": 0,
        "url": "https://stream.zeno.fm/u85fkszgec9uv",
        "language_inferred": true
       },
       {
        "name": "One FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/axxehv72nfhvv"
       },
       {
        "name": "ORALEEEEEEE",
+       "active": 0,
        "url": "https://stream.zeno.fm/jrtbsuq15rsuv",
        "language_inferred": true
       },
       {
        "name": "OSC FM",
+       "active": 0,
        "url": "http://148.251.85.16:8000/stream?type=.mp3/",
        "language_inferred": true
       },
       {
        "name": "Parrotias",
+       "active": 0,
        "url": "https://stream.zeno.fm/k1dmb9k7v0hvv",
        "language_inferred": true
       },
       {
        "name": "Public radio of Artsakh – Stepanakert – Xankǝndi – AZ",
+       "active": 0,
        "url": "https://cast.mix.am/artsakhradio",
        "language_inferred": true
       },
       {
        "name": "Qafqaz FM",
+       "active": 0,
        "url": "http://music.nextweb.ru:9500/azerbaidganskaya"
       },
       {
        "name": "Qebele Radio",
+       "active": 0,
        "url": "https://radio.qebele.tv/radio/8010/radio.mp3",
        "language_inferred": true
       },
       {
        "name": "Qebele Radio",
+       "active": 0,
        "url": "https://a5.asurahosting.com:8040/radio.mp3",
        "language_inferred": true
       },
       {
        "name": "Qebele Radio",
+       "active": 0,
        "url": "http://46.101.179.105/radio/8010/radio.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio 106 FM – 106 FM – Baku – AZ-BA",
+       "active": 0,
        "url": "http://85.132.81.184:1935/radio/atv/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "Radio 15",
+       "active": 0,
        "url": "https://stream.zeno.fm/zb8m11eb9f0uv",
        "language_inferred": true
       },
       {
        "name": "Radio Chico Viola",
+       "active": 0,
        "url": "https://stream.zeno.fm/m487fppv1a0uv",
        "language_inferred": true
       },
       {
        "name": "Radio Christina Aguilera",
+       "active": 0,
        "url": "https://stream.zeno.fm/km7h9kdr87zuv",
        "language_inferred": true
       },
       {
        "name": "Radio Enerji 101.1 FM – 101.1 FM – Baku – AZ-BA",
+       "active": 0,
        "url": "http://85.132.71.10:8000/antenn-mp3.m3u",
        "language_inferred": true
       },
       {
        "name": "Radio Gladys Knight",
+       "active": 0,
        "url": "https://stream.zeno.fm/5dxv23w3xg0uv",
        "language_inferred": true
       },
       {
        "name": "Radio Marina Lima",
+       "active": 0,
        "url": "https://stream.zeno.fm/qgw55msv3a0uv",
        "language_inferred": true
       },
       {
        "name": "Radio Respublika International",
+       "active": 0,
        "url": "https://str.yodacdn.net/radio_int/index.m3u8",
        "language_inferred": true
       },
       {
        "name": "Radio Sputnik Azərbaycan",
+       "active": 0,
        "url": "https://riavoice.gcdn.co/voiceaz1",
        "language_inferred": true
       },
       {
        "name": "Radio Veten",
+       "active": 0,
        "url": "http://stream.zeno.fm/p1hx0c3y14zuv.m3u"
       },
       {
        "name": "Radionet Azerbaijan",
+       "active": 0,
        "url": "https://radionet.out.airtime.pro/radionet_a",
        "language_inferred": true
       },
       {
        "name": "RD-radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/ksskwxr4wv8uv",
        "language_inferred": true
       },
       {
        "name": "Rpg Mv Save Editor",
+       "active": 0,
        "url": "https://stream.zeno.fm/rrqf7k40eqjtv",
        "language_inferred": true
       },
       {
        "name": "Saymore",
+       "active": 0,
        "url": "https://stream.zeno.fm/hunnugdra2zuv",
        "language_inferred": true
       },
       {
        "name": "Smile FM 106.6",
+       "active": 0,
        "url": "http://live.mix.am:8000/smile?1429079468890.aac",
        "language_inferred": true
       },
       {
        "name": "Talker",
+       "active": 0,
        "url": "https://stream.zeno.fm/yd7suxqrpwzuv",
        "language_inferred": true
       },
       {
        "name": "Tehelim",
+       "active": 0,
        "url": "https://stream.zeno.fm/2pmz7r18fd0uv",
        "language_inferred": true
       },
       {
        "name": "The Nightclub Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/dgzs54w5by8uv",
        "language_inferred": true
       },
       {
        "name": "Tzgospel swahili",
+       "active": 0,
        "url": "https://stream.zeno.fm/835q8apvcfhvv",
        "language_inferred": true
       },
       {
        "name": "uglev2",
+       "active": 0,
        "url": "https://stream.zeno.fm/v229x6h7yy8uv",
        "language_inferred": true
       },
       {
        "name": "veronica",
+       "active": 0,
        "url": "https://stream.zeno.fm/zatepfank1lvv",
        "language_inferred": true
       },
       {
        "name": "VetenTV radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/mvy9v0zuzv8uv",
        "language_inferred": true
       },
       {
        "name": "VIVA FM (Azerbaijan)",
+       "active": 0,
        "url": "http://node-06.zeno.fm/tbfu8vxb84zuv",
        "language_inferred": true
       },
       {
        "name": "Vətənim Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/xdny2g2kpchvv",
        "language_inferred": true
       },
       {
        "name": "Xezer FM",
+       "active": 0,
        "url": "https://s30.myradiostream.com/:32684/listen.mp3",
        "language_inferred": true
       },
       {
        "name": "Xezer FM",
+       "active": 0,
        "url": "https://s40.myradiostream.com/:22546/listen.mp3??n=0ee57fd4ab1661c8ce07"
       },
       {
        "name": "XFM Radio Stepanakert – 106.6 FM – Stepanakert – Xankǝndi – AZ",
+       "active": 0,
        "url": "http://cast.mix.am/x",
        "language_inferred": true
       },
       {
        "name": "Xoş xəbər",
+       "active": 0,
        "url": "http://81.204.164.157/radio/8000/radio64.mp3"
       },
       {
        "name": "Xəbərlər",
+       "active": 0,
        "url": "https://stream.zeno.fm/178rmfwsa78uv",
        "language_inferred": true
       },
       {
        "name": "Yenə efirdəsən",
+       "active": 0,
        "url": "https://stream.zeno.fm/75zbbk4kpchvv",
        "language_inferred": true
       },
       {
        "name": "yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy",
+       "active": 0,
        "url": "https://stream.zeno.fm/tqjyxa6oyvjvv",
        "language_inferred": true
       },
       {
        "name": "Zyherp",
+       "active": 0,
        "url": "https://stream.zeno.fm/bn6ycwzawuhvv",
        "language_inferred": true
       },
       {
        "name": "Карабах сегодня (Karabakh Today) – Stepanakert – Xankǝndi – AZ",
+       "active": 0,
        "url": "http://radio.mix.am:7777/ktoday",
        "language_inferred": true
       }
@@ -1517,6 +1731,7 @@
      "stations": [
       {
        "name": "Radio Veten",
+       "active": 0,
        "url": "https://node-29.zeno.fm/0kgkkzanmueuv.m3u",
        "tags": [
         "classical",
@@ -1525,6 +1740,7 @@
       },
       {
        "name": "Radio Vətən",
+       "active": 0,
        "url": "https://stream.zeno.fm/0kgkkzanmueuv",
        "tags": [
         "pop_hits",
@@ -1539,6 +1755,7 @@
      "stations": [
       {
        "name": "Radio Space FM radio",
+       "active": 0,
        "url": "http://5.191.241.101:8000/spaceradio",
        "tags": [
         "news_talk",
@@ -1559,6 +1776,7 @@
      "stations": [
       {
        "name": "DMR1",
+       "active": 0,
        "url": "https://listen.radionomy.com/dmr1",
        "tags": [
         "house",
@@ -1572,6 +1790,7 @@
      "stations": [
       {
        "name": "Anti Radio",
+       "active": 0,
        "url": "https://stream.antiradio.net/radio/8000/mp3",
        "tags": [
         "pop_hits",
@@ -1596,6 +1815,7 @@
      "stations": [
       {
        "name": "Caspian Business Radio BOSS",
+       "active": 0,
        "url": "https://myradio24.org/bosscomaz",
        "tags": [
         "pop_hits",
@@ -1619,6 +1839,7 @@
      "stations": [
       {
        "name": "Psychedelic FM (TEST)",
+       "active": 0,
        "url": "https://stream.zeno.fm/5hwyr4zrpwzuv"
       }
      ]
@@ -1633,6 +1854,7 @@
      "stations": [
       {
        "name": "Stremaz",
+       "active": 0,
        "url": "https://s0.radioheart.ru:8000/RH20730",
        "tags": [
         "electronic",
@@ -1653,6 +1875,7 @@
      "stations": [
       {
        "name": "JazzRadio.az",
+       "active": 0,
        "url": "http://tune.az:8060"
       }
      ]
@@ -1667,6 +1890,7 @@
      "stations": [
       {
        "name": "Radio Sharg",
+       "active": 0,
        "url": "https://sharg.out.airtime.pro/sharg_a",
        "tags": [
         "classical",

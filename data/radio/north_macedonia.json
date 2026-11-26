@@ -10,6 +10,7 @@
      "stations": [
       {
        "name": "City Radio 94.7",
+       "active": 0,
        "url": "http://176.9.117.123:9998/stream/",
        "tags": [
         "rock",
@@ -21,6 +22,7 @@
       },
       {
        "name": "Kanal 103",
+       "active": 0,
        "url": "http://radiostream.neotel.mk/kanal103",
        "tags": [
         "alternative_indie",
@@ -42,6 +44,7 @@
       },
       {
        "name": "Kanal 103",
+       "active": 0,
        "url": "http://radiostream.neotel.mk:8000/kanal103",
        "tags": [
         "rock",
@@ -55,6 +58,7 @@
      "stations": [
       {
        "name": "Club FM",
+       "active": 0,
        "url": "http://176.9.117.123:9996/stream/1",
        "tags": [
         "ambient_relax",
@@ -69,6 +73,7 @@
      "stations": [
       {
        "name": "Radio Maria Macedonia",
+       "active": 0,
        "url": "http://dreamsiteradiocp.com:8118/stream",
        "tags": [
         "christian_gospel",
@@ -83,10 +88,12 @@
      "stations": [
       {
        "name": "Antenna 5 Hit List",
+       "active": 0,
        "url": "http://46.165.216.89:9070"
       },
       {
        "name": "Energy Radio",
+       "active": 0,
        "url": "https://radiomk-portal.com/radio/8000/radioenergy.mp3",
        "tags": [
         "classical",
@@ -95,6 +102,7 @@
       },
       {
        "name": "Radio Time FM",
+       "active": 0,
        "url": "http://ss1.mk.checast.com:21102/live",
        "tags": [
         "classical",
@@ -104,15 +112,18 @@
       },
       {
        "name": "Radio-ILIRIDA",
+       "active": 0,
        "url": "http://stream.zeno.fm/ny0p7tvzm7zuv",
        "language_inferred": true
       },
       {
        "name": "Sky Radio 1025 FM",
+       "active": 0,
        "url": "http://89.205.123.70:8002//stream.mp3"
       },
       {
        "name": "Sky Radio Hits",
+       "active": 0,
        "url": "https://s1.skyradio.com.mk/hits.mp3",
        "tags": [
         "classical",
@@ -123,6 +134,7 @@
       },
       {
        "name": "Sky Radio Retro",
+       "active": 0,
        "url": "https://s1.skyradio.com.mk/retro.mp3",
        "tags": [
         "classical",
@@ -133,6 +145,7 @@
       },
       {
        "name": "Smoothjazztampabay.com",
+       "active": 0,
        "url": "http://ams-2.1radio.mk/1radio_smoothjazz_64/stream/1",
        "tags": [
         "classical",
@@ -151,6 +164,7 @@
       },
       {
        "name": "Super Radio Greatest Hits",
+       "active": 0,
        "url": "https://stream.zeno.fm/25nxuhsn6e9uv",
        "tags": [
         "classical",
@@ -159,6 +173,7 @@
       },
       {
        "name": "Super Radio MAK Klasik",
+       "active": 0,
        "url": "https://stream.zeno.fm/nm4de6p4zehvv"
       }
      ]
@@ -168,16 +183,19 @@
      "stations": [
       {
        "name": "1swarna",
+       "active": 0,
        "url": "https://stream.zeno.fm/48ngfvuq538uv",
        "language_inferred": true
       },
       {
        "name": "Lex Kingdom",
+       "active": 0,
        "url": "https://stream.zeno.fm/tm8qbg1cwnhvv",
        "language_inferred": true
       },
       {
        "name": "MEXICO FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/15r8pup5kuhvv",
        "language_inferred": true
       }
@@ -188,6 +206,7 @@
      "stations": [
       {
        "name": "VATO RAP",
+       "active": 0,
        "url": "https://stream.zeno.fm/s0rd0xs3xuhvv",
        "language_inferred": true
       }
@@ -198,6 +217,7 @@
      "stations": [
       {
        "name": "Radio Bitola",
+       "active": 0,
        "url": "http://96.31.83.94:8111/",
        "tags": [
         "folk",
@@ -207,6 +227,7 @@
       },
       {
        "name": "Radio Macedonia City",
+       "active": 0,
        "url": "http://5.39.82.219:10030",
        "tags": [
         "folk",
@@ -222,6 +243,7 @@
      "stations": [
       {
        "name": "Oldies 104",
+       "active": 0,
        "url": "http://ams-2.1radio.mk/1radio_oldies_128/stream/1",
        "tags": [
         "decade_60s",
@@ -237,6 +259,7 @@
      "stations": [
       {
        "name": "Star World Retro",
+       "active": 0,
        "url": "https://eu4.fastcast4u.com/proxy/radiostarmk?mp=/stream/5/",
        "tags": [
         "decade_80s",
@@ -246,6 +269,7 @@
       },
       {
        "name": "WAQE Star 97.7",
+       "active": 0,
        "url": "http://141.8.58.29:88/broadwave.mp3",
        "language_inferred": true
       }
@@ -256,6 +280,7 @@
      "stations": [
       {
        "name": "Mini Radio 90 hits",
+       "active": 0,
        "url": "https://stream.zeno.fm/x3xf34hz6rquv",
        "tags": [
         "pop_hits",
@@ -270,6 +295,7 @@
      "stations": [
       {
        "name": "Pulse Radio",
+       "active": 0,
        "url": "http://213.135.163.220:8000/live",
        "tags": [
         "pop_hits",
@@ -284,6 +310,7 @@
      "stations": [
       {
        "name": "Folk Radio 106.5 FM",
+       "active": 0,
        "url": "http://89.205.127.244:8002/stream/1",
        "tags": [
         "pop_hits",
@@ -292,6 +319,7 @@
       },
       {
        "name": "Radio 5fm",
+       "active": 0,
        "url": "http://5fm.mk:8000/stream/1/",
        "tags": [
         "pop_hits",
@@ -301,6 +329,7 @@
       },
       {
        "name": "Radio Kanal 77",
+       "active": 0,
        "url": "https://radiocnd.mms.mk/proxy/web/stream?ver=464339",
        "tags": [
         "easy_listening",
@@ -311,6 +340,7 @@
       },
       {
        "name": "Radio Kanal 77 radio",
+       "active": 0,
        "url": "https://radiocnd.mms.mk/proxy/offnet/stream",
        "tags": [
         "pop_hits",
@@ -322,6 +352,7 @@
       },
       {
        "name": "Radio Kiss Tetovo",
+       "active": 0,
        "url": "http://kisstetovo.radioca.st:8247/stream/",
        "tags": [
         "easy_listening",
@@ -331,6 +362,7 @@
       },
       {
        "name": "Radio Viva",
+       "active": 0,
        "url": "http://stream.sepia.sk:8000/viva64.aac",
        "tags": [
         "pop_hits",
@@ -340,6 +372,7 @@
       },
       {
        "name": "Sky Radio 102.5 FM",
+       "active": 0,
        "url": "http://89.205.123.70:8000/stream/1",
        "tags": [
         "pop_hits",
@@ -348,6 +381,7 @@
       },
       {
        "name": "Super Radio Love Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/f7aqf7r4zehvv"
       }
      ]
@@ -357,16 +391,19 @@
      "stations": [
       {
        "name": "Mini Radio Car",
+       "active": 0,
        "url": "https://stream.zeno.fm/yw2nkyn9p98uv",
        "language_inferred": true
       },
       {
        "name": "Mini Radio Club – Prilep – MK",
+       "active": 0,
        "url": "https://stream.zeno.fm/4mc4272cxf9uv",
        "language_inferred": true
       },
       {
        "name": "Mini Radio Fitness",
+       "active": 0,
        "url": "https://stream.zeno.fm/gc04ctnq8k8uv",
        "tags": [
         "pop_hits",
@@ -376,6 +413,7 @@
       },
       {
        "name": "Online Radio Kicevo",
+       "active": 0,
        "url": "https://listen.radionomy.com/radiokicevoonline",
        "tags": [
         "pop_hits",
@@ -384,12 +422,14 @@
       },
       {
        "name": "Pulse Radio",
+       "active": 0,
        "url": "http://www.pulseradio.mk/player.html",
        "country_inferred": true,
        "language_inferred": true
       },
       {
        "name": "Radio BRAVO Kumanovo",
+       "active": 0,
        "url": "http://80.77.157.10:8000",
        "tags": [
         "pop_hits",
@@ -401,6 +441,7 @@
       },
       {
        "name": "Radio Bum 1042 FM Kumanovo",
+       "active": 0,
        "url": "http://188.165.237.19:8533/listen.pls",
        "tags": [
         "pop_hits",
@@ -409,6 +450,7 @@
       },
       {
        "name": "Radio HIT 88.1 FM radio",
+       "active": 0,
        "url": "https://www.radio.shoutcast.mk:8062/stream",
        "tags": [
         "electronic",
@@ -419,6 +461,7 @@
       },
       {
        "name": "Radio Hit Macedonia",
+       "active": 0,
        "url": "https://radio.shoutcast.mk/8062/stream",
        "tags": [
         "pop_hits",
@@ -429,6 +472,7 @@
       },
       {
        "name": "Radio Kocani radio",
+       "active": 0,
        "url": "https://live.mkdstream.com/listen/radioko/rakocan",
        "tags": [
         "electronic",
@@ -439,6 +483,7 @@
       },
       {
        "name": "Radio Stip",
+       "active": 0,
        "url": "http://46.217.240.100:1031/radiostip",
        "tags": [
         "electronic",
@@ -447,11 +492,13 @@
       },
       {
        "name": "Star Plus",
+       "active": 0,
        "url": "https://radiostar.com.mk/stream/starplus.php",
        "language_inferred": true
       },
       {
        "name": "Star Plus radio",
+       "active": 0,
        "url": "https://radiostar.pro/stream/starplus.php",
        "tags": [
         "electronic",
@@ -464,6 +511,7 @@
       },
       {
        "name": "Super Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/muzq097d2c9uv",
        "tags": [
         "pop_hits",
@@ -474,10 +522,12 @@
       },
       {
        "name": "Super Radio Dance",
+       "active": 0,
        "url": "https://stream.zeno.fm/5bg7xn8m6e9uv"
       },
       {
        "name": "Vink Radio",
+       "active": 0,
        "url": "https://eu10.fastcast4u.com/vinkradio",
        "tags": [
         "pop_hits",
@@ -494,6 +544,7 @@
      "stations": [
       {
        "name": "Balkanski Raj Radio",
+       "active": 0,
        "url": "https://freeuk29.listen2myradio.com/live.mp3?typeportmount=s1_39167_stream_79167712stream.nsv",
        "tags": [
         "pop_hits",
@@ -503,6 +554,7 @@
       },
       {
        "name": "Balkanski Raj Radio",
+       "active": 0,
        "url": "https://freeuk29.listen2myradio.com/live.mp3?typeportmount=s1_38111_stream_857838017stream.nsv",
        "tags": [
         "folk",
@@ -512,6 +564,7 @@
       },
       {
        "name": "Biser Radio Ohrid",
+       "active": 0,
        "url": "https://biserradioohrid.radioca.st/stream",
        "tags": [
         "folk",
@@ -520,29 +573,35 @@
       },
       {
        "name": "Biser Radio Orovnik",
+       "active": 0,
        "url": "https://biserradioohrid.radioca.st:/",
        "language_inferred": true
       },
       {
        "name": "Biser Radio Orovnik",
+       "active": 0,
        "url": "https://biserradioohrid.radioca.st/stream?type=http&ampampnocache=1573"
       },
       {
        "name": "Capitol FM",
+       "active": 0,
        "url": "http://89.205.127.244:8002/stream.mp3"
       },
       {
        "name": "Capitol FM radio",
+       "active": 0,
        "url": "http://89.205.127.244:8002/stream.nsv",
        "language_inferred": true
       },
       {
        "name": "Extra Radio",
+       "active": 0,
        "url": "https://eu10.fastcast4u.com/extralive",
        "language_inferred": true
       },
       {
        "name": "Folk Radio 106.5 FM",
+       "active": 0,
        "url": "http://89.205.127.244:8002/",
        "tags": [
         "folk",
@@ -551,6 +610,7 @@
       },
       {
        "name": "Gora Naj Radio",
+       "active": 0,
        "url": "https://eu4.fastcast4u.com/proxy/stilradiomk?mp=/stream/5/",
        "tags": [
         "folk",
@@ -559,21 +619,25 @@
       },
       {
        "name": "Gostivarpress.mk Online Radio",
+       "active": 0,
        "url": "https://radio.dukahosting.com/8004/stream",
        "language_inferred": true
       },
       {
        "name": "Kiss Fm Radio",
+       "active": 0,
        "url": "https://kissfmradionet.radioca.st/stream.nsv",
        "language_inferred": true
       },
       {
        "name": "Kiss Fm Radio",
+       "active": 0,
        "url": "http://178.32.62.154:10000/stream.nsv",
        "language_inferred": true
       },
       {
        "name": "Luna Radio",
+       "active": 0,
        "url": "https://eu10.fastcast4u.com:6110/stream/7/",
        "language_inferred": true,
        "rb": "d22da93e-9960-4c4b-a257-96edad99cc0b",
@@ -581,60 +645,72 @@
       },
       {
        "name": "Luna Radio",
+       "active": 0,
        "url": "https://eu4.fastcast4u.com/proxy/radiostarmk?mp=/stream/6/",
        "language_inferred": true
       },
       {
        "name": "Merak Radio Bitola",
+       "active": 0,
        "url": "https://usa10.fastcast4u.com/meraklive",
        "language_inferred": true
       },
       {
        "name": "Mini Radio Ballades – Prilep – MK",
+       "active": 0,
        "url": "https://stream.zeno.fm/rkkeuymfxzzuv",
        "language_inferred": true
       },
       {
        "name": "Mini Radio Folk – Prilep – MK",
+       "active": 0,
        "url": "https://stream.zeno.fm/tbadf7557reuv",
        "language_inferred": true
       },
       {
        "name": "Mini Radio Meana – Prilep – MK",
+       "active": 0,
        "url": "https://stream.zeno.fm/stqprpr0b0quv",
        "language_inferred": true
       },
       {
        "name": "Miss Radio",
+       "active": 0,
        "url": "https://eu4.fastcast4u.com/proxy/radiostarmk?mp=/stream/7/",
        "language_inferred": true
       },
       {
        "name": "Modea FM",
+       "active": 0,
        "url": "http://stream.zemi.mk:8008/"
       },
       {
        "name": "Pero Radio",
+       "active": 0,
        "url": "https://eu10.fastcast4u.com/peroradio",
        "language_inferred": true
       },
       {
        "name": "Planeta Mak Radio Macedonia",
+       "active": 0,
        "url": "https://fps4.listen2myradio.com:2199/listen.php?ip=109.169.23.123\\u0026port=9343\\u0026type=s1",
        "language_inferred": true
       },
       {
        "name": "Planeta Mak Radio Macedonia",
+       "active": 0,
        "url": "https://fps1.listen2myradio.com:2199/listen.php?ip=95.154.228.120&ampport=8023&amptype=s1",
        "language_inferred": true
       },
       {
        "name": "Planeta Radio Makedonija",
+       "active": 0,
        "url": "https://fps2.listen2myradio.com:2199/listen.php?ip=109.169.23.17\\u0026port=10933\\u0026type=s1",
        "language_inferred": true
       },
       {
        "name": "Radio 105 Bombarder",
+       "active": 0,
        "url": "http://radio105.makbots.com:21010/stream/1",
        "bitrate": 128,
        "logo": "http://radio.pervii.com/logo/106274.jpg",
@@ -646,6 +722,7 @@
       },
       {
        "name": "Radio 105 Bombarder",
+       "active": 0,
        "url": "http://144.91.97.125:21010/radio105",
        "tags": [
         "sports",
@@ -656,14 +733,17 @@
       },
       {
        "name": "Radio Aleksandar Makedonski",
+       "active": 0,
        "url": "http://checast.com/live/radio/mk/radioaleksandarmakedonski"
       },
       {
        "name": "Radio Aleksandar Makedonski",
+       "active": 0,
        "url": "https://radio.shoutcast.mk/8038/stream"
       },
       {
        "name": "Radio Aleksandar Makedonski radio",
+       "active": 0,
        "url": "https://s2.free-shoutcast.com/stream/18138",
        "tags": [
         "folk",
@@ -672,11 +752,13 @@
       },
       {
        "name": "Radio Balkan radio",
+       "active": 0,
        "url": "https://eu4.fastcast4u.com/proxy/stilradiomk?mp=/stream/9/",
        "language_inferred": true
       },
       {
        "name": "Radio Bubamara 105.2 FM radio",
+       "active": 0,
        "url": "https://live.onlineradio.mk/proxy/radiobubamara?mp=/stream?ver=903803",
        "tags": [
         "folk",
@@ -687,20 +769,24 @@
       },
       {
        "name": "Radio Fokus Makedonija radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/rn01x4vssnhvv",
        "language_inferred": true
       },
       {
        "name": "Radio Fresh radio",
+       "active": 0,
        "url": "https://cast.balkanfreshdns.xyz/radio/8000/radio.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio Grom Makedonija",
+       "active": 0,
        "url": "https://sc1.herocheap.com/proxy/grom/stream"
       },
       {
        "name": "Radio Jehona",
+       "active": 0,
        "url": "http://s26.myradiostream.com:10030/stream.nsv",
        "tags": [
         "folk",
@@ -710,6 +796,7 @@
       },
       {
        "name": "Radio Joker",
+       "active": 0,
        "url": "https://cast.multihost.mk/radio/8020/radio.mp3",
        "tags": [
         "various_eclectic",
@@ -718,22 +805,26 @@
       },
       {
        "name": "Radio Joker Live",
+       "active": 0,
        "url": "https://audio.asuradns.com/radio/8020/stream.nsv",
        "language_inferred": true
       },
       {
        "name": "Radio Kalugerica",
+       "active": 0,
        "url": "https://radio.shoutcast.mk/8040/stream",
        "country_inferred": true,
        "language_inferred": true
       },
       {
        "name": "Radio Kalugerica radio",
+       "active": 0,
        "url": "https://www.radio.shoutcast.mk:8040/",
        "language_inferred": true
       },
       {
        "name": "Radio Kavadarci",
+       "active": 0,
        "url": "https://stream.zeno.fm/a5ffd4skgg0uv",
        "tags": [
         "folk",
@@ -743,10 +834,12 @@
       },
       {
        "name": "Radio Kavadarci",
+       "active": 0,
        "url": "http://node-29.zeno.fm/p79t9wf7mg0uv"
       },
       {
        "name": "Radio Kavadarci",
+       "active": 0,
        "url": "https://stream.pcradio.ru/rad_kvdrcmk-med",
        "tags": [
         "folk",
@@ -756,6 +849,7 @@
       },
       {
        "name": "Radio Kometa",
+       "active": 0,
        "url": "http://ss1.mk.checast.com:21070/48.aac?1419754494544.aac",
        "tags": [
         "pop_hits",
@@ -765,6 +859,7 @@
       },
       {
        "name": "Radio Kometa",
+       "active": 0,
        "url": "http://ss1.mk.checast.com:21070/48.aac",
        "tags": [
         "folk",
@@ -773,6 +868,7 @@
       },
       {
        "name": "Radio Lav 91.5 FM radio",
+       "active": 0,
        "url": "http://ss1.mk.checast.com:21080/live?1461570084999.aac",
        "tags": [
         "folk",
@@ -782,14 +878,17 @@
       },
       {
        "name": "Radio LAV radio",
+       "active": 0,
        "url": "https://live.mkdstream.com/listen/ralavoh/ralav"
       },
       {
        "name": "Radio Ljubav",
+       "active": 0,
        "url": "https://audio.asuradns.com/radio/8010/radio.mp3"
       },
       {
        "name": "Radio Lux Makedonija",
+       "active": 0,
        "url": "https://radiolux.mk/radio.php",
        "tags": [
         "folk",
@@ -798,6 +897,7 @@
       },
       {
        "name": "Radio MEFF",
+       "active": 0,
        "url": "https://91.121.195.222:16040/",
        "tags": [
         "folk",
@@ -807,6 +907,7 @@
       },
       {
        "name": "Radio MEFF",
+       "active": 0,
        "url": "https://radiomeff.mk/stream",
        "tags": [
         "folk",
@@ -815,6 +916,7 @@
       },
       {
        "name": "Radio MEFF radio",
+       "active": 0,
        "url": "https://s32.myradiostream.com:16040/",
        "tags": [
         "folk",
@@ -825,20 +927,24 @@
       },
       {
        "name": "Radio Mibrala",
+       "active": 0,
        "url": "http://radiomibrala.mk:2020/listen.pls",
        "country_inferred": true,
        "language_inferred": true
       },
       {
        "name": "Radio Nika",
+       "active": 0,
        "url": "https://audio.asuradns.com/radio/8020/radio.mp3"
       },
       {
        "name": "Radio Pela",
+       "active": 0,
        "url": "https://stream.zeno.fm/npc6pdn1c48uv"
       },
       {
        "name": "Radio PRO FM radio",
+       "active": 0,
        "url": "http://204.12.238.138:8556/",
        "tags": [
         "folk",
@@ -848,11 +954,13 @@
       },
       {
        "name": "Radio Rosa 98.1",
+       "active": 0,
        "url": "http://69.30.218.190:31340/nocache=1569416496?",
        "language_inferred": true
       },
       {
        "name": "Radio Rosa MK",
+       "active": 0,
        "url": "http://69.30.218.190:31340/",
        "tags": [
         "world",
@@ -861,20 +969,24 @@
       },
       {
        "name": "Radio Rosoman radio",
+       "active": 0,
        "url": "https://live.icecast.ga/listen/rosoman/rosom",
        "language_inferred": true
       },
       {
        "name": "Radio Sokolarci",
+       "active": 0,
        "url": "http://s2.free-shoutcast.com:18148/"
       },
       {
        "name": "Radio Sokolarci ONLAJN",
+       "active": 0,
        "url": "http://109.169.23.123:8896/",
        "language_inferred": true
       },
       {
        "name": "Radio Sokolarci radio",
+       "active": 0,
        "url": "https://onlineradiobox.com/json/mk/sokolarciplus/play?platform=web",
        "tags": [
         "folk",
@@ -884,24 +996,29 @@
       },
       {
        "name": "Radio TIM",
+       "active": 0,
        "url": "http://freeuk1.listen2myradio.com/live.mp3?typeportmount=s1_13867_stream_199454712"
       },
       {
        "name": "Radio TIM Bitola radio",
+       "active": 0,
        "url": "http://hydra.shoutca.st:8108/stream.nsv",
        "language_inferred": true
       },
       {
        "name": "Radio TIM Makedonija",
+       "active": 0,
        "url": "http://radio.shoutcast.mk:8026/"
       },
       {
        "name": "Radio Vmro",
+       "active": 0,
        "url": "http://radio.shoutcast.mk:8024/stream.nsv",
        "language_inferred": true
       },
       {
        "name": "Radio Vmro Makedonija",
+       "active": 0,
        "url": "http://radio.shoutcast.mk:8024/",
        "bitrate": 128,
        "logo": "http://radio.pervii.com/logo/1589299479.jpg",
@@ -912,41 +1029,49 @@
       },
       {
        "name": "Radio Vmro Makedonija",
+       "active": 0,
        "url": "https://radio.shoutcast.mk:7011/slusaj.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio Vmro Makedonija",
+       "active": 0,
        "url": "https://radio.shoutcast.mk:7011/stream",
        "language_inferred": true
       },
       {
        "name": "Radio Vmro radio",
+       "active": 0,
        "url": "http://hyades.shoutca.st:8072/stream.nsv",
        "language_inferred": true
       },
       {
        "name": "RadioRabrovo radio",
+       "active": 0,
        "url": "https://live.mkdstream.com/listen/rabrovo/rarab"
       },
       {
        "name": "SKY FOLK",
+       "active": 0,
        "url": "https://eu.live.skyfolk.mk/live.m3u8?n=5fbdd6ffd2d3e22ccc0c",
        "rb": "f6a29331-294a-49c0-84f0-4eefb7622964"
       },
       {
        "name": "Star Boemi radio",
+       "active": 0,
        "url": "https://radiostar.pro/stream/boemi.php",
        "language_inferred": true,
        "rb": "827d54bd-f173-4b66-8e74-86a27ceac61c"
       },
       {
        "name": "Star Boemi – Skopje – Karposh – MK",
+       "active": 0,
        "url": "https://radiostar.com.mk/stream/boemi.php",
        "language_inferred": true
       },
       {
        "name": "Star Folk Radio",
+       "active": 0,
        "url": "https://eu4.fastcast4u.com/proxy/radiostarmk?mp=/live",
        "tags": [
         "folk",
@@ -956,6 +1081,7 @@
       },
       {
        "name": "Star Mk Narodna",
+       "active": 0,
        "url": "https://radiostar.pro/stream/mknarodna.php",
        "language_inferred": true,
        "rb": "943b7637-871c-4957-986b-d6bd9ac47240",
@@ -963,11 +1089,13 @@
       },
       {
        "name": "Star Narodna",
+       "active": 0,
        "url": "https://eu10.fastcast4u.com:8900/stream/3/",
        "language_inferred": true
       },
       {
        "name": "Star Narodna (Ex Star Folk) radio",
+       "active": 0,
        "url": "https://radiostar.pro/stream/narodna.php",
        "language_inferred": true,
        "rb": "214e3c3c-063d-4f43-ab19-f9fe9f0a67ab",
@@ -975,12 +1103,14 @@
       },
       {
        "name": "Star Narodni",
+       "active": 0,
        "url": "https://radiostar.com.mk/stream/aacnarodna.php",
        "country_inferred": true,
        "language_inferred": true
       },
       {
        "name": "Star Radio Narodna",
+       "active": 0,
        "url": "https://radiostar.com.mk/stream/narodna.php",
        "tags": [
         "pop_hits",
@@ -990,6 +1120,7 @@
       },
       {
        "name": "STIL MKD NARODNA",
+       "active": 0,
        "url": "https://eu4.fastcast4u.com/proxy/stilradiomk?mp=/stream/3/",
        "tags": [
         "folk",
@@ -1000,6 +1131,7 @@
       },
       {
        "name": "STIL RADIO",
+       "active": 0,
        "url": "https://eu4.fastcast4u.com/proxy/stilradiomk?mp=/1",
        "tags": [
         "folk",
@@ -1012,6 +1144,7 @@
       },
       {
        "name": "TE Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/28sbm03a7f8uv",
        "tags": [
         "pop_hits",
@@ -1020,6 +1153,7 @@
       },
       {
        "name": "TE Radio TURKE",
+       "active": 0,
        "url": "https://stream.zeno.fm/zbh23ebqrp8uv",
        "tags": [
         "folk",
@@ -1029,11 +1163,13 @@
       },
       {
        "name": "Vink Radio",
+       "active": 0,
        "url": "https://eu10.fastcast4u.com:10490/",
        "language_inferred": true
       },
       {
        "name": "Vink Radio",
+       "active": 0,
        "url": "http://eu4.fastcast4u.com:5724/stream/4/",
        "tags": [
         "news_talk",
@@ -1044,21 +1180,25 @@
       },
       {
        "name": "Zlatnik Radio",
+       "active": 0,
        "url": "https://usa10.fastcast4u.com:6460/stream/2/",
        "language_inferred": true
       },
       {
        "name": "ZONA M1 RADIO",
+       "active": 0,
        "url": "http://89.205.83.58:8000/stream.nsv",
        "language_inferred": true
       },
       {
        "name": "Радио Балон radio",
+       "active": 0,
        "url": "https://radio.shoutcast.mk:7014/",
        "language_inferred": true
       },
       {
        "name": "Радио Забава radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/z8er3cqglopuv",
        "tags": [
         "folk",
@@ -1068,15 +1208,18 @@
       },
       {
        "name": "Радио Комета",
+       "active": 0,
        "url": "https://freeuk2.listen2myradio.com/live.mp3?typeportmount=s1_11482_stream_662156274"
       },
       {
        "name": "Радио Куманово Македонија radio",
+       "active": 0,
        "url": "http://167.86.80.34:8888//live",
        "language_inferred": true
       },
       {
        "name": "Радио Роса",
+       "active": 0,
        "url": "http://s3.free-shoutcast.com:18032/stream.nsv",
        "tags": [
         "folk",
@@ -1086,11 +1229,13 @@
       },
       {
        "name": "Стар Радио Македонија - Стар Плус",
+       "active": 0,
        "url": "https://eu10.fastcast4u.com:8900/stream/6/",
        "language_inferred": true
       },
       {
        "name": "Студент FM 92.9",
+       "active": 0,
        "url": "http://dhcp.ukim.mk:8000/stfm.aac/",
        "tags": [
         "college_community",
@@ -1106,6 +1251,7 @@
      "stations": [
       {
        "name": "Metropolis Radio",
+       "active": 0,
        "url": "https://eu4.fastcast4u.com/proxy/metradio?mp=/1",
        "tags": [
         "pop_hits",
@@ -1123,6 +1269,7 @@
       },
       {
        "name": "Radio 106",
+       "active": 0,
        "url": "http://stream.zemi.mk:8003/stream",
        "tags": [
         "hip_hop_rap",
@@ -1132,6 +1279,7 @@
       },
       {
        "name": "Radio Bleta",
+       "active": 0,
        "url": "https://radio.arholding.mk/play.aspx?radioBleta",
        "tags": [
         "hip_hop_rap",
@@ -1141,11 +1289,13 @@
       },
       {
        "name": "Radio Red FM",
+       "active": 0,
        "url": "http://204.12.238.138:13340/",
        "language_inferred": true
       },
       {
        "name": "STIL EX YU TRAP",
+       "active": 0,
        "url": "https://eu4.fastcast4u.com/proxy/stilradiomk?mp=/stream/4/",
        "tags": [
         "hip_hop_rap",
@@ -1157,6 +1307,7 @@
       },
       {
        "name": "Urban FM",
+       "active": 0,
        "url": "https://streamingv2.shoutcast.com/urban-fm-908-skopje",
        "language_inferred": true
       }
@@ -1167,6 +1318,7 @@
      "stations": [
       {
        "name": "Radio Joker Islam",
+       "active": 0,
        "url": "https://cast.radiojoker.net/radio/8040/radio.mp3?1604147399"
       }
      ]
@@ -1176,6 +1328,7 @@
      "stations": [
       {
        "name": "1Radio.mk Presents: The Jazzmas Channel",
+       "active": 0,
        "url": "http://ams-2.1radio.mk/1647_128",
        "bitrate": 128,
        "logo": "http://radio.pervii.com/im/5/1549710295.jpg",
@@ -1188,15 +1341,18 @@
       },
       {
        "name": "Jazz FM",
+       "active": 0,
        "url": "http://stream.konekthosting.info:9112/type=mp3"
       },
       {
        "name": "Mini Radio Jazz",
+       "active": 0,
        "url": "https://stream.zeno.fm/7ep9e8h15rquv",
        "language_inferred": true
       },
       {
        "name": "Moonshine Radio",
+       "active": 0,
        "url": "http://88.208.232.147:7002/stream",
        "tags": [
         "blues",
@@ -1207,6 +1363,7 @@
       },
       {
        "name": "Radio Bravo Relaxing",
+       "active": 0,
        "url": "http://77.68.84.201/1",
        "tags": [
         "jazz",
@@ -1216,6 +1373,7 @@
       },
       {
        "name": "Samo MK",
+       "active": 0,
        "url": "https://radiostream.neotel.mk/samomk?n=9563b5ce7fa79ff0e1e0",
        "tags": [
         "rock",
@@ -1226,6 +1384,7 @@
       },
       {
        "name": "Super Radio Smooth Jazz",
+       "active": 0,
        "url": "https://stream.zeno.fm/p3h95gun6e9uv"
       }
      ]
@@ -1235,21 +1394,25 @@
      "stations": [
       {
        "name": "Mini Radio Baby",
+       "active": 0,
        "url": "https://stream.zeno.fm/kgqhdxhxfm8uv",
        "language_inferred": true
       },
       {
        "name": "Mini Radio Baby",
+       "active": 0,
        "url": "https://stream.zeno.fm/6pmm7whxfm8uv",
        "language_inferred": true
       },
       {
        "name": "Ringispil",
+       "active": 0,
        "url": "https://stream.zeno.fm/y77fsg30x1zuv",
        "language_inferred": true
       },
       {
        "name": "Ringispil bajki",
+       "active": 0,
        "url": "https://stream.zeno.fm/b88gh614f2zuv",
        "language_inferred": true
       }
@@ -1260,6 +1423,7 @@
      "stations": [
       {
        "name": "Kanal 88",
+       "active": 0,
        "url": "https://icecast.ga/radio/8130/stream",
        "tags": [
         "latin",
@@ -1298,6 +1462,7 @@
       },
       {
        "name": "Radio Viktor HD",
+       "active": 0,
        "url": "http://stream.zeno.fm/nqc6af95sm0uv",
        "tags": [
         "latin",
@@ -1336,6 +1501,7 @@
       },
       {
        "name": "Radio Viktor HD",
+       "active": 0,
        "url": "https://node-26.zeno.fm/nqc6af95sm0uv?rj-ttl=5&rj-tok=AAABewILbMEATDzgYc23KhXJKg",
        "tags": [
         "latin",
@@ -1379,6 +1545,7 @@
      "stations": [
       {
        "name": "5FM Radio",
+       "active": 0,
        "url": "http://134.19.178.125:8000/",
        "tags": [
         "news_talk",
@@ -1388,6 +1555,7 @@
       },
       {
        "name": "Antenna 5 Chillout hits",
+       "active": 0,
        "url": "http://antenna5stream.neotel.mk:8000/live64?type=.mp3",
        "tags": [
         "news_talk",
@@ -1396,6 +1564,7 @@
       },
       {
        "name": "Lider FM 107,4",
+       "active": 0,
        "url": "https://liderfm.ipradio.mk/",
        "tags": [
         "news_talk",
@@ -1406,6 +1575,7 @@
       },
       {
        "name": "Life Radio",
+       "active": 0,
        "url": "http://liferadio.ddns.net:8000/",
        "tags": [
         "news_talk",
@@ -1415,6 +1585,7 @@
       },
       {
        "name": "Life Radio 89.1",
+       "active": 0,
        "url": "http://liferadio.ddns.net:8000/stream",
        "tags": [
         "news_talk",
@@ -1426,6 +1597,7 @@
       },
       {
        "name": "Radio 105 - Bitola",
+       "active": 0,
        "url": "https://www.liveradio.es/http://radio105.makbots.com:21010/stream/1",
        "tags": [
         "news_talk",
@@ -1435,6 +1607,7 @@
       },
       {
        "name": "Radio 105 Aktuel Bombarder",
+       "active": 0,
        "url": "http://radio105.makbots.com:21010/*.mp3",
        "tags": [
         "news_talk",
@@ -1443,6 +1616,7 @@
       },
       {
        "name": "Radio 5 Coki radio",
+       "active": 0,
        "url": "http://213.135.172.118:8000/stream.mp3",
        "tags": [
         "news_talk",
@@ -1452,6 +1626,7 @@
       },
       {
        "name": "Radio 5 FM",
+       "active": 0,
        "url": "http://5fm.mk:8000/stream.mp3",
        "tags": [
         "various_eclectic",
@@ -1460,6 +1635,7 @@
       },
       {
        "name": "Radio Bravo Kumanovo",
+       "active": 0,
        "url": "http://80.77.157.10:8000/stream/2live.mp3",
        "tags": [
         "news_talk",
@@ -1468,6 +1644,7 @@
       },
       {
        "name": "Radio Bubamara",
+       "active": 0,
        "url": "http://stream.bubamara.com.mk/live-128.aac",
        "tags": [
         "news_talk",
@@ -1477,10 +1654,12 @@
       },
       {
        "name": "Radio Falanga Kicevo",
+       "active": 0,
        "url": "https://s3.free-shoutcast.com/stream/18272"
       },
       {
        "name": "Radio Fama Tetove",
+       "active": 0,
        "url": "http://fama.streaming.im:7000/",
        "tags": [
         "news_talk",
@@ -1490,6 +1669,7 @@
       },
       {
        "name": "Radio Fortuna",
+       "active": 0,
        "url": "https://streamingv2.shoutcast.com/radio-fortuna-968",
        "tags": [
         "news_talk",
@@ -1499,6 +1679,7 @@
       },
       {
        "name": "Radio Kanal 77",
+       "active": 0,
        "url": "https://radiocnd.mms.mk/proxy/web/stream",
        "tags": [
         "news_talk",
@@ -1507,6 +1688,7 @@
       },
       {
        "name": "Radio Kanal 77",
+       "active": 0,
        "url": "http://live.kanal77.com.mk:8088/live.mp3",
        "tags": [
         "news_talk",
@@ -1516,6 +1698,7 @@
       },
       {
        "name": "Radio Slobodna Evropa Macedonian",
+       "active": 0,
        "url": "http://rfe-channel-14.akacast.akamaistream.net/7/368/229664/v1/ibb.akacast.akamaistream.net/rfe_channel_14.mp3",
        "tags": [
         "news_talk",
@@ -1525,6 +1708,7 @@
       },
       {
        "name": "Radio Time FM",
+       "active": 0,
        "url": "https://s2.free-shoutcast.com/stream/18058",
        "tags": [
         "news_talk",
@@ -1534,6 +1718,7 @@
       },
       {
        "name": "Radio Vati",
+       "active": 0,
        "url": "http://radiostream.neotel.mk:8000/radiovati",
        "tags": [
         "news_talk",
@@ -1544,6 +1729,7 @@
       },
       {
        "name": "stm Listen live",
+       "active": 0,
        "url": "https://stream.laut.fm/stm?ref=radiode",
        "tags": [
         "pop_hits",
@@ -1553,6 +1739,7 @@
       },
       {
        "name": "Time Fm Gevgelija",
+       "active": 0,
        "url": "http://stream.zemi.mk:8016/stream",
        "tags": [
         "news_talk",
@@ -1561,6 +1748,7 @@
       },
       {
        "name": "University Radio UGD FM",
+       "active": 0,
        "url": "http://ugdfm-stream.ugd.edu.mk:8000/stream",
        "tags": [
         "news_talk",
@@ -1569,6 +1757,7 @@
       },
       {
        "name": "Радио Марија Македонија radio",
+       "active": 0,
        "url": "http://dreamsiteradiocp.com:8118/stream.mp3",
        "tags": [
         "news_talk",
@@ -1578,6 +1767,7 @@
       },
       {
        "name": "Скај Радио",
+       "active": 0,
        "url": "https://skyradio.com.mk/listen.m3u",
        "tags": [
         "pop_hits",
@@ -1594,6 +1784,7 @@
      "stations": [
       {
        "name": "002.Evergreen Radio Mak",
+       "active": 0,
        "url": "http://s1.voscast.com:11286/EVERGREENRadioMAK",
        "tags": [
         "pop_hits",
@@ -1607,6 +1798,7 @@
       },
       {
        "name": "002.Evergreen Radio Mak",
+       "active": 0,
        "url": "https://streamingV2.shoutcast.com/EVERGREENRadioMAK",
        "tags": [
         "pop_hits",
@@ -1618,6 +1810,7 @@
       },
       {
        "name": "1radio.mk - Oldies 104",
+       "active": 0,
        "url": "http://ams-2.1radio.mk/1radio_oldies_128",
        "tags": [
         "oldies",
@@ -1630,6 +1823,7 @@
       },
       {
        "name": "Mini Radio 70 hits",
+       "active": 0,
        "url": "https://stream.zeno.fm/43p4vuxnbc9uv",
        "tags": [
         "pop_hits",
@@ -1639,6 +1833,7 @@
       },
       {
        "name": "Pioneer Station",
+       "active": 0,
        "url": "https://stream.zeno.fm/1k36xm4xpkeuv",
        "tags": [
         "pop_hits",
@@ -1648,6 +1843,7 @@
       },
       {
        "name": "Retro Sky Radio 102.5 FM Macedonia (MP3 128 kbps)",
+       "active": 0,
        "url": "http://s1.skyradio.com.mk:8010/retro.mp3",
        "bitrate": 128,
        "logo": "http://radio.pervii.com/logo/101257.jpg",
@@ -1656,6 +1852,7 @@
       },
       {
        "name": "Star Ex Yu Retro",
+       "active": 0,
        "url": "https://radiostar.com.mk/stream/exyuretro.php",
        "tags": [
         "oldies",
@@ -1664,6 +1861,7 @@
       },
       {
        "name": "Star World Retro",
+       "active": 0,
        "url": "https://radiostar.com.mk/stream/worldretro.php",
        "tags": [
         "oldies",
@@ -1674,6 +1872,7 @@
       },
       {
        "name": "Star World Retro radio",
+       "active": 0,
        "url": "https://radiostar.pro/stream/worldretro.php",
        "tags": [
         "oldies",
@@ -1687,6 +1886,7 @@
       },
       {
        "name": "Super Radio",
+       "active": 0,
        "url": "http://eu9.fastcast4u.com:6908/stream.mp3",
        "tags": [
         "pop_hits",
@@ -1700,14 +1900,17 @@
      "stations": [
       {
        "name": "5FM Veles",
+       "active": 0,
        "url": "https://5fm.mk:8000/"
       },
       {
        "name": "Angels FM 106.4",
+       "active": 0,
        "url": "http://95.180.176.135:8000/angelsfm"
       },
       {
        "name": "Antenna 5",
+       "active": 0,
        "url": "http://antenna5stream.neotel.mk:8000/live128",
        "tags": [
         "pop_hits",
@@ -1719,6 +1922,7 @@
       },
       {
        "name": "City Radio",
+       "active": 0,
        "url": "http://176.9.117.123:9998/stream/1",
        "tags": [
         "pop_hits",
@@ -1731,6 +1935,7 @@
       },
       {
        "name": "Club FM",
+       "active": 0,
        "url": "http://176.9.117.123:9996/",
        "tags": [
         "pop_hits",
@@ -1741,6 +1946,7 @@
       },
       {
        "name": "Ekspres Radio",
+       "active": 0,
        "url": "http://ekspresradio.dyndns.org:8000/",
        "tags": [
         "pop_hits",
@@ -1752,12 +1958,14 @@
       },
       {
        "name": "Fantom Radio",
+       "active": 0,
        "url": "https://cast.multihost.mk:7004/",
        "country_inferred": true,
        "language_inferred": true
       },
       {
        "name": "Gradski Media Service",
+       "active": 0,
        "url": "https://dc1.serverse.com/proxy/akrpnnld/stream",
        "tags": [
         "pop_hits",
@@ -1768,6 +1976,7 @@
       },
       {
        "name": "Kanal 77",
+       "active": 0,
        "url": "http://kanal77.mk:8088/live.mp3",
        "tags": [
         "various_eclectic",
@@ -1776,10 +1985,12 @@
       },
       {
        "name": "Life Radio",
+       "active": 0,
        "url": "http://netrox.ddns.net:8000/LifeRadio"
       },
       {
        "name": "Metropolis FM",
+       "active": 0,
        "url": "http://94.23.62.189:6064/stream",
        "tags": [
         "pop_hits",
@@ -1788,19 +1999,23 @@
       },
       {
        "name": "Metropolis FM Radio 99.4",
+       "active": 0,
        "url": "http://eu4.fastcast4u.com/proxy/metradio"
       },
       {
        "name": "Metropolis Radio",
+       "active": 0,
        "url": "http://94.23.62.189:6064/listen.pls"
       },
       {
        "name": "Mini Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/53qk63dhtkeuv",
        "language_inferred": true
       },
       {
        "name": "Mini Radio 80 hits",
+       "active": 0,
        "url": "https://stream.zeno.fm/18g6spdcwreuv",
        "tags": [
         "pop_hits",
@@ -1810,53 +2025,64 @@
       },
       {
        "name": "Mini Radio Cafe – Prilep – MK",
+       "active": 0,
        "url": "https://stream.zeno.fm/waf2myapyxquv",
        "language_inferred": true
       },
       {
        "name": "Mini Radio Hits – Prilep – MK",
+       "active": 0,
        "url": "https://stream.zeno.fm/avguz2a3hrquv",
        "language_inferred": true
       },
       {
        "name": "Mini Radio Mix",
+       "active": 0,
        "url": "https://stream.zeno.fm/a5r22sr6wg0uv",
        "language_inferred": true
       },
       {
        "name": "Modea FM 977",
+       "active": 0,
        "url": "http://stream.zemi.mk:8008/stream"
       },
       {
        "name": "Play Radio",
+       "active": 0,
        "url": "http://live.playfm.mk:8046/stream"
       },
       {
        "name": "Play Radio",
+       "active": 0,
        "url": "http://188.44.24.204:8000"
       },
       {
        "name": "Play Radio",
+       "active": 0,
        "url": "https://radio.shoutcast.mk/8046/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Play Radio",
+       "active": 0,
        "url": "http://188.44.24.204:8002/",
        "language_inferred": true
       },
       {
        "name": "Play Radio 90.4",
+       "active": 0,
        "url": "http://live.playfm.mk:8002/",
        "language_inferred": true
       },
       {
        "name": "Play Radio 90.4 FM",
+       "active": 0,
        "url": "https://radio.shoutcast.mk:8046/",
        "language_inferred": true
       },
       {
        "name": "Radio 105 Bombarder",
+       "active": 0,
        "url": "http://radio105.makbots.com:21010",
        "tags": [
         "pop_hits",
@@ -1867,6 +2093,7 @@
       },
       {
        "name": "Radio 106",
+       "active": 0,
        "url": "http://stream.zemi.mk:8003/1",
        "tags": [
         "pop_hits",
@@ -1875,15 +2102,18 @@
       },
       {
        "name": "Radio 106 Bitola",
+       "active": 0,
        "url": "http://ss1.mk.checast.com:21100/live",
        "language_inferred": true
       },
       {
        "name": "Radio Akord 96.5 FM",
+       "active": 0,
        "url": "http://radioakord.dyndns.org:8000/stream/1"
       },
       {
        "name": "Radio Bravo",
+       "active": 0,
        "url": "http://80.77.157.10:8000/stream/2",
        "tags": [
         "pop_hits",
@@ -1892,6 +2122,7 @@
       },
       {
        "name": "Radio Bubamara",
+       "active": 0,
        "url": "http://stream.bubamara.com.mk/live-128.mp3",
        "tags": [
         "pop_hits",
@@ -1900,6 +2131,7 @@
       },
       {
        "name": "Radio Bubamara 105.2 FM",
+       "active": 0,
        "url": "http://88.85.99.2/live-128.mp3",
        "tags": [
         "pop_hits",
@@ -1910,10 +2142,12 @@
       },
       {
        "name": "Radio Delfin Bitola",
+       "active": 0,
        "url": "http://s2.checast.com:800/radiodelfin"
       },
       {
        "name": "Radio Fortuna",
+       "active": 0,
        "url": "https://radiofortuna.ipradio.mk/",
        "tags": [
         "pop_hits",
@@ -1923,6 +2157,7 @@
       },
       {
        "name": "Radio Hit - Macedonia",
+       "active": 0,
        "url": "http://88.85.99.43:8000/hitportal",
        "tags": [
         "pop_hits",
@@ -1931,31 +2166,38 @@
       },
       {
        "name": "Radio Holidej",
+       "active": 0,
        "url": "https://live.mkdstream.com/listen/radiohol/rahol",
        "language_inferred": true
       },
       {
        "name": "Radio Jehona 103.5 FM",
+       "active": 0,
        "url": "http://s26.myradiostream.com:10030"
       },
       {
        "name": "Radio Joker Sevdalinke",
+       "active": 0,
        "url": "https://cast.radiojoker.net/radio/8060/radio.mp3?1604147316"
       },
       {
        "name": "Radio Joker Zabavni",
+       "active": 0,
        "url": "https://cast.radiojoker.net/radio/8030/radio.mp3?1604147274"
       },
       {
        "name": "Radio Kanal 1",
+       "active": 0,
        "url": "http://www.gofm.se/sound/flyttas_till_kanal_x.mp3"
       },
       {
        "name": "Radio King Macedonia",
+       "active": 0,
        "url": "http://5.9.25.50:9330/"
       },
       {
        "name": "Radio KISS FM radio",
+       "active": 0,
        "url": "https://radio.shoutcast.mk/8014/stream",
        "tags": [
         "pop_hits",
@@ -1966,16 +2208,19 @@
       },
       {
        "name": "Radio Mix",
+       "active": 0,
        "url": "http://s11.ssl-stream.com:8188/stream",
        "language_inferred": true
       },
       {
        "name": "Radio Mix, Skopje radio",
+       "active": 0,
        "url": "https://s11.ssl-stream.com/ssl/radiomix?mp=/stream",
        "language_inferred": true
       },
       {
        "name": "Radio Rabrovo FM",
+       "active": 0,
        "url": "http://de1.internet-radio.com:8183/live",
        "tags": [
         "pop_hits",
@@ -1984,10 +2229,12 @@
       },
       {
        "name": "Radio Sokolarci",
+       "active": 0,
        "url": "http://207.244.66.85:33392/"
       },
       {
        "name": "Radio Sportsko radio",
+       "active": 0,
        "url": "https://streaming.zemi.mk:8080/1",
        "tags": [
         "pop_hits",
@@ -1998,10 +2245,12 @@
       },
       {
        "name": "Radio Treboshi 2",
+       "active": 0,
        "url": "http://78.129.187.73:3353"
       },
       {
        "name": "Radio5coki",
+       "active": 0,
        "url": "http://213.135.172.118:8000/stream/1",
        "tags": [
         "pop_hits",
@@ -2011,6 +2260,7 @@
       },
       {
        "name": "Radio5coki",
+       "active": 0,
        "url": "http://213.135.172.118:8000/",
        "tags": [
         "pop_hits",
@@ -2021,6 +2271,7 @@
       },
       {
        "name": "Sky Radio 102.5 FM",
+       "active": 0,
        "url": "http://89.205.123.70:8002",
        "tags": [
         "pop_hits",
@@ -2030,23 +2281,28 @@
       },
       {
        "name": "Sky Radio 102.5 FM Listen live",
+       "active": 0,
        "url": "https://s1.skyradio.com.mk/",
        "language_inferred": true
       },
       {
        "name": "Sky Radio 1025",
+       "active": 0,
        "url": "http://89.205.123.70:8002/stream.mp3"
       },
       {
        "name": "Sky Radio 1025 FM  Skopje Macedonia AAC 48 Kbps",
+       "active": 0,
        "url": "http://89.205.123.70:8000/listen.pls"
       },
       {
        "name": "Sky Radio 1025 FM  Skopje Macedonia MP3 128 Kbps",
+       "active": 0,
        "url": "http://89.205.123.70:8002/listen.pls"
       },
       {
        "name": "SKY RADIO FM",
+       "active": 0,
        "url": "http://s1.skyradio.com.mk:8002/?1461419091351.mp3",
        "tags": [
         "pop_hits",
@@ -2058,21 +2314,25 @@
       },
       {
        "name": "Sky Radio MK",
+       "active": 0,
        "url": "http://s1.skyradio.com.mk:8000/",
        "language_inferred": true
       },
       {
        "name": "SkyRadio",
+       "active": 0,
        "url": "https://www.liveradio.es/http://89.205.123.70:8002/stream/1",
        "language_inferred": true
       },
       {
        "name": "Star Plus Radio",
+       "active": 0,
        "url": "https://eu4.fastcast4u.com/proxy/radiostarmk?mp=/stream/8/",
        "language_inferred": true
       },
       {
        "name": "STIL EX YU POP",
+       "active": 0,
        "url": "https://eu4.fastcast4u.com/proxy/stilradiomk?mp=/stream/2/",
        "tags": [
         "pop_hits",
@@ -2084,39 +2344,48 @@
       },
       {
        "name": "Super Radio",
+       "active": 0,
        "url": "http://eu9.fastcast4u.com:6908/stream",
        "language_inferred": true
       },
       {
        "name": "Super Radio Balkan Mix",
+       "active": 0,
        "url": "https://stream.zeno.fm/8yx550954bhvv"
       },
       {
        "name": "Super Radio Cafe Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/16s61zah5ehvv"
       },
       {
        "name": "Super Radio MAK Khitovi",
+       "active": 0,
        "url": "https://stream.zeno.fm/ruxb58mn6e9uv"
       },
       {
        "name": "Super Radio Top 40 Fresh Hits",
+       "active": 0,
        "url": "https://stream.zeno.fm/6bdc40gn6e9uv"
       },
       {
        "name": "Super Radio YU Hitovi",
+       "active": 0,
        "url": "https://stream.zeno.fm/25rnuxtn6e9uv"
       },
       {
        "name": "Time Radio 93.6 FM",
+       "active": 0,
        "url": "https://stream.zemi.mk:8073/stream"
       },
       {
        "name": "Urban FM",
+       "active": 0,
        "url": "http://thassos.cdnstream.com:5219/stream"
       },
       {
        "name": "Urban FM 90.8 Skopje",
+       "active": 0,
        "url": "https://securestreams4.autopo.st:1668/stream",
        "language_inferred": true,
        "rb": "e35bf37d-523a-4d13-a867-02da3929e23c",
@@ -2124,6 +2393,7 @@
       },
       {
        "name": "Канал 77 Радио Мрежа",
+       "active": 0,
        "url": "https://radiocnd.mms.mk/proxy/player/stream?n=beff113c9aa02e06295e",
        "language_inferred": true,
        "rb": "f622086a-f54e-41d3-b135-9c7d38ab56d6"
@@ -2135,11 +2405,13 @@
      "stations": [
       {
        "name": "1Radio.mk – Classic Rock",
+       "active": 0,
        "url": "http://ams-2.1radio.mk/1radio_classicrock_128",
        "language_inferred": true
       },
       {
        "name": "Amazing Radios - Rock",
+       "active": 0,
        "url": "http://mainstream.amazingradios.com:8000/rock128?r=radioguide",
        "tags": [
         "rock",
@@ -2149,6 +2421,7 @@
       },
       {
        "name": "Antoris Radio",
+       "active": 0,
        "url": "http://82.214.116.181:8000/",
        "tags": [
         "pop_hits",
@@ -2158,11 +2431,13 @@
       },
       {
        "name": "Bikers Garage Radio",
+       "active": 0,
        "url": "https://i9.streams.ovh/sc/bikersgarageradio/stream",
        "language_inferred": true
       },
       {
        "name": "City Radio 94.7 FM",
+       "active": 0,
        "url": "http://ss1.mk.checast.com:21306/48.aac",
        "tags": [
         "rock",
@@ -2172,6 +2447,7 @@
       },
       {
        "name": "Cronos FM",
+       "active": 0,
        "url": "https://stream.zenolive.com/fm4ccdrwn7zuv.aac",
        "tags": [
         "rock",
@@ -2181,6 +2457,7 @@
       },
       {
        "name": "Ekspres Radio",
+       "active": 0,
        "url": "http://ekspresradio.dyndns.org:8000/listen.pls",
        "tags": [
         "pop_hits",
@@ -2190,6 +2467,7 @@
       },
       {
        "name": "I Love Heavy Metal",
+       "active": 0,
        "url": "https://streamingv2.shoutcast.com/IloveHeavyMetal",
        "tags": [
         "rock",
@@ -2198,6 +2476,7 @@
       },
       {
        "name": "Max radio",
+       "active": 0,
        "url": "http://www.xdevel.com/radio/maxenergy.asx",
        "tags": [
         "rock",
@@ -2207,6 +2486,7 @@
       },
       {
        "name": "Mini Radio Rock",
+       "active": 0,
        "url": "https://stream.zeno.fm/qhfhfrny6rquv",
        "tags": [
         "rock",
@@ -2216,11 +2496,13 @@
       },
       {
        "name": "Mini Radio Rock end Roll – Prilep – MK",
+       "active": 0,
        "url": "https://stream.zeno.fm/8bg3r5175rquv",
        "language_inferred": true
       },
       {
        "name": "Monkey radio",
+       "active": 0,
        "url": "http://78.129.139.48:8831/stream.nsv",
        "tags": [
         "rock",
@@ -2230,6 +2512,7 @@
       },
       {
        "name": "Music Garden Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/51tz3t6add0uv",
        "tags": [
         "pop_hits",
@@ -2239,6 +2522,7 @@
       },
       {
        "name": "Music Garden Radio",
+       "active": 0,
        "url": "http://server4p.com:8062/stream",
        "tags": [
         "rock",
@@ -2248,6 +2532,7 @@
       },
       {
        "name": "Radio Bezisten radio",
+       "active": 0,
        "url": "https://s5.myradiostream.com/40310/listen.mp3",
        "tags": [
         "rock",
@@ -2258,6 +2543,7 @@
       },
       {
        "name": "Radio Bravo",
+       "active": 0,
        "url": "https://www.liveradio.es/http://80.77.157.10:8000/stream/2/",
        "tags": [
         "rock",
@@ -2267,6 +2553,7 @@
       },
       {
        "name": "Radio Fortuna",
+       "active": 0,
        "url": "https://radiofortuna.ipradio.mk/stream.nsv",
        "tags": [
         "pop_hits",
@@ -2277,6 +2564,7 @@
       },
       {
        "name": "Radio Ravel",
+       "active": 0,
        "url": "http://199.195.197.108:10346",
        "tags": [
         "rock",
@@ -2286,6 +2574,7 @@
       },
       {
        "name": "Radio Star Listen live",
+       "active": 0,
        "url": "https://eu4.fastcast4u.com/proxy/radiostarmk?mp=/1?ver=117080",
        "tags": [
         "pop_hits",
@@ -2295,6 +2584,7 @@
       },
       {
        "name": "Radio Star MK",
+       "active": 0,
        "url": "http://s3.fastcast4u.com:10942/",
        "tags": [
         "rock",
@@ -2304,6 +2594,7 @@
       },
       {
        "name": "Retro Radio FM Smooth Easy Hits",
+       "active": 0,
        "url": "http://ams-2.1radio.mk/1709_64",
        "tags": [
         "pop_hits",
@@ -2313,6 +2604,7 @@
       },
       {
        "name": "Sky Radio 102.5 FM",
+       "active": 0,
        "url": "http://s1.skyradio.com.mk:8002/",
        "tags": [
         "pop_hits",
@@ -2325,6 +2617,7 @@
       },
       {
        "name": "Star Ex Yu Retro",
+       "active": 0,
        "url": "https://eu4.fastcast4u.com/proxy/radiostarmk?mp=/stream/9/",
        "tags": [
         "rock",
@@ -2334,6 +2627,7 @@
       },
       {
        "name": "Star Ex Yu Retro radio",
+       "active": 0,
        "url": "https://radiostar.pro/stream/exyuretro.php",
        "tags": [
         "rock",
@@ -2345,6 +2639,7 @@
       },
       {
        "name": "Star Radio",
+       "active": 0,
        "url": "https://radiostar.com.mk/stream/starlive.php",
        "tags": [
         "rock",
@@ -2356,6 +2651,7 @@
       },
       {
        "name": "Star Radio",
+       "active": 0,
        "url": "https://eu10.fastcast4u.com/starlive",
        "tags": [
         "rock",
@@ -2365,6 +2661,7 @@
       },
       {
        "name": "Star Radio",
+       "active": 0,
        "url": "https://eu4.fastcast4u.com/proxy/radiostarmk?mp=/1",
        "tags": [
         "pop_hits",
@@ -2374,6 +2671,7 @@
       },
       {
        "name": "Star Radio",
+       "active": 0,
        "url": "https://radiostar.pro/stream/starlive.php",
        "tags": [
         "rock",
@@ -2385,6 +2683,7 @@
       },
       {
        "name": "Радио Лидер 107,4",
+       "active": 0,
        "url": "http://liderfm.ipradio.mk:10002/",
        "tags": [
         "rock",
@@ -2401,6 +2700,7 @@
      "stations": [
       {
        "name": "Bravo Blues&Jazz",
+       "active": 0,
        "url": "http://80.77.157.13:8000",
        "tags": [
         "smooth_jazz",
@@ -2413,6 +2713,7 @@
       },
       {
        "name": "The Jazzmas Channel",
+       "active": 0,
        "url": "http://ams-2.1radio.mk/1647_64",
        "tags": [
         "smooth_jazz",
@@ -2427,6 +2728,7 @@
      "stations": [
       {
        "name": "Just Music Radio",
+       "active": 0,
        "url": "https://radiostream.neotel.mk/justmusicradio?n=faf9c43a755be8bb0be9",
        "tags": [
         "soul_rnb_funk",
@@ -2443,6 +2745,7 @@
       },
       {
        "name": "Kanal 77",
+       "active": 0,
        "url": "https://radiocnd.mms.mk/proxy/user5/stream",
        "tags": [
         "soul_rnb_funk",
@@ -2453,6 +2756,7 @@
       },
       {
        "name": "Radio LoLita",
+       "active": 0,
        "url": "https://streaming.shoutcast.com/RadioLoLita?lang=en-US%2cen%3bq%3d0.9%2cmk%3bq%3d0.8",
        "tags": [
         "soul_rnb_funk",
@@ -2462,6 +2766,7 @@
       },
       {
        "name": "Radio Mix",
+       "active": 0,
        "url": "http://i2.streams.ovh:7173/stream",
        "tags": [
         "soul_rnb_funk",
@@ -2473,6 +2778,7 @@
       },
       {
        "name": "Super Radio Hip Hop & R’&’B",
+       "active": 0,
        "url": "https://stream.zeno.fm/uahxvggn6e9uv",
        "tags": [
         "soul_rnb_funk",
@@ -2486,11 +2792,13 @@
      "stations": [
       {
        "name": "Radio 105 Bombarder",
+       "active": 0,
        "url": "http://radio105.makbots.com:21010/radio105",
        "language_inferred": true
       },
       {
        "name": "Sportsko Radio",
+       "active": 0,
        "url": "http://ss1.mk.checast.com:21320/live",
        "tags": [
         "sports",
@@ -2500,6 +2808,7 @@
       },
       {
        "name": "Sportsko Radio 90.3 FM",
+       "active": 0,
        "url": "https://stream.zemi.mk:8080/1",
        "tags": [
         "sports",
@@ -2510,6 +2819,7 @@
       },
       {
        "name": "Super Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/tuc43g2d2c9uv",
        "language_inferred": true
       }
@@ -2520,6 +2830,7 @@
      "stations": [
       {
        "name": "Club FM 103.4",
+       "active": 0,
        "url": "http://176.9.117.123:9996/stream/",
        "tags": [
         "techno",
@@ -2536,77 +2847,91 @@
      "stations": [
       {
        "name": "80shits",
+       "active": 0,
        "url": "http://cast.radiobubamara.mk:8003/80shits",
        "country_inferred": true,
        "language_inferred": true
       },
       {
        "name": "caffe",
+       "active": 0,
        "url": "http://cast.radiobubamara.mk:8003/caffe",
        "country_inferred": true,
        "language_inferred": true
       },
       {
        "name": "exyuevergreen",
+       "active": 0,
        "url": "http://cast.radiobubamara.mk:8003/exyuevergreen",
        "country_inferred": true,
        "language_inferred": true
       },
       {
        "name": "exyupop",
+       "active": 0,
        "url": "http://cast.radiobubamara.mk:8003/exyupop",
        "country_inferred": true,
        "language_inferred": true
       },
       {
        "name": "funksoul",
+       "active": 0,
        "url": "http://cast.radiobubamara.mk:8003/funksoul",
        "country_inferred": true,
        "language_inferred": true
       },
       {
        "name": "loungebar",
+       "active": 0,
        "url": "http://cast.radiobubamara.mk:8003/loungebar",
        "country_inferred": true,
        "language_inferred": true
       },
       {
        "name": "lovesongs",
+       "active": 0,
        "url": "http://cast.radiobubamara.mk:8003/lovesongs",
        "country_inferred": true,
        "language_inferred": true
       },
       {
        "name": "makfolk",
+       "active": 0,
        "url": "http://cast.radiobubamara.mk:8003/makfolk",
        "country_inferred": true,
        "language_inferred": true
       },
       {
        "name": "makpop",
+       "active": 0,
        "url": "http://cast.radiobubamara.mk:8003/makpop",
        "country_inferred": true,
        "language_inferred": true
       },
       {
        "name": "Radio 5 FM - Veles Macedonia",
+       "active": 0,
        "url": "http://5fm.mk:8000/audio.mp3?hash=1478520326602"
       },
       {
        "name": "Radio Dervendi",
+       "active": 0,
        "url": "http://centova2.whsh4u.com:9269/"
       },
       {
        "name": "Radio MOF",
+       "active": 0,
        "url": "https://stream.radiojar.com/8e4wzvre1d0uv",
        "language_inferred": true
       },
       {
        "name": "Radio MOST",
+       "active": 0,
        "url": "https://radio.dukahosting.com/8024/stream"
       },
       {
        "name": "Radio Slobodna Makedonija",
+       "active": 0,
        "url": "http://95.128.184.26:8001/listen.pls?sid=1"
       }
      ]
@@ -2616,6 +2941,7 @@
      "stations": [
       {
        "name": "City Radio 94.7",
+       "active": 0,
        "url": "http://176.9.117.123:9998/",
        "tags": [
         "pop_hits",
@@ -2624,15 +2950,18 @@
       },
       {
        "name": "MX Radio 101.2 FM",
+       "active": 0,
        "url": "http://s48.myradiostream.com:8204/"
       },
       {
        "name": "Ohrid 24",
+       "active": 0,
        "url": "http://stream.iradio.pro:8146/",
        "language_inferred": true
       },
       {
        "name": "Ohrid24",
+       "active": 0,
        "url": "http://stream.iradio.pro:8146/stream",
        "tags": [
         "world",
@@ -2641,6 +2970,7 @@
       },
       {
        "name": "Radio Akord 96.5 FM",
+       "active": 0,
        "url": "http://radioakord.dyndns.org:8000/",
        "tags": [
         "various_eclectic",
@@ -2651,6 +2981,7 @@
       },
       {
        "name": "Radio Fama Tetove",
+       "active": 0,
        "url": "http://fama.radiofama.org:7000/",
        "tags": [
         "pop_hits",
@@ -2659,6 +2990,7 @@
       },
       {
        "name": "Radio Holidej",
+       "active": 0,
        "url": "https://stream.zeno.fm/3mdkkf9hgg0uv",
        "tags": [
         "pop_hits",
@@ -2668,15 +3000,18 @@
       },
       {
        "name": "Radio Kometa 106.4 FM",
+       "active": 0,
        "url": "http://freeuk18.listen2myradio.com/live.mp3?typeportmount=s1_28975_stream_975388378"
       },
       {
        "name": "Radio TIM",
+       "active": 0,
        "url": "http://radio.shoutcast.mk:8026/stream",
        "language_inferred": true
       },
       {
        "name": "ZONA M1 RADIO",
+       "active": 0,
        "url": "http://89.205.86.241:8000/1",
        "tags": [
         "pop_hits",
@@ -2686,6 +3021,7 @@
       },
       {
        "name": "Зона М1 РАДИО",
+       "active": 0,
        "url": "http://89.205.7.210:8600/",
        "language_inferred": true
       }
@@ -2696,1156 +3032,1395 @@
      "stations": [
       {
        "name": "1Radio.mk - The 80s Channel",
+       "active": 0,
        "url": "https://mainstream.amazingradios.com/jazz128",
        "language_inferred": true
       },
       {
        "name": "=KECO=ROCK FM",
+       "active": 0,
        "url": "https://thassos.cdnstream.com/proxy/exaltmed/?mp=%2Fstream.mp3?n=9fdc1d775fc2adc94075",
        "language_inferred": true
       },
       {
        "name": "Adrenalin Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/1tc1sa7g4uhvv",
        "language_inferred": true
       },
       {
        "name": "Aleksandar Makedonski",
+       "active": 0,
        "url": "http://s2.free-shoutcast.com:18138/",
        "language_inferred": true
       },
       {
        "name": "Amazing Radios - Chillhop",
+       "active": 0,
        "url": "http://14843.live.streamtheworld.com:80/AMAZING_CHILLOP_S01_SC",
        "language_inferred": true
       },
       {
        "name": "Ambient Radio - Sacred Sound Frequencies",
+       "active": 0,
        "url": "https://stream.zeno.fm/ekpnpmnxafhvv",
        "language_inferred": true
       },
       {
        "name": "Angel radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/wpq2nfs4668uv",
        "language_inferred": true
       },
       {
        "name": "AntenaRadio",
+       "active": 0,
        "url": "https://stream.zeno.fm/r7v2g96yrmpvv",
        "language_inferred": true
       },
       {
        "name": "Antenna5 Radio Network – Shtip – MK",
+       "active": 0,
        "url": "http://antenna5stream.neotel.mk:8000/live128.m3u",
        "language_inferred": true
       },
       {
        "name": "Antoris Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/qdqcptseb8zuv",
        "language_inferred": true
       },
       {
        "name": "Avantura-Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/7bcac8qx868uv",
        "language_inferred": true
       },
       {
        "name": "Azra FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/x6vbw6xk698uv",
        "language_inferred": true
       },
       {
        "name": "Baguette Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/453fsqfcfq8uv",
        "language_inferred": true
       },
       {
        "name": "Balkan Mix",
+       "active": 0,
        "url": "https://stream.zeno.fm/tqzn20954bhvv",
        "language_inferred": true
       },
       {
        "name": "Balkan-Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/ehavhxhzhm0uv",
        "language_inferred": true
       },
       {
        "name": "bezveza-radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/9h14x7s7uwzuv",
        "language_inferred": true
       },
       {
        "name": "bezveza-radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/xhydusmpb2zuv",
        "language_inferred": true
       },
       {
        "name": "BISER RADIO",
+       "active": 0,
        "url": "https://eu4.fastcast4u.com/proxy/stilradiomk?mp=/stream/2/?n=284625722ee32fea3282",
        "language_inferred": true
       },
       {
        "name": "Bravo Kumanovo",
+       "active": 0,
        "url": "http://80.77.157.10:8000/stream.mp3"
       },
       {
        "name": "Classic Rock Mxxx",
+       "active": 0,
        "url": "https://stream.zeno.fm/nmh5a91tkchvv",
        "language_inferred": true
       },
       {
        "name": "DC RTV",
+       "active": 0,
        "url": "https://stream.zeno.fm/18qfa0symwzuv",
        "language_inferred": true
       },
       {
        "name": "Delchevo",
+       "active": 0,
        "url": "https://stream.zeno.fm/hfhs860fqrhvv",
        "language_inferred": true
       },
       {
        "name": "Diamond Radio – Skopje – Karposh – MK",
+       "active": 0,
        "url": "http://proxima.shoutca.st:8081/stream",
        "language_inferred": true
       },
       {
        "name": "Dibraradio",
+       "active": 0,
        "url": "https://stream.zeno.fm/x6qwwox2dqstv",
        "language_inferred": true
       },
       {
        "name": "DMZ Radio Macedonia – MK",
+       "active": 0,
        "url": "https://stream.dmzradio.mk/stream.dmzradio.mk/stream",
        "language_inferred": true
       },
       {
        "name": "Ear Plug Station",
+       "active": 0,
        "url": "https://stream.zeno.fm/d9shqxbtp18uv",
        "language_inferred": true
       },
       {
        "name": "Energy Radio Skopje",
+       "active": 0,
        "url": "http://89.205.9.172:99/"
       },
       {
        "name": "Estrada Radio",
+       "active": 0,
        "url": "https://eu4.fastcast4u.com/proxy/stilradiomk?mp=/stream/4m/"
       },
       {
        "name": "Fellis1radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/2ak2aa02dy8uv",
        "language_inferred": true
       },
       {
        "name": "FS12345",
+       "active": 0,
        "url": "https://stream.zeno.fm/6b8kzpm4zf9uv",
        "language_inferred": true
       },
       {
        "name": "G Funkatry FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/bnqeefzbu0hvv",
        "language_inferred": true
       },
       {
        "name": "Goa Radio - Sacred Sound Frequencies",
+       "active": 0,
        "url": "https://stream.zeno.fm/2cft99dgbkhvv",
        "language_inferred": true
       },
       {
        "name": "Hajde Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/mrpwuzo7iuvtv",
        "language_inferred": true
       },
       {
        "name": "Hajde Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/wvkacg7cqfwvv",
        "language_inferred": true
       },
       {
        "name": "Happy Cafe Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/46ebxzah5ehvv",
        "language_inferred": true
       },
       {
        "name": "Happy Dance",
+       "active": 0,
        "url": "https://stream.zeno.fm/1n6atn8m6e9uv",
        "language_inferred": true
       },
       {
        "name": "Happy KIDS",
+       "active": 0,
        "url": "https://stream.zeno.fm/5f4tydm14hhvv",
        "language_inferred": true
       },
       {
        "name": "Happy Lounge",
+       "active": 0,
        "url": "https://stream.zeno.fm/2ktw46sn6e9uv",
        "language_inferred": true
       },
       {
        "name": "Happy Retro",
+       "active": 0,
        "url": "https://stream.zeno.fm/5uhwnhsn6e9uv",
        "language_inferred": true
       },
       {
        "name": "Happy Rock",
+       "active": 0,
        "url": "https://stream.zeno.fm/24d88ua64bhvv",
        "language_inferred": true
       },
       {
        "name": "Happy Smooth Jazz",
+       "active": 0,
        "url": "https://stream.zeno.fm/zmt20gun6e9uv",
        "language_inferred": true
       },
       {
        "name": "Harkisha dm",
+       "active": 0,
        "url": "https://stream.zeno.fm/tthmdaautzzuv",
        "language_inferred": true
       },
       {
        "name": "HiMusic",
+       "active": 0,
        "url": "https://stream.zeno.fm/de7ut3dmws8uv",
        "language_inferred": true
       },
       {
        "name": "HiMusic",
+       "active": 0,
        "url": "https://stream.zeno.fm/w0w3nscmws8uv",
        "language_inferred": true
       },
       {
        "name": "HIP HOP",
+       "active": 0,
        "url": "https://stream.zeno.fm/58b3qggn6e9uv",
        "language_inferred": true
       },
       {
        "name": "Hip Hop",
+       "active": 0,
        "url": "https://stream.zeno.fm/sgs4f9fwfkhvv",
        "language_inferred": true
       },
       {
        "name": "Hotel Milenium Palace",
+       "active": 0,
        "url": "https://stream.zeno.fm/vgqsvkxdrrktv",
        "language_inferred": true
       },
       {
        "name": "Irish Pub Dublin",
+       "active": 0,
        "url": "https://stream.zeno.fm/7daknu1qd3bvv",
        "language_inferred": true
       },
       {
        "name": "Jazz FM 100.8",
+       "active": 0,
        "url": "http://217.16.69.17:8000/jazz.mp3"
       },
       {
        "name": "Jon Radio",
+       "active": 0,
        "url": "http://radiostream.neotel.mk/jonradio",
        "country_inferred": true
       },
       {
        "name": "Jon Radio",
+       "active": 0,
        "url": "http://radiostream.neotel.mk:8000/jonradio"
       },
       {
        "name": "Jon Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/axgrtw8e27zuv",
        "language_inferred": true
       },
       {
        "name": "Just RT Production",
+       "active": 0,
        "url": "https://stream.zeno.fm/4nztke04138uv",
        "language_inferred": true
       },
       {
        "name": "Kanal 77",
+       "active": 0,
        "url": "https://radiocnd.mms.mk/proxy/user2/stream",
        "country_inferred": true
       },
       {
        "name": "Kanal 77 – 89.7 FM – Skopje – Karposh – MK",
+       "active": 0,
        "url": "https://radiocnd.mms.mk/proxy/user8/stream",
        "language_inferred": true
       },
       {
        "name": "king radio station",
+       "active": 0,
        "url": "https://stream.zeno.fm/t1tna0anhf9uv",
        "language_inferred": true
       },
       {
        "name": "KUBURA",
+       "active": 0,
        "url": "https://stream.zeno.fm/6mk3h87ng48uv",
        "language_inferred": true
       },
       {
        "name": "Lagani Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/asmyxhqmakhvv",
        "language_inferred": true
       },
       {
        "name": "Love Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/w1z686r4zehvv",
        "language_inferred": true
       },
       {
        "name": "MakClassicHits",
+       "active": 0,
        "url": "https://stream.zeno.fm/t0vy75p4zehvv",
        "language_inferred": true
       },
       {
        "name": "Makedonsko radio Oktisi",
+       "active": 0,
        "url": "https://stream.zeno.fm/v40p0158y4zuv",
        "language_inferred": true
       },
       {
        "name": "Makedonsko Zabavno Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/9d8vx1ezbfhvv",
        "language_inferred": true
       },
       {
        "name": "Makhitovi",
+       "active": 0,
        "url": "https://stream.zeno.fm/edp8z8mn6e9uv",
        "language_inferred": true
       },
       {
        "name": "MEFF EX YU",
+       "active": 0,
        "url": "https://stream.zeno.fm/c5ps3umruy8uv",
        "language_inferred": true
       },
       {
        "name": "Metro Polis Radio",
+       "active": 0,
        "url": "http://94.23.62.189:6064/stream.mp3"
       },
       {
        "name": "Metropolis Radio Network",
+       "active": 0,
        "url": "https://eu4.fastcast4u.com/proxy/metradio?mp=/1?n=15bc793f2755a89b6d4c",
        "language_inferred": true
       },
       {
        "name": "MInI 80s hits Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/6ndsppdcwreuv",
        "language_inferred": true
       },
       {
        "name": "Mini 90 hits",
+       "active": 0,
        "url": "https://stream.zeno.fm/h0cw04hz6rquv",
        "language_inferred": true
       },
       {
        "name": "MINI Coffee",
+       "active": 0,
        "url": "https://stream.zeno.fm/8tyahyapyxquv",
        "language_inferred": true
       },
       {
        "name": "Mini Folk Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/1q4yb7557reuv",
        "language_inferred": true
       },
       {
        "name": "Mini Hits",
+       "active": 0,
        "url": "https://stream.zeno.fm/w80tw2a3hrquv",
        "language_inferred": true
       },
       {
        "name": "Mini Jazz",
+       "active": 0,
        "url": "https://stream.zeno.fm/cbpec8h15rquv",
        "language_inferred": true
       },
       {
        "name": "Mini Meana",
+       "active": 0,
        "url": "https://stream.zeno.fm/9scumpr0b0quv",
        "language_inferred": true
       },
       {
        "name": "Mini Orthodox",
+       "active": 0,
        "url": "https://stream.zeno.fm/tsb4afhx8rquv",
        "language_inferred": true
       },
       {
        "name": "MInI Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/276m33dhtkeuv",
        "language_inferred": true
       },
       {
        "name": "Mini Radio 70s",
+       "active": 0,
        "url": "https://stream.zeno.fm/an4aruxnbc9uv",
        "language_inferred": true
       },
       {
        "name": "Mini Radio Ballads",
+       "active": 0,
        "url": "https://stream.zeno.fm/tfewnymfxzzuv",
        "language_inferred": true
       },
       {
        "name": "Mini Radio Car – Prilep – MK",
+       "active": 0,
        "url": "http://stream.zeno.fm/ye9uxzn9p98uv",
        "language_inferred": true
       },
       {
        "name": "Mini Radio Clasic",
+       "active": 0,
        "url": "https://stream.zeno.fm/gxrwrk1nhy8uv",
        "language_inferred": true
       },
       {
        "name": "Mini Radio Clasic – Prilep – MK",
+       "active": 0,
        "url": "http://stream.zeno.fm/rz7hvk1nhy8uv",
        "language_inferred": true
       },
       {
        "name": "Mini Radio Club",
+       "active": 0,
        "url": "https://stream.zeno.fm/hudar62cxf9uv",
        "language_inferred": true
       },
       {
        "name": "Mini Radio Mix",
+       "active": 0,
        "url": "https://stream.zeno.fm/dsquvsr6wg0uv",
        "language_inferred": true
       },
       {
        "name": "Mini Radio Orthodox – Prilep – MK",
+       "active": 0,
        "url": "http://stream.zeno.fm/p1a6cfhx8rquv",
        "language_inferred": true
       },
       {
        "name": "Mini ROCK",
+       "active": 0,
        "url": "https://stream.zeno.fm/fh4gdrny6rquv",
        "language_inferred": true
       },
       {
        "name": "Miss Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/ijg4au5rsobtv",
        "language_inferred": true
       },
       {
        "name": "missradio",
+       "active": 0,
        "url": "https://stream.zeno.fm/adne94bk5f8uv",
        "language_inferred": true
       },
       {
        "name": "missradio",
+       "active": 0,
        "url": "https://stream.zeno.fm/ra7sx0g5yf8uv",
        "language_inferred": true
       },
       {
        "name": "MiSsTaKe-FM-sTaTiOn",
+       "active": 0,
        "url": "https://stream.zeno.fm/m77ug93nnchvv",
        "language_inferred": true
       },
       {
        "name": "Moe Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/5pp8rz9exa0uv",
        "language_inferred": true
       },
       {
        "name": "Moe Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/97k10m89f18uv",
        "language_inferred": true
       },
       {
        "name": "Monkey radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/81ufmwv2zf8uv",
        "language_inferred": true
       },
       {
        "name": "MR Sat Radio",
+       "active": 0,
        "url": "http://streamer54.interspace.mk:1935/mrt-radio/mrsat/playlist.m3u8"
       },
       {
        "name": "MR1 Radio Skopje",
+       "active": 0,
        "url": "http://streamer54.interspace.mk:1935/mrt-radio/mr1/playlist.m3u8"
       },
       {
        "name": "MR3 Radio",
+       "active": 0,
        "url": "http://streamer54.interspace.mk:1935/mrt-radio/mr3/playlist.m3u8"
       },
       {
        "name": "Music Garden Radio Makedonija",
+       "active": 0,
        "url": "http://eu4.fastcast4u.com:5724/stream/3/"
       },
       {
        "name": "MUSIC ME",
+       "active": 0,
        "url": "https://stream.zeno.fm/xprbgyoncybuv",
        "language_inferred": true
       },
       {
        "name": "MX Radio 101.2 FM",
+       "active": 0,
        "url": "http://ss1.mk.checast.com:21140/32.aac"
       },
       {
        "name": "Myfavorites",
+       "active": 0,
        "url": "https://stream.zeno.fm/huz3oesfes6uv",
        "language_inferred": true
       },
       {
        "name": "Nacica",
+       "active": 0,
        "url": "https://stream.zeno.fm/ykg3r81zvchvv",
        "language_inferred": true
       },
       {
        "name": "Pecalbarsko",
+       "active": 0,
        "url": "https://stream.zeno.fm/umjfuf0pvd5uv",
        "language_inferred": true
       },
       {
        "name": "PIONEERSTATION",
+       "active": 0,
        "url": "https://stream.zeno.fm/k8k6vm4xpkeuv",
        "language_inferred": true
       },
       {
        "name": "Play Radio",
+       "active": 0,
        "url": "http://live.playfm.mk:8002/stream",
        "language_inferred": true
       },
       {
        "name": "Play Radio – Struga – MK",
+       "active": 0,
        "url": "http://89.205.48.205/8046/stream",
        "language_inferred": true
       },
       {
        "name": "Plus Forte America – MK",
+       "active": 0,
        "url": "http://hydra.shoutca.st:8341/stream",
        "language_inferred": true
       },
       {
        "name": "Plus Forte Junior – MK",
+       "active": 0,
        "url": "http://radiostream.neotel.mk/plusforteradio",
        "language_inferred": true
       },
       {
        "name": "Plus Forte Radio – MK",
+       "active": 0,
        "url": "http://chandra.shoutca.st:10362/stream",
        "language_inferred": true
       },
       {
        "name": "PopCorn8",
+       "active": 0,
        "url": "https://stream.zeno.fm/5052k38etwzuv",
        "language_inferred": true
       },
       {
        "name": "Pozitiva",
+       "active": 0,
        "url": "https://stream.zeno.fm/acpqkunyfostv",
        "language_inferred": true
       },
       {
        "name": "Pozitiva",
+       "active": 0,
        "url": "https://stream.zeno.fm/9dnn2b8nt4ytv",
        "language_inferred": true
       },
       {
        "name": "PRO FM",
+       "active": 0,
        "url": "http://94.23.23.97:5180/",
        "language_inferred": true
       },
       {
        "name": "Profm Zbavitëse",
+       "active": 0,
        "url": "http://91.121.65.37:27826/",
        "language_inferred": true
       },
       {
        "name": "Progressive Radio - Sacred Sound Frequencies",
+       "active": 0,
        "url": "https://stream.zeno.fm/sxnqksqv7hhvv",
        "language_inferred": true
       },
       {
        "name": "Psytrance Radio - Sacred Sound Frequencies",
+       "active": 0,
        "url": "https://stream.zeno.fm/wvucu9159ehvv",
        "language_inferred": true
       },
       {
        "name": "Radio 105 Bombarder",
+       "active": 0,
        "url": "http://radio105.makbots.com:21010/stream.mp3"
       },
       {
        "name": "Radio 105 Bombarder – 100.5 FM – Bitola – MK",
+       "active": 0,
        "url": "http://radio105.makbots.com:21010/listen.pls",
        "language_inferred": true
       },
       {
        "name": "Radio Bezisten – MK",
+       "active": 0,
        "url": "http://s5.myradiostream.com:40310/listen.m4a",
        "language_inferred": true
       },
       {
        "name": "Radio Blatec",
+       "active": 0,
        "url": "https://stream.zeno.fm/9ge61vhft68uv",
        "language_inferred": true
       },
       {
        "name": "Radio Blatec Ex Yu",
+       "active": 0,
        "url": "https://stream.zeno.fm/dqg2hcwpkkhvv",
        "language_inferred": true
       },
       {
        "name": "Radio Bleta",
+       "active": 0,
        "url": "http://stream.tvkoha.tv:5000/stream.mp3"
       },
       {
        "name": "Radio Bravo Smooth Jazz Mix Radio",
+       "active": 0,
        "url": "http://server.webnetradio.net:5490/stream??n=cd762fd402194031f375",
        "language_inferred": true
       },
       {
        "name": "Radio Bravo – MK",
+       "active": 0,
        "url": "http://80.77.157.10:8000/listen.pls?sid=2",
        "language_inferred": true
       },
       {
        "name": "Radio Bubamara 105.2 FM",
+       "active": 0,
        "url": "https://crs.webdesign-flash.ro/?q=http://stream.bubamara.com.mk/live-64.aac&plugin_id=7628&site_id=8520577",
        "language_inferred": true
       },
       {
        "name": "Radio Dacko Kumanovo",
+       "active": 0,
        "url": "https://stream.zeno.fm/tyhq836t0p8uv",
        "language_inferred": true
       },
       {
        "name": "Radio Daki",
+       "active": 0,
        "url": "https://stream.zeno.fm/wr7rhh5srnhvv",
        "language_inferred": true
       },
       {
        "name": "Radio Delfin Bitola",
+       "active": 0,
        "url": "https://freeuk12.listen2myradio.com/live.mp3?typeportmount=s1_27463_stream_592922504",
        "language_inferred": true
       },
       {
        "name": "Radio Elita-5",
+       "active": 0,
        "url": "https://stream.zeno.fm/tqkbzfa5vv8uv",
        "language_inferred": true
       },
       {
        "name": "Radio EvroTip",
+       "active": 0,
        "url": "https://stream.zeno.fm/gqxdrzomnzjuv",
        "language_inferred": true
       },
       {
        "name": "Radio Fokus",
+       "active": 0,
        "url": "https://stream.zeno.fm/wecds4vssnhvv",
        "language_inferred": true
       },
       {
        "name": "Radio Fokus Kumanovo",
+       "active": 0,
        "url": "https://stream.zeno.fm/rpfnaunxgrhvv",
        "language_inferred": true
       },
       {
        "name": "Radio Galaxy 102.2 FM",
+       "active": 0,
        "url": "http://galaxy.mk:8000/",
        "language_inferred": true
       },
       {
        "name": "Radio Garden",
+       "active": 0,
        "url": "https://stream.zeno.fm/gqoehcwoh5guv",
        "language_inferred": true
       },
       {
        "name": "Radio Gllogja",
+       "active": 0,
        "url": "http://shaincast.caster.fm:47110"
       },
       {
        "name": "Radio Grom Makedonija – Kumanovo – MK",
+       "active": 0,
        "url": "https://sc1.herocheap.com/proxy/grom/1",
        "language_inferred": true
       },
       {
        "name": "Radio Holidej",
+       "active": 0,
        "url": "https://stream.zeno.fm/2kh6hzww4yzuv"
       },
       {
        "name": "Radio Holidej",
+       "active": 0,
        "url": "http://213.135.181.14:8000/audio.mp3"
       },
       {
        "name": "Radio Jeta",
+       "active": 0,
        "url": "https://stream.zeno.fm/53pqp3nk9x8uv",
        "language_inferred": true
       },
       {
        "name": "Radio Joker Kumanovo",
+       "active": 0,
        "url": "https://cast.multihost.mk/radio/8020/radio.mp3?1606862496",
        "country_inferred": true
       },
       {
        "name": "Radio Kanal 77",
+       "active": 0,
        "url": "https://live.kanal77.com.mk:8089/live.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio Kavadarci (Радио Кавадарци)",
+       "active": 0,
        "url": "https://stream.zeno.fm/9fcqzam7nzzuv"
       },
       {
        "name": "Radio Kavadarci (Радио Кавадарци) – Kavadarci – MK",
+       "active": 0,
        "url": "https://stream.zeno.fm/p79t9wf7mg0uv",
        "language_inferred": true
       },
       {
        "name": "Radio KISS FM – Narodna",
+       "active": 0,
        "url": "https://radio.shoutcast.mk:7020/",
        "country_inferred": true
       },
       {
        "name": "Radio Kočani 91.4 FM",
+       "active": 0,
        "url": "http://stream.zemi.mk:8012/stream"
       },
       {
        "name": "Radio Kumanovo",
+       "active": 0,
        "url": "http://radio-kumanovo:8888/"
       },
       {
        "name": "Radio Lav",
+       "active": 0,
        "url": "http://ss1.mk.checast.com:21080/live"
       },
       {
        "name": "Radio Lav – Ohrid – MK",
+       "active": 0,
        "url": "http://ss1.mk.checast.com:21080/live?1444184626740.aac",
        "language_inferred": true
       },
       {
        "name": "Radio Lider",
+       "active": 0,
        "url": "http://liderfm.ipradio.mk:10002/stream.mp3"
       },
       {
        "name": "Radio Luna",
+       "active": 0,
        "url": "https://stream.zeno.fm/bdf6tb85e2zuv",
        "language_inferred": true
       },
       {
        "name": "Radio Lux",
+       "active": 0,
        "url": "https://stream.zeno.fm/6xatpkwtshavv",
        "language_inferred": true
       },
       {
        "name": "Radio Marsi",
+       "active": 0,
        "url": "http://eu9.fastcast4u.com:2539//:"
       },
       {
        "name": "Radio MEFF Prilep Macedonia",
+       "active": 0,
        "url": "https://stream.zeno.fm/hp0ccyynvy8uv",
        "language_inferred": true
       },
       {
        "name": "Radio Merova",
+       "active": 0,
        "url": "http://31.220.29.45:9984"
       },
       {
        "name": "Radio Mibrala",
+       "active": 0,
        "url": "http://radiomibrala.mk:2020/"
       },
       {
        "name": "Radio Miss",
+       "active": 0,
        "url": "http://109.169.23.124:10018/stream",
        "language_inferred": true
       },
       {
        "name": "Radio Miss",
+       "active": 0,
        "url": "https://stream.zeno.fm/znkdn2e5yf8uv",
        "language_inferred": true
       },
       {
        "name": "Radio Mix",
+       "active": 0,
        "url": "https://stream.zeno.fm/2uwh2tk3z98uv",
        "language_inferred": true
       },
       {
        "name": "Radio Mix – Skopje – Karposh – MK",
+       "active": 0,
        "url": "http://s11.ssl-stream.com:8188",
        "language_inferred": true
       },
       {
        "name": "Radio MOF",
+       "active": 0,
        "url": "http://89.205.123.35:8000/"
       },
       {
        "name": "Radio Monkey – Prilep – MK",
+       "active": 0,
        "url": "http://78.129.139.48:8831/",
        "language_inferred": true
       },
       {
        "name": "Radio Orbis Bitola",
+       "active": 0,
        "url": "https://stream.zeno.fm/7s9nmg5wcg0uv",
        "language_inferred": true
       },
       {
        "name": "Radio orbis Bitola",
+       "active": 0,
        "url": "https://stream.zeno.fm/fs5xsvcuz1zuv",
        "language_inferred": true
       },
       {
        "name": "Radio Pela – Prilep – MK",
+       "active": 0,
        "url": "https://live.mkdstream.com/listen/radiope/pela",
        "language_inferred": true
       },
       {
        "name": "Radio Plan B Ohrid",
+       "active": 0,
        "url": "https://stream.zeno.fm/tgfpkysr611vv",
        "language_inferred": true
       },
       {
        "name": "Radio Rinora",
+       "active": 0,
        "url": "http://streaming1-aphrodite.1000mikes.com/studio_rinora_wwwstudiorinoratk?encoding=mpeg",
        "language_inferred": true
       },
       {
        "name": "Radio Rosa",
+       "active": 0,
        "url": "http://69.30.218.190:31340/?0.41482761181044836"
       },
       {
        "name": "Radio Rrapi",
+       "active": 0,
        "url": "http://ss1.mk.checast.com:21296/48.aac",
        "language_inferred": true
       },
       {
        "name": "Radio Rrapi",
+       "active": 0,
        "url": "http://s2.checast.com:800/rrapi"
       },
       {
        "name": "Radio S .mk",
+       "active": 0,
        "url": "http://109.169.23.17:11081/"
       },
       {
        "name": "Radio S Plus .mk",
+       "active": 0,
        "url": "http://109.169.23.124:9580/"
       },
       {
        "name": "Radio Sokolarci",
+       "active": 0,
        "url": "http://109.169.23.123:9487/"
       },
       {
        "name": "Radio Srce Makedonija",
+       "active": 0,
        "url": "https://radio.radiosrce.info:8000/"
       },
       {
        "name": "Radio Star Makedonija – MK",
+       "active": 0,
        "url": "https://eu4.fastcast4u.com/proxy/radiostarmk?mp=/1?ver=138226",
        "language_inferred": true
       },
       {
        "name": "Radio UKLO FM",
+       "active": 0,
        "url": "http://194.149.158.125:8888/stream.ogg"
       },
       {
        "name": "Radio valandovo",
+       "active": 0,
        "url": "https://live.mkdstream.com/listen/valan/valand?n=307cba39c5b808d77126"
       },
       {
        "name": "Radio Viktor HD",
+       "active": 0,
        "url": "https://stream.zeno.fm/ak050e95sm0uv"
       },
       {
        "name": "Radio Viva",
+       "active": 0,
        "url": "https://stream.sepia.sk/viva64.aac",
        "language_inferred": true
       },
       {
        "name": "Radio Vmro Bitola",
+       "active": 0,
        "url": "https://stream.zeno.fm/3q24w6phrwzuv",
        "language_inferred": true
       },
       {
        "name": "Radio Vmro Makedonija",
+       "active": 0,
        "url": "http://radio.shoutcast.mk:8024/stream",
        "language_inferred": true
       },
       {
        "name": "Radio Vmro Makedonija",
+       "active": 0,
        "url": "https://stream.zeno.fm/e6p3wbz25c9uv",
        "language_inferred": true
       },
       {
        "name": "Radio Vmro Makedonija",
+       "active": 0,
        "url": "https://stream.zeno.fm/e0t7e7nn268uv",
        "language_inferred": true
       },
       {
        "name": "Radio Vmro MK",
+       "active": 0,
        "url": "https://stream.zeno.fm/1zs7w61erwzuv",
        "language_inferred": true
       },
       {
        "name": "Radio Zabava",
+       "active": 0,
        "url": "https://stream.zeno.fm/dvy7hhlq7hfuv",
        "language_inferred": true
       },
       {
        "name": "Radio Zabava",
+       "active": 0,
        "url": "https://stream.zeno.fm/uq6vtmgpp2zuv",
        "language_inferred": true
       },
       {
        "name": "Radio Zabavni Vremeplov",
+       "active": 0,
        "url": "https://stream.zeno.fm/bqn6tqyxvrhvv",
        "language_inferred": true
       },
       {
        "name": "radio-tetova",
+       "active": 0,
        "url": "https://stream.zeno.fm/bhenku2xxa7uv",
        "language_inferred": true
       },
       {
        "name": "RADIOBAR",
+       "active": 0,
        "url": "https://cp1.sednastream.com/proxy/radiobar?mp=/stream?n=77339dc6c525a207b0a4",
        "language_inferred": true
       },
       {
        "name": "RadioOktisi",
+       "active": 0,
        "url": "https://stream.zeno.fm/x0wtn52ywwzuv",
        "language_inferred": true
       },
       {
        "name": "RadioPela",
+       "active": 0,
        "url": "https://stream.zeno.fm/v04p0zxr5f0uv",
        "language_inferred": true
       },
       {
        "name": "RadioVidovski",
+       "active": 0,
        "url": "https://stream.zeno.fm/yffp3z47sk8uv",
        "language_inferred": true
       },
       {
        "name": "Romski Radio",
+       "active": 0,
        "url": "http://212.24.108.64:8000/"
       },
       {
        "name": "Rtv Treboshi",
+       "active": 0,
        "url": "https://stream.zeno.fm/wr2n9dpupp8uv",
        "language_inferred": true
       },
       {
        "name": "Sky Radio",
+       "active": 0,
        "url": "http://89.205.123.70:8000/",
        "language_inferred": true
       },
       {
        "name": "SMRT ZA SHIPTARI",
+       "active": 0,
        "url": "https://stream.zeno.fm/dpsadwm3muhvv",
        "language_inferred": true
       },
       {
        "name": "Sportsko Radio",
+       "active": 0,
        "url": "http://checast.com/live/radio/mk/sportsko"
       },
       {
        "name": "Star Boemi",
+       "active": 0,
        "url": "https://stream.zeno.fm/ef4fbwdhqo8tv",
        "language_inferred": true
       },
       {
        "name": "Star Ex Yu Retro",
+       "active": 0,
        "url": "https://stream.zeno.fm/h2v3f86av68uv",
        "language_inferred": true
       },
       {
        "name": "Star Narodna",
+       "active": 0,
        "url": "https://stream.zeno.fm/xb2u6g2yy1zuv",
        "language_inferred": true
       },
       {
        "name": "Star Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/qmu6khxppd0uv",
        "language_inferred": true
       },
       {
        "name": "Stephz Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/jtpfhvokyb0vv",
        "language_inferred": true
       },
       {
        "name": "STIL RADIO",
+       "active": 0,
        "url": "https://eu4.fastcast4u.com/proxy/stilradiomk?mp=/1?n=ed9b311b9317b7e388a4",
        "language_inferred": true
       },
       {
        "name": "StilRadio",
+       "active": 0,
        "url": "http://eu4.fastcast4u.com:30586/stream",
        "language_inferred": true
       },
       {
        "name": "StilRadio - STIL EX YU POP",
+       "active": 0,
        "url": "http://eu4.fastcast4u.com:30586/stream/2/",
        "language_inferred": true
       },
       {
        "name": "StilRadio - STIL EX YU TRAP",
+       "active": 0,
        "url": "http://eu4.fastcast4u.com:30586/stream/4/",
        "language_inferred": true
       },
       {
        "name": "StilRadio - STIL MKD NARODNA",
+       "active": 0,
        "url": "http://eu4.fastcast4u.com:30586/stream/3/",
        "language_inferred": true
       },
       {
        "name": "Street FM 107.4",
+       "active": 0,
        "url": "http://radiostream.neotel.mk/streetfm",
        "country_inferred": true
       },
       {
        "name": "Student FM 92.9",
+       "active": 0,
        "url": "http://dhcp.ukim.mk:8000/stfm.aace",
        "country_inferred": true
       },
       {
        "name": "Super Radio",
+       "active": 0,
        "url": "http://s40.myradiostream.com:14080/",
        "language_inferred": true
       },
       {
        "name": "Super Radio 97FM Ohrid",
+       "active": 0,
        "url": "http://178.32.107.151:6908/stream",
        "language_inferred": true
       },
       {
        "name": "Super Radio Lounge",
+       "active": 0,
        "url": "https://stream.zeno.fm/4kra86sn6e9uv"
       },
       {
        "name": "Super radio Ohrid - Trap Balkanton",
+       "active": 0,
        "url": "https://stream.zeno.fm/ca38m7a64bhvv",
        "language_inferred": true
       },
       {
        "name": "taxi picaso",
+       "active": 0,
        "url": "https://stream.zeno.fm/nfmidvjdnzytv",
        "language_inferred": true
       },
       {
        "name": "TechnoMusic",
+       "active": 0,
        "url": "https://stream.zeno.fm/b1nr9rqqxrhvv",
        "language_inferred": true
       },
       {
        "name": "test radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/ys308m2dt18uv",
        "language_inferred": true
       },
       {
        "name": "The Gallery Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/mvgavrrqkj8uv",
        "language_inferred": true
       },
       {
        "name": "The Lost Tapes of O-Town",
+       "active": 0,
        "url": "https://stream.zeno.fm/mq2q6dsdbshvv",
        "language_inferred": true
       },
       {
        "name": "Time Fm Gevgelija",
+       "active": 0,
        "url": "http://s2.free-shoutcast.com:18058/",
        "language_inferred": true
       },
       {
        "name": "Top40Friesh",
+       "active": 0,
        "url": "https://stream.zeno.fm/bv79y0gn6e9uv",
        "language_inferred": true
       },
       {
        "name": "UGD FM",
+       "active": 0,
        "url": "http://ugdfm-stream.ugd.edu.mk:8000/stream?1603809164589",
        "country_inferred": true
       },
       {
        "name": "Urban FM Skopje",
+       "active": 0,
        "url": "https://stream.zeno.fm/sbugwq0t87zuv",
        "language_inferred": true
       },
       {
        "name": "V.F.C Balkan",
+       "active": 0,
        "url": "https://stream.zeno.fm/e0hf2fqarrhvv",
        "language_inferred": true
       },
       {
        "name": "Vibiza Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/3v7ne08te5zuv",
        "language_inferred": true
       },
       {
        "name": "Vink Ekstra Radio",
+       "active": 0,
        "url": "http://eu10.fastcast4u.com:10490/stream/2/"
       },
       {
        "name": "vink PLUS radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/muse98azmwzuv",
        "language_inferred": true
       },
       {
        "name": "Yu Hitovi",
+       "active": 0,
        "url": "https://stream.zeno.fm/tehpewtn6e9uv",
        "language_inferred": true
       },
       {
        "name": "Zona M1 Radio 104.4 FM",
+       "active": 0,
        "url": "http://89.205.97.121:8000/1"
       },
       {
        "name": "Култура радио Куманово",
+       "active": 0,
        "url": "https://stream.zeno.fm/5kzg1rf28zhvv",
        "language_inferred": true
       },
       {
        "name": "Манско музиче",
+       "active": 0,
        "url": "https://stream.zeno.fm/mn1kwgd91hhvv",
        "language_inferred": true
       },
       {
        "name": "Модеа ФМ",
+       "active": 0,
        "url": "http://163.172.210.242:8008/"
       },
       {
        "name": "Модеа ФМ – 97.7 FM – Sveti Nikole – Sveti Nikole Municipality – MK",
+       "active": 0,
        "url": "https://stream.zemi.mk:8072/stream?type=http&nocache=251",
        "language_inferred": true
       },
       {
        "name": "Радио Канал 77",
+       "active": 0,
        "url": "https://radiocnd.mms.mk/proxy/user7/stream",
        "language_inferred": true
       },
       {
        "name": "Радио Роса – Skopje – Karposh – MK",
+       "active": 0,
        "url": "http://s3.free-shoutcast.com:18032/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Радио Тамаро",
+       "active": 0,
        "url": "https://stream.zeno.fm/v474wn433hhvv",
        "language_inferred": true
       },
       {
        "name": "Радио Фортуна",
+       "active": 0,
        "url": "http://radiofortuna.ipradio.mk:10000/",
        "language_inferred": true
       },
       {
        "name": "Спортско Радио 90.3",
+       "active": 0,
        "url": "http://stream.zemi.mk:8010/stream",
        "language_inferred": true
       },
       {
        "name": "Стар Радио  Македонија - Стар Екс Ју Ретро",
+       "active": 0,
        "url": "http://87.98.221.148:8900/stream/2/",
        "language_inferred": true
       },
       {
        "name": "Стар Радио Македонија",
+       "active": 0,
        "url": "http://87.98.221.148:8900/",
        "language_inferred": true
       },
       {
        "name": "Стар Радио Македонија - Star World Retro",
+       "active": 0,
        "url": "http://87.98.221.148:8900/stream/5/",
        "language_inferred": true
       },
       {
        "name": "Стар Радио Македонија - Стар Боеми",
+       "active": 0,
        "url": "http://87.98.221.148:8900/stream/6/",
        "language_inferred": true
       },
       {
        "name": "Студент FM 92.9",
+       "active": 0,
        "url": "http://studentfm.ukim.mk:8000/stfm.aac",
        "language_inferred": true
       },
       {
        "name": "Христијанско радио",
+       "active": 0,
        "url": "https://stream.zeno.fm/11vgpmrk9hhvv",
        "language_inferred": true
       }
@@ -3861,6 +4436,7 @@
      "stations": [
       {
        "name": "Antenna 5 Macedonian",
+       "active": 0,
        "url": "http://antenna5stream.neotel.mk:8000/live32",
        "tags": [
         "pop_hits",
@@ -3875,6 +4451,7 @@
      "stations": [
       {
        "name": "TE Radio-ISLAMI",
+       "active": 0,
        "url": "https://stream.zeno.fm/r884kyk1ag8uv",
        "tags": [
         "christian_gospel",
@@ -3888,6 +4465,7 @@
      "stations": [
       {
        "name": "Radio Akord",
+       "active": 0,
        "url": "http://radioakord.dyndns.org:8000/stream.nsv",
        "tags": [
         "pop_hits",
@@ -3901,6 +4479,7 @@
      "stations": [
       {
        "name": "Radio IwAn",
+       "active": 0,
        "url": "http://51.255.51.70:8000/WTLS.mp3",
        "tags": [
         "pop_hits",
@@ -3914,6 +4493,7 @@
      "stations": [
       {
        "name": "Amazing Vocals",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AMAZING_VOCALS_S01.mp3",
        "tags": [
         "jazz",
@@ -3928,6 +4508,7 @@
      "stations": [
       {
        "name": "Radio Kanal 77",
+       "active": 0,
        "url": "https://live.kanal77.com.mk:8089/acc",
        "tags": [
         "news_talk",
@@ -3941,6 +4522,7 @@
      "stations": [
       {
        "name": "TE Power radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/7vuwzdprks8uv"
       }
      ]
@@ -3950,6 +4532,7 @@
      "stations": [
       {
        "name": "Amazing Classic Hits",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AMAZING_CLASSIC_HITS_S01.mp3",
        "tags": [
         "rock",
@@ -3964,6 +4547,7 @@
      "stations": [
       {
        "name": "1Radio.mk – The 80s Channel",
+       "active": 0,
        "url": "http://mainstream.amazingradios.com:8000/jazz128",
        "bitrate": 128,
        "logo": "http://radio.pervii.com/im/5/1549710295.jpg",
@@ -3983,10 +4567,12 @@
      "stations": [
       {
        "name": "Kiss Fm Radio",
+       "active": 0,
        "url": "http://eu3.fastcast4u.com:5564/"
       },
       {
        "name": "UGD FM",
+       "active": 0,
        "url": "http://ugdfm-stream.ugd.edu.mk/stream"
       }
      ]
@@ -4001,6 +4587,7 @@
      "stations": [
       {
        "name": "Radio Fama Tetovë",
+       "active": 0,
        "url": "http://89.163.208.115:7000/stream.mp3",
        "tags": [
         "news_talk",
@@ -4014,6 +4601,7 @@
      "stations": [
       {
        "name": "Radio Bleta 101 FM",
+       "active": 0,
        "url": "http://stream.tvkoha.tv:5000/"
       }
      ]
@@ -4023,6 +4611,7 @@
      "stations": [
       {
        "name": "PRO FM",
+       "active": 0,
        "url": "http://ss1.mk.checast.com:21072/32.aac",
        "tags": [
         "pop_hits",
@@ -4031,6 +4620,7 @@
       },
       {
        "name": "Radio Fama Tetove",
+       "active": 0,
        "url": "http://89.163.208.115:7000/",
        "tags": [
         "world",
@@ -4040,6 +4630,7 @@
       },
       {
        "name": "Radio Rrapi",
+       "active": 0,
        "url": "https://stream.zemi.mk:8069/stream",
        "tags": [
         "pop_hits",
@@ -4054,10 +4645,12 @@
      "stations": [
       {
        "name": "Radio Dervendi radio",
+       "active": 0,
        "url": "http://antares.dribb.com:4239/stream.nsv"
       },
       {
        "name": "Radio Marsi radio",
+       "active": 0,
        "url": "https://eu9.fastcast4u.com/proxy/radiodervendi?mp=/1"
       }
      ]
@@ -4072,14 +4665,17 @@
      "stations": [
       {
        "name": "MACEDONIA STREAM",
+       "active": 0,
        "url": "https://stream.zeno.fm/nzophuhojsrtv"
       },
       {
        "name": "RADIO BITOLA MACEDONIA",
+       "active": 0,
        "url": "https://stream.zeno.fm/1htwmmh1pf9uv"
       },
       {
        "name": "Радио Роса",
+       "active": 0,
        "url": "http://s3.free-shoutcast.com:18032/"
       }
      ]
@@ -4094,10 +4690,12 @@
      "stations": [
       {
        "name": "Radio TIM Makedonija",
+       "active": 0,
        "url": "http://radio.shoutcast.mk:8026/stream.nsv"
       },
       {
        "name": "Radio Vmro Makedonija",
+       "active": 0,
        "url": "https://radio.shoutcast.mk:7011/"
       }
      ]
@@ -4112,6 +4710,7 @@
      "stations": [
       {
        "name": "Lider FM",
+       "active": 0,
        "url": "https://liderfm.ipradio.mk/stream.nsv"
       }
      ]
@@ -4126,6 +4725,7 @@
      "stations": [
       {
        "name": "Radio NexTrans M",
+       "active": 0,
        "url": "https://radio.nextransm.mk/listen/live/radio.mp3",
        "tags": [
         "pop_hits",
@@ -4144,6 +4744,7 @@
      "stations": [
       {
        "name": "Amazing 80's",
+       "active": 0,
        "url": "https://mainstream.amazingradios.com:8010/80s128?utm_campaign=directories&utm_medium=directory&utm_source=mytuner",
        "tags": [
         "pop_hits",
@@ -4165,6 +4766,7 @@
      "stations": [
       {
        "name": "Radio Maria Macedonia",
+       "active": 0,
        "url": "https://dreamsiteradiocp2.com/proxy/rmmacedonia2?mp=/stream",
        "tags": [
         "christian_gospel",

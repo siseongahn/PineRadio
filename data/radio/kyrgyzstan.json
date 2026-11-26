@@ -10,6 +10,7 @@
      "stations": [
       {
        "name": "Obondoru Light",
+       "active": 0,
        "url": "http://player.europa.kg:1050/stream",
        "country_inferred": true,
        "language_inferred": true
@@ -21,6 +22,7 @@
      "stations": [
       {
        "name": "Tzgospel radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/1n6f9y596ehvv",
        "language_inferred": true
       }
@@ -31,6 +33,7 @@
      "stations": [
       {
        "name": "Gorod 312 Radio",
+       "active": 0,
        "url": "https://stream.pcradio.ru/gorod_312-med",
        "language_inferred": true
       }
@@ -41,6 +44,7 @@
      "stations": [
       {
        "name": "Dream Town",
+       "active": 0,
        "url": "http://a.streamsin.space:8000/dream_town",
        "tags": [
         "electronic",
@@ -51,6 +55,7 @@
       },
       {
        "name": "Dream Town Listen live",
+       "active": 0,
        "url": "https://onlineradiobox.com/json/kg/iradiopolaris/play?platform=web",
        "tags": [
         "electronic",
@@ -60,6 +65,7 @@
       },
       {
        "name": "Hit FM 105.6",
+       "active": 0,
        "url": "http://212.112.106.107:8000/hitfm",
        "tags": [
         "pop_hits",
@@ -70,6 +76,7 @@
       },
       {
        "name": "Radio BURANA radio",
+       "active": 0,
        "url": "https://s0.radioheart.ru:8000/RH40727",
        "tags": [
         "electronic",
@@ -84,6 +91,7 @@
      "stations": [
       {
        "name": "Emotions, Bishkek radio",
+       "active": 0,
        "url": "http://a.streamsin.space:8000/emotions",
        "tags": [
         "folk",
@@ -93,6 +101,7 @@
       },
       {
        "name": "KyrgyzRadiosu radio",
+       "active": 0,
        "url": "http://81.88.192.51:8000/KyrgyzRadiosu",
        "tags": [
         "folk",
@@ -101,6 +110,7 @@
       },
       {
        "name": "Maral Radiosu",
+       "active": 0,
        "url": "https://stream.pcradio.ru/maralfm_kg-med",
        "tags": [
         "news_talk",
@@ -110,17 +120,20 @@
       },
       {
        "name": "Obondoru Folk",
+       "active": 0,
        "url": "http://player.europa.kg:1100/stream",
        "country_inferred": true,
        "language_inferred": true
       },
       {
        "name": "Tumar FM Radio",
+       "active": 0,
        "url": "https://stream.pcradio.ru/tumar_fm-med",
        "language_inferred": true
       },
       {
        "name": "Тогуз Торо FM Radio",
+       "active": 0,
        "url": "https://stream.pcradio.ru/rad_tgztrfm-med",
        "tags": [
         "easy_listening",
@@ -135,6 +148,7 @@
      "stations": [
       {
        "name": "Atom FM",
+       "active": 0,
        "url": "http://158.181.250.136:8000/live",
        "tags": [
         "house",
@@ -152,6 +166,7 @@
      "stations": [
       {
        "name": "Burana Select Radio",
+       "active": 0,
        "url": "https://s0.radioheart.ru:8000/RH71143",
        "tags": [
         "jazz",
@@ -167,6 +182,7 @@
       },
       {
        "name": "Wilinor Radio",
+       "active": 0,
        "url": "https://stream.pcradio.ru/rad_wilnrkg-med",
        "tags": [
         "jazz",
@@ -181,6 +197,7 @@
      "stations": [
       {
        "name": "Almaz FM",
+       "active": 0,
        "url": "https://almazfm.ddns.net:8888/",
        "tags": [
         "news_talk",
@@ -189,6 +206,7 @@
       },
       {
        "name": "MARAL FM radio",
+       "active": 0,
        "url": "http://212.42.115.186:8000/stream.mp3",
        "tags": [
         "news_talk",
@@ -198,6 +216,7 @@
       },
       {
        "name": "Radio Azattyk Kyrgyz",
+       "active": 0,
        "url": "http://rfe-channel-01.akacast.akamaistream.net/7/880/228818/v1/ibb.akacast.akamaistream.net/rfe_channel_01.mp3",
        "tags": [
         "news_talk",
@@ -207,6 +226,7 @@
       },
       {
        "name": "Radio Sputnik Кыргызстан",
+       "active": 0,
        "url": "https://icecast-rian.cdnvideo.ru/voicekgz",
        "tags": [
         "news_talk",
@@ -216,6 +236,7 @@
       },
       {
        "name": "Sputnik Кыргызстан Listen live",
+       "active": 0,
        "url": "https://icecast-ruvr.cdnvideo.ru/rian.voicekgz",
        "tags": [
         "news_talk",
@@ -226,6 +247,7 @@
       },
       {
        "name": "Tumar FM",
+       "active": 0,
        "url": "http://212.112.114.218:8000/online",
        "tags": [
         "pop_hits",
@@ -234,6 +256,7 @@
       },
       {
        "name": "Tumar FM radio",
+       "active": 0,
        "url": "https://radio.tumar.fm:8005/stream",
        "tags": [
         "news_talk",
@@ -244,21 +267,25 @@
       },
       {
        "name": "Азаттык - Азаттык радиосу - Кыргызстан",
+       "active": 0,
        "url": "https://n0a.radiojar.com/q9z8fs3nn3quv",
        "language_inferred": true
       },
       {
        "name": "Биринчи Радио radio",
+       "active": 0,
        "url": "http://81.88.192.51:8000/Radio1",
        "language_inferred": true
       },
       {
        "name": "Насыйкат ФМ radio",
+       "active": 0,
        "url": "http://5.39.82.219:20452/listen.mp3",
        "language_inferred": true
       },
       {
        "name": "Радио Пирамида Listen live",
+       "active": 0,
        "url": "https://prm.volna.top/256",
        "tags": [
         "news_talk",
@@ -268,6 +295,7 @@
       },
       {
        "name": "Сүйүнчү радиосу",
+       "active": 0,
        "url": "https://cdn.radioplayer.kg:8443//suiunchu64",
        "tags": [
         "pop_hits",
@@ -282,6 +310,7 @@
      "stations": [
       {
        "name": "Radio Retro (ex FM88.5) radio",
+       "active": 0,
        "url": "http://a.streamsin.space:8000/retro_exfm885",
        "tags": [
         "pop_hits",
@@ -296,6 +325,7 @@
      "stations": [
       {
        "name": "80's channel (iradio.one) radio",
+       "active": 0,
        "url": "http://a.streamsin.space:8000/80s",
        "tags": [
         "pop_hits",
@@ -307,35 +337,42 @@
       },
       {
        "name": "ELFM",
+       "active": 0,
        "url": "http://81.88.192.51:8000/ELFM",
        "language_inferred": true
       },
       {
        "name": "FM",
+       "active": 0,
        "url": "http://95.215.244.204:8003/suiunchu128",
        "language_inferred": true
       },
       {
        "name": "Genealogical Radio",
+       "active": 0,
        "url": "http://81.88.192.51:8000/Sanjyra",
        "language_inferred": true
       },
       {
        "name": "Hit FM 105.6",
+       "active": 0,
        "url": "https://cdn.radioplayer.kg:8443/hitfm64"
       },
       {
        "name": "I Radio",
+       "active": 0,
        "url": "http://212.112.123.200:8000/stream.ogg",
        "language_inferred": true
       },
       {
        "name": "Kyrgyzstan Obondoru FM 106.5 Radio",
+       "active": 0,
        "url": "https://stream.pcradio.ru/obondorukg-med",
        "language_inferred": true
       },
       {
        "name": "Kyrgyzstan Obondory",
+       "active": 0,
        "url": "http://31.192.250.52:8000/obondoru128",
        "tags": [
         "pop_hits",
@@ -344,6 +381,7 @@
       },
       {
        "name": "Kyrgyzstan Obondory",
+       "active": 0,
        "url": "https://cdn.radioplayer.kg:8443/obondoru64",
        "tags": [
         "pop_hits",
@@ -355,20 +393,24 @@
       },
       {
        "name": "Lolliradio Happy Station Listen live",
+       "active": 0,
        "url": "https://happy.lolliradio.net/server",
        "language_inferred": true
       },
       {
        "name": "Tumar FM",
+       "active": 0,
        "url": "http://live.tumar.fm:8000/online"
       },
       {
        "name": "Радио Татина",
+       "active": 0,
        "url": "https://s0.radioheart.ru:8000/RH20675",
        "language_inferred": true
       },
       {
        "name": "Радио Татина radio",
+       "active": 0,
        "url": "https://onlineradiobox.com/json/kg/tatina/play?platform=web",
        "language_inferred": true
       }
@@ -379,6 +421,7 @@
      "stations": [
       {
        "name": "Radio NS Rock",
+       "active": 0,
        "url": "http://ne.fm/mp3/radions-rock",
        "language_inferred": true
       }
@@ -389,6 +432,7 @@
      "stations": [
       {
        "name": "Fever (iradio.one) radio",
+       "active": 0,
        "url": "http://a.streamsin.space:8000/fever",
        "tags": [
         "soul_rnb_funk",
@@ -400,6 +444,7 @@
       },
       {
        "name": "Radio Burana 107.6 Fm Токмок",
+       "active": 0,
        "url": "https://s0.radioheart.ru:8000/RH66458",
        "tags": [
         "soul_rnb_funk",
@@ -420,16 +465,19 @@
      "stations": [
       {
        "name": "Almaz FM",
+       "active": 0,
        "url": "http://stream1.obs.kg:8000/almaz"
       },
       {
        "name": "OK Radio",
+       "active": 0,
        "url": "http://stream.okradio.kg:8000/stream",
        "country_inferred": true,
        "language_inferred": true
       },
       {
        "name": "Suiunchu Dance",
+       "active": 0,
        "url": "http://player.europa.kg:1110/stream",
        "country_inferred": true,
        "language_inferred": true
@@ -441,119 +489,143 @@
      "stations": [
       {
        "name": "Almaz FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/9qvz5r3g838uv",
        "language_inferred": true
       },
       {
        "name": "Dala FM",
+       "active": 0,
        "url": "http://ne.fm/mp3/dalafm",
        "language_inferred": true
       },
       {
        "name": "ELFM-102.9",
+       "active": 0,
        "url": "https://stream.zeno.fm/ty98inzdphsvv",
        "language_inferred": true
       },
       {
        "name": "ELTR_ELFM",
+       "active": 0,
        "url": "https://stream.zeno.fm/76ueytzy9zhvv",
        "language_inferred": true
       },
       {
        "name": "Esser Tools 8000 20",
+       "active": 0,
        "url": "https://stream.zeno.fm/021ipt3htzjtv",
        "language_inferred": true
       },
       {
        "name": "Hit FM - Hit Fm",
+       "active": 0,
        "url": "http://31.192.250.52:8000/hitfm128",
        "language_inferred": true
       },
       {
        "name": "Kyrgyzstan Obondoru FM",
+       "active": 0,
        "url": "http://radio.city.kg:8000/obondoru.mp3"
       },
       {
        "name": "Obondoru  Gold",
+       "active": 0,
        "url": "http://player.europa.kg:1070/stream",
        "country_inferred": true,
        "language_inferred": true
       },
       {
        "name": "Radio Almaz",
+       "active": 0,
        "url": "https://stream.zeno.fm/eatxbwypa78uv",
        "language_inferred": true
       },
       {
        "name": "Radio Indreni",
+       "active": 0,
        "url": "http://live.itechnepal.com:8732/stream",
        "language_inferred": true
       },
       {
        "name": "Radio KFC",
+       "active": 0,
        "url": "https://landmark.barstoolsports.net/kfc-radio/kfcr_nov14th_final.370331336ca1.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio KFC",
+       "active": 0,
        "url": "http://ne.fm/mp3/KFC",
        "language_inferred": true
       },
       {
        "name": "Radio NS Chanson",
+       "active": 0,
        "url": "http://ne.fm/mp3/radions-shanson",
        "language_inferred": true
       },
       {
        "name": "Radio NS Jazz",
+       "active": 0,
        "url": "http://ne.fm/mp3/radions-jazz",
        "language_inferred": true
       },
       {
        "name": "Radio NS KZ",
+       "active": 0,
        "url": "http://ne.fm/mp3/radions-kz",
        "language_inferred": true
       },
       {
        "name": "Radio OK – Bishkek – Chüy – KG",
+       "active": 0,
        "url": "http://stream.okradio.kg:8000/listen.mp3",
        "language_inferred": true
       },
       {
        "name": "Retro FM Kazakhstan",
+       "active": 0,
        "url": "http://ne.fm/mp3/retro",
        "language_inferred": true
       },
       {
        "name": "Romance 107.8 FM",
+       "active": 0,
        "url": "http://81.88.192.51:8000/Romantica",
        "language_inferred": true
       },
       {
        "name": "Star FM Kazakhstan",
+       "active": 0,
        "url": "http://ne.fm/mp3/zhulduzfm",
        "language_inferred": true
       },
       {
        "name": "TUMAR FM (128kbps)",
+       "active": 0,
        "url": "http://212.112.114.218:8000/online128.m3u"
       },
       {
        "name": "TUMAR FM (320kbps)",
+       "active": 0,
        "url": "http://212.112.114.218:8000/online.m3u"
       },
       {
        "name": "Vadim-Almaz",
+       "active": 0,
        "url": "https://stream.zeno.fm/erncu9fhw98uv",
        "language_inferred": true
       },
       {
        "name": "Xadiya FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/rkfcwvgzqf9uv",
        "language_inferred": true
       },
       {
        "name": "Биринчи Radio",
+       "active": 0,
        "url": "https://liveradio.utrk.kg/1radio?n=d806b31200cb34481929",
        "language_inferred": true,
        "rb": "43f5812f-3431-4e82-b58f-ddd17d83a9b8",
@@ -561,35 +633,42 @@
       },
       {
        "name": "БИРИНЧИ РАДИО – Bishkek – Chüy – KG",
+       "active": 0,
        "url": "http://onlineradio.ktrk.kg:8080/",
        "language_inferred": true
       },
       {
        "name": "Достук радиосу – Bishkek – Chüy – KG",
+       "active": 0,
        "url": "http://85.113.29.232:8082/",
        "language_inferred": true
       },
       {
        "name": "Европа Плюс Киргизия",
+       "active": 0,
        "url": "https://ep256.streamr.ru",
        "language_inferred": true
       },
       {
        "name": "Кыргыз Радиосу – 106.5 FM – Bishkek – Chüy – KG",
+       "active": 0,
        "url": "http://217.29.19.40:8083/",
        "language_inferred": true
       },
       {
        "name": "Мин Кыял FM",
+       "active": 0,
        "url": "http://81.88.192.51:8000/MinKiyal"
       },
       {
        "name": "МИҢ КЫЯЛ FM радиосу – Bishkek – Chüy – KG",
+       "active": 0,
        "url": "http://217.29.19.40:8081/?auto=play",
        "language_inferred": true
       },
       {
        "name": "Радио Европа Плюс - Кыргызстан",
+       "active": 0,
        "url": "https://cdn.radioplayer.kg:8443/europa64",
        "country_inferred": true,
        "language_inferred": true,
@@ -597,23 +676,27 @@
       },
       {
        "name": "Радио Оазис - Бишкек 97.6 FM",
+       "active": 0,
        "url": "https://cdn.radioplayer.kg:8443/new64",
        "country_inferred": true,
        "language_inferred": true
       },
       {
        "name": "Ретро FM - Кыргызстан",
+       "active": 0,
        "url": "https://cdn.radioplayer.kg:8443/retro64",
        "country_inferred": true,
        "language_inferred": true
       },
       {
        "name": "Сүйүнчү FM",
+       "active": 0,
        "url": "https://cdn.radioplayer.kg:8443//suiunchu128",
        "language_inferred": true
       },
       {
        "name": "Сүйүнчү радиосу - Бишкек 107.4 FM",
+       "active": 0,
        "url": "https://cdn.radioplayer.kg:8443/suiunchu64",
        "country_inferred": true,
        "language_inferred": true,
@@ -631,6 +714,7 @@
      "stations": [
       {
        "name": "Palmera Blanca - IDM",
+       "active": 0,
        "url": "https://idm.palmerablanca.com/stream.mp3"
       }
      ]
@@ -640,6 +724,7 @@
      "stations": [
       {
        "name": "Palmera Blanca - Tango",
+       "active": 0,
        "url": "https://tango.palmerablanca.com/stream.mp3",
        "tags": [
         "latin",
@@ -653,6 +738,7 @@
      "stations": [
       {
        "name": "Радио ОК",
+       "active": 0,
        "url": "http://stream.okradio.kg:8000/mp3-hq"
       }
      ]
@@ -662,6 +748,7 @@
      "stations": [
       {
        "name": "Радио Атом FM radio",
+       "active": 0,
        "url": "http://106.streamsin.space:8000/atom",
        "tags": [
         "rock",
@@ -676,6 +763,7 @@
      "stations": [
       {
        "name": "Coldstar Online,ColdStar.Online Radio Low quality",
+       "active": 0,
        "url": "https://ice.coldstar.online/low.ogg",
        "tags": [
         "trance_goa",
@@ -690,10 +778,12 @@
      "stations": [
       {
        "name": "Радио ОК",
+       "active": 0,
        "url": "https://stream.okradio.kg:8005/stream"
       },
       {
        "name": "Радио ОК",
+       "active": 0,
        "url": "https://okradio.kg/mp3_hq"
       }
      ]
@@ -708,6 +798,7 @@
      "stations": [
       {
        "name": "Toguz-ToroFM",
+       "active": 0,
        "url": "https://drh-node-04.dline-media.com/toguztorofm.online",
        "tags": [
         "pop_hits",
@@ -722,6 +813,7 @@
      "stations": [
       {
        "name": "Manas FM",
+       "active": 0,
        "url": "http://live.mediamanas.kg:8000/online",
        "tags": [
         "pop_hits",
@@ -742,6 +834,7 @@
      "stations": [
       {
        "name": "HITRADIO RTL - 80er Listen live",
+       "active": 0,
        "url": "https://hermes.bcs-systems.de/hitradio-rtl_80er_192k_mp3",
        "tags": [
         "pop_hits",
@@ -761,6 +854,7 @@
      "stations": [
       {
        "name": "Lawa kaw",
+       "active": 0,
        "url": "https://stream.zeno.fm/epdcu270rzzuv"
       }
      ]
@@ -775,6 +869,7 @@
      "stations": [
       {
        "name": "Territory",
+       "active": 0,
        "url": "http://a.streamsin.space:8000/territory"
       }
      ]
@@ -789,6 +884,7 @@
      "stations": [
       {
        "name": "Tzgospel swahili",
+       "active": 0,
        "url": "https://stream.zeno.fm/g9a82y596ehvv"
       }
      ]

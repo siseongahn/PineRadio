@@ -10,6 +10,7 @@
      "stations": [
       {
        "name": "إذاعة لقاء",
+       "active": 0,
        "url": "http://procyon.shoutca.st:8536/stream",
        "tags": [
         "college_community",
@@ -24,6 +25,7 @@
      "stations": [
       {
        "name": "Radio Quran Jordan",
+       "active": 0,
        "url": "http://stream.joinvisions.net:1935/jorlive/quranaudio/chunklist.m3u8",
        "tags": [
         "christian_gospel",
@@ -32,11 +34,13 @@
       },
       {
        "name": "Tzgospel swahili (Jordan) radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/c69xzeba7ehvv",
        "language_inferred": true
       },
       {
        "name": "Yaqeen FM",
+       "active": 0,
        "url": "http://188.247.86.67:8004/1",
        "tags": [
         "christian_gospel",
@@ -50,6 +54,7 @@
      "stations": [
       {
        "name": "Bhajans Radio Guyana Listen live",
+       "active": 0,
        "url": "https://streamingV2.shoutcast.com/bhajansradioguyana",
        "tags": [
         "classical",
@@ -60,11 +65,13 @@
       },
       {
        "name": "Noursat Jordan TV",
+       "active": 0,
        "url": "http://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8",
        "rb": "4b0b64d4-15b0-4f62-b233-326d6fff15e5"
       },
       {
        "name": "Rabee Al QLoub",
+       "active": 0,
        "url": "http://tunein.com/radio/Rabee-Al-Qloub-s247490/",
        "tags": [
         "classical",
@@ -74,6 +81,7 @@
       },
       {
        "name": "Talal Abu-Ghazaleh Business and Culture Radio Station (TAGBC Radio)",
+       "active": 0,
        "url": "http://89.28.216.245:8000/tagbc"
       }
      ]
@@ -83,16 +91,19 @@
      "stations": [
       {
        "name": "JU FM 949",
+       "active": 0,
        "url": "http://ca4.rcast.net:8050/",
        "language_inferred": true
       },
       {
        "name": "raad.gg",
+       "active": 0,
        "url": "https://stream.zeno.fm/c7zvvs1b1rhvv",
        "language_inferred": true
       },
       {
        "name": "TTU FM 91.3",
+       "active": 0,
        "url": "http://fm.ttu.edu.jo:88/broadwavehigh.mp3",
        "tags": [
         "various_eclectic",
@@ -107,6 +118,7 @@
      "stations": [
       {
        "name": "كارتوك",
+       "active": 0,
        "url": "https://stream.zeno.fm/3wfq1z9g3uhvv",
        "language_inferred": true
       }
@@ -117,6 +129,7 @@
      "stations": [
       {
        "name": "Mood FM 920",
+       "active": 0,
        "url": "http://192.184.9.81:8048/stream",
        "language_inferred": true
       }
@@ -127,6 +140,7 @@
      "stations": [
       {
        "name": "Play 99.5 FM",
+       "active": 0,
        "url": "http://108.61.34.50:7102/stream.mp3",
        "tags": [
         "pop_hits",
@@ -136,10 +150,12 @@
       },
       {
        "name": "راديو روتانا- الأردن",
+       "active": 0,
        "url": "http://188.247.86.66/RotanaRadio//OnAirStudio1/playlist.m3u8"
       },
       {
        "name": "راديو فن",
+       "active": 0,
        "url": "http://188.247.86.66/RadioFann/Audio128/playlist.m3u8"
       }
      ]
@@ -149,6 +165,7 @@
      "stations": [
       {
        "name": "Al Rasheed FM radio",
+       "active": 0,
        "url": "http://alrasheedfm.in/",
        "tags": [
         "electronic",
@@ -159,6 +176,7 @@
       },
       {
        "name": "Radio Yarmouk FM 105.7",
+       "active": 0,
        "url": "http://yufm.yu.edu.jo/broadwave.mp3",
        "tags": [
         "college_community",
@@ -169,6 +187,7 @@
       },
       {
        "name": "Rotana FM",
+       "active": 0,
        "url": "http://rotanaradio.jo/listen",
        "tags": [
         "electronic",
@@ -181,6 +200,7 @@
       },
       {
        "name": "Spin Jordan FM",
+       "active": 0,
        "url": "http://s3.viastreaming.net:8670/",
        "tags": [
         "easy_listening",
@@ -194,10 +214,12 @@
      "stations": [
       {
        "name": "Hayat FM",
+       "active": 0,
        "url": "http://104.194.9.142:8302/stream/"
       },
       {
        "name": "Sawtelghad FM",
+       "active": 0,
        "url": "https://edge.mixlr.com/channel/llhwd",
        "tags": [
         "pop_hits",
@@ -208,10 +230,12 @@
       },
       {
        "name": "لراديو البلد",
+       "active": 0,
        "url": "http://198.178.123.8:8964/stream/1/"
       },
       {
        "name": "وتر ف.م",
+       "active": 0,
        "url": "http://stream.streamgenial.stream/8t0947m00f8uv",
        "tags": [
         "pop_hits",
@@ -225,6 +249,7 @@
      "stations": [
       {
        "name": "Hip Hop Arabia",
+       "active": 0,
        "url": "http://192.184.9.81:8241"
       }
      ]
@@ -234,6 +259,7 @@
      "stations": [
       {
        "name": "Hayat FM",
+       "active": 0,
        "url": "http://213.239.218.99:7172/live",
        "tags": [
         "islamic_quran",
@@ -244,6 +270,7 @@
       },
       {
        "name": "Watar FM 88.3 - وتر اف ام Listen live",
+       "active": 0,
        "url": "https://securestreams2.autopo.st:1243/live",
        "rb": "80342280-d3f9-4d61-8443-d3e415e89fb4",
        "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/74/d7/ec74d75d-a75c-4030-cd3d-0ded42396288/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1024x1024bb.jpg"
@@ -255,6 +282,7 @@
      "stations": [
       {
        "name": "Kids Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/qvykkqzdqchvv",
        "language_inferred": true
       }
@@ -265,6 +293,7 @@
      "stations": [
       {
        "name": "Amman FM",
+       "active": 0,
        "url": "http://stream.joinvisions.net:1935/Jordantv/Amman-FM-Audio/chunklist.m3u8",
        "tags": [
         "news_talk",
@@ -273,6 +302,7 @@
       },
       {
        "name": "Global 94.5 FM",
+       "active": 0,
        "url": "http://stream.joinvisions.net:1935/live/global.mp3",
        "tags": [
         "news_talk",
@@ -282,10 +312,12 @@
       },
       {
        "name": "Hayat FM",
+       "active": 0,
        "url": "https://stream.streamgenial.stream/5y95pu36sm0uv"
       },
       {
        "name": "Hayat FM 104.7 radio",
+       "active": 0,
        "url": "http://104.194.9.142:8302/live",
        "tags": [
         "news_talk",
@@ -295,6 +327,7 @@
       },
       {
        "name": "Hussain fm",
+       "active": 0,
        "url": "http://s2.voscast.com:10444/stream",
        "tags": [
         "news_talk",
@@ -304,10 +337,12 @@
       },
       {
        "name": "Jeish FM",
+       "active": 0,
        "url": "http://93.190.141.15:7144/"
       },
       {
        "name": "Jordan Radio",
+       "active": 0,
        "url": "http://stream.joinvisions.net:1935/jorlive/Jordan_Radio_Audio/chunklist.m3u8",
        "tags": [
         "news_talk",
@@ -316,6 +351,7 @@
       },
       {
        "name": "Jordan Sat TV radio",
+       "active": 0,
        "url": "http://stream.joinvisions.net:1935/live/en/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -324,12 +360,14 @@
       },
       {
        "name": "JRTV Amman FM",
+       "active": 0,
        "url": "https://jrtv-live.ercdn.net/jrradio/quranradio.m3u8",
        "rb": "06e1ce15-a839-4bd6-9d77-6c4c32eb75cc",
        "logo": "https://static.jrtv.gov.jo/resize-width/380/content/7/Mv/3/Thumbnail.png"
       },
       {
        "name": "JU FM 94.9",
+       "active": 0,
        "url": "https://jufmstreaming.ju.edu.jo/",
        "tags": [
         "news_talk",
@@ -339,6 +377,7 @@
       },
       {
        "name": "Mazaj FM 95.3 Listen live",
+       "active": 0,
        "url": "https://mazajfm.ice.infomaniak.ch/mazajfm-192.mp3",
        "tags": [
         "pop_hits",
@@ -353,6 +392,7 @@
       },
       {
        "name": "Nashama FM",
+       "active": 0,
        "url": "http://edge.mixlr.com/channel/ssbzr",
        "tags": [
         "pop_hits",
@@ -361,6 +401,7 @@
       },
       {
        "name": "Rabee Al Qloub",
+       "active": 0,
        "url": "https://radio-ssl.com:7002/",
        "tags": [
         "news_talk",
@@ -369,6 +410,7 @@
       },
       {
        "name": "Rabee Al Qloub radio",
+       "active": 0,
        "url": "https://crs.webdesign-flash.ro/?q=http://radio-ssl.com:8006/stream&plugin_id=7628&site_id=8520577",
        "tags": [
         "news_talk",
@@ -381,6 +423,7 @@
       },
       {
        "name": "Radio Al-Balad 92.4 FM",
+       "active": 0,
        "url": "http://s3.voscast.com:8964",
        "tags": [
         "various_eclectic",
@@ -389,10 +432,12 @@
       },
       {
        "name": "Radio Balad",
+       "active": 0,
        "url": "http://s3.voscast.com:8964/stream1641122484407/1"
       },
       {
        "name": "Radio Dahab",
+       "active": 0,
        "url": "https://dahab.ice.infomaniak.ch/dahab-192.mp3",
        "tags": [
         "news_talk",
@@ -405,6 +450,7 @@
       },
       {
        "name": "Radio Fann",
+       "active": 0,
        "url": "http://188.247.86.67:8000/3",
        "bitrate": 128,
        "logo": "http://radio.pervii.com/im/9/1537586239.jpg",
@@ -417,6 +463,7 @@
       },
       {
        "name": "Radio Irbid",
+       "active": 0,
        "url": "http://stream.joinvisions.net:1935/live/irbid/chunklist_w174659092.m3u8",
        "tags": [
         "news_talk",
@@ -425,11 +472,13 @@
       },
       {
        "name": "Radio Jordan [English Channel]",
+       "active": 0,
        "url": "https://jrtv-live.ercdn.net/jrradio/englishradiovideo.m3u8",
        "rb": "b5f9df76-4119-4ca2-b778-0ac128c9442c"
       },
       {
        "name": "Radio Sawa Jordan",
+       "active": 0,
        "url": "https://stream.radiojar.com/whbvyphna3quv",
        "tags": [
         "pop_hits",
@@ -442,6 +491,7 @@
       },
       {
        "name": "Yaqeen fm",
+       "active": 0,
        "url": "https://stream.streamgenial.stream/uzu059s00f8uv"
       }
      ]
@@ -451,10 +501,12 @@
      "stations": [
       {
        "name": "Al Rasheed FM (الرشيد إف إم )",
+       "active": 0,
        "url": "http://www.alrasheedfm.in/"
       },
       {
        "name": "Rotana Tarab",
+       "active": 0,
        "url": "https://stream.streamgenial.stream/p9ut99e00f8uv",
        "tags": [
         "decade_70s",
@@ -472,20 +524,24 @@
      "stations": [
       {
        "name": "3dRadio (٣ د راديو )",
+       "active": 0,
        "url": "http://radio.3dradio.me:8014/stream?type=.mp3"
       },
       {
        "name": "Beat FM 102.5",
+       "active": 0,
        "url": "http://s1.autopo.st:8210/stream",
        "language_inferred": true
       },
       {
        "name": "Energy Radio",
+       "active": 0,
        "url": "http://sharpflow.sharp-stream.com:8000/play996.mp3/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Hala FM 102.1",
+       "active": 0,
        "url": "http://us10a.serverse.com:8027/stream/",
        "tags": [
         "pop_hits",
@@ -495,11 +551,13 @@
       },
       {
        "name": "Jordan Radio",
+       "active": 0,
        "url": "https://jrtv-live.ercdn.net/jrradio/englishradio.m3u8",
        "language_inferred": true
       },
       {
        "name": "JUFM 94.9",
+       "active": 0,
        "url": "http://37.59.32.115:6122",
        "tags": [
         "pop_hits",
@@ -508,6 +566,7 @@
       },
       {
        "name": "Mazaj FM",
+       "active": 0,
        "url": "https://ice5.securenetsystems.net/MAZAJFM",
        "tags": [
         "pop_hits",
@@ -519,6 +578,7 @@
       },
       {
        "name": "Mazaj FM كاسيت Listen live",
+       "active": 0,
        "url": "https://mazajgoldhits.ice.infomaniak.ch/mazajgoldhits-192.mp3",
        "tags": [
         "pop_hits",
@@ -528,25 +588,30 @@
       },
       {
        "name": "Mood FM",
+       "active": 0,
        "url": "http://s1.autopo.st:8238/stream",
        "language_inferred": true
       },
       {
        "name": "Nashama",
+       "active": 0,
        "url": "https://nashama.radioca.st/stream",
        "language_inferred": true
       },
       {
        "name": "Play 99.5",
+       "active": 0,
        "url": "http://play995.radioca.st:8226/stream",
        "language_inferred": true
       },
       {
        "name": "Radio Fann (راديو فن)",
+       "active": 0,
        "url": "http://188.247.86.66:1935/RadioFann/Audio128/playlist.m3u8"
       },
       {
        "name": "Radio Hala",
+       "active": 0,
        "url": "http://us10a.serverse.com:8027/",
        "tags": [
         "pop_hits",
@@ -555,19 +620,23 @@
       },
       {
        "name": "Radio Sawa Jordan (Levant)",
+       "active": 0,
        "url": "http://mbn-channel-06.akacast.akamaistream.net/7/28/233455/v1/ibb.akacast.akamaistream.net/mbn_channel_06.m3u"
       },
       {
        "name": "Riyadah Radio",
+       "active": 0,
        "url": "https://stream.radio.co/s890dab452/listen",
        "language_inferred": true
       },
       {
        "name": "Rotana Radio Jordan",
+       "active": 0,
        "url": "http://188.247.86.66/RotanaRadio/Audio128/playlist.m3u8"
       },
       {
        "name": "Rotana Radio Jordan",
+       "active": 0,
        "url": "http://188.247.86.67:8002/3",
        "tags": [
         "pop_hits",
@@ -576,6 +645,7 @@
       },
       {
        "name": "Watar FM",
+       "active": 0,
        "url": "http://192.184.9.81:8388/live",
        "tags": [
         "various_eclectic",
@@ -589,11 +659,13 @@
      "stations": [
       {
        "name": "Ani Station",
+       "active": 0,
        "url": "http://listen.radionomy.com/ani-station",
        "language_inferred": true
       },
       {
        "name": "RRI Pro 1 Ternate FM 101.8 Listen live",
+       "active": 0,
        "url": "https://cdnternatepro1.rri.co.id/web-rriternatepro1.mp3",
        "tags": [
         "news_talk",
@@ -609,6 +681,7 @@
      "stations": [
       {
        "name": "Hadaf FM",
+       "active": 0,
        "url": "http://stream.joinvisions.net:1935/Jordantv/Hadaf_FM/chunklist.m3u8"
       }
      ]
@@ -618,10 +691,12 @@
      "stations": [
       {
        "name": "Annaja7 Radio",
+       "active": 0,
        "url": "https://s5.voscast.com:10213/live"
       },
       {
        "name": "Arab Maghreb",
+       "active": 0,
        "url": "http://192.184.9.158:8086",
        "tags": [
         "pop_hits",
@@ -630,14 +705,17 @@
       },
       {
        "name": "Gr8tunes Amr Diab",
+       "active": 0,
        "url": "http://192.184.9.81:8009"
       },
       {
        "name": "Gr8tunes Mohammed Abdo",
+       "active": 0,
        "url": "http://192.184.9.81:8426"
       },
       {
        "name": "Husna Radio",
+       "active": 0,
        "url": "https://s2.voscast.com:10445/stream",
        "tags": [
         "pop_hits",
@@ -646,10 +724,12 @@
       },
       {
        "name": "JBC Radio",
+       "active": 0,
        "url": "http://test.jbcradio.com:8080/stream/index.m3u8"
       },
       {
        "name": "Mazaj FM عالرايق Listen live",
+       "active": 0,
        "url": "https://mazajsoft.ice.infomaniak.ch/mazajsoft-192.mp3",
        "tags": [
         "world",
@@ -660,6 +740,7 @@
       },
       {
        "name": "MCD Radio",
+       "active": 0,
        "url": "http://mc-doualiya.scdn.arkena.com/mc-doualiya.mp3",
        "tags": [
         "news_talk",
@@ -669,14 +750,17 @@
       },
       {
        "name": "Radio Fann 97.7 FM",
+       "active": 0,
        "url": "http://188.247.86.67:8000/1"
       },
       {
        "name": "Radio Sys Arabs",
+       "active": 0,
        "url": "http://radio-ssl.com:7005/"
       },
       {
        "name": "Rotana Radio (راديو روتانا)",
+       "active": 0,
        "url": "http://188.247.86.67:8002/",
        "tags": [
         "world",
@@ -685,6 +769,7 @@
       },
       {
        "name": "Rotana Radio Jordan",
+       "active": 0,
        "url": "http://188.247.86.67:8002/2"
       }
      ]
@@ -694,572 +779,695 @@
      "stations": [
       {
        "name": "69.1Hot_fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/6urhfa852hhvv",
        "language_inferred": true
       },
       {
        "name": "Al Orthodoxiya FM",
+       "active": 0,
        "url": "http://s5.viastreaming.net/cgi-bin/scproxy.cgi?port=7040"
       },
       {
        "name": "ALNAS.ML On-Demand Live Streaming Platform منصة هنا الناس للمحتوى المرئي والمسموع",
+       "active": 0,
        "url": "https://stream.zeno.fm/yawenmfp64zuv",
        "rb": "a0bac84d-1fc3-453e-866c-5a4a864193d9"
       },
       {
        "name": "Alnaser",
+       "active": 0,
        "url": "https://stream.zeno.fm/t98g0uu4vwzuv",
        "language_inferred": true
       },
       {
        "name": "Amen FM (اذاعة الأمن العام)",
+       "active": 0,
        "url": "http://188.247.86.66:1935/ZainLive/live/playlist.m3u8"
       },
       {
        "name": "Amman Net (عمان نت)",
+       "active": 0,
        "url": "http://ammannet.net:8585/stream/5/"
       },
       {
        "name": "AQCC Radio Sydney",
+       "active": 0,
        "url": "https://stream.zeno.fm/8rkywmcdfv8uv"
       },
       {
        "name": "ARAB_HIPHOP",
+       "active": 0,
        "url": "https://stream.zeno.fm/vupnzsc947zuv",
        "language_inferred": true
       },
       {
        "name": "Arka_n",
+       "active": 0,
        "url": "https://stream.zeno.fm/d7k2xbrsduhvv",
        "language_inferred": true
       },
       {
        "name": "BaselI",
+       "active": 0,
        "url": "https://stream.zeno.fm/pwf6e9pr208uv",
        "language_inferred": true
       },
       {
        "name": "Basil radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/cqaynmnihvftv",
        "language_inferred": true
       },
       {
        "name": "Burgerizz",
+       "active": 0,
        "url": "https://stream.zeno.fm/x7hh4s9tvxhvv",
        "language_inferred": true
       },
       {
        "name": "chat-al3alam",
+       "active": 0,
        "url": "https://stream.zeno.fm/lriu0kek9optv",
        "language_inferred": true
       },
       {
        "name": "Chill FM Bonaire",
+       "active": 0,
        "url": "https://stream.zeno.fm/cmnf0sxa9a0uv",
        "language_inferred": true
       },
       {
        "name": "Coffee n Love",
+       "active": 0,
        "url": "https://stream.zeno.fm/cehs3basua0uv",
        "language_inferred": true
       },
       {
        "name": "Dardashati Radio",
+       "active": 0,
        "url": "http://radio.gorlk.com:8100/"
       },
       {
        "name": "Energy Radio",
+       "active": 0,
        "url": "http://sharpflow.sharp-stream.com:8000/play996.mp3?type=.mp3",
        "language_inferred": true
       },
       {
        "name": "FM Army",
+       "active": 0,
        "url": "http://93.190.141.15:7144/stream",
        "language_inferred": true
       },
       {
        "name": "Ghazihh",
+       "active": 0,
        "url": "https://stream.zeno.fm/fz8rx8au7hhvv",
        "language_inferred": true
       },
       {
        "name": "Ghost FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/8l597af2luhuv",
        "language_inferred": true
       },
       {
        "name": "Ghost Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/13xuo6rtcjsuv",
        "language_inferred": true
       },
       {
        "name": "Global",
+       "active": 0,
        "url": "http://stream.joinvisions.net:1935/live/global/playlist.m3u8"
       },
       {
        "name": "Hadaf FM (الإذاعة الرياضية هدف اف ام)",
+       "active": 0,
        "url": "http://stream.joinvisions.net:1935/jorlive/hadafradio/playlist.m3u8"
       },
       {
        "name": "Hala FM 102.1",
+       "active": 0,
        "url": "http://76.164.217.100:7302/",
        "language_inferred": true
       },
       {
        "name": "HASAN rd",
+       "active": 0,
        "url": "https://stream.zeno.fm/q3ykrzjunp4uv",
        "language_inferred": true
       },
       {
        "name": "HawaAlFuhais",
+       "active": 0,
        "url": "https://stream.zeno.fm/rpf9ha2pcq8uv"
       },
       {
        "name": "Hayat FM",
+       "active": 0,
        "url": "https://node-07.zeno.fm/pmhwcpcr1v8uv?rj-ttl=5&amprj-tok=AAABeijORToANMM8NpouMim-gQ",
        "language_inferred": true
       },
       {
        "name": "Hayat FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/dgasmu36sm0uv"
       },
       {
        "name": "Hayat FM حياة اف ام",
+       "active": 0,
        "url": "http://104.238.193.114:7048/live"
       },
       {
        "name": "Husna FM",
+       "active": 0,
        "url": "http://s2.voscast.com:10444/stream1550238100587/1"
       },
       {
        "name": "Husna FM 934",
+       "active": 0,
        "url": "http://s2.voscast.com:10444/stream1534585521293/1"
       },
       {
        "name": "In Arabic-Dialect",
+       "active": 0,
        "url": "https://stream.zeno.fm/fgwd9sz0k18uv",
        "language_inferred": true
       },
       {
        "name": "istikana music",
+       "active": 0,
        "url": "https://stream.zeno.fm/bus17gnrcwzuv",
        "language_inferred": true
       },
       {
        "name": "jabalJO",
+       "active": 0,
        "url": "https://stream.zeno.fm/bvbwn67vxwrvv",
        "language_inferred": true
       },
       {
        "name": "JBC Radio",
+       "active": 0,
        "url": "http://stream.joinvisions.net:1935/jbc/audio/playlist.m3u8"
       },
       {
        "name": "JEISH FM",
+       "active": 0,
        "url": "http://93.190.141.15:7126/"
       },
       {
        "name": "JEISH FM – Amman – Amman Governorate – JO",
+       "active": 0,
        "url": "http://93.190.141.15:7144/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Jordan Melody FM",
+       "active": 0,
        "url": "http://s3.voscast.com:9966/"
       },
       {
        "name": "JUFM 94.9",
+       "active": 0,
        "url": "https://stream.zeno.fm/3xq0af9z0f8uv"
       },
       {
        "name": "Khematal7ob",
+       "active": 0,
        "url": "https://stream.zeno.fm/kzcq2bqd368uv",
        "language_inferred": true
       },
       {
        "name": "Marhaba",
+       "active": 0,
        "url": "https://stream.zeno.fm/50tpdjymk4juv"
       },
       {
        "name": "Matthew",
+       "active": 0,
        "url": "https://stream.zeno.fm/kzmqzqpe0uvtv",
        "language_inferred": true
       },
       {
        "name": "Mazaj FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/66zgn9xknkhvv"
       },
       {
        "name": "MELODY FM",
+       "active": 0,
        "url": "http://s3.voscast.com:9966/stream.mp3?sid=1",
        "language_inferred": true
       },
       {
        "name": "Melody Jordan 91.1 FM",
+       "active": 0,
        "url": "http://s3.voscast.com:9966/listen.pls?sid=1?n=1c6efe5ac9a8b2693d2a",
        "language_inferred": true
       },
       {
        "name": "Melody Jordan Radio",
+       "active": 0,
        "url": "http://s3.voscast.com:9966/stream1686938227998?n=5cb9f1bd67a0a0d5d90f"
       },
       {
        "name": "Metal A1",
+       "active": 0,
        "url": "https://stream.zeno.fm/wyz5b5bk2p8uv",
        "language_inferred": true
       },
       {
        "name": "Msharni",
+       "active": 0,
        "url": "https://stream.zeno.fm/26bszrepq18uv",
        "language_inferred": true
       },
       {
        "name": "mshroo3",
+       "active": 0,
        "url": "https://stream.zeno.fm/9x38yqkfec9uv",
        "language_inferred": true
       },
       {
        "name": "musiclowmany",
+       "active": 0,
        "url": "https://stream.zeno.fm/bxdk054pkxhvv",
        "language_inferred": true
       },
       {
        "name": "Nashama FM",
+       "active": 0,
        "url": "http://108.61.34.50:7110/stream.mp3"
       },
       {
        "name": "naw22h",
+       "active": 0,
        "url": "https://stream.zeno.fm/bvnax8jnsjrtv",
        "language_inferred": true
       },
       {
        "name": "NJ MUSIC",
+       "active": 0,
        "url": "https://stream.zeno.fm/ymdqr6sn738uv",
        "language_inferred": true
       },
       {
        "name": "NOJOM RADIO JORDAN 97.1 FM (نجوم الاردن) – 97.1 FM – Amman – Amman Governorate – JO",
+       "active": 0,
        "url": "http://us5freenew.listen2myradio.com:33009/",
        "language_inferred": true
       },
       {
        "name": "NOUR FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/nkfeb067038uv",
        "language_inferred": true
       },
       {
        "name": "nyrozy",
+       "active": 0,
        "url": "https://stream.zeno.fm/nbc975kb1d0uv",
        "language_inferred": true
       },
       {
        "name": "nyrozzz",
+       "active": 0,
        "url": "https://stream.zeno.fm/2b8gdmwg6f0uv",
        "language_inferred": true
       },
       {
        "name": "ON THE ROAD",
+       "active": 0,
        "url": "https://stream.zeno.fm/q6xmgp26wg0uv"
       },
       {
        "name": "Play 99.5",
+       "active": 0,
        "url": "https://listen.mixlr.com/77061c6042f3f08ffa20f4ff7fc34b8b",
        "language_inferred": true
       },
       {
        "name": "Play 99.5 FM – 99.5 FM – Amman – Amman Governorate – JO",
+       "active": 0,
        "url": "https://www.play.jo/wp-content/uploads/2020/12/rosaliafeattheweeknd-lafama.mp3",
        "language_inferred": true
       },
       {
        "name": "Play FM",
+       "active": 0,
        "url": "https://listen.mixlr.com/c4341a084f8e7f46ae49de794a6bc1dc",
        "language_inferred": true
       },
       {
        "name": "Playlist gospel",
+       "active": 0,
        "url": "https://stream.zeno.fm/pmadxowswczvv"
       },
       {
        "name": "QURAN RADIO (إذاعة القران الكريم)",
+       "active": 0,
        "url": "http://stream.joinvisions.net:1935/jorlive/quranaudio/playlist.m3u8"
       },
       {
        "name": "Rabee Al Qloub",
+       "active": 0,
        "url": "http://192.99.149.102:9984/stream",
        "language_inferred": true
       },
       {
        "name": "Radio Al-Balad 92.4 (راديو البلد)",
+       "active": 0,
        "url": "http://s3.voscast.com:8964/stream1573914925787/1"
       },
       {
        "name": "Radio Aljasra (إذاعة الجسرة الثقافية)",
+       "active": 0,
        "url": "http://54.39.239.242:9318/"
       },
       {
        "name": "Radio Amwaj",
+       "active": 0,
        "url": "http://217.66.226.47:8028/stream"
       },
       {
        "name": "Radio App Bot Classic",
+       "active": 0,
        "url": "https://stream.zeno.fm/b79f6rv03k8uv"
       },
       {
        "name": "Radio Arddi (راديو أرضي)",
+       "active": 0,
        "url": "http://radioarddi.com:8000/listen.mp3?sid=1"
       },
       {
        "name": "Radio Dahab",
+       "active": 0,
        "url": "https://stream.zeno.fm/cgveqezknkhvv"
       },
       {
        "name": "Radio Dahab",
+       "active": 0,
        "url": "http://miniplain-edge-2.infomaniak.ch:80/dahab-192.mp3"
       },
       {
        "name": "Radio Fann",
+       "active": 0,
        "url": "https://node-35.zeno.fm/9e5906vhxy8uv?zs=FGruSS4yT26Q4RmaPA1J7g&ampzs=R8mkw18aTHe7qv20omswsA&amprj-tok=AAABf5hURpQAfcODCCSbQN_3Hg&amprj-ttl=5",
        "language_inferred": true
       },
       {
        "name": "Radio Fann",
+       "active": 0,
        "url": "https://stream.zeno.fm/97qfdnhr3f8uv"
       },
       {
        "name": "Radio Fann (راديو فن) – Ma’an – Ma’an Governorate – JO",
+       "active": 0,
        "url": "http://188.247.86.67:8000/listen.pls?sid=2",
        "language_inferred": true
       },
       {
        "name": "Radio Fann 97.7 FM",
+       "active": 0,
        "url": "http://188.247.86.67:8000/1stream/1",
        "language_inferred": true
       },
       {
        "name": "Radio Hawa.Jo",
+       "active": 0,
        "url": "https://stream.zeno.fm/yyke21v2afhvv"
       },
       {
        "name": "Radio Hayat – Amman – Amman Governorate – JO",
+       "active": 0,
        "url": "https://rs.hadara.ps:9614/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "RADIO JORGE QG",
+       "active": 0,
        "url": "https://stream.zeno.fm/1vquyfu38nhvv"
       },
       {
        "name": "Radio Sawa Jordan",
+       "active": 0,
        "url": "https://n04.radiojar.com/whbvyphna3quv?rj-ttl=5&amprj-tok=AAABf5hR1K0AD3tUOsoP6qldbw",
        "language_inferred": true
       },
       {
        "name": "Raedjo",
+       "active": 0,
        "url": "https://stream.zeno.fm/xbgf6fdmakhvv",
        "language_inferred": true
       },
       {
        "name": "Romanitc",
+       "active": 0,
        "url": "https://stream.zeno.fm/8ndnkw5h2p8uv",
        "language_inferred": true
       },
       {
        "name": "Rotana Tarab",
+       "active": 0,
        "url": "http://188.247.86.67:8008"
       },
       {
        "name": "Rotana Tarab",
+       "active": 0,
        "url": "http://188.247.86.67:8008/3"
       },
       {
        "name": "Rotana Tarab",
+       "active": 0,
        "url": "https://stream.zeno.fm/fzn259e00f8uv"
       },
       {
        "name": "Rotana Tarab",
+       "active": 0,
        "url": "https://node-08.zeno.fm/b10wvksv7mruv.aac"
       },
       {
        "name": "Rotana Tarab Jordan ( راديو روتانا طرب الاردن) – Amman – Amman Governorate – JO",
+       "active": 0,
        "url": "http://188.247.86.67:8004/listen.pls?sid=3",
        "language_inferred": true
       },
       {
        "name": "SAWA Akbar",
+       "active": 0,
        "url": "https://stream.zeno.fm/fphy3prabkhvv"
       },
       {
        "name": "Sawt El Ghad",
+       "active": 0,
        "url": "https://node-14.zeno.fm/yg9f36ef9s8uv",
        "language_inferred": true
       },
       {
        "name": "Sawt El Ghad",
+       "active": 0,
        "url": "http://audiostreaming.itworkscdn.com:9030/",
        "language_inferred": true
       },
       {
        "name": "Sawt El Ghad",
+       "active": 0,
        "url": "https://live.hibridcdn.net/ghadciel/ghadradio/icecast.audio",
        "language_inferred": true
       },
       {
        "name": "SevenDJ",
+       "active": 0,
        "url": "https://stream.zeno.fm/95e0dgbpbd0uv",
        "language_inferred": true
       },
       {
        "name": "shamssport",
+       "active": 0,
        "url": "https://stream.zeno.fm/hyc2wskap48uv",
        "language_inferred": true
       },
       {
        "name": "Signetch",
+       "active": 0,
        "url": "https://stream.zeno.fm/cyfmgf6rq0hvv",
        "language_inferred": true
       },
       {
        "name": "Signetch Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/1grtyqzhk98uv",
        "language_inferred": true
       },
       {
        "name": "Star Radio Jordan 93.7 FM",
+       "active": 0,
        "url": "http://78.129.232.162:27127/"
       },
       {
        "name": "Station 1",
+       "active": 0,
        "url": "https://stream.zeno.fm/eb279hg5aa9uv",
        "language_inferred": true
       },
       {
        "name": "Suf A7adeeth",
+       "active": 0,
        "url": "https://stream.zeno.fm/7s87yx5kqc9uv",
        "language_inferred": true
       },
       {
        "name": "TheRadioJo",
+       "active": 0,
        "url": "https://stream.zeno.fm/3dr7u4859ehvv"
       },
       {
        "name": "Thinkit Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/3rgaigr83xeuv",
        "language_inferred": true
       },
       {
        "name": "TQDVTC",
+       "active": 0,
        "url": "https://stream.zeno.fm/9dak4tmu398uv",
        "language_inferred": true
       },
       {
        "name": "Tura123",
+       "active": 0,
        "url": "https://stream.zeno.fm/rckfpvqvklhuv",
        "language_inferred": true
       },
       {
        "name": "Watar FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/7zr917m00f8uv"
       },
       {
        "name": "Watar FM 88.3",
+       "active": 0,
        "url": "https://node-19.zeno.fm/8t0947m00f8uv?rj-ttl=5&amprj-tok=AAABeGNz5RUAmua8DGb9imnudQ",
        "language_inferred": true
       },
       {
        "name": "Xorete",
+       "active": 0,
        "url": "https://stream.zeno.fm/liae6u8l50muv",
        "language_inferred": true
       },
       {
        "name": "Ya msharni",
+       "active": 0,
        "url": "https://stream.zeno.fm/w97myq37608uv",
        "language_inferred": true
       },
       {
        "name": "Yaqeen FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/uzu059s00f8uv",
        "language_inferred": true
       },
       {
        "name": "Yaqeen FM 103.7 (يقين)",
+       "active": 0,
        "url": "http://188.247.86.67:8004"
       },
       {
        "name": "Yaqeen Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/waq129s00f8uv",
        "language_inferred": true
       },
       {
        "name": "إذاعة الإعلام الإنساني",
+       "active": 0,
        "url": "https://stream.zeno.fm/nq2unkmsp68uv"
       },
       {
        "name": "إذاعة صوت الكنيسة – Radio Sawt Alkaneseh – Amman – Amman Governorate – JO",
+       "active": 0,
        "url": "http://s3.viastreaming.net:8710/?_=0.047843690376891956",
        "language_inferred": true
       },
       {
        "name": "إسلام صبحي",
+       "active": 0,
        "url": "https://stream.zeno.fm/gx9fdmquosmuv",
        "language_inferred": true
       },
       {
        "name": "اذاعة الجامعة الأردنية 94.9 - عمان الاردن",
+       "active": 0,
        "url": "http://jufmstreaming.ju.edu.jo/stream.mp3",
        "country_inferred": true,
        "language_inferred": true
       },
       {
        "name": "اذاعة القران الكريم من عمان",
+       "active": 0,
        "url": "https://jrtv-live.ercdn.net/jrradio/quranradiovideo.m3u8",
        "language_inferred": true
       },
       {
        "name": "حكايتنا بسكتش",
+       "active": 0,
        "url": "https://stream.zeno.fm/xwpsqmya8ehvv",
        "language_inferred": true
       },
       {
        "name": "راديو قدامى جامعة الزيتونة",
+       "active": 0,
        "url": "https://stream.zeno.fm/pxuaarcrxchvv",
        "language_inferred": true
       },
       {
        "name": "رعد الكردي",
+       "active": 0,
        "url": "https://stream.zeno.fm/umnfjmqlsyruv",
        "language_inferred": true
       },
       {
        "name": "رمضان شكور",
+       "active": 0,
        "url": "https://stream.zeno.fm/72lsbtfjbkjtv",
        "language_inferred": true
       },
       {
        "name": "ستوديو شباب المملكة",
+       "active": 0,
        "url": "https://stream.zeno.fm/mz1v6wkxbfhvv",
        "language_inferred": true
       },
       {
        "name": "سما العرب اغاني",
+       "active": 0,
        "url": "https://stream.zeno.fm/kk2v89h5vz1vv",
        "language_inferred": true
       },
       {
        "name": "قرآن اف ام",
+       "active": 0,
        "url": "https://stream.zeno.fm/zsdrrroxrvutv",
        "language_inferred": true
       },
       {
        "name": "قناة اهلنا المسموعة",
+       "active": 0,
        "url": "http://s38.radiolize.com:8260/radio.mp3"
       },
       {
        "name": "مسابقات خيال العرب",
+       "active": 0,
        "url": "https://stream.zeno.fm/ea6ztlnzeigtv"
       },
       {
        "name": "هزاع البلوشي",
+       "active": 0,
        "url": "https://stream.zeno.fm/clud10trysnuv",
        "language_inferred": true
       }
@@ -1275,6 +1483,7 @@
      "stations": [
       {
        "name": "Yaqeen FM 103.7",
+       "active": 0,
        "url": "http://188.247.86.67:8004/stream/2/"
       }
      ]
@@ -1284,6 +1493,7 @@
      "stations": [
       {
        "name": "Bliss 104.3",
+       "active": 0,
        "url": "http://66.55.145.43:7008/",
        "tags": [
         "pop_hits",
@@ -1297,6 +1507,7 @@
      "stations": [
       {
        "name": "Mood 92",
+       "active": 0,
        "url": "https://crs.webdesign-flash.ro/?q=http://192.184.9.81:8048/live&plugin_id=7628&site_id=8520577",
        "tags": [
         "pop_hits",
@@ -1314,6 +1525,7 @@
      "stations": [
       {
        "name": "Play FM 99.5 radio",
+       "active": 0,
        "url": "https://play995.radioca.st//stream",
        "tags": [
         "news_talk",
@@ -1332,6 +1544,7 @@
      "stations": [
       {
        "name": "STAR RADIO JORDAN",
+       "active": 0,
        "url": "http://109.169.23.95:10449/",
        "tags": [
         "house",
@@ -1345,6 +1558,7 @@
      "stations": [
       {
        "name": "Star Radio Jordan",
+       "active": 0,
        "url": "http://78.129.193.82:10360/",
        "tags": [
         "house",
@@ -1358,6 +1572,7 @@
      "stations": [
       {
        "name": "Radio Jordan 96.3 FM",
+       "active": 0,
        "url": "http://stream.joinvisions.net:1935/live/en/chunklist.m3u8",
        "tags": [
         "news_talk",
@@ -1371,6 +1586,7 @@
      "stations": [
       {
        "name": "Beat FM",
+       "active": 0,
        "url": "https://securestreams2.autopo.st:1242/live",
        "tags": [
         "pop_hits",
@@ -1386,6 +1602,7 @@
       },
       {
        "name": "Beat FM 102.5",
+       "active": 0,
        "url": "http://192.184.9.81:8049/live",
        "tags": [
         "pop_hits",
@@ -1396,10 +1613,12 @@
       },
       {
        "name": "HD FM 104.2",
+       "active": 0,
        "url": "http://66.55.145.43:7006"
       },
       {
        "name": "Play 99.5",
+       "active": 0,
        "url": "https://edge.mixlr.com/channel/hynza",
        "tags": [
         "pop_hits",
@@ -1415,6 +1634,7 @@
      "stations": [
       {
        "name": "Mood 92 Listen live",
+       "active": 0,
        "url": "https://securestreams2.autopo.st:1241/live",
        "tags": [
         "pop_hits",
@@ -1433,26 +1653,32 @@
      "stations": [
       {
        "name": "35 East Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/p46gmbq8608uv"
       },
       {
        "name": "Beat FM",
+       "active": 0,
        "url": "https://stream.streamgenial.stream/pmaxwyx6sm0uv"
       },
       {
        "name": "musication",
+       "active": 0,
        "url": "https://stream.zeno.fm/2gfqp03pkxhvv"
       },
       {
        "name": "New Iris Morning",
+       "active": 0,
        "url": "https://stream.zeno.fm/wtv0vprefphvv"
       },
       {
        "name": "Snack Chef FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/9c0e61xkzchvv"
       },
       {
        "name": "STAR RADIO JORDAN",
+       "active": 0,
        "url": "https://stream.zeno.fm/h2gn3tg00f8uv"
       }
      ]
@@ -1467,6 +1693,7 @@
      "stations": [
       {
        "name": "Rotana FM radio",
+       "active": 0,
        "url": "http://188.247.86.67:8008/stream",
        "tags": [
         "electronic",
@@ -1482,6 +1709,7 @@
      "stations": [
       {
        "name": "Global 94.5 FM",
+       "active": 0,
        "url": "http://stream.joinvisions.net:1935/live/global/chunklist_w450577882.m3u8",
        "tags": [
         "news_talk",
@@ -1492,6 +1720,7 @@
       },
       {
        "name": "Radio Al-Balad 92.5 راديو البلد radio",
+       "active": 0,
        "url": "http://s3.voscast.com:8964/stream1653312509934/1",
        "tags": [
         "news_talk",
@@ -1512,6 +1741,7 @@
      "stations": [
       {
        "name": "Rema FM",
+       "active": 0,
        "url": "http://ca4.rcast.net:8050/stream",
        "tags": [
         "news_talk",
@@ -1530,6 +1760,7 @@
      "stations": [
       {
        "name": "HRT - Radio Rijeka Listen live",
+       "active": 0,
        "url": "https://22343.live.streamtheworld.com/RIJEKAAAC.aac",
        "tags": [
         "world",
@@ -1548,6 +1779,7 @@
      "stations": [
       {
        "name": "Tzgospel swahili",
+       "active": 0,
        "url": "https://stream.zeno.fm/n8b8veba7ehvv"
       }
      ]

@@ -10,6 +10,7 @@
      "stations": [
       {
        "name": "Radio Maria Papua New Guinea",
+       "active": 0,
        "url": "http://dreamsiteradiocp2.com:8112/stream/",
        "tags": [
         "christian_gospel",
@@ -19,6 +20,7 @@
       },
       {
        "name": "Radio Maria Papua New Guinea",
+       "active": 0,
        "url": "https://dreamsiteradiocp2.com/proxy/rmpapua2?mp=/stream",
        "tags": [
         "christian_gospel",
@@ -27,6 +29,7 @@
       },
       {
        "name": "Wantok Radio Light",
+       "active": 0,
        "url": "https://ca7ssl.rcast.net/stream/61643//type=mp3",
        "tags": [
         "christian_gospel",
@@ -35,6 +38,7 @@
       },
       {
        "name": "Wantok Radio Light",
+       "active": 0,
        "url": "http://ca7.rcast.net:8060"
       }
      ]
@@ -44,6 +48,7 @@
      "stations": [
       {
        "name": "die neue welle - 80ER Listen live",
+       "active": 0,
        "url": "https://dieneuewelle-80er.cast.addradio.de/dieneuewelle/80er/mp3/high",
        "tags": [
         "classical",
@@ -58,6 +63,7 @@
      "stations": [
       {
        "name": "NAU FM 96.5 Port Moresby",
+       "active": 0,
        "url": "http://provisioning.streamtheworld.com/pls/NAUFMAAC.pls",
        "tags": [
         "pop_hits",
@@ -71,6 +77,7 @@
      "stations": [
       {
        "name": "FM100",
+       "active": 0,
        "url": "https://online.fm100.com.pg/stream",
        "tags": [
         "news_talk",
@@ -79,6 +86,7 @@
       },
       {
        "name": "HOPE RADIO",
+       "active": 0,
        "url": "http://s6.voscast.com:10816/stream.nsv",
        "tags": [
         "news_talk",
@@ -92,24 +100,29 @@
      "stations": [
       {
        "name": "Legend FM",
+       "active": 0,
        "url": "http://playerservices.live.streamtheworld.com/api/livestream-redirect/PNGLEGENDFM_SC"
       },
       {
        "name": "More FM - Wellington 95.3 FM Listen live",
+       "active": 0,
        "url": "https://livestream.mediaworks.nz/radio_origin/more_[WTN]_128kbps/chunklist.m3u8",
        "language_inferred": true
       },
       {
        "name": "NauFM 96.5",
+       "active": 0,
        "url": "http://playerservices.live.streamtheworld.com/api/livestream-redirect/NAUFM_SC"
       },
       {
        "name": "Station Beta, Port Moresby radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/dct2xh8xnbnvv",
        "language_inferred": true
       },
       {
        "name": "Yumi FM 93.1 Port Moresby",
+       "active": 0,
        "url": "http://provisioning.streamtheworld.com/pls/YUMIFMAAC.pls",
        "language_inferred": true
       }
@@ -120,6 +133,7 @@
      "stations": [
       {
        "name": "CBC Bachman's Guitarchives Listen live",
+       "active": 0,
        "url": "https://webradios-vh.akamaihd.net/i/mp4/f-j/jonrauhousessteelguitarairshow/00078558_adjusted_,64,128,.mp4.csmil/index_1_a.m3u8",
        "tags": [
         "rock",
@@ -129,6 +143,7 @@
       },
       {
        "name": "Nau FM",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NAUFM_SC",
        "tags": [
         "pop_hits",
@@ -140,6 +155,7 @@
       },
       {
        "name": "Radiopizzo Listen live",
+       "active": 0,
        "url": "https://stream.laut.fm/radiopizzo?ref=radiode",
        "tags": [
         "rock",
@@ -154,79 +170,95 @@
      "stations": [
       {
        "name": "1611 Living Word Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/4nxvcnna2k0uv",
        "language_inferred": true
       },
       {
        "name": "FM Blo Yumi",
+       "active": 0,
        "url": "https://stream.zeno.fm/y3w69k1knchvv",
        "language_inferred": true
       },
       {
        "name": "Friends FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/qys48zc1x68uv"
       },
       {
        "name": "GINOSKO RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/73uhpkg1ry8uv"
       },
       {
        "name": "Hope Radio",
+       "active": 0,
        "url": "http://s6.voscast.com:10816/stream",
        "language_inferred": true
       },
       {
        "name": "Kakashki",
+       "active": 0,
        "url": "https://stream.zeno.fm/bjt0atxwewlvv",
        "language_inferred": true
       },
       {
        "name": "Latest Vibez Tasol",
+       "active": 0,
        "url": "https://stream.zeno.fm/3yvx9tr2pa0uv",
        "language_inferred": true
       },
       {
        "name": "Legend FM 101.1",
+       "active": 0,
        "url": "https://18253.live.streamtheworld.com/PNGLEGENDFM.mp3?n=6ab48feb85e42669318d",
        "language_inferred": true
       },
       {
        "name": "LMFAO COMEDY Show Gentleman STAND UP",
+       "active": 0,
        "url": "https://stream.zeno.fm/hu4bcdcgiwfuv",
        "language_inferred": true
       },
       {
        "name": "NBC PNG",
+       "active": 0,
        "url": "https://stream-152.zeno.fm/8dhz9ksa8f0uv?zs=9LzXWOwYTU69VMKXx0FuWA&adtonosListenerId=01HG0J80DVF8MTJ9829WK7SDVF&aw_0_req_lsid=3e71891a2ab3ea7ea8d47bc8231e34b5?n=581b4523906d316fb5a8",
        "language_inferred": true
       },
       {
        "name": "NBC PnG",
+       "active": 0,
        "url": "https://stream.zeno.fm/8dhz9ksa8f0uv",
        "language_inferred": true
       },
       {
        "name": "TRIGGERMAN EXCLUSSIVE",
+       "active": 0,
        "url": "https://stream.zeno.fm/f9zxqsfyexhvv",
        "language_inferred": true
       },
       {
        "name": "Wanbel FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/80h7xsecvnhvv",
        "language_inferred": true
       },
       {
        "name": "Wantok Light Radio – 93.9 FM – Wewak – PG-ESW",
+       "active": 0,
        "url": "https://ca7ssl.rcast.net/stream/61643.mp3",
        "language_inferred": true
       },
       {
        "name": "Yumi FM 93",
+       "active": 0,
        "url": "https://18253.live.streamtheworld.com/YUMIFM.mp3?n=0480b1e76651b82b2148",
        "language_inferred": true
       },
       {
        "name": "YumiFM – Port Moresby – National Capital – PG",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/YUMIFMAAC_SC",
        "language_inferred": true
       }
@@ -242,6 +274,7 @@
      "stations": [
       {
        "name": "YumiFM",
+       "active": 0,
        "url": "http://playerservices.live.streamtheworld.com/api/livestream-redirect/YUMIFM_SC"
       }
      ]
@@ -256,6 +289,7 @@
      "stations": [
       {
        "name": "Tzgospel swahili",
+       "active": 0,
        "url": "https://stream.zeno.fm/qbsupxanffhvv"
       }
      ]

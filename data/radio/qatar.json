@@ -10,11 +10,13 @@
      "stations": [
       {
        "name": "Mirchi One Qatar",
+       "active": 0,
        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/QAT_HIN_GSTAAC_HI.aac",
        "language_inferred": true
       },
       {
        "name": "Radio Olive",
+       "active": 0,
        "url": "http://20863.live.streamtheworld.com:80/OLIVE1063AAC_SC",
        "language_inferred": true
       }
@@ -25,6 +27,7 @@
      "stations": [
       {
        "name": "MixMashup Radio",
+       "active": 0,
        "url": "http://listen.radionomy.com/mixmashupradio",
        "tags": [
         "christian_gospel",
@@ -35,16 +38,19 @@
       },
       {
        "name": "Quran Radio",
+       "active": 0,
        "url": "https://622ea98e0a84c.streamlock.net/QURAN/myStream/chunklist_w237839478.m3u8",
        "language_inferred": true
       },
       {
        "name": "Quran Radio 2",
+       "active": 0,
        "url": "https://622ea98e0a84c.streamlock.net/QURAN2/myStream/chunklist_w533024410.m3u8",
        "language_inferred": true
       },
       {
        "name": "Quran Radio Qatar",
+       "active": 0,
        "url": "http://52.178.28.223:1935/QURAN/myStream/playlist.m3u8",
        "tags": [
         "christian_gospel",
@@ -53,11 +59,13 @@
       },
       {
        "name": "Sri India Doha Tamil 81.98FM radio",
+       "active": 0,
        "url": "http://freeuk21.listen2myradio.com:11582/",
        "language_inferred": true
       },
       {
        "name": "Uthamiyae FM",
+       "active": 0,
        "url": "http://162.244.80.20:4712",
        "tags": [
         "christian_gospel",
@@ -72,6 +80,7 @@
      "stations": [
       {
        "name": "1variraamuddu",
+       "active": 0,
        "url": "https://stream.zeno.fm/3rmk51f9938uv",
        "language_inferred": true
       }
@@ -82,6 +91,7 @@
      "stations": [
       {
        "name": "Friends-FM",
+       "active": 0,
        "url": "http://144.91.119.63:8012/stream",
        "tags": [
         "country",
@@ -90,6 +100,7 @@
       },
       {
        "name": "Hott 95.3 FM Listen live",
+       "active": 0,
        "url": "https://prod-34-83-135-79.wostreaming.net/starcom-hott95mp3-ibc1",
        "tags": [
         "pop_hits",
@@ -104,6 +115,7 @@
      "stations": [
       {
        "name": "Habaieb FM",
+       "active": 0,
        "url": "https://www.liveradio.es/http://188.166.95.19:8000/live_habaiebfm.mp3"
       }
      ]
@@ -113,6 +125,7 @@
      "stations": [
       {
        "name": "Qabayan Radio",
+       "active": 0,
        "url": "https://c2.radioboss.fm/stream/478",
        "language_inferred": true
       }
@@ -123,6 +136,7 @@
      "stations": [
       {
        "name": "Mental Grooves",
+       "active": 0,
        "url": "https://s3.voscast.com:10241/stream",
        "tags": [
         "hip_hop_rap",
@@ -137,6 +151,7 @@
      "stations": [
       {
        "name": "QBS Radio",
+       "active": 0,
        "url": "http://52.178.28.223:1935/QBS/myStream/Playlist.m3u8",
        "tags": [
         "islamic_quran",
@@ -145,6 +160,7 @@
       },
       {
        "name": "إذاعة الريان",
+       "active": 0,
        "url": "http://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8",
        "tags": [
         "islamic_quran",
@@ -159,11 +175,13 @@
      "stations": [
       {
        "name": "Egyptian",
+       "active": 0,
        "url": "https://stream.zeno.fm/yfg7kvymr18uv",
        "language_inferred": true
       },
       {
        "name": "Radio Olive Kids",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_OLIVE_CLUB_S04AAC_SC",
        "language_inferred": true,
        "rb": "3c5fceda-40dc-47be-8e57-b2fdc68b55ce",
@@ -171,11 +189,13 @@
       },
       {
        "name": "Subzero",
+       "active": 0,
        "url": "https://stream.zeno.fm/pp57bz8kzhhvv",
        "language_inferred": true
       },
       {
        "name": "Uthamiyae FM",
+       "active": 0,
        "url": "http://51.89.173.53:8173/stream",
        "language_inferred": true
       }
@@ -186,6 +206,7 @@
      "stations": [
       {
        "name": "Golfo Radio 98.3 FM Listen live",
+       "active": 0,
        "url": "https://01.solumedia.com.ar:10061/stream.mp3/",
        "tags": [
         "sports",
@@ -201,6 +222,7 @@
      "stations": [
       {
        "name": "Al Jazeera Arabic",
+       "active": 0,
        "url": "https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/index.m3u8",
        "tags": [
         "news_talk",
@@ -212,15 +234,18 @@
       },
       {
        "name": "Al Jazeera Arabic",
+       "active": 0,
        "url": "https://live-hls-web-aja.getaj.net/AJA-b/index.m3u8"
       },
       {
        "name": "Al Jazeera English",
+       "active": 0,
        "url": "http://66.226.10.51:8000/AljazeeraEnglish",
        "language_inferred": true
       },
       {
        "name": "freefm.lk - Qatar Sinhala Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/4awq6kvoezttv",
        "tags": [
         "news_talk",
@@ -231,15 +256,18 @@
       },
       {
        "name": "Qatar Radio - إذاعة قطر",
+       "active": 0,
        "url": "https://622ea98e0a84c.streamlock.net/QRS/myStream/chunklist_w1345467719.m3u8",
        "language_inferred": true
       },
       {
        "name": "Radio Al Jazeera English",
+       "active": 0,
        "url": "https://live-hls-audio-web-aje.getaj.net/VOICE-AJE/index.m3u8"
       },
       {
        "name": "Radio Olive",
+       "active": 0,
        "url": "http://22603.live.streamtheworld.com:80/OLIVE1063AAC_SC",
        "tags": [
         "news_talk",
@@ -250,6 +278,7 @@
       },
       {
        "name": "Radio Olive Nepal",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_OLIVE_HITS_S02AAC_SC",
        "tags": [
         "news_talk",
@@ -259,6 +288,7 @@
       },
       {
        "name": "Radio Sout Al Khaleej FM radio",
+       "active": 0,
        "url": "https://live.amperwave.net/direct/ihorizonsradio-sakfmaac-ibc1",
        "tags": [
         "news_talk",
@@ -267,6 +297,7 @@
       },
       {
        "name": "Radio Uganda Qatar",
+       "active": 0,
        "url": "https://stream.zeno.fm/b24fqp4n5tzuv",
        "tags": [
         "news_talk",
@@ -275,10 +306,12 @@
       },
       {
        "name": "إذاعة صوت الخليج FM",
+       "active": 0,
        "url": "http://ruby.streamguys.com:8120/sar-qatar-2"
       },
       {
        "name": "إذاعة قطر",
+       "active": 0,
        "url": "http://52.178.28.223:1935/QRS/myStream/Playlist.m3u8",
        "tags": [
         "news_talk",
@@ -288,10 +321,12 @@
       },
       {
        "name": "راديو اوريكس أف أم",
+       "active": 0,
        "url": "http://52.178.28.223:1935/ORYX/myStream/Playlist.m3u8"
       },
       {
        "name": "قناة اﻟﺠﺰﻳﺮﺓ اﻟﻌﺮﺑﻴﺔ",
+       "active": 0,
        "url": "https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/01.m3u8",
        "tags": [
         "news_talk",
@@ -306,6 +341,7 @@
      "stations": [
       {
        "name": "Radio Olive Retro – Doha – QA-DA",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_OLIVE_RETRO_S03AAC_SC",
        "language_inferred": true
       }
@@ -316,6 +352,7 @@
      "stations": [
       {
        "name": "Fame FM Qatar",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM03AAC389_SC",
        "tags": [
         "pop_hits",
@@ -325,6 +362,7 @@
       },
       {
        "name": "Inta FM 103.7",
+       "active": 0,
        "url": "https://s4.radio.co/s907eaefbe/listen",
        "tags": [
         "pop_hits",
@@ -334,16 +372,19 @@
       },
       {
        "name": "Oryx FM",
+       "active": 0,
        "url": "https://622ea98e0a84c.streamlock.net/ORYX/myStream/chunklist_w201781413.m3u8",
        "language_inferred": true
       },
       {
        "name": "Qabayan Radio",
+       "active": 0,
        "url": "https://c2.radioboss.fm:18478/stream",
        "language_inferred": true
       },
       {
        "name": "QMC Sout al Khaleej",
+       "active": 0,
        "url": "https://live.wostreaming.net/direct/ihorizonsradio-sakfmmp3-ibc1",
        "tags": [
         "pop_hits",
@@ -352,6 +393,7 @@
       },
       {
        "name": "Radio Sawa 92.6 FM radio",
+       "active": 0,
        "url": "https://stream.radiojar.com/mzw8z62r92quv",
        "tags": [
         "pop_hits",
@@ -361,11 +403,13 @@
       },
       {
        "name": "Radio Suno Lanka",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_SUNO_HITS_S05AAC_SC",
        "language_inferred": true
       },
       {
        "name": "Urdu Radio",
+       "active": 0,
        "url": "https://622ea98e0a84c.streamlock.net/URDU/myStream/chunklist_w1188455970.m3u8",
        "language_inferred": true
       }
@@ -376,6 +420,7 @@
      "stations": [
       {
        "name": "FM Siempre Listen live",
+       "active": 0,
        "url": "https://radio.tvstream.cl/8104/server",
        "tags": [
         "rock",
@@ -392,6 +437,7 @@
      "stations": [
       {
        "name": "egoFM Live Listen live",
+       "active": 0,
        "url": "https://egofm-ais-edge-3005-fra-eco-cdn.cast.addradio.de/egofm/live/mp3/high/stream.mp3",
        "tags": [
         "soul_rnb_funk",
@@ -408,6 +454,7 @@
      "stations": [
       {
        "name": "Argentina vs France",
+       "active": 0,
        "url": "https://stream.zeno.fm/icol8dgum3huv",
        "language_inferred": true
       }
@@ -418,15 +465,18 @@
      "stations": [
       {
        "name": "QBS Radio 97.5",
+       "active": 0,
        "url": "https://622ea98e0a84c.streamlock.net/QBS/myStream/Playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "QBS Radio 97.5 FM",
+       "active": 0,
        "url": "http://89.211.63.14:1935/qbs/mp3:qbs/chunklist.m3u8"
       },
       {
        "name": "QN Radio - Qatar Nepal Internet Radio",
+       "active": 0,
        "url": "http://nebula.shoutca.st:8612",
        "tags": [
         "world",
@@ -435,6 +485,7 @@
       },
       {
        "name": "Radio Suno 91.7 Listen live",
+       "active": 0,
        "url": "https://20133.live.streamtheworld.com/SUNO917.mp3",
        "tags": [
         "news_talk",
@@ -444,19 +495,23 @@
       },
       {
        "name": "Sout Al-Khaleej",
+       "active": 0,
        "url": "https://icy-e-01-cr.sharp-stream.com/spectrum4.mp3",
        "language_inferred": true
       },
       {
        "name": "Sout Al-Khaleej 100.8 FM",
+       "active": 0,
        "url": "http://live.wostreaming.net/direct/ihorizonsradio-sakfmaac-ibc1"
       },
       {
        "name": "Sout Al-Khaleej 100.8 FM",
+       "active": 0,
        "url": "https://prod-35-197-88-50.wostreaming.net/ihorizonsradio-sakfmaac-ibc1"
       },
       {
        "name": "Urdu Radio",
+       "active": 0,
        "url": "https://wowzaprod134-i.akamaihd.net/hls/live/577826/4745c18c/playlist.m3u8"
       }
      ]
@@ -466,292 +521,352 @@
      "stations": [
       {
        "name": "038kolllihits",
+       "active": 0,
        "url": "https://stream.zeno.fm/wmz0tb63138uv"
       },
       {
        "name": "18.13 Bhadz online radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/6bh1gnboa4evv",
        "language_inferred": true
       },
       {
        "name": "21st century Vibes ( Rap + Hip/Hop)",
+       "active": 0,
        "url": "https://stream.zeno.fm/yyg1pscpua0uv",
        "language_inferred": true
       },
       {
        "name": "African Radio In Qatar",
+       "active": 0,
        "url": "https://stream.zeno.fm/s1vrs4wfxzzuv",
        "language_inferred": true
       },
       {
        "name": "AGORA RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/34zmxmd9huhvv",
        "language_inferred": true
       },
       {
        "name": "Ahmed FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/ev3y0yfa3hhvv",
        "language_inferred": true
       },
       {
        "name": "AL BIDDA",
+       "active": 0,
        "url": "https://stream.zeno.fm/u5yt9duw2a0uv",
        "language_inferred": true
       },
       {
        "name": "Al Jazeera (English)",
+       "active": 0,
        "url": "https://live-hls-audio-aje-ak.getaj.net/VOICE-AJE/index.m3u8"
       },
       {
        "name": "Al Jazeera Arabic",
+       "active": 0,
        "url": "http://66.226.10.51:8000/AljazeeraArabic"
       },
       {
        "name": "Al Jazeera English Radio Frequency Qatar",
+       "active": 0,
        "url": "https://live-hls-audio-apps-aje.getaj.net/VOICE-AJE/01.m3u8",
        "language_inferred": true
       },
       {
        "name": "Aljazeera Arabic",
+       "active": 0,
        "url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
        "rb": "5d9e440c-d634-4473-b56c-8f505ed33302"
       },
       {
        "name": "almhandi",
+       "active": 0,
        "url": "https://stream.zeno.fm/pnhpafwt6x8uv",
        "language_inferred": true
       },
       {
        "name": "avalum nanumfm",
+       "active": 0,
        "url": "https://stream.zeno.fm/vcs488rkka0uv",
        "language_inferred": true
       },
       {
        "name": "DJ Wizard Online Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/ncupc6h35c9uv",
        "language_inferred": true
       },
       {
        "name": "Doha music",
+       "active": 0,
        "url": "https://stream.zeno.fm/ixkfyupfjlsuv",
        "language_inferred": true
       },
       {
        "name": "Doha music",
+       "active": 0,
        "url": "https://stream.zeno.fm/hpcs5pvoodcuv",
        "language_inferred": true
       },
       {
        "name": "Doom666",
+       "active": 0,
        "url": "https://stream.zeno.fm/cqws7t20bf9uv",
        "language_inferred": true
       },
       {
        "name": "Dream For Life",
+       "active": 0,
        "url": "https://stream.zeno.fm/7ebkdt650phtv",
        "language_inferred": true
       },
       {
        "name": "EL MAMO PROUTICTION",
+       "active": 0,
        "url": "https://stream.zeno.fm/qkn45rmc0rhvv",
        "language_inferred": true
       },
       {
        "name": "FAME FM",
+       "active": 0,
        "url": "http://s1.viastreaming.net:9175/"
       },
       {
        "name": "FAME FM Qatar",
+       "active": 0,
        "url": "https://stream.zeno.fm/efm355q2ag0uv",
        "language_inferred": true
       },
       {
        "name": "FYouRadio",
+       "active": 0,
        "url": "https://stream.zeno.fm/t67c17nnffhvv",
        "language_inferred": true
       },
       {
        "name": "Golfo Radio 983 FM",
+       "active": 0,
        "url": "http://streaming.dinesat.com:7006/",
        "language_inferred": true
       },
       {
        "name": "Hola Qatar Radio",
+       "active": 0,
        "url": "http://640b79a5c9ef3.streamlock.net:1935/SPANISH/myStream/Playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "Holy Quran Radio Of Qatar",
+       "active": 0,
        "url": "http://wowzaprod134-i.akamaihd.net/hls/live/577826/63529851/playlist.m3u8"
       },
       {
        "name": "HYES FM – QA",
+       "active": 0,
        "url": "http://stream.zeno.fm/hw4bwe0kffhvv",
        "language_inferred": true
       },
       {
        "name": "ilayanilafm",
+       "active": 0,
        "url": "https://stream.zeno.fm/x4y8rrkuea0uv",
        "language_inferred": true
       },
       {
        "name": "ISLAHI RADIO 2",
+       "active": 0,
        "url": "https://stream.zeno.fm/3msc0wzhpchvv",
        "language_inferred": true
       },
       {
        "name": "J7S CREATION",
+       "active": 0,
        "url": "https://stream.zeno.fm/mxkh5bvydf9uv",
        "language_inferred": true
       },
       {
        "name": "Khutout Station",
+       "active": 0,
        "url": "https://stream.zeno.fm/udzmx78kzhhvv",
        "language_inferred": true
       },
       {
        "name": "Kimo hits",
+       "active": 0,
        "url": "https://stream.zeno.fm/87k12d44xnhvv",
        "language_inferred": true
       },
       {
        "name": "LUVBUTNP HOST 1011",
+       "active": 0,
        "url": "https://stream.zeno.fm/wfb19er8998uv",
        "language_inferred": true
       },
       {
        "name": "LUVMALNP HOST 1012",
+       "active": 0,
        "url": "https://stream.zeno.fm/xcqyfr8qbc9uv",
        "language_inferred": true
       },
       {
        "name": "LUVQNRQA HOST 1009",
+       "active": 0,
        "url": "https://stream.zeno.fm/gkh0qtz7fc9uv",
        "language_inferred": true
       },
       {
        "name": "LUVRESNP HOST 1010",
+       "active": 0,
        "url": "https://stream.zeno.fm/r0t4yer8998uv",
        "language_inferred": true
       },
       {
        "name": "M1 Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/wut0h5z81n6vv",
        "language_inferred": true
       },
       {
        "name": "MaxRP.",
+       "active": 0,
        "url": "https://stream.zeno.fm/wxnuc505rm0uv",
        "language_inferred": true
       },
       {
        "name": "MrNMrs_Smith",
+       "active": 0,
        "url": "https://stream.zeno.fm/ruj0frzsoactv",
        "language_inferred": true
       },
       {
        "name": "OGR-NP-BDOOF",
+       "active": 0,
        "url": "https://stream.zeno.fm/b54cykf8ay8uv",
        "language_inferred": true
       },
       {
        "name": "OGR-NP-HFBHB",
+       "active": 0,
        "url": "https://stream.zeno.fm/3gq0vzgsfy8uv",
        "language_inferred": true
       },
       {
        "name": "OGR-NP-LAMAN",
+       "active": 0,
        "url": "https://stream.zeno.fm/s9fzyv3eay8uv",
        "language_inferred": true
       },
       {
        "name": "OGR-NP-XHDOP",
+       "active": 0,
        "url": "https://stream.zeno.fm/dw5dw0dday8uv",
        "language_inferred": true
       },
       {
        "name": "ONLYY99",
+       "active": 0,
        "url": "https://stream.zeno.fm/4ksi3fzpgattv",
        "language_inferred": true
       },
       {
        "name": "ORG-NP-NGOGF",
+       "active": 0,
        "url": "https://stream.zeno.fm/kqf09hdfay8uv",
        "language_inferred": true
       },
       {
        "name": "Oryx FM راديو اوريكس أف أم – 94.0 FM – Doha – QA-DA",
+       "active": 0,
        "url": "https://622ea98e0a84c.streamlock.net/ORYX/myStream/Playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "Pinoy Heart Radio",
+       "active": 0,
        "url": "http://198.178.123.8:7710",
        "bitrate": 96,
        "logo": "http://radio.pervii.com/im/2/1550972232.jpg"
       },
       {
        "name": "pinoyofwstation",
+       "active": 0,
        "url": "https://stream.zeno.fm/mf3ny2r0qa0uv",
        "language_inferred": true
       },
       {
        "name": "Q Tamil Radio – Doha – QA-DA",
+       "active": 0,
        "url": "https://castcloud.pvtwebs.com/proxy/qtamilra?mp=/live",
        "language_inferred": true
       },
       {
        "name": "Qabayan Radio",
+       "active": 0,
        "url": "https://streamingv2.shoutcast.com/qabayan-radio"
       },
       {
        "name": "Qabayan Radio – 94.3 FM – Doha – QA-DA",
+       "active": 0,
        "url": "https://streamingv2.shoutcast.com/qabayan",
        "language_inferred": true
       },
       {
        "name": "Qatar Lanka Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/ol4uavvwdgauv",
        "language_inferred": true
       },
       {
        "name": "Qatar Radio إذاعة قطر",
+       "active": 0,
        "url": "https://640b79a5c9ef3.streamlock.net/QRS/myStream/chunklist_w1430080778.m3u8?n=9f3e99ea894e47bd15be"
       },
       {
        "name": "qatar974",
+       "active": 0,
        "url": "https://stream.zeno.fm/4fdbgk274v8uv",
        "language_inferred": true
       },
       {
        "name": "QBS Radio",
+       "active": 0,
        "url": "https://640b79a5c9ef3.streamlock.net/QBS/myStream/Playlist.m3u8?n=4480168cd448ac6cc6cd",
        "language_inferred": true
       },
       {
        "name": "QF Radio 91.7 (English)",
+       "active": 0,
        "url": "http://stream.qfradio.org.qa:1935/live/live.stream/playlist.m3u8"
       },
       {
        "name": "QF Radio 93.7 راديو مؤسسة قطر",
+       "active": 0,
        "url": "http://stream.qfradio.org.qa:1935/live-ar/live-ar.stream/playlist.m3u8"
       },
       {
        "name": "qqqhassan",
+       "active": 0,
        "url": "https://stream.zeno.fm/z3z94z9c408uv",
        "language_inferred": true
       },
       {
        "name": "Quran Radio 2",
+       "active": 0,
        "url": "https://qmclivestreaming.qa/QURAN2/myStream/Playlist.m3u8"
       },
       {
        "name": "Radio Olive 106.3",
+       "active": 0,
        "url": "https://21233.live.streamtheworld.com/OLIVE1063.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio Olive 106.3",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLIVE1063AAC.aac?n=20ddef789a3efb050ebb",
        "language_inferred": true,
        "rb": "51ab4907-8ff7-4149-885e-b332beeccb57",
@@ -759,138 +874,166 @@
       },
       {
        "name": "Radio Sout Al Khaleej FM",
+       "active": 0,
        "url": "https://prod-34-82-94-205.wostreaming.net/ihorizonsradio-sakfmaac-ibc1",
        "language_inferred": true
       },
       {
        "name": "Radio Suno Melody",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_SUNO_MELODY_S06_SC",
        "rb": "53ab2e7e-8ee4-4d04-9349-2b974d4dcff4",
        "logo": "https://radiosindia.com/images/radiosunokannada1.jpg"
       },
       {
        "name": "Radio_Amna",
+       "active": 0,
        "url": "https://stream.zeno.fm/9115ufyf0d0uv",
        "language_inferred": true
       },
       {
        "name": "Radionagai radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/63nkaqk24d0uv",
        "language_inferred": true
       },
       {
        "name": "rede brazil live Doha radio",
+       "active": 0,
        "url": "https://sonicpanel.oficialserver.com:7164/",
        "language_inferred": true
       },
       {
        "name": "Revolt 256",
+       "active": 0,
        "url": "https://stream.zeno.fm/gz24tum1h18uv",
        "language_inferred": true
       },
       {
        "name": "RV7 QATAR",
+       "active": 0,
        "url": "https://stream.zeno.fm/dlm6sv8eoaytv",
        "language_inferred": true
       },
       {
        "name": "Station CAnRa OGR",
+       "active": 0,
        "url": "https://stream.zeno.fm/1gyqxpyzra0uv",
        "language_inferred": true
       },
       {
        "name": "Station DGthK OGR",
+       "active": 0,
        "url": "https://stream.zeno.fm/hzd1ew4zra0uv",
        "language_inferred": true
       },
       {
        "name": "Station HtLUm OGR",
+       "active": 0,
        "url": "https://stream.zeno.fm/4mugen4pga0uv",
        "language_inferred": true
       },
       {
        "name": "Station JbLxD OGR",
+       "active": 0,
        "url": "https://stream.zeno.fm/0b47vekana0uv",
        "language_inferred": true
       },
       {
        "name": "Station kuZFl OGR",
+       "active": 0,
        "url": "https://stream.zeno.fm/9ff59nrusa0uv",
        "language_inferred": true
       },
       {
        "name": "Station RXnTh OGR",
+       "active": 0,
        "url": "https://stream.zeno.fm/xucy1w2nga0uv",
        "language_inferred": true
       },
       {
        "name": "Station XaTHv OGR",
+       "active": 0,
        "url": "https://stream.zeno.fm/d0y9ntrnga0uv",
        "language_inferred": true
       },
       {
        "name": "Stuffss",
+       "active": 0,
        "url": "https://stream.zeno.fm/iixny8eu8entv",
        "language_inferred": true
       },
       {
        "name": "Tamil quran",
+       "active": 0,
        "url": "https://stream.zeno.fm/h9rd9b3rmchvv",
        "language_inferred": true
       },
       {
        "name": "The six and the nine",
+       "active": 0,
        "url": "https://stream.zeno.fm/toup1fb6rl9vv",
        "language_inferred": true
       },
       {
        "name": "TILAWAT-E-QURAN",
+       "active": 0,
        "url": "https://stream.zeno.fm/gfwesn7k0hhvv",
        "language_inferred": true
       },
       {
        "name": "Transformation InforTech",
+       "active": 0,
        "url": "https://stream.zeno.fm/ndre9k5m4ehvv",
        "language_inferred": true
       },
       {
        "name": "Tzgospel swahili",
+       "active": 0,
        "url": "https://stream.zeno.fm/fg0qhkw9rchvv",
        "language_inferred": true
       },
       {
        "name": "Urdu Radio",
+       "active": 0,
        "url": "https://qmclivestreaming.qa/URDU/myStream/Playlist.m3u8"
       },
       {
        "name": "Urdu Radio – Doha – QA-DA",
+       "active": 0,
        "url": "https://622ea98e0a84c.streamlock.net/URDU/myStream/Playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "Uthamiyae FM Radio",
+       "active": 0,
        "url": "https://qmclivestreaming.qa/QRS/myStream/Playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "إذاعة الريان Al Rayyan",
+       "active": 0,
        "url": "http://msqbstreamer1.qatarbroadcast.qa:1935/HR03/RD03.stream/playlist.m3u8"
       },
       {
        "name": "إذاعة الريان Al Rayyan – 102.0 FM – Doha – QA-DA",
+       "active": 0,
        "url": "https://svs.itworkscdn.net/alrayyanradiolive/sawtrayyan/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "إذاعة القرأن الكريم",
+       "active": 0,
        "url": "http://52.178.28.223:1935/QURAN/myStream/Playlist.m3u8"
       },
       {
        "name": "حبايب اف ام",
+       "active": 0,
        "url": "http://188.166.95.19:8000/stream/"
       },
       {
        "name": "قناة الجزيرة",
+       "active": 0,
        "url": "https://live-hls-web-aja.getaj.net/AJA/06.m3u8",
        "rb": "244cf1a8-52d8-4e26-bf23-821a21129bbf",
        "logo": "https://www.aljazeera.net/favicon.ico"
@@ -907,6 +1050,7 @@
      "stations": [
       {
        "name": "Radio Suno",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUNO917_SC",
        "tags": [
         "news_talk",
@@ -925,6 +1069,7 @@
      "stations": [
       {
        "name": "Radio Malayalam 98.6",
+       "active": 0,
        "url": "http://vokcast.bluecast.in:8227/986fm",
        "tags": [
         "world",
@@ -939,14 +1084,17 @@
      "stations": [
       {
        "name": "ISLAHI RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/4w4ww7tgpchvv"
       },
       {
        "name": "WIWO Live Webcast",
+       "active": 0,
        "url": "https://stream.zeno.fm/9y7faphwbfhvv"
       },
       {
        "name": "YQRADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/1cfdt0n57p8uv"
       }
      ]
@@ -961,6 +1109,7 @@
      "stations": [
       {
        "name": "Radio Uthamiyae FM Listen live",
+       "active": 0,
        "url": "https://ssl.aloncast.com:1595",
        "tags": [
         "christian_gospel",
@@ -971,6 +1120,7 @@
       },
       {
        "name": "Sri India Tamil 81.98FM radio",
+       "active": 0,
        "url": "http://freeuk27.listen2myradio.com:11438/"
       }
      ]
@@ -980,14 +1130,17 @@
      "stations": [
       {
        "name": "Hello Machi FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/us6vf397f2zuv"
       },
       {
        "name": "Radio Suno Tamil",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_SUNO_TAMIL_S01AAC_SC"
       },
       {
        "name": "Uthamiyae FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/m8x88upxem8uv"
       }
      ]
@@ -1002,6 +1155,7 @@
      "stations": [
       {
        "name": "Al Jazeera Audio – English",
+       "active": 0,
        "url": "https://live-hls-audio-web-aje.getaj.net/VOICE-AJE/01.m3u8",
        "tags": [
         "news_talk",
@@ -1012,6 +1166,7 @@
       },
       {
        "name": "AlJazeera English Audio",
+       "active": 0,
        "url": "https://live-hls-audio-aje-ak.getaj.net/VOICE-AJE/01.m3u8"
       }
      ]
@@ -1021,6 +1176,7 @@
      "stations": [
       {
        "name": "Qatar Broadcasting Station (QBS)",
+       "active": 0,
        "url": "https://qmclivestreaming.qa/QBS/myStream/Playlist.m3u8"
       }
      ]
@@ -1035,6 +1191,7 @@
      "stations": [
       {
        "name": "GolfoRadio",
+       "active": 0,
        "url": "http://streaming.dinesat.com:7006/stream/"
       }
      ]
@@ -1044,6 +1201,7 @@
      "stations": [
       {
        "name": "Golfo Radio 98.3 FM",
+       "active": 0,
        "url": "https://radiov2.golforadio.com/stream",
        "tags": [
         "sports",
@@ -1061,6 +1219,7 @@
      "stations": [
       {
        "name": "Fire Destiny",
+       "active": 0,
        "url": "https://stream.zeno.fm/c53837nutzzuv"
       }
      ]
@@ -1075,6 +1234,7 @@
      "stations": [
       {
        "name": "Qatar Radio",
+       "active": 0,
        "url": "https://640b79a5c9ef3.streamlock.net/QRS/myStream/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -1083,6 +1243,7 @@
       },
       {
        "name": "URDU Radio",
+       "active": 0,
        "url": "http://52.178.28.223:1935/URDU/myStream/Playlist.m3u8",
        "tags": [
         "news_talk",
@@ -1102,6 +1263,7 @@
      "stations": [
       {
        "name": "ORYX Radio FM",
+       "active": 0,
        "url": "https://qmclivestreaming.qa/ORYX/myStream/Playlist.m3u8"
       }
      ]
@@ -1111,6 +1273,7 @@
      "stations": [
       {
        "name": "ORYX Radio",
+       "active": 0,
        "url": "https://640b79a5c9ef3.streamlock.net/ORYX/myStream/playlist.m3u8"
       }
      ]
@@ -1125,10 +1288,12 @@
      "stations": [
       {
        "name": "Rahmani Air",
+       "active": 0,
        "url": "https://stream.zeno.fm/9bt2en5k9bhvv"
       },
       {
        "name": "Rahmani P Air",
+       "active": 0,
        "url": "https://stream.zeno.fm/fw4fww5k9bhvv"
       }
      ]
@@ -1143,6 +1308,7 @@
      "stations": [
       {
        "name": "Habaieb FM radio",
+       "active": 0,
        "url": "http://188.166.95.19:8000/live_habaiebfm.mp3",
        "tags": [
         "soul_rnb_funk",
@@ -1164,6 +1330,7 @@
      "stations": [
       {
        "name": "Radio Olive 106.3 radio",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLIVE1063_SC",
        "tags": [
         "news_talk",
@@ -1186,6 +1353,7 @@
      "stations": [
       {
        "name": "Golfo Radio",
+       "active": 0,
        "url": "http://01.solumedia.com.ar:10061/"
       }
      ]
@@ -1200,6 +1368,7 @@
      "stations": [
       {
        "name": "Queen C.",
+       "active": 0,
        "url": "https://stream.zeno.fm/iuolwmaiqi6uv"
       }
      ]
@@ -1214,6 +1383,7 @@
      "stations": [
       {
        "name": "freefm.lk - Qatar Sinhala Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/lecjivuwu7btv"
       }
      ]

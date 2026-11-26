@@ -10,6 +10,7 @@
      "stations": [
       {
        "name": "Nexo FM Listen live",
+       "active": 0,
        "url": "https://stream.easynetwork.cl/radio/8060/nexofm",
        "tags": [
         "classical",
@@ -25,6 +26,7 @@
      "stations": [
       {
        "name": "Arctic Outpost AM1270",
+       "active": 0,
        "url": "https://radio.streemlion.com:3475/stream",
        "tags": [
         "jazz",
@@ -36,6 +38,7 @@
       },
       {
        "name": "Arctic Outpost AM1270 Listen live",
+       "active": 0,
        "url": "https://radio.streemlion.com:3715/server",
        "tags": [
         "rock",
@@ -52,6 +55,7 @@
      "stations": [
       {
        "name": "Radio Studio Verona Listen live",
+       "active": 0,
        "url": "https://nr6.newradio.it/proxy/rgelmett?mp=/stream&amp1589688331787",
        "tags": [
         "oldies",
@@ -66,6 +70,7 @@
      "stations": [
       {
        "name": "Activa FM Marina Alta - Norte Listen live",
+       "active": 0,
        "url": "https://stream.mediasector.es/radio/8000/activafm-marina-alta-norte.mp3",
        "tags": [
         "pop_hits",
@@ -75,6 +80,7 @@
       },
       {
        "name": "Batze FM Listen live",
+       "active": 0,
        "url": "https://stream.laut.fm/batzefm",
        "tags": [
         "pop_hits",
@@ -89,6 +95,7 @@
      "stations": [
       {
        "name": "AzuraTest Radio",
+       "active": 0,
        "url": "https://demo.azuracast.com/public/azuratest_radio/playlist.pls?n=a95e1650b37d22d79e1c",
        "language_inferred": true
       }

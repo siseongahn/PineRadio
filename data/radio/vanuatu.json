@@ -10,6 +10,7 @@
      "stations": [
       {
        "name": "Radio Universidad 92.1 FM Listen live",
+       "active": 0,
        "url": "https://stream.zenolive.com/xqbz7b86a0quv.aac",
        "tags": [
         "news_talk",
@@ -26,6 +27,7 @@
      "stations": [
       {
        "name": "Laif FM",
+       "active": 0,
        "url": "https://livessl.rcast.net/stream/65809"
       }
      ]
@@ -35,6 +37,7 @@
      "stations": [
       {
        "name": "Paradise 98 FM Listen live",
+       "active": 0,
        "url": "https://radio.vbtc.media/paradisefm",
        "tags": [
         "pop_hits",
@@ -49,6 +52,7 @@
      "stations": [
       {
        "name": "The People's Radio of Levski",
+       "active": 0,
        "url": "http://us1.streamingpulse.com:7058/stream",
        "language_inferred": true
       }
@@ -59,6 +63,7 @@
      "stations": [
       {
        "name": "Radio Gyrbeti",
+       "active": 0,
        "url": "http://www.bini-voice.at.vu",
        "country_inferred": true,
        "language_inferred": true
@@ -70,6 +75,7 @@
      "stations": [
       {
        "name": "Radio Estilo FM Listen live",
+       "active": 0,
        "url": "https://estilofm.tustreamings2.cl/server",
        "tags": [
         "latin",
@@ -84,6 +90,7 @@
      "stations": [
       {
        "name": "Buzz FM 96",
+       "active": 0,
        "url": "http://103.75.20.93:9999/",
        "tags": [
         "news_talk",
@@ -93,6 +100,7 @@
       },
       {
        "name": "Capital FM107",
+       "active": 0,
        "url": "http://s1.wohooo.net:8021/",
        "tags": [
         "news_talk",
@@ -104,11 +112,13 @@
       },
       {
        "name": "Capitol FM107",
+       "active": 0,
        "url": "http://s1.wohooo.net:9420/stream",
        "language_inferred": true
       },
       {
        "name": "Radio Mogán 107.8 FM Listen live",
+       "active": 0,
        "url": "https://streaming2.elitecomunicacion.es:8100/server",
        "language_inferred": true
       }
@@ -119,11 +129,13 @@
      "stations": [
       {
        "name": "Radio Bellissima Hits Listen live",
+       "active": 0,
        "url": "https://giorgia.radiobellissima.it/radio/8000/server",
        "language_inferred": true
       },
       {
        "name": "Station Beta, Port Vila radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/hyfdqxwjzy8vv",
        "language_inferred": true
       }
@@ -134,6 +146,7 @@
      "stations": [
       {
        "name": "DeluxFM Listen live",
+       "active": 0,
        "url": "https://s3streamingradio.desafiohosting.com:9022/server",
        "tags": [
         "rock",
@@ -143,6 +156,7 @@
       },
       {
        "name": "Nora 80er Listen live",
+       "active": 0,
        "url": "https://norawebstreams-stream23.radiohost.de/nora-80er_mp3-192",
        "tags": [
         "rock",
@@ -154,6 +168,7 @@
       },
       {
        "name": "The Rock FM97",
+       "active": 0,
        "url": "http://s1.wohooo.net:9416/stream/",
        "tags": [
         "oldies",
@@ -168,6 +183,7 @@
      "stations": [
       {
        "name": "Radio Vanuatu - VBTC Listen live",
+       "active": 0,
        "url": "https://radio.vbtc.media/radiovanuatu",
        "tags": [
         "soul_rnb_funk",
@@ -182,18 +198,21 @@
      "stations": [
       {
        "name": "FEMME FM Vanuatu",
+       "active": 0,
        "url": "http://radio.vbtc.vu:7000/femmefm",
        "country_inferred": true,
        "language_inferred": true
       },
       {
        "name": "Paradise FM Vanuatu",
+       "active": 0,
        "url": "http://radio.vbtc.vu:7000/paradisefm",
        "country_inferred": true,
        "language_inferred": true
       },
       {
        "name": "Radio Vanuatu",
+       "active": 0,
        "url": "http://radio.vbtc.vu:7000/radiovanuatu",
        "country_inferred": true,
        "language_inferred": true
@@ -205,21 +224,25 @@
      "stations": [
       {
        "name": "Alfa stereo radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/p9bm2zugmzzuv",
        "language_inferred": true
       },
       {
        "name": "Arafa Song On The Stones",
+       "active": 0,
        "url": "https://stream.zeno.fm/yj9sucbqwytvv",
        "language_inferred": true
       },
       {
        "name": "Femme Pawa 99FM – 99.0 FM – Port Vila – Shefa – VU",
+       "active": 0,
        "url": "https://radio.vbtc.media/femmefm",
        "language_inferred": true
       },
       {
        "name": "Radio LatinoMix",
+       "active": 0,
        "url": "https://stream.zeno.fm/u4twkmp2ag0uv"
       }
      ]
@@ -234,6 +257,7 @@
      "stations": [
       {
        "name": "96 Buzz FM",
+       "active": 0,
        "url": "https://streamer.dailypost.vu/live",
        "tags": [
         "news_talk",
@@ -247,6 +271,7 @@
       },
       {
        "name": "Radio Vanuatu",
+       "active": 0,
        "url": "http://radio.vbtc.media:7000/radiovanuatu",
        "tags": [
         "news_talk",
@@ -261,6 +286,7 @@
      "stations": [
       {
        "name": "Paradise FM Vanuatu",
+       "active": 0,
        "url": "http://radio.vbtc.media:7000/paradisefm",
        "tags": [
         "electronic",

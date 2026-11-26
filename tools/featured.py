@@ -32,7 +32,7 @@ def _dump(obj, path):
         json.dump(obj, f, ensure_ascii=False, indent=1)
 
 
-def apply(out):
+def apply(out, active_counts=None):
     index_path = os.path.join(out, "index.json")
     with open(index_path, encoding="utf-8") as f:
         index = json.load(f)
@@ -52,6 +52,7 @@ def apply(out):
 
         # take out earlier featured entries and anything at a featured address, remembering its genre
         old_genre = {}
+        old_active = {}
         rows = []  # (language, genre, record)
         for lang, lv in doc["languages"].items():
             for genre, gv in lv["genres"].items():
@@ -59,6 +60,7 @@ def apply(out):
                     key = norm_url(rec["url"])
                     if key in keys:
                         old_genre.setdefault(key, genre)
+                        old_active.setdefault(rec["url"], rec.get("active", 0))
                         continue
                     if rec.pop("featured", None) is not None:
                         continue
@@ -68,7 +70,7 @@ def apply(out):
         for rank, (url, name, attrs) in enumerate(picks, 1):
             name = name or url
             genre = attrs.get("pine-genre") or old_genre.get(norm_url(url)) or "unclassified"
-            rec = {"name": name, "url": url}
+            rec = {"name": name, "active": (active_counts or {}).get(url, old_active.get(url, 0)), "url": url}
             if attrs.get("tvg-logo"):
                 rec["logo"] = attrs["tvg-logo"]
             rec["featured"] = rank

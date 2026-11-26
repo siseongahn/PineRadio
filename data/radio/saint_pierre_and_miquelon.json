@@ -10,6 +10,7 @@
      "stations": [
       {
        "name": "Radio Atlantique",
+       "active": 0,
        "url": "https://s7.voscast.com:10433/stream.mp3",
        "tags": [
         "news_talk",
@@ -22,6 +23,7 @@
       },
       {
        "name": "Saint-Pierre et Miquelon la 1ère",
+       "active": 0,
        "url": "https://saint-pierreetmiquelon.ice.infomaniak.ch/saint-pierreetmiquelon-128.mp3",
        "tags": [
         "news_talk",
@@ -43,6 +45,7 @@
      "stations": [
       {
        "name": "94,3 rs2 - Weihnachten mit Gerlinde Listen live",
+       "active": 0,
        "url": "https://topradio-de-hz-fal-stream09-cluster01.radiohost.de/rs2-event_128",
        "tags": [
         "rock",
@@ -54,6 +57,7 @@
       },
       {
        "name": "Radio Archipel FM",
+       "active": 0,
        "url": "https://radioarchipelfm.ice.infomaniak.ch/radioarchipelfm-64.mp3",
        "tags": [
         "rock",
@@ -77,6 +81,7 @@
      "stations": [
       {
        "name": "Radio Mikayi Listen live",
+       "active": 0,
        "url": "https://freeuk7.listen2myradio.com/live.mp3?typeportmount=s1_32542_server",
        "language_inferred": true
       }

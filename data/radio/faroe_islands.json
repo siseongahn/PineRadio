@@ -10,6 +10,7 @@
      "stations": [
       {
        "name": "Lindin",
+       "active": 0,
        "url": "https://high.lindin.fo/",
        "tags": [
         "christian_gospel",
@@ -23,21 +24,25 @@
       },
       {
        "name": "Lindin",
+       "active": 0,
        "url": "https://low.lindin.fo/"
       },
       {
        "name": "Lindin Radio",
+       "active": 0,
        "url": "http://lindinhigh.stream.fo:8000/lindinhigh",
        "bitrate": 128,
        "logo": "http://radio.pervii.com/im/5/1572798615.jpg"
       },
       {
        "name": "PODAS NetVarp",
+       "active": 0,
        "url": "https://c13.radioboss.fm:18495/stream",
        "language_inferred": true
       },
       {
        "name": "SJEY - Kristiligt kringvarp",
+       "active": 0,
        "url": "https://lurta.sjey.fo/high_aac",
        "language_inferred": true,
        "rb": "c4f98f0d-b541-4585-b3b8-e6ed969dd609",
@@ -45,6 +50,7 @@
       },
       {
        "name": "Sjey radio",
+       "active": 0,
        "url": "http://lurta.sjey.fo:8080/high_aac",
        "tags": [
         "christian_gospel",
@@ -59,6 +65,7 @@
      "stations": [
       {
        "name": "1goundamani",
+       "active": 0,
        "url": "https://stream.zeno.fm/h72yud2e838uv",
        "language_inferred": true
       }
@@ -69,6 +76,7 @@
      "stations": [
       {
        "name": "KVF - Tingvarp",
+       "active": 0,
        "url": "http://netvarp.kringvarp.fo:443/tingvarp",
        "tags": [
         "news_talk",
@@ -78,6 +86,7 @@
       },
       {
        "name": "Løgtingið",
+       "active": 0,
        "url": "https://w2.kringvarp.fo/radio/_definst_/radio.stream/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -87,6 +96,7 @@
       },
       {
        "name": "R7 Kringvarp",
+       "active": 0,
        "url": "http://188.166.103.243:8085/r7_low.mp3",
        "tags": [
         "news_talk",
@@ -96,6 +106,7 @@
       },
       {
        "name": "R7 Kringvarp",
+       "active": 0,
        "url": "https://crs.webdesign-flash.ro/?q=http://lurta.r7.fo:8084/r7_high.mp3&plugin_id=7628&site_id=8520577",
        "tags": [
         "news_talk",
@@ -105,6 +116,7 @@
       },
       {
        "name": "Rás 2",
+       "active": 0,
        "url": "http://stream.midlar.fo/ras2",
        "tags": [
         "pop_hits",
@@ -120,11 +132,13 @@
      "stations": [
       {
        "name": "VoxPop",
+       "active": 0,
        "url": "http://stream.midlar.fo/voxpop-64",
        "language_inferred": true
       },
       {
        "name": "VoxPop Radio",
+       "active": 0,
        "url": "http://stream.midlar.fo/voxpop",
        "rb": "963cbfb8-0601-11e8-ae97-52543be04c81"
       }
@@ -135,6 +149,7 @@
      "stations": [
       {
        "name": "FM98,7",
+       "active": 0,
        "url": "http://srv.stream.fo:8000/high",
        "tags": [
         "pop_hits",
@@ -145,6 +160,7 @@
       },
       {
        "name": "Kringvarp Føroya",
+       "active": 0,
        "url": "http://netvarp.kringvarp.fo:443/uvhm",
        "tags": [
         "pop_hits",
@@ -163,6 +179,7 @@
      "stations": [
       {
        "name": "KVF 2",
+       "active": 0,
        "url": "http://netvarp.kringvarp.fo:443/radio2"
       }
      ]
@@ -172,76 +189,91 @@
      "stations": [
       {
        "name": "1santh_radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/ahasyfub938uv",
        "language_inferred": true
       },
       {
        "name": "Canal Paul Rodgers",
+       "active": 0,
        "url": "https://stream.zeno.fm/etwmtuvztm0uv",
        "language_inferred": true
       },
       {
        "name": "Chebo",
+       "active": 0,
        "url": "https://stream.zeno.fm/xccey2derc9uv",
        "language_inferred": true
       },
       {
        "name": "FM 98.7 – 98.7 FM – Klaksvík – Norðoyar – FO",
+       "active": 0,
        "url": "http://srv1.stream.fo:8000/high",
        "language_inferred": true
       },
       {
        "name": "Kringvarp Føroya Útvarp",
+       "active": 0,
        "url": "https://w2.kringvarp.fo/radio/_definst_/smil:radio-skip.smil/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "KVF2",
+       "active": 0,
        "url": "http://netvarp.kringvarp.fo:4443/kvf2_2?n=5b6dd480f247d9fde002",
        "rb": "028984e9-9ef1-490f-bb04-da88caeb6798"
       },
       {
        "name": "NextWeb Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/0prsab4dwa0uv",
        "language_inferred": true
       },
       {
        "name": "Nordic Spirit",
+       "active": 0,
        "url": "https://stream.zeno.fm/m06mp73e9e9uv",
        "language_inferred": true
       },
       {
        "name": "Odayr FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/f820tb9ruxhvv",
        "language_inferred": true
       },
       {
        "name": "Palitroque",
+       "active": 0,
        "url": "https://stream.zeno.fm/8a9qv1h9938uv",
        "language_inferred": true
       },
       {
        "name": "Pimporte 80s Mixed Radio HD",
+       "active": 0,
        "url": "https://stream.zeno.fm/td6vg2ygeuhvv",
        "language_inferred": true
       },
       {
        "name": "Radio Joni",
+       "active": 0,
        "url": "https://stream.zeno.fm/e4puu3y7td0uv",
        "language_inferred": true
       },
       {
        "name": "Radio Paikan",
+       "active": 0,
        "url": "https://stream.zeno.fm/u8ge1sfuhxhvv",
        "language_inferred": true
       },
       {
        "name": "Radionicki Prirucnik Imt 539",
+       "active": 0,
        "url": "https://stream.zeno.fm/8lftoud2blyuv",
        "language_inferred": true
       },
       {
        "name": "Rádio Aleluia Cascavel",
+       "active": 0,
        "url": "https://stream.zeno.fm/rtfghn7ewg0uv",
        "language_inferred": true
       }
@@ -257,6 +289,7 @@
      "stations": [
       {
        "name": "Sjey FM",
+       "active": 0,
        "url": "https://lurta.sjey.fo/high_mp3"
       }
      ]
@@ -266,6 +299,7 @@
      "stations": [
       {
        "name": "Hitstream dk",
+       "active": 0,
        "url": "http://78.156.123.142:8030/listen1",
        "tags": [
         "electronic",
@@ -279,6 +313,7 @@
      "stations": [
       {
        "name": "Kringvarp Føroya",
+       "active": 0,
        "url": "https://w1.kringvarp.fo/radio/_definst_/radio.stream/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -287,6 +322,7 @@
       },
       {
        "name": "Radio.fo",
+       "active": 0,
        "url": "https://streaming.radio.co/s4d14b9fcc/listen",
        "tags": [
         "news_talk",
@@ -308,6 +344,7 @@
      "stations": [
       {
        "name": "Stream.fo",
+       "active": 0,
        "url": "http://srv1.stream.fo:8000/netradio"
       }
      ]
@@ -322,6 +359,7 @@
      "stations": [
       {
        "name": "Tzgospel swahili",
+       "active": 0,
        "url": "https://stream.zeno.fm/ear2y17dgfhvv"
       }
      ]

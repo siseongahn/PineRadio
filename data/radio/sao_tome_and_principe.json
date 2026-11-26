@@ -10,16 +10,19 @@
      "stations": [
       {
        "name": "Radio Casa Real  48K",
+       "active": 0,
        "url": "http://212.83.138.48:8390/listen.pls",
        "language_inferred": true
       },
       {
        "name": "Tzgospel swahili (sao ) radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/g9rdh97f0hhvv",
        "language_inferred": true
       },
       {
        "name": "UMR Radio Stream",
+       "active": 0,
        "url": "http://37.59.28.208:8309/listen.pls",
        "language_inferred": true
       }
@@ -30,6 +33,7 @@
      "stations": [
       {
        "name": "Le AM1040 Montraal Quabec",
+       "active": 0,
        "url": "http://174.142.215.249:8860/",
        "language_inferred": true
       }
@@ -40,11 +44,13 @@
      "stations": [
       {
        "name": "Cumbrae Community Radio",
+       "active": 0,
        "url": "http://91.121.113.129:8671/listen.pls",
        "language_inferred": true
       },
       {
        "name": "Radio Somos Todos Primos",
+       "active": 0,
        "url": "http://s48.myradiostream.com:8000/listen.mp3",
        "tags": [
         "news_talk",
@@ -58,6 +64,7 @@
      "stations": [
       {
        "name": "Hitradio Buxtehude Listen live",
+       "active": 0,
        "url": "https://stream.hitradio-buxtehude.de/radiode/hitradio-buxtehude",
        "tags": [
         "pop_hits",
@@ -67,6 +74,7 @@
       },
       {
        "name": "Rnstp radio",
+       "active": 0,
        "url": "http://noasrv.caster.fm:10057/stream?type=.mp3",
        "language_inferred": true
       }
@@ -77,6 +85,7 @@
      "stations": [
       {
        "name": "Radio RnB Atlanta GA",
+       "active": 0,
        "url": "http://212.83.150.15:8951/listen.pls",
        "language_inferred": true
       }
@@ -87,6 +96,7 @@
      "stations": [
       {
        "name": "Rádio Fair Play São Tomé e Príncipe",
+       "active": 0,
        "url": "https://stream.zeno.fm/z6kdmhgwcmktv",
        "tags": [
         "sports",
@@ -101,6 +111,7 @@
      "stations": [
       {
        "name": "SHOUTcast Docs",
+       "active": 0,
        "url": "http://91.121.27.223:8000/listen.pls",
        "language_inferred": true
       }
@@ -111,6 +122,7 @@
      "stations": [
       {
        "name": "RDP África",
+       "active": 0,
        "url": "https://streaming-live.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8?DVR",
        "language_inferred": true
       }
@@ -121,15 +133,18 @@
      "stations": [
       {
        "name": "Radio principe online",
+       "active": 0,
        "url": "https://stream2.svrdedicado.org/8474/stream",
        "language_inferred": true
       },
       {
        "name": "RDP África Moçambique",
+       "active": 0,
        "url": "http://radios.vpn.sapo.pt/MZ/radio16.mp3"
       },
       {
        "name": "RNSTP",
+       "active": 0,
        "url": "http://freeuk24.listen2myradio.com:18671/",
        "language_inferred": true
       }

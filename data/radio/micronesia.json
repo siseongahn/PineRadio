@@ -10,10 +10,12 @@
      "stations": [
       {
        "name": "Radio Cultural TGN 100.5",
+       "active": 0,
        "url": "https://node-27.zeno.fm/rp122w6cqueuv"
       },
       {
        "name": "Uncion FM - 104.5 FM - XHATV-FM - Álamo Temapache, VE",
+       "active": 0,
        "url": "https://stream1.305stream.com/proxy/client238?mp=/"
       }
      ]
@@ -23,6 +25,7 @@
      "stations": [
       {
        "name": "Éxtasis Digital (Cuernavaca) - 107.7 FM - XHASM-FM - Radiorama - Cuernava, MO",
+       "active": 0,
        "url": "https://server3.sit-mexico.com:2199/proxy/grupobp?mp=/",
        "tags": [
         "decade_80s",
@@ -39,6 +42,7 @@
      "stations": [
       {
        "name": "Exa FM Guatemala",
+       "active": 0,
        "url": "http://media.profesionalhosting.com:8151/stream.m3u",
        "tags": [
         "latin",
@@ -52,6 +56,7 @@
       },
       {
        "name": "La Grande 99.3",
+       "active": 0,
        "url": "https://node-06.zeno.fm/f1bgph3ve0quv",
        "tags": [
         "latin",
@@ -61,6 +66,7 @@
       },
       {
        "name": "Mas Flo - 107.7 FM - XHRST-FM - MLC Media - Tijuana, BC",
+       "active": 0,
        "url": "http://s1.audiorama.mx:6600/",
        "tags": [
         "latin",
@@ -71,6 +77,7 @@
       },
       {
        "name": "Radio UV (Xalapa) - 90.5 FM - XHRUV-FM - UV (Universidad Veracruzana) - Xalapa, VE",
+       "active": 0,
        "url": "https://58fe359775f31.streamlock.net/radioice/radioice.stream/chunklist_w803628781.m3u8",
        "tags": [
         "college_community",
@@ -80,20 +87,24 @@
       },
       {
        "name": "RCG Radio (Ciudad Acuña) - 105.1 FM - XHRCG-FM - RCG Media - Ciudad Acuña, Coahuila",
+       "active": 0,
        "url": "https://radio.rcg.com.mx:7006/"
       },
       {
        "name": "Sabambú FM - 88.8 FM - Garzón, Huila",
+       "active": 0,
        "url": "https://mediacp15.rootservers.co:8024/live?ver=933449"
       },
       {
        "name": "Vive (Morelia) - 106.1 FM - XHSCCN-FM - Morelia, Michoacán",
+       "active": 0,
        "url": "https://www.radiohosting.online/stream/?puerto=8534",
        "rb": "b9e574ee-9cfd-44dc-9d52-95d85154a28b",
        "logo": "https://static.wixstatic.com/media/dae8ca_09986346f24c43b79ade86ffa143ed3f~mv2.png/v1/fill/w_206,h_103,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/n.png"
       },
       {
        "name": "Éxtasis Digital (Tuxtla) - 103.5 FM - XHTUG-FM - Grupo Radio Comunicacion - Tuxtla Gutiérrez, Chiapas",
+       "active": 0,
        "url": "https://freepi.host:9103/stream",
        "tags": [
         "decade_90s",
@@ -112,10 +123,12 @@
      "stations": [
       {
        "name": "Emisoras Unidas 89.7",
+       "active": 0,
        "url": "https://node-34.zeno.fm/eypgq8m08wquv"
       },
       {
        "name": "Super TK (Tecate) - 88.5 FM - XHKT-FM - California Medios - Tecate, BC",
+       "active": 0,
        "url": "https://s5.mexside.net:8330/stream"
       }
      ]
@@ -125,6 +138,7 @@
      "stations": [
       {
        "name": "Exa FM Honduras",
+       "active": 0,
        "url": "https://node-31.zeno.fm/fy0fhgp937zuv",
        "tags": [
         "pop_hits",
@@ -136,6 +150,7 @@
       },
       {
        "name": "Radio Stars 98.5 FM & DAB+ (Belgium)",
+       "active": 0,
        "url": "http://ks393340.kimsufi.com:8000/RadioStars-Ant",
        "tags": [
         "various_eclectic",
@@ -146,6 +161,7 @@
       },
       {
        "name": "Station Beta, Weno radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/s7p9kob7zn2vv",
        "language_inferred": true
       }
@@ -156,84 +172,101 @@
      "stations": [
       {
        "name": "Bidx",
+       "active": 0,
        "url": "http://stream5.vestaradio.com:8091/Bidx",
        "language_inferred": true
       },
       {
        "name": "Canela Radio - 94.5 FM",
+       "active": 0,
        "url": "http://canelaradio.makrodigital.com:9230/stream",
        "language_inferred": true
       },
       {
        "name": "FM Esperanza 107.1 - Maquinista Savio",
+       "active": 0,
        "url": "https://streaming.evolucionstreaming.com:10966/stream?icy=http"
       },
       {
        "name": "Fm Fuego en HQ",
+       "active": 0,
        "url": "http://mediapanel.siglocero.net:8004/stream",
        "language_inferred": true
       },
       {
        "name": "FM LVO 88.7 MHZ",
+       "active": 0,
        "url": "http://streaming6.locucionar.com:24366/stream",
        "language_inferred": true
       },
       {
        "name": "Malecón FM (Puerto Vallarta) - 88.7 FM - XHPECR-FM - Puerto Vallarta, JC",
+       "active": 0,
        "url": "https://sp3.servidorrprivado.com:10795/"
       },
       {
        "name": "MY FM TX STREAM",
+       "active": 0,
        "url": "http://listen.hitz983.com:80/fm-tx",
        "language_inferred": true
       },
       {
        "name": "Radio Naranjal",
+       "active": 0,
        "url": "http://streamingecuador.com:7004/stream",
        "language_inferred": true
       },
       {
        "name": "RADIO PARAISO FM CERRO NAVIA",
+       "active": 0,
        "url": "http://centova.streaming-chile.com:8180/live",
        "language_inferred": true
       },
       {
        "name": "Radio16976",
+       "active": 0,
        "url": "http://stream5.vestaradio.com:8091/Radio16976",
        "language_inferred": true
       },
       {
        "name": "Radio48547",
+       "active": 0,
        "url": "http://stream5.vestaradio.com:8091/Radio48547",
        "language_inferred": true
       },
       {
        "name": "RadioMRV",
+       "active": 0,
        "url": "http://stream.vestaradio.com:8091/RadioMRV",
        "language_inferred": true
       },
       {
        "name": "RADIOVALDOR",
+       "active": 0,
        "url": "http://stream3.vestaradio.com:8091/RADIOVALDOR",
        "language_inferred": true
       },
       {
        "name": "RCMSATELITE",
+       "active": 0,
        "url": "http://stream.vestaradio.com:8091/RCMSATELITE",
        "language_inferred": true
       },
       {
        "name": "RTVFM",
+       "active": 0,
        "url": "http://stream.vestaradio.com:8091/RTVFM",
        "language_inferred": true
       },
       {
        "name": "SENAL LITUECHE 97.9 FM",
+       "active": 0,
        "url": "http://5.9.65.9:8048/litueche",
        "language_inferred": true
       },
       {
        "name": "SENAL PAREDONES 94.7 FM",
+       "active": 0,
        "url": "http://5.9.65.9:8062/paredones",
        "language_inferred": true
       }
@@ -249,10 +282,12 @@
      "stations": [
       {
        "name": "Radio RKS",
+       "active": 0,
        "url": "http://rocket.streamradio.fr:18036/stream"
       },
       {
        "name": "RADIO VALLESPIR",
+       "active": 0,
        "url": "http://stream.vestaradio.com:8091/Radio-Vallespir"
       }
      ]
@@ -267,6 +302,7 @@
      "stations": [
       {
        "name": "Bible Baptist Radio Chuuk",
+       "active": 0,
        "url": "https://streaming.radio.co/s25a6afba9/listen"
       }
      ]
@@ -281,6 +317,7 @@
      "stations": [
       {
        "name": "Rádio Difusora Laguna 91,5 FM",
+       "active": 0,
        "url": "http://eventials-i.akamaihd.net/hls/live/746370/zfty8dmscvbgjfjd/playlist.m3u8"
       }
      ]
@@ -295,6 +332,7 @@
      "stations": [
       {
        "name": "FMゆきぐに",
+       "active": 0,
        "url": "http://musicbird-hls.leanstream.co/musicbird/JCB054.stream/playlist.m3u8?args=web_03\\u0026uid=3474de13-790c-4ff9-934f-ce91bb896d70"
       }
      ]
