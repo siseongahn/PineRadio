@@ -29,6 +29,8 @@ https://m-aac.cbs.co.kr/cbs939/_definst_/cbs939.stream/playlist.m3u8
 https://m-aac.cbs.co.kr/mweb_cbscmc/_definst_/cbscmc.stream/playlist.m3u8
 #EXTINF:-1 group-title="Korea" pine-genre="news_talk",EBS FM
 https://ebsonair.ebs.co.kr/fmradiofamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="Korea" pine-genre="news_talk" pine-replaces="http://new_iradio.ebs.co.kr/iradio/iradiolive_m4a/playlist.m3u8 http://new_iradio.ebs.co.kr:1935/iradio/iradiolive_m4a/playlist.m3u8",EBS 외국어 라디오 (i-radio)
+https://ebsonair.ebs.co.kr/cloud1/iradio/playlist.m3u8
 #EXTINF:-1 group-title="Korea" pine-genre="news_talk",YTN 라디오
 https://radiolive.ytn.co.kr/radio/_definst_/20211118_fmlive/playlist.m3u8
 #EXTINF:-1 group-title="Korea" pine-genre="news_talk",TBS FM 95.1

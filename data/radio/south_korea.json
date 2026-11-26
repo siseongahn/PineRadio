@@ -1,9 +1,9 @@
 {
  "country": "South Korea",
- "count": 499,
+ "count": 498,
  "languages": {
   "Korean": {
-   "count": 470,
+   "count": 469,
    "genres": {
     "alternative_indie": {
      "count": 3,
@@ -344,7 +344,7 @@
        "name": "극동방송 서울 106.9",
        "active": 1,
        "url": "http://mlive2.febc.net:1935/live/seoulfm/playlist.m3u8",
-       "featured": 24,
+       "featured": 25,
        "rb": "a5e6a0b8-b68e-4931-80c6-1861299fad86"
       },
       {
@@ -523,7 +523,7 @@
        "name": "마포FM",
        "active": 1,
        "url": "http://115.85.182.39/mapofm?type=.mp3",
-       "featured": 28,
+       "featured": 29,
        "rb": "875ed109-2dd2-47e4-b9b3-3fd10ca3d8ba"
       }
      ]
@@ -1324,11 +1324,6 @@
        "logo": "http://www.cpbc.co.kr/favicon.ico"
       },
       {
-       "name": "EBS",
-       "active": 0,
-       "url": "http://new_iradio.ebs.co.kr/iradio/iradiolive_m4a/playlist.m3u8"
-      },
-      {
        "name": "EBS FM",
        "active": 1,
        "url": "https://ebsonair.ebs.co.kr/fmradiofamilypc/familypc1m/playlist.m3u8",
@@ -1370,6 +1365,12 @@
        "active": 1,
        "url": "http://ebsonairios.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8",
        "rb": "323d45ac-e429-11e8-a9cc-52543be04c81"
+      },
+      {
+       "name": "EBS 외국어 라디오 (i-radio)",
+       "active": 1,
+       "url": "https://ebsonair.ebs.co.kr/cloud1/iradio/playlist.m3u8",
+       "featured": 14
       },
       {
        "name": "FM 95.1 TBS fm",
@@ -1726,7 +1727,7 @@
        "active": 1,
        "url": "https://vod3.obs.co.kr:444/live/obsstream1/radio.stream/playlist.m3u8",
        "logo": "https://play-lh.googleusercontent.com/EQd7zsUgIsdtDSAldbre7DT0V2vsW-As6J51zcMnfycMpyJRgFIO311XvDExg-g-TA=w480-h960",
-       "featured": 21,
+       "featured": 22,
        "rb": "c60ab0ce-723c-43a9-85a4-ff544710f27f"
       },
       {
@@ -1910,14 +1911,14 @@
        "name": "TBN 경인교통방송",
        "active": 1,
        "url": "http://radio2.tbn.or.kr:1935/gyeongin/myStream/playlist.m3u8",
-       "featured": 18,
+       "featured": 19,
        "rb": "f9ab75ae-a4ce-440a-8b29-1dab8ba76f5c"
       },
       {
        "name": "TBN 울산교통방송",
        "active": 1,
        "url": "http://radio2.tbn.or.kr:1935/ulsan/myStream/playlist.m3u8",
-       "featured": 19,
+       "featured": 20,
        "rb": "6240924d-bc3a-4cd6-8e09-399dbdeb0a36"
       },
       {
@@ -1955,7 +1956,7 @@
        "name": "TBS FM 95.1",
        "active": 1,
        "url": "https://cdnfm.tbs.seoul.kr/tbs/_definst_/tbs_fm_web_360.smil/chunklist.m3u8",
-       "featured": 15,
+       "featured": 16,
        "rb": "6ad5927a-7ef7-456c-ad54-059873ff9f28",
        "logo": "https://zuiai.tv/zb_users/upload/2026/3/2026030564925917_mini.jpg"
       },
@@ -2013,7 +2014,7 @@
        "name": "YTN 라디오",
        "active": 1,
        "url": "https://radiolive.ytn.co.kr/radio/_definst_/20211118_fmlive/playlist.m3u8",
-       "featured": 14,
+       "featured": 15,
        "rb": "10fbdfdd-2a6f-49fb-a035-8963c57f52e8"
       },
       {
@@ -2026,14 +2027,14 @@
        "name": "경인방송 iFM",
        "active": 1,
        "url": "https://stream.ifm.kr/live/aod1/playlist.m3u8",
-       "featured": 20,
+       "featured": 21,
        "rb": "d9db0a16-9100-4917-b5f5-bd48a42a1e70"
       },
       {
        "name": "국방FM",
        "active": 1,
        "url": "https://mediaworks.dema.mil.kr/live_edge/audio.sdp/playlist.m3u8",
-       "featured": 22,
+       "featured": 23,
        "rb": "3df9fa02-ae92-4423-8f01-e007129c00ee"
       },
       {
@@ -2300,7 +2301,7 @@
        "active": 1,
        "url": "http://211.33.246.4:32954/radio_fm/myStream.sdp/playlist.m3u8",
        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpfZhAjmDC9Q6KIOILQiRnGR7_KpXwJ_RwArzYCNVwPg&s=10",
-       "featured": 26,
+       "featured": 27,
        "rb": "c6526df4-0e1f-4f95-baea-3483f8ca7bf1"
       },
       {
@@ -2418,7 +2419,7 @@
        "name": "안동MBC FM4U",
        "active": 1,
        "url": "https://live.andongmbc.co.kr/live/fmlive/playlist.m3u8",
-       "featured": 25,
+       "featured": 26,
        "rb": "b2b7599e-16b9-4225-9ffa-263b0cb541a6"
       }
      ]
@@ -2870,7 +2871,7 @@
        "name": "국악방송",
        "active": 1,
        "url": "https://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/playlist.m3u8",
-       "featured": 17,
+       "featured": 18,
        "rb": "2f47d2d9-ac17-49cd-9e1c-b5b295800e37"
       },
       {
@@ -2921,7 +2922,7 @@
      ]
     },
     "unclassified": {
-     "count": 116,
+     "count": 115,
      "stations": [
       {
        "name": "AFN The Eagle Osan",
@@ -3058,11 +3059,6 @@
        "active": 1,
        "url": "https://ebsonair.ebs.co.kr/fmradiofamilypc/familypc1m/chunklist.m3u8",
        "language_inferred": true
-      },
-      {
-       "name": "EBS 외국어 라디오 (i-radio)",
-       "active": 0,
-       "url": "http://new_iradio.ebs.co.kr:1935/iradio/iradiolive_m4a/playlist.m3u8"
       },
       {
        "name": "Emotional music with a cup of coffee",
@@ -3649,7 +3645,7 @@
        "name": "TBS eFM 101.3",
        "active": 1,
        "url": "https://cdnefm.tbs.seoul.kr/tbs/_definst_/tbs_efm_web_360.smil/chunklist.m3u8",
-       "featured": 16,
+       "featured": 17,
        "rb": "e89958f1-bc76-44fe-b681-841b5ec4ceae",
        "logo": "https://zuiai.tv/zb_users/upload/2026/3/2026030564925917_mini.jpg"
       },
@@ -3662,7 +3658,7 @@
        "name": "부산 BeFM 90.5",
        "active": 1,
        "url": "http://befm905.live.smilecdn.com:1935/befm905_live/live/playlist.m3u8",
-       "featured": 27,
+       "featured": 28,
        "rb": "0cbefa4e-77f0-4b98-bfdf-37a32aeb0c8b"
       },
       {
@@ -3670,7 +3666,7 @@
        "active": 1,
        "url": "http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
        "logo": "https://www.arirang.com/favicon.ico",
-       "featured": 23,
+       "featured": 24,
        "rb": "dad75d66-3246-434f-b16c-83854fe573a0"
       }
      ]

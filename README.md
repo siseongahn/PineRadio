@@ -125,7 +125,7 @@ deploy/
 
 The `bitrate`, `logo`, `tags`, `country_inferred` and `language_inferred` fields are optional, and so are `featured` (rank in `tools/featured/*.m3u`) and `rb` (Radio Browser station id).
 
-Featured entries can specify `pine-replaces="<old URL>"` to remove an obsolete address during every rebuild. Reapplying featured lists preserves existing station metadata at unchanged URLs.
+Featured entries can specify `pine-replaces="<old URL>"` to remove obsolete addresses during every rebuild (separate multiple URLs with spaces). Reapplying featured lists preserves existing station metadata at unchanged URLs.
 
 ### Audiobook file format
 

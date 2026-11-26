@@ -11,7 +11,7 @@ Per-entry #EXTINF attributes:
                              GENRE_OVERRIDES in build_stations.py still applies on top
   pine-language="English"    language (default: the country's largest language)
   tvg-logo="https://…"       logo
-  pine-replaces="http://…"  obsolete station address to remove on every rebuild
+  pine-replaces="http://…"  obsolete station addresses (space-separated) to remove on every rebuild
 
 build_stations.py runs this after every rebuild. To apply list changes without a rebuild:
   python3 -I tools/featured.py data
@@ -50,7 +50,7 @@ def apply(out, active_counts=None):
             doc = json.load(f)
         picks = [(url, name, attrs) for url, name, attrs in parse_m3u(m3u)]
         keys = {norm_url(url) for url, _, _ in picks}
-        keys.update(norm_url(attrs["pine-replaces"]) for _, _, attrs in picks if attrs.get("pine-replaces"))
+        keys.update(norm_url(old) for _, _, attrs in picks for old in attrs.get("pine-replaces", "").split())
 
         # take out earlier featured entries and anything at a featured address, remembering its genre
         old_genre = {}
