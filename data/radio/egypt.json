@@ -10,6 +10,7 @@
      "stations": [
       {
        "name": "Radio 6060 FM",
+       "active": 0,
        "url": "https://streamingv2.shoutcast.com/6060fm",
        "tags": [
         "ambient_relax",
@@ -25,6 +26,7 @@
      "stations": [
       {
        "name": "Can You Feel The Music",
+       "active": 0,
        "url": "http://streaming.radionomy.com/Canyoufeelthemusic",
        "tags": [
         "blues",
@@ -41,6 +43,7 @@
      "stations": [
       {
        "name": "SRK Online Radio",
+       "active": 0,
        "url": "http://node-34.zeno.fm/a69txeenvzzuv",
        "tags": [
         "pop_hits",
@@ -55,6 +58,7 @@
      "stations": [
       {
        "name": "Extreme Deep House",
+       "active": 0,
        "url": "http://5.9.140.203:14113/stream",
        "tags": [
         "chillout_lounge",
@@ -70,6 +74,7 @@
      "stations": [
       {
        "name": "Abdulrahman Alsudaes Radio",
+       "active": 0,
        "url": "http://live.mp3quran.net:9988",
        "tags": [
         "christian_gospel",
@@ -78,15 +83,18 @@
       },
       {
        "name": "Al Malak Church - Radio Shabab Al Malak",
+       "active": 0,
        "url": "http://almalakradio.out.airtime.pro:8000/almalakradio_a"
       },
       {
        "name": "AlsiragRadio",
+       "active": 0,
        "url": "http://serv02.streamsfortheworld.com:8000/alsirag_hi",
        "language_inferred": true
       },
       {
        "name": "Arabic Christian Radio الراديو العربي المسيحي",
+       "active": 0,
        "url": "https://i7.streams.ovh/sc/hoperad2/stream",
        "tags": [
         "christian_gospel",
@@ -95,11 +103,13 @@
       },
       {
        "name": "Better life Radio",
+       "active": 0,
        "url": "https://www.liveradio.es/http://n06.radiojar.com:80/8m2a8m9ymy5tv",
        "language_inferred": true
       },
       {
        "name": "BetterLife Radio",
+       "active": 0,
        "url": "https://stream.radiojar.com/8m2a8m9ymy5tv",
        "tags": [
         "christian_gospel",
@@ -108,46 +118,57 @@
       },
       {
        "name": "Call to Salvation Radio",
+       "active": 0,
        "url": "http://s8.streammonster.com:8218/"
       },
       {
        "name": "Ch-Joy Radio",
+       "active": 0,
        "url": "http://38.135.36.124:7092/"
       },
       {
        "name": "Copt4G Church",
+       "active": 0,
        "url": "http://66.70.249.70:5736/"
       },
       {
        "name": "Copt4G Coptic - Voice Radio",
+       "active": 0,
        "url": "http://66.70.249.70:5832/stream.mp3"
       },
       {
        "name": "Copt4G FM (For Meditation)",
+       "active": 0,
        "url": "http://66.70.249.70:5784/stream.mp3"
       },
       {
        "name": "Copt4G FM – Akbat Al’alam Radio",
+       "active": 0,
        "url": "http://66.70.249.70:5828/stream"
       },
       {
        "name": "Copt4G FM – Meditation",
+       "active": 0,
        "url": "http://66.70.249.70:5784/stream"
       },
       {
        "name": "Copt4G Sermons",
+       "active": 0,
        "url": "http://66.70.249.70:5832/"
       },
       {
        "name": "Copt4G Taranim 24/7",
+       "active": 0,
        "url": "http://38.135.36.123:10235/"
       },
       {
        "name": "Coptic Voice Radio",
+       "active": 0,
        "url": "http://50.7.71.27:9437"
       },
       {
        "name": "ERTU - راديو القرآن الكريم",
+       "active": 0,
        "url": "https://stream.radiojar.com/8s5u5tpdtwzuv",
        "tags": [
         "christian_gospel",
@@ -158,6 +179,7 @@
       },
       {
        "name": "ERTU Al Quran Al Kareem (إداعة القرآن الكريم)",
+       "active": 0,
        "url": "http://66.45.232.131:9994/stream.mp3",
        "tags": [
         "christian_gospel",
@@ -166,10 +188,12 @@
       },
       {
        "name": "JesusToday Radio",
+       "active": 0,
        "url": "http://136.0.16.54:8000/"
       },
       {
        "name": "MP3 Quran - E'zat Abdelbari Al-Toubayti",
+       "active": 0,
        "url": "http://live.mp3quran.net:9870",
        "tags": [
         "christian_gospel",
@@ -178,6 +202,7 @@
       },
       {
        "name": "MP3 Quran - E'zat Abdul Aziz Al-Ahmad",
+       "active": 0,
        "url": "http://live.mp3quran.net:9862",
        "tags": [
         "christian_gospel",
@@ -186,6 +211,7 @@
       },
       {
        "name": "MP3 Quran - E'zat Abdul-Hadi Kanakeri",
+       "active": 0,
        "url": "http://live.mp3quran.net:9850",
        "tags": [
         "christian_gospel",
@@ -194,6 +220,7 @@
       },
       {
        "name": "MP3 Quran - E'zat Abdul-Mohsin Al-Harthy",
+       "active": 0,
        "url": "http://live.mp3quran.net:9856",
        "tags": [
         "christian_gospel",
@@ -202,10 +229,12 @@
       },
       {
        "name": "MP3 Quran - E'zat Abdul-Mohsin Al-Obaikan",
+       "active": 0,
        "url": "http://live.mp3quran.net:9854"
       },
       {
        "name": "MP3 Quran - E'zat Abdul-Mohsin Al-Qasim",
+       "active": 0,
        "url": "http://live.mp3quran.net:9852",
        "tags": [
         "christian_gospel",
@@ -214,6 +243,7 @@
       },
       {
        "name": "MP3 Quran - E'zat Abdul-Rashid Soufi",
+       "active": 0,
        "url": "http://live.mp3quran.net:9866",
        "tags": [
         "christian_gospel",
@@ -222,6 +252,7 @@
       },
       {
        "name": "MP3 Quran - E'zat Abdul-Rashid Soufi Riwayat Khalaf An Hamzah",
+       "active": 0,
        "url": "http://live.mp3quran.net:9864",
        "tags": [
         "christian_gospel",
@@ -230,6 +261,7 @@
       },
       {
        "name": "MP3 Quran - E'zat Abdul-Waddood Haneef",
+       "active": 0,
        "url": "http://live.mp3quran.net:9848",
        "tags": [
         "christian_gospel",
@@ -238,27 +270,33 @@
       },
       {
        "name": "MP3 Quran - E'zat Abdulbaset Abdulsamad with Ibrahim Walkar English",
+       "active": 0,
        "url": "http://live.mp3quran.net:9746"
       },
       {
        "name": "MP3 Quran - E'zat AbdulBaset AbdulSamad with Naeem Sultan Pickthall English",
+       "active": 0,
        "url": "http://live.mp3quran.net:9748"
       },
       {
        "name": "MP3 Quran - E'zat Abdulbasit Abdulsamad (Warsh A`n Naf`i)",
+       "active": 0,
        "url": "http://live.mp3quran.net:9956"
       },
       {
        "name": "MP3 Quran - E'zat Abdulbasit Abdulsamad Italian",
+       "active": 0,
        "url": "http://live.mp3quran.net:9740"
       },
       {
        "name": "MP3 Quran - E'zat Abdulbasit Abdulsamad Urdu",
+       "active": 0,
        "url": "http://live.mp3quran.net:9752",
        "rb": "a2d26639-cddd-4d4e-8a9f-028f9a22ddc4"
       },
       {
        "name": "MP3 Quran - E'zat Abdullah Al-Johany",
+       "active": 0,
        "url": "http://live.mp3quran.net:9944",
        "tags": [
         "christian_gospel",
@@ -267,6 +305,7 @@
       },
       {
        "name": "MP3 Quran - E'zat Abdullah Al-Kandari",
+       "active": 0,
        "url": "http://live.mp3quran.net:9860",
        "tags": [
         "christian_gospel",
@@ -275,6 +314,7 @@
       },
       {
        "name": "MP3 Quran - E'zat Abdullah Al-Mattrod",
+       "active": 0,
        "url": "http://live.mp3quran.net:9858",
        "tags": [
         "christian_gospel",
@@ -283,30 +323,37 @@
       },
       {
        "name": "MP3 Quran - E'zat Abdullah Basfer",
+       "active": 0,
        "url": "http://live.mp3quran.net:9954"
       },
       {
        "name": "MP3 Quran - E'zat Abdullah Basfer English",
+       "active": 0,
        "url": "http://live.mp3quran.net:9754/"
       },
       {
        "name": "MP3 Quran - E'zat Abdullah Bsfr Albani",
+       "active": 0,
        "url": "http://live.mp3quran.net:9734/"
       },
       {
        "name": "MP3 Quran - E'zat Abdullah Bsfr Greek Yunani Translation",
+       "active": 0,
        "url": "http://live.mp3quran.net:9732/"
       },
       {
        "name": "MP3 Quran - E'zat Abdullah Khayyat",
+       "active": 0,
        "url": "http://live.mp3quran.net:9948"
       },
       {
        "name": "Mse7y Radio",
+       "active": 0,
        "url": "http://stream18.shoutcastsolutions.com:8687/1"
       },
       {
        "name": "Muhammad Siddiq Al-Minshawi",
+       "active": 0,
        "url": "https://qurango.net/radio/mohammed_siddiq_alminshawi",
        "tags": [
         "christian_gospel",
@@ -317,6 +364,7 @@
       },
       {
        "name": "Quran live radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/ru2hqnplhk7uv",
        "tags": [
         "christian_gospel",
@@ -326,6 +374,7 @@
       },
       {
        "name": "Quran Tafsir by Sharawi and Nabulsi",
+       "active": 0,
        "url": "http://104.7.66.64:8088/",
        "tags": [
         "christian_gospel",
@@ -334,6 +383,7 @@
       },
       {
        "name": "Radio Beloghos",
+       "active": 0,
        "url": "http://88.99.36.93:8000/",
        "tags": [
         "christian_gospel",
@@ -343,25 +393,30 @@
       },
       {
        "name": "Radio Beloghos radio",
+       "active": 0,
        "url": "http://beloghos.elkedeseen.com:8000/player",
        "language_inferred": true
       },
       {
        "name": "Radio Mundial Gospel Egito radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/1t4rn9d0198uv",
        "language_inferred": true
       },
       {
        "name": "Radio Quran from Cairo",
+       "active": 0,
        "url": "http://178.33.178.204:9322/stream"
       },
       {
        "name": "Radio القارئ علي حجاج السويسي",
+       "active": 0,
        "url": "http://live.mp3quran.net:9842",
        "rb": "23754a47-c75e-11e8-a54a-52543be04c81"
       },
       {
        "name": "Rakoty Coptic Radio",
+       "active": 0,
        "url": "http://sc-e1.streamcyclone.com:1935/rakoty_live/audio/playlist.m3u8",
        "tags": [
         "christian_gospel",
@@ -371,28 +426,34 @@
       },
       {
        "name": "Shurooq Islamic Mix",
+       "active": 0,
        "url": "http://stream.zeno.fm/x1t4pvb3dkhvv",
        "language_inferred": true
       },
       {
        "name": "Sky Key Radio",
+       "active": 0,
        "url": "http://ams01.egihosting.com/858788",
        "language_inferred": true
       },
       {
        "name": "St. Markos Radio",
+       "active": 0,
        "url": "http://stream.stmarkos.org/audio"
       },
       {
        "name": "St. Mary El Golf Radio",
+       "active": 0,
        "url": "http://50.7.77.114:8033/stream"
       },
       {
        "name": "Virgin Mary Church in Zeitoun",
+       "active": 0,
        "url": "http://62.210.24.124:8000/stream"
       },
       {
        "name": "Voice Of Grace",
+       "active": 0,
        "url": "http://199.195.194.94:8065/stream",
        "tags": [
         "christian_gospel",
@@ -402,15 +463,18 @@
       },
       {
        "name": "ZAD Islamic Mix",
+       "active": 0,
        "url": "http://stream.zeno.fm/rkbm7uv6huhvv",
        "language_inferred": true
       },
       {
        "name": "تكبيرات العيد",
+       "active": 0,
        "url": "http://live.mp3quran.net:9728"
       },
       {
        "name": "مدرسة الشمامسة",
+       "active": 0,
        "url": "http://198.154.254.10:7006/",
        "tags": [
         "christian_gospel",
@@ -424,6 +488,7 @@
      "stations": [
       {
        "name": "90s Fm (تسعينات اف ام)",
+       "active": 0,
        "url": "http://64.150.176.192:8276",
        "tags": [
         "decade_90s",
@@ -432,6 +497,7 @@
       },
       {
        "name": "Arab Mix 256",
+       "active": 0,
        "url": "https://stream-48.zeno.fm/wvqgc9kb1d0uv?zs=SWAuGnG6RzWgmctcXZQfaA",
        "tags": [
         "pop_hits",
@@ -441,6 +507,7 @@
       },
       {
        "name": "C-TV Coptic Channel",
+       "active": 0,
        "url": "https://58cc65c534c67.streamlock.net/ctvchannel.tv/ctv.smil/chunklist_w555483697_b1728000_slar_t64SEQ=.m3u8",
        "tags": [
         "christian_gospel",
@@ -449,6 +516,7 @@
       },
       {
        "name": "Days Old FM live",
+       "active": 0,
        "url": "https://stream.zeno.fm/xda10sbtsg0uv",
        "tags": [
         "classical",
@@ -458,6 +526,7 @@
       },
       {
        "name": "Days Old Radio",
+       "active": 0,
        "url": "http://fps5.listen2myradio.com:9682/stream",
        "tags": [
         "oldies",
@@ -467,6 +536,7 @@
       },
       {
        "name": "El Gouna Radio",
+       "active": 0,
        "url": "http://82.201.132.237:8000",
        "tags": [
         "pop_hits",
@@ -481,6 +551,7 @@
       },
       {
        "name": "EL GOUNA RADIO streaming by Romolo Bellomia",
+       "active": 0,
        "url": "http://82.201.132.237:8000/stream/1",
        "tags": [
         "classical",
@@ -493,6 +564,7 @@
       },
       {
        "name": "Nogoum FM Mix",
+       "active": 0,
        "url": "https://stream-161.zeno.fm/0ms1g2tgr18uv?zs=R_KVYLdhTnCh9plm-e98Kg",
        "tags": [
         "pop_hits",
@@ -502,10 +574,12 @@
       },
       {
        "name": "Radio El-Tekia",
+       "active": 0,
        "url": "https://lyra.shoutca.st/tunein/eltekia.pls"
       },
       {
        "name": "Sawa Net Radio",
+       "active": 0,
        "url": "https://listen.radionomy.com/sawanetradio",
        "tags": [
         "news_talk",
@@ -520,85 +594,102 @@
      "stations": [
       {
        "name": "1sidsri",
+       "active": 0,
        "url": "https://stream.zeno.fm/dsdn8g6r538uv",
        "language_inferred": true
       },
       {
        "name": "AAST Test Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/u1pxqw2auc9uv",
        "language_inferred": true
       },
       {
        "name": "Alrushd Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/b9er1h72vc9uv",
        "language_inferred": true
       },
       {
        "name": "aqlamazharia",
+       "active": 0,
        "url": "https://stream.zeno.fm/4eafvs7wsa0uv",
        "language_inferred": true
       },
       {
        "name": "Damietta University",
+       "active": 0,
        "url": "https://stream.zeno.fm/dun2yfxpwy8uv",
        "language_inferred": true
       },
       {
        "name": "Egy mix",
+       "active": 0,
        "url": "https://stream.zeno.fm/feb0vp7vn0hvv",
        "language_inferred": true
       },
       {
        "name": "Hospital on air",
+       "active": 0,
        "url": "https://stream.zeno.fm/g1gveswvk2zuv",
        "language_inferred": true
       },
       {
        "name": "ISE French radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/kbbswbnau68uv",
        "language_inferred": true
       },
       {
        "name": "Lukas Spotify",
+       "active": 0,
        "url": "https://stream.zeno.fm/mmxtnvsf5nhvv",
        "language_inferred": true
       },
       {
        "name": "MA4CUFE",
+       "active": 0,
        "url": "https://stream.zeno.fm/91m78sk4a48uv",
        "language_inferred": true
       },
       {
        "name": "Manchester FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/csev0y3rbc9uv",
        "language_inferred": true
       },
       {
        "name": "MO Morning",
+       "active": 0,
        "url": "https://stream.zeno.fm/2rbrrv2vsf9uv",
        "language_inferred": true
       },
       {
        "name": "Nokhba Azza",
+       "active": 0,
        "url": "https://stream.zeno.fm/heakhgy9k48uv",
        "language_inferred": true
       },
       {
        "name": "Pelusas",
+       "active": 0,
        "url": "https://stream.zeno.fm/yipzdy8irnktv"
       },
       {
        "name": "Project Cairo City",
+       "active": 0,
        "url": "https://stream.zeno.fm/uvgdvp68ma0uv",
        "language_inferred": true
       },
       {
        "name": "Qesas Al Anbia",
+       "active": 0,
        "url": "https://stream.zeno.fm/vn5zfymzbfhvv",
        "language_inferred": true
       },
       {
        "name": "Radio public program",
+       "active": 0,
        "url": "https://stream.zeno.fm/x0kr9f6gtg8uv",
        "language_inferred": true
       }
@@ -609,31 +700,37 @@
      "stations": [
       {
        "name": "1337Repins",
+       "active": 0,
        "url": "https://stream.zeno.fm/dii05pfsqp4uv",
        "language_inferred": true
       },
       {
        "name": "1tmsadson",
+       "active": 0,
        "url": "https://stream.zeno.fm/s00fu819938uv",
        "language_inferred": true
       },
       {
        "name": "abdallah",
+       "active": 0,
        "url": "https://stream.zeno.fm/6n55ys53nfhvv",
        "language_inferred": true
       },
       {
        "name": "Marshal",
+       "active": 0,
        "url": "https://stream.zeno.fm/g2mnp1mezrhvv",
        "language_inferred": true
       },
       {
        "name": "Radio Mazag",
+       "active": 0,
        "url": "https://stream.zeno.fm/rv1b0vrd2hhvv",
        "language_inferred": true
       },
       {
        "name": "Radio Right",
+       "active": 0,
        "url": "https://stream.zeno.fm/3162vw7gpkhvv"
       }
      ]
@@ -643,6 +740,7 @@
      "stations": [
       {
        "name": "Duckburg Radio",
+       "active": 0,
        "url": "https://radio.madinatelbatt.com:8000/radio.mp3",
        "language_inferred": true
       }
@@ -653,6 +751,7 @@
      "stations": [
       {
        "name": "90s fm",
+       "active": 0,
        "url": "http://178.33.135.244:20095/",
        "tags": [
         "decade_90s",
@@ -662,6 +761,7 @@
       },
       {
        "name": "Radio 90s",
+       "active": 0,
        "url": "http://178.63.12.241:8055/",
        "language_inferred": true
       }
@@ -672,6 +772,7 @@
      "stations": [
       {
        "name": "Arab DJ",
+       "active": 0,
        "url": "http://listen.radionomy.com:80/ArabDJ",
        "tags": [
         "classical",
@@ -680,6 +781,7 @@
       },
       {
        "name": "Arab Mix FM",
+       "active": 0,
        "url": "http://stream.zenolive.com/efx5psd00qruv.mp3",
        "tags": [
         "disco_eurodance",
@@ -693,6 +795,7 @@
      "stations": [
       {
        "name": "Al Haya FM - Quran Kareem",
+       "active": 0,
        "url": "http://185.215.227.62:8000/",
        "tags": [
         "christian_gospel",
@@ -701,6 +804,7 @@
       },
       {
        "name": "Arab Mix FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/na3vpvn10qruv",
        "tags": [
         "easy_listening",
@@ -720,6 +824,7 @@
       },
       {
        "name": "Diab FM (عمر دياب فم)",
+       "active": 0,
        "url": "http://s3.voscast.com:9384/stream.mp3",
        "tags": [
         "easy_listening",
@@ -728,6 +833,7 @@
       },
       {
        "name": "Nagham FM - نغم اف ام Listen live",
+       "active": 0,
        "url": "https://ahmsamir.radioca.st/server",
        "tags": [
         "news_talk",
@@ -738,6 +844,7 @@
       },
       {
        "name": "Radio 3esh 7ayatk (راديو عيش حياتك)",
+       "active": 0,
        "url": "http://www.hostmyradio.com:8020",
        "tags": [
         "world",
@@ -747,6 +854,7 @@
       },
       {
        "name": "Radio Hits 88.2 راديو هيتس Listen live",
+       "active": 0,
        "url": "https://audiostreaming.twesto.com/radiohits215",
        "tags": [
         "pop_hits",
@@ -762,6 +870,7 @@
      "stations": [
       {
        "name": "Arab Mix",
+       "active": 0,
        "url": "https://stream.zeno.fm/efx5psd00qruv",
        "tags": [
         "pop_hits",
@@ -771,6 +880,7 @@
       },
       {
        "name": "Arab Mix 256",
+       "active": 0,
        "url": "https://stream.zeno.fm/wvqgc9kb1d0uv",
        "tags": [
         "pop_hits",
@@ -785,6 +895,7 @@
       },
       {
        "name": "Arab Mix FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/na3vpvn10qruv.acc",
        "tags": [
         "electronic",
@@ -794,6 +905,7 @@
       },
       {
        "name": "Mahatet Masr",
+       "active": 0,
        "url": "https://s3.radio.co/s9cb11828c/listen",
        "tags": [
         "pop_hits",
@@ -806,6 +918,7 @@
       },
       {
        "name": "Nogoum Cairo FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/z803g250uchvv",
        "tags": [
         "electronic",
@@ -814,6 +927,7 @@
       },
       {
        "name": "nogoum Mix 256",
+       "active": 0,
        "url": "https://stream.zeno.fm/qb1zvsykm98uv",
        "tags": [
         "pop_hits",
@@ -830,6 +944,7 @@
       },
       {
        "name": "Radio Horytna Listen live",
+       "active": 0,
        "url": "https://horytna.out.airtime.pro/horytna_a",
        "tags": [
         "pop_hits",
@@ -839,11 +954,13 @@
       },
       {
        "name": "Sha3by FM 95",
+       "active": 0,
        "url": "https://radio95.radioca.st/",
        "rb": "9346c66b-f42a-4a06-865d-e96dc44b1aa3"
       },
       {
        "name": "مذياع عرب مكس",
+       "active": 0,
        "url": "http://stream.zenolive.com/na3vpvn10qruv",
        "tags": [
         "world",
@@ -859,6 +976,7 @@
      "stations": [
       {
        "name": "M3ak3latool Radio راديو معاك على طول",
+       "active": 0,
        "url": "http://www.radioma3ak.com:8000/stream.mp3",
        "tags": [
         "folk",
@@ -867,10 +985,12 @@
       },
       {
        "name": "Mega FM 92.7",
+       "active": 0,
        "url": "http://nebula.shoutca.st:8211/stream"
       },
       {
        "name": "Nineties FM",
+       "active": 0,
        "url": "https://c2.accu.fm/audio/sweeper/60805bfcab53e339e04fcae9.m4a",
        "tags": [
         "folk",
@@ -880,6 +1000,7 @@
       },
       {
        "name": "Nota Masria",
+       "active": 0,
        "url": "http://109.169.14.34:35216/live",
        "tags": [
         "news_talk",
@@ -891,6 +1012,7 @@
       },
       {
        "name": "Radio Sotak",
+       "active": 0,
        "url": "http://serv02.streamsfortheworld.com:8000/radiosotak_hi",
        "tags": [
         "pop_hits",
@@ -901,6 +1023,7 @@
       },
       {
        "name": "SRK Online Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/a69txeenvzzuv",
        "tags": [
         "folk",
@@ -910,6 +1033,7 @@
       },
       {
        "name": "اف ام شعبي",
+       "active": 0,
        "url": "http://radio95.radioca.st:9010/stream"
       }
      ]
@@ -919,6 +1043,7 @@
      "stations": [
       {
        "name": "El Gouna Radio",
+       "active": 0,
        "url": "http://82.201.132.237:8000/listen.pls",
        "tags": [
         "hip_hop_rap",
@@ -934,6 +1059,7 @@
      "stations": [
       {
        "name": "Arab DJ",
+       "active": 0,
        "url": "https://node-35.zeno.fm/na3vpvn10qruv?rj-ttl=5&amprj-tok=AAABcvWdV3kAYKgsDSe5pRGZLw",
        "tags": [
         "pop_hits",
@@ -943,6 +1069,7 @@
       },
       {
        "name": "Smoking Radio",
+       "active": 0,
        "url": "https://s32.radiolize.com/radio/8060/radio.mp3",
        "tags": [
         "house",
@@ -954,6 +1081,7 @@
       },
       {
        "name": "Take Away Radio",
+       "active": 0,
        "url": "http://usa13.fastcast4u.com:5344/",
        "tags": [
         "house",
@@ -968,32 +1096,39 @@
      "stations": [
       {
        "name": "Abd al-Hamid Kishk Channel",
+       "active": 0,
        "url": "http://104.7.66.64:8012/",
        "language_inferred": true
       },
       {
        "name": "AbderRasheed Sufis",
+       "active": 0,
        "url": "http://quraan.us:9866/"
       },
       {
        "name": "Abdulrahman Al-Majed",
+       "active": 0,
        "url": "http://live.mp3quran.net:9726/"
       },
       {
        "name": "Beautiful Recitations",
+       "active": 0,
        "url": "http://live.mp3quran.net:9992/"
       },
       {
        "name": "River Nile Radio Station",
+       "active": 0,
        "url": "http://104.7.66.64:8087/",
        "language_inferred": true
       },
       {
        "name": "Shurooq Islamic Mix",
+       "active": 0,
        "url": "http://stream.zeno.fm/7yc6z3b3dkhvv"
       },
       {
        "name": "راديو موجة",
+       "active": 0,
        "url": "http://eu4.fastcast4u.com:5458",
        "tags": [
         "islamic_quran",
@@ -1009,6 +1144,7 @@
      "stations": [
       {
        "name": "Can You Feel The Music",
+       "active": 0,
        "url": "https://listen.radionomy.com/canyoufeelthemusic",
        "tags": [
         "rock",
@@ -1023,64 +1159,77 @@
      "stations": [
       {
        "name": "abla fadela",
+       "active": 0,
        "url": "https://stream.zeno.fm/92t25aakvg0uv",
        "language_inferred": true
       },
       {
        "name": "Be GORE",
+       "active": 0,
        "url": "https://stream.zeno.fm/0w95rcumffhvv"
       },
       {
        "name": "Be Gore",
+       "active": 0,
        "url": "https://stream.zeno.fm/zf043mcsefhvv",
        "language_inferred": true
       },
       {
        "name": "Be Gore Kids",
+       "active": 0,
        "url": "https://stream.zeno.fm/kvfty0ybkfhvv",
        "language_inferred": true
       },
       {
        "name": "BEGORE",
+       "active": 0,
        "url": "https://stream.zeno.fm/6zpkrvrswrhvv",
        "language_inferred": true
       },
       {
        "name": "beshay radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/cd849wd7608uv",
        "language_inferred": true
       },
       {
        "name": "EGYPT WTLS RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/u5mz0wkcbshvv",
        "language_inferred": true
       },
       {
        "name": "KIMO RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/lvhqx1vlhqitv",
        "language_inferred": true
       },
       {
        "name": "news talk",
+       "active": 0,
        "url": "https://stream.zeno.fm/h4yaswy5kfhvv",
        "language_inferred": true
       },
       {
        "name": "Nostalgia Radio Channel",
+       "active": 0,
        "url": "https://stream.zeno.fm/43p75phw6hhvv",
        "language_inferred": true
       },
       {
        "name": "test stream",
+       "active": 0,
        "url": "https://stream.zeno.fm/z0yywqz1uhhvv",
        "language_inferred": true
       },
       {
        "name": "Zeniaus raadija",
+       "active": 0,
        "url": "https://stream.zeno.fm/yg0bgccvcfhvv"
       },
       {
        "name": "حدوتة غدغودة",
+       "active": 0,
        "url": "https://stream.zeno.fm/28834dphk48uv",
        "language_inferred": true
       }
@@ -1091,6 +1240,7 @@
      "stations": [
       {
        "name": "Antica Futura Radio",
+       "active": 0,
        "url": "https://stream.radiojar.com/a3qsqz9h2ewtv",
        "tags": [
         "pop_hits",
@@ -1103,6 +1253,7 @@
       },
       {
        "name": "Arab Mix Drama",
+       "active": 0,
        "url": "https://stream.zeno.fm/egynebf171zuv",
        "tags": [
         "pop_hits",
@@ -1113,19 +1264,23 @@
       },
       {
        "name": "Arab Mix Drama 256 radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/opiql9xeo7etv",
        "language_inferred": true
       },
       {
        "name": "Arab Mix live",
+       "active": 0,
        "url": "https://stream-108.zeno.fm/na3vpvn10qruv?zs=Ulx9_4HrTLG1e1l_YtWuZA"
       },
       {
        "name": "Arabic Haya Radio",
+       "active": 0,
        "url": "http://s9.voscast.com:7042"
       },
       {
        "name": "Beloghos",
+       "active": 0,
        "url": "http://beloghos.elkedeseen.com:8000/",
        "tags": [
         "christian_gospel",
@@ -1134,16 +1289,19 @@
       },
       {
        "name": "Betary Today | بيطري توداي radio",
+       "active": 0,
        "url": "https://s40.myradiostream.com:22665/stream",
        "language_inferred": true
       },
       {
        "name": "Cairo Business Radio",
+       "active": 0,
        "url": "https://s5.radio.co/safc35068b/listen",
        "language_inferred": true
       },
       {
        "name": "Cairo Business Radio (CBR)",
+       "active": 0,
        "url": "https://www.radioking.com/play/cairo-business-radio-cbr",
        "tags": [
         "news_talk",
@@ -1153,11 +1311,13 @@
       },
       {
        "name": "Copt4g akbat el3alam",
+       "active": 0,
        "url": "http://66.70.249.70:5828/",
        "language_inferred": true
       },
       {
        "name": "Egonair",
+       "active": 0,
        "url": "http://www.hostmyradio.com:8010",
        "bitrate": 128,
        "logo": "http://radio.pervii.com/im/8/1551604758.jpg",
@@ -1170,6 +1330,7 @@
       },
       {
        "name": "Egonair",
+       "active": 0,
        "url": "https://radio.socialgenix.com/8004/stream",
        "tags": [
         "news_talk",
@@ -1179,6 +1340,7 @@
       },
       {
        "name": "El Gouna Radio 100 FM",
+       "active": 0,
        "url": "http://178.214.74.23:8000/stream",
        "tags": [
         "news_talk",
@@ -1188,6 +1350,7 @@
       },
       {
        "name": "Eman Live",
+       "active": 0,
        "url": "http://www.emanlive.com:8000/",
        "tags": [
         "christian_gospel",
@@ -1196,6 +1359,7 @@
       },
       {
        "name": "Eman Live",
+       "active": 0,
        "url": "http://www.emanlive.com:8000/stream.mp3",
        "tags": [
         "news_talk",
@@ -1205,6 +1369,7 @@
       },
       {
        "name": "Eman Live radio",
+       "active": 0,
        "url": "https://eu8.fastcast4u.com/proxy/manhagnet/1",
        "tags": [
         "christian_gospel",
@@ -1214,15 +1379,18 @@
       },
       {
        "name": "ERTU - راديو الشرق الأوسط",
+       "active": 0,
        "url": "https://livestreaming5.onlinehorizons.net/hls-live/Sharkawsat/_definst_/liveevent/livestream.m3u8"
       },
       {
        "name": "ERTU Radio Quran Karim",
+       "active": 0,
        "url": "http://77.67.34.22/QURAN_KAREEM.mp3",
        "language_inferred": true
       },
       {
        "name": "ERTU – راديو القرآن الكريم",
+       "active": 0,
        "url": "https://livestreaming5.onlinehorizons.net/hls-live/Qurankareem/_definst_/liveevent/livestream.m3u8",
        "tags": [
         "christian_gospel",
@@ -1232,6 +1400,7 @@
       },
       {
        "name": "Goal FM",
+       "active": 0,
        "url": "http://ample-zeno-07.radiojar.com/uwq6pusuvg5tv?rj-ttl=5\\u0026rj-token=AAABXqN0taC_FgJ6U0Tlr2-ck1LZjfkW8pwCH3M3yTgV3FVrHTGC8Q",
        "tags": [
         "sports",
@@ -1240,6 +1409,7 @@
       },
       {
        "name": "Hawak Radio",
+       "active": 0,
        "url": "https://radiohawak.com:3034/stream",
        "tags": [
         "news_talk",
@@ -1251,15 +1421,18 @@
       },
       {
        "name": "Hona Alqahera Radio",
+       "active": 0,
        "url": "http://fmt01.egihosting.com:1914/stream/1",
        "language_inferred": true
       },
       {
        "name": "Mega FM",
+       "active": 0,
        "url": "http://188.165.232.7:8211/stream"
       },
       {
        "name": "Mega FM (ميجا إف إم)",
+       "active": 0,
        "url": "http://nebula.shoutca.st:8211/mp3",
        "tags": [
         "news_talk",
@@ -1270,6 +1443,7 @@
       },
       {
        "name": "Nile FM radio",
+       "active": 0,
        "url": "https://nilefm.com/listen-live",
        "tags": [
         "news_talk",
@@ -1280,6 +1454,7 @@
       },
       {
        "name": "Nogomi Radio",
+       "active": 0,
        "url": "https://securestreams2.autopo.st:1152/",
        "tags": [
         "news_talk",
@@ -1288,11 +1463,13 @@
       },
       {
        "name": "Nogoom Fm",
+       "active": 0,
        "url": "http://ice31.securenetsystems.net/NOGOUM",
        "language_inferred": true
       },
       {
        "name": "Nogoum FM",
+       "active": 0,
        "url": "https://audio.nrpstream.com/listen/nogoumfm/radio.mp3",
        "tags": [
         "news_talk",
@@ -1304,6 +1481,7 @@
       },
       {
        "name": "Nogoum FM",
+       "active": 0,
        "url": "https://reach-audio.esteam.rocks/radio/8000/live.mp3",
        "tags": [
         "pop_hits",
@@ -1315,6 +1493,7 @@
       },
       {
        "name": "Nogoum FM",
+       "active": 0,
        "url": "http://audio.nrpstream.com:11005/radio.mp3",
        "tags": [
         "pop_hits",
@@ -1323,6 +1502,7 @@
       },
       {
        "name": "Nogoum FM",
+       "active": 0,
        "url": "https://reach-audio.esteam.rocks/radio/8000/live.mp3?1599603662",
        "tags": [
         "news_talk",
@@ -1333,6 +1513,7 @@
       },
       {
        "name": "Nogoum FM radio",
+       "active": 0,
        "url": "https://www.nogoumfm.net/live-radio-stream/",
        "tags": [
         "news_talk",
@@ -1343,6 +1524,7 @@
       },
       {
        "name": "nogoum Mix 320",
+       "active": 0,
        "url": "https://stream.zeno.fm/cqd6hz68m98uv",
        "tags": [
         "pop_hits",
@@ -1357,14 +1539,17 @@
       },
       {
        "name": "Pronto FM",
+       "active": 0,
        "url": "http://88.99.150.245:9214/"
       },
       {
        "name": "Radio Antica radio",
+       "active": 0,
        "url": "http://148.251.131.47:9944/"
       },
       {
        "name": "Radio Bridge",
+       "active": 0,
        "url": "http://213.136.85.197:9320/stream",
        "tags": [
         "christian_gospel",
@@ -1373,11 +1558,13 @@
       },
       {
        "name": "Radio Cairo FM 95.4",
+       "active": 0,
        "url": "http://soundofsakia.serverroom.us:4896/live?type=.mp3/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio Ma3ak",
+       "active": 0,
        "url": "http://radioma3ak.com:8000",
        "bitrate": 64,
        "logo": "http://radio.pervii.com/im/1/1555242181.jpg",
@@ -1389,6 +1576,7 @@
       },
       {
        "name": "Radio Masr",
+       "active": 0,
        "url": "https://live.radiomasr.net/RADIOMASR",
        "tags": [
         "news_talk",
@@ -1399,6 +1587,7 @@
       },
       {
        "name": "Radio Masr El-Gdida",
+       "active": 0,
        "url": "https://streaming.radio.co/scc13a6b96/listen",
        "tags": [
         "news_talk",
@@ -1417,6 +1606,7 @@
       },
       {
        "name": "Radio Sotak",
+       "active": 0,
        "url": "https://radio.radiosotak.com/sotak_128",
        "tags": [
         "news_talk",
@@ -1426,6 +1616,7 @@
       },
       {
        "name": "Radio Sotak",
+       "active": 0,
        "url": "http://109.74.10.39:8300/rs_mp3_96/",
        "tags": [
         "news_talk",
@@ -1435,11 +1626,13 @@
       },
       {
        "name": "RadioVisionEG",
+       "active": 0,
        "url": "http://listen.radionomy.com/radiovisioneg",
        "language_inferred": true
       },
       {
        "name": "Saint Mary Church Zeitoun Radio",
+       "active": 0,
        "url": "http://cast.az-streamingserver.com:8000/stream2",
        "tags": [
         "christian_gospel",
@@ -1448,6 +1641,7 @@
       },
       {
        "name": "Shurooq Ramadan Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/wu9yvyuzpnhvv",
        "tags": [
         "news_talk",
@@ -1456,6 +1650,7 @@
       },
       {
        "name": "St. Markos Radio",
+       "active": 0,
        "url": "https://stream.radiojar.com/hrec7yp7nzzuv",
        "tags": [
         "christian_gospel",
@@ -1464,6 +1659,7 @@
       },
       {
        "name": "القرآن الكريم من القاهرة radio",
+       "active": 0,
        "url": "http://www.ertu.org/quran/QuranKareem.html",
        "tags": [
         "news_talk",
@@ -1474,6 +1670,7 @@
       },
       {
        "name": "راديو 90 90",
+       "active": 0,
        "url": "https://9090streaming.mobtada.com/9090FMEGYPT",
        "tags": [
         "news_talk",
@@ -1489,6 +1686,7 @@
       },
       {
        "name": "راديو القمر",
+       "active": 0,
        "url": "http://radio.alqamar.tv:8000/live",
        "tags": [
         "news_talk",
@@ -1497,6 +1695,7 @@
       },
       {
        "name": "راديو هيتس",
+       "active": 0,
        "url": "https://radiohits882.radioca.st/",
        "tags": [
         "news_talk",
@@ -1506,6 +1705,7 @@
       },
       {
        "name": "راديو هيتس",
+       "active": 0,
        "url": "http://178.32.62.154:8957/",
        "tags": [
         "news_talk",
@@ -1520,6 +1720,7 @@
      "stations": [
       {
        "name": "Banha City Tarab",
+       "active": 0,
        "url": "http://whsh4u-panel.com/proxy/wzwpdthd",
        "tags": [
         "world",
@@ -1528,6 +1729,7 @@
       },
       {
        "name": "Banha City Tarab (بنها سىتى طرب)",
+       "active": 0,
        "url": "https://streaming.radionomy.com/BanhaCityTarab",
        "tags": [
         "oldies",
@@ -1536,11 +1738,13 @@
       },
       {
        "name": "El Gouna Radio",
+       "active": 0,
        "url": "https://www.liveradio.es/http://82.201.132.237:8000/",
        "language_inferred": true
       },
       {
        "name": "Radio 90s FM",
+       "active": 0,
        "url": "http://178.33.135.244:20095/stream",
        "tags": [
         "oldies",
@@ -1549,10 +1753,12 @@
       },
       {
        "name": "Radio Sawa (راديوسوا)",
+       "active": 0,
        "url": "https://mbnvaudioingest-i.akamaihd.net/hls/live/1004562/MBNV_SAWA_LEVANT/merge.m3u8"
       },
       {
        "name": "TIBA Radio",
+       "active": 0,
        "url": "http://s1.voscast.com:10026",
        "tags": [
         "pop_hits",
@@ -1572,39 +1778,46 @@
      "stations": [
       {
        "name": "Amr Diab Radio",
+       "active": 0,
        "url": "https://stream-40.zeno.fm/xa4yhh4k838uv?zs=gojgaFRaRrK1wgGIwdv6xA",
        "language_inferred": true,
        "rb": "39215908-b5f6-40d9-875c-57248dfe314a"
       },
       {
        "name": "Arab Mix FM",
+       "active": 0,
        "url": "https://stream.zenolive.com/efx5psd00qruv",
        "language_inferred": true
       },
       {
        "name": "Banha City FM",
+       "active": 0,
        "url": "http://whsh4u-panel.com:14113/stream",
        "rb": "35bd06b0-d8d0-4214-b52b-6aba06aac3b5",
        "logo": "https://scontent.fbre4-1.fna.fbcdn.net/v/t39.30808-6/294865141_110190498433524_6398220129326637406_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=gM8-afZumNgAX_ZBvv7&_nc_ht=scontent.fbre4-1.fna&oh=00_AfAuZDwZvdbnXoKWuNCS_pjQFLhTjwwOpzpD2aKQuDVF3Q&oe=65F139C1"
       },
       {
        "name": "Diab FM",
+       "active": 0,
        "url": "http://stream-36.zeno.fm/rf64mx02qa0uv?zs=omRb6KEjQ3u0-JsaJKdhQg",
        "language_inferred": true,
        "rb": "ac0d65b9-a656-4d0e-a6a5-f4b78770a05f"
       },
       {
        "name": "Diab FM",
+       "active": 0,
        "url": "https://stream-34.zeno.fm/rf64mx02qa0uv?zs=-xjlLLwRS8uKrffFxK4vLA",
        "language_inferred": true,
        "rb": "82496629-2eeb-4ed7-8dc5-e72a8a3b4fa5"
       },
       {
        "name": "Nogoum FM",
+       "active": 0,
        "url": "https://ice23.securenetsystems.net/NOGOUM"
       },
       {
        "name": "nogoum FM Mix",
+       "active": 0,
        "url": "https://stream.zeno.fm/0ms1g2tgr18uv",
        "tags": [
         "pop_hits",
@@ -1621,6 +1834,7 @@
       },
       {
        "name": "Radio Banha Tarab radio",
+       "active": 0,
        "url": "https://whsh4u-panel.com/proxy/wzwpdthd?mp=/stream",
        "tags": [
         "pop_hits",
@@ -1629,10 +1843,12 @@
       },
       {
        "name": "Shoryan Qalby FM شريان قلبى اف ام",
+       "active": 0,
        "url": "http://ustre.am/17c3h"
       },
       {
        "name": "راديو ستارت - radio start",
+       "active": 0,
        "url": "http://egradio.in:9986/"
       }
      ]
@@ -1642,6 +1858,7 @@
      "stations": [
       {
        "name": "Hawaha Betary - راديو هواها بيطري",
+       "active": 0,
        "url": "https://s44.myradiostream.com/9204/listen.mp3",
        "tags": [
         "pop_hits",
@@ -1651,6 +1868,7 @@
       },
       {
        "name": "Nile FM",
+       "active": 0,
        "url": "https://ice31.securenetsystems.net/NILE",
        "tags": [
         "rock",
@@ -1660,6 +1878,7 @@
       },
       {
        "name": "Nugoom FM 100.6",
+       "active": 0,
        "url": "http://ice33.securenetsystems.net/NOGOUM",
        "tags": [
         "rock",
@@ -1669,6 +1888,7 @@
       },
       {
        "name": "Ouroverde FM",
+       "active": 0,
        "url": "http://45.62.216.2:8000/ouroverde",
        "tags": [
         "rock",
@@ -1678,6 +1898,7 @@
       },
       {
        "name": "مصر اف ام radio",
+       "active": 0,
        "url": "https://eu4.fastcast4u.com/proxy/masrfm?mp=/1",
        "tags": [
         "rock",
@@ -1696,6 +1917,7 @@
      "stations": [
       {
        "name": "نغم اف ام",
+       "active": 0,
        "url": "http://ahmsamir.radioca.st:8148/stream",
        "tags": [
         "pop_hits",
@@ -1710,45 +1932,54 @@
      "stations": [
       {
        "name": "3mak_Shadow",
+       "active": 0,
        "url": "https://stream.zeno.fm/zozs8svvhrftv",
        "language_inferred": true
       },
       {
        "name": "abanoub1233",
+       "active": 0,
        "url": "https://stream.zeno.fm/ypmdcfuykomtv",
        "language_inferred": true
       },
       {
        "name": "Al Quraan Al Kareem",
+       "active": 0,
        "url": "https://stream.zeno.fm/2vf0k5s78ehvv",
        "language_inferred": true
       },
       {
        "name": "Bein 1 premium",
+       "active": 0,
        "url": "https://stream.zeno.fm/c6ygszhw8bytv",
        "language_inferred": true
       },
       {
        "name": "bein sports",
+       "active": 0,
        "url": "https://stream.zeno.fm/dh65q6kn2nhvv",
        "language_inferred": true
       },
       {
        "name": "Beinspoooorts",
+       "active": 0,
        "url": "https://stream.zeno.fm/0k9cakh7bshvv",
        "language_inferred": true
       },
       {
        "name": "best radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/7x9wtkagcc9uv"
       },
       {
        "name": "Classic",
+       "active": 0,
        "url": "https://stream.zeno.fm/kt90hnpgdc9uv",
        "language_inferred": true
       },
       {
        "name": "ERTU - الشباب والرياضة",
+       "active": 0,
        "url": "https://livestreaming5.onlinehorizons.net/hls-live/Shabawreada/_definst_/liveevent/livestream.m3u8",
        "tags": [
         "various_eclectic",
@@ -1757,91 +1988,109 @@
       },
       {
        "name": "F_GTA _F",
+       "active": 0,
        "url": "https://stream.zeno.fm/v6q8407afc9uv",
        "language_inferred": true
       },
       {
        "name": "fmradio",
+       "active": 0,
        "url": "https://stream.zeno.fm/zk4bedpw0nhvv",
        "language_inferred": true
       },
       {
        "name": "GTA-SanB",
+       "active": 0,
        "url": "https://stream.zeno.fm/u17373agcc9uv",
        "language_inferred": true
       },
       {
        "name": "GTA-Turk",
+       "active": 0,
        "url": "https://stream.zeno.fm/xzxmgcwgcc9uv",
        "language_inferred": true
       },
       {
        "name": "GTA_Hameem",
+       "active": 0,
        "url": "https://stream.zeno.fm/ab7mfksdec9uv",
        "language_inferred": true
       },
       {
        "name": "GTA_SPS",
+       "active": 0,
        "url": "https://stream.zeno.fm/vkaqs1bbfc9uv",
        "language_inferred": true
       },
       {
        "name": "kooora bas",
+       "active": 0,
        "url": "https://stream.zeno.fm/z992hxra8ehvv",
        "language_inferred": true
       },
       {
        "name": "Leo - Station",
+       "active": 0,
        "url": "https://stream.zeno.fm/tfluwkqroifvv",
        "language_inferred": true
       },
       {
        "name": "On Sport FM",
+       "active": 0,
        "url": "https://carina.streamerr.co:2020/stream/OnSportFM",
        "language_inferred": true,
        "rb": "79282606-a5a9-467b-88dc-7a63fc642f80"
       },
       {
        "name": "ON Sport FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/6ve4w0y54c9uv"
       },
       {
        "name": "ONSPORT",
+       "active": 0,
        "url": "https://stream.zeno.fm/23yu1c7pks8uv",
        "language_inferred": true
       },
       {
        "name": "OnSportFM",
+       "active": 0,
        "url": "https://stream.zeno.fm/v6zezvy54c9uv",
        "language_inferred": true
       },
       {
        "name": "radio.tarek",
+       "active": 0,
        "url": "https://stream.zeno.fm/5u6u05a1198uv",
        "language_inferred": true
       },
       {
        "name": "Shabawreada",
+       "active": 0,
        "url": "https://stream.zeno.fm/d5ym3qq4sk8uv",
        "language_inferred": true
       },
       {
        "name": "VIVA FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/eicdfomtc0wtv",
        "language_inferred": true
       },
       {
        "name": "VIVA FM LIVE",
+       "active": 0,
        "url": "https://stream.zeno.fm/ciz4ycheyc7tv",
        "language_inferred": true
       },
       {
        "name": "White FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/q0y3t68tqnhvv",
        "language_inferred": true
       },
       {
        "name": "الهلاسين",
+       "active": 0,
        "url": "https://stream.zeno.fm/u7t9g3xp9hhvv",
        "language_inferred": true
       }
@@ -1852,6 +2101,7 @@
      "stations": [
       {
        "name": "صوت شباب مصر",
+       "active": 0,
        "url": "http://www.egonair.com:8010/",
        "tags": [
         "news_talk",
@@ -1867,6 +2117,7 @@
      "stations": [
       {
        "name": "90s Fm (تسعينات اف ام)",
+       "active": 0,
        "url": "https://eu1.fastcast4u.com/proxy/prontofm?mp=%2F1",
        "tags": [
         "various_eclectic",
@@ -1875,10 +2126,12 @@
       },
       {
        "name": "Arab DJ",
+       "active": 0,
        "url": "https://stream-151.zeno.fm/w2u729qb51zuv?zs=6ErKfgztSpi7kKl9rFdNaA"
       },
       {
        "name": "Arab Mix FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/nphbhukd1k0uv",
        "tags": [
         "various_eclectic",
@@ -1887,29 +2140,35 @@
       },
       {
        "name": "Duckburg Radio",
+       "active": 0,
        "url": "http://167.172.38.49:8000/"
       },
       {
        "name": "Follow Me Radio",
+       "active": 0,
        "url": "http://sonic84.gogohost.com:9998/stream",
        "language_inferred": true
       },
       {
        "name": "Hawak Radio-راديو هواك Listen live",
+       "active": 0,
        "url": "https://radiohawak.com:3034/server",
        "language_inferred": true
       },
       {
        "name": "Radio El-Mahalla OnLine",
+       "active": 0,
        "url": "https://stream.zeno.fm/0srd7hg4gc9uv",
        "language_inferred": true
       },
       {
        "name": "Radio Moga",
+       "active": 0,
        "url": "http://eu4.fastcast4u.com:5458/.mp3"
       },
       {
        "name": "Radio Tram",
+       "active": 0,
        "url": "http://streaming.radionomy.com/RadioTram?extReferer=http%3a%2f%2fwww.radiotram.com%2f&ampad=radiono5",
        "language_inferred": true
       }
@@ -1920,12 +2179,14 @@
      "stations": [
       {
        "name": "90s FM",
+       "active": 0,
        "url": "http://eu1.fastcast4u.com/proxy/prontofm",
        "rb": "ceba48a5-9356-4891-a1fc-5ff9ea832120",
        "logo": "https://i0.wp.com/news.ninetiesfm.com/wp-content/uploads/2019/05/cropped-20545315_1848567948503604_1570348649386657465_o-2.png?fit=180%2c180&#038;ssl=1"
       },
       {
        "name": "AAST Radio",
+       "active": 0,
        "url": "http://s29.myradiostream.com/6340/listen.mp3",
        "tags": [
         "college_community",
@@ -1934,6 +2195,7 @@
       },
       {
        "name": "Al Haya FM",
+       "active": 0,
        "url": "http://live.alhayafm.com:8000",
        "tags": [
         "world",
@@ -1942,15 +2204,18 @@
       },
       {
        "name": "Banha City Radio Listen live",
+       "active": 0,
        "url": "https://whsh4u-panel.com/proxy/wzwpdthd?mp=/server",
        "language_inferred": true
       },
       {
        "name": "Diab FM",
+       "active": 0,
        "url": "http://s3.voscast.com:9384/"
       },
       {
        "name": "Mega FM 92.7",
+       "active": 0,
        "url": "https://audiostreaming.twesto.com/megafm214",
        "tags": [
         "pop_hits",
@@ -1960,6 +2225,7 @@
       },
       {
        "name": "MisrFone",
+       "active": 0,
        "url": "http://s2.voscast.com:8612/",
        "tags": [
         "world",
@@ -1968,6 +2234,7 @@
       },
       {
        "name": "Nagham FM 105.3 (نغم إف إم)",
+       "active": 0,
        "url": "https://ahmsamir.radioca.st/stream",
        "tags": [
         "pop_hits",
@@ -1983,10 +2250,12 @@
       },
       {
        "name": "Nota Arabia Masr",
+       "active": 0,
        "url": "http://78.129.229.120:20056/live"
       },
       {
        "name": "NUB Radio - Nahda University",
+       "active": 0,
        "url": "http://67.212.189.122:8209",
        "tags": [
         "pop_hits",
@@ -1996,6 +2265,7 @@
       },
       {
        "name": "Radio Banha Tarab",
+       "active": 0,
        "url": "https://streamingV2.shoutcast.com/BanhaCity",
        "tags": [
         "world",
@@ -2006,6 +2276,7 @@
       },
       {
        "name": "Radio Dahab",
+       "active": 0,
        "url": "http://n08.radiojar.com:80/2zdx7ns89uduv",
        "tags": [
         "various_eclectic",
@@ -2014,6 +2285,7 @@
       },
       {
        "name": "Radio Ma3ak",
+       "active": 0,
        "url": "http://www.radioma3ak.com:8000/",
        "tags": [
         "world",
@@ -2023,6 +2295,7 @@
       },
       {
        "name": "Soul Radio UK",
+       "active": 0,
        "url": "https://sirius.shoutca.st:8804/",
        "tags": [
         "world",
@@ -2032,6 +2305,7 @@
       },
       {
        "name": "إذاعة الرشد",
+       "active": 0,
        "url": "https://stream.zeno.fm/eyevm7ghfuhvv"
       }
      ]
@@ -2041,58 +2315,70 @@
      "stations": [
       {
        "name": "00000000",
+       "active": 0,
        "url": "https://stream.zeno.fm/f91n2yenzhhvv",
        "language_inferred": true
       },
       {
        "name": "033Captain",
+       "active": 0,
        "url": "https://stream.zeno.fm/tp9khhc4138uv"
       },
       {
        "name": "1111 شبكة",
+       "active": 0,
        "url": "https://stream.zeno.fm/negfqrj9exxuv"
       },
       {
        "name": "1111111",
+       "active": 0,
        "url": "https://stream.zeno.fm/cvoi16hcfhutv",
        "language_inferred": true
       },
       {
        "name": "1nfamousBigBang",
+       "active": 0,
        "url": "https://stream.zeno.fm/1t2snnk3138uv",
        "language_inferred": true
       },
       {
        "name": "3l2ahwa",
+       "active": 0,
        "url": "https://stream.zeno.fm/5h400ry8xnhvv",
        "language_inferred": true
       },
       {
        "name": "3lmne-FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/63gr5ex4ckhvv",
        "language_inferred": true
       },
       {
        "name": "3mak_Shadow",
+       "active": 0,
        "url": "https://stream.zeno.fm/eydxkmjujqguv",
        "language_inferred": true
       },
       {
        "name": "3mak_Shadow 2",
+       "active": 0,
        "url": "https://stream.zeno.fm/fyi3bjbi6zmtv",
        "language_inferred": true
       },
       {
        "name": "3mr 3333",
+       "active": 0,
        "url": "https://stream.zeno.fm/p0ucdd66rxhvv"
       },
       {
        "name": "658268",
+       "active": 0,
        "url": "https://stream.zeno.fm/cdq3fb777zhvv",
        "language_inferred": true
       },
       {
        "name": "87.8\tMix FM",
+       "active": 0,
        "url": "https://stream-29.zeno.fm/na3vpvn10qruv?n=c9fb2869f89889b2e272",
        "language_inferred": true,
        "rb": "b8305209-741d-4cd4-8a6d-fac3a5f43e1b",
@@ -2100,859 +2386,1038 @@
       },
       {
        "name": "90 mmm",
+       "active": 0,
        "url": "https://stream.zeno.fm/crgddgv5amfuv",
        "language_inferred": true
       },
       {
        "name": "90enaty",
+       "active": 0,
        "url": "https://stream.zeno.fm/ae1d1xk414zuv",
        "language_inferred": true
       },
       {
        "name": "90s FM",
+       "active": 0,
        "url": "http://64.150.176.192:8276/stream/1"
       },
       {
        "name": "a3trafat",
+       "active": 0,
        "url": "https://stream.zeno.fm/a7489tw6qs8uv",
        "language_inferred": true
       },
       {
        "name": "Abd ElBaset Quran",
+       "active": 0,
        "url": "https://stream.zeno.fm/5rmezvh3r98uv"
       },
       {
        "name": "Abdallah",
+       "active": 0,
        "url": "https://stream.zeno.fm/9fxah7x3nfhvv",
        "language_inferred": true
       },
       {
        "name": "Abdel-Baset",
+       "active": 0,
        "url": "https://stream.zeno.fm/1a2fm4ytp68uv",
        "language_inferred": true
       },
       {
        "name": "AbdElhalem",
+       "active": 0,
        "url": "https://stream.zeno.fm/npqvvxsr008uv",
        "language_inferred": true
       },
       {
        "name": "Abdelhalim Hafez",
+       "active": 0,
        "url": "https://stream.zeno.fm/5g1mr4b3f2zuv",
        "language_inferred": true
       },
       {
        "name": "Abderrahman As-Sudais",
+       "active": 0,
        "url": "https://betelgeuse.dribbcast.com/proxy/asudai?mp=%2Fstream"
       },
       {
        "name": "Abdulrasheed Soufi",
+       "active": 0,
        "url": "https://qurango.net/radio/abdulrasheed_soufi_assosi.mp3",
        "language_inferred": true,
        "rb": "6aed851e-a68c-43c6-a0b1-f0bb7476e5d3"
       },
       {
        "name": "abodoma  fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/mvrb8y2t3ehvv",
        "language_inferred": true
       },
       {
        "name": "ABOSALSABIL",
+       "active": 0,
        "url": "https://stream.zeno.fm/usdxazt5schvv",
        "language_inferred": true
       },
       {
        "name": "Agtma3na FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/d1qny0wy1f9uv",
        "language_inferred": true
       },
       {
        "name": "Agtma3na.FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/9cfcf94y1f9uv",
        "language_inferred": true
       },
       {
        "name": "Agtma3na.FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/6nu6sg3y1f9uv",
        "language_inferred": true
       },
       {
        "name": "Agtma3na.FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/1at5z84y1f9uv",
        "language_inferred": true
       },
       {
        "name": "AiKeNs",
+       "active": 0,
        "url": "https://stream.zeno.fm/pgrf34gswrhvv",
        "language_inferred": true
       },
       {
        "name": "Ajmal meisk",
+       "active": 0,
        "url": "https://stream.zeno.fm/0t50x434708uv",
        "language_inferred": true
       },
       {
        "name": "Akbat Al'alam Radio إذاعه اقباط العالم",
+       "active": 0,
        "url": "http://192.240.102.133:11664/stream"
       },
       {
        "name": "Akwa Mix Ahmed Mekky And Wegz",
+       "active": 0,
        "url": "https://stream.zeno.fm/y4x6pdzvcuhvv",
        "language_inferred": true
       },
       {
        "name": "Al Hayat TV",
+       "active": 0,
        "url": "https://5acf9f9415a10.streamlock.net/live/ngrp:ahme.stream_all/playlist.m3u8"
       },
       {
        "name": "Al Jazeera Arabic",
+       "active": 0,
        "url": "https://stream.zeno.fm/5667rq0059duv",
        "language_inferred": true
       },
       {
        "name": "Al motrania FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/008rbc6x1f9uv",
        "language_inferred": true
       },
       {
        "name": "Al Sha3rawy Tafseer",
+       "active": 0,
        "url": "https://stream.zeno.fm/u713ug60bfhvv",
        "language_inferred": true
       },
       {
        "name": "Al-Ahram Radio (راديو الأهرام) – Cairo – Cairo Governorate – EG",
+       "active": 0,
        "url": "http://196.219.246.24:8000/stream",
        "language_inferred": true
       },
       {
        "name": "Al-Quran - Mishary Rashid Alafasy",
+       "active": 0,
        "url": "https://stream.zeno.fm/mckqzgmpcphvv",
        "language_inferred": true
       },
       {
        "name": "Al-Safa",
+       "active": 0,
        "url": "https://stream.zeno.fm/w06h0vzce2zuv",
        "language_inferred": true
       },
       {
        "name": "aladb al3rby radio | إذاعة الأدب العربي",
+       "active": 0,
        "url": "https://stream.zeno.fm/7vq9rm8p7rhvv",
        "language_inferred": true
       },
       {
        "name": "Alex 101.1",
+       "active": 0,
        "url": "https://stream.zeno.fm/n1vhf5d3uhhvv",
        "language_inferred": true
       },
       {
        "name": "Alex radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/tttdmwme7a0uv",
        "language_inferred": true
       },
       {
        "name": "Alf lila wlila – Cairo (راديو الف ليلة وليلة) – Cairo – Cairo Governorate – EG",
+       "active": 0,
        "url": "https://streaming.radionomy.com/6060fm",
        "language_inferred": true
       },
       {
        "name": "Ali Stream",
+       "active": 0,
        "url": "https://stream.zeno.fm/kefk78mg9rhvv",
        "language_inferred": true
       },
       {
        "name": "All Falls Down Alan Walker",
+       "active": 0,
        "url": "https://stream.zeno.fm/zth06cxmduhvv",
        "language_inferred": true
       },
       {
        "name": "All On One",
+       "active": 0,
        "url": "https://stream.zeno.fm/ur0n41pyvrhvv",
        "language_inferred": true
       },
       {
        "name": "All Talk",
+       "active": 0,
        "url": "https://stream.zeno.fm/pfbufs1cvuhvv",
        "language_inferred": true
       },
       {
        "name": "AllReadersKFS",
+       "active": 0,
        "url": "https://stream.zeno.fm/utp7t2qyfkhvv",
        "language_inferred": true
       },
       {
        "name": "AlQURAN",
+       "active": 0,
        "url": "https://stream.zeno.fm/7mr9f6hywhhvv"
       },
       {
        "name": "aly alzeroo",
+       "active": 0,
        "url": "https://stream.zeno.fm/g5kxrduc898uv",
        "language_inferred": true
       },
       {
        "name": "aly zero",
+       "active": 0,
        "url": "https://stream.zeno.fm/7c9zuwqh798uv",
        "language_inferred": true
       },
       {
        "name": "AmanyFm",
+       "active": 0,
        "url": "https://stream.zeno.fm/u6cqbqy5f2ruv"
       },
       {
        "name": "Amar FM – Cairo – Cairo Governorate – EG",
+       "active": 0,
        "url": "http://c24.radioboss.fm:8251/stream",
        "language_inferred": true
       },
       {
        "name": "amm fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/yydv9xvem98uv",
        "language_inferred": true
       },
       {
        "name": "amm fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/nxr8efwem98uv",
        "language_inferred": true
       },
       {
        "name": "AMR DIAB FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/xa4yhh4k838uv",
        "language_inferred": true
       },
       {
        "name": "Amr fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/4tgh1ta98ehvv",
        "language_inferred": true
       },
       {
        "name": "AmrDiab",
+       "active": 0,
        "url": "https://stream.zeno.fm/82vk8dqfxy8uv",
        "language_inferred": true
       },
       {
        "name": "Amy Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/zcvzaqzb7vjtv",
        "language_inferred": true
       },
       {
        "name": "Anaana",
+       "active": 0,
        "url": "https://stream.zeno.fm/bv3fz5zkwy8uv",
        "language_inferred": true
       },
       {
        "name": "anashed islamic",
+       "active": 0,
        "url": "https://stream.zeno.fm/y84fyjtguiwtv",
        "language_inferred": true
       },
       {
        "name": "Anghami FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/ynqtbsfhnnlvv",
        "language_inferred": true
       },
       {
        "name": "Anoos Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/eex17bfnefhvv"
       },
       {
        "name": "Antika radio (راديو أنتيكا) – Cairo – Cairo Governorate – EG",
+       "active": 0,
        "url": "http://uk1.internet-radio.com:8148/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "arab apps",
+       "active": 0,
        "url": "https://stream.zeno.fm/2nyp1az54k0uv",
        "language_inferred": true
       },
       {
        "name": "Arab DJ",
+       "active": 0,
        "url": "https://node-16.zeno.fm/na3vpvn10qruv",
        "language_inferred": true
       },
       {
        "name": "Arab DJ",
+       "active": 0,
        "url": "http://node-07.zeno.fm/na3vpvn10qruv"
       },
       {
        "name": "Arab DJ",
+       "active": 0,
        "url": "https://node-17.zeno.fm/na3vpvn10qruv?rj-ttl=5&amprj-tok=AAABeJElsnMAL3n7WR9H1nKNyw",
        "language_inferred": true
       },
       {
        "name": "Arab FM",
+       "active": 0,
        "url": "http://www.hostmyradio.com:9300/"
       },
       {
        "name": "Arab Mix FM",
+       "active": 0,
        "url": "https://node-17.zeno.fm/efx5psd00qruv",
        "language_inferred": true
       },
       {
        "name": "Arabic 90s FM",
+       "active": 0,
        "url": "https://eu8.fastcast4u.com/proxy/90sfm?mp=/1",
        "language_inferred": true
       },
       {
        "name": "ArabicChill",
+       "active": 0,
        "url": "https://stream.zeno.fm/69cprhbsrrcvv",
        "language_inferred": true
       },
       {
        "name": "ArabLounge",
+       "active": 0,
        "url": "https://stream.zeno.fm/cdaukuvn54zuv",
        "language_inferred": true
       },
       {
        "name": "Arby.chat",
+       "active": 0,
        "url": "https://stream.zeno.fm/7woswnktahcuv",
        "language_inferred": true
       },
       {
        "name": "ARKHAM",
+       "active": 0,
        "url": "https://stream.zeno.fm/9tb6tfzr1uhvv",
        "language_inferred": true
       },
       {
        "name": "Ashabulhadith Radio",
+       "active": 0,
        "url": "http://176.31.107.8:8332/"
       },
       {
        "name": "Astrelove",
+       "active": 0,
        "url": "https://stream.zeno.fm/rkn0m4zx7k0uv",
        "language_inferred": true
       },
       {
        "name": "Ava Arsanyous",
+       "active": 0,
        "url": "https://stream.zeno.fm/e9mkc3b5rs8uv",
        "language_inferred": true
       },
       {
        "name": "AYH Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/ls4p0hmvwq5vv",
        "language_inferred": true
       },
       {
        "name": "AZLuve",
+       "active": 0,
        "url": "https://stream.zeno.fm/chp54xabp98uv",
        "language_inferred": true
       },
       {
        "name": "Azza FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/k9z5c1p5xf8uv",
        "language_inferred": true
       },
       {
        "name": "BadBoy",
+       "active": 0,
        "url": "https://stream.zeno.fm/krpx37vwbphvv",
        "language_inferred": true
       },
       {
        "name": "Badguy",
+       "active": 0,
        "url": "https://stream.zeno.fm/ue5n5aumcc9uv",
        "language_inferred": true
       },
       {
        "name": "bahgat saber",
+       "active": 0,
        "url": "https://stream.zeno.fm/19y9h3gupfhvv",
        "language_inferred": true
       },
       {
        "name": "Bahgat saber",
+       "active": 0,
        "url": "https://stream.zeno.fm/z14ztks2mfhvv",
        "language_inferred": true
       },
       {
        "name": "Bahgat Saber Radio1",
+       "active": 0,
        "url": "https://stream.zeno.fm/90wxvgccm5zuv",
        "language_inferred": true
       },
       {
        "name": "BanderBililah",
+       "active": 0,
        "url": "https://stream.zeno.fm/20kra6ae5p8uv",
        "language_inferred": true
       },
       {
        "name": "Bassima FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/9dku2y7a2d0uv",
        "language_inferred": true
       },
       {
        "name": "Bedaqn",
+       "active": 0,
        "url": "https://stream.zeno.fm/nqwuhcmdkg0uv"
       },
       {
        "name": "BeDo 2",
+       "active": 0,
        "url": "https://stream.zeno.fm/0hw630627zhvv",
        "language_inferred": true
       },
       {
        "name": "Bedooo",
+       "active": 0,
        "url": "https://stream.zeno.fm/3ts3xh728ehvv",
        "language_inferred": true
       },
       {
        "name": "belalgamer station",
+       "active": 0,
        "url": "https://stream.zeno.fm/xbm31n7nachvv",
        "language_inferred": true
       },
       {
        "name": "Believer Imagine Dragons",
+       "active": 0,
        "url": "https://stream.zeno.fm/mq165nrqeuhvv",
        "language_inferred": true
       },
       {
        "name": "Berry Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/qrt3drkm9hhvv",
        "language_inferred": true
       },
       {
        "name": "beshay",
+       "active": 0,
        "url": "https://stream.zeno.fm/4v25rq11708uv",
        "language_inferred": true
       },
       {
        "name": "Betary today",
+       "active": 0,
        "url": "https://stream.zeno.fm/ttwfykdb0xzvv",
        "language_inferred": true
       },
       {
        "name": "big ballers",
+       "active": 0,
        "url": "https://stream.zeno.fm/123gf3uyxc9uv",
        "language_inferred": true
       },
       {
        "name": "BlachStorm",
+       "active": 0,
        "url": "https://stream.zeno.fm/8xn2pykpwy8uv"
       },
       {
        "name": "Blady el7lwah",
+       "active": 0,
        "url": "https://stream.zeno.fm/d0c6658qw38uv"
       },
       {
        "name": "Bloogan",
+       "active": 0,
        "url": "https://stream.zeno.fm/8kd0zyw9n98uv",
        "language_inferred": true
       },
       {
        "name": "cafe-chat",
+       "active": 0,
        "url": "https://stream.zeno.fm/w8w2z7cluliuv"
       },
       {
        "name": "Cairo 99.9",
+       "active": 0,
        "url": "https://stream.zeno.fm/zm4deqv60xhvv"
       },
       {
        "name": "Cairo COE",
+       "active": 0,
        "url": "https://stream.zeno.fm/bs5ecmvxcg0uv"
       },
       {
        "name": "Cairo Up",
+       "active": 0,
        "url": "https://stream.zeno.fm/k0qxxuxfn98uv",
        "language_inferred": true
       },
       {
        "name": "Captain Claw",
+       "active": 0,
        "url": "https://stream.zeno.fm/wh9g0cgt7whvv",
        "language_inferred": true
       },
       {
        "name": "Cashew Nuts Show",
+       "active": 0,
        "url": "https://stream.zeno.fm/22ncmgaueg0uv",
        "language_inferred": true
       },
       {
        "name": "Cest La Vie Chab Khaled",
+       "active": 0,
        "url": "https://stream.zeno.fm/ust2tz1mduhvv",
        "language_inferred": true
       },
       {
        "name": "chat-99",
+       "active": 0,
        "url": "https://stream.zeno.fm/s97bn2h2wwzuv",
        "language_inferred": true
       },
       {
        "name": "chatyyy",
+       "active": 0,
        "url": "https://stream.zeno.fm/bpuvgg68uwzuv",
        "language_inferred": true
       },
       {
        "name": "christian Vibes",
+       "active": 0,
        "url": "https://stream.zeno.fm/nmjevk2nx3ruv"
       },
       {
        "name": "ChristianEgy Fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/u1c0d08yyv8uv",
        "language_inferred": true
       },
       {
        "name": "CLGUCX",
+       "active": 0,
        "url": "https://stream.zeno.fm/r1xd3tamvf9uv",
        "language_inferred": true
       },
       {
        "name": "Cloudjet",
+       "active": 0,
        "url": "https://stream.zeno.fm/q6t9rzes1uhvv",
        "language_inferred": true
       },
       {
        "name": "Clouds",
+       "active": 0,
        "url": "https://stream.zeno.fm/fautyygc5f8uv",
        "language_inferred": true
       },
       {
        "name": "Clouds_Baby Shark",
+       "active": 0,
        "url": "https://stream.zeno.fm/027hubwnr18uv",
        "language_inferred": true
       },
       {
        "name": "CNL Music",
+       "active": 0,
        "url": "https://stream.zeno.fm/kq6gny3q008uv",
        "language_inferred": true
       },
       {
        "name": "colors FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/g21n8qvxhchvv"
       },
       {
        "name": "copt24",
+       "active": 0,
        "url": "https://stream.zeno.fm/57sdvp9c1d0uv",
        "language_inferred": true
       },
       {
        "name": "Copt4G Church إذاعه الكنيسه (الحان و قداسات)",
+       "active": 0,
        "url": "http://50.7.99.163:16550/stream.mp3"
       },
       {
        "name": "Copt4G Church إذاعه الكنيسه (الحان و قداسات) – EG",
+       "active": 0,
        "url": "http://66.70.249.70:5736/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Copt4G Coptic Kids إذاعه الاطفال القبطيه",
+       "active": 0,
        "url": "http://192.240.102.133:12098/stream.mp3"
       },
       {
        "name": "Copt4G Fm (For Meditiation) إذاعه وقت الخلوه",
+       "active": 0,
        "url": "http://50.7.68.251:6924/"
       },
       {
        "name": "Copt4G Sermons إذاعه العظات",
+       "active": 0,
        "url": "http://192.240.102.133:12080/"
       },
       {
        "name": "Coptic Voice Radio",
+       "active": 0,
        "url": "http://stream.clicdomain.com.br:5828/?n=4c81d5af0aab7a8df943",
        "language_inferred": true
       },
       {
        "name": "Country Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/yms5g2afeq8uv",
        "language_inferred": true
       },
       {
        "name": "Country Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/sy6mh72heq8uv",
        "language_inferred": true
       },
       {
        "name": "Coustom radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/91r2pyn18zhvv",
        "language_inferred": true
       },
       {
        "name": "Crazy FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/uzbbyy4yzf8uv",
        "language_inferred": true
       },
       {
        "name": "creamytalk",
+       "active": 0,
        "url": "https://stream.zeno.fm/9v586me90rhvv",
        "language_inferred": true
       },
       {
        "name": "cringe",
+       "active": 0,
        "url": "https://stream.zeno.fm/0drs4smeu68uv",
        "language_inferred": true
       },
       {
        "name": "d7kaya radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/csm54v6rduhvv",
        "language_inferred": true
       },
       {
        "name": "Da7y Elmaraghy",
+       "active": 0,
        "url": "https://stream.zeno.fm/wp4m7234qs8uv",
        "language_inferred": true
       },
       {
        "name": "DavidFahmy",
+       "active": 0,
        "url": "https://stream.zeno.fm/mshd91x84v8uv",
        "language_inferred": true
       },
       {
        "name": "Days Old Radio",
+       "active": 0,
        "url": "http://stream.zeno.fm/aqx3usbtsg0uv.aac"
       },
       {
        "name": "Deep Cavity",
+       "active": 0,
        "url": "https://stream.zeno.fm/hv9vx9t97ehvv",
        "language_inferred": true
       },
       {
        "name": "Demons Imagine Dragons",
+       "active": 0,
        "url": "https://stream.zeno.fm/mpxq4dtqeuhvv",
        "language_inferred": true
       },
       {
        "name": "Den Den",
+       "active": 0,
        "url": "https://stream.zeno.fm/0ubvbestz08uv",
        "language_inferred": true
       },
       {
        "name": "dfdsfdh",
+       "active": 0,
        "url": "https://stream.zeno.fm/41653zwk798uv",
        "language_inferred": true
       },
       {
        "name": "Diab FM",
+       "active": 0,
        "url": "https://stream-34.zeno.fm/rf64mx02qa0uv?zs=-xjlLLwRS8uKrffFxK4vLA?n=f47f2e56a37aaffde135",
        "language_inferred": true
       },
       {
        "name": "DiabRadio",
+       "active": 0,
        "url": "https://stream.zeno.fm/tt604sdfxy8uv",
        "language_inferred": true
       },
       {
        "name": "Dikirnis Fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/ufyfts5d308uv",
        "language_inferred": true
       },
       {
        "name": "Diva store",
+       "active": 0,
        "url": "https://stream.zeno.fm/g239f0zrdv8uv",
        "language_inferred": true
       },
       {
        "name": "Divamos",
+       "active": 0,
        "url": "https://stream.zeno.fm/42rgs6ncy98uv",
        "language_inferred": true
       },
       {
        "name": "DJ SINO",
+       "active": 0,
        "url": "https://stream.zeno.fm/17eh9v660rhvv",
        "language_inferred": true
       },
       {
        "name": "DJ_SIno",
+       "active": 0,
        "url": "https://stream.zeno.fm/38yh4q222rhvv",
        "language_inferred": true
       },
       {
        "name": "Doo3aa",
+       "active": 0,
        "url": "https://stream.zeno.fm/z5nvqnzw808uv",
        "language_inferred": true
       },
       {
        "name": "Dr7ooka",
+       "active": 0,
        "url": "https://stream.zeno.fm/syuxuzzfh48uv",
        "language_inferred": true
       },
       {
        "name": "Drdshat Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/q8ru7n0zr98uv",
        "language_inferred": true
       },
       {
        "name": "DrMohamed Abd Elfattah",
+       "active": 0,
        "url": "https://stream.zeno.fm/n7pcvy5d938uv",
        "language_inferred": true
       },
       {
        "name": "DTFM Radio",
+       "active": 0,
        "url": "https://node-30.zeno.fm/ut6x7kyucv8uv",
        "language_inferred": true
       },
       {
        "name": "DTFM Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/ut6x7kyucv8uv",
        "language_inferred": true
       },
       {
        "name": "Ebn elbalad",
+       "active": 0,
        "url": "https://stream.zeno.fm/pe2tb0bnrc9uv"
       },
       {
        "name": "EBTEHALAT",
+       "active": 0,
        "url": "https://stream.zeno.fm/hntmdjmxhihtv"
       },
       {
        "name": "egypt 11212",
+       "active": 0,
        "url": "https://stream.zeno.fm/vpqxatn6vymuv",
        "language_inferred": true
       },
       {
        "name": "Egypt Quran Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/tv0x28xvyc9uv"
       },
       {
        "name": "Egyptain local",
+       "active": 0,
        "url": "https://stream.zeno.fm/zawodjw8mscvv",
        "language_inferred": true
       },
       {
        "name": "Egyptian Holy Quran Radio (اذاعه القرآن الكريم المصريه) – 98.2 FM – Cairo – Cairo Governorate – EG",
+       "active": 0,
        "url": "http://n13.radiojar.com/8s5u5tpdtwzuv?listening-from-radio-garden=1660216161&rj-tok=AAABgoyhWlwAgPcUq-NrWFbIHQ&rj-ttl=5",
        "language_inferred": true
       },
       {
        "name": "Egyptian Mix",
+       "active": 0,
        "url": "https://stream.zeno.fm/tghz8nshffhvv",
        "language_inferred": true
       },
       {
        "name": "Egyptian Street Songs",
+       "active": 0,
        "url": "https://stream.zeno.fm/9xzhsc7dprhvv",
        "language_inferred": true
       },
       {
        "name": "El Haraka De Ahmed Helmy",
+       "active": 0,
        "url": "https://stream.zeno.fm/7nq7agsvcuhvv",
        "language_inferred": true
       },
       {
        "name": "EL RADIO",
+       "active": 0,
        "url": "http://9090streaming2.mobtada.com/9090FMEGYPT",
        "language_inferred": true
       },
       {
        "name": "EL Talta Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/hlmuhaunjkjvv"
       },
       {
        "name": "El Waili Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/sb7hg7y5w0hvv",
        "language_inferred": true
       },
       {
        "name": "El-Biet FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/uauc9ynnam0uv"
       },
       {
        "name": "EL.Disal",
+       "active": 0,
        "url": "https://stream.zeno.fm/akt4amzivl2vv",
        "language_inferred": true
       },
       {
        "name": "El3klany",
+       "active": 0,
        "url": "https://stream.zeno.fm/ehs8emexmd0uv",
        "language_inferred": true
       },
       {
        "name": "Elaghany Radio",
+       "active": 0,
        "url": "http://s5.myradiostream.com:12004",
        "language_inferred": true
       },
       {
        "name": "Elissa",
+       "active": 0,
        "url": "https://stream.zeno.fm/8kbcz6nr008uv",
        "language_inferred": true
       },
       {
        "name": "ElMinshawy",
+       "active": 0,
        "url": "https://stream.zeno.fm/9md6m71tp68uv",
        "language_inferred": true
       },
       {
        "name": "ElshahatAnwar",
+       "active": 0,
        "url": "https://stream.zeno.fm/e9qc4f44qs8uv",
        "language_inferred": true
       },
       {
        "name": "Eman Live",
+       "active": 0,
        "url": "https://radio.manhag.net/radio/8000/radio.mp3",
        "language_inferred": true
       },
       {
        "name": "Eman Live",
+       "active": 0,
        "url": "http://www.emanlive.com:8000/stream/1"
       },
       {
        "name": "emtyazRadio",
+       "active": 0,
        "url": "https://stream.zeno.fm/styzqvhkwlcvv"
       },
       {
        "name": "ENGLISH",
+       "active": 0,
        "url": "https://stream.zeno.fm/pcax39emzc9uv",
        "language_inferred": true
       },
       {
        "name": "Engy Anis",
+       "active": 0,
        "url": "https://stream.zeno.fm/b5ep60dca48uv",
        "language_inferred": true
       },
       {
        "name": "enshad",
+       "active": 0,
        "url": "https://stream.zeno.fm/fam4w04v24zuv",
        "language_inferred": true
       },
       {
        "name": "Eric Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/f23wagv63hhvv",
        "language_inferred": true
       },
       {
        "name": "ERTU Al-Aghani",
+       "active": 0,
        "url": "https://livestreaming5.onlinehorizons.net/hls-live/Aghany/_definst_/liveevent/livestream.m3u8"
       },
       {
        "name": "ERTU Sawt al-Arab",
+       "active": 0,
        "url": "https://livestreaming5.onlinehorizons.net/hls-live/SootArab/_definst_/liveevent/livestream.m3u8",
        "language_inferred": true
       },
       {
        "name": "Eslam",
+       "active": 0,
        "url": "https://stream.zeno.fm/tm98gtnrtg0uv"
       },
       {
        "name": "ESLAM AL3MLAK",
+       "active": 0,
        "url": "https://stream.zeno.fm/dhp8bx13cf9uv"
       },
       {
        "name": "Eslamic",
+       "active": 0,
        "url": "https://stream.zeno.fm/jwvrbg1mghotv"
       },
       {
        "name": "Esnedny Taraneem",
+       "active": 0,
        "url": "https://stream.zeno.fm/tgfe3h3k54zuv"
       },
       {
        "name": "EZ MUSIC",
+       "active": 0,
        "url": "https://stream.zeno.fm/h1vw8v8h5ehvv",
        "language_inferred": true
       },
       {
        "name": "Eza3et feysal",
+       "active": 0,
        "url": "https://stream.zeno.fm/576mf4hk698uv"
       },
       {
        "name": "Eza3et feysal",
+       "active": 0,
        "url": "https://stream.zeno.fm/gzum68tk698uv",
        "language_inferred": true
       },
       {
        "name": "F5aMh.",
+       "active": 0,
        "url": "https://stream.zeno.fm/3dbm9ghvb0hvv",
        "language_inferred": true
       },
       {
        "name": "FadlShaker",
+       "active": 0,
        "url": "https://stream.zeno.fm/uc4wqgqr008uv",
        "language_inferred": true
       },
       {
        "name": "fady shehata",
+       "active": 0,
        "url": "https://stream.zeno.fm/qncgs85kh98uv"
       },
       {
        "name": "faerowz",
+       "active": 0,
        "url": "https://stream.zeno.fm/xkhnk4vee18uv",
        "language_inferred": true,
        "rb": "f0d6b0a0-a6b7-4574-8921-f581357ea998",
@@ -2960,2492 +3425,3013 @@
       },
       {
        "name": "Fairuz",
+       "active": 0,
        "url": "https://stream.zeno.fm/52kz37b3f2zuv",
        "language_inferred": true
       },
       {
        "name": "Fantoom",
+       "active": 0,
        "url": "https://stream.zeno.fm/4rith9iy1xsuv",
        "language_inferred": true
       },
       {
        "name": "Far7a dot Masr",
+       "active": 0,
        "url": "https://stream.zeno.fm/svb9t9fx71zuv",
        "language_inferred": true
       },
       {
        "name": "Fayrouz",
+       "active": 0,
        "url": "https://stream.zeno.fm/mk3w9kvn54zuv",
        "language_inferred": true
       },
       {
        "name": "Fayrouz Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/hc9k1bc9ps8uv",
        "language_inferred": true
       },
       {
        "name": "FeElSeka",
+       "active": 0,
        "url": "https://stream.zeno.fm/p1m7dketeg0uv",
        "language_inferred": true
       },
       {
        "name": "feheed.coffee.restaurant",
+       "active": 0,
        "url": "https://stream.zeno.fm/j9hlcmjazxltv"
       },
       {
        "name": "First Right",
+       "active": 0,
        "url": "https://stream.zeno.fm/w73skhs50xhvv"
       },
       {
        "name": "flying",
+       "active": 0,
        "url": "https://stream.zeno.fm/qky2fmodbmhtv",
        "language_inferred": true
       },
       {
        "name": "FM 105.8",
+       "active": 0,
        "url": "https://stream.zeno.fm/h115yubxgkhvv",
        "language_inferred": true
       },
       {
        "name": "Forraq",
+       "active": 0,
        "url": "https://stream.zeno.fm/rfdrvb3qgm8uv",
        "language_inferred": true
       },
       {
        "name": "FouadRadio",
+       "active": 0,
        "url": "https://stream.zeno.fm/sfckv3rr008uv",
        "language_inferred": true
       },
       {
        "name": "FRED FILM RADIO Arabic",
+       "active": 0,
        "url": "http://s6.webradio-hosting.com:8012/"
       },
       {
        "name": "FREULER SLOW",
+       "active": 0,
        "url": "https://stream.zeno.fm/d04tezxrdvwuv",
        "language_inferred": true
       },
       {
        "name": "Future Youth",
+       "active": 0,
        "url": "https://stream.zeno.fm/8v6y86k95zhvv",
        "language_inferred": true
       },
       {
        "name": "ga-baghdadi",
+       "active": 0,
        "url": "https://stream.zeno.fm/am5gxs1g6ehvv",
        "language_inferred": true
       },
       {
        "name": "gdfgdfg",
+       "active": 0,
        "url": "https://stream.zeno.fm/sc9f94wk798uv",
        "language_inferred": true
       },
       {
        "name": "GeoAgro-MiSR",
+       "active": 0,
        "url": "https://stream.zeno.fm/aflnin8ytrhvv",
        "language_inferred": true
       },
       {
        "name": "George Wasoof",
+       "active": 0,
        "url": "https://stream.zeno.fm/x55t098r008uv",
        "language_inferred": true
       },
       {
        "name": "Gharaam",
+       "active": 0,
        "url": "https://stream.zeno.fm/fhz0668yrf9uv",
        "language_inferred": true
       },
       {
        "name": "Goal FM Radio",
+       "active": 0,
        "url": "https://ample-zeno-07.radiojar.com/uwq6pusuvg5tv?rj-ttl=5&rj-token=AAABXqN0taC_FgJ6U0Tlr2-ck1LZjfkW8pwCH3M3yTgV3FVrHTGC8Q",
        "language_inferred": true
       },
       {
        "name": "Godonline",
+       "active": 0,
        "url": "http://eu7.fastcast4u.com:6230/",
        "language_inferred": true
       },
       {
        "name": "GokkeyST",
+       "active": 0,
        "url": "https://stream.zeno.fm/frxtf03xc48uv",
        "language_inferred": true
       },
       {
        "name": "gramaphoon",
+       "active": 0,
        "url": "https://stream.zeno.fm/vkm5hup884zuv",
        "language_inferred": true
       },
       {
        "name": "grandtheftauto2342",
+       "active": 0,
        "url": "https://stream.zeno.fm/setsuuusr9kuv",
        "language_inferred": true
       },
       {
        "name": "Greatest Hits",
+       "active": 0,
        "url": "https://stream.zeno.fm/k0hhhuw8pxhvv",
        "language_inferred": true
       },
       {
        "name": "GTA sa",
+       "active": 0,
        "url": "https://stream.zeno.fm/qba3ne4kuf9uv",
        "language_inferred": true
       },
       {
        "name": "GTA SA",
+       "active": 0,
        "url": "https://stream.zeno.fm/59pa47dq1zhvv",
        "language_inferred": true
       },
       {
        "name": "Gta sa",
+       "active": 0,
        "url": "https://stream.zeno.fm/utmaq1nzyuhvv",
        "language_inferred": true
       },
       {
        "name": "GTA_Muslim",
+       "active": 0,
        "url": "https://stream.zeno.fm/5eqh1b7gcc9uv",
        "language_inferred": true
       },
       {
        "name": "HaaDii Sport",
+       "active": 0,
        "url": "https://stream.zeno.fm/gtoyqqqseaitv",
        "language_inferred": true
       },
       {
        "name": "HaaDii Sports",
+       "active": 0,
        "url": "https://stream.zeno.fm/gd1exrp3de6vv",
        "language_inferred": true
       },
       {
        "name": "Hackers Hunter",
+       "active": 0,
        "url": "https://stream.zeno.fm/wz4k7r74138uv",
        "language_inferred": true
       },
       {
        "name": "hadaakmall",
+       "active": 0,
        "url": "https://stream.zeno.fm/wdmf5io3hlqtv"
       },
       {
        "name": "HAKWAII-FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/gz4qmhn7pkhvv"
       },
       {
        "name": "Hamaky Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/y73zehwn108uv",
        "language_inferred": true
       },
       {
        "name": "Harmony",
+       "active": 0,
        "url": "https://stream.zeno.fm/1sechhuz2n7tv",
        "language_inferred": true
       },
       {
        "name": "harmonynews",
+       "active": 0,
        "url": "https://stream.zeno.fm/sfqu2y9mc0hvv",
        "language_inferred": true
       },
       {
        "name": "Heaven quran",
+       "active": 0,
        "url": "https://stream.zeno.fm/2kmhq2u7bkhvv",
        "language_inferred": true
       },
       {
        "name": "Heba And Emad Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/dgdgs2wnefhvv",
        "language_inferred": true
       },
       {
        "name": "Hec Youth",
+       "active": 0,
        "url": "https://stream.zeno.fm/nyyrty5ym7ovv",
        "language_inferred": true
       },
       {
        "name": "Heliopolis Family Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/a5behncns0hvv",
        "language_inferred": true
       },
       {
        "name": "Heliopolis Family Radio – EG",
+       "active": 0,
        "url": "https://mars.streamerr.co:8110",
        "language_inferred": true
       },
       {
        "name": "HF Nephroclinic",
+       "active": 0,
        "url": "https://stream.zeno.fm/ndqkh8f4ud0uv",
        "language_inferred": true
       },
       {
        "name": "Hikayat",
+       "active": 0,
        "url": "https://stream.zeno.fm/pu7dc3kgys8uv",
        "language_inferred": true
       },
       {
        "name": "Hit 114",
+       "active": 0,
        "url": "https://stream.zeno.fm/pa5ave0sxhhvv",
        "language_inferred": true
       },
       {
        "name": "Holly Quraan",
+       "active": 0,
        "url": "https://stream.zeno.fm/bmgb841xhchvv",
        "language_inferred": true
       },
       {
        "name": "Hope Ambassadors",
+       "active": 0,
        "url": "https://stream.zeno.fm/hyc9cqx504zuv",
        "language_inferred": true
       },
       {
        "name": "Hosary Quran",
+       "active": 0,
        "url": "https://stream.zeno.fm/vsfa9n4g698uv",
        "language_inferred": true
       },
       {
        "name": "Hyr2727",
+       "active": 0,
        "url": "https://stream.zeno.fm/3qra0rwkbnavv",
        "language_inferred": true
       },
       {
        "name": "iBrceus",
+       "active": 0,
        "url": "https://stream.zeno.fm/oze1nsr8wwjvv",
        "language_inferred": true
       },
       {
        "name": "icadoli.fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/zn2s1ucmbcotv",
        "language_inferred": true
       },
       {
        "name": "IDK_IDK",
+       "active": 0,
        "url": "https://stream.zeno.fm/a7nyanfrnkatv",
        "language_inferred": true
       },
       {
        "name": "IGCSE Arabic",
+       "active": 0,
        "url": "https://stream.zeno.fm/u2x4ehqt7hhvv",
        "language_inferred": true
       },
       {
        "name": "IGE.FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/fae70s21nfhvv"
       },
       {
        "name": "In Radio",
+       "active": 0,
        "url": "http://streaming.radionomy.com/insan",
        "language_inferred": true
       },
       {
        "name": "islamiat",
+       "active": 0,
        "url": "https://stream.zeno.fm/d2y6pma9rd0uv",
        "language_inferred": true
       },
       {
        "name": "Jabal_Si_FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/t7zxrzxs638uv",
        "language_inferred": true
       },
       {
        "name": "JakoRadio",
+       "active": 0,
        "url": "https://stream.zeno.fm/0ysckcjhjeduv",
        "language_inferred": true
       },
       {
        "name": "Jannah",
+       "active": 0,
        "url": "https://stream.zeno.fm/50n0pgdd6zhvv",
        "language_inferred": true
       },
       {
        "name": "jape43",
+       "active": 0,
        "url": "https://stream.zeno.fm/k0axz718gfhvv"
       },
       {
        "name": "JNOBII",
+       "active": 0,
        "url": "https://stream.zeno.fm/bc9bue9zbuhvv",
        "language_inferred": true
       },
       {
        "name": "judge chronicles",
+       "active": 0,
        "url": "https://stream.zeno.fm/h4mt87yknxhvv",
        "language_inferred": true
       },
       {
        "name": "judge chronicles",
+       "active": 0,
        "url": "https://stream.zeno.fm/p7waq4yknxhvv",
        "language_inferred": true
       },
       {
        "name": "JUICEWRLD",
+       "active": 0,
        "url": "https://stream.zeno.fm/l3q25t1gudovv",
        "language_inferred": true
       },
       {
        "name": "Kalman Waves",
+       "active": 0,
        "url": "https://stream.zeno.fm/7z14tr44rxhvv",
        "language_inferred": true
       },
       {
        "name": "karozaswan",
+       "active": 0,
        "url": "https://stream.zeno.fm/p2138n80198uv",
        "language_inferred": true
       },
       {
        "name": "Kaviar",
+       "active": 0,
        "url": "https://stream.zeno.fm/gvet7duc898uv",
        "language_inferred": true
       },
       {
        "name": "Keystone Records",
+       "active": 0,
        "url": "https://stream.zeno.fm/g3w9hpgkeq8uv",
        "language_inferred": true
       },
       {
        "name": "KidzRadio",
+       "active": 0,
        "url": "https://stream.zeno.fm/66h77z0r008uv",
        "language_inferred": true
       },
       {
        "name": "King Monier",
+       "active": 0,
        "url": "https://stream.zeno.fm/2qrkrq1r008uv",
        "language_inferred": true
       },
       {
        "name": "Kira Nocta",
+       "active": 0,
        "url": "https://stream.zeno.fm/t5v8rqph798uv",
        "language_inferred": true
       },
       {
        "name": "Kishk Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/kenbwry5ttvtv"
       },
       {
        "name": "klmteen obas",
+       "active": 0,
        "url": "https://stream.zeno.fm/0q8a4evhvg0uv",
        "language_inferred": true
       },
       {
        "name": "KNoJuJu",
+       "active": 0,
        "url": "https://stream.zeno.fm/4ipkmwbvxyitv",
        "language_inferred": true
       },
       {
        "name": "Koizys Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/5qx43b2q7s8uv",
        "language_inferred": true
       },
       {
        "name": "Koko_Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/62g1c0n9huhvv",
        "language_inferred": true
       },
       {
        "name": "Kota Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/5tkr68rx0uhvv",
        "language_inferred": true
       },
       {
        "name": "KOTOPkHANA",
+       "active": 0,
        "url": "https://stream.zeno.fm/w2mmzzqdr2zuv",
        "language_inferred": true
       },
       {
        "name": "Krono33",
+       "active": 0,
        "url": "https://stream.zeno.fm/t3bf4rvg9whvv",
        "language_inferred": true
       },
       {
        "name": "Lamada",
+       "active": 0,
        "url": "https://stream.zeno.fm/g2ywsuemdq8uv",
        "language_inferred": true
       },
       {
        "name": "Latin Wagon Radio Egypt",
+       "active": 0,
        "url": "https://stream.zeno.fm/7wr1epchdv8uv",
        "language_inferred": true
       },
       {
        "name": "lbi Zaman",
+       "active": 0,
        "url": "http://212.83.138.48:8165/stream"
       },
       {
        "name": "Link2islam",
+       "active": 0,
        "url": "https://stream.zeno.fm/wajv3im6kp1vv",
        "language_inferred": true
       },
       {
        "name": "Linux Station",
+       "active": 0,
        "url": "https://stream.zeno.fm/x0gvm4vmr18uv",
        "language_inferred": true
       },
       {
        "name": "Little wolfie Emily",
+       "active": 0,
        "url": "https://stream.zeno.fm/l1lwvehr5r1tv",
        "language_inferred": true
       },
       {
        "name": "Live 2020",
+       "active": 0,
        "url": "https://stream.zeno.fm/k0prphe0aphvv",
        "language_inferred": true
       },
       {
        "name": "lolo radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/wy9ywamkm98uv",
        "language_inferred": true
       },
       {
        "name": "LoVe StoRy FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/hswv0qwu7vgtv"
       },
       {
        "name": "loveheart",
+       "active": 0,
        "url": "https://stream.zeno.fm/tsraxu2gr18uv",
        "language_inferred": true
       },
       {
        "name": "Lover Nights",
+       "active": 0,
        "url": "https://stream.zeno.fm/v4zhaynwvrhvv",
        "language_inferred": true
       },
       {
        "name": "Lunar System Technology",
+       "active": 0,
        "url": "https://stream.zeno.fm/apchwu0bgfhvv",
        "language_inferred": true
       },
       {
        "name": "ly zeroa",
+       "active": 0,
        "url": "https://stream.zeno.fm/tm0upzqh798uv",
        "language_inferred": true
       },
       {
        "name": "M Ent FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/tf40k7dmgf9uv"
       },
       {
        "name": "M O K A",
+       "active": 0,
        "url": "https://stream.zeno.fm/uk6uq10e5uhvv",
        "language_inferred": true
       },
       {
        "name": "M0H4B.",
+       "active": 0,
        "url": "https://stream.zeno.fm/txq3hzrqg48uv"
       },
       {
        "name": "M3ak3laTool Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/4angnb5s538uv",
        "language_inferred": true
       },
       {
        "name": "M3ana Online",
+       "active": 0,
        "url": "https://stream.zeno.fm/b4vtw4rty68uv"
       },
       {
        "name": "Maghaghah",
+       "active": 0,
        "url": "https://stream.zeno.fm/vfctvk4dd78uv",
        "language_inferred": true
       },
       {
        "name": "MagiX Station",
+       "active": 0,
        "url": "https://stream.zeno.fm/whbxvj8qooyvv",
        "language_inferred": true
       },
       {
        "name": "MahmoudYassen",
+       "active": 0,
        "url": "https://stream.zeno.fm/9kk76pk414zuv",
        "language_inferred": true
       },
       {
        "name": "Mahraganat Tefa",
+       "active": 0,
        "url": "https://stream.zeno.fm/tkn0sqevy7zuv"
       },
       {
        "name": "Makkah Digital FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/g9qtf1514hhvv"
       },
       {
        "name": "Malk1radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/pub7cc2bkfhvv",
        "language_inferred": true
       },
       {
        "name": "Manchester FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/9an9mt3rbc9uv",
        "language_inferred": true
       },
       {
        "name": "MarMina Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/ypqubgw74npvv",
        "language_inferred": true
       },
       {
        "name": "Marwan Ghareb FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/79suwnwk7rhvv"
       },
       {
        "name": "Marwan Pablo",
+       "active": 0,
        "url": "https://stream.zeno.fm/frvxg7wgeq8uv",
        "language_inferred": true,
        "rb": "a41e3990-720e-4e31-a447-6b29e64726fe"
       },
       {
        "name": "Mate station",
+       "active": 0,
        "url": "https://stream.zeno.fm/7dnu3gk7af9uv",
        "language_inferred": true
       },
       {
        "name": "Mazzkia2",
+       "active": 0,
        "url": "https://stream.zeno.fm/q9r43z0zpnhvv",
        "language_inferred": true
       },
       {
        "name": "MCAGR_Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/t7w42h6f4nhvv",
        "language_inferred": true
       },
       {
        "name": "MDozan",
+       "active": 0,
        "url": "https://stream.zeno.fm/98z6ks71hd0uv"
       },
       {
        "name": "Meem fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/4229q0e96p8uv",
        "language_inferred": true
       },
       {
        "name": "Mega_Troll",
+       "active": 0,
        "url": "https://stream.zeno.fm/gleu06d7f4puv",
        "language_inferred": true
       },
       {
        "name": "Memodo FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/hu2rfujsgdyvv"
       },
       {
        "name": "MenRadio",
+       "active": 0,
        "url": "https://stream-57.zeno.fm/ebitxokyr7ptv",
        "language_inferred": true
       },
       {
        "name": "Meziaa",
+       "active": 0,
        "url": "https://stream.zeno.fm/3svu48t90xhvv",
        "language_inferred": true
       },
       {
        "name": "Millionaire From B 100 Wesh TV Series El Madfaagya",
+       "active": 0,
        "url": "https://stream.zeno.fm/sht95ffbguhvv",
        "language_inferred": true
       },
       {
        "name": "MisrFone",
+       "active": 0,
        "url": "http://s2.voscast.com:8612/stream/1"
       },
       {
        "name": "Mix Drama",
+       "active": 0,
        "url": "https://stream.zeno.fm/ct8habf171zuv"
       },
       {
        "name": "Mix Tape Test",
+       "active": 0,
        "url": "https://stream.zeno.fm/hbbvr1wvxc9uv",
        "language_inferred": true
       },
       {
        "name": "mklsjasaf",
+       "active": 0,
        "url": "https://stream.zeno.fm/iqlaz7wp9uctv",
        "language_inferred": true
       },
       {
        "name": "Moha Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/fqf9p6z4w0hvv",
        "language_inferred": true
       },
       {
        "name": "moha station",
+       "active": 0,
        "url": "https://stream.zeno.fm/nm4p2wyknxhvv",
        "language_inferred": true
       },
       {
        "name": "mohamed",
+       "active": 0,
        "url": "https://stream.zeno.fm/bodrrsu3knmvv",
        "language_inferred": true
       },
       {
        "name": "Mohamed",
+       "active": 0,
        "url": "https://stream.zeno.fm/16rxqs213hhvv",
        "language_inferred": true
       },
       {
        "name": "mohamed",
+       "active": 0,
        "url": "https://stream.zeno.fm/d9onl3ydhgiuv",
        "language_inferred": true
       },
       {
        "name": "Mohamed ElaMeiR FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/dnmabcebhfhvv"
       },
       {
        "name": "Mohamed Elshazly",
+       "active": 0,
        "url": "https://stream.zeno.fm/57ee4upsyc9uv",
        "language_inferred": true
       },
       {
        "name": "mohamed medhat",
+       "active": 0,
        "url": "https://stream.zeno.fm/rx477stgakhvv",
        "language_inferred": true
       },
       {
        "name": "Mohamed Ramadan",
+       "active": 0,
        "url": "https://stream.zeno.fm/m0q0av8r008uv",
        "language_inferred": true
       },
       {
        "name": "MohamedRefaat",
+       "active": 0,
        "url": "https://stream.zeno.fm/73xsyy44qs8uv",
        "language_inferred": true
       },
       {
        "name": "moko fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/ct5vm7k84c9uv",
        "language_inferred": true
       },
       {
        "name": "Morada fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/xyt1mkfgk5zuv"
       },
       {
        "name": "Moro Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/4styu09rh98uv",
        "language_inferred": true
       },
       {
        "name": "MostafaKamel",
+       "active": 0,
        "url": "https://stream.zeno.fm/81mp916r008uv",
        "language_inferred": true
       },
       {
        "name": "Moustafa Amar FM",
+       "active": 0,
        "url": "http://87.117.193.10:8050/",
        "language_inferred": true
       },
       {
        "name": "Msj for Elohim",
+       "active": 0,
        "url": "https://stream.zeno.fm/w48wccs13hhvv",
        "language_inferred": true
       },
       {
        "name": "Music Room Radio",
+       "active": 0,
        "url": "http://173.249.31.198:8008/"
       },
       {
        "name": "N0G0MElm7ta",
+       "active": 0,
        "url": "https://stream.zeno.fm/xx92qc3x8p8uv"
       },
       {
        "name": "Naa3am",
+       "active": 0,
        "url": "https://stream.zeno.fm/nk5m36uv008uv",
        "language_inferred": true
       },
       {
        "name": "Nadershehata",
+       "active": 0,
        "url": "https://stream.zeno.fm/u5dpvpt2ekhvv",
        "language_inferred": true
       },
       {
        "name": "nagaat",
+       "active": 0,
        "url": "https://stream.zeno.fm/1e0nwu4x24zuv",
        "language_inferred": true
       },
       {
        "name": "Nagat Alsaghira",
+       "active": 0,
        "url": "https://stream.zeno.fm/qtp67bc3f2zuv",
        "language_inferred": true
       },
       {
        "name": "nagn fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/ke21vb421s8uv",
        "language_inferred": true
       },
       {
        "name": "nakshabandy",
+       "active": 0,
        "url": "https://stream.zeno.fm/w13tazk414zuv",
        "language_inferred": true
       },
       {
        "name": "NancyRadio",
+       "active": 0,
        "url": "https://stream.zeno.fm/00dax07r008uv",
        "language_inferred": true
       },
       {
        "name": "Nebula",
+       "active": 0,
        "url": "https://stream.zeno.fm/gvs7qn5wxd0uv",
        "language_inferred": true
       },
       {
        "name": "NFTs Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/jbht0jvtwg7tv",
        "language_inferred": true
       },
       {
        "name": "Ngoomelgeel",
+       "active": 0,
        "url": "https://stream.zeno.fm/59u7e0xvxc9uv"
       },
       {
        "name": "Ngoum Cairo FM",
+       "active": 0,
        "url": "https://node-32.zeno.fm/z803g250uchvv",
        "language_inferred": true
       },
       {
        "name": "Nile FM",
+       "active": 0,
        "url": "https://audio.nrpstream.com/public/nile_fm/playlist.pls?n=5a0ee6ecde26a11040c3",
        "language_inferred": true
       },
       {
        "name": "Nobian Radio راديو النوبة",
+       "active": 0,
        "url": "http://173.249.31.198:8028/"
       },
       {
        "name": "Nogoum fm",
+       "active": 0,
        "url": "https://audio.nrpstream.com/listen/nogoumfm/radio.mp3?refresh=1675929443955?n=5d01f036b882881708cd",
        "language_inferred": true
       },
       {
        "name": "Nogoum FM Mix",
+       "active": 0,
        "url": "http://node-31.zeno.fm/0ms1g2tgr18uv",
        "language_inferred": true
       },
       {
        "name": "nogoum FM Mix – Cairo – Cairo Governorate – EG",
+       "active": 0,
        "url": "http://134.213.79.130/0ms1g2tgr18uv",
        "language_inferred": true
       },
       {
        "name": "Nogoum Mix 256",
+       "active": 0,
        "url": "http://node-18.zeno.fm/qb1zvsykm98uv",
        "language_inferred": true
       },
       {
        "name": "Nogoum Mix 320",
+       "active": 0,
        "url": "http://node-34.zeno.fm/cqd6hz68m98uv",
        "language_inferred": true
       },
       {
        "name": "Nonooo",
+       "active": 0,
        "url": "https://stream.zeno.fm/x2ptp30tqfhvv",
        "language_inferred": true
       },
       {
        "name": "Nota Arabia Masria radio",
+       "active": 0,
        "url": "http://109.169.76.26:33468/live"
       },
       {
        "name": "Nourhan Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/so6lvyarqoutv",
        "language_inferred": true
       },
       {
        "name": "NRJ EGYPT",
+       "active": 0,
        "url": "https://nrjstreaming.ahmed-melege.com/nrjegypt",
        "rb": "de776c2f-ac0d-47da-a14d-e5d8bb2e54d5",
        "logo": "https://nrj.com/img/NRJ_EGYPT_140.jpg"
       },
       {
        "name": "okmy radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/mq1ew4cnr68uv"
       },
       {
        "name": "Om kalthoum",
+       "active": 0,
        "url": "https://stream.zeno.fm/69mbazb3f2zuv",
        "language_inferred": true
       },
       {
        "name": "Om Kalthoum",
+       "active": 0,
        "url": "https://stream.zeno.fm/n1v7myxr008uv",
        "language_inferred": true
       },
       {
        "name": "OM Kolthoum",
+       "active": 0,
        "url": "https://stream.zeno.fm/vdws5ggv24zuv",
        "language_inferred": true
       },
       {
        "name": "Omar4Mazen",
+       "active": 0,
        "url": "https://stream.zeno.fm/f21xwhm1znhvv",
        "language_inferred": true
       },
       {
        "name": "OneTap",
+       "active": 0,
        "url": "https://stream.zeno.fm/gysk19ytxc9uv",
        "language_inferred": true
       },
       {
        "name": "ONsport FM",
+       "active": 0,
        "url": "http://carina.streamerr.co:8108/stream/",
        "language_inferred": true
       },
       {
        "name": "Origo Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/w8bdahz9ma0uv",
        "language_inferred": true
       },
       {
        "name": "Orthodoxy Radio",
+       "active": 0,
        "url": "http://144.208.70.156:8000/live",
        "language_inferred": true
       },
       {
        "name": "panda radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/1sa0g3dta0hvv"
       },
       {
        "name": "POKRadio",
+       "active": 0,
        "url": "https://stream.zeno.fm/9pfmfgwvunovv",
        "language_inferred": true
       },
       {
        "name": "Posto Vitória Poá",
+       "active": 0,
        "url": "https://stream.zeno.fm/asxrzr0efphvv"
       },
       {
        "name": "Prep 2023",
+       "active": 0,
        "url": "https://stream.zeno.fm/2cgjn0a1ofttv",
        "language_inferred": true
       },
       {
        "name": "Pronto FM",
+       "active": 0,
        "url": "http://159.69.79.197:9214/?n=9ff7a9df89cb07604d67",
        "language_inferred": true
       },
       {
        "name": "Pure FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/x0da3hps8whvv"
       },
       {
        "name": "Pyra FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/zt7ecrzz00ftv",
        "language_inferred": true
       },
       {
        "name": "qError_",
+       "active": 0,
        "url": "https://stream.zeno.fm/8vxfyf9sp0hvv",
        "language_inferred": true
       },
       {
        "name": "Qoran Kareem",
+       "active": 0,
        "url": "https://stream.zeno.fm/pvhln34yhcrtv",
        "language_inferred": true
       },
       {
        "name": "Quran - Alexandria",
+       "active": 0,
        "url": "https://stream.zeno.fm/tqbndtrsqrfuv",
        "language_inferred": true
       },
       {
        "name": "Quran Egypt",
+       "active": 0,
        "url": "https://node-07.zeno.fm/tv0x28xvyc9uv?zs=HeUbgFInQU2hxmOEAAzG4w\\u0026rj-tok=AAABgY1ZIwcALW7K40CESTMEtA\\u0026rj-ttl=5"
       },
       {
        "name": "Quran FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/8gacn24vk2zuv",
        "language_inferred": true
       },
       {
        "name": "Quran Garden",
+       "active": 0,
        "url": "https://stream.zeno.fm/bcezpz655p8uv"
       },
       {
        "name": "Quran Kareem",
+       "active": 0,
        "url": "https://stream.zeno.fm/g0fsf5996a0uv"
       },
       {
        "name": "Quran Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/9ea9phslm4muv"
       },
       {
        "name": "R Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/0pleah9d9govv",
        "language_inferred": true
       },
       {
        "name": "RA Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/b2322v0en98uv",
        "language_inferred": true
       },
       {
        "name": "Radio 2moro",
+       "active": 0,
        "url": "https://stream.zeno.fm/7kkfe80kzk8uv"
       },
       {
        "name": "Radio 8090",
+       "active": 0,
        "url": "https://stream.zeno.fm/ubmrkx7xtrhvv",
        "language_inferred": true
       },
       {
        "name": "RADIO 90S",
+       "active": 0,
        "url": "https://stream.zeno.fm/yr3u9fvvty8uv",
        "language_inferred": true
       },
       {
        "name": "Radio 90s FM",
+       "active": 0,
        "url": "https://node-20.zeno.fm/yr3u9fvvty8uv",
        "language_inferred": true
       },
       {
        "name": "Radio 90s FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/0dh9whxvcfhvv"
       },
       {
        "name": "Radio _koTa_",
+       "active": 0,
        "url": "https://stream.zeno.fm/nq5qew1u0uhvv",
        "language_inferred": true
       },
       {
        "name": "Radio A7lmna fm (راديو احلامنا) – Cairo – Cairo Governorate – EG",
+       "active": 0,
        "url": "http://egradio.in:9998/",
        "language_inferred": true
       },
       {
        "name": "Radio alaa",
+       "active": 0,
        "url": "https://stream.zeno.fm/8e8m1sytz08uv",
        "language_inferred": true
       },
       {
        "name": "Radio Alwan FM (راديو ألوان أف إم) – EG",
+       "active": 0,
        "url": "https://stream.zeno.fm/fhhhcrvxhchvv",
        "language_inferred": true
       },
       {
        "name": "Radio Antica راديو انتيكا",
+       "active": 0,
        "url": "http://136.243.89.138:9310/stream.mp3"
       },
       {
        "name": "Radio awtar FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/jfx5qw4xpc8tv"
       },
       {
        "name": "Radio Baghdad",
+       "active": 0,
        "url": "http://98.177.192.165:8000/wcpe.mp3"
       },
       {
        "name": "Radio BanhaCity Tarab",
+       "active": 0,
        "url": "http://5.9.140.203:14119/stream"
       },
       {
        "name": "Radio Bridge",
+       "active": 0,
        "url": "http://95.111.233.125:9320/live/",
        "language_inferred": true
       },
       {
        "name": "Radio Bridge – Cairo – Cairo Governorate – EG",
+       "active": 0,
        "url": "http://213.136.85.197:9320//stream",
        "language_inferred": true
       },
       {
        "name": "Radio Cairo",
+       "active": 0,
        "url": "https://livestreaming5.onlinehorizons.net/hls-live/ElBernamegElOrobi/_definst_/liveevent/livestream.m3u8"
       },
       {
        "name": "Radio Cairo FM 95.4 (راديو القاهرة) – 95.4 FM – Cairo – Cairo Governorate – EG",
+       "active": 0,
        "url": "http://images.listenarabic.com/asx/cairo_radio.asx",
        "language_inferred": true
       },
       {
        "name": "Radio code03",
+       "active": 0,
        "url": "https://stream.zeno.fm/0e5z69esff9uv",
        "language_inferred": true
       },
       {
        "name": "Radio Dahab",
+       "active": 0,
        "url": "https://stream.zeno.fm/c9qg038kwy8uv",
        "language_inferred": true
       },
       {
        "name": "Radio Delta",
+       "active": 0,
        "url": "https://stream.zeno.fm/6fvrd6rrtf9uv",
        "language_inferred": true
       },
       {
        "name": "Radio Diab online",
+       "active": 0,
        "url": "https://stream.zeno.fm/9t15vs7bkfhvv"
       },
       {
        "name": "Radio EaGLe",
+       "active": 0,
        "url": "https://stream.zeno.fm/8gnpc7p1xuhvv",
        "language_inferred": true
       },
       {
        "name": "Radio EG1",
+       "active": 0,
        "url": "https://stream.zeno.fm/80kzh4mztchvv",
        "language_inferred": true
       },
       {
        "name": "Radio Egypt Online",
+       "active": 0,
        "url": "https://stream.zeno.fm/ee7n5f5mzc9uv",
        "language_inferred": true
       },
       {
        "name": "radio el farhaneen",
+       "active": 0,
        "url": "https://stream.zeno.fm/uwrzkslxexvtv"
       },
       {
        "name": "Radio El-Mahalla OnLine",
+       "active": 0,
        "url": "https://zeno.fm/radio/mahalla-online/",
        "language_inferred": true
       },
       {
        "name": "Radio Elbta3 (راديو البتاع) – Cairo – Cairo Governorate – EG",
+       "active": 0,
        "url": "http://173.236.55.107:9998",
        "language_inferred": true
       },
       {
        "name": "Radio ElDonjana",
+       "active": 0,
        "url": "https://stream.zeno.fm/3lsl2chiacitv",
        "language_inferred": true
       },
       {
        "name": "Radio ElTekia",
+       "active": 0,
        "url": "http://173.249.31.198:8000/.mp3"
       },
       {
        "name": "Radio fancy",
+       "active": 0,
        "url": "https://stream.zeno.fm/94m4q1zcqchvv",
        "language_inferred": true
       },
       {
        "name": "Radio FM 95 راديو شعبي",
+       "active": 0,
        "url": "http://178.32.62.154:9010/"
       },
       {
        "name": "Radio Fm masr",
+       "active": 0,
        "url": "https://stream.zeno.fm/081uhwwabkhvv",
        "language_inferred": true
       },
       {
        "name": "Radio FOX.",
+       "active": 0,
        "url": "https://stream.zeno.fm/j2ixo4undsbuv",
        "language_inferred": true
       },
       {
        "name": "Radio Gramophone جرامافون التكية",
+       "active": 0,
        "url": "http://173.249.31.198:8020/"
       },
       {
        "name": "Radio Hawaha Betary",
+       "active": 0,
        "url": "https://s44.myradiostream.com/:9204/listen.mp3/",
        "language_inferred": true
       },
       {
        "name": "Radio Heaven FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/m57kzth7bkhvv"
       },
       {
        "name": "Radio HUB",
+       "active": 0,
        "url": "https://stream.zeno.fm/u8v5rnc22yzuv"
       },
       {
        "name": "Radio Jabal See",
+       "active": 0,
        "url": "https://stream.zeno.fm/meg0tcr9t18uv",
        "language_inferred": true
       },
       {
        "name": "Radio jok3r",
+       "active": 0,
        "url": "https://stream.zeno.fm/1t3v54cfk98uv",
        "language_inferred": true
       },
       {
        "name": "Radio Joker",
+       "active": 0,
        "url": "https://stream.zeno.fm/atrdvkc31xhvv",
        "language_inferred": true
       },
       {
        "name": "Radio Joseph",
+       "active": 0,
        "url": "https://stream.zeno.fm/wxb0y80cqchvv",
        "language_inferred": true
       },
       {
        "name": "Radio Ma3ak – راديو معاك – Cairo – Cairo Governorate – EG",
+       "active": 0,
        "url": "http://www.radioma3ak.com:8000/stream.mp3\\",
        "language_inferred": true
       },
       {
        "name": "radio maher",
+       "active": 0,
        "url": "https://stream.zeno.fm/gv0rgd3f47gvv"
       },
       {
        "name": "Radio Maher ELSaedi",
+       "active": 0,
        "url": "https://stream.zeno.fm/9tnofi4lsamtv"
       },
       {
        "name": "radio mase7y",
+       "active": 0,
        "url": "https://stream.zeno.fm/emwfcmyk9x8uv",
        "language_inferred": true
       },
       {
        "name": "Radio Masr",
+       "active": 0,
        "url": "http://live.radiomasr.net:8060/RADIOMASR"
       },
       {
        "name": "Radio Masr 2030",
+       "active": 0,
        "url": "https://stream.zeno.fm/ttb0n2n10ehvv"
       },
       {
        "name": "Radio Media Line",
+       "active": 0,
        "url": "https://stream.zeno.fm/5qaxwzmbsm0uv",
        "language_inferred": true
       },
       {
        "name": "Radio Moga",
+       "active": 0,
        "url": "https://eu4.fastcast4u.com/proxy/faguwa00?mp=/?n=7e511b4ae5d3af65f2e0",
        "language_inferred": true
       },
       {
        "name": "Radio Msr FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/y3xey2grp0hvv",
        "language_inferred": true
       },
       {
        "name": "Radio Mundial Gospel Egito",
+       "active": 0,
        "url": "https://ssl.lscpainel.com.br:8254/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "radio nasrallhe",
+       "active": 0,
        "url": "https://stream.zeno.fm/me1pv4a5mp8uv",
        "language_inferred": true
       },
       {
        "name": "Radio Next",
+       "active": 0,
        "url": "https://node-11.zeno.fm/z6duygngt68uv",
        "language_inferred": true
       },
       {
        "name": "Radio Oscar",
+       "active": 0,
        "url": "http://streaming.radionomy.com/ArabDJ",
        "language_inferred": true
       },
       {
        "name": "Radio Qesara راديو قيثارة",
+       "active": 0,
        "url": "http://173.249.31.198:8004/"
       },
       {
        "name": "Radio Qr1",
+       "active": 0,
        "url": "https://stream.zeno.fm/7nufahghns8uv",
        "language_inferred": true
       },
       {
        "name": "Radio San Fierro",
+       "active": 0,
        "url": "https://stream.zeno.fm/frgxeulzwo1vv",
        "language_inferred": true
       },
       {
        "name": "Radio Sawa Egypt",
+       "active": 0,
        "url": "https://mbn-channel-03.akacast.akamaistream.net/7/31/233452/v1/ibb.akacast.akamaistream.net/mbn_channel_03?download=1"
       },
       {
        "name": "Radio Sawa Egypt",
+       "active": 0,
        "url": "https://mbn-channel-03.akacast.akamaistream.net/7/31/233452/v1/ibb.akacast.akamaistream.net/mbn_channel_03?download=1?n=3e13421a2dd6c6090781",
        "language_inferred": true
       },
       {
        "name": "Radio Smile FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/0n712hg4gc9uv"
       },
       {
        "name": "Radio STAR FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/6gs33s7caq5tv",
        "language_inferred": true
       },
       {
        "name": "radio sudan",
+       "active": 0,
        "url": "https://stream.zeno.fm/rgmmn88m8k8uv",
        "language_inferred": true
       },
       {
        "name": "Radio wahy Alqalm",
+       "active": 0,
        "url": "https://stream.zeno.fm/dhgrhyb2fkhvv",
        "language_inferred": true
       },
       {
        "name": "Radio Wasla Fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/7cqytmet4yzuv",
        "language_inferred": true
       },
       {
        "name": "Radio z",
+       "active": 0,
        "url": "https://stream.zeno.fm/2e7nsv3aqkhvv",
        "language_inferred": true
       },
       {
        "name": "Radio Zeno",
+       "active": 0,
        "url": "https://stream.zeno.fm/1gvqpyy1ey8uv",
        "language_inferred": true
       },
       {
        "name": "Radio.multqaalarab",
+       "active": 0,
        "url": "https://stream.zeno.fm/ztzf5zwet68uv",
        "language_inferred": true
       },
       {
        "name": "radio123",
+       "active": 0,
        "url": "https://stream.zeno.fm/liwezfs3uleuv",
        "language_inferred": true
       },
       {
        "name": "radio_test",
+       "active": 0,
        "url": "https://stream.zeno.fm/fab5b3ll5nntv",
        "language_inferred": true
       },
       {
        "name": "RadioActive",
+       "active": 0,
        "url": "https://stream.zeno.fm/whb23hbpephvv",
        "language_inferred": true
       },
       {
        "name": "RadioAG",
+       "active": 0,
        "url": "https://stream.zeno.fm/stqu1x4dckhvv",
        "language_inferred": true
       },
       {
        "name": "RadioFM.94",
+       "active": 0,
        "url": "https://stream.zeno.fm/7sdyba005hhvv"
       },
       {
        "name": "Radiomix",
+       "active": 0,
        "url": "https://stream.zeno.fm/h2vczp71sxhvv",
        "language_inferred": true
       },
       {
        "name": "radioonlinehelwan",
+       "active": 0,
        "url": "https://stream.zeno.fm/4yqkdkpm698uv",
        "language_inferred": true
       },
       {
        "name": "Radiooo",
+       "active": 0,
        "url": "https://stream.zeno.fm/5by419s71xhvv",
        "language_inferred": true
       },
       {
        "name": "RadioWestlbalad",
+       "active": 0,
        "url": "https://stream.zeno.fm/6dzat56u498uv"
       },
       {
        "name": "Radtaalemy",
+       "active": 0,
        "url": "https://stream.zeno.fm/pc4qadc4dm8uv",
        "language_inferred": true
       },
       {
        "name": "Rakoty Coptic Radio",
+       "active": 0,
        "url": "https://sc-e1.streamcyclone.com/rakoty_live/audio/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "RAMADANN",
+       "active": 0,
        "url": "https://stream.zeno.fm/fey0isupao0tv",
        "language_inferred": true
       },
       {
        "name": "Ramadn Kreem",
+       "active": 0,
        "url": "https://stream.zeno.fm/aig3d7uxd6huv",
        "language_inferred": true
       },
       {
        "name": "ramy karim ramy karim",
+       "active": 0,
        "url": "https://stream.zeno.fm/adn44cv2608uv",
        "language_inferred": true
       },
       {
        "name": "Ramzy ahmed",
+       "active": 0,
        "url": "https://stream.zeno.fm/0k55bt3sgxhvv",
        "language_inferred": true
       },
       {
        "name": "Random Music",
+       "active": 0,
        "url": "https://stream.zeno.fm/7qf2fsqw6hhvv"
       },
       {
        "name": "RaniaGoneMatilda",
+       "active": 0,
        "url": "https://stream.zeno.fm/xblizufyyseuv",
        "language_inferred": true
       },
       {
        "name": "Rayze FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/hg9akqqrpmxuv",
        "language_inferred": true
       },
       {
        "name": "Rayzor",
+       "active": 0,
        "url": "https://stream.zeno.fm/eklczp03q0ivv",
        "language_inferred": true
       },
       {
        "name": "Reapz FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/n6x2bnuwhkhvv",
        "language_inferred": true
       },
       {
        "name": "Rede Fam Inter  Cairo  Egito",
+       "active": 0,
        "url": "https://stream.zeno.fm/wrc7rgdvpv8uv",
        "language_inferred": true
       },
       {
        "name": "Rede Mix Cidades",
+       "active": 0,
        "url": "https://stream.zeno.fm/bgmr3z0ybhquv"
       },
       {
        "name": "Relax Music",
+       "active": 0,
        "url": "https://stream.zeno.fm/rfuf5sa984zuv",
        "language_inferred": true
       },
       {
        "name": "Relay-Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/d3213r0dprhvv"
       },
       {
        "name": "Rock n roll",
+       "active": 0,
        "url": "https://stream.zeno.fm/jdqt7mudhwguv",
        "language_inferred": true
       },
       {
        "name": "rtg1010radio راديو تصالحوا مع الله",
+       "active": 0,
        "url": "https://stream.zeno.fm/rsz9jjk1mbztv"
       },
       {
        "name": "ruhi-maeak",
+       "active": 0,
        "url": "https://stream.zeno.fm/r37ges7yvrhvv",
        "language_inferred": true
       },
       {
        "name": "Ruski Music",
+       "active": 0,
        "url": "https://stream.zeno.fm/ea6phqghprhvv",
        "language_inferred": true
       },
       {
        "name": "Russian Classis",
+       "active": 0,
        "url": "https://stream.zeno.fm/1hw1cuk67zhvv",
        "language_inferred": true
       },
       {
        "name": "RÁDIO CNT FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/3kkavhns1qzuv"
       },
       {
        "name": "S Mixsss",
+       "active": 0,
        "url": "https://stream.zeno.fm/rtkw18femomuv",
        "language_inferred": true
       },
       {
        "name": "sadsacascac",
+       "active": 0,
        "url": "https://stream.zeno.fm/eguy8rqrrwstv",
        "language_inferred": true
       },
       {
        "name": "SADVENOM",
+       "active": 0,
        "url": "https://stream.zeno.fm/vp42frczk0hvv"
       },
       {
        "name": "Sahara",
+       "active": 0,
        "url": "https://stream.zeno.fm/ixovsfsbukeuv",
        "language_inferred": true
       },
       {
        "name": "Salamat Online",
+       "active": 0,
        "url": "https://stream.zeno.fm/u5hhg94pyhhvv",
        "language_inferred": true
       },
       {
        "name": "Sam Station",
+       "active": 0,
        "url": "https://stream.zeno.fm/etrhes6a0zguv"
       },
       {
        "name": "samp radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/p41lhbxqmdxtv",
        "language_inferred": true
       },
       {
        "name": "Samp11",
+       "active": 0,
        "url": "https://stream.zeno.fm/ftb9f8qpf48uv",
        "language_inferred": true
       },
       {
        "name": "san markos aswan",
+       "active": 0,
        "url": "https://stream.zeno.fm/03cr74m6z98uv",
        "language_inferred": true
       },
       {
        "name": "SANANA CLUB",
+       "active": 0,
        "url": "https://stream.zeno.fm/prd03yqe798uv",
        "language_inferred": true
       },
       {
        "name": "SANANA MUSIC",
+       "active": 0,
        "url": "https://stream.zeno.fm/3r7ync0e798uv",
        "language_inferred": true
       },
       {
        "name": "SANANA QURAN",
+       "active": 0,
        "url": "https://stream.zeno.fm/uk3wb6ze798uv",
        "language_inferred": true
       },
       {
        "name": "SANANA station",
+       "active": 0,
        "url": "https://stream.zeno.fm/ve7nfean698uv",
        "language_inferred": true
       },
       {
        "name": "sancar970",
+       "active": 0,
        "url": "https://stream.zeno.fm/fnbh8g49uuhvv",
        "language_inferred": true
       },
       {
        "name": "sasuke",
+       "active": 0,
        "url": "https://stream.zeno.fm/d3prrve5wuhvv",
        "language_inferred": true
       },
       {
        "name": "sasuke11",
+       "active": 0,
        "url": "https://stream.zeno.fm/n3qyt5cyrf9uv"
       },
       {
        "name": "Sawt Al Arab Cairo (اذاعة صوت العرب من القاهرة) – Cairo – Cairo Governorate – EG",
+       "active": 0,
        "url": "https://news-stream.net/GetNewNotify.aspx",
        "language_inferred": true
       },
       {
        "name": "Scorpion Moe",
+       "active": 0,
        "url": "https://stream.zeno.fm/fafxgbtb4uhvv",
        "language_inferred": true
       },
       {
        "name": "sdsagsdgsfdgsdg",
+       "active": 0,
        "url": "https://stream.zeno.fm/htqfzk86uc9uv",
        "language_inferred": true
       },
       {
        "name": "See U WATEVA",
+       "active": 0,
        "url": "https://stream.zeno.fm/bdzq50ekfuhvv",
        "language_inferred": true
       },
       {
        "name": "Setto Ana Akram Hosny Feat Ayten Amer",
+       "active": 0,
        "url": "https://stream.zeno.fm/dume61nvcuhvv",
        "language_inferred": true
       },
       {
        "name": "Sha3by",
+       "active": 0,
        "url": "https://stream.zeno.fm/cwbmdw0rh98uv",
        "language_inferred": true
       },
       {
        "name": "sha3byat",
+       "active": 0,
        "url": "https://stream.zeno.fm/rh1xe2k414zuv",
        "language_inferred": true
       },
       {
        "name": "Shabab Radio",
+       "active": 0,
        "url": "http://n13.radiojar.com/a3qsqz9h2ewtv",
        "language_inferred": true
       },
       {
        "name": "shabab W banat online2022",
+       "active": 0,
        "url": "https://stream.zeno.fm/kizlwizj94ivv"
       },
       {
        "name": "shababeltahadee",
+       "active": 0,
        "url": "https://stream.zeno.fm/dpvhfmxbn98uv",
        "language_inferred": true
       },
       {
        "name": "Shady DJ",
+       "active": 0,
        "url": "https://stream.zeno.fm/tisodu6vdquuv",
        "language_inferred": true
       },
       {
        "name": "Shadya Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/6d0nty8r008uv",
        "language_inferred": true
       },
       {
        "name": "SHARKS",
+       "active": 0,
        "url": "https://stream.zeno.fm/nfsrxwayr7fvv"
       },
       {
        "name": "Shereen Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/w4a8218r008uv",
        "language_inferred": true
       },
       {
        "name": "Shurooq Islamic Mix",
+       "active": 0,
        "url": "https://stream.zeno.fm/w96gktp3dkhvv"
       },
       {
        "name": "Shurooq Islamic MIX-raddio",
+       "active": 0,
        "url": "https://stream.zeno.fm/a3m12uw4dkhvv",
        "language_inferred": true
       },
       {
        "name": "Shurooq Islamic MIX-RC",
+       "active": 0,
        "url": "https://stream.zeno.fm/sf9tbtp3dkhvv",
        "language_inferred": true
       },
       {
        "name": "Shurooq Islamic MIX_ Stema",
+       "active": 0,
        "url": "https://stream.zeno.fm/0e49u3b3dkhvv",
        "language_inferred": true
       },
       {
        "name": "Shurooq Quran Kareem",
+       "active": 0,
        "url": "https://node-04.zeno.fm/7qksfg8x6bhvv",
        "language_inferred": true
       },
       {
        "name": "Shurooq Quran Kareem",
+       "active": 0,
        "url": "https://stream.zeno.fm/7qksfg8x6bhvv"
       },
       {
        "name": "Shurooq Quran Kareem إذاعة شروق القرآن الكريم",
+       "active": 0,
        "url": "https://stream.zeno.fm/bu0k6radpkhvv",
        "language_inferred": true
       },
       {
        "name": "Shurooq-Radio_Ramadan",
+       "active": 0,
        "url": "https://stream.zeno.fm/9hcuqyuzpnhvv"
       },
       {
        "name": "Shurooq-Songs",
+       "active": 0,
        "url": "https://node-03.zeno.fm/s31e1z2r6e9uv",
        "language_inferred": true
       },
       {
        "name": "SlideAttack Org",
+       "active": 0,
        "url": "https://stream.zeno.fm/vfrzd7qbxytuv",
        "language_inferred": true
       },
       {
        "name": "SMART ZONE",
+       "active": 0,
        "url": "https://stream.zeno.fm/g0aucneczmwtv"
       },
       {
        "name": "SMSC Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/f60680k5gwzuv"
       },
       {
        "name": "SnowxD",
+       "active": 0,
        "url": "https://stream.zeno.fm/yuc151fvtxhvv",
        "language_inferred": true
       },
       {
        "name": "Some One",
+       "active": 0,
        "url": "https://stream.zeno.fm/f589g17y298uv",
        "language_inferred": true
       },
       {
        "name": "Sound of Sakia - Cairo (ساوند وف ساكية)",
+       "active": 0,
        "url": "http://38.96.148.18:4896/live"
       },
       {
        "name": "Sparks",
+       "active": 0,
        "url": "https://stream.zeno.fm/e26y6fwygxhvv",
        "language_inferred": true
       },
       {
        "name": "Sparks",
+       "active": 0,
        "url": "https://stream.zeno.fm/7cyhw2tygxhvv",
        "language_inferred": true
       },
       {
        "name": "SRK Online Radio",
+       "active": 0,
        "url": "http://stream.zeno.fm/a69txeenvzzuv.aac",
        "language_inferred": true
       },
       {
        "name": "ST Mary Church Omrania Radio Station - راديو كنيسة السيدة العذراء مريم بالعمرانية",
+       "active": 0,
        "url": "https://stream.zeno.fm/c1ypw16rbwzuv",
        "language_inferred": true
       },
       {
        "name": "St.Markos Masr ElGedeeda مارمرقس مصر الجديده",
+       "active": 0,
        "url": "https://mytuner-radio.com/radio/country/egypt-stations"
       },
       {
        "name": "STARPLATNAM",
+       "active": 0,
        "url": "https://stream.zeno.fm/xnczbavqsx0tv",
        "language_inferred": true
       },
       {
        "name": "Stars FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/x23u22f6sk8uv"
       },
       {
        "name": "story talking",
+       "active": 0,
        "url": "https://stream.zeno.fm/d9dkzjpbrqivv",
        "language_inferred": true
       },
       {
        "name": "sufiradio",
+       "active": 0,
        "url": "https://stream.zeno.fm/rgfg4evv24zuv",
        "language_inferred": true
       },
       {
        "name": "SUR STATION",
+       "active": 0,
        "url": "https://stream.zeno.fm/4xx9wcgtsvxuv",
        "language_inferred": true
       },
       {
        "name": "Swera Fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/r9z3zaslpl8vv"
       },
       {
        "name": "Syblus",
+       "active": 0,
        "url": "https://stream.zeno.fm/m6dt6g0ek98uv",
        "language_inferred": true
       },
       {
        "name": "Tafseer Al Quraan",
+       "active": 0,
        "url": "https://stream.zeno.fm/1qra3eu49ehvv",
        "language_inferred": true
       },
       {
        "name": "tahabb",
+       "active": 0,
        "url": "https://stream.zeno.fm/ffhvx8hda48uv",
        "language_inferred": true
       },
       {
        "name": "take -a-break",
+       "active": 0,
        "url": "https://stream.zeno.fm/akcm63b19ehvv"
       },
       {
        "name": "Tamer Hosny",
+       "active": 0,
        "url": "https://stream.zeno.fm/7fm2f68r008uv",
        "language_inferred": true
       },
       {
        "name": "TamerAshour",
+       "active": 0,
        "url": "https://stream.zeno.fm/naa0wdwn108uv",
        "language_inferred": true
       },
       {
        "name": "teb talks",
+       "active": 0,
        "url": "https://stream.zeno.fm/z1m3n2r07p8uv",
        "language_inferred": true
       },
       {
        "name": "Tegara bsu",
+       "active": 0,
        "url": "https://stream.zeno.fm/02s39ctnb78uv",
        "language_inferred": true
       },
       {
        "name": "Termes",
+       "active": 0,
        "url": "https://stream.zeno.fm/fl2fqtsiv6xvv",
        "language_inferred": true
       },
       {
        "name": "TERMES",
+       "active": 0,
        "url": "https://stream.zeno.fm/cxjk7m8ysr9vv",
        "language_inferred": true
       },
       {
        "name": "TERMES",
+       "active": 0,
        "url": "https://stream.zeno.fm/sg0kyumgluevv",
        "language_inferred": true
       },
       {
        "name": "TERMES",
+       "active": 0,
        "url": "https://stream.zeno.fm/ggd1k0cusi2vv",
        "language_inferred": true
       },
       {
        "name": "Test Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/msd746p38zhvv",
        "language_inferred": true
       },
       {
        "name": "Test Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/g674bz3be2zuv",
        "language_inferred": true
       },
       {
        "name": "Test Test",
+       "active": 0,
        "url": "https://stream.zeno.fm/dgsbvajcjuxvv",
        "language_inferred": true
       },
       {
        "name": "test123",
+       "active": 0,
        "url": "https://stream.zeno.fm/5adskpdy6whvv",
        "language_inferred": true
       },
       {
        "name": "test1234",
+       "active": 0,
        "url": "https://stream.zeno.fm/ptq7by28fzhvv",
        "language_inferred": true
       },
       {
        "name": "test16",
+       "active": 0,
        "url": "https://stream.zeno.fm/ht9rw27fk98uv",
        "language_inferred": true
       },
       {
        "name": "testo 1",
+       "active": 0,
        "url": "https://stream.zeno.fm/61dzsfufps8uv",
        "language_inferred": true
       },
       {
        "name": "testo 2",
+       "active": 0,
        "url": "https://stream.zeno.fm/gr96amufps8uv",
        "language_inferred": true
       },
       {
        "name": "testo 3",
+       "active": 0,
        "url": "https://stream.zeno.fm/swncnc4fps8uv",
        "language_inferred": true
       },
       {
        "name": "The Aeron Radio Station",
+       "active": 0,
        "url": "https://stream.zeno.fm/v02dy1xp638uv",
        "language_inferred": true
       },
       {
        "name": "the best music. BITCH",
+       "active": 0,
        "url": "https://stream.zeno.fm/3d9n8k6f5ehvv",
        "language_inferred": true
       },
       {
        "name": "The Glasses Tv",
+       "active": 0,
        "url": "https://stream.zeno.fm/3e7366pdz38uv",
        "language_inferred": true
       },
       {
        "name": "The God Fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/zrhsx1euxhhvv",
        "language_inferred": true
       },
       {
        "name": "The Lion Den",
+       "active": 0,
        "url": "https://stream.zeno.fm/p8exm67gtnhvv",
        "language_inferred": true
       },
       {
        "name": "The Oriental Group Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/1prq7qz81hhvv"
       },
       {
        "name": "The Pharaohs",
+       "active": 0,
        "url": "https://stream.zeno.fm/b3dtg4frp0hvv",
        "language_inferred": true
       },
       {
        "name": "The radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/7sa8ant09vzuv",
        "language_inferred": true
       },
       {
        "name": "The Vibe Venue",
+       "active": 0,
        "url": "https://stream.zeno.fm/hwicvg0riemuv"
       },
       {
        "name": "the.musical.program98.8",
+       "active": 0,
        "url": "https://stream.zeno.fm/fb34c2aadkhvv",
        "language_inferred": true
       },
       {
        "name": "toashe7",
+       "active": 0,
        "url": "https://stream.zeno.fm/ky8w37yy67zuv"
       },
       {
        "name": "Toradyat",
+       "active": 0,
        "url": "https://stream.zeno.fm/fov7rgiifyevv"
       },
       {
        "name": "uh yea",
+       "active": 0,
        "url": "https://stream.zeno.fm/rh66mzxqefhvv",
        "language_inferred": true
       },
       {
        "name": "Umm Kalthoum",
+       "active": 0,
        "url": "https://stream.zeno.fm/hhbmju4ybfgvv",
        "language_inferred": true
       },
       {
        "name": "vibin",
+       "active": 0,
        "url": "https://stream.zeno.fm/d0sccft90xhvv",
        "language_inferred": true
       },
       {
        "name": "Vinylism Record Store",
+       "active": 0,
        "url": "https://stream.zeno.fm/ead7xvqdya0uv",
        "language_inferred": true
       },
       {
        "name": "vراديو السيارة",
+       "active": 0,
        "url": "https://stream.zeno.fm/ak14ges2198uv",
        "language_inferred": true
       },
       {
        "name": "Wafflicious Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/wu115muan48uv",
        "language_inferred": true
       },
       {
        "name": "Wagtarb",
+       "active": 0,
        "url": "https://stream.zeno.fm/pukp7su847zuv",
        "language_inferred": true
       },
       {
        "name": "wala haga",
+       "active": 0,
        "url": "https://stream.zeno.fm/15tf8xzfxy8uv",
        "language_inferred": true
       },
       {
        "name": "Waleed Hagag",
+       "active": 0,
        "url": "https://stream.zeno.fm/7zqsu1x2238uv"
       },
       {
        "name": "Waleed Hagag - OLD IS GOLD_Arabic",
+       "active": 0,
        "url": "https://stream.zeno.fm/7s6uk7q4238uv",
        "language_inferred": true
       },
       {
        "name": "Waleed Hagag - OLD IS GOLD_EN",
+       "active": 0,
        "url": "https://stream.zeno.fm/7uzvcbr4238uv",
        "language_inferred": true
       },
       {
        "name": "Waleed Hagag - Summer",
+       "active": 0,
        "url": "https://stream.zeno.fm/x7pvdrq7138uv"
       },
       {
        "name": "Wanted radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/ucayx4f30f9uv",
        "language_inferred": true
       },
       {
        "name": "Warathat Alanbyaa",
+       "active": 0,
        "url": "https://stream.zeno.fm/xb5ar018by8uv",
        "language_inferred": true
       },
       {
        "name": "wardaa",
+       "active": 0,
        "url": "https://stream.zeno.fm/b5dqwm2014zuv",
        "language_inferred": true
       },
       {
        "name": "waseuu",
+       "active": 0,
        "url": "https://stream.zeno.fm/w11nfm8uvs8uv",
        "language_inferred": true
       },
       {
        "name": "watanyat",
+       "active": 0,
        "url": "https://stream.zeno.fm/gf9egxu2rs8uv",
        "language_inferred": true
       },
       {
        "name": "WaveRunner FM 88.3",
+       "active": 0,
        "url": "https://stream.zeno.fm/cwwf6wolhewtv",
        "language_inferred": true
       },
       {
        "name": "WAZAKR",
+       "active": 0,
        "url": "https://stream.zeno.fm/4znch9gypp8uv",
        "language_inferred": true
       },
       {
        "name": "WBEZ 91.5 FM.",
+       "active": 0,
        "url": "https://stream.zeno.fm/6rzv31f5xuhvv",
        "language_inferred": true
       },
       {
        "name": "We heard your voice",
+       "active": 0,
        "url": "https://stream.zeno.fm/n86h92uabm8uv",
        "language_inferred": true
       },
       {
        "name": "Wedding",
+       "active": 0,
        "url": "https://stream.zeno.fm/cx9vc0xtaewtv",
        "language_inferred": true
       },
       {
        "name": "Wegz B3oda Ya Belady",
+       "active": 0,
        "url": "https://stream.zeno.fm/hzyyut0vcuhvv",
        "language_inferred": true
       },
       {
        "name": "WEQWEE1",
+       "active": 0,
        "url": "https://stream.zeno.fm/dp1y6tc63hhvv",
        "language_inferred": true
       },
       {
        "name": "winzy app",
+       "active": 0,
        "url": "https://stream.zeno.fm/05ucav7squhvv",
        "language_inferred": true
       },
       {
        "name": "winzy app2",
+       "active": 0,
        "url": "https://stream.zeno.fm/uf3xed9squhvv",
        "language_inferred": true
       },
       {
        "name": "winzy ramdan",
+       "active": 0,
        "url": "https://stream.zeno.fm/pvad0r9gxcbvv"
       },
       {
        "name": "WOLF RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/zq82ke8pks8uv",
        "language_inferred": true
       },
       {
        "name": "WORLD RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/223f0mrw1f8uv",
        "language_inferred": true
       },
       {
        "name": "WTLS radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/e6gf4mew6whvv",
        "language_inferred": true
       },
       {
        "name": "x.poptop",
+       "active": 0,
        "url": "https://stream.zeno.fm/jk6gw4yj3asuv",
        "language_inferred": true
       },
       {
        "name": "xAbdoYx",
+       "active": 0,
        "url": "https://stream.zeno.fm/679wr0w3wv8uv",
        "language_inferred": true
       },
       {
        "name": "xLolo Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/kaxdemldqwtvv",
        "language_inferred": true
       },
       {
        "name": "Xo Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/719maxb8u68uv",
        "language_inferred": true
       },
       {
        "name": "yalaarabfm",
+       "active": 0,
        "url": "https://stream.zeno.fm/3v0fx3gvrfhvv",
        "language_inferred": true
       },
       {
        "name": "YALLA SHA3BY",
+       "active": 0,
        "url": "https://stream.zeno.fm/1y50q9b7e78uv",
        "language_inferred": true
       },
       {
        "name": "YassenTohamy",
+       "active": 0,
        "url": "https://stream.zeno.fm/m1s81b44qs8uv",
        "language_inferred": true
       },
       {
        "name": "yehia123",
+       "active": 0,
        "url": "https://stream.zeno.fm/6fxkvv5h3uhvv",
        "language_inferred": true
       },
       {
        "name": "Yehia_radioFM",
+       "active": 0,
        "url": "https://stream.zeno.fm/4tqqhefczjktv",
        "language_inferred": true
       },
       {
        "name": "you can",
+       "active": 0,
        "url": "https://stream.zeno.fm/ta161wg8z38uv",
        "language_inferred": true
       },
       {
        "name": "Youssef Fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/nfdxw0tvqp8uv",
        "language_inferred": true
       },
       {
        "name": "Yukifu station",
+       "active": 0,
        "url": "https://stream.zeno.fm/e9844eevhxhvv",
        "language_inferred": true
       },
       {
        "name": "yutyyu",
+       "active": 0,
        "url": "https://stream.zeno.fm/k118nvy1fchvv",
        "language_inferred": true
       },
       {
        "name": "ZAD_Enshad_Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/r69x5ehf3uhvv"
       },
       {
        "name": "ZAD_Mix_Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/tz821uv6huhvv"
       },
       {
        "name": "ZAD_Quran_Kareem_Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/5ye4spv6huhvv"
       },
       {
        "name": "ZAD_Radio_Songs",
+       "active": 0,
        "url": "https://stream.zeno.fm/tnd62yv6huhvv"
       },
       {
        "name": "ZAD_Songs_Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/1s4wxyv6huhvv"
       },
       {
        "name": "Zaigel",
+       "active": 0,
        "url": "https://stream.zeno.fm/db4a8u9crchvv",
        "language_inferred": true
       },
       {
        "name": "zaman alwasl radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/x5a86e1zfxhvv",
        "language_inferred": true
       },
       {
        "name": "zChill",
+       "active": 0,
        "url": "https://stream.zeno.fm/n9yg4fe24hhvv",
        "language_inferred": true
       },
       {
        "name": "Ziad Zaza",
+       "active": 0,
        "url": "https://stream.zeno.fm/w6bnynrikcltv",
        "language_inferred": true
       },
       {
        "name": "Zizo55",
+       "active": 0,
        "url": "https://stream.zeno.fm/ms0fat04lgauv",
        "language_inferred": true
       },
       {
        "name": "ZONA10",
+       "active": 0,
        "url": "https://stream.zeno.fm/n44zh7048nhvv",
        "language_inferred": true
       },
       {
        "name": "إذاعة الشيخ أحمد العجمي برواية حفص",
+       "active": 0,
        "url": "http://server2.quraan.us:9852/*.mp3"
       },
       {
        "name": "إذاعة القرآن الكريم مصر",
+       "active": 0,
        "url": "https://stream.zeno.fm/jy4rhipdulwuv",
        "language_inferred": true
       },
       {
        "name": "إذاعة القرآن الكريم من القاهرة",
+       "active": 0,
        "url": "http://n12.radiojar.com/8s5u5tpdtwzuv?listening-from-radio-garden=1620219571863\\u0026rj-tok=AAABeTyl2zYARSWbLVnrEOlqGw\\u0026rj-ttl=5"
       },
       {
        "name": "إذاعة القرآن الكريم من القاهرة",
+       "active": 0,
        "url": "http://n12.radiojar.com/8s5u5tpdtwzuv?listening-from-radio-garden=1620219571863&rj-tok=AAABeTyl2zYARSWbLVnrEOlqGw&rj-ttl=5?n=5def057a1d8128abfc9b",
        "language_inferred": true
       },
       {
        "name": "إذاعة القرآن الكريم من القاهرة – 98.2 FM – Cairo – Cairo Governorate – EG",
+       "active": 0,
        "url": "http://n04.radiojar.com/8s5u5tpdtwzuv?rj-ttl=5&rj-tok=AAABhA_SIOIAnEVQ0fWlxZKUjA",
        "language_inferred": true
       },
       {
        "name": "إذاعة المستكشف الصغير",
+       "active": 0,
        "url": "https://stream.zeno.fm/rg8t7kkfbxhvv",
        "language_inferred": true
       },
       {
        "name": "إذاعة راديو النور",
+       "active": 0,
        "url": "https://stream.zeno.fm/6t4wdxsrruhvv",
        "language_inferred": true
       },
       {
        "name": "إذاعة زاد للمنوعات",
+       "active": 0,
        "url": "https://stream.zeno.fm/wdog5vyw7klvv"
       },
       {
        "name": "إذاعة مشاري العفاسي",
+       "active": 0,
        "url": "https://qurango.net/radio/mishary_alafasi",
        "rb": "0b14ae20-92b3-4db7-834f-ee6ba39ad080",
        "logo": "http://www.phantomsw.com/assets/img/apple-touch-icon.png"
       },
       {
        "name": "اجتماع أكيلا وبريسكلا",
+       "active": 0,
        "url": "https://stream.zeno.fm/50azmq1v7hhvv"
       },
       {
        "name": "احباء المسيح",
+       "active": 0,
        "url": "https://stream.zeno.fm/dwyn7uhrefhvv",
        "language_inferred": true
       },
       {
        "name": "اذاعة القران الكريم من القاهرة",
+       "active": 0,
        "url": "https://stream.zeno.fm/4x4f43v52hhvv",
        "language_inferred": true
       },
       {
        "name": "اذاعة القران الكريم من القاهرة بث مباشر",
+       "active": 0,
        "url": "https://stream.zeno.fm/67nmp05iormvv"
       },
       {
        "name": "اذاعة شروق للقران الكريم",
+       "active": 0,
        "url": "https://stream.zeno.fm/9hhctnqr7hhvv",
        "language_inferred": true
       },
       {
        "name": "اذاعه شروق للمنوعات الاسلاميه الجميله",
+       "active": 0,
        "url": "https://stream.zeno.fm/6utyu6qr7hhvv",
        "language_inferred": true
       },
       {
        "name": "الحكاوي",
+       "active": 0,
        "url": "https://stream.zeno.fm/wnga8w8g0hhvv",
        "language_inferred": true
       },
       {
        "name": "الدروس المسجلة في إذاعة طلاب العلم الشرعي",
+       "active": 0,
        "url": "https://stream.zeno.fm/yb66dbe1ba9uv"
       },
       {
        "name": "الراديو تم اغلاقه",
+       "active": 0,
        "url": "https://stream.zeno.fm/4ac4mmgp8whvv",
        "language_inferred": true
       },
       {
        "name": "الروضة الزينبية",
+       "active": 0,
        "url": "https://stream.zeno.fm/avdt4amw768uv",
        "language_inferred": true
       },
       {
        "name": "الشعب العزاوي",
+       "active": 0,
        "url": "https://stream.zeno.fm/yjlxawjfperuv"
       },
       {
        "name": "الشيخ كشك",
+       "active": 0,
        "url": "https://stream.zeno.fm/syipzq69js0vv",
        "language_inferred": true
       },
       {
        "name": "الطاير إف إم",
+       "active": 0,
        "url": "https://stream.zeno.fm/s06eisep1cyvv",
        "language_inferred": true
       },
       {
        "name": "العددالأول",
+       "active": 0,
        "url": "https://stream.zeno.fm/zb90a0vxfkhvv",
        "language_inferred": true
       },
       {
        "name": "العمق نيوز",
+       "active": 0,
        "url": "https://stream.zeno.fm/t0hm3wu74bhvv",
        "language_inferred": true
       },
       {
        "name": "العملاق",
+       "active": 0,
        "url": "https://stream.zeno.fm/ep7s6k13cf9uv",
        "language_inferred": true
       },
       {
        "name": "القران الكريم من القاهره",
+       "active": 0,
        "url": "http://n0c.radiojar.com/8s5u5tpdtwzuv?rj-ttl=5&amprj-tok=AAABdI5Qnd0AEmvTTG5DVtU31A&ampautoplay=1%22%20type=%22audio/mpeg?n=9b8bfa25f056652c8d99",
        "language_inferred": true
       },
       {
        "name": "القران الكريم من القاهره1",
+       "active": 0,
        "url": "http://n0e.radiojar.com/8s5u5tpdtwzuv?rj=&rj-tok=AAABg5BDP0EA2ElNLJYUJTsVcg&rj-ttl=5?n=0271f39d923933686c8f",
        "language_inferred": true
       },
       {
        "name": "الكينونة",
+       "active": 0,
        "url": "https://stream.zeno.fm/ppqbgr2urnhvv",
        "language_inferred": true
       },
       {
        "name": "المخلص يناديك",
+       "active": 0,
        "url": "https://stream.zeno.fm/sw87qdsc1hhvv"
       },
       {
        "name": "المخلص_Savior",
+       "active": 0,
        "url": "https://stream.zeno.fm/wtuy222hzhhvv"
       },
       {
        "name": "المسيح يناديك",
+       "active": 0,
        "url": "https://stream.zeno.fm/ryyepnqb1hhvv"
       },
       {
        "name": "بتاعت الراديو",
+       "active": 0,
        "url": "https://stream.zeno.fm/g5qjy3zkeffuv"
       },
       {
        "name": "تسجيلات الكنيسة",
+       "active": 0,
        "url": "https://stream.zeno.fm/1y6c3wkqp7zuv"
       },
       {
        "name": "جديد الشيلات",
+       "active": 0,
        "url": "https://stream.zeno.fm/p7wsss8wwtwuv",
        "language_inferred": true
       },
       {
        "name": "حقك تعرف",
+       "active": 0,
        "url": "https://stream.zeno.fm/sweh65mcf0hvv",
        "language_inferred": true
       },
       {
        "name": "دوس اف ام",
+       "active": 0,
        "url": "https://stream.zeno.fm/q1abpm5ezrhvv",
        "language_inferred": true
       },
       {
        "name": "راديو 6060 إف إم – Cairo – Cairo Governorate – EG",
+       "active": 0,
        "url": "https://streamingv2.shoutcast.com/6060fm?1436732095396.mp3?1439718645856.mp3?1443557890537.mp3",
        "language_inferred": true
       },
       {
        "name": "راديو one",
+       "active": 0,
        "url": "https://stream.zeno.fm/dqalasxgbfkuv"
       },
       {
        "name": "راديو أم كلثوم",
+       "active": 0,
        "url": "https://stream.zeno.fm/fc8dekkufs3vv"
       },
       {
        "name": "راديو أهل الميديا",
+       "active": 0,
        "url": "https://stream.zeno.fm/9tk87p5zx68uv",
        "language_inferred": true
       },
       {
        "name": "راديو اجمل حب",
+       "active": 0,
        "url": "https://stream.zeno.fm/umx6cq1eashvv",
        "language_inferred": true
       },
       {
        "name": "راديو اصول",
+       "active": 0,
        "url": "https://stream.zeno.fm/31b0augde78uv"
       },
       {
        "name": "راديو الأيام",
+       "active": 0,
        "url": "https://stream.zeno.fm/1gbtxgd0gchvv",
        "language_inferred": true
       },
       {
        "name": "راديو الذكريات",
+       "active": 0,
        "url": "https://stream.zeno.fm/v8bzg8k0q98uv",
        "language_inferred": true
       },
       {
        "name": "راديو الرجاء",
+       "active": 0,
        "url": "http://i7.streams.ovh:17000/stream"
       },
       {
        "name": "راديو الرجال",
+       "active": 0,
        "url": "https://stream.zeno.fm/ebitxokyr7ptv",
        "language_inferred": true
       },
       {
        "name": "راديو الرجال",
+       "active": 0,
        "url": "https://stream.zeno.fm/wrfc0nkbl2wuv"
       },
       {
        "name": "راديو العدد الاول",
+       "active": 0,
        "url": "https://stream.zeno.fm/zcmdp6a1fkhvv",
        "language_inferred": true
       },
       {
        "name": "راديو بحر العشق والغرام",
+       "active": 0,
        "url": "https://stream.zeno.fm/gdwvdz9puf9uv",
        "language_inferred": true
       },
       {
        "name": "راديو جامعة حلوان اون لاين لجميع",
+       "active": 0,
        "url": "https://stream.zeno.fm/6urfkynm698uv",
        "language_inferred": true
       },
       {
        "name": "راديو حكي",
+       "active": 0,
        "url": "https://stream.zeno.fm/io6lykscabfvv",
        "language_inferred": true
       },
       {
        "name": "راديو دهب",
+       "active": 0,
        "url": "http://stream.radiojar.com/2zdx7ns89uduv"
       },
       {
        "name": "راديو رؤى",
+       "active": 0,
        "url": "https://stream.zeno.fm/cvzquwfs5x8uv",
        "language_inferred": true
       },
       {
        "name": "راديو صوت الإيمان",
+       "active": 0,
        "url": "http://51.255.235.165:22054/stream",
        "language_inferred": true
       },
       {
        "name": "راديو صوتك",
+       "active": 0,
        "url": "http://161.35.74.125:8000/sotak_128",
        "language_inferred": true
       },
       {
        "name": "راديو طلاب جامعة حلوان اون لاين",
+       "active": 0,
        "url": "https://stream.zeno.fm/wbpzwqdzs98uv"
       },
       {
        "name": "راديو ع الهادي",
+       "active": 0,
        "url": "https://stream.zeno.fm/4yfcs21uef9uv",
        "language_inferred": true
       },
       {
        "name": "راديو عربي",
+       "active": 0,
        "url": "https://stream.zeno.fm/n1shudmqmrhvv",
        "language_inferred": true
       },
       {
        "name": "راديو كفر الطراينة",
+       "active": 0,
        "url": "https://stream.zeno.fm/fehvuf3p8rhvv",
        "language_inferred": true
       },
       {
        "name": "راديو لسه فيه أمل",
+       "active": 0,
        "url": "https://stream.zeno.fm/d77fxt987nhvv"
       },
       {
        "name": "راديو مظبوط (Radio Mazboot)",
+       "active": 0,
        "url": "http://newvision.radiocast.in:8000/stream"
       },
       {
        "name": "راديو نبض المرأة",
+       "active": 0,
        "url": "https://stream.zeno.fm/ae3t2eem4nhvv",
        "language_inferred": true
       },
       {
        "name": "راديو هواك-Hawak Radio",
+       "active": 0,
        "url": "http://199.192.23.146:9300/"
       },
       {
        "name": "راديو هيتس",
+       "active": 0,
        "url": "http://radiohits882.radioca.st:8957/stream/",
        "language_inferred": true
       },
       {
        "name": "راديو هيتس - Radio Hits 88.2",
+       "active": 0,
        "url": "http://178.32.62.154:8957/stream.mp3"
       },
       {
        "name": "رديو شباب القنايات",
+       "active": 0,
        "url": "https://stream.zeno.fm/pqtq3wuru98uv",
        "language_inferred": true
       },
       {
        "name": "رسالة دمنهور",
+       "active": 0,
        "url": "https://stream.zeno.fm/vznb39pynuhvv",
        "language_inferred": true
       },
       {
        "name": "روايات صوتية",
+       "active": 0,
        "url": "https://stream.zeno.fm/xt5yhjxfsyhvv",
        "language_inferred": true
       },
       {
        "name": "رونق العرب",
+       "active": 0,
        "url": "https://stream.zeno.fm/gxuvqbkst98uv",
        "language_inferred": true
       },
       {
        "name": "سلامتك اولا",
+       "active": 0,
        "url": "https://stream.zeno.fm/1w5nkkvrefhvv"
       },
       {
        "name": "سورة الكهف لمجموعة من القراء",
+       "active": 0,
        "url": "https://stream.zeno.fm/xe1kuxvmw98uv",
        "language_inferred": true
       },
       {
        "name": "شات اميرتى",
+       "active": 0,
        "url": "https://stream.zeno.fm/km17b0uubuhvv",
        "language_inferred": true
       },
       {
        "name": "شات بنت مصر",
+       "active": 0,
        "url": "https://stream.zeno.fm/zecreuagm48uv",
        "language_inferred": true
       },
       {
        "name": "شات على القهوة",
+       "active": 0,
        "url": "https://stream.zeno.fm/mecizjgxknxuv",
        "language_inferred": true
       },
       {
        "name": "شروق للاغانى الهادفه",
+       "active": 0,
        "url": "https://stream.zeno.fm/7q5uccqr7hhvv",
        "language_inferred": true
       },
       {
        "name": "صوت الشباب",
+       "active": 0,
        "url": "https://stream.zeno.fm/n67k3x9smrhvv",
        "language_inferred": true
       },
       {
        "name": "ع القهوة اتجمعنا",
+       "active": 0,
        "url": "https://stream.zeno.fm/y7ytx6gr1nhvv",
        "language_inferred": true
       },
       {
        "name": "عالموجة اف ام",
+       "active": 0,
        "url": "https://stream.zeno.fm/6s8mmpgasrhvv",
        "language_inferred": true
       },
       {
        "name": "عظات للاباء",
+       "active": 0,
        "url": "https://stream.zeno.fm/7tb03335998uv",
        "language_inferred": true
       },
       {
        "name": "عظات للقمص كيرلس",
+       "active": 0,
        "url": "https://stream.zeno.fm/aq08uw55998uv",
        "language_inferred": true
       },
       {
        "name": "غذاء الروح",
+       "active": 0,
        "url": "https://stream.zeno.fm/446vypsmgf9uv"
       },
       {
        "name": "قناة المجد",
+       "active": 0,
        "url": "https://stream.zeno.fm/0w3d53vmw98uv",
        "language_inferred": true
       },
       {
        "name": "كاتدرائية رئيس الملائكة ميخائيل بأسيوط",
+       "active": 0,
        "url": "https://stream.zeno.fm/d9w5gpptkkhvv",
        "language_inferred": true
       },
       {
        "name": "كنيسة القديسين بطرس وبولس بشبين الكوم",
+       "active": 0,
        "url": "https://stream.zeno.fm/n58aeezsyhhvv",
        "language_inferred": true
       },
       {
        "name": "مارمرقص",
+       "active": 0,
        "url": "https://stream.zeno.fm/x9uv7870198uv",
        "language_inferred": true
       },
       {
        "name": "مبادرة الندا",
+       "active": 0,
        "url": "https://stream.zeno.fm/ywm15ghx1nhvv",
        "language_inferred": true
       },
       {
        "name": "مريم القديسه",
+       "active": 0,
        "url": "https://stream.zeno.fm/6ttrue6zfchvv"
       },
       {
        "name": "ميكسات خليجية",
+       "active": 0,
        "url": "https://stream.zeno.fm/5p3svdmgr9etv",
        "language_inferred": true
       },
       {
        "name": "ميكسات عربية",
+       "active": 0,
        "url": "https://stream.zeno.fm/s8pczv7hqzxvv",
        "language_inferred": true
       },
       {
        "name": "ميكسات مصرية",
+       "active": 0,
        "url": "https://stream.zeno.fm/aqkfcwibv9utv",
        "language_inferred": true
       },
       {
        "name": "نور الاسلام",
+       "active": 0,
        "url": "https://stream.zeno.fm/yter5kugqc9uv"
       },
       {
        "name": "هنا كايرو",
+       "active": 0,
        "url": "https://stream.zeno.fm/9fcww9usvxhvv",
        "language_inferred": true
       },
       {
        "name": "وانت مالك",
+       "active": 0,
        "url": "https://stream.zeno.fm/ma27p13eqrhvv",
        "language_inferred": true
       }
@@ -5461,6 +6447,7 @@
      "stations": [
       {
        "name": "Copt4G Church اذاعه الكنيسه",
+       "active": 0,
        "url": "http://66.70.249.70:5736/stream"
       }
      ]
@@ -5470,6 +6457,7 @@
      "stations": [
       {
        "name": "nrj Egypt FM",
+       "active": 0,
        "url": "http://ice31.securenetsystems.net/NRJEG",
        "tags": [
         "classical",
@@ -5479,6 +6467,7 @@
       },
       {
        "name": "TIBA Radio Listen live",
+       "active": 0,
        "url": "https://s1.voscast.com:10026/stream.mp3",
        "tags": [
         "pop_hits",
@@ -5494,6 +6483,7 @@
      "stations": [
       {
        "name": "moh3dly",
+       "active": 0,
        "url": "https://stream.zeno.fm/cppnrtcnpdatv"
       }
      ]
@@ -5503,6 +6493,7 @@
      "stations": [
       {
        "name": "Radio Next | راديو نكست radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/z6duygngt68uv",
        "tags": [
         "news_talk",
@@ -5517,6 +6508,7 @@
      "stations": [
       {
        "name": "Nile FM",
+       "active": 0,
        "url": "https://audio.nrpstream.com/listen/nile_fm/radio.mp3",
        "tags": [
         "pop_hits",
@@ -5527,6 +6519,7 @@
       },
       {
        "name": "Nile FM",
+       "active": 0,
        "url": "https://reach-audio.esteam.rocks/radio/8010/live.mp3",
        "tags": [
         "pop_hits",
@@ -5542,6 +6535,7 @@
      "stations": [
       {
        "name": "duckburg radio",
+       "active": 0,
        "url": "http://107.152.39.151:8010/"
       }
      ]
@@ -5551,82 +6545,102 @@
      "stations": [
       {
        "name": "Ankh Center For Egyptology Radio - راديو مركزعنخ لعلم المصريات",
+       "active": 0,
        "url": "https://stream.zeno.fm/qu0c13f6zehvv"
       },
       {
        "name": "Days Old Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/aqx3usbtsg0uv"
       },
       {
        "name": "DEZLO RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/tqs3bot7eaiuv"
       },
       {
        "name": "FME RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/7gthhzapilvuv"
       },
       {
        "name": "HK_Radio_Cairo_nights",
+       "active": 0,
        "url": "https://stream.zeno.fm/gcr33zem0hhvv"
       },
       {
        "name": "Joker night",
+       "active": 0,
        "url": "https://stream.zeno.fm/h8422w0nv98uv"
       },
       {
        "name": "Mohammed Aziz",
+       "active": 0,
        "url": "https://stream.zeno.fm/db1lmjmug5ouv"
       },
       {
        "name": "Nile FM",
+       "active": 0,
        "url": "https://reach-audio.esteam.rocks/radio/8010/live.mp3?1611099317"
       },
       {
        "name": "Nilefm",
+       "active": 0,
        "url": "https://reach-audio.esteam.rocks/radio/8010/live.mp3?1602147227"
       },
       {
        "name": "Radio 5-14",
+       "active": 0,
        "url": "https://stream.zeno.fm/icf2obsy8aytv"
       },
       {
        "name": "Radio CHAOMAR",
+       "active": 0,
        "url": "https://stream.zeno.fm/xm9cp4n2mehvv"
       },
       {
        "name": "Radio MACT",
+       "active": 0,
        "url": "https://stream.zeno.fm/e6e35dzhfg8uv"
       },
       {
        "name": "SMSC Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/yv17vdv02s8uv"
       },
       {
        "name": "Sout Sharq",
+       "active": 0,
        "url": "https://stream.zeno.fm/dvbprpm0ba9uv"
       },
       {
        "name": "The Sound Of The Arabian Desert Episode 01",
+       "active": 0,
        "url": "https://stream.zeno.fm/c0x2vsbhuuhvv"
       },
       {
        "name": "WAF Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/d09dd23ccchvv"
       },
       {
        "name": "Waves.FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/fua6pucctxktv"
       },
       {
        "name": "اغاني كوكب الشرق صدى صوت",
+       "active": 0,
        "url": "https://stream.zeno.fm/xu1k6s61rxhvv"
       },
       {
        "name": "راديو أرابيسك",
+       "active": 0,
        "url": "https://stream.zeno.fm/cx01k0nfdq8uv"
       },
       {
        "name": "شريف مصطفى",
+       "active": 0,
        "url": "https://stream.zeno.fm/yf3yr0vmw98uv"
       }
      ]
@@ -5641,22 +6655,27 @@
      "stations": [
       {
        "name": "Sky Sound",
+       "active": 0,
        "url": "https://stream.zeno.fm/vac279kdqrhvv"
       },
       {
        "name": "test1222",
+       "active": 0,
        "url": "https://stream.zeno.fm/h9d61ttd1c9uv"
       },
       {
        "name": "إذاعة الأدب العربي",
+       "active": 0,
        "url": "https://stream.zeno.fm/vvv3mm8p7rhvv"
       },
       {
        "name": "اغاني ورده الجزائرية صدى صوت",
+       "active": 0,
        "url": "https://stream.zeno.fm/5277mqf2sxhvv"
       },
       {
        "name": "راديو طبيب",
+       "active": 0,
        "url": "https://stream.zeno.fm/nbckbh5qc0hvv"
       }
      ]
@@ -5671,6 +6690,7 @@
      "stations": [
       {
        "name": "El Gouna Radio",
+       "active": 0,
        "url": "https://node-23.zeno.fm/bsvre10feq8uv?rj-ttl=5&aw_0_req_lsid=690b35b1479e858d968324faadc7f261&acu-uid=646900849311&bsw-uid=2a0cd4bd-b8ac-4600-95da-0f2cb82a7e06&cto-uid=069e7d06-11ff-4141-a26a-7a6e398d297d-6208bd29-5541&adt-uid=cuid_9bac6151-8ca9-11ec-a3e3-126c641e3b74&amb-uid=7989554413988968511&rj-tok=AAABfvgumsYATw3okhA08FapIA&aw-uid=690b35b1479e858d968324faadc7f261&dyn-uid=05030002_6208d4db9e064&dbm-uid=CAESELPFGNKVycXIKDWsDGQjWic&mm-uid=2ff96208-bd22-4f00-a9bf-b551046296fb&triton-uid=cookie%3A7837c9fe-b911-4208-921c-341de3fe7b85&an-uid=9212616054512681997",
        "tags": [
         "various_eclectic",
@@ -5686,6 +6706,7 @@
      "stations": [
       {
        "name": "ERTU - لاذاعة البرنامج العام",
+       "active": 0,
        "url": "https://livestreaming5.onlinehorizons.net/hls-live/pernamegaam/_definst_/liveevent/livestream.m3u8"
       }
      ]
@@ -5695,6 +6716,7 @@
      "stations": [
       {
        "name": "Mix FM",
+       "active": 0,
        "url": "https://c34.radioboss.fm:18035/stream"
       }
      ]
@@ -5709,6 +6731,7 @@
      "stations": [
       {
        "name": "ROBINSON FM",
+       "active": 0,
        "url": "http://stream.robinsonfm.de/robinsonfm-aac.mp3",
        "tags": [
         "pop_hits",
@@ -5722,6 +6745,7 @@
      "stations": [
       {
        "name": "On the Way",
+       "active": 0,
        "url": "https://stream.zeno.fm/q2bxkey8d2zuv"
       }
      ]
@@ -5736,6 +6760,7 @@
      "stations": [
       {
        "name": "El Gauna FM",
+       "active": 0,
        "url": "http://82.201.132.237:8000/stream.mp3",
        "tags": [
         "easy_listening",
@@ -5757,6 +6782,7 @@
      "stations": [
       {
        "name": "StellaDeMarie",
+       "active": 0,
        "url": "https://stream.zeno.fm/f4m00xwbqrhvv"
       }
      ]
@@ -5771,6 +6797,7 @@
      "stations": [
       {
        "name": "Tzgospel (Egypt)",
+       "active": 0,
        "url": "https://stream.zeno.fm/dx4m8vr1uchvv"
       }
      ]
@@ -5785,6 +6812,7 @@
      "stations": [
       {
        "name": "Shalaqan",
+       "active": 0,
        "url": "https://stream.zeno.fm/05avw76t01zuv"
       }
      ]
@@ -5799,6 +6827,7 @@
      "stations": [
       {
        "name": "El Gouna Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/bsvre10feq8uv"
       }
      ]

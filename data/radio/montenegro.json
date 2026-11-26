@@ -10,6 +10,7 @@
      "stations": [
       {
        "name": "Kulturica radio",
+       "active": 0,
        "url": "http://freeuk25.listen2myradio.com:8431/",
        "tags": [
         "acid_jazz",
@@ -25,6 +26,7 @@
      "stations": [
       {
        "name": "Radio Televizija Budva",
+       "active": 0,
        "url": "http://listen.radionomy.com/RadioBudva/",
        "tags": [
         "pop_hits",
@@ -40,10 +42,12 @@
      "stations": [
       {
        "name": "Radio Manastir Podmaine",
+       "active": 0,
        "url": "http://198.7.59.28:8047/"
       },
       {
        "name": "Radio Svetigora",
+       "active": 0,
        "url": "http://svetigoralive.com:8879/",
        "tags": [
         "christian_gospel",
@@ -54,6 +58,7 @@
       },
       {
        "name": "Светигора",
+       "active": 0,
        "url": "https://svetigoralive.com/stream.mp3",
        "language_inferred": true
       }
@@ -64,11 +69,13 @@
      "stations": [
       {
        "name": "Radio Bijelo Polje",
+       "active": 0,
        "url": "http://79.142.73.139:2055",
        "language_inferred": true
       },
       {
        "name": "РЦГ Classic",
+       "active": 0,
        "url": "https://rtcg1.ipradio.rs:9100/listen.pls?n=4fc63b64dd469ae9c87c"
       }
      ]
@@ -78,6 +85,7 @@
      "stations": [
       {
        "name": "RadioMax",
+       "active": 0,
        "url": "http://radiomax.fun:8000/",
        "tags": [
         "country",
@@ -93,6 +101,7 @@
      "stations": [
       {
        "name": "Radio S3 CG",
+       "active": 0,
        "url": "http://stream.radios.rs:8018/",
        "tags": [
         "decade_80s",
@@ -107,6 +116,7 @@
      "stations": [
       {
        "name": "Radio Kulturica Online",
+       "active": 0,
        "url": "http://freeuk4.listen2myradio.com:29273/",
        "tags": [
         "chillout_lounge",
@@ -123,22 +133,26 @@
      "stations": [
       {
        "name": "MAG Radio Love",
+       "active": 0,
        "url": "https://radio.elmag.me/love.mp3",
        "language_inferred": true,
        "rb": "119dc8a3-f360-47e8-8949-7d5991a79d28"
       },
       {
        "name": "Radio Bijelo Polje",
+       "active": 0,
        "url": "https://player.iradio.pro/radiobijelopolje/",
        "language_inferred": true
       },
       {
        "name": "Radio Bijelo Polje",
+       "active": 0,
        "url": "http://46.105.43.31:8122/stream",
        "language_inferred": true
       },
       {
        "name": "Radio Renome Podgorica",
+       "active": 0,
        "url": "http://5.9.25.50:9304/stream/",
        "language_inferred": true
       }
@@ -149,6 +163,7 @@
      "stations": [
       {
        "name": "Play Radio Montenegro",
+       "active": 0,
        "url": "https://stream.playradio.me:8443/play-me.aac",
        "tags": [
         "electronic",
@@ -158,6 +173,7 @@
       },
       {
        "name": "Radio Elmag Party",
+       "active": 0,
        "url": "https://radio.elmag.me/party.mp3",
        "tags": [
         "electronic",
@@ -168,6 +184,7 @@
       },
       {
        "name": "Radio Karantin",
+       "active": 0,
        "url": "https://stream.zeno.fm/wsw0frv9mg0uv",
        "tags": [
         "electronic",
@@ -178,6 +195,7 @@
       },
       {
        "name": "TDI Radio Crna Gora",
+       "active": 0,
        "url": "https://streaming.tdiradio.com/crnagora.mp3",
        "tags": [
         "electronic",
@@ -194,23 +212,27 @@
      "stations": [
       {
        "name": "Bum Radio Podgorica",
+       "active": 0,
        "url": "https://r.name.ba:7324/stream.nsv",
        "language_inferred": true
       },
       {
        "name": "MAG Radio Folk Gold",
+       "active": 0,
        "url": "https://radio.elmag.me/folkgold.mp3",
        "language_inferred": true,
        "rb": "4949fc63-01cd-46e1-a17d-a99fdd461c62"
       },
       {
        "name": "Radio Andrijevica",
+       "active": 0,
        "url": "https://mpc2.mediacp.eu/stream/andrijevica/stream?n=76771f94de504b317be6",
        "language_inferred": true,
        "rb": "398f407b-3fac-441f-8b8a-96d7ef1f53be"
       },
       {
        "name": "Radio D Plus",
+       "active": 0,
        "url": "http://tachyon.shoutca.st:8303/xstream",
        "bitrate": 128,
        "logo": "http://radio.pervii.com/im/8/1561786268.jpg",
@@ -225,11 +247,13 @@
       },
       {
        "name": "Radio Glas Plava",
+       "active": 0,
        "url": "https://glasplava-rowrigos.radioca.st/?n=3e0ed391d36a17a25959",
        "language_inferred": true
       },
       {
        "name": "Radio Imperativ",
+       "active": 0,
        "url": "https://stream.zeno.fm/x950r8qwnwzuv",
        "tags": [
         "folk",
@@ -239,6 +263,7 @@
       },
       {
        "name": "Radio Renome",
+       "active": 0,
        "url": "https://r.name.ba:7316/stream.nsv",
        "tags": [
         "folk",
@@ -249,10 +274,12 @@
       },
       {
        "name": "Radio Renome",
+       "active": 0,
        "url": "http://5.9.25.50:9316/"
       },
       {
        "name": "Radio Saraj",
+       "active": 0,
        "url": "https://eu4.fastcast4u.com/proxy/stilradiomk?mp=/stream/8/",
        "tags": [
         "folk",
@@ -261,6 +288,7 @@
       },
       {
        "name": "Radio Saraj",
+       "active": 0,
        "url": "https://eu4.fastcast4u.com/proxy/stilradiomk?mp=/stream/8/MP#",
        "tags": [
         "pop_hits",
@@ -270,6 +298,7 @@
       },
       {
        "name": "Radio Saraj",
+       "active": 0,
        "url": "http://gorasolution.sytes.net:8000/",
        "tags": [
         "pop_hits",
@@ -283,6 +312,7 @@
      "stations": [
       {
        "name": "Elektroniq Radio - EQR",
+       "active": 0,
        "url": "http://uk6freenew.listen2myradio.com:20796/stream",
        "tags": [
         "house",
@@ -293,6 +323,7 @@
       },
       {
        "name": "Elektroniq Radio - EQR",
+       "active": 0,
        "url": "http://109.169.76.155:25542/stream",
        "language_inferred": true
       }
@@ -303,6 +334,7 @@
      "stations": [
       {
        "name": "Gradski radio",
+       "active": 0,
        "url": "http://centauri.shoutca.st:8325/stream",
        "tags": [
         "jazz",
@@ -315,6 +347,7 @@
       },
       {
        "name": "MAG Radio Jazz",
+       "active": 0,
        "url": "https://radio.elmag.me/jazz.mp3",
        "language_inferred": true
       }
@@ -325,6 +358,7 @@
      "stations": [
       {
        "name": "MAG Radio Kids",
+       "active": 0,
        "url": "https://radio.elmag.me/kids.mp3",
        "language_inferred": true,
        "rb": "fa325ba3-f7f7-49c6-b1cd-e65a010546d2"
@@ -336,6 +370,7 @@
      "stations": [
       {
        "name": "Star FM Montenegro",
+       "active": 0,
        "url": "http://173.212.199.66:9010",
        "tags": [
         "pop_hits",
@@ -352,6 +387,7 @@
      "stations": [
       {
        "name": "BUM RADIO Podgorica FM Listen live",
+       "active": 0,
        "url": "https://r.name.ba:7324/",
        "tags": [
         "news_talk",
@@ -361,6 +397,7 @@
       },
       {
        "name": "Drugačija Radio Stanica",
+       "active": 0,
        "url": "https://eu2.fastcast4u.com/proxy/mic0?mp=/stream",
        "tags": [
         "pop_hits",
@@ -372,6 +409,7 @@
       },
       {
        "name": "EL Radio",
+       "active": 0,
        "url": "https://radio.elmag.me/el.mp3",
        "tags": [
         "pop_hits",
@@ -382,12 +420,14 @@
       },
       {
        "name": "MAG Radio Izvorne",
+       "active": 0,
        "url": "https://radio.elmag.me/izvorne.mp3",
        "language_inferred": true,
        "rb": "f0123b62-827f-4803-95ba-ef500b2fabf6"
       },
       {
        "name": "Radio 083",
+       "active": 0,
        "url": "http://176.9.59.144:8032/*.mp3",
        "tags": [
         "news_talk",
@@ -397,6 +437,7 @@
       },
       {
        "name": "Radio Antena M",
+       "active": 0,
        "url": "https://radioservis.me:8010/antenamlive",
        "bitrate": 128,
        "logo": "http://radio.pervii.com/im/8/1561786268.jpg",
@@ -410,11 +451,13 @@
       },
       {
        "name": "Radio Art 365",
+       "active": 0,
        "url": "https://stream.zeno.fm/tmn32t00d48uv",
        "language_inferred": true
       },
       {
        "name": "Radio Balkansko Srce radio",
+       "active": 0,
        "url": "http://cmr-hosting.com:8445/",
        "tags": [
         "news_talk",
@@ -425,6 +468,7 @@
       },
       {
        "name": "Radio Bar Info",
+       "active": 0,
        "url": "http://85.25.150.27:9000",
        "tags": [
         "news_talk",
@@ -434,6 +478,7 @@
       },
       {
        "name": "Radio Berane",
+       "active": 0,
        "url": "http://176.9.59.144:8014/stream",
        "tags": [
         "news_talk",
@@ -443,6 +488,7 @@
       },
       {
        "name": "Radio Berane radio",
+       "active": 0,
        "url": "https://stream.iradio.pro/proxy/radioberane?mp=/stream",
        "tags": [
         "news_talk",
@@ -452,11 +498,13 @@
       },
       {
        "name": "Radio Budva 98.7 FM – 98.7 FM – Budva – Montenegro",
+       "active": 0,
        "url": "https://listen.shoutcast.com/radiobudva.m3u",
        "language_inferred": true
       },
       {
        "name": "Radio Cetinje",
+       "active": 0,
        "url": "http://78.129.228.187:8007/stream",
        "tags": [
         "news_talk",
@@ -470,6 +518,7 @@
       },
       {
        "name": "Radio Crne Gore",
+       "active": 0,
        "url": "http://radio.beotel.net:8008",
        "tags": [
         "news_talk",
@@ -480,6 +529,7 @@
       },
       {
        "name": "Radio Crne Gore",
+       "active": 0,
        "url": "https://rtcg.ipradio.rs:9008/",
        "tags": [
         "news_talk",
@@ -489,16 +539,19 @@
       },
       {
        "name": "Radio Crne Gore",
+       "active": 0,
        "url": "http://radio.beotel.net:8008/listen.pls",
        "language_inferred": true
       },
       {
        "name": "Radio Crne Gore - Podgorica",
+       "active": 0,
        "url": "https://www.liveradio.es/http://radio.beotel.net:8008/",
        "language_inferred": true
       },
       {
        "name": "Radio Crne Gore 2",
+       "active": 0,
        "url": "https://r98.ipradio.rs:10100/",
        "tags": [
         "news_talk",
@@ -509,11 +562,13 @@
       },
       {
        "name": "Radio Građanin",
+       "active": 0,
        "url": "http://45.79.145.88:8000/stream.ogg",
        "language_inferred": true
       },
       {
        "name": "Radio Herceg Novi",
+       "active": 0,
        "url": "http://s2.voscast.com:10354",
        "tags": [
         "news_talk",
@@ -522,6 +577,7 @@
       },
       {
        "name": "Radio Homer radio",
+       "active": 0,
        "url": "https://radiohomerpg.radioca.st/",
        "tags": [
         "pop_hits",
@@ -531,6 +587,7 @@
       },
       {
        "name": "Radio Krš",
+       "active": 0,
        "url": "https://stream.radiokrs.me:8443/lq.mp3",
        "tags": [
         "pop_hits",
@@ -545,6 +602,7 @@
       },
       {
        "name": "Radio Mag Caffe",
+       "active": 0,
        "url": "https://radio.elmag.me/cafe.mp3",
        "tags": [
         "news_talk",
@@ -556,6 +614,7 @@
       },
       {
        "name": "Radio Petnjica",
+       "active": 0,
        "url": "https://ubnt.xtraya.com/radiopetnjica,mp3",
        "tags": [
         "news_talk",
@@ -565,6 +624,7 @@
       },
       {
        "name": "Radio S1, Podgorica radio",
+       "active": 0,
        "url": "https://53a7ed211fc32.streamlock.net/asmedia/radios1-cg/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -573,6 +633,7 @@
       },
       {
        "name": "Radio Skala radio",
+       "active": 0,
        "url": "http://178.238.236.240:8004/stream.nsv",
        "tags": [
         "news_talk",
@@ -582,11 +643,13 @@
       },
       {
        "name": "Radio Svetigora",
+       "active": 0,
        "url": "http://svetigoralive.com:8879/Radio%20Svetigora",
        "language_inferred": true
       },
       {
        "name": "Radio Svetigora radio",
+       "active": 0,
        "url": "https://svetigoralive.com/Radio%20Svetigora",
        "tags": [
         "news_talk",
@@ -596,6 +659,7 @@
       },
       {
        "name": "Radio Televizija Budva",
+       "active": 0,
        "url": "https://c8.radioboss.fm:18199/stream",
        "tags": [
         "news_talk",
@@ -607,6 +671,7 @@
       },
       {
        "name": "Radio Teuta radio",
+       "active": 0,
        "url": "http://109.72.96.132:5000/",
        "tags": [
         "news_talk",
@@ -617,6 +682,7 @@
       },
       {
        "name": "Radio Titograd",
+       "active": 0,
        "url": "http://ca.rcast.net:8016/stream.mp3",
        "tags": [
         "news_talk",
@@ -627,6 +693,7 @@
       },
       {
        "name": "Radio Titograd 2",
+       "active": 0,
        "url": "http://ca.rcast.net:8024/stream.mp3",
        "tags": [
         "news_talk",
@@ -636,6 +703,7 @@
       },
       {
        "name": "Radio Titograd 3",
+       "active": 0,
        "url": "http://ca3.rcast.net:8054/stream.mp3",
        "tags": [
         "news_talk",
@@ -645,20 +713,24 @@
       },
       {
        "name": "Radio Tivat",
+       "active": 0,
        "url": "http://95.211.166.127:8006/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio Zeta",
+       "active": 0,
        "url": "http://176.9.59.144:8082/"
       },
       {
        "name": "Radio Zeta radio",
+       "active": 0,
        "url": "https://uk6freenew.listen2myradio.com/live.mp3?typeportmount=s2_16750_stream_947107816stream.nsv",
        "language_inferred": true
       },
       {
        "name": "TDI Crna Gora radio",
+       "active": 0,
        "url": "http://streaming.tdiradio.com:8000/crnagora.mp3",
        "tags": [
         "news_talk",
@@ -669,6 +741,7 @@
       },
       {
        "name": "Радио Подмаине radio",
+       "active": 0,
        "url": "http://198.7.59.28:8047/stream.nsv",
        "tags": [
         "christian_gospel",
@@ -678,6 +751,7 @@
       },
       {
        "name": "Српски Радио",
+       "active": 0,
        "url": "http://188.166.30.166:8000/stream"
       }
      ]
@@ -687,6 +761,7 @@
      "stations": [
       {
        "name": "002.Evergreen Radio CG",
+       "active": 0,
        "url": "http://s1.voscast.com:11286/EVERGREENRadioCG",
        "tags": [
         "pop_hits",
@@ -700,6 +775,7 @@
       },
       {
        "name": "002.Evergreen Radio CG",
+       "active": 0,
        "url": "https://streamingV2.shoutcast.com/EVERGREENRadioCG",
        "tags": [
         "decade_70s",
@@ -711,6 +787,7 @@
       },
       {
        "name": "Radio Elmag Nostalgija",
+       "active": 0,
        "url": "https://radio.elmag.me/nostalgija.mp3",
        "tags": [
         "pop_hits",
@@ -728,25 +805,30 @@
      "stations": [
       {
        "name": "CITY RADIO 933",
+       "active": 0,
        "url": "http://178.32.146.187:6166/stream",
        "language_inferred": true
       },
       {
        "name": "City Radio Podgorica",
+       "active": 0,
        "url": "http://eu7.fastcast4u.com:6166/stream/1/",
        "language_inferred": true
       },
       {
        "name": "DRS RADIO 101.5 FM",
+       "active": 0,
        "url": "http://178.33.135.245/proxy/mic0"
       },
       {
        "name": "Drugačija Radio Stanica",
+       "active": 0,
        "url": "http://37.187.90.121:3474/stream/1/",
        "language_inferred": true
       },
       {
        "name": "Jupok Radio",
+       "active": 0,
        "url": "http://176.9.59.144:8062/stream/1/",
        "bitrate": 64,
        "logo": "http://radio.pervii.com/im/6/1550286306.jpg",
@@ -758,34 +840,41 @@
       },
       {
        "name": "Radio D",
+       "active": 0,
        "url": "http://s14.myradiostream.com:11356",
        "language_inferred": true
       },
       {
        "name": "Radio Elmag",
+       "active": 0,
        "url": "http://5.152.208.98:8000",
        "language_inferred": true
       },
       {
        "name": "Radio Herceg Novi 90.0 && 102.7",
+       "active": 0,
        "url": "http://s2.voscast.com:10354/stream1490674747632/1"
       },
       {
        "name": "Radio Jadran 103.2 FM",
+       "active": 0,
        "url": "http://s10.ssl-stream.com:8032/stream"
       },
       {
        "name": "Radio Kotor Montenegro",
+       "active": 0,
        "url": "http://176.9.59.144:8040/stream/1/",
        "language_inferred": true
       },
       {
        "name": "Radio Kotor radio",
+       "active": 0,
        "url": "http://176.9.59.144:8040/",
        "language_inferred": true
       },
       {
        "name": "Radio KRS",
+       "active": 0,
        "url": "http://radioservis.me:8030/live",
        "tags": [
         "pop_hits",
@@ -795,31 +884,37 @@
       },
       {
        "name": "Radio Prva",
+       "active": 0,
        "url": "http://stream.playradio.me:8001/play-me.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio Prva Listen live",
+       "active": 0,
        "url": "https://securestreams.autopo.st:1200/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio S1",
+       "active": 0,
        "url": "http://176.9.59.144:8060/stream",
        "language_inferred": true
       },
       {
        "name": "Radio S1 CG",
+       "active": 0,
        "url": "https://sradio5.ipradio.rs:9008/stream",
        "language_inferred": true
       },
       {
        "name": "Radio S2 CG",
+       "active": 0,
        "url": "https://sradio6.ipradio.rs:9010/stream",
        "language_inferred": true
       },
       {
        "name": "Radio S2 CG",
+       "active": 0,
        "url": "http://53be5ef2d13aa.streamlock.net/asmedia/radios2-cg/playlist.m3u8",
        "tags": [
         "pop_hits",
@@ -831,6 +926,7 @@
       },
       {
        "name": "Radio S2 Crna Gora",
+       "active": 0,
        "url": "https://stream.radios.rs:9010/?n=c649c40539add92a7612",
        "language_inferred": true,
        "rb": "2baf5673-911f-4d34-840c-a3872991523d",
@@ -838,16 +934,19 @@
       },
       {
        "name": "Radio S3 (CG)",
+       "active": 0,
        "url": "https://5bc45691ca49f.streamlock.net/asmedia/radios3-cg%20/chunklist_w1740796029.m3u8",
        "language_inferred": true
       },
       {
        "name": "Radio Star FM",
+       "active": 0,
        "url": "http://s.radiostarfm.me:9010/stream/1/",
        "language_inferred": true
       },
       {
        "name": "TDI All Hits",
+       "active": 0,
        "url": "http://streaming.tdiradio.com:9777/",
        "language_inferred": true
       }
@@ -858,6 +957,7 @@
      "stations": [
       {
        "name": "Reggaeneracija",
+       "active": 0,
        "url": "http://5.189.179.77:8000/live",
        "language_inferred": true
       }
@@ -868,6 +968,7 @@
      "stations": [
       {
        "name": "Bruškin",
+       "active": 0,
        "url": "https://player.radiobruskin.me/proxy/radiobruskin/stream?n=1114ea41b19885d4b698",
        "tags": [
         "pop_hits",
@@ -879,6 +980,7 @@
       },
       {
        "name": "MAG Radio Pop Rock Ex Yu",
+       "active": 0,
        "url": "https://radio.elmag.me/poprock.mp3",
        "tags": [
         "pop_hits",
@@ -890,6 +992,7 @@
       },
       {
        "name": "Radio Jadran",
+       "active": 0,
        "url": "http://s11.ssl-stream.com:8080/stream",
        "tags": [
         "pop_hits",
@@ -899,6 +1002,7 @@
       },
       {
        "name": "Radio Mojkovac radio",
+       "active": 0,
        "url": "http://176.9.59.144:8038/",
        "tags": [
         "rock",
@@ -909,6 +1013,7 @@
       },
       {
        "name": "Radio S2, Podgorica radio",
+       "active": 0,
        "url": "https://5bc45691ca49f.streamlock.net/asmedia/radios2-cg/playlist.m3u8",
        "tags": [
         "pop_hits",
@@ -920,6 +1025,7 @@
       },
       {
        "name": "Rcg Yug",
+       "active": 0,
        "url": "https://rtcg.ipradio.rs:9103/?n=b358e6459208a4b728d9",
        "tags": [
         "rock",
@@ -934,6 +1040,7 @@
      "stations": [
       {
        "name": "DRS",
+       "active": 0,
        "url": "https://eu2.fastcast4u.com/proxy/mic0?mp=/stream&amp1580894643455",
        "tags": [
         "electronic",
@@ -943,6 +1050,7 @@
       },
       {
        "name": "Orthodox Radio Podmaine",
+       "active": 0,
        "url": "http://de1.listen2myradio.com:8002/stream.mp3",
        "tags": [
         "christian_gospel",
@@ -952,6 +1060,7 @@
       },
       {
        "name": "Radio Kulturica Online",
+       "active": 0,
        "url": "http://freeuk23.listen2myradio.com:30643/",
        "tags": [
         "soul_rnb_funk",
@@ -964,6 +1073,7 @@
       },
       {
        "name": "SF Soul Radio",
+       "active": 0,
        "url": "http://5.135.154.69:14536",
        "language_inferred": true
       }
@@ -974,6 +1084,7 @@
      "stations": [
       {
        "name": "Bokanews",
+       "active": 0,
        "url": "http://www.bokanews.me/live/",
        "tags": [
         "sports",
@@ -983,6 +1094,7 @@
       },
       {
        "name": "Football Fans Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/k4ryg0y14k0uv",
        "tags": [
         "sports",
@@ -997,6 +1109,7 @@
      "stations": [
       {
        "name": "Elektroniq Radio",
+       "active": 0,
        "url": "https://www.liveradio.es/http://78.129.185.81:6654/stream",
        "tags": [
         "techno",
@@ -1012,11 +1125,13 @@
      "stations": [
       {
        "name": "Radio Petnjica",
+       "active": 0,
        "url": "http://85.25.148.78:8000/radiopetnjica",
        "language_inferred": true
       },
       {
        "name": "Radio Tivat",
+       "active": 0,
        "url": "http://radio.dukahosting.com:8008/stream",
        "tags": [
         "various_eclectic",
@@ -1026,6 +1141,7 @@
       },
       {
        "name": "Radio Tivat 88.5",
+       "active": 0,
        "url": "https://radiotivat.com/livestream/playlist.pls",
        "language_inferred": true
       }
@@ -1036,20 +1152,24 @@
      "stations": [
       {
        "name": "Radio 083",
+       "active": 0,
        "url": "http://144.76.174.181:2083/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio Berane",
+       "active": 0,
        "url": "http://95.211.166.127:8284/",
        "language_inferred": true
       },
       {
        "name": "Radio Kotor",
+       "active": 0,
        "url": "http://46.105.43.31:8094/"
       },
       {
        "name": "Radio Renome",
+       "active": 0,
        "url": "https://r.name.ba:7316/",
        "tags": [
         "world",
@@ -1062,6 +1182,7 @@
       },
       {
        "name": "Radio Televizija Budva",
+       "active": 0,
        "url": "http://c8.radioboss.fm:8199/stream",
        "tags": [
         "world",
@@ -1076,232 +1197,278 @@
      "stations": [
       {
        "name": "Antena M – 87.6 FM – Podgorica – Montenegro",
+       "active": 0,
        "url": "https://radioservis.me:8010/antenamlive.m3u",
        "language_inferred": true
       },
       {
        "name": "Aroma radio",
+       "active": 0,
        "url": "http://5.63.151.52:7025/?n=b05c18e3854194f9f699",
        "language_inferred": true
       },
       {
        "name": "Bunt Worldwide",
+       "active": 0,
        "url": "http://node-01.zeno.fm/eqk3pz638p8uv",
        "language_inferred": true
       },
       {
        "name": "Drugacija Radio Stanica",
+       "active": 0,
        "url": "https://www.liveradio.es/http://178.33.135.245:3474/stream",
        "language_inferred": true
       },
       {
        "name": "Drugacija Radio Stanica",
+       "active": 0,
        "url": "http://37.187.90.121:3474/stream",
        "language_inferred": true
       },
       {
        "name": "Drugacija Radio Stanica – Podgorica – Montenegro",
+       "active": 0,
        "url": "https://eu2.fastcast4u.com/proxy/mic0?mp=/stream&1611144786324",
        "language_inferred": true
       },
       {
        "name": "Drugačija Radio Stanica",
+       "active": 0,
        "url": "https://eu2.fastcast4u.com/proxy/mic0?mp=/stream?n=a328d9a3591fe3f842a2",
        "language_inferred": true
       },
       {
        "name": "Elektroniq Radio",
+       "active": 0,
        "url": "http://78.129.229.122:24525/stream",
        "language_inferred": true
       },
       {
        "name": "ELEKTRONIQ RADIO",
+       "active": 0,
        "url": "http://78.129.185.81:6654/stream",
        "language_inferred": true
       },
       {
        "name": "F Radio",
+       "active": 0,
        "url": "http://fradio.fm:9010/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Haustor FM",
+       "active": 0,
        "url": "http://node-34.zeno.fm/hs8eg2mn64zuv",
        "language_inferred": true
       },
       {
        "name": "Kulturica",
+       "active": 0,
        "url": "https://freeuk4.listen2myradio.com/live.mp3?typeportmount=s1_29273_stream",
        "language_inferred": true
       },
       {
        "name": "Laki Radio",
+       "active": 0,
        "url": "https://radiostream.cyou:8020/laki?1702660817729?n=47383a1cc3d513db1dd4",
        "language_inferred": true
       },
       {
        "name": "NK BEATS",
+       "active": 0,
        "url": "http://node-19.zeno.fm/u0cg9aca6p8uv",
        "language_inferred": true
       },
       {
        "name": "Plus Radio",
+       "active": 0,
        "url": "http://plusradio.space:8000/stream/1/",
        "language_inferred": true
       },
       {
        "name": "Radio 98",
+       "active": 0,
        "url": "http://radio.beotel.net:8010/",
        "language_inferred": true
       },
       {
        "name": "Radio Ana Malit",
+       "active": 0,
        "url": "http://streaming.shoutcast.com/RadioAnaMalit",
        "language_inferred": true
       },
       {
        "name": "Radio ATLAS",
+       "active": 0,
        "url": "http://www.rtvatlas.tv:9090/stream?type=.mp3/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio ATLAS",
+       "active": 0,
        "url": "http://www.rtvatlas.tv:9090/stream/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio Bar - Crna Gora",
+       "active": 0,
        "url": "http://livestream.barinfo.me:9000/*.mp3?n=364233a5ffc90d617185",
        "language_inferred": true
       },
       {
        "name": "RADIO BAR 96.9 FM",
+       "active": 0,
        "url": "https://streaming2.locucionar.com/proxy/radiobar?mp=/stream?n=0994e259599eaacf4d75",
        "language_inferred": true
       },
       {
        "name": "Radio Berane",
+       "active": 0,
        "url": "https://stream.iradio.pro/proxy/radioberane?mp=/stream?n=94a916e2eb30ceca1a32",
        "language_inferred": true
       },
       {
        "name": "Radio Bijelo Polje",
+       "active": 0,
        "url": "http://136.243.134.202:8122/stream?n=19eaa2b6557cc6438966",
        "language_inferred": true,
        "rb": "02b7ed21-b23c-4c61-a691-fbf2a066688c"
       },
       {
        "name": "Radio Boka News",
+       "active": 0,
        "url": "http://bokanews.me:8000/",
        "language_inferred": true
       },
       {
        "name": "RADIO CORONA Montenegro",
+       "active": 0,
        "url": "http://178.238.236.240:8000/",
        "language_inferred": true
       },
       {
        "name": "Radio Crne Gore",
+       "active": 0,
        "url": "http://radio.beotel.net:8008/stream/1",
        "language_inferred": true
       },
       {
        "name": "Radio D",
+       "active": 0,
        "url": "http://tachyon.shoutca.st:8289/",
        "language_inferred": true
       },
       {
        "name": "Radio D Plus",
+       "active": 0,
        "url": "https://radiodplus.radioca.st/xstream",
        "language_inferred": true,
        "rb": "3a3406fe-ea7f-4cb0-a83b-cdf3b7e29c37"
       },
       {
        "name": "Radio D Plus",
+       "active": 0,
        "url": "http://tachyon.shoutca.st:8303/",
        "language_inferred": true
       },
       {
        "name": "Radio Danilovgrad",
+       "active": 0,
        "url": "http://sirius.shoutca.st:8604/stream"
       },
       {
        "name": "Radio DELFIN",
+       "active": 0,
        "url": "https://node-21.zeno.fm/4u09mv8m1k0uv?rj-ttl=5&amprj-tok=AAABd7-kuEAAORDgBxvg0E5g1g",
        "language_inferred": true
       },
       {
        "name": "Radio Delfin",
+       "active": 0,
        "url": "http://176.9.59.144:8032/?n=bcda5f3f40572264fcfd",
        "language_inferred": true
       },
       {
        "name": "Radio Dux - Tivat",
+       "active": 0,
        "url": "https://www.liveradio.es/http://radiodux.me:8000/radiodux",
        "language_inferred": true
       },
       {
        "name": "Radio Elmag Evergreen",
+       "active": 0,
        "url": "https://radio.elmag.me/evergreen.mp3?n=8a47e81062ea09b73b8f",
        "language_inferred": true,
        "rb": "cfe52db3-7529-49e8-b0eb-4bfc93599ae8"
       },
       {
        "name": "Radio Homer",
+       "active": 0,
        "url": "http://144.217.129.213:8432/stream.nsvtype=mp3",
        "language_inferred": true
       },
       {
        "name": "Radio Homer",
+       "active": 0,
        "url": "http://149.56.147.197:8792/"
       },
       {
        "name": "Radio Homer",
+       "active": 0,
        "url": "http://149.56.147.197:8792/stream.nsvtype=mp3",
        "language_inferred": true
       },
       {
        "name": "Radio IMPERATIV Nikšić",
+       "active": 0,
        "url": "http://node-22.zeno.fm/4r3zk8qwnwzuv",
        "language_inferred": true
       },
       {
        "name": "Radio Kotor",
+       "active": 0,
        "url": "https://stream.iradio.pro/proxy/radiokotor?mp=/stream?n=50321b62b93e20cd6c98",
        "language_inferred": true
       },
       {
        "name": "Radio Kulturica Online",
+       "active": 0,
        "url": "https://freeuk12.listen2myradio.com/live.mp3?typeportmount=s1_25972_stream_546411367",
        "language_inferred": true
       },
       {
        "name": "Radio Mojkovac",
+       "active": 0,
        "url": "http://163.172.142.150:8000/stream?n=98b3521d3dc00944b5f3",
        "language_inferred": true
       },
       {
        "name": "Radio Petnjica",
+       "active": 0,
        "url": "https://ubnt.xtraya.com/radiopetnjica?n=ae91bfac10f24811db5b",
        "language_inferred": true
       },
       {
        "name": "Radio Reggaeneracija",
+       "active": 0,
        "url": "https://player.reggaeneracija.me/proxy/reggaeneracija/stream",
        "language_inferred": true
       },
       {
        "name": "Radio Renome Plus",
+       "active": 0,
        "url": "http://173.212.213.47:9300/",
        "language_inferred": true
       },
       {
        "name": "Radio S1 CG",
+       "active": 0,
        "url": "http://5bc45691ca49f.streamlock.net/asmedia/radios1-cg/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "Radio S1 Crna Gora",
+       "active": 0,
        "url": "https://stream.radios.rs:9008/?n=19ce75167af52faec2b5",
        "language_inferred": true,
        "rb": "edf8f62c-4d8f-47fa-a220-48ef8f4ab3ee",
@@ -1309,10 +1476,12 @@
       },
       {
        "name": "Radio S3 (CG)",
+       "active": 0,
        "url": "https://stream.radios.rs:9018/stream"
       },
       {
        "name": "Radio S3 Crna Gora",
+       "active": 0,
        "url": "https://stream.radios.rs:9018/?n=1801f23c9a18006aef09",
        "language_inferred": true,
        "rb": "c0d23bdb-6b51-4c82-8eb3-c55690f74209",
@@ -1320,66 +1489,79 @@
       },
       {
        "name": "Radio Saraj",
+       "active": 0,
        "url": "https://eu4.fastcast4u.com/proxy/stilradiomk?mp=/s?n=16921f5d1396344ef489",
        "language_inferred": true
       },
       {
        "name": "Radio Sund",
+       "active": 0,
        "url": "https://cast1.asurahosting.com/proxy/radiosun/stream",
        "language_inferred": true
       },
       {
        "name": "Radio Svetigora",
+       "active": 0,
        "url": "https://svetigoralive.com/RadioSvetigora",
        "language_inferred": true
       },
       {
        "name": "Radio Svetigora – 95.7 FM – Cetinje – Montenegro",
+       "active": 0,
        "url": "http://svetigoralive.com:8879/listen.pls",
        "language_inferred": true
       },
       {
        "name": "Radio Zeta",
+       "active": 0,
        "url": "http://freeuk18.listen2myradio.com:33901/?n=8b6dadb66cff56e80510",
        "language_inferred": true
       },
       {
        "name": "Radio Fatih",
+       "active": 0,
        "url": "https://radioservis.me/radio/8070/radiofatih?1702660538716?n=ca6e1bab39bdd8eb4be1",
        "language_inferred": true
       },
       {
        "name": "RTCG",
+       "active": 0,
        "url": "https://rtcg.ipradio.rs:9008/stream/",
        "language_inferred": true
       },
       {
        "name": "Skala Radio 92.7",
+       "active": 0,
        "url": "http://46.105.43.31:8004/stream",
        "language_inferred": true
       },
       {
        "name": "Skala Radio – 102.0 FM – Kotor – Montenegro",
+       "active": 0,
        "url": "http://178.238.236.240:8004/listen.pls",
        "language_inferred": true
       },
       {
        "name": "SRS – Strana Radio Stanica",
+       "active": 0,
        "url": "http://node-23.zeno.fm/0uaubx9271zuv",
        "language_inferred": true
       },
       {
        "name": "TDI Radio Crna Gora",
+       "active": 0,
        "url": "http://streaming.tdiradio.com:8000/crnagora/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "TDI Radio Crna Gora",
+       "active": 0,
        "url": "http://streaming.tdiradio.com:8000/crnagora?type=.flv",
        "language_inferred": true
       },
       {
        "name": "Trance Radio MNE",
+       "active": 0,
        "url": "http://node-31.zeno.fm/2zu6x9kbuwzuv",
        "language_inferred": true
       }
@@ -1395,6 +1577,7 @@
      "stations": [
       {
        "name": "Радио Светигора",
+       "active": 0,
        "url": "http://159.69.117.253:8879",
        "tags": [
         "christian_gospel",
@@ -1410,6 +1593,7 @@
      "stations": [
       {
        "name": "Studentski radio KRŠ",
+       "active": 0,
        "url": "https://stream.radiokrs.me:8443/live.mp3",
        "tags": [
         "pop_hits",
@@ -1424,6 +1608,7 @@
      "stations": [
       {
        "name": "Elektroniq Radio",
+       "active": 0,
        "url": "http://109.169.76.155:25542/stream.m3u",
        "tags": [
         "electronic",
@@ -1433,6 +1618,7 @@
       },
       {
        "name": "Radio Porto Montenegro",
+       "active": 0,
        "url": "https://malta1491.startdedicated.de:8443/main",
        "tags": [
         "electronic",
@@ -1449,6 +1635,7 @@
      "stations": [
       {
        "name": "Radio Ana Malit",
+       "active": 0,
        "url": "https://streamingv2.shoutcast.com/RadioAnaMalit",
        "tags": [
         "folk",
@@ -1458,6 +1645,7 @@
       },
       {
        "name": "Radio Bar",
+       "active": 0,
        "url": "http://85.25.33.7:9000/",
        "tags": [
         "folk",
@@ -1466,6 +1654,7 @@
       },
       {
        "name": "Radio Budva",
+       "active": 0,
        "url": "https://streamingv2.shoutcast.com/RadioBudva",
        "tags": [
         "folk",
@@ -1481,6 +1670,7 @@
      "stations": [
       {
        "name": "F Radio",
+       "active": 0,
        "url": "http://fradio.fm:9010/",
        "tags": [
         "techno",
@@ -1494,6 +1684,7 @@
      "stations": [
       {
        "name": "Radio Elita",
+       "active": 0,
        "url": "http://46.105.43.31:8098/stream"
       }
      ]
@@ -1503,6 +1694,7 @@
      "stations": [
       {
        "name": "MAG Radio",
+       "active": 0,
        "url": "https://radio.elmag.me/mag.mp3",
        "tags": [
         "news_talk",
@@ -1514,6 +1706,7 @@
       },
       {
        "name": "Radio Tivat",
+       "active": 0,
        "url": "http://95.211.166.127:8006/",
        "tags": [
         "news_talk",
@@ -1528,10 +1721,12 @@
      "stations": [
       {
        "name": "Big Mouth Urban Radio",
+       "active": 0,
        "url": "http://s6.voscast.com:9546/"
       },
       {
        "name": "Radio D",
+       "active": 0,
        "url": "http://tachyon.shoutca.st:8289/xstream",
        "tags": [
         "pop_hits",
@@ -1541,6 +1736,7 @@
       },
       {
        "name": "Radio Skala",
+       "active": 0,
        "url": "http://178.238.236.240:8004/",
        "tags": [
         "pop_hits",
@@ -1555,6 +1751,7 @@
      "stations": [
       {
        "name": "Reggaeneracija - Montenegro",
+       "active": 0,
        "url": "https://player.reggaeneracija.me/proxy/reggaeneracija?mp=/stream"
       }
      ]
@@ -1564,6 +1761,7 @@
      "stations": [
       {
        "name": "Radio Jadran 103.2 FM",
+       "active": 0,
        "url": "http://panel8.directhostingcenter.com:2199/tunein/yvyzossn.pls",
        "tags": [
         "rock",
@@ -1578,18 +1776,22 @@
      "stations": [
       {
        "name": "CITY RADIO 93.3 FM",
+       "active": 0,
        "url": "http://37.59.32.115:6166/"
       },
       {
        "name": "PRVA Radio",
+       "active": 0,
        "url": "http://stream.prvatv.me:8001/prva.mp3"
       },
       {
        "name": "Radio 083",
+       "active": 0,
        "url": "http://46.4.76.142:2083/listen.pls?sid=1"
       },
       {
        "name": "Radio Bijelo Polje",
+       "active": 0,
        "url": "http://213.239.205.210:8094/stream",
        "rb": "af0d2a6c-e278-4633-b5e6-da883b7f2978",
        "logo": "https://www.uzivoradio.net/wp-content/uploads/2013/07/bubonja-ljig-1.jpg"
@@ -1606,6 +1808,7 @@
      "stations": [
       {
        "name": "Radio Bijelo Polje radio",
+       "active": 0,
        "url": "https://stream.iradio.pro/proxy/radiobijelopolje?mp=/stream",
        "tags": [
         "easy_listening",
@@ -1619,6 +1822,7 @@
      "stations": [
       {
        "name": "Radio Jupok",
+       "active": 0,
        "url": "http://176.9.59.144:8062/",
        "tags": [
         "pop_hits",
@@ -1635,11 +1839,13 @@
      "stations": [
       {
        "name": "Radio Boka News",
+       "active": 0,
        "url": "http://bokanews.me:8000/source",
        "rb": "87461d15-221e-40db-ab2e-df0efda03598"
       },
       {
        "name": "Radio Elita radio",
+       "active": 0,
        "url": "http://136.243.134.202:8098/stream",
        "tags": [
         "news_talk",
@@ -1648,6 +1854,7 @@
       },
       {
        "name": "Radio Tivat",
+       "active": 0,
        "url": "https://radio.dukahosting.com/8008/stream",
        "tags": [
         "news_talk",
@@ -1657,6 +1864,7 @@
       },
       {
        "name": "Skadar",
+       "active": 0,
        "url": "https://radioservis.me:8050/radioskadar",
        "tags": [
         "news_talk",
@@ -1672,6 +1880,7 @@
      "stations": [
       {
        "name": "City Radio",
+       "active": 0,
        "url": "http://eu7.fastcast4u.com:6166/",
        "tags": [
         "pop_hits",
@@ -1681,6 +1890,7 @@
       },
       {
        "name": "DRS",
+       "active": 0,
        "url": "https://eu2.fastcast4u.com/proxy/mic0?mp=/1",
        "tags": [
         "pop_hits",
@@ -1690,10 +1900,12 @@
       },
       {
        "name": "Play Radio (CG)",
+       "active": 0,
        "url": "http://stream.playradio.me:8001/play-me.aac"
       },
       {
        "name": "Radio Titograd",
+       "active": 0,
        "url": "http://ca.rcast.net:8016/",
        "tags": [
         "pop_hits",
@@ -1708,6 +1920,7 @@
      "stations": [
       {
        "name": "Radio Bruškin",
+       "active": 0,
        "url": "http://centova.radiobruskin.me:8004/stream.mp3",
        "tags": [
         "rock",
@@ -1722,14 +1935,17 @@
      "stations": [
       {
        "name": "Radio Cetinje 94.5",
+       "active": 0,
        "url": "http://37.123.118.13:8013/stream"
       },
       {
        "name": "Radio Petnjica",
+       "active": 0,
        "url": "https://radio.paukhost.com/radiopetnjica,mp3"
       },
       {
        "name": "Radio Televizija Budva",
+       "active": 0,
        "url": "http://128.127.108.4:2045"
       }
      ]
@@ -1744,10 +1960,12 @@
      "stations": [
       {
        "name": "Radio Bar radio",
+       "active": 0,
        "url": "http://161.97.93.84:9000/stream.nsv"
       },
       {
        "name": "Radio Titograd 3",
+       "active": 0,
        "url": "http://ca3.rcast.net:8054/"
       }
      ]
@@ -1757,6 +1975,7 @@
      "stations": [
       {
        "name": "Elmag Radio",
+       "active": 0,
        "url": "https://radio.elmag.me/elmag.mp3",
        "tags": [
         "news_talk",
@@ -1767,6 +1986,7 @@
       },
       {
        "name": "Radio Bar 91.8",
+       "active": 0,
        "url": "http://livestream.barinfo.me:9000/",
        "tags": [
         "news_talk",
@@ -1776,6 +1996,7 @@
       },
       {
        "name": "Radio Dux",
+       "active": 0,
        "url": "http://radiodux.me:8000/radiodux",
        "tags": [
         "news_talk",
@@ -1785,6 +2006,7 @@
       },
       {
        "name": "Radio DUX",
+       "active": 0,
        "url": "https://crs.webdesign-flash.ro/?q=http://www.radiodux.me:8000/radiodux&plugin_id=7628&site_id=8520577",
        "tags": [
         "news_talk",
@@ -1800,6 +2022,7 @@
      "stations": [
       {
        "name": "Radio Titograd 2",
+       "active": 0,
        "url": "http://ca.rcast.net:8024/",
        "tags": [
         "world",
@@ -1813,6 +2036,7 @@
      "stations": [
       {
        "name": "Radio Kotor",
+       "active": 0,
        "url": "https://stream.iradio.pro/proxy/radiokotor?mp=/stream",
        "rb": "0d1ae8b3-e8c5-4ec7-a8b3-7ea70bd87025"
       }
@@ -1828,6 +2052,7 @@
      "stations": [
       {
        "name": "PLAY Radio Montenegro",
+       "active": 0,
        "url": "https://stream.playradio.me:8443/play-me.mp3?n=4e17118eb0c2fcf68e56",
        "tags": [
         "pop_hits",

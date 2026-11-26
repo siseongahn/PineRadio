@@ -10,6 +10,7 @@
      "stations": [
       {
        "name": "TROPIK FM",
+       "active": 0,
        "url": "https://sv1.vestaradio.com/TROPIKFM",
        "tags": [
         "latin",
@@ -20,6 +21,7 @@
       },
       {
        "name": "TROPIK FM",
+       "active": 0,
        "url": "http://live1.vestaradio.com:4330/",
        "language_inferred": true
       }
@@ -30,6 +32,7 @@
      "stations": [
       {
        "name": "TheRebels1952 Listen live",
+       "active": 0,
        "url": "https://stream.laut.fm/1952rebelsradio?ref=radiode",
        "tags": [
         "rock",
@@ -46,6 +49,7 @@
      "stations": [
       {
        "name": "Tropik FM",
+       "active": 0,
        "url": "https://stream.vestaradio.com/TROPIKFM",
        "language_inferred": true
       }
@@ -61,6 +65,7 @@
      "stations": [
       {
        "name": "Sun FM Music",
+       "active": 0,
        "url": "http://streamantille.com:8270/stream.mp3"
       }
      ]

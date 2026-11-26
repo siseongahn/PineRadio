@@ -10,6 +10,7 @@
      "stations": [
       {
        "name": "BEHAPPY FM Listen live",
+       "active": 0,
        "url": "https://stream.laut.fm/behappyfm?ref=radiode",
        "language_inferred": true
       }
@@ -20,10 +21,12 @@
      "stations": [
       {
        "name": "BFBS Falkland Islands",
+       "active": 0,
        "url": "http://edge-audio-05-gos2.sharp-stream.com/ssvcbfbs6.mp3"
       },
       {
        "name": "BFBS Falkland Islands radio",
+       "active": 0,
        "url": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs6.aac",
        "tags": [
         "pop_hits",
@@ -35,6 +38,7 @@
       },
       {
        "name": "Falklands Radio",
+       "active": 0,
        "url": "http://streaming.broadcastradio.com:8330/flklnd",
        "tags": [
         "pop_hits",
@@ -44,6 +48,7 @@
       },
       {
        "name": "Falklands Radio 530 Stanley",
+       "active": 0,
        "url": "https://streaming.broadcastradio.com:8332/flklnd",
        "tags": [
         "news_talk",
@@ -58,6 +63,7 @@
      "stations": [
       {
        "name": "BFBS Falkland Islands",
+       "active": 0,
        "url": "http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs6.mp3",
        "tags": [
         "pop_hits",
@@ -72,26 +78,31 @@
      "stations": [
       {
        "name": "BSR Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/hbeyechem48uv",
        "language_inferred": true
       },
       {
        "name": "E.B.M. Tube",
+       "active": 0,
        "url": "https://stream.zeno.fm/kztk16n7ifwvv",
        "language_inferred": true
       },
       {
        "name": "RADIO JM",
+       "active": 0,
        "url": "https://stream.zeno.fm/p4h6zuug1d0uv",
        "language_inferred": true
       },
       {
        "name": "signuptest",
+       "active": 0,
        "url": "https://stream.zeno.fm/gmhabz7v2a0uv",
        "language_inferred": true
       },
       {
        "name": "Wetees.",
+       "active": 0,
        "url": "https://stream.zeno.fm/izhwn7dibkruv",
        "language_inferred": true
       }
@@ -107,6 +118,7 @@
      "stations": [
       {
        "name": "Radio Pirata",
+       "active": 0,
        "url": "https://stream.zeno.fm/ff3c8bh6sk8uv"
       }
      ]
@@ -121,6 +133,7 @@
      "stations": [
       {
        "name": "Tzgospel swahili",
+       "active": 0,
        "url": "https://stream.zeno.fm/udzy88d7kfhvv"
       }
      ]

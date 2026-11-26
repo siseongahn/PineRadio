@@ -10,6 +10,7 @@
      "stations": [
       {
        "name": "Arabeskfm",
+       "active": 0,
        "url": "https://stream.zeno.fm/0vqhxmn9mf9uv",
        "language_inferred": true
       }
@@ -20,6 +21,7 @@
      "stations": [
       {
        "name": "Owaz",
+       "active": 0,
        "url": "http://217.174.238.20:8000/music.mp3",
        "tags": [
         "folk",
@@ -29,6 +31,7 @@
       },
       {
        "name": "Radio Owaz",
+       "active": 0,
        "url": "http://217.174.238.16:8000/Owaz.m3u",
        "tags": [
         "classical",
@@ -42,6 +45,7 @@
      "stations": [
       {
        "name": "Azatlyk Radiosy",
+       "active": 0,
        "url": "http://rfe-channel-08.akacast.akamaistream.net/7/873/229658/v1/ibb.akacast.akamaistream.net/rfe_channel_08.mp3",
        "tags": [
         "college_community",
@@ -50,10 +54,12 @@
       },
       {
        "name": "Radio Miras",
+       "active": 0,
        "url": "https://radio.telecom.tm/miras.mp3"
       },
       {
        "name": "Radio Miras radio",
+       "active": 0,
        "url": "http://217.174.238.16:8000/Miras",
        "tags": [
         "news_talk",
@@ -63,6 +69,7 @@
       },
       {
        "name": "Radio Watan",
+       "active": 0,
        "url": "https://radio.telecom.tm/watan.mp3",
        "tags": [
         "news_talk",
@@ -71,6 +78,7 @@
       },
       {
        "name": "Radio Çar Tarapdan",
+       "active": 0,
        "url": "https://radio.telecom.tm/tarap.mp3"
       }
      ]
@@ -80,6 +88,7 @@
      "stations": [
       {
        "name": "bigFM ROCK AM RING Listen live",
+       "active": 0,
        "url": "https://streams.bigfm.de/bigfm-rockamring-128-aac?usid=0-0-H-A-D-01",
        "tags": [
         "rock",
@@ -95,35 +104,42 @@
      "stations": [
       {
        "name": "arabeskfm",
+       "active": 0,
        "url": "https://stream.zeno.fm/at0n3m4dxf9uv",
        "language_inferred": true
       },
       {
        "name": "Music Radio",
+       "active": 0,
        "url": "http://217.174.238.16:8000/music.mp3"
       },
       {
        "name": "Radio The Everly Brothers",
+       "active": 0,
        "url": "https://stream.zeno.fm/f14kffw9c8zuv",
        "language_inferred": true
       },
       {
        "name": "testing 4",
+       "active": 0,
        "url": "https://stream.zeno.fm/rq888tznsg8uv",
        "language_inferred": true
       },
       {
        "name": "TR1 Watan – TM",
+       "active": 0,
        "url": "http://217.174.238.16:8000/Watan",
        "language_inferred": true
       },
       {
        "name": "TR4 Owaz – TM",
+       "active": 0,
        "url": "https://radio.telecom.tm/owaz.mp3",
        "language_inferred": true
       },
       {
        "name": "Türkmen Radio FM Online",
+       "active": 0,
        "url": "https://stream.zeno.fm/gdvbyz7zfgavv"
       }
      ]
@@ -138,6 +154,7 @@
      "stations": [
       {
        "name": "Tzgospel",
+       "active": 0,
        "url": "https://stream.zeno.fm/4szvhrxvcfhvv"
       }
      ]

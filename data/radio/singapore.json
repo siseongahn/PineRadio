@@ -10,6 +10,7 @@
      "stations": [
       {
        "name": "Indiego radio",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/INDIEGO_S01.mp3",
        "tags": [
         "pop_hits",
@@ -20,11 +21,13 @@
       },
       {
        "name": "Indiego – SG-SG",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/INDIEGO_S01AAC",
        "language_inferred": true
       },
       {
        "name": "Oli 96.8FM",
+       "active": 0,
        "url": "http://mediacorp.rastream.com/968fm",
        "tags": [
         "alternative_indie",
@@ -34,6 +37,7 @@
       },
       {
        "name": "Radio Chutney",
+       "active": 0,
        "url": "https://streamer.radio.co/sf30c61bda/listen",
        "tags": [
         "alternative_indie",
@@ -44,6 +48,7 @@
       },
       {
        "name": "RadioChat Indie Digital",
+       "active": 0,
        "url": "https://c6icy.prod.playlists.ihrhls.com/7189_icy",
        "tags": [
         "alternative_indie",
@@ -55,6 +60,7 @@
       },
       {
        "name": "RUMiFM",
+       "active": 0,
        "url": "http://cast9.directhostingcenter.com:2199/tunein/xxkiffydjrumixx.pls",
        "tags": [
         "alternative_indie",
@@ -64,6 +70,7 @@
       },
       {
        "name": "Z99.FM",
+       "active": 0,
        "url": "https://s4.radio.co/sc4b6f09f2/listen"
       }
      ]
@@ -73,6 +80,7 @@
      "stations": [
       {
        "name": "Desi Dance",
+       "active": 0,
        "url": "http://usa6.fastcast4u.com:5029/autodj",
        "language_inferred": true
       }
@@ -83,6 +91,7 @@
      "stations": [
       {
        "name": "AXR Listen live",
+       "active": 0,
        "url": "https://18493.live.streamtheworld.com/AXR.mp3",
        "tags": [
         "christian_gospel",
@@ -95,6 +104,7 @@
       },
       {
        "name": "Ottoman Room",
+       "active": 0,
        "url": "http://musicinxite.com:8132/stream",
        "language_inferred": true
       }
@@ -105,24 +115,29 @@
      "stations": [
       {
        "name": "Bible Witness Radio",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3179571_SC",
        "rb": "8b143b5e-e16c-4413-86d4-484b0ae55357"
       },
       {
        "name": "Bible Witness Web Radio",
+       "active": 0,
        "url": "https://19013.live.streamtheworld.com/SP_R3179571_SC"
       },
       {
        "name": "Bible Witness Web Radio",
+       "active": 0,
        "url": "http://biblewitness.com:8050/"
       },
       {
        "name": "Catholic Radio",
+       "active": 0,
        "url": "https://hls.rastream.com/rcas-rcas.web.hls/playlist.m3u8?listeningSessionID=639c58a1bbc250d8_2110471_HtwJ6kNF_MTAzLjIxLjgxLjM6ODA!_0000002IwTC&downloadSessionID=0&awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Arcas-rcas&playerid=CatholicSG%20Radio_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2NzMzMDExMTEsImV4cCI6MTY3MzM4NzUxMX0.VyCN5aJR9GlxkSc_2SpCjQ5j3t6QDdMHmxp0NzCikMY&lan=%5B%22en%22%5D&setLanguage=true",
        "language_inferred": true
       },
       {
        "name": "Champion FM Radio",
+       "active": 0,
        "url": "https://championfmradio.out.airtime.pro/championfmradio_a",
        "language_inferred": true
       }
@@ -133,15 +148,18 @@
      "stations": [
       {
        "name": "96.3 Hao FM",
+       "active": 0,
        "url": "https://20683.live.streamtheworld.com/HAO_963AAC.aac"
       },
       {
        "name": "963 Hao FM",
+       "active": 0,
        "url": "https://23683.live.streamtheworld.com/HAO_963_SC?n=e62fbe13030ebcdf304b",
        "language_inferred": true
       },
       {
        "name": "Capital 95.8FM",
+       "active": 0,
        "url": "http://meradio.rastream.com/958fm",
        "tags": [
         "oldies",
@@ -151,10 +169,12 @@
       },
       {
        "name": "Gold 905",
+       "active": 0,
        "url": "https://19183.live.streamtheworld.com/GOLD905_PREM.aac"
       },
       {
        "name": "GOLD 905",
+       "active": 0,
        "url": "https://22403.live.streamtheworld.com/GOLD905_SC?n=052b2ef6b9637bbfafb3",
        "language_inferred": true,
        "rb": "1ada4b42-53e9-460f-8fa2-631c2c75801c",
@@ -162,6 +182,7 @@
       },
       {
        "name": "Gold 905",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/GOLD905.mp3",
        "tags": [
         "classical",
@@ -170,6 +191,7 @@
       },
       {
        "name": "Radio melody with brother bjorn",
+       "active": 0,
        "url": "http://ssl.geckohost.nz:9191/stream",
        "tags": [
         "various_eclectic",
@@ -179,14 +201,17 @@
       },
       {
        "name": "Symphony 924",
+       "active": 0,
        "url": "https://19183.live.streamtheworld.com/SYMPHONY924_PREM.aac"
       },
       {
        "name": "Symphony 924",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SYMPHONY924.mp3"
       },
       {
        "name": "Symphony 924 Radio",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SYMPHONY924AAC_SC",
        "tags": [
         "classical",
@@ -203,6 +228,7 @@
      "stations": [
       {
        "name": "Choco Radio SG",
+       "active": 0,
        "url": "http://listen.radionomy.com/chocoradiosingapore",
        "language_inferred": true
       }
@@ -213,11 +239,13 @@
      "stations": [
       {
        "name": "55 Radio",
+       "active": 0,
        "url": "http://stream.radio.co/s488489799/low",
        "language_inferred": true
       },
       {
        "name": "987",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/987FM.mp3",
        "tags": [
         "pop_hits",
@@ -227,24 +255,29 @@
       },
       {
        "name": "Adeline Yeo General Entertainment Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/wydy0bhmnrhvv"
       },
       {
        "name": "Asia Expat Radio - Singapore (AXR)",
+       "active": 0,
        "url": "https://stream.pcradio.ru/axr_singapore-med",
        "language_inferred": true
       },
       {
        "name": "KISS92",
+       "active": 0,
        "url": "https://22253.live.streamtheworld.com/KISS_92AAC.aac",
        "language_inferred": true
       },
       {
        "name": "Love 97.2 FM 最爱",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FM_PREM_SC?pname=TDSdk&dist=MPL"
       },
       {
        "name": "Media Mixx Music Radio",
+       "active": 0,
        "url": "http://62.210.127.106:8020/stream",
        "tags": [
         "bollywood_indian",
@@ -254,6 +287,7 @@
       },
       {
        "name": "Media Mixx Music Radio",
+       "active": 0,
        "url": "https://mpc.mediacp.eu/stream/mixxmusic",
        "tags": [
         "pop_hits",
@@ -265,6 +299,7 @@
       },
       {
        "name": "Power 98 Love Songs",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/POWER98_LOVESONGS_SC",
        "tags": [
         "easy_listening",
@@ -274,11 +309,13 @@
       },
       {
        "name": "Power 98 Love Songs",
+       "active": 0,
        "url": "http://22253.live.streamtheworld.com:80/POWER98_LOVESONGSAAC_SC",
        "language_inferred": true
       },
       {
        "name": "UFM100.3 Update 27-07-22 No.1",
+       "active": 0,
        "url": "https://22283.live.streamtheworld.com/UFM_1003AAC.aac",
        "language_inferred": true
       }
@@ -289,6 +326,7 @@
      "stations": [
       {
        "name": "Barnone Radio",
+       "active": 0,
        "url": "http://sg2.fastcast4u.com/proxy/barnoneradio?mp=/1",
        "tags": [
         "electronic",
@@ -298,11 +336,13 @@
       },
       {
        "name": "Edm House Radio",
+       "active": 0,
        "url": "https://eu1.fastcast4u.com/proxy/edmhouseradio?mp=/1",
        "language_inferred": true
       },
       {
        "name": "Hitz.FM Singapore",
+       "active": 0,
        "url": "http://91.121.121.25:8260/stream",
        "tags": [
         "electronic",
@@ -312,6 +352,7 @@
       },
       {
        "name": "Mukai Radio",
+       "active": 0,
        "url": "https://s4.radio.co/s2f4e526b5/listen",
        "tags": [
         "electronic",
@@ -331,11 +372,13 @@
       },
       {
        "name": "Only House Music",
+       "active": 0,
        "url": "https://eu1.fastcast4u.com/proxy/onlyhousemusic?mp=/1",
        "language_inferred": true
       },
       {
        "name": "Orion Station",
+       "active": 0,
        "url": "http://188.165.192.5:8528/stream",
        "tags": [
         "electronic",
@@ -348,6 +391,7 @@
       },
       {
        "name": "Orion Station radio",
+       "active": 0,
        "url": "http://quasar.shoutca.st:8528/stream/1/",
        "tags": [
         "electronic",
@@ -362,6 +406,7 @@
       },
       {
        "name": "Para Mimos",
+       "active": 0,
        "url": "http://streaming.radionomy.com/ParaMimos",
        "tags": [
         "pop_hits",
@@ -372,6 +417,7 @@
       },
       {
        "name": "Sintez FM",
+       "active": 0,
        "url": "http://sintezfm.radioactivelab.pro:8000/sfm192.aac",
        "language_inferred": true
       }
@@ -382,10 +428,12 @@
      "stations": [
       {
        "name": "Naga FM",
+       "active": 0,
        "url": "http://songs.nagafm.com:8006/stream.mp3/ogg"
       },
       {
        "name": "Naga FM radio",
+       "active": 0,
        "url": "https://rdopanel.cobrasoftwares.org:1065/stream",
        "tags": [
         "pop_hits",
@@ -396,6 +444,7 @@
       },
       {
        "name": "RadioChat Singer Songwriter Digital",
+       "active": 0,
        "url": "https://c1icy.prod.playlists.ihrhls.com/6698_icy",
        "tags": [
         "folk",
@@ -413,6 +462,7 @@
      "stations": [
       {
        "name": "The Rock History Station Listen live",
+       "active": 0,
        "url": "https://usa11.fastcast4u.com/proxy/qawiahsd?mp=/1",
        "tags": [
         "rock",
@@ -430,6 +480,7 @@
      "stations": [
       {
        "name": "Desi Dance Listen live",
+       "active": 0,
        "url": "https://usa6.fastcast4u.com/proxy/vinsingh?mp=/server",
        "tags": [
         "soundtrack",
@@ -445,6 +496,7 @@
      "stations": [
       {
        "name": "AXR Manila",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AXR_MANILA.mp3",
        "tags": [
         "easy_listening",
@@ -454,6 +506,7 @@
       },
       {
        "name": "Love 97.2 FM",
+       "active": 0,
        "url": "http://mediacorp.rastream.com/972fm",
        "tags": [
         "soul_rnb_funk",
@@ -463,6 +516,7 @@
       },
       {
        "name": "Symphony FM 92.4",
+       "active": 0,
        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SYMPHONY924_PREM_SC.aac",
        "tags": [
         "jazz",
@@ -478,6 +532,7 @@
      "stations": [
       {
        "name": "AJA Studios",
+       "active": 0,
        "url": "https://stream.zeno.fm/58xw0v4tgkhvv",
        "language_inferred": true
       }
@@ -488,6 +543,7 @@
      "stations": [
       {
        "name": "938Now",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/938NOWAAC_SC",
        "tags": [
         "news_talk",
@@ -500,6 +556,7 @@
       },
       {
        "name": "987FM",
+       "active": 0,
        "url": "https://22393.live.streamtheworld.com/987FM_PREM.aac",
        "tags": [
         "news_talk",
@@ -510,6 +567,7 @@
       },
       {
        "name": "Asia Expat Radio",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AXRAAC_SC",
        "tags": [
         "news_talk",
@@ -519,6 +577,7 @@
       },
       {
        "name": "AXR Singapore",
+       "active": 0,
        "url": "https://singaporestream.axr.online",
        "tags": [
         "news_talk",
@@ -530,6 +589,7 @@
       },
       {
        "name": "Bernama Radio",
+       "active": 0,
        "url": "https://laylio.radioactive.sg/?p=c6aea0550e3335befbe3fecb7c20206a&ampv=2&ampd=0",
        "tags": [
         "news_talk",
@@ -541,15 +601,18 @@
       },
       {
        "name": "CNA 938",
+       "active": 0,
        "url": "https://13743.live.streamtheworld.com/938NOW_PREM.aac"
       },
       {
        "name": "CNA 938",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/938NOW.mp3",
        "language_inferred": true
       },
       {
        "name": "CNA 938",
+       "active": 0,
        "url": "https://22893.live.streamtheworld.com/938NOW_SC?n=8c16937fd53a053f0150",
        "language_inferred": true,
        "rb": "4d1d714a-904d-4c33-abd4-a19da2ffbfb6",
@@ -557,23 +620,27 @@
       },
       {
        "name": "CNA 938 Live Singapore",
+       "active": 0,
        "url": "http://playerservices.streamtheworld.com/pls/938NOW_PREM.pls",
        "rb": "bfa448fd-2b74-4a60-a78d-7fea62cc0577",
        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b0/CNA938_logo.png"
       },
       {
        "name": "CNA 938 Radio",
+       "active": 0,
        "url": "https://stream.pcradio.ru/cna_938-med",
        "language_inferred": true
       },
       {
        "name": "CNA938",
+       "active": 0,
        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/938NOW_PREM_SC",
        "rb": "7c4653df-6d49-466f-896f-db2de5a19608",
        "logo": "https://www16.mediacorp.sg/melisten/radiostation-logos/cna-938.png"
       },
       {
        "name": "CNA938 Listen live",
+       "active": 0,
        "url": "https://22393.live.streamtheworld.com/938NOW_PREM.aac",
        "tags": [
         "news_talk",
@@ -583,6 +650,7 @@
       },
       {
        "name": "Irsyad",
+       "active": 0,
        "url": "http://119.235.30.66:9978",
        "tags": [
         "christian_gospel",
@@ -592,6 +660,7 @@
       },
       {
        "name": "Kiss92",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92AAC_SC",
        "tags": [
         "pop_hits",
@@ -602,6 +671,7 @@
       },
       {
        "name": "Kiss92 FM",
+       "active": 0,
        "url": "http://sph.rastream.com/sph-kiss92/stream.mp3",
        "tags": [
         "news_talk",
@@ -611,6 +681,7 @@
       },
       {
        "name": "Money FM",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893_SC",
        "tags": [
         "news_talk",
@@ -619,10 +690,12 @@
       },
       {
        "name": "Money FM 89.3",
+       "active": 0,
        "url": "https://20683.live.streamtheworld.com/MONEY_893AAC.aac"
       },
       {
        "name": "Money FM 89.3",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893AAC.aac",
        "tags": [
         "news_talk",
@@ -632,15 +705,18 @@
       },
       {
        "name": "MONEY FM 89.3",
+       "active": 0,
        "url": "https://23743.live.streamtheworld.com/MONEY_893AAC.aac?n=8765addad6a7d148b72e"
       },
       {
        "name": "Oli 96.8 FM",
+       "active": 0,
        "url": "https://22393.live.streamtheworld.com/OLI968FM_PREM.aac",
        "language_inferred": true
       },
       {
        "name": "Power 98",
+       "active": 0,
        "url": "https://18443.live.streamtheworld.com/POWER98_LOVESONGS_SC",
        "tags": [
         "news_talk",
@@ -651,11 +727,13 @@
       },
       {
        "name": "Warna 94.2 FM Radio",
+       "active": 0,
        "url": "https://stream.pcradio.ru/rad_mlstnsgwrn-med",
        "language_inferred": true
       },
       {
        "name": "Warna FM",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FM.mp3",
        "language_inferred": true
       }
@@ -666,6 +744,7 @@
      "stations": [
       {
        "name": "Class 95fm Singapore",
+       "active": 0,
        "url": "http://stream.shana.sg:80/mediacorp-950fm/stream/1",
        "tags": [
         "oldies",
@@ -679,6 +758,7 @@
       },
       {
        "name": "GOLD 905",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/GOLD905AAC_SC",
        "tags": [
         "oldies",
@@ -691,6 +771,7 @@
       },
       {
        "name": "Kiss92 Singapore",
+       "active": 0,
        "url": "http://stream.shana.sg:80/sph-kiss92/stream/1",
        "tags": [
         "pop_hits",
@@ -704,11 +785,13 @@
       },
       {
        "name": "Power 98 RAW",
+       "active": 0,
        "url": "https://14073.live.streamtheworld.com/POWER_98_RAW_S01.mp3",
        "language_inferred": true
       },
       {
        "name": "Power 98 Retro",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/POWER_98_HITS_S01_SC",
        "tags": [
         "pop_hits",
@@ -717,6 +800,7 @@
       },
       {
        "name": "Vintage Radio SG",
+       "active": 0,
        "url": "https://listen.vintageradio.sg/?v=2&ampd=0",
        "tags": [
         "oldies",
@@ -728,6 +812,7 @@
       },
       {
        "name": "Vintage Radio SG",
+       "active": 0,
        "url": "https://listen.vintageradio.sg/?v=2\\u0026d=0",
        "tags": [
         "oldies",
@@ -739,6 +824,7 @@
       },
       {
        "name": "Warna 94.2FM",
+       "active": 0,
        "url": "http://103.21.81.2:8942",
        "tags": [
         "oldies",
@@ -753,11 +839,13 @@
      "stations": [
       {
        "name": "18.9 RSFM radio",
+       "active": 0,
        "url": "https://stream.hornhost.com/6294/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "973FM",
+       "active": 0,
        "url": "http://c16.radioboss.fm:8115/stream",
        "tags": [
         "pop_hits",
@@ -768,6 +856,7 @@
       },
       {
        "name": "973FM",
+       "active": 0,
        "url": "http://209.105.250.73:8650/stream",
        "tags": [
         "pop_hits",
@@ -777,6 +866,7 @@
       },
       {
        "name": "973FM Blasts That Last",
+       "active": 0,
        "url": "http://c16.radioboss.fm:8115/autodj",
        "language_inferred": true,
        "rb": "95a5eca2-0341-443d-8343-7a1f6f58ea02",
@@ -784,10 +874,12 @@
       },
       {
        "name": "973FM Blasts That Last",
+       "active": 0,
        "url": "http://c16.radioboss.fm:8115/stream."
       },
       {
        "name": "973FM: Blasts That Last",
+       "active": 0,
        "url": "https://c16.radioboss.fm:18115/stream",
        "tags": [
         "pop_hits",
@@ -800,11 +892,13 @@
       },
       {
        "name": "973FM: Blasts That Last",
+       "active": 0,
        "url": "https://c16.radioboss.fm:18115/autodj",
        "language_inferred": true
       },
       {
        "name": "987",
+       "active": 0,
        "url": "https://14033.live.streamtheworld.com/987FM_SC?n=c8d7b9970bd63aa111ee",
        "language_inferred": true,
        "rb": "ec8dafec-03b5-49d7-934d-a70817e2755a",
@@ -812,6 +906,7 @@
       },
       {
        "name": "987 FM",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/987FMAAC.aac",
        "tags": [
         "pop_hits",
@@ -823,82 +918,99 @@
       },
       {
        "name": "987 FM",
+       "active": 0,
        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/987FM_PREM.aac",
        "rb": "d77838fc-f8dc-4b29-addc-dbe0de47b56c",
        "logo": "https://www16.mediacorp.sg/melisten/radiostation-logos/987.png"
       },
       {
        "name": "987FM",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/987FM_PREM_SC?pname=TDSdk&dist=MPL",
        "language_inferred": true
       },
       {
        "name": "987FM Radio",
+       "active": 0,
        "url": "http://mediacorp.rastream.com/987fm",
        "language_inferred": true
       },
       {
        "name": "988 FM 新加坡",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/988_FMAAC_SC?csegid=888&dist=988_player_android&pname=StandardPlayerV4"
       },
       {
        "name": "AXR Asia Expat Radio Singapore",
+       "active": 0,
        "url": "http://singaporestreammp3.axr.online",
        "language_inferred": true
       },
       {
        "name": "AXR Hong Kong",
+       "active": 0,
        "url": "https://hongkongstreammp3.axr.online"
       },
       {
        "name": "AXR Singapore",
+       "active": 0,
        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/AXR_SINGAPORE_SC"
       },
       {
        "name": "AXR Singapore",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AXR_SINGAPOREAAC.aac"
       },
       {
        "name": "Capital 95.8",
+       "active": 0,
        "url": "http://mediacorp-web.rastream.com/958fm",
        "language_inferred": true
       },
       {
        "name": "Capital 95.8 FM",
+       "active": 0,
        "url": "https://22393.live.streamtheworld.com/CAPITAL958FM_PREM.aac",
        "language_inferred": true
       },
       {
        "name": "Class 95",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95.mp3"
       },
       {
        "name": "Class 95 FM",
+       "active": 0,
        "url": "https://13743.live.streamtheworld.com/CLASS95_PREM.aac"
       },
       {
        "name": "Class 95 FM",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95_PREM.aac",
        "rb": "aba522d0-e676-4098-b051-87e1db850716",
        "logo": "https://www16.mediacorp.sg/melisten/radiostation-logos/class-95.png"
       },
       {
        "name": "Class 95 FM Listen live",
+       "active": 0,
        "url": "https://22393.live.streamtheworld.com/CLASS95_PREM.aac",
        "language_inferred": true
       },
       {
        "name": "Class 95FM",
+       "active": 0,
        "url": "http://sc.rastream.com:8950/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "HKGFM Todays Mix",
+       "active": 0,
        "url": "http://sc.rastream.com:9100/",
        "language_inferred": true
       },
       {
        "name": "Hot FM 91.3",
+       "active": 0,
        "url": "https://22283.live.streamtheworld.com/ONE_FM_913_SC",
        "tags": [
         "pop_hits",
@@ -907,25 +1019,30 @@
       },
       {
        "name": "Hot FM 91.3",
+       "active": 0,
        "url": "http://sph.rastream.com:80/",
        "language_inferred": true
       },
       {
        "name": "Jia 88.3 FM",
+       "active": 0,
        "url": "http://103.21.81.2:8950",
        "language_inferred": true
       },
       {
        "name": "Kastkast.com",
+       "active": 0,
        "url": "https://s3.radio.co/sef15894a2/listen",
        "language_inferred": true
       },
       {
        "name": "Kiss 92FM",
+       "active": 0,
        "url": "https://20683.live.streamtheworld.com/KISS_92AAC.aac"
       },
       {
        "name": "Kiss 92FM Listen live",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92_SC",
        "tags": [
         "pop_hits",
@@ -935,11 +1052,13 @@
       },
       {
        "name": "Kopitiam FM",
+       "active": 0,
        "url": "https://freeuk11.listen2myradio.com/live.mp3?typeportmount=s2_14380_stream_46188923",
        "language_inferred": true
       },
       {
        "name": "Kopitiam FM",
+       "active": 0,
        "url": "https://freeuk29.listen2myradio.com/live.mp3?typeportmount=s2_14806_stream_951507876stream.nsvstream.nsv",
        "tags": [
         "pop_hits",
@@ -949,16 +1068,19 @@
       },
       {
        "name": "MyHitMusic FM",
+       "active": 0,
        "url": "http://stream.myhitmusic.fm/128k_stream.mp3",
        "language_inferred": true
       },
       {
        "name": "ONE FM 91.3 Listen live",
+       "active": 0,
        "url": "https://22283.live.streamtheworld.com/ONE_FM_913AAC.aac",
        "language_inferred": true
       },
       {
        "name": "one fm 913",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ONE_FM_913AAC.aac",
        "tags": [
         "pop_hits",
@@ -970,15 +1092,18 @@
       },
       {
        "name": "Power 98 RAW",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/POWER_98_RAW_S01_SC"
       },
       {
        "name": "Power 98 Retro",
+       "active": 0,
        "url": "https://22283.live.streamtheworld.com/POWER_98_HITS_S01_SC",
        "language_inferred": true
       },
       {
        "name": "Radio 80.8FM",
+       "active": 0,
        "url": "https://radio808fm.out.airtime.pro/radio808fm_a",
        "tags": [
         "pop_hits",
@@ -989,21 +1114,25 @@
       },
       {
        "name": "Radio Melody Singapore",
+       "active": 0,
        "url": "https://ssl.geckohost.nz/proxy/bjorn?mp=/stream",
        "language_inferred": true
       },
       {
        "name": "Radio Melody with Brother Bjorn",
+       "active": 0,
        "url": "http://ssl.geckohost.nz:9191/autodj",
        "rb": "fa9609ad-1f6f-41a1-8e81-1000d9458dcf"
       },
       {
        "name": "Radio Melody with Brother Bjorn radio",
+       "active": 0,
        "url": "https://ssl.geckohost.nz/proxy/bjorn?mp=/stream\\u00261682315500057",
        "language_inferred": true
       },
       {
        "name": "RadioChat Y2K Digital",
+       "active": 0,
        "url": "https://c1icy.prod.playlists.ihrhls.com/6850_icy",
        "tags": [
         "pop_hits",
@@ -1013,6 +1142,7 @@
       },
       {
        "name": "Ria 89.7 FM",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FM.mp3",
        "tags": [
         "pop_hits",
@@ -1021,6 +1151,7 @@
       },
       {
        "name": "RIA 897",
+       "active": 0,
        "url": "https://22393.live.streamtheworld.com/RIA897FM_SC?n=22f4e5b6082fb5e8bb1b",
        "language_inferred": true,
        "rb": "722e9620-5c47-4139-b4ae-9d3a2ffd2bd5",
@@ -1028,16 +1159,19 @@
       },
       {
        "name": "The Live Radio",
+       "active": 0,
        "url": "http://s3.viastreaming.net:8530/",
        "language_inferred": true
       },
       {
        "name": "UFM 100.3",
+       "active": 0,
        "url": "http://sph.rastream.com/1003fm",
        "language_inferred": true
       },
       {
        "name": "UFM 100.3 FM",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003_SC",
        "tags": [
         "pop_hits",
@@ -1048,6 +1182,7 @@
       },
       {
        "name": "XFM 96.3",
+       "active": 0,
        "url": "https://19183.live.streamtheworld.com/CLASS95_PREM.aac",
        "tags": [
         "pop_hits",
@@ -1057,16 +1192,19 @@
       },
       {
        "name": "XFM 96.3",
+       "active": 0,
        "url": "http://103.21.81.2:8963",
        "language_inferred": true
       },
       {
        "name": "YES 93.3FM",
+       "active": 0,
        "url": "http://mediacorp.rastream.com/933fm",
        "language_inferred": true
       },
       {
        "name": "衛星音樂台",
+       "active": 0,
        "url": "http://asiafm.laylio.radioactive.sg/?p=cea0ad59f9689e8a06500b4709009af3&amps=asiafm-asia",
        "country_inferred": true,
        "language_inferred": true
@@ -1078,6 +1216,7 @@
      "stations": [
       {
        "name": "Orion Station",
+       "active": 0,
        "url": "https://www.liveradio.es/http://188.165.192.5:8528/",
        "tags": [
         "reggae_ska",
@@ -1093,6 +1232,7 @@
      "stations": [
       {
        "name": "5@5 Radio",
+       "active": 0,
        "url": "https://stream.radio.co/s488489799/listen",
        "tags": [
         "rock",
@@ -1102,6 +1242,7 @@
       },
       {
        "name": "Class 95 FM",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95AAC_SC",
        "tags": [
         "pop_hits",
@@ -1119,6 +1260,7 @@
       },
       {
        "name": "Gold 90.5FM",
+       "active": 0,
        "url": "http://mediacorp.rastream.com/905fm",
        "tags": [
         "oldies",
@@ -1130,6 +1272,7 @@
       },
       {
        "name": "Gold FM 90.5",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/GOLD905_PREM.aac",
        "tags": [
         "pop_hits",
@@ -1140,6 +1283,7 @@
       },
       {
        "name": "More FM - Wanganui 92.8 FM Listen live",
+       "active": 0,
        "url": "https://livestream.mediaworks.nz/radio_origin/more_[WNG]_128kbps/chunklist.m3u8",
        "tags": [
         "pop_hits",
@@ -1149,6 +1293,7 @@
       },
       {
        "name": "One FM (Hot FM) Radio",
+       "active": 0,
        "url": "https://stream.pcradio.ru/onefm_sg-med",
        "tags": [
         "rock",
@@ -1158,6 +1303,7 @@
       },
       {
        "name": "One Fm 91 3 Singapore",
+       "active": 0,
        "url": "http://stream.shana.sg:80/sph-onefm/stream/1",
        "tags": [
         "rock",
@@ -1170,6 +1316,7 @@
       },
       {
        "name": "Orion Station",
+       "active": 0,
        "url": "http://188.165.192.5:8528",
        "tags": [
         "rock",
@@ -1185,6 +1332,7 @@
       },
       {
        "name": "Pop Rock Dance Radio",
+       "active": 0,
        "url": "https://sg1.fastcast4u.com/proxy/poprockdanceradio?mp=/1",
        "tags": [
         "rock",
@@ -1195,6 +1343,7 @@
       },
       {
        "name": "XRadio",
+       "active": 0,
        "url": "http://xradio.zone:9420",
        "tags": [
         "rock",
@@ -1220,6 +1369,7 @@
       },
       {
        "name": "XRadio",
+       "active": 0,
        "url": "http://xradio.zone:9420/stream",
        "tags": [
         "rock",
@@ -1232,6 +1382,7 @@
       },
       {
        "name": "XRadio radio",
+       "active": 0,
        "url": "https://www.liveradio.es/http://xradio.zone:9420/stream",
        "tags": [
         "rock",
@@ -1244,6 +1395,7 @@
       },
       {
        "name": "Z99.FM radio",
+       "active": 0,
        "url": "https://s2.radio.co/s2a9c10c34/listen",
        "tags": [
         "rock",
@@ -1258,6 +1410,7 @@
      "stations": [
       {
        "name": "DP Gastro",
+       "active": 0,
        "url": "http://musicinxite.com:8072/stream",
        "tags": [
         "soul_rnb_funk",
@@ -1266,6 +1419,7 @@
       },
       {
        "name": "Kopitiam FM",
+       "active": 0,
        "url": "https://freeuk11.listen2myradio.com/live.mp3?typeportmount=s2_14380_stream_709686741",
        "tags": [
         "soul_rnb_funk",
@@ -1275,6 +1429,7 @@
       },
       {
        "name": "Lush 99.5FM",
+       "active": 0,
        "url": "http://103.21.81.2:8995",
        "tags": [
         "alternative_indie",
@@ -1289,6 +1444,7 @@
      "stations": [
       {
        "name": "938 LIVE",
+       "active": 0,
        "url": "http://mediacorp.rastream.com/938fm",
        "tags": [
         "news_talk",
@@ -1303,6 +1459,7 @@
      "stations": [
       {
        "name": "Melody with Brother Bjorn",
+       "active": 0,
        "url": "https://bjornfalcon-gecko.radioca.st/autodj",
        "tags": [
         "world",
@@ -1312,6 +1469,7 @@
       },
       {
        "name": "MIXX MUSIC RADIO",
+       "active": 0,
        "url": "https://sonic.mediacp.eu:7009/",
        "tags": [
         "pop_hits",
@@ -1325,89 +1483,107 @@
      "stations": [
       {
        "name": "18.9 RSFM Singapore",
+       "active": 0,
        "url": "https://antares.dribbcast.com/proxy/8urminehotfm?mp=/stream/1/",
        "language_inferred": true
       },
       {
        "name": "88.3JIA",
+       "active": 0,
        "url": "https://21423.live.streamtheworld.com/883JIAAAC.aac?tdtok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6ImZTeXA4In0.eyJpc3MiOiJ0aXNydiIsInN1YiI6IjIxMDY0IiwiaWF0IjoxNTk4MTYwNTc1LCJ0ZC1yZWciOmZhbHNlfQ.ozCV_U5-GOeG7Hf0c32JSJ6qloyqIX2t6S6osAqk2X8",
        "language_inferred": true
       },
       {
        "name": "88.3JIA Web Hits",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/JIA_WEBHITS_S01AAC_SC",
        "language_inferred": true
       },
       {
        "name": "883 Jia",
+       "active": 0,
        "url": "https://21423.live.streamtheworld.com/883JIAAAC.aac"
       },
       {
        "name": "96.3 FM",
+       "active": 0,
        "url": "https://22253.live.streamtheworld.com/HAO_963AAC.aac",
        "language_inferred": true
       },
       {
        "name": "973FM: Blasts That Last radio",
+       "active": 0,
        "url": "https://c16.radioboss.fm:18115/stream?icecast?n=19f8c8acc88d25ddf2d6",
        "language_inferred": true
       },
       {
        "name": "Adeline Yeo General Entertainment Radio",
+       "active": 0,
        "url": "https://stream-43.zeno.fm/wydy0bhmnrhvv?zs=OJ2xTkeSSD-V-tPwZ2-0Cg",
        "language_inferred": true
       },
       {
        "name": "Adeline Yeo General Entertainment – SG-SG",
+       "active": 0,
        "url": "https://stream-43.zeno.fm/wydy0bhmnrhvv?zs=LelJueErSzKIfDuqsqabOw&aw_0_req_lsid=c6a7fdccbd55867df3e6c0259f80ece5",
        "language_inferred": true
       },
       {
        "name": "AIA Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/y90df7k38nhvv",
        "language_inferred": true
       },
       {
        "name": "AMAR FM",
+       "active": 0,
        "url": "http://162.254.149.187:9304/"
       },
       {
        "name": "Angelababy",
+       "active": 0,
        "url": "https://stream.zeno.fm/0za3w34euuhvv",
        "language_inferred": true
       },
       {
        "name": "Anything",
+       "active": 0,
        "url": "https://stream.zeno.fm/54kbenx68ehvv",
        "language_inferred": true
       },
       {
        "name": "Ashdown FM 80s Hits – SG-SG",
+       "active": 0,
        "url": "http://ashdownfm.com/ashdown80s2.pls",
        "language_inferred": true
       },
       {
        "name": "Ashdown FM 90s Hits – 90 FM – SG-SG",
+       "active": 0,
        "url": "http://ashdownfm.com/ashdown90s2.pls",
        "language_inferred": true
       },
       {
        "name": "Ashdown FM Classic Hits – SG-SG",
+       "active": 0,
        "url": "http://ashdownfm.com/ashdownclassic.pls",
        "language_inferred": true
       },
       {
        "name": "Ashdown FM Pop Music – SG-SG",
+       "active": 0,
        "url": "http://ashdownfm.com/ashdown2.pls",
        "language_inferred": true
       },
       {
        "name": "AXR Asia Expat Radio",
+       "active": 0,
        "url": "https://23683.live.streamtheworld.com/AXR_SINGAPORE.mp3",
        "language_inferred": true
       },
       {
        "name": "AXR Singapore",
+       "active": 0,
        "url": "http://provisioning.streamtheworld.com/pls/AXR_SINGAPORE.pls?n=18dd82edbab610946748",
        "language_inferred": true,
        "rb": "4859de0e-6ddc-4e85-8a32-70c392d80439",
@@ -1415,299 +1591,359 @@
       },
       {
        "name": "Barnone Radio",
+       "active": 0,
        "url": "https://22253.live.streamtheworld.com/BFMAAC.aac",
        "language_inferred": true
       },
       {
        "name": "Bisme Islamic Radio",
+       "active": 0,
        "url": "https://streamer.radio.co/sd1d492743/low"
       },
       {
        "name": "Bisme Islamic Radio – SG-SG",
+       "active": 0,
        "url": "https://n17a-eu.rcs.revma.com/pcr8x50uty8uv.m4a?1632145992=&rj-tok=AAABfAOEn40AXSe1KyBpREPlAA&rj-ttl=5",
        "language_inferred": true
       },
       {
        "name": "BITS Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/s3bmg3xwurhvv",
        "language_inferred": true
       },
       {
        "name": "Capital 95.8 FM",
+       "active": 0,
        "url": "https://22403.live.streamtheworld.com/CAPITAL958FM_PREM.aac?dist=MPL&ampautoplay=1&amptdsdk=js-2.9&ampswm=true&amppname=TDSdk&amppversion=2.9&ampbanners=300x250%2C728x90&ampburst-time=15&ampsbmid=c2a12573-3de9-4cd5-c374-f9613aded3f7",
        "language_inferred": true
       },
       {
        "name": "CatholicSG Radio",
+       "active": 0,
        "url": "https://hls.rastream.com/rcas-rcas.web.hls/playlist.m3u8?n=03d73dcccbdca1b84fd9",
        "language_inferred": true
       },
       {
        "name": "CENT RADIO NIGHT",
+       "active": 0,
        "url": "https://stream.zeno.fm/ur0cr5gdqchvv",
        "language_inferred": true
       },
       {
        "name": "Champion FM Radio",
+       "active": 0,
        "url": "http://championfmradio.out.airtime.pro:8000/championfmradio_a",
        "language_inferred": true
       },
       {
        "name": "Channel News Asia TV",
+       "active": 0,
        "url": "http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8",
        "rb": "7d166dec-8dbf-46e6-8449-c12466c1c0f4",
        "logo": "http://www.channelnewsasia.com/favicon.ico"
       },
       {
        "name": "Class 95 FM",
+       "active": 0,
        "url": "https://23253.live.streamtheworld.com/CLASS95AAC.aac",
        "language_inferred": true
       },
       {
        "name": "Class 95 – 95 FM – SG-SG",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95_PREM_SC?pname=TDSdk&dist=MPL",
        "language_inferred": true
       },
       {
        "name": "Club Play",
+       "active": 0,
        "url": "https://streaming.cst98.com/stream/club.mp3",
        "language_inferred": true
       },
       {
        "name": "CNA938",
+       "active": 0,
        "url": "https://14033.live.streamtheworld.com/938NOWAAC.aac",
        "language_inferred": true
       },
       {
        "name": "cna938",
+       "active": 0,
        "url": "http://22403.live.streamtheworld.com:80/938NOW_PREM_SC",
        "language_inferred": true
       },
       {
        "name": "coolbb",
+       "active": 0,
        "url": "https://stream.zeno.fm/q68kr2v52hhvv",
        "language_inferred": true
       },
       {
        "name": "Desa FM",
+       "active": 0,
        "url": "http://192.198.106.163:8080/",
        "language_inferred": true
       },
       {
        "name": "Desi Dance",
+       "active": 0,
        "url": "https://usa6.fastcast4u.com/proxy/vinsingh?mp=/stream",
        "language_inferred": true
       },
       {
        "name": "DesiNetworks",
+       "active": 0,
        "url": "http://192.99.8.192:3224/",
        "language_inferred": true
       },
       {
        "name": "DJ Hennie",
+       "active": 0,
        "url": "https://stream.zeno.fm/wvzzym1wd48uv",
        "language_inferred": true
       },
       {
        "name": "DJ MOMO",
+       "active": 0,
        "url": "https://stream.zeno.fm/5joz6m4ywcitv",
        "language_inferred": true
       },
       {
        "name": "DjMixes99 Radeo",
+       "active": 0,
        "url": "https://au1.fastcast4u.com/proxy/xzyegiqs?mp=/1",
        "language_inferred": true
       },
       {
        "name": "DumaraoFM 103.9 – 103.9 FM – SG-SG",
+       "active": 0,
        "url": "https://s8.voscast.com:9305/stream?fbclid=IwAR1XUlB_xWOg3xj6LKvtSyfGlaT72GqXRduqQL6nWfEuw7LxAR4ErfJwUBo",
        "language_inferred": true
       },
       {
        "name": "EDMDroid FM Asia",
+       "active": 0,
        "url": "http://198.49.66.136:8000",
        "language_inferred": true
       },
       {
        "name": "elise_stream",
+       "active": 0,
        "url": "https://stream.zeno.fm/qkhrc1rtz68uv",
        "language_inferred": true
       },
       {
        "name": "Empire Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/tbh87xhba48uv",
        "language_inferred": true
       },
       {
        "name": "English fx",
+       "active": 0,
        "url": "https://stream.zeno.fm/nhexulmfw3xuv",
        "language_inferred": true
       },
       {
        "name": "Epic RP Love Version",
+       "active": 0,
        "url": "https://stream.zeno.fm/zec2euf82ietv",
        "language_inferred": true
       },
       {
        "name": "Gold 90.5 FM",
+       "active": 0,
        "url": "https://22893.live.streamtheworld.com/GOLD905AAC.aac",
        "language_inferred": true
       },
       {
        "name": "HAPPY 40.4FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/2kuzfk78vuhvv",
        "language_inferred": true
       },
       {
        "name": "HPC FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/shoak6lpwlctv",
        "language_inferred": true
       },
       {
        "name": "Ice Cream",
+       "active": 0,
        "url": "https://stream.zeno.fm/dbyb0s43kuhvv",
        "language_inferred": true
       },
       {
        "name": "IndianChatFmRadios",
+       "active": 0,
        "url": "https://stream.zeno.fm/yyf1trd9by8uv",
        "language_inferred": true
       },
       {
        "name": "Indiego",
+       "active": 0,
        "url": "https://23253.live.streamtheworld.com/INDIEGO_S01AAC.aac",
        "language_inferred": true
       },
       {
        "name": "Jhomthong city",
+       "active": 0,
        "url": "https://stream.zeno.fm/6pycqhs0pg0uv",
        "language_inferred": true
       },
       {
        "name": "jooshuahong",
+       "active": 0,
        "url": "https://stream.zeno.fm/cw5eb8unw38uv",
        "language_inferred": true
       },
       {
        "name": "kevin music",
+       "active": 0,
        "url": "https://stream.zeno.fm/ionk47ty6nduv",
        "language_inferred": true
       },
       {
        "name": "Kinternational Radio",
+       "active": 0,
        "url": "http://infinite.kih.asia:1234",
        "language_inferred": true
       },
       {
        "name": "LEYQUIKSEALVER RECORDS",
+       "active": 0,
        "url": "https://stream.zeno.fm/ocrx4r29hegtv",
        "language_inferred": true
       },
       {
        "name": "Life Literary Association Vazhviyal Ilakkiya Pozhil – SG-SG",
+       "active": 0,
        "url": "https://stream-42.zeno.fm/k8uw9ya44d0uv?zs=g1F7xp-YQxakUgGuPCz0ug",
        "language_inferred": true
       },
       {
        "name": "listen 939",
+       "active": 0,
        "url": "https://stream.zeno.fm/3bdpc7ffdc9uv",
        "language_inferred": true
       },
       {
        "name": "Love 97.2FM",
+       "active": 0,
        "url": "https://22403.live.streamtheworld.com/LOVE972FMAAC.aac",
        "language_inferred": true
       },
       {
        "name": "LOVE MELODIES TAMIL",
+       "active": 0,
        "url": "https://stream.zeno.fm/a033hncknkhvv",
        "language_inferred": true
       },
       {
        "name": "Ls Land 7 Cowboysl",
+       "active": 0,
        "url": "https://stream.zeno.fm/kldnc4sgflmtv",
        "language_inferred": true
       },
       {
        "name": "MandoPop Karaoke",
+       "active": 0,
        "url": "https://stream.zeno.fm/fcvxu14m7s8uv",
        "language_inferred": true
       },
       {
        "name": "MASHUPS TAMIL",
+       "active": 0,
        "url": "https://stream.zeno.fm/62wd6tdknkhvv",
        "language_inferred": true
       },
       {
        "name": "Melody FM",
+       "active": 0,
        "url": "http://50.7.96.210:8360/",
        "language_inferred": true
       },
       {
        "name": "Mix Music Radio",
+       "active": 0,
        "url": "https://duke.radioca.st/stream",
        "language_inferred": true
       },
       {
        "name": "Mixx Music Radio",
+       "active": 0,
        "url": "http://sonic.mediacp.eu:8020/stream",
        "language_inferred": true
       },
       {
        "name": "Mixx Music Radio – SG-SG",
+       "active": 0,
        "url": "https://sonic.mediacp.eu/8020/stream",
        "language_inferred": true
       },
       {
        "name": "Music radio station",
+       "active": 0,
        "url": "https://stream.zeno.fm/emwgmstf4p8uv",
        "language_inferred": true
       },
       {
        "name": "MYMC – SG-SG",
+       "active": 0,
        "url": "http://wma2.viastreaming.net/MYMC",
        "language_inferred": true
       },
       {
        "name": "Naga FM",
+       "active": 0,
        "url": "https://live.nagafm.com:18006/stream/1/",
        "language_inferred": true
       },
       {
        "name": "nakd Luxury",
+       "active": 0,
        "url": "http://musicinxite.com:8090/stream"
       },
       {
        "name": "Nakshatra Radio",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM02AAC265_SC",
        "language_inferred": true
       },
       {
        "name": "Namthamar.ooran",
+       "active": 0,
        "url": "https://stream.zeno.fm/3dsxc9br1uhvv",
        "language_inferred": true
       },
       {
        "name": "NDA Radio Station",
+       "active": 0,
        "url": "https://stream.zeno.fm/7u57frqd27zuv",
        "language_inferred": true
       },
       {
        "name": "Oli 96.8 FM",
+       "active": 0,
        "url": "https://14033.live.streamtheworld.com/OLI968FM_PREM.aac",
        "language_inferred": true
       },
       {
        "name": "One FM",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ONE_FM_913_SC"
       },
       {
        "name": "ONE FM",
+       "active": 0,
        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/one_FM_913AAC.aac?dist=radiosingaporeapp",
        "rb": "96141efc-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "One FM 91.3",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/pls/ONE_FM_913AAC.pls?n=fc0ae5f5ebd7fa282d66",
        "language_inferred": true,
        "rb": "ec714979-7130-483a-b25d-d2642b47e82c",
@@ -1715,277 +1951,333 @@
       },
       {
        "name": "ONE FM 91.3",
+       "active": 0,
        "url": "https://20683.live.streamtheworld.com/ONE_FM_913AAC.aac"
       },
       {
        "name": "Parambai FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/pyw2rw8n1uhvv",
        "language_inferred": true
       },
       {
        "name": "Plush 898 – 898 AM – SG-SG",
+       "active": 0,
        "url": "http://173.192.224.123:8491/",
        "language_inferred": true
       },
       {
        "name": "POM Radio – SG-SG",
+       "active": 0,
        "url": "https://cast.thiff.com/proxy/patotooo?mp=/stream",
        "language_inferred": true
       },
       {
        "name": "Pozhil FM",
+       "active": 0,
        "url": "https://node-16.zeno.fm/ssnf4ya44d0uv",
        "language_inferred": true
       },
       {
        "name": "Pozhil FM radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/k8uw9ya44d0uv",
        "language_inferred": true
       },
       {
        "name": "Quran Radio – SG-SG",
+       "active": 0,
        "url": "http://104.167.2.55:8000/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio 80.8FM",
+       "active": 0,
        "url": "https://radio808fm.out.airtime.pro/radio808fm_b"
       },
       {
        "name": "Radio Masti – SG-SG",
+       "active": 0,
        "url": "https://hls.rastream.com/radiomasti-masti24x7.web.hls/playlist.m3u8?awparams=companionads%3Atrue%3Btags%3Aradioactive%3Btags%3Aradiomasti%3Bstationid%3Aradiomasti-masti24x7&playerid=Radio%20Masti%2024x7%20LIVE!_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6Ik",
        "language_inferred": true
       },
       {
        "name": "Radio Melody with Brother Bjorn",
+       "active": 0,
        "url": "http://37.59.28.208:8113/stream"
       },
       {
        "name": "Radio Melody with Brother Bjorn",
+       "active": 0,
        "url": "https://ssl.geckohost.nz/proxy/bjorn?mp=/stream&1703130377563?n=ec28fdb363ab60debb41",
        "language_inferred": true
       },
       {
        "name": "Radio PLS 100 FM",
+       "active": 0,
        "url": "http://119.235.255.206:8064/"
       },
       {
        "name": "Radio Prédication",
+       "active": 0,
        "url": "https://rbx2.hnux.com/http://4000.cloudrad.io:8220/stream/1/",
        "language_inferred": true
       },
       {
        "name": "Radio Unreal",
+       "active": 0,
        "url": "https://stream.zeno.fm/4qadmsbz3rhvv",
        "language_inferred": true
       },
       {
        "name": "Radio Warna 94.2 FM – 94.2 FM – SG-SG",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FM_PREM_SC?pname=TDSdk&dist=MPL",
        "language_inferred": true
       },
       {
        "name": "ReiRei",
+       "active": 0,
        "url": "https://stream.zeno.fm/eeegdnzua0hvv",
        "language_inferred": true
       },
       {
        "name": "Ria 89.7FM",
+       "active": 0,
        "url": "https://22393.live.streamtheworld.com/RIA897FMAAC.aac",
        "language_inferred": true
       },
       {
        "name": "Salty Station",
+       "active": 0,
        "url": "https://stream.zeno.fm/501hk14n9whvv",
        "language_inferred": true
       },
       {
        "name": "sample potato",
+       "active": 0,
        "url": "https://stream.zeno.fm/sh7384k9kf9uv",
        "language_inferred": true
       },
       {
        "name": "Saturday radio night",
+       "active": 0,
        "url": "https://stream.zeno.fm/80z179c04hhvv",
        "language_inferred": true
       },
       {
        "name": "shadowstream",
+       "active": 0,
        "url": "https://stream.zeno.fm/z0svfb79ec9uv",
        "language_inferred": true
       },
       {
        "name": "SID SRIRAM AND PRADEEP VOCAL HITS TAMIL",
+       "active": 0,
        "url": "https://stream.zeno.fm/5ye5bucknkhvv",
        "language_inferred": true
       },
       {
        "name": "SIZZLING HOT SONGS TAMIL",
+       "active": 0,
        "url": "https://stream.zeno.fm/dezcrp2hnkhvv",
        "language_inferred": true
       },
       {
        "name": "Sky Smooth Jazz – SG-SG",
+       "active": 0,
        "url": "http://listen.sky.fm/public1/smoothjazz.pls",
        "language_inferred": true
       },
       {
        "name": "Sky Top Hits – SG-SG",
+       "active": 0,
        "url": "http://listen.sky.fm/public1/tophits.pls",
        "language_inferred": true
       },
       {
        "name": "Slap Music Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/nebgrlk9hwquv",
        "language_inferred": true
       },
       {
        "name": "SML FM",
+       "active": 0,
        "url": "https://cast1.my-control-panel.com/proxy/smlfm88/stream?1629629262458",
        "language_inferred": true
       },
       {
        "name": "SML FM radio",
+       "active": 0,
        "url": "https://cast2.asurahosting.com/proxy/smlfm88/stream",
        "language_inferred": true
       },
       {
        "name": "sound z911",
+       "active": 0,
        "url": "https://stream.zeno.fm/3ty70qnqv38uv",
        "language_inferred": true
       },
       {
        "name": "Special Radio Night",
+       "active": 0,
        "url": "https://stream.zeno.fm/subn1gv2c48uv",
        "language_inferred": true
       },
       {
        "name": "STAYCATION FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/bsozy4y5pdotv",
        "language_inferred": true
       },
       {
        "name": "SwarSangeet",
+       "active": 0,
        "url": "https://stream.zeno.fm/3gdkus8z768uv",
        "language_inferred": true
       },
       {
        "name": "Tamil FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/7pw6nrnee18uv",
        "language_inferred": true
       },
       {
        "name": "TawauFm",
+       "active": 0,
        "url": "https://stream.zeno.fm/v08vd965n48uv",
        "language_inferred": true
       },
       {
        "name": "thai fx",
+       "active": 0,
        "url": "https://stream.zeno.fm/fykiav1soj0tv",
        "language_inferred": true
       },
       {
        "name": "The Overthinking Giraffe Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/194xud20gchvv",
        "language_inferred": true
       },
       {
        "name": "Tiara Aghata",
+       "active": 0,
        "url": "https://stream.zeno.fm/ewsfa2mqnisvv",
        "language_inferred": true
       },
       {
        "name": "Tiger Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/hfzqmudceq8uv",
        "language_inferred": true
       },
       {
        "name": "tulancingo",
+       "active": 0,
        "url": "https://stream.zeno.fm/hf5rlj2649ruv",
        "language_inferred": true
       },
       {
        "name": "Tzgospel radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/znf00p5gffhvv",
        "language_inferred": true
       },
       {
        "name": "UFM 100.3",
+       "active": 0,
        "url": "http://22253.live.streamtheworld.com/UFM_1003AAC.aac",
        "language_inferred": true
       },
       {
        "name": "UFM 100.3",
+       "active": 0,
        "url": "https://23683.live.streamtheworld.com/UFM_1003AAC.aac?n=7707fa9410e97fce4e32",
        "language_inferred": true
       },
       {
        "name": "vibezz",
+       "active": 0,
        "url": "https://stream.zeno.fm/8az4qq1sf48uv",
        "language_inferred": true
       },
       {
        "name": "Vintage Radio",
+       "active": 0,
        "url": "https://hls.rastream.com/vintageradiosg-vintage.web.hls/playlist.m3u8?listeningSessionID=639c58a1bbc250d8_2110747_x31QehcG_MTAzLjIxLjgxLjM6ODA!_0000002IxSN&downloadSessionID=0&awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Avintageradiosg-vintage&playerid=Vintage%20Radio%20SG_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2NzMzMDEzOTIsImV4cCI6MTY3MzM4Nzc5Mn0.kveZOL7zSK7ceRFN9ZoNsqGDaHZitzQsgBY7TC4uwrY",
        "language_inferred": true
       },
       {
        "name": "Vintage Radio SG 老式收音机 – SG-SG",
+       "active": 0,
        "url": "https://hls.rastream.com/vintageradiosg-vintage.web.hls/playlist.m3u8?awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Avintageradiosg-vintage&playerid=Vintage%20Radio%20SG_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsa",
        "language_inferred": true
       },
       {
        "name": "Warna 94.2 FM",
+       "active": 0,
        "url": "https://22393.live.streamtheworld.com/WARNA942FMAAC.aac",
        "language_inferred": true
       },
       {
        "name": "Wonu Station",
+       "active": 0,
        "url": "https://stream.zeno.fm/6u7kuemnefhvv",
        "language_inferred": true
       },
       {
        "name": "Xans AC Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/vha3qrwaf18uv",
        "language_inferred": true
       },
       {
        "name": "Xans EDM Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/zzdcn0wcf18uv",
        "language_inferred": true
       },
       {
        "name": "Xans Heavy Metal Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/23npu6sfe18uv",
        "language_inferred": true
       },
       {
        "name": "Xans Lounge Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/7gp8ua6cf18uv",
        "language_inferred": true
       },
       {
        "name": "Xans Rap Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/wx9sq11cf18uv",
        "language_inferred": true
       },
       {
        "name": "XRadio",
+       "active": 0,
        "url": "http://xradio.zone:9420/stream/1/",
        "language_inferred": true
       },
       {
        "name": "Yes 93.3 FM",
+       "active": 0,
        "url": "https://22403.live.streamtheworld.com/YES933AAC.aac",
        "language_inferred": true
       },
       {
        "name": "Yes 933 是的 – 93.3 FM – SG-SG",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/YES933_PREM_SC?pname=TDSdk&dist=MPL&ttag=meid_seg%3Anone",
        "language_inferred": true
       },
       {
        "name": "YoungStonerLife",
+       "active": 0,
        "url": "https://stream.zeno.fm/pb6hqv4ff0hvv",
        "language_inferred": true
       }
@@ -2001,6 +2293,7 @@
      "stations": [
       {
        "name": "Love 97.2 FM",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FM.mp3",
        "tags": [
         "pop_hits",
@@ -2014,6 +2307,7 @@
      "stations": [
       {
        "name": "Hitz.FM Singapore radio",
+       "active": 0,
        "url": "http://everestcast.shoutcastservices.com:1640/stream",
        "tags": [
         "electronic",
@@ -2029,6 +2323,7 @@
      "stations": [
       {
        "name": "96.3好FM",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC_SC",
        "tags": [
         "pop_hits",
@@ -2042,6 +2337,7 @@
       },
       {
        "name": "Capital 95.8 FM",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FMAAC_SC",
        "tags": [
         "pop_hits",
@@ -2055,14 +2351,17 @@
       },
       {
        "name": "Capital 95.8FM",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FM.mp3"
       },
       {
        "name": "Capital 958",
+       "active": 0,
        "url": "https://19183.live.streamtheworld.com/CAPITAL958FM_PREM.aac"
       },
       {
        "name": "Capital Radio 95.8 FM",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FM_PREM.aac",
        "tags": [
         "news_talk",
@@ -2073,6 +2372,7 @@
       },
       {
        "name": "UFM 100.3",
+       "active": 0,
        "url": "https://20683.live.streamtheworld.com/UFM_1003AAC.aac",
        "tags": [
         "pop_hits",
@@ -2082,6 +2382,7 @@
       },
       {
        "name": "YES 933",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/YES933AAC_SC",
        "tags": [
         "pop_hits",
@@ -2097,6 +2398,7 @@
      "stations": [
       {
        "name": "88.3 Jia FM",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/883JIA_SC",
        "tags": [
         "pop_hits",
@@ -2106,6 +2408,7 @@
       },
       {
        "name": "Jia 883 Radio",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/883JIAAAC.aac",
        "tags": [
         "pop_hits",
@@ -2115,12 +2418,14 @@
       },
       {
        "name": "Love 97.2 FM",
+       "active": 0,
        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FM_PREM_SC.aac",
        "rb": "8153ae5a-0cb6-4ed2-b54d-6e24ca5be5b6",
        "logo": "https://www16.mediacorp.sg/melisten/radiostation-logos/love-972.png"
       },
       {
        "name": "Love 97.2FM",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FMAAC.aac",
        "tags": [
         "pop_hits",
@@ -2133,10 +2438,12 @@
       },
       {
        "name": "Love 972",
+       "active": 0,
        "url": "https://21363.live.streamtheworld.com/LOVE972FM_PREM.aac"
       },
       {
        "name": "UFM 100.3",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003AAC_SC",
        "tags": [
         "pop_hits",
@@ -2149,12 +2456,14 @@
       },
       {
        "name": "YES 93.3 FM",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/YES933_PREM.aac",
        "rb": "9a09b7c9-3254-4a1c-be15-d039938742b4",
        "logo": "https://www16.mediacorp.sg/melisten/radiostation-logos/yes-933.png"
       },
       {
        "name": "YES 933",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/YES933.mp3",
        "tags": [
         "pop_hits",
@@ -2164,6 +2473,7 @@
       },
       {
        "name": "YES 933",
+       "active": 0,
        "url": "https://13743.live.streamtheworld.com/YES933_PREM.aac"
       }
      ]
@@ -2173,6 +2483,7 @@
      "stations": [
       {
        "name": "96.3好FM",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963.mp3",
        "tags": [
         "pop_hits",
@@ -2191,10 +2502,12 @@
      "stations": [
       {
        "name": "INTER FM Chinese",
+       "active": 0,
        "url": "https://stream.zeno.fm/cfwn65k0hd0uv"
       },
       {
        "name": "Xans Oldskool",
+       "active": 0,
        "url": "https://stream.zeno.fm/a120emsbf18uv"
       }
      ]
@@ -2209,6 +2522,7 @@
      "stations": [
       {
        "name": "Barakath Radio",
+       "active": 0,
        "url": "https://stream.rcs.revma.com/cy0s94xf268uv",
        "tags": [
         "christian_gospel",
@@ -2217,6 +2531,7 @@
       },
       {
        "name": "Bisme Islamic Radio",
+       "active": 0,
        "url": "https://stream.rcs.revma.com/pcr8x50uty8uv",
        "tags": [
         "christian_gospel",
@@ -2230,6 +2545,7 @@
      "stations": [
       {
        "name": "Naga FM",
+       "active": 0,
        "url": "http://songs.nagafm.com:8006/",
        "tags": [
         "classical",
@@ -2244,6 +2560,7 @@
      "stations": [
       {
        "name": "Naga FM",
+       "active": 0,
        "url": "http://songs.nagafm.com:8006/stream/1",
        "tags": [
         "world",
@@ -2255,10 +2572,12 @@
       },
       {
        "name": "Naga FM",
+       "active": 0,
        "url": "http://songs.nagafm.com:8006/stream.mp3"
       },
       {
        "name": "Naga FM",
+       "active": 0,
        "url": "http://rdopanel.cobrasoftwares.org:1060/stream",
        "tags": [
         "world",
@@ -2267,6 +2586,7 @@
       },
       {
        "name": "Oli 96.8 FM",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FMAAC_SC",
        "tags": [
         "news_talk",
@@ -2279,6 +2599,7 @@
       },
       {
        "name": "Oli FM",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FM_SC",
        "tags": [
         "pop_hits",
@@ -2287,6 +2608,7 @@
       },
       {
        "name": "Oli FM 96.8",
+       "active": 0,
        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FM_PREM_SC.aac",
        "rb": "ca8099de-1d34-424b-8a52-a1ee99ae6f4e",
        "logo": "https://www16.mediacorp.sg/melisten/radiostation-logos/oli-968.png"
@@ -2298,38 +2620,47 @@
      "stations": [
       {
        "name": "Bus travel hits",
+       "active": 0,
        "url": "https://stream.zeno.fm/ybcesjnyblitv"
       },
       {
        "name": "FMC-TamilMinistries_Sermons, Singapore",
+       "active": 0,
        "url": "https://stream.zeno.fm/avmgrdfzb5zuv"
       },
       {
        "name": "mytamil",
+       "active": 0,
        "url": "https://stream.zeno.fm/tebwgxg3cdjtv"
       },
       {
        "name": "Nakshatra Radio",
+       "active": 0,
        "url": "http://14123.live.streamtheworld.com/SAM02AAC265_SC"
       },
       {
        "name": "Oli 968",
+       "active": 0,
        "url": "https://21363.live.streamtheworld.com/OLI968FM_PREM.aac"
       },
       {
        "name": "Oli FM",
+       "active": 0,
        "url": "https://13743.live.streamtheworld.com/OLI968FM_PREM.aac"
       },
       {
        "name": "Orange media",
+       "active": 0,
        "url": "https://stream.zeno.fm/t73xjlttr3ttv"
       },
       {
        "name": "Orangefm",
+       "active": 0,
        "url": "https://stream.zeno.fm/s3shevpjgwbvv"
       },
       {
        "name": "Thenkachi ko swaminathan",
+       "active": 0,
        "url": "https://stream.zeno.fm/ynloqvfmdc5uv"
       }
      ]
@@ -2344,6 +2675,7 @@
      "stations": [
       {
        "name": "Warna 942",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FMAAC_SC",
        "tags": [
         "news_talk",
@@ -2360,6 +2692,7 @@
      "stations": [
       {
        "name": "Ria 897 Radio",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FMAAC_SC",
        "tags": [
         "pop_hits",
@@ -2370,6 +2703,7 @@
       },
       {
        "name": "Warna 942",
+       "active": 0,
        "url": "https://19183.live.streamtheworld.com/WARNA942FM_PREM.aac"
       }
      ]
@@ -2379,6 +2713,7 @@
      "stations": [
       {
        "name": "Ria FM 89.7",
+       "active": 0,
        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FM_PREM.aac",
        "tags": [
         "pop_hits",
@@ -2389,6 +2724,7 @@
       },
       {
        "name": "Warna 94.2",
+       "active": 0,
        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FM_PREM.aac",
        "tags": [
         "pop_hits",
@@ -2404,14 +2740,17 @@
      "stations": [
       {
        "name": "MusicNation",
+       "active": 0,
        "url": "https://stream.zeno.fm/nz084cvuxd0uv"
       },
       {
        "name": "Rentak Pelangi Muzik FM",
+       "active": 0,
        "url": "http://stream.tujuh.my/proxy/rentakpelangifm/stream"
       },
       {
        "name": "Ria 897",
+       "active": 0,
        "url": "https://19183.live.streamtheworld.com/RIA897FM_PREM.aac"
       }
      ]
@@ -2426,6 +2765,7 @@
      "stations": [
       {
        "name": "88.3 JIA KPOP",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/JIA_KPOP_S01_SC",
        "tags": [
         "world",
@@ -2440,6 +2780,7 @@
      "stations": [
       {
        "name": "88.3 JIA WEB HITS",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/JIA_WEBHITS_S01.mp3?dist=onlineradiobox"
       }
      ]
@@ -2449,6 +2790,7 @@
      "stations": [
       {
        "name": "Hitz FM Singapore",
+       "active": 0,
        "url": "http://38.107.243.226:8920/"
       }
      ]
@@ -2463,6 +2805,7 @@
      "stations": [
       {
        "name": "MandalayFM",
+       "active": 0,
        "url": "https://edge.mixlr.com/channel/nmtev",
        "tags": [
         "christian_gospel",
@@ -2485,6 +2828,7 @@
      "stations": [
       {
        "name": "PLS 100FM 100% HITZ",
+       "active": 0,
        "url": "http://live.indostreamserver.com:8064/",
        "tags": [
         "world",
@@ -2503,6 +2847,7 @@
      "stations": [
       {
        "name": "Desi Dance",
+       "active": 0,
        "url": "http://usa6.fastcast4u.com:5029/stream",
        "tags": [
         "bollywood_indian",
@@ -2521,6 +2866,7 @@
      "stations": [
       {
        "name": "Muziek Paleis",
+       "active": 0,
        "url": "https://stream.zeno.fm/s7zqe360bg0uv"
       }
      ]
@@ -2535,6 +2881,7 @@
      "stations": [
       {
        "name": "Radio Ghassphoring",
+       "active": 0,
        "url": "https://stream.zeno.fm/vw75nrsxrzzuv"
       }
      ]
@@ -2549,6 +2896,7 @@
      "stations": [
       {
        "name": "Singapur",
+       "active": 0,
        "url": "https://stream.zeno.fm/khzxp0s56nhvv"
       }
      ]

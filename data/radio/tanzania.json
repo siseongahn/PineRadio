@@ -10,6 +10,7 @@
      "stations": [
       {
        "name": "sachita radio",
+       "active": 0,
        "url": "http://41.59.215.42:8000/stream.ogg",
        "tags": [
         "alternative_indie",
@@ -25,11 +26,13 @@
      "stations": [
       {
        "name": "ABC Global Impact Radio",
+       "active": 0,
        "url": "http://hydra.shoutca.st:8127/stream",
        "language_inferred": true
       },
       {
        "name": "Alpha255.FM radio",
+       "active": 0,
        "url": "https://alpha255.out.airtime.pro/alpha255_a",
        "tags": [
         "christian_gospel",
@@ -41,54 +44,65 @@
       },
       {
        "name": "Amen Radio",
+       "active": 0,
        "url": "https://gloryradiotz.radioca.st/"
       },
       {
        "name": "Bethel Radio",
+       "active": 0,
        "url": "http://178.32.62.154:8020/stream",
        "language_inferred": true
       },
       {
        "name": "Bethel Radio",
+       "active": 0,
        "url": "http://bethelradio.radioca.st:8020/stream",
        "language_inferred": true
       },
       {
        "name": "Bethel Radio",
+       "active": 0,
        "url": "https://bethelradio.radioca.st/",
        "language_inferred": true
       },
       {
        "name": "Bethel Radio",
+       "active": 0,
        "url": "https://bethelradio.radioca.st/stream.nsv",
        "language_inferred": true
       },
       {
        "name": "Bethel Radio, Dar es Salaam",
+       "active": 0,
        "url": "https://a5.asurahosting.com:8210/",
        "language_inferred": true
       },
       {
        "name": "CAANAN FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/m15eapfacxhvv"
       },
       {
        "name": "Care Fm Radio",
+       "active": 0,
        "url": "http://109.169.14.36:3337/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Care Radio",
+       "active": 0,
        "url": "https://edge.mixlr.com/channel/rwbbf",
        "language_inferred": true
       },
       {
        "name": "Chakula Radio",
+       "active": 0,
        "url": "http://cressida.shoutca.st:8095/stream?type=http\\u0026nocache=7",
        "language_inferred": true
       },
       {
        "name": "Christian FM Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/s5g15luuuwuvv",
        "tags": [
         "christian_gospel",
@@ -97,6 +111,7 @@
       },
       {
        "name": "Dartaarifa.Fm radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/spgwhxhabgkvv",
        "tags": [
         "christian_gospel",
@@ -108,16 +123,19 @@
       },
       {
        "name": "Divine Radio FM",
+       "active": 0,
        "url": "https://streamlive2.hearthis.at:8000/10321602.ogg?time=1658498168",
        "language_inferred": true
       },
       {
        "name": "Dr PTN Radio",
+       "active": 0,
        "url": "https://drptn.com/80.php",
        "language_inferred": true
       },
       {
        "name": "Dy International",
+       "active": 0,
        "url": "https://stream.zeno.fm/253yemexgs8uv",
        "tags": [
         "christian_gospel",
@@ -126,35 +144,42 @@
       },
       {
        "name": "Faith Victory Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/3v0veczdzy8uv",
        "language_inferred": true
       },
       {
        "name": "Faith Victory Radio",
+       "active": 0,
        "url": "http://64.150.176.9:8043/autodj",
        "language_inferred": true
       },
       {
        "name": "Favour Radio Omega",
+       "active": 0,
        "url": "https://listen.radioking.com/radio/585200/stream/645593",
        "language_inferred": true
       },
       {
        "name": "Fountain Radio",
+       "active": 0,
        "url": "http://stream.zeno.fm/ep3nq9u7ptzuv"
       },
       {
        "name": "Fountain Radio",
+       "active": 0,
        "url": "http://s12.myradiostream.com:16018/stream.nsv",
        "language_inferred": true
       },
       {
        "name": "Friends Of Jesus Radio",
+       "active": 0,
        "url": "http://cassini.shoutca.st:8079/stream.nsv",
        "language_inferred": true
       },
       {
        "name": "Gombo FM Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/xgkyolbvybktv",
        "tags": [
         "christian_gospel",
@@ -163,25 +188,30 @@
       },
       {
        "name": "Goshen Radio",
+       "active": 0,
        "url": "https://vesper.streamerr.co/listen/mbeya1/radio.mp3",
        "language_inferred": true
       },
       {
        "name": "Gospel Clinic",
+       "active": 0,
        "url": "https://studio29.radiolize.com/radio/8100/radio.mp3"
       },
       {
        "name": "Gospel Clinic Online Radio",
+       "active": 0,
        "url": "http://studio29.radiolize.com:8100/radio.mp3",
        "language_inferred": true
       },
       {
        "name": "Gospo Radio",
+       "active": 0,
        "url": "https://s5.radio.co/s7c6d7357d/listen",
        "language_inferred": true
       },
       {
        "name": "Habari Njema Radio",
+       "active": 0,
        "url": "https://rwandanationalcongress.co.uk:8020/radio.mp3",
        "tags": [
         "christian_gospel",
@@ -191,11 +221,13 @@
       },
       {
        "name": "Hazina Radio",
+       "active": 0,
        "url": "https://s4.radio.co/sf782e0fcb/listen",
        "language_inferred": true
       },
       {
        "name": "Heaven FM Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/eequgfw72hhvv",
        "tags": [
         "christian_gospel",
@@ -208,59 +240,72 @@
       },
       {
        "name": "Jibu Radio",
+       "active": 0,
        "url": "https://s5.radio.co/s200bf249f/listen",
        "language_inferred": true
       },
       {
        "name": "Kesheni Mkiomba Radio",
+       "active": 0,
        "url": "https://kesheniradio.radioca.st/"
       },
       {
        "name": "Kesheni Mkiomba Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/vfid3vayksbtv",
        "language_inferred": true
       },
       {
        "name": "Kingdom Voice Online Radio",
+       "active": 0,
        "url": "http://kingdomvoiceradio.online:8000/airtime_128",
        "language_inferred": true
       },
       {
        "name": "Kulola FM Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/gguuwi06bcntv"
       },
       {
        "name": "Libo Radio",
+       "active": 0,
        "url": "https://stream-44.zeno.fm/kaxma3iiyanuv"
       },
       {
        "name": "Libo Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/kaxma3iiyanuv"
       },
       {
        "name": "LIVING WATER",
+       "active": 0,
        "url": "https://stream.zeno.fm/wuuw60gwfxhvv",
        "language_inferred": true
       },
       {
        "name": "Lumen Radio Karatu",
+       "active": 0,
        "url": "http://freeuk22.listen2myradio.com:32515/stream.nsv",
        "language_inferred": true
       },
       {
        "name": "Manukato Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/pebd18dpw4zuv"
       },
       {
        "name": "manukato radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/rrstbaepw4zuv"
       },
       {
        "name": "manukato radio",
+       "active": 0,
        "url": "https://listen.openstream.co/5257/audio"
       },
       {
        "name": "Mji Mkuu FM Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/w0wxhdvhoi8tv",
        "tags": [
         "christian_gospel",
@@ -270,10 +315,12 @@
       },
       {
        "name": "ML Christian Radio Online",
+       "active": 0,
        "url": "https://stream.zeno.fm/tck7tu1u0uhvv"
       },
       {
        "name": "Morning Star Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/4aq1th23pvduv",
        "tags": [
         "christian_gospel",
@@ -283,36 +330,43 @@
       },
       {
        "name": "Mtawala Radio",
+       "active": 0,
        "url": "http://mtawalaradio.online:8000/main",
        "language_inferred": true
       },
       {
        "name": "Mtawala Radio",
+       "active": 0,
        "url": "https://onlineradiobox.com/json/tz/mtawala/play?platform=web"
       },
       {
        "name": "Mungu Kwanza",
+       "active": 0,
        "url": "https://mungukwanza.radioca.st/",
        "language_inferred": true,
        "rb": "f297314f-85bf-43d4-b71e-af88a253d7a8"
       },
       {
        "name": "Neno Radio",
+       "active": 0,
        "url": "https://stream.zenolive.com/6vx19kexgs8uv",
        "language_inferred": true
       },
       {
        "name": "Nguvu Ya Maombi Radio",
+       "active": 0,
        "url": "http://freeuk22.listen2myradio.com:15939/",
        "language_inferred": true
       },
       {
        "name": "Nyu Fm Radio",
+       "active": 0,
        "url": "https://freeuk18.listen2myradio.com/live.mp3?typeportmount=s1_13713_stream_715453756",
        "language_inferred": true
       },
       {
        "name": "Peace Fm Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/y7csnyf3dxhvv",
        "tags": [
         "christian_gospel",
@@ -321,10 +375,12 @@
       },
       {
        "name": "Praise radio Tanzania",
+       "active": 0,
        "url": "https://stream.zeno.fm/x4smztcw7ezvv"
       },
       {
        "name": "praise radio tz",
+       "active": 0,
        "url": "https://stream.zeno.fm/cpj9axsmmanvv",
        "tags": [
         "christian_gospel",
@@ -333,6 +389,7 @@
       },
       {
        "name": "Qiblaten FM",
+       "active": 0,
        "url": "http://s36.myradiostream.com:20772/",
        "tags": [
         "christian_gospel",
@@ -341,10 +398,12 @@
       },
       {
        "name": "Radio Habari Njema",
+       "active": 0,
        "url": "http://uk4-vn.mixstream.net:8084/listen.mp3?_=1"
       },
       {
        "name": "Radio Maarifa",
+       "active": 0,
        "url": "http://87.117.205.22:8050",
        "tags": [
         "christian_gospel",
@@ -355,11 +414,13 @@
       },
       {
        "name": "Radio Maria 89.1 FM radio",
+       "active": 0,
        "url": "https://dreamsiteradiocp2.com/proxy/rmtanzania2?mp=/stream?ver=679444",
        "language_inferred": true
       },
       {
        "name": "RADIO MARIA TANZANIA",
+       "active": 0,
        "url": "http://dreamsiteradiocp2.com:8034/stream",
        "tags": [
         "christian_gospel",
@@ -370,6 +431,7 @@
       },
       {
        "name": "Radio Maria Tanzania",
+       "active": 0,
        "url": "https://dreamsiteradiocp2.com/proxy/rmtanzania2?mp=/stream",
        "tags": [
         "christian_gospel",
@@ -378,6 +440,7 @@
       },
       {
        "name": "Radio Maria Tanzania",
+       "active": 0,
        "url": "http://50.7.181.186:8048",
        "tags": [
         "christian_gospel",
@@ -386,14 +449,17 @@
       },
       {
        "name": "Radio Maria Tanzania 103.5 FM",
+       "active": 0,
        "url": "http://dreamsiteradiocp2.com:8034/"
       },
       {
        "name": "Radio Mbiu",
+       "active": 0,
        "url": "https://dreamsiteradiocp5.com/proxy/rmbiu?mp=/stream"
       },
       {
        "name": "Radio Sauti ya Injili",
+       "active": 0,
        "url": "http://sautiyainjili.de:6801/stream.nsv",
        "tags": [
         "christian_gospel",
@@ -402,15 +468,18 @@
       },
       {
        "name": "Radio Sayuni Online",
+       "active": 0,
        "url": "http://173.208.177.90:12936/listen.pls"
       },
       {
        "name": "Radio Sayuni radio",
+       "active": 0,
        "url": "http://s36.myradiostream.com:12936/stream.nsv",
        "language_inferred": true
       },
       {
        "name": "Radio Tumaini Fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/v437dbg4qzzuv",
        "tags": [
         "christian_gospel",
@@ -420,6 +489,7 @@
       },
       {
        "name": "Radio Uhai",
+       "active": 0,
        "url": "https://s2.citrus3.com:8050/stream",
        "tags": [
         "christian_gospel",
@@ -431,6 +501,7 @@
       },
       {
        "name": "Radio Uhai 94.1 FM Listen live",
+       "active": 0,
        "url": "https://s2.citrus3.com:8050/server",
        "tags": [
         "christian_gospel",
@@ -440,35 +511,42 @@
       },
       {
        "name": "Radio Wish",
+       "active": 0,
        "url": "https://stream.zeno.fm/nz68yswvcfhvv"
       },
       {
        "name": "Radio Wish radio",
+       "active": 0,
        "url": "https://ifastekpanel.com:1455/stream",
        "language_inferred": true
       },
       {
        "name": "Redio Sauti ya Inji",
+       "active": 0,
        "url": "http://www.sautiyainjili.de:6801/stream/1",
        "language_inferred": true
       },
       {
        "name": "Refocus FM Radio",
+       "active": 0,
        "url": "http://stream.zeno.fm/f2ovjecvieetv",
        "language_inferred": true
       },
       {
        "name": "Rehoboth Radio",
+       "active": 0,
        "url": "https://rehobothi.radioca.st/stream.nsv",
        "language_inferred": true
       },
       {
        "name": "REJOICE RADIO",
+       "active": 0,
        "url": "https://stream.ibadalive.com/8022/stream",
        "language_inferred": true
       },
       {
        "name": "Sauti ya Injil",
+       "active": 0,
        "url": "http://sautiyainjili.de:6801/",
        "tags": [
         "christian_gospel",
@@ -478,52 +556,63 @@
       },
       {
        "name": "Savior Radio",
+       "active": 0,
        "url": "http://proxima.shoutca.st:8083/stream",
        "language_inferred": true
       },
       {
        "name": "Savior Radio",
+       "active": 0,
        "url": "https://onlineradiobox.com/json/tz/savior/play?platform=web"
       },
       {
        "name": "Shalom Radio Arusha",
+       "active": 0,
        "url": "http://freeuk21.listen2myradio.com:9548/",
        "language_inferred": true
       },
       {
        "name": "Shalom Radio Arusha",
+       "active": 0,
        "url": "http://freeus2.listen2myradio.com:14061/",
        "language_inferred": true
       },
       {
        "name": "Shuhuda Za Kweli Radio",
+       "active": 0,
        "url": "https://shuhudazakweli.radioca.st/",
        "language_inferred": true
       },
       {
        "name": "Siteketei Season Swahili-Hood",
+       "active": 0,
        "url": "https://www.radioking.com/play/sseason-swahili-hood",
        "language_inferred": true
       },
       {
        "name": "St. Alban's Online Radio",
+       "active": 0,
        "url": "http://hydra.shoutca.st:8014/stream",
        "language_inferred": true
       },
       {
        "name": "Storm FM",
+       "active": 0,
        "url": "https://radiotadio.co.tz/storm-fm-stream"
       },
       {
        "name": "Success Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/crbrdx5zbg0uv"
       },
       {
        "name": "The Way To Heaven Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/fyqk13fmbm0uv"
       },
       {
        "name": "Togan fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/hm255tmmsv8uv",
        "tags": [
         "christian_gospel",
@@ -536,6 +625,7 @@
       },
       {
        "name": "Tzgospel",
+       "active": 0,
        "url": "https://s54.radiolize.com/radio/8030/radio.mp3",
        "tags": [
         "christian_gospel",
@@ -545,6 +635,7 @@
       },
       {
        "name": "Tzgospel",
+       "active": 0,
        "url": "https://halo.streamerr.co/listen/living/radio.mp3",
        "tags": [
         "christian_gospel",
@@ -555,6 +646,7 @@
       },
       {
        "name": "TzGospel Swahili",
+       "active": 0,
        "url": "https://mira.streamerr.co/radio/8150/radio.mp3",
        "tags": [
         "christian_gospel",
@@ -563,14 +655,17 @@
       },
       {
        "name": "Tzgospel swahili (colombia) radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/k4q6ndb7kuhvv"
       },
       {
        "name": "Ukombozi Wa Familia Online Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/96ud7736ckhvv"
       },
       {
        "name": "Upendo FM",
+       "active": 0,
        "url": "http://s12.myradiostream.com:8186/",
        "tags": [
         "christian_gospel",
@@ -579,35 +674,42 @@
       },
       {
        "name": "Upendo FM",
+       "active": 0,
        "url": "https://onlineradiobox.com/json/tz/upendo/play?platform=web"
       },
       {
        "name": "Upendo FM radio",
+       "active": 0,
        "url": "http://37.59.37.6:8186/",
        "language_inferred": true
       },
       {
        "name": "Upward Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/fmn9bagw7wxuv",
        "language_inferred": true
       },
       {
        "name": "UshindiFm 98.5 radio",
+       "active": 0,
        "url": "http://freeuk29.listen2myradio.com:31177/",
        "language_inferred": true
       },
       {
        "name": "Utume Fm Radio 97.3mhz",
+       "active": 0,
        "url": "http://us1freenew.listen2myradio.com:4245/stream.nsv",
        "language_inferred": true
       },
       {
        "name": "Victory Radio, Dar es Salaam",
+       "active": 0,
        "url": "http://hyades.shoutca.st:8110/autodj",
        "language_inferred": true
       },
       {
        "name": "WAM-UWE MZIMA radio",
+       "active": 0,
        "url": "http://freeuk24.listen2myradio.com:22380/stream.nsv",
        "tags": [
         "christian_gospel",
@@ -617,6 +719,7 @@
       },
       {
        "name": "World Shakers Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/lfcjlmzg4jfvv",
        "language_inferred": true
       }
@@ -627,6 +730,7 @@
      "stations": [
       {
        "name": "FM Manyara Radio",
+       "active": 0,
        "url": "http://109.73.65.69:31220",
        "tags": [
         "pop_hits",
@@ -636,6 +740,7 @@
       },
       {
        "name": "N-FM Radio",
+       "active": 0,
        "url": "http://uk3-vn.mixstream.net:8104/listen.mp3",
        "tags": [
         "classical",
@@ -646,11 +751,13 @@
       },
       {
        "name": "Swahiba FM",
+       "active": 0,
        "url": "http://s23.myradiostream.com:6628",
        "language_inferred": true
       },
       {
        "name": "Uvinza FM Radio",
+       "active": 0,
        "url": "http://usa1-vn.mixstream.net:8090/listen.mp3",
        "tags": [
         "classical",
@@ -666,40 +773,48 @@
      "stations": [
       {
        "name": "ACLASA RADIO STATION",
+       "active": 0,
        "url": "https://stream.zeno.fm/939ab91tp7zuv",
        "language_inferred": true
       },
       {
        "name": "HOPE FM 98.1",
+       "active": 0,
        "url": "https://stream.zeno.fm/dd45c2tbrchvv",
        "language_inferred": true
       },
       {
        "name": "Ice Fm Radio",
+       "active": 0,
        "url": "http://78.129.185.84:15225/",
        "language_inferred": true
       },
       {
        "name": "Kolandoto College Online Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/2xpxs314mfhvv"
       },
       {
        "name": "Pol fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/qvfgvnehzchvv",
        "language_inferred": true
       },
       {
        "name": "RIDA FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/vaz0862f7a0uv",
        "language_inferred": true
       },
       {
        "name": "Standard Radio Singida",
+       "active": 0,
        "url": "http://s26.myradiostream.com:19546/",
        "language_inferred": true
       },
       {
        "name": "Universityfm",
+       "active": 0,
        "url": "https://stream.zeno.fm/pm6cv50kvf9uv",
        "language_inferred": true
       }
@@ -710,15 +825,18 @@
      "stations": [
       {
        "name": "Jahazi fm Tarime",
+       "active": 0,
        "url": "https://stream.zeno.fm/r8mc47xaed0uv"
       },
       {
        "name": "THONTHEPRADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/4tq9ue6seg0uv",
        "language_inferred": true
       },
       {
        "name": "Ze chuping Show",
+       "active": 0,
        "url": "https://stream.zeno.fm/yygbagwb6nhvv",
        "language_inferred": true
       }
@@ -729,6 +847,7 @@
      "stations": [
       {
        "name": "Country Fm",
+       "active": 0,
        "url": "http://50.7.99.163:16226/stream?.wma",
        "language_inferred": true
       }
@@ -739,6 +858,7 @@
      "stations": [
       {
        "name": "Eku Fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/yazm2pc8schvv",
        "tags": [
         "college_community",
@@ -747,6 +867,7 @@
       },
       {
        "name": "Ml Christian Radio online",
+       "active": 0,
        "url": "http://stream.zeno.fm/wq22xu1u0uhvv"
       }
      ]
@@ -756,6 +877,7 @@
      "stations": [
       {
        "name": "Radio One Stereo Listen live",
+       "active": 0,
        "url": "https://radioonetanzania.radioca.st/server",
        "tags": [
         "pop_hits",
@@ -770,6 +892,7 @@
      "stations": [
       {
        "name": "+255 Global Radio",
+       "active": 0,
        "url": "https://zas7.ndx.co.za:8026/stream",
        "tags": [
         "easy_listening",
@@ -780,11 +903,13 @@
       },
       {
        "name": "255 Global Radio",
+       "active": 0,
        "url": "http://zas5.ndx.co.za:9606/",
        "language_inferred": true
       },
       {
        "name": "A FM 92.9 radio",
+       "active": 0,
        "url": "http://198.7.62.157:10056/stream",
        "tags": [
         "pop_hits",
@@ -794,6 +919,7 @@
       },
       {
        "name": "AFM Dodoma",
+       "active": 0,
        "url": "http://87.117.205.22:9000/stream",
        "tags": [
         "news_talk",
@@ -802,10 +928,12 @@
       },
       {
        "name": "LD Radio",
+       "active": 0,
        "url": "http://78.129.224.11:3932/stream.ur0v"
       },
       {
        "name": "Supa Dupa FM",
+       "active": 0,
        "url": "http://stream.zeno.fm/ucfn0uu87a0uv",
        "tags": [
         "easy_listening",
@@ -815,6 +943,7 @@
       },
       {
        "name": "The Ranch FM – DYME-FM",
+       "active": 0,
        "url": "http://206.190.130.182:8004",
        "tags": [
         "pop_hits",
@@ -830,6 +959,7 @@
      "stations": [
       {
        "name": "+255 Global Radio",
+       "active": 0,
        "url": "http://zas7.ndx.co.za:18026/stream",
        "tags": [
         "oldies",
@@ -839,6 +969,7 @@
       },
       {
        "name": "Kazi FM radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/kq04e0gk8rhvv",
        "language_inferred": true
       }
@@ -849,6 +980,7 @@
      "stations": [
       {
        "name": "Njiwa Online Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/kk4huth58nhvv",
        "tags": [
         "folk",
@@ -862,6 +994,7 @@
      "stations": [
       {
        "name": "CG FM Radio",
+       "active": 0,
        "url": "http://ca10.rcast.net:8034/stream",
        "tags": [
         "latin",
@@ -872,6 +1005,7 @@
       },
       {
        "name": "East Africa Radio",
+       "active": 0,
        "url": "http://eatv.radioca.st:8312/stream/",
        "tags": [
         "hip_hop_rap",
@@ -881,6 +1015,7 @@
       },
       {
        "name": "East Africa Radio",
+       "active": 0,
        "url": "http://212.83.149.66:8312/stream/",
        "tags": [
         "hip_hop_rap",
@@ -890,6 +1025,7 @@
       },
       {
        "name": "EKU FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/kzc06pc8schvv",
        "tags": [
         "christian_gospel",
@@ -899,6 +1035,7 @@
       },
       {
        "name": "Habari 24 Radio",
+       "active": 0,
        "url": "http://95.154.254.83/stream.mp3?ipport=95.154.254.83_33235",
        "tags": [
         "hip_hop_rap",
@@ -908,6 +1045,7 @@
       },
       {
        "name": "Rubega Radio",
+       "active": 0,
        "url": "https://stream.abenbrothers.com/8002/stream",
        "tags": [
         "hip_hop_rap",
@@ -922,6 +1060,7 @@
       },
       {
        "name": "Wasafi FM - 88.9",
+       "active": 0,
        "url": "https://89lbwhkkoel.a.trbcdn.net/livemaster/488f26zwfd_WasafiFM144/playlist.m3u8",
        "language_inferred": true
       }
@@ -932,6 +1071,7 @@
      "stations": [
       {
        "name": "Islamia",
+       "active": 0,
        "url": "https://stream.zeno.fm/mshvxvdwmwzuv",
        "tags": [
         "islamic_quran",
@@ -940,11 +1080,13 @@
       },
       {
        "name": "Qiblaten FM Listen live",
+       "active": 0,
        "url": "https://s36.myradiostream.com/20772?1596758337794",
        "language_inferred": true
       },
       {
        "name": "Qiblaten FM radio",
+       "active": 0,
        "url": "https://s36.myradiostream.com/20772?1594398401261",
        "tags": [
         "islamic_quran",
@@ -954,6 +1096,7 @@
       },
       {
        "name": "Radio Nuur Tanga",
+       "active": 0,
        "url": "http://107.181.254.4:8500/stream/3/",
        "language_inferred": true
       }
@@ -964,6 +1107,7 @@
      "stations": [
       {
        "name": "99.3NYU FM",
+       "active": 0,
        "url": "https://freeuk18.listen2myradio.com/live.mp3?typeportmount=s1_13713_stream_759288156",
        "tags": [
         "jazz",
@@ -973,6 +1117,7 @@
       },
       {
        "name": "Deal Plus",
+       "active": 0,
        "url": "https://stream.zeno.fm/x7fe33amc78uv",
        "tags": [
         "jazz",
@@ -989,11 +1134,13 @@
      "stations": [
       {
        "name": "BCD FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/gyd39tvpychvv",
        "language_inferred": true
       },
       {
        "name": "Lutheran Radio Centre",
+       "active": 0,
        "url": "http://www.sautiyainjili.de:6801/",
        "tags": [
         "kids",
@@ -1002,6 +1149,7 @@
       },
       {
        "name": "MCJ RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/1zpnuvbfe2zuv"
       }
      ]
@@ -1011,6 +1159,7 @@
      "stations": [
       {
        "name": "TBC Taifa",
+       "active": 0,
        "url": "http://usa9-vn.mixstream.net:8080/",
        "tags": [
         "latin",
@@ -1025,6 +1174,7 @@
      "stations": [
       {
        "name": "Access Fm 100.9Mhz radio",
+       "active": 0,
        "url": "http://uk13freenew.listen2myradio.com:5611/stream.nsv",
        "tags": [
         "news_talk",
@@ -1034,6 +1184,7 @@
       },
       {
        "name": "Access Fm Radio",
+       "active": 0,
        "url": "http://freeuk25.listen2myradio.com:32890/stream.nsv",
        "tags": [
         "pop_hits",
@@ -1042,6 +1193,7 @@
       },
       {
        "name": "Arusha One FM",
+       "active": 0,
        "url": "http://freeuk18.listen2myradio.com:7543/stream",
        "tags": [
         "news_talk",
@@ -1051,26 +1203,31 @@
       },
       {
        "name": "Badiliko Halisi Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/oahhic3hkihuv",
        "language_inferred": true
       },
       {
        "name": "Baradige Fm radio",
+       "active": 0,
        "url": "https://stream-43.zeno.fm/7bb8ytx3qxhvv",
        "language_inferred": true
       },
       {
        "name": "Baraka FM Radio",
+       "active": 0,
        "url": "http://freeuk21.listen2myradio.com:26903/",
        "language_inferred": true
       },
       {
        "name": "BIG STAR FM radio",
+       "active": 0,
        "url": "http://80.84.57.76:36459/stream.nsv",
        "language_inferred": true
       },
       {
        "name": "Blessings FM Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/optlulikwnrvv",
        "tags": [
         "christian_gospel",
@@ -1081,15 +1238,18 @@
       },
       {
        "name": "Bongo Radio",
+       "active": 0,
        "url": "http://www.bongoradio.com/listen128k.pls"
       },
       {
        "name": "Bongo Radio – Taarab & Mduara Channel",
+       "active": 0,
        "url": "http://www.bongoradio.com:8000/taarab.mp3",
        "language_inferred": true
       },
       {
        "name": "Bunda Fm radio",
+       "active": 0,
        "url": "https://uk6.internet-radio.com/proxy/bundafm?mp=/stream",
        "tags": [
         "news_talk",
@@ -1099,6 +1259,7 @@
       },
       {
        "name": "Capital Radio",
+       "active": 0,
        "url": "https://capitalradio.radioca.st/stream",
        "tags": [
         "news_talk",
@@ -1108,6 +1269,7 @@
       },
       {
        "name": "CG FM Radio",
+       "active": 0,
        "url": "http://live2.rcast.net:8590/stream.mp3",
        "tags": [
         "news_talk",
@@ -1116,10 +1278,12 @@
       },
       {
        "name": "CG FM Radio",
+       "active": 0,
        "url": "http://ca10.rcast.net:8034/stream.mp3"
       },
       {
        "name": "Dar fm radio",
+       "active": 0,
        "url": "http://listen.radionomy.com/darfmradio",
        "tags": [
         "christian_gospel",
@@ -1129,6 +1293,7 @@
       },
       {
        "name": "Dodoma FM",
+       "active": 0,
        "url": "https://radio.tadio.co.tz/dodoma-fm-stream",
        "tags": [
         "news_talk",
@@ -1138,6 +1303,7 @@
       },
       {
        "name": "Dream FM 91.3",
+       "active": 0,
        "url": "http://95.154.193.6:8079/stream",
        "tags": [
         "news_talk",
@@ -1146,6 +1312,7 @@
       },
       {
        "name": "E-FM Radio",
+       "active": 0,
        "url": "https://cast1.asurahosting.com/proxy/kiwindoc/efm",
        "tags": [
         "news_talk",
@@ -1156,6 +1323,7 @@
       },
       {
        "name": "East Africa Radio",
+       "active": 0,
        "url": "https://eatv.radioca.st/stream",
        "tags": [
         "news_talk",
@@ -1169,6 +1337,7 @@
       },
       {
        "name": "FM Manyara",
+       "active": 0,
        "url": "http://freeuk22.listen2myradio.com:17356/stream.nsv",
        "tags": [
         "news_talk",
@@ -1177,6 +1346,7 @@
       },
       {
        "name": "FM Manyara radio",
+       "active": 0,
        "url": "http://freeuk21.listen2myradio.com:36445/stream.nsv",
        "tags": [
         "news_talk",
@@ -1186,6 +1356,7 @@
       },
       {
        "name": "Globify Radio",
+       "active": 0,
        "url": "https://s34.radiolize.com/radio/8050/radio.mp3",
        "tags": [
         "news_talk",
@@ -1195,11 +1366,13 @@
       },
       {
        "name": "GOLD FM radio",
+       "active": 0,
        "url": "http://freeuk28.listen2myradio.com:13232/stream.nsv",
        "language_inferred": true
       },
       {
        "name": "Heaven FM Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/utrzcfw72hhvv",
        "tags": [
         "christian_gospel",
@@ -1208,28 +1381,34 @@
       },
       {
        "name": "Highlands Fm radio",
+       "active": 0,
        "url": "http://freeuk18.listen2myradio.com:26133/",
        "language_inferred": true
       },
       {
        "name": "Hope Fm 98.1 radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/um3eu3tbrchvv"
       },
       {
        "name": "ILASI RADIO FM",
+       "active": 0,
        "url": "http://s15.myradiostream.com:16892/",
        "language_inferred": true
       },
       {
        "name": "ILASI RADIO FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/t52pqhxjtxuvv"
       },
       {
        "name": "JAGO FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/efqed30gmpxuv"
       },
       {
        "name": "Jamii FM",
+       "active": 0,
        "url": "https://radiotadio.co.tz/jamii-fm-stream",
        "tags": [
         "news_talk",
@@ -1238,10 +1417,12 @@
       },
       {
        "name": "Jamii Fm Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/b8ysax62bf9uv"
       },
       {
        "name": "Jembe Fm",
+       "active": 0,
        "url": "https://cast3.asurahosting.com/proxy/jembemed/stream",
        "tags": [
         "news_talk",
@@ -1253,6 +1434,7 @@
       },
       {
        "name": "Jembe Fm",
+       "active": 0,
        "url": "https://streamingv2.shoutcast.com/jembefm",
        "tags": [
         "news_talk",
@@ -1263,6 +1445,7 @@
       },
       {
        "name": "Jembe FM 93.7",
+       "active": 0,
        "url": "https://streamingv2.shoutcast.com/jembe-fm",
        "tags": [
         "news_talk",
@@ -1272,6 +1455,7 @@
       },
       {
        "name": "Jitambueforums Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/mrrmbnnueqjtv",
        "tags": [
         "news_talk",
@@ -1280,6 +1464,7 @@
       },
       {
        "name": "Kahama FM radio",
+       "active": 0,
        "url": "http://78.129.193.82:22798/",
        "tags": [
         "news_talk",
@@ -1289,6 +1474,7 @@
       },
       {
        "name": "KGT Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/p46rpn6cyy8uv",
        "tags": [
         "news_talk",
@@ -1300,6 +1486,7 @@
       },
       {
        "name": "KGT Radio Listen live",
+       "active": 0,
        "url": "https://listen.openstream.co/5874",
        "tags": [
         "news_talk",
@@ -1310,15 +1497,18 @@
       },
       {
        "name": "KILI FM RADIO 87.",
+       "active": 0,
        "url": "http://streamlive1.hearthis.at:8080/9436790.ogg",
        "language_inferred": true
       },
       {
        "name": "Kipiti Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/7ebq5q3tcv8uv"
       },
       {
        "name": "Kyela Fm Radio 96.1 Mhz Mbeya",
+       "active": 0,
        "url": "https://edge.mixlr.com/channel/ehipp",
        "tags": [
         "news_talk",
@@ -1327,15 +1517,18 @@
       },
       {
        "name": "Magic FM",
+       "active": 0,
        "url": "http://ca5.rcast.net:8056/stream.mp3"
       },
       {
        "name": "Malula FM Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/rkyantx08r5uv",
        "language_inferred": true
       },
       {
        "name": "Mazingira FM",
+       "active": 0,
        "url": "https://radiotadio.co.tz/mazingira-fm-stream",
        "tags": [
         "news_talk",
@@ -1344,6 +1537,7 @@
       },
       {
        "name": "Moshi FM Radio",
+       "active": 0,
        "url": "https://freeuk22.listen2myradio.com/live.mp3?typeportmount=s1_38514_stream_92270880stream.nsv",
        "tags": [
         "news_talk",
@@ -1357,6 +1551,7 @@
       },
       {
        "name": "Mtegani FM",
+       "active": 0,
        "url": "https://radiotadio.co.tz/mtegani-fm-stream",
        "tags": [
         "news_talk",
@@ -1365,6 +1560,7 @@
       },
       {
        "name": "MUSTLEAD ONLINE RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/b5my1dvyaphvv",
        "tags": [
         "news_talk",
@@ -1374,15 +1570,18 @@
       },
       {
        "name": "Mwalukasa Fm Radio",
+       "active": 0,
        "url": "https://stream-43.zeno.fm/3gtan29ag0hvv"
       },
       {
        "name": "Mwalukasa Fm Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/3gtan29ag0hvv",
        "language_inferred": true
       },
       {
        "name": "Nuru FM",
+       "active": 0,
        "url": "https://radiotadio.co.tz/nuru-fm-stream",
        "tags": [
         "news_talk",
@@ -1392,6 +1591,7 @@
       },
       {
        "name": "Pamoja FM Radio 98.5",
+       "active": 0,
        "url": "http://41.212.105.132:90/broadwave.mp3?src=1&amprate=1&ampref=",
        "tags": [
         "various_eclectic",
@@ -1401,6 +1601,7 @@
       },
       {
        "name": "Pangani FM",
+       "active": 0,
        "url": "https://radiotadio.co.tz/pangani-fm-stream",
        "tags": [
         "news_talk",
@@ -1409,6 +1610,7 @@
       },
       {
        "name": "PASSION FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/m1ser7qqsnhvv",
        "tags": [
         "news_talk",
@@ -1422,6 +1624,7 @@
       },
       {
        "name": "Passion Fm 96.1",
+       "active": 0,
        "url": "https://stream-47.zeno.fm/9f8pg7qqsnhvv",
        "tags": [
         "pop_hits",
@@ -1430,6 +1633,7 @@
       },
       {
        "name": "Passion Fm 96.1 radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/9f8pg7qqsnhvv",
        "tags": [
         "pop_hits",
@@ -1438,6 +1642,7 @@
       },
       {
        "name": "Pemba Live Radio",
+       "active": 0,
        "url": "https://streaming.radio.co/s9412c4508/listen",
        "tags": [
         "news_talk",
@@ -1446,6 +1651,7 @@
       },
       {
        "name": "PLANETFM",
+       "active": 0,
        "url": "http://c20.radioboss.fm:8080/stream",
        "tags": [
         "news_talk",
@@ -1456,6 +1662,7 @@
       },
       {
        "name": "Radio 5 FM",
+       "active": 0,
        "url": "http://41.59.200.210:8000/stream",
        "tags": [
         "news_talk",
@@ -1466,6 +1673,7 @@
       },
       {
        "name": "Radio Free Africa",
+       "active": 0,
        "url": "https://s3.radio.co/s8df0149e0/listen",
        "tags": [
         "news_talk",
@@ -1475,11 +1683,13 @@
       },
       {
        "name": "Radio Free Africa",
+       "active": 0,
        "url": "http://noasrv.caster.fm:10183/live",
        "language_inferred": true
       },
       {
        "name": "Radio Kicheko Live",
+       "active": 0,
        "url": "https://stream-32.zeno.fm/hg18dkfn1v8uv",
        "tags": [
         "news_talk",
@@ -1489,6 +1699,7 @@
       },
       {
        "name": "Radio Kicheko Live radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/hg18dkfn1v8uv",
        "tags": [
         "news_talk",
@@ -1499,6 +1710,7 @@
       },
       {
        "name": "Radio Kwizera",
+       "active": 0,
        "url": "http://uk4-vn.mixstream.net:8052/",
        "tags": [
         "news_talk",
@@ -1510,6 +1722,7 @@
       },
       {
        "name": "Radio Kwizera",
+       "active": 0,
        "url": "http://uk4-vn.mixstream.net:8052/listen.mp3",
        "tags": [
         "news_talk",
@@ -1519,6 +1732,7 @@
       },
       {
        "name": "Radio Mbiu",
+       "active": 0,
        "url": "http://dreamsiteradiocp5.com:8004/stream.mp3",
        "tags": [
         "news_talk",
@@ -1527,10 +1741,12 @@
       },
       {
        "name": "Radio Ngamia",
+       "active": 0,
        "url": "https://stream.zeno.fm/tyri2rpbpzwtv"
       },
       {
        "name": "Radio One Stereo",
+       "active": 0,
        "url": "https://radioonetanzania.radioca.st/stream",
        "tags": [
         "news_talk",
@@ -1542,16 +1758,19 @@
       },
       {
        "name": "Rafiki FM radio",
+       "active": 0,
        "url": "http://109.169.76.155:27736/",
        "language_inferred": true
       },
       {
        "name": "Sachita FM 88.1 MHz radio",
+       "active": 0,
        "url": "https://sachitaradio.or.tz/80.php",
        "language_inferred": true
       },
       {
        "name": "Safari Media",
+       "active": 0,
        "url": "http://41.59.206.28:88/broadwave.mp3",
        "tags": [
         "news_talk",
@@ -1563,6 +1782,7 @@
       },
       {
        "name": "Safina Radio",
+       "active": 0,
        "url": "http://s9.myradiostream.com:46284/listen.mp3",
        "tags": [
         "news_talk",
@@ -1571,6 +1791,7 @@
       },
       {
        "name": "Salvation Radio",
+       "active": 0,
        "url": "http://212.84.160.187:37841/stream.nsv",
        "tags": [
         "news_talk",
@@ -1580,6 +1801,7 @@
       },
       {
        "name": "Savvy FM Arusha",
+       "active": 0,
        "url": "https://stream-42.zeno.fm/tkh85wpzznhvv",
        "tags": [
         "news_talk",
@@ -1588,6 +1810,7 @@
       },
       {
        "name": "Savvy FM Arusha radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/tkh85wpzznhvv",
        "tags": [
         "news_talk",
@@ -1596,6 +1819,7 @@
       },
       {
        "name": "SHABA FM radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/frtk6234qxhvv",
        "tags": [
         "news_talk",
@@ -1604,6 +1828,7 @@
       },
       {
        "name": "Shamba Fm Radio",
+       "active": 0,
        "url": "https://edge.mixlr.com/channel/facqu",
        "tags": [
         "news_talk",
@@ -1613,6 +1838,7 @@
       },
       {
        "name": "Shamba Fm Radio",
+       "active": 0,
        "url": "https://shambafm.co.tz/",
        "tags": [
         "news_talk",
@@ -1622,6 +1848,7 @@
       },
       {
        "name": "Standard Radio",
+       "active": 0,
        "url": "http://s26.myradiostream.com:19546/listen.m4a",
        "tags": [
         "news_talk",
@@ -1630,6 +1857,7 @@
       },
       {
        "name": "Storm FM 88.9 radio",
+       "active": 0,
        "url": "http://199.115.115.71:10018/stream",
        "tags": [
         "pop_hits",
@@ -1639,6 +1867,7 @@
       },
       {
        "name": "Street One Radio",
+       "active": 0,
        "url": "https://listen.openstream.co/5234/audio",
        "tags": [
         "news_talk",
@@ -1652,11 +1881,13 @@
       },
       {
        "name": "Tasisi FM Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/bmzisyaqdsruv",
        "language_inferred": true
       },
       {
        "name": "TBC FM",
+       "active": 0,
        "url": "http://s12.myradiostream.com:4574",
        "tags": [
         "various_eclectic",
@@ -1665,6 +1896,7 @@
       },
       {
        "name": "TBC Taifa",
+       "active": 0,
        "url": "http://69.30.201.166:8080/",
        "tags": [
         "news_talk",
@@ -1675,6 +1907,7 @@
       },
       {
        "name": "TBC Taifa radio",
+       "active": 0,
        "url": "https://a4.asurahosting.com:8210/radio.mp3",
        "tags": [
         "news_talk",
@@ -1685,6 +1918,7 @@
       },
       {
        "name": "TFF Radio",
+       "active": 0,
        "url": "https://edge.mixlr.com/channel/ofrkn",
        "tags": [
         "news_talk",
@@ -1694,6 +1928,7 @@
       },
       {
        "name": "The Base FM",
+       "active": 0,
        "url": "http://83.142.226.45:13178/",
        "tags": [
         "various_eclectic",
@@ -1703,6 +1938,7 @@
       },
       {
        "name": "Times FM",
+       "active": 0,
        "url": "http://154.66.224.11:8000/Timesfm",
        "tags": [
         "news_talk",
@@ -1714,6 +1950,7 @@
       },
       {
        "name": "Tk Fm 88.5 Tanga radio",
+       "active": 0,
        "url": "http://207.244.66.85:11953/stream.mp3",
        "tags": [
         "news_talk",
@@ -1725,6 +1962,7 @@
       },
       {
        "name": "TK Radio",
+       "active": 0,
        "url": "http://109.169.76.104:10548/stream.mp3",
        "tags": [
         "news_talk",
@@ -1735,6 +1973,7 @@
       },
       {
        "name": "Tower Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/3bllsdnvrnvvv",
        "tags": [
         "news_talk",
@@ -1744,6 +1983,7 @@
       },
       {
        "name": "Triple A FM",
+       "active": 0,
        "url": "https://radiotadio.co.tz/triple-a-fm-stream",
        "tags": [
         "news_talk",
@@ -1752,6 +1992,7 @@
       },
       {
        "name": "Tunduma FM Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/c3q1ab7b2hhvv",
        "tags": [
         "news_talk",
@@ -1760,6 +2001,7 @@
       },
       {
        "name": "UFM Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/nzr36a3un0hvv",
        "tags": [
         "news_talk",
@@ -1768,6 +2010,7 @@
       },
       {
        "name": "Uhuru FM",
+       "active": 0,
        "url": "https://s33.myradiostream.com/15450/listen.mp3",
        "tags": [
         "news_talk",
@@ -1778,6 +2021,7 @@
       },
       {
        "name": "Uhuru FM radio",
+       "active": 0,
        "url": "https://s5.myradiostream.com/42756/listen.mp3",
        "tags": [
         "news_talk",
@@ -1788,15 +2032,18 @@
       },
       {
        "name": "Uplands Fm Radio",
+       "active": 0,
        "url": "http://uk12freenew.listen2myradio.com:28587/stream.nsv",
        "language_inferred": true
       },
       {
        "name": "Uplands Fm Radio",
+       "active": 0,
        "url": "https://onlineradiobox.com/json/tz/uplands/play?platform=web"
       },
       {
        "name": "Uyui FM Radio",
+       "active": 0,
        "url": "https://radiotadio.co.tz/uyui-fm-stream",
        "tags": [
         "news_talk",
@@ -1805,11 +2052,13 @@
       },
       {
        "name": "Voice FM radio",
+       "active": 0,
        "url": "https://onlineradiobox.com/json/tz/voice/play?platform=web",
        "language_inferred": true
       },
       {
        "name": "VOT FM radio",
+       "active": 0,
        "url": "http://50.7.99.163:16454/stream",
        "tags": [
         "news_talk",
@@ -1819,6 +2068,7 @@
       },
       {
        "name": "Zenji FM",
+       "active": 0,
        "url": "https://radiotadio.co.tz/zenji-fm-stream",
        "tags": [
         "pop_hits",
@@ -1827,6 +2077,7 @@
       },
       {
        "name": "Zoe FM Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/uozuugk1essuv",
        "tags": [
         "news_talk",
@@ -1841,6 +2092,7 @@
      "stations": [
       {
        "name": "Standard Radio TZ",
+       "active": 0,
        "url": "http://5.39.82.219:19546/",
        "tags": [
         "news_talk",
@@ -1855,31 +2107,37 @@
      "stations": [
       {
        "name": "+255Global Radio",
+       "active": 0,
        "url": "https://zas7.ndx.co.za:8026/stream?1595737034573",
        "language_inferred": true
       },
       {
        "name": "87.9 Planet FM",
+       "active": 0,
        "url": "http://eu3.radioboss.fm:8088/stream",
        "language_inferred": true
       },
       {
        "name": "Baraka FM 107.7",
+       "active": 0,
        "url": "http://69.30.218.190:29966/",
        "language_inferred": true
       },
       {
        "name": "Baraza Radio",
+       "active": 0,
        "url": "http://116.202.214.140:16074/",
        "language_inferred": true
       },
       {
        "name": "CFM Radio 103.3",
+       "active": 0,
        "url": "http://18.192.213.17:9000/cfm",
        "language_inferred": true
       },
       {
        "name": "Clouds FM",
+       "active": 0,
        "url": "http://eu6.fastcast4u.com:5306/",
        "tags": [
         "pop_hits",
@@ -1893,6 +2151,7 @@
       },
       {
        "name": "Clouds FM",
+       "active": 0,
        "url": "http://178.32.146.186:5306/stream/",
        "tags": [
         "pop_hits",
@@ -1902,21 +2161,25 @@
       },
       {
        "name": "Colors Connect Radio",
+       "active": 0,
        "url": "https://colorsconnect.out.airtime.pro/colorsconnect_a",
        "language_inferred": true
       },
       {
        "name": "Eku Fm",
+       "active": 0,
        "url": "https://stream-42.zeno.fm/yazm2pc8schvv?zs=pfzGkDb8RwOHpJRRKGATRw&aw_0_req_lsid=a15a6ac43bd546357a69053d50aa8a04&an-uid=3747084794091347951&triton-uid=cookie%3A5d92f4be-6eaf-4f11-a180-5dcd6113f169",
        "language_inferred": true
       },
       {
        "name": "Key FM 90.5",
+       "active": 0,
        "url": "http://s1.streamaudio.de:8000/key-fm",
        "language_inferred": true
       },
       {
        "name": "Kiss FM Tanzania Listen live",
+       "active": 0,
        "url": "https://s3.radio.co/sbe50ddddb/listen",
        "tags": [
         "pop_hits",
@@ -1927,25 +2190,30 @@
       },
       {
        "name": "Moro Online Radio",
+       "active": 0,
        "url": "https://node-04.zeno.fm/15vv25cpg5zuv?rj-ttl=5&amprj-tok=AAABc9FTX-0A3YwPmJT1FFbtBA",
        "language_inferred": true
       },
       {
        "name": "Moro Online Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/15vv25cpg5zuv"
       },
       {
        "name": "Mziki Mzuri Online Radio",
+       "active": 0,
        "url": "http://50.22.218.101/stream.mp3?ipport=50.22.218.101_22147",
        "language_inferred": true
       },
       {
        "name": "Newala FM Radio",
+       "active": 0,
        "url": "http://87.117.201.152:5468/",
        "language_inferred": true
       },
       {
        "name": "Pangani FM",
+       "active": 0,
        "url": "http://s23.myradiostream.com:17150/listen.mp3",
        "tags": [
         "pop_hits",
@@ -1955,26 +2223,31 @@
       },
       {
        "name": "Rasi Fm Tz",
+       "active": 0,
        "url": "http://78.129.224.19/stream.mp3?ipport=78.129.224.19_4777",
        "language_inferred": true
       },
       {
        "name": "Starter Gospel Radio",
+       "active": 0,
        "url": "http://78.129.175.157:14609/starterfm",
        "language_inferred": true
       },
       {
        "name": "Station Beta Africa, Dodoma radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/nrskiapm9qpvv",
        "language_inferred": true
       },
       {
        "name": "Station Beta, Dar es Salaam radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/zr2aezq05hhvv",
        "language_inferred": true
       },
       {
        "name": "street One radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/d3as2fmadnruv",
        "tags": [
         "pop_hits",
@@ -1992,11 +2265,13 @@
       },
       {
        "name": "TBC Taifa",
+       "active": 0,
        "url": "http://usa9-vn.webcast-server.net:8080/",
        "language_inferred": true
       },
       {
        "name": "Uhuru FM Listen live",
+       "active": 0,
        "url": "https://uhurumedia.co.tz:8000/server",
        "language_inferred": true
       }
@@ -2007,6 +2282,7 @@
      "stations": [
       {
        "name": "Bongo Radio East African Music",
+       "active": 0,
        "url": "http://bongoradio.com:8000/african.mp3",
        "tags": [
         "reggae_ska",
@@ -2017,6 +2293,7 @@
       },
       {
        "name": "Boomshot Online Radio",
+       "active": 0,
        "url": "https://boomshotmedia.out.airtime.pro/boomshotmedia_a",
        "tags": [
         "pop_hits",
@@ -2032,6 +2309,7 @@
      "stations": [
       {
        "name": "Afya Radio Fm",
+       "active": 0,
        "url": "https://cast4.my-control-panel.com/proxy/afyaradi/stream",
        "tags": [
         "rock",
@@ -2045,6 +2323,7 @@
       },
       {
        "name": "E-FM Radio",
+       "active": 0,
        "url": "http://107.182.231.73:7127/efm",
        "tags": [
         "pop_hits",
@@ -2053,6 +2332,7 @@
       },
       {
        "name": "Pride FM",
+       "active": 0,
        "url": "http://38.107.243.99:8001/stream"
       }
      ]
@@ -2062,6 +2342,7 @@
      "stations": [
       {
        "name": "Bongo Radio",
+       "active": 0,
        "url": "http://bongoradio.com:8000/bongo.mp3",
        "tags": [
         "soul_rnb_funk",
@@ -2072,6 +2353,7 @@
       },
       {
        "name": "Bongo Radio – Taarab Mduara Channel",
+       "active": 0,
        "url": "http://bongoradio.com:9000/taarab.mp3",
        "tags": [
         "reggae_ska",
@@ -2082,6 +2364,7 @@
       },
       {
        "name": "Jogoo FM radio",
+       "active": 0,
        "url": "http://us5freenew.listen2myradio.com:7006/stream.nsv",
        "tags": [
         "soul_rnb_funk",
@@ -2091,6 +2374,7 @@
       },
       {
        "name": "Kings FM Radio",
+       "active": 0,
        "url": "http://41.59.209.43:8000/stream",
        "tags": [
         "soul_rnb_funk",
@@ -2101,11 +2385,13 @@
       },
       {
        "name": "LD Radio",
+       "active": 0,
        "url": "http://78.129.224.11:3932/stream.rato",
        "language_inferred": true
       },
       {
        "name": "Sheddy's New Look radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/vqnyakyfpkhvv",
        "tags": [
         "soul_rnb_funk",
@@ -2115,6 +2401,7 @@
       },
       {
        "name": "wasafi Fm - 88.9",
+       "active": 0,
        "url": "https://streamingv2.shoutcast.com/889-wasafi-fm",
        "tags": [
         "soul_rnb_funk",
@@ -2130,41 +2417,49 @@
      "stations": [
       {
        "name": "Demoon Fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/gzzseq2f8f0uv",
        "language_inferred": true
       },
       {
        "name": "E Sports Online",
+       "active": 0,
        "url": "https://stream.zeno.fm/qq2taz9rv4zuv",
        "language_inferred": true
       },
       {
        "name": "Geniminic FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/anxub1wyty8uv",
        "language_inferred": true
       },
       {
        "name": "Hamisado fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/ub751s4e6a0uv",
        "language_inferred": true
       },
       {
        "name": "MAURUS FM RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/67k9xm31tchvv",
        "language_inferred": true
       },
       {
        "name": "Rane sport",
+       "active": 0,
        "url": "https://stream.zeno.fm/duaxdh2ue48uv",
        "language_inferred": true
       },
       {
        "name": "SMG FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/osp9zs2cwtquv",
        "language_inferred": true
       },
       {
        "name": "TFF Online Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/9q0rr918by8uv"
       }
      ]
@@ -2174,6 +2469,7 @@
      "stations": [
       {
        "name": "255 Global Radio Listen live",
+       "active": 0,
        "url": "https://zas7.ndx.co.za:8026/stream?1596752167644",
        "tags": [
         "techno",
@@ -2189,75 +2485,90 @@
      "stations": [
       {
        "name": "AL Noor FM 93.3 Zanzibar",
+       "active": 0,
        "url": "http://edge.mixlr.com/channel/rgaoe",
        "language_inferred": true
       },
       {
        "name": "Arushaone FM",
+       "active": 0,
        "url": "http://109.169.14.36:29288/stream",
        "language_inferred": true
       },
       {
        "name": "Bongo - African Grooves Channel",
+       "active": 0,
        "url": "http://bongoradio.com:9000/dance.mp3",
        "language_inferred": true
       },
       {
        "name": "CG FM Radio",
+       "active": 0,
        "url": "http://ca10.rcast.net:8034/stream.mp3?1582359800098",
        "language_inferred": true
       },
       {
        "name": "Choice FM 102.6",
+       "active": 0,
        "url": "http://51.255.235.165:5362/",
        "language_inferred": true
       },
       {
        "name": "Chuchu FM",
+       "active": 0,
        "url": "https://streamlive1.hearthis.at:8080/9170471.ogg"
       },
       {
        "name": "Dar FM Radio",
+       "active": 0,
        "url": "http://streaming.radionomy.com/DarFmRadio",
        "language_inferred": true
       },
       {
        "name": "Deep FM TZ",
+       "active": 0,
        "url": "https://www.radioking.com/play/deepfmtz",
        "language_inferred": true
       },
       {
        "name": "Kasibante FM 88.5",
+       "active": 0,
        "url": "http://78.129.193.82:4177/",
        "language_inferred": true
       },
       {
        "name": "Kipiti Radio Listen live",
+       "active": 0,
        "url": "https://listen.openstream.co/6412/",
        "language_inferred": true
       },
       {
        "name": "Radio Kicheko Live",
+       "active": 0,
        "url": "http://142.4.223.16:8500/stream.mp3?ver=936675",
        "language_inferred": true
       },
       {
        "name": "Starter Gospel Radio",
+       "active": 0,
        "url": "https://freeuk18.listen2myradio.com/live.mp3?typeportmount=s1_9075_stream",
        "language_inferred": true
       },
       {
        "name": "Tanga Radio FM",
+       "active": 0,
        "url": "http://87.117.197.33:14694/",
        "language_inferred": true
       },
       {
        "name": "TBC FM",
+       "active": 0,
        "url": "http://s12.myradiostream.com:4574/?1503738824198",
        "language_inferred": true
       },
       {
        "name": "ZBC FM",
+       "active": 0,
        "url": "https://streaming.shoutcast.com/zbcradio"
       }
      ]
@@ -2267,11 +2578,13 @@
      "stations": [
       {
        "name": "Boresha Radio",
+       "active": 0,
        "url": "https://azura.shoutca.st/listen/radio_boresha/radio.mp3",
        "language_inferred": true
       },
       {
        "name": "Boresha Radio",
+       "active": 0,
        "url": "http://boresha.online:8000/_a",
        "tags": [
         "world",
@@ -2282,19 +2595,23 @@
       },
       {
        "name": "Boresha Radio",
+       "active": 0,
        "url": "https://onlineradiobox.com/json/tz/boresha/play?platform=web"
       },
       {
        "name": "CG Radio FM",
+       "active": 0,
        "url": "http://ca9.rcast.net:8052/stream.mp3"
       },
       {
        "name": "Chabo",
+       "active": 0,
        "url": "http://stream.zeno.fm/2qc80wh5srhvv",
        "language_inferred": true
       },
       {
        "name": "Clouds FM",
+       "active": 0,
        "url": "https://eu6.fastcast4u.com/proxy/cloudsfm?mp=/1",
        "tags": [
         "pop_hits",
@@ -2304,6 +2621,7 @@
       },
       {
        "name": "Colors Connect radio",
+       "active": 0,
        "url": "https://listen.colorsconnect.radio/listen/colors_connect_online_radio/radio.mp3",
        "tags": [
         "world",
@@ -2317,6 +2635,7 @@
       },
       {
        "name": "Darasa online Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/2g28317yr5quv",
        "tags": [
         "world",
@@ -2325,11 +2644,13 @@
       },
       {
        "name": "KGT Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/2ydchn6cyy8uv",
        "language_inferred": true
       },
       {
        "name": "Kings FM Radio",
+       "active": 0,
        "url": "https://kingsfm.radioca.st/stream",
        "tags": [
         "pop_hits",
@@ -2340,28 +2661,34 @@
       },
       {
        "name": "Magic FM",
+       "active": 0,
        "url": "http://184.154.202.243:8160/magicfm"
       },
       {
        "name": "Mashujaa FM",
+       "active": 0,
        "url": "https://mashujaaaa.out.airtime.pro/mashujaaaa_a"
       },
       {
        "name": "Midundo Online Radio",
+       "active": 0,
        "url": "http://midundo.fauluhost.co.tz:8000/_a",
        "language_inferred": true
       },
       {
        "name": "Midundo Online Radio",
+       "active": 0,
        "url": "https://onlineradiobox.com/json/tz/midundoonline/play?platform=web"
       },
       {
        "name": "Radio Mbao",
+       "active": 0,
        "url": "http://173.192.70.138:8040/stream",
        "language_inferred": true
       },
       {
        "name": "Radio Ngamia",
+       "active": 0,
        "url": "https://stream.zeno.fm/41e3gsdgmdouv",
        "tags": [
         "pop_hits",
@@ -2371,6 +2698,7 @@
       },
       {
        "name": "Radio Safina",
+       "active": 0,
        "url": "http://s14.myradiostream.com:7838/",
        "tags": [
         "pop_hits",
@@ -2381,6 +2709,7 @@
       },
       {
        "name": "RadioOne",
+       "active": 0,
        "url": "http://radioonetanzania.radioca.st:8854/stream",
        "tags": [
         "world",
@@ -2390,20 +2719,24 @@
       },
       {
        "name": "Rogue Fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/s7zqh0mk0hhvv",
        "language_inferred": true
       },
       {
        "name": "Safina Radio",
+       "active": 0,
        "url": "http://s9.myradiostream.com:46284/",
        "language_inferred": true
       },
       {
        "name": "Sibuka FM",
+       "active": 0,
        "url": "http://38.107.243.99:8028/stream"
       },
       {
        "name": "Times FM",
+       "active": 0,
        "url": "http://41.221.55.86:8000/Timesfm",
        "tags": [
         "pop_hits",
@@ -2415,6 +2748,7 @@
       },
       {
        "name": "Unlock Radio",
+       "active": 0,
        "url": "http://www.unlockmedia.co.tz:8000/airtime_128",
        "tags": [
         "world",
@@ -2424,6 +2758,7 @@
       },
       {
        "name": "Voice of Tabora Radio (VOT)",
+       "active": 0,
        "url": "http://192.184.9.79:8084",
        "tags": [
         "world",
@@ -2437,2521 +2772,3041 @@
      "stations": [
       {
        "name": "309 ONLINE RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/c1zrta7mlnivv",
        "language_inferred": true
       },
       {
        "name": "87.5 PLANETFM",
+       "active": 0,
        "url": "https://node-29.zeno.fm/ccvp8duf4uhvv",
        "language_inferred": true
       },
       {
        "name": "87.5 PLANETFM",
+       "active": 0,
        "url": "https://stream.zeno.fm/ccvp8duf4uhvv",
        "language_inferred": true
       },
       {
        "name": "91.3 Mhz  Taabora fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/hdcaqdpkuovtv",
        "language_inferred": true
       },
       {
        "name": "93.5 Mhz Bariadi Fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/plukadrdxwruv",
        "language_inferred": true
       },
       {
        "name": "98.1 Hope FM Iringa",
+       "active": 0,
        "url": "https://node-16.zeno.fm/um3eu3tbrchvv",
        "language_inferred": true
       },
       {
        "name": "A4 RADIO 255",
+       "active": 0,
        "url": "https://node-16.zeno.fm/q0mhfqacmzzuv",
        "language_inferred": true
       },
       {
        "name": "A4 RADIO 255",
+       "active": 0,
        "url": "https://stream.zeno.fm/q0mhfqacmzzuv",
        "language_inferred": true
       },
       {
        "name": "ABC Global Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/tvb2jrc38hmuv"
       },
       {
        "name": "Abiud FM",
+       "active": 0,
        "url": "https://stream-45.zeno.fm/4vdczx55g18uv",
        "language_inferred": true
       },
       {
        "name": "ABOOD FM 88.3",
+       "active": 0,
        "url": "http://108.59.9.147:8094/",
        "language_inferred": true
       },
       {
        "name": "Abood Radio – Dar es Salaam – TZ",
+       "active": 0,
        "url": "http://198.154.112.230:8020/stream?type=.mp3/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Abrana radio online",
+       "active": 0,
        "url": "https://stream.zeno.fm/e5v9y2hrzwzuv"
       },
       {
        "name": "Abrana radio online",
+       "active": 0,
        "url": "https://stream.zeno.fm/ee2ndcyrzwzuv",
        "language_inferred": true
       },
       {
        "name": "ABULFADHWL",
+       "active": 0,
        "url": "https://stream-42.zeno.fm/zpbn3xhp168uv",
        "language_inferred": true
       },
       {
        "name": "ABULFADHWL",
+       "active": 0,
        "url": "https://stream.zeno.fm/zpbn3xhp168uv",
        "language_inferred": true
       },
       {
        "name": "Abuu Azhari",
+       "active": 0,
        "url": "https://stream.zeno.fm/sjyxggyt83juv",
        "language_inferred": true
       },
       {
        "name": "Abuu Shawkaan",
+       "active": 0,
        "url": "https://stream.zeno.fm/88ynsgbewnhvv",
        "language_inferred": true
       },
       {
        "name": "Abuu Shuraymu Radio",
+       "active": 0,
        "url": "https://node-30.zeno.fm/4zs24uhakuhvv",
        "language_inferred": true
       },
       {
        "name": "Abuu Shuraymu Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/4zs24uhakuhvv",
        "language_inferred": true
       },
       {
        "name": "academic Fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/p84xa4qh9x8uv",
        "language_inferred": true
       },
       {
        "name": "ACC TANZANIA",
+       "active": 0,
        "url": "https://stream.zeno.fm/xs8ij7vk8vuvv"
       },
       {
        "name": "Access Fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/2ewgwkf2u93vv",
        "language_inferred": true
       },
       {
        "name": "Access Fm 100.9",
+       "active": 0,
        "url": "https://freeuk10.listen2myradio.com/live.mp3?typeportmount=s1_27397_stream",
        "language_inferred": true
       },
       {
        "name": "Access FM Tz – TZ-14",
+       "active": 0,
        "url": "http://109.169.76.104:32890/",
        "language_inferred": true
       },
       {
        "name": "Adek Streams",
+       "active": 0,
        "url": "https://stream.zeno.fm/prtaneqgephvv",
        "language_inferred": true
       },
       {
        "name": "AFRICA INTERNET RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/b1n9xcmu88quv"
       },
       {
        "name": "African Music Now",
+       "active": 0,
        "url": "http://stream.radio.co/sdb96b0103/listen",
        "language_inferred": true
       },
       {
        "name": "Africastar radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/8xz2qqzdup8uv",
        "language_inferred": true
       },
       {
        "name": "Afrika Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/k4vhbk6bwp8uv",
        "language_inferred": true
       },
       {
        "name": "Ago Fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/0fwt89bcz4zuv",
        "language_inferred": true
       },
       {
        "name": "AHillCity",
+       "active": 0,
        "url": "https://node-27.zeno.fm/3wtq2cwgpchvv",
        "language_inferred": true
       },
       {
        "name": "AHillCity",
+       "active": 0,
        "url": "https://stream.zeno.fm/3wtq2cwgpchvv",
        "language_inferred": true
       },
       {
        "name": "AHLUL-HAQI ONLINE RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/86bsat19bkhvv",
        "language_inferred": true
       },
       {
        "name": "AJITE FM RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/wcb4hyenwk9vv",
        "language_inferred": true
       },
       {
        "name": "Ajite Radio",
+       "active": 0,
        "url": "https://stream-54.zeno.fm/a985c3mvxc9uv",
        "language_inferred": true
       },
       {
        "name": "AJITE RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/vyrbn2yfs0hvv",
        "language_inferred": true
       },
       {
        "name": "Akili Music Online",
+       "active": 0,
        "url": "http://stream.streamaudio.de:8000/zbc-radio",
        "language_inferred": true
       },
       {
        "name": "Al Hilaaly Online Radio",
+       "active": 0,
        "url": "https://node-27.zeno.fm/srwvzehwaphvv",
        "language_inferred": true
       },
       {
        "name": "Amazing Grace Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/3e1a708xgxhvv"
       },
       {
        "name": "Anathot fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/syrkqdevqfhvv"
       },
       {
        "name": "AREYRADIOARUSHA",
+       "active": 0,
        "url": "https://stream.zeno.fm/88shkumyrzzuv",
        "language_inferred": true
       },
       {
        "name": "arj.radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/k87cyhvyfkhvv",
        "language_inferred": true
       },
       {
        "name": "Badilisha Fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/1gfrxr540xhvv",
        "language_inferred": true
       },
       {
        "name": "Balozi Radio",
+       "active": 0,
        "url": "https://node-14.zeno.fm/x0m9cgk1nfhvv",
        "language_inferred": true
       },
       {
        "name": "BALOZI RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/at1d8fk1nfhvv"
       },
       {
        "name": "BELL FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/kzzv2frym18uv",
        "language_inferred": true
       },
       {
        "name": "Belvic  Radio Station",
+       "active": 0,
        "url": "https://stream.zeno.fm/mquee04acm8uv",
        "language_inferred": true
       },
       {
        "name": "Belvic FM",
+       "active": 0,
        "url": "https://node-12.zeno.fm/zznv8uccz98uv",
        "language_inferred": true
       },
       {
        "name": "Belvic Fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/zznv8uccz98uv"
       },
       {
        "name": "Belvic Radio Station",
+       "active": 0,
        "url": "https://node-35.zeno.fm/mquee04acm8uv",
        "language_inferred": true
       },
       {
        "name": "Bethel Radio (RW)",
+       "active": 0,
        "url": "http://178.32.62.154:8020/stream2"
       },
       {
        "name": "Bexi fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/ff32zv9ag0hvv",
        "language_inferred": true
       },
       {
        "name": "BFM 92.5 – 92.5 FM – Bukoba – TZ-05",
+       "active": 0,
        "url": "http://s42.myradiostream.com:34724/listen.mp3",
        "language_inferred": true
       },
       {
        "name": "BIgbros Radio",
+       "active": 0,
        "url": "https://node-12.zeno.fm/8edd2d8z8p8uv",
        "language_inferred": true
       },
       {
        "name": "BigBros Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/v3ey7ynkqd0uv",
        "language_inferred": true
       },
       {
        "name": "BIgbros Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/8edd2d8z8p8uv",
        "language_inferred": true
       },
       {
        "name": "Bitcoin Africa Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/evtw2876bxhvv",
        "language_inferred": true
       },
       {
        "name": "Black Rich Radio",
+       "active": 0,
        "url": "https://node-26.zeno.fm/ck1xckaz4k8uv",
        "language_inferred": true
       },
       {
        "name": "BLACK RICH RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/ck1xckaz4k8uv",
        "language_inferred": true
       },
       {
        "name": "BLOGGERBOY FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/pvm13mmp1uhvv",
        "language_inferred": true
       },
       {
        "name": "BMG fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/1ft9fayhh98uv",
        "language_inferred": true
       },
       {
        "name": "Bongo Bright Online Radio",
+       "active": 0,
        "url": "https://node-29.zeno.fm/fzaw3bbz1ehvv",
        "language_inferred": true
       },
       {
        "name": "Bongo bright radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/6dxv2y6kzchvv",
        "language_inferred": true
       },
       {
        "name": "Bongo Radio - East African Music Channel",
+       "active": 0,
        "url": "http://bongoradio.com:9000/african.mp3",
        "language_inferred": true
       },
       {
        "name": "Bongo Vibez",
+       "active": 0,
        "url": "https://stream.zeno.fm/0vuosqvr75ltv",
        "language_inferred": true
       },
       {
        "name": "Bongobright online radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/21pen6c45bhvv",
        "language_inferred": true
       },
       {
        "name": "BongoFlix Fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/qpbe3mcykc9uv",
        "language_inferred": true
       },
       {
        "name": "Bossan_online podcast",
+       "active": 0,
        "url": "https://stream.zeno.fm/2ka2ykk0bfhvv",
        "language_inferred": true
       },
       {
        "name": "Brand Genesis Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/5aa0fsuvb0hvv",
        "language_inferred": true
       },
       {
        "name": "Bridge FM",
+       "active": 0,
        "url": "https://node-29.zeno.fm/egw7ewzh0hhvv",
        "language_inferred": true
       },
       {
        "name": "BUNDA FM – Bunda – TZ-13",
+       "active": 0,
        "url": "http://178.79.158.160/stream/bundafm.pls?mp=/stream",
        "language_inferred": true
       },
       {
        "name": "CARE OB",
+       "active": 0,
        "url": "https://stream.zeno.fm/bolydetbmceuv",
        "language_inferred": true
       },
       {
        "name": "CARE RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/jr9tewjlrgjtv",
        "language_inferred": true
       },
       {
        "name": "CG FM Radio",
+       "active": 0,
        "url": "http://live2.rcast.net:8590/stream",
        "language_inferred": true
       },
       {
        "name": "CG FM RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/nw7xchwf4uhvv",
        "language_inferred": true
       },
       {
        "name": "CG Radio FM – 89.5 FM – TZ-24",
+       "active": 0,
        "url": "http://ca10.rcast.net:8034/",
        "language_inferred": true
       },
       {
        "name": "Chabo Online Radio",
+       "active": 0,
        "url": "https://stream-42.zeno.fm/3nv1wwh5srhvv",
        "language_inferred": true
       },
       {
        "name": "Chaboz Online Radio",
+       "active": 0,
        "url": "https://stream-52.zeno.fm/3nv1wwh5srhvv?zs=YBZJY8pNQrO6F1c2zsaRrg",
        "language_inferred": true
       },
       {
        "name": "Chaboz online radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/3nv1wwh5srhvv"
       },
       {
        "name": "chrees online radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/gqsw3us7998uv",
        "language_inferred": true
       },
       {
        "name": "Chrismory-radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/r5ru9mx2gd0uv",
        "language_inferred": true
       },
       {
        "name": "Christ Mandate Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/h1lk0yyo7lkvv",
        "language_inferred": true
       },
       {
        "name": "Clouds FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/14a247fkev8uv"
       },
       {
        "name": "Coconut FM 100.9",
+       "active": 0,
        "url": "https://node-34.zeno.fm/6596qdf2qa0uv",
        "language_inferred": true
       },
       {
        "name": "COCONUT FM RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/6596qdf2qa0uv",
        "language_inferred": true
       },
       {
        "name": "coconutfm",
+       "active": 0,
        "url": "https://stream.zeno.fm/hrgv9brhva0uv",
        "language_inferred": true
       },
       {
        "name": "coconutfm",
+       "active": 0,
        "url": "https://stream.zeno.fm/uxhn9zb58a0uv",
        "language_inferred": true
       },
       {
        "name": "Control Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/6d4ptqughg0uv",
        "language_inferred": true
       },
       {
        "name": "cukaz beat radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/h7g40xnzznhvv",
        "language_inferred": true
       },
       {
        "name": "D-Online radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/yvhzpw6f7kkvv",
        "language_inferred": true
       },
       {
        "name": "D.sam fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/u544y7f7gg8uv",
        "language_inferred": true
       },
       {
        "name": "D90",
+       "active": 0,
        "url": "http://107.182.226.11:7008/live",
        "language_inferred": true
       },
       {
        "name": "DAARUNNASWIHAH radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/2nwv6vct6whvv",
        "language_inferred": true
       },
       {
        "name": "Dafani FM",
+       "active": 0,
        "url": "https://node-27.zeno.fm/uuyq0wpvf48uv",
        "language_inferred": true
       },
       {
        "name": "Dafani Fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/uuyq0wpvf48uv",
        "language_inferred": true
       },
       {
        "name": "Darsa",
+       "active": 0,
        "url": "https://stream.zeno.fm/bpa8g6qawnhvv",
        "language_inferred": true
       },
       {
        "name": "Deal Plus",
+       "active": 0,
        "url": "https://node-03.zeno.fm/x7fe33amc78uv",
        "language_inferred": true
       },
       {
        "name": "Deep FM",
+       "active": 0,
        "url": "http://142.93.29.1/media/2019-05-22_d_business_with_jessicah_mshama.mp3",
        "language_inferred": true
       },
       {
        "name": "Deliverance Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/mtrcigb9yhitv?n=d26fdceb71a5008d1c09",
        "language_inferred": true
       },
       {
        "name": "Device",
+       "active": 0,
        "url": "https://stream.zeno.fm/eyw1hcyxy1zuv",
        "language_inferred": true
       },
       {
        "name": "DjmsafiTz Fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/ggbveqxqsuhvv",
        "language_inferred": true
       },
       {
        "name": "DMS RADIO",
+       "active": 0,
        "url": "http://s8.myradiostream.com:56296/",
        "language_inferred": true
       },
       {
        "name": "Dodoma FM",
+       "active": 0,
        "url": "https://radiotadio.co.tz/dodoma-fm-stream?n=38b76b6e7441fdfa2d56",
        "language_inferred": true
       },
       {
        "name": "DSM RADIO FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/8544br25tm0uv",
        "language_inferred": true
       },
       {
        "name": "DY INTERNATIONAL",
+       "active": 0,
        "url": "https://stream.zeno.fm/3ns9sg6nxs8uv",
        "language_inferred": true
       },
       {
        "name": "East Africa Radio",
+       "active": 0,
        "url": "http://cressida.shoutca.st:8312/",
        "language_inferred": true
       },
       {
        "name": "edas fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/glnbtlzelxfvv",
        "language_inferred": true
       },
       {
        "name": "Ednel FM",
+       "active": 0,
        "url": "http://api.spreaker.com/listen/user/5439587/episode/latest/shoutcast.mp3",
        "language_inferred": true
       },
       {
        "name": "edtech",
+       "active": 0,
        "url": "https://stream.zeno.fm/pv0ss4z5bzzuv",
        "language_inferred": true
       },
       {
        "name": "EFATHA RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/reutm1581k8uv",
        "language_inferred": true
       },
       {
        "name": "EKU FM",
+       "active": 0,
        "url": "https://node-14.zeno.fm/yazm2pc8schvv",
        "language_inferred": true
       },
       {
        "name": "Elimu sahihi",
+       "active": 0,
        "url": "https://stream.zeno.fm/y2n8cfzxm0hvv",
        "language_inferred": true
       },
       {
        "name": "Elimukwanza",
+       "active": 0,
        "url": "https://stream.zeno.fm/2cahv10g5ehvv",
        "language_inferred": true
       },
       {
        "name": "Elishadai fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/ekq6knrph98uv",
        "language_inferred": true
       },
       {
        "name": "Emmanuel Praxidis Jr",
+       "active": 0,
        "url": "https://stream.zeno.fm/hw1s1zgc368uv",
        "language_inferred": true
       },
       {
        "name": "ENSD FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/6zh0ap4sb0hvv",
        "language_inferred": true
       },
       {
        "name": "ENSD FM RADIO",
+       "active": 0,
        "url": "https://stream-43.zeno.fm/kmhtkkhub0hvv",
        "language_inferred": true
       },
       {
        "name": "ENSD FM RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/kmhtkkhub0hvv",
        "language_inferred": true
       },
       {
        "name": "FADECO Community Radio",
+       "active": 0,
        "url": "http://usa1-vn.mixstream.net:8088/",
        "language_inferred": true
       },
       {
        "name": "Faham Fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/vtovdsvqct3vv",
        "language_inferred": true
       },
       {
        "name": "FARIDI FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/cfr93npynuhvv",
        "language_inferred": true
       },
       {
        "name": "Feel-Lumen",
+       "active": 0,
        "url": "https://stream.zeno.fm/hyinxvztoonvv",
        "language_inferred": true
       },
       {
        "name": "FM Manyara Radio",
+       "active": 0,
        "url": "http://109.73.65.69:31220/stream.nsv",
        "language_inferred": true
       },
       {
        "name": "forever fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/0gt3t1sscphvv",
        "language_inferred": true
       },
       {
        "name": "Fountain Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/7k2dh9u7ptzuv",
        "language_inferred": true
       },
       {
        "name": "Galaxy FM",
+       "active": 0,
        "url": "https://node-01.zeno.fm/tysz26cb568uv",
        "language_inferred": true
       },
       {
        "name": "Galaxy fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/tysz26cb568uv",
        "language_inferred": true
       },
       {
        "name": "Giant-FM",
+       "active": 0,
        "url": "https://stream-58.zeno.fm/dgwuz04mr0hvv",
        "language_inferred": true
       },
       {
        "name": "Grace Studios fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/s0ncxeubwnhvv",
        "language_inferred": true
       },
       {
        "name": "Gwabo Radio",
+       "active": 0,
        "url": "https://node-24.zeno.fm/7sn9ncszmv8uv",
        "language_inferred": true
       },
       {
        "name": "Gwabo Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/7sn9ncszmv8uv",
        "language_inferred": true
       },
       {
        "name": "Haafidh Al Hakamiy",
+       "active": 0,
        "url": "https://stream.zeno.fm/5qxwwuqn3nhvv",
        "language_inferred": true
       },
       {
        "name": "HABARI FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/0ugsgbfh268uv",
        "language_inferred": true
       },
       {
        "name": "Habari Kwanza Radio",
+       "active": 0,
        "url": "https://node-32.zeno.fm/4zfby4uxfkhvv",
        "language_inferred": true
       },
       {
        "name": "Habari Maalum FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/cfofcngqi7uvv"
       },
       {
        "name": "HABARI NJEMA RADIO",
+       "active": 0,
        "url": "http://uk4-vn.mixstream.net:8084/",
        "language_inferred": true
       },
       {
        "name": "Habari Njema Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/tzb4n1pptnhvv",
        "language_inferred": true
       },
       {
        "name": "HAROUB TV",
+       "active": 0,
        "url": "https://stream.zeno.fm/bbeuaqfr208uv"
       },
       {
        "name": "Haroub TV Radio",
+       "active": 0,
        "url": "https://node-32.zeno.fm/bbeuaqfr208uv",
        "language_inferred": true
       },
       {
        "name": "Heaven FM Radio",
+       "active": 0,
        "url": "https://stream-42.zeno.fm/eequgfw72hhvv",
        "language_inferred": true
       },
       {
        "name": "HEMA RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/e5bh7gz0238uv"
       },
       {
        "name": "HHC Alive FM Radio – 91.9 FM – TZ-18",
+       "active": 0,
        "url": "http://hhccathedral.org/listen.asx",
        "language_inferred": true
       },
       {
        "name": "Hi5tzradio",
+       "active": 0,
        "url": "https://stream.zeno.fm/a985c3mvxc9uv"
       },
       {
        "name": "Hill radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/txk1w0u6508uv",
        "language_inferred": true
       },
       {
        "name": "HLM RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/9tbrr4vdrchvv",
        "language_inferred": true
       },
       {
        "name": "HOME FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/n1d6rh553hhvv",
        "language_inferred": true
       },
       {
        "name": "HOPE FOUNTAIN RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/yraceckv2ehvv",
        "language_inferred": true
       },
       {
        "name": "Hotline  fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/d8wxs948g18uv",
        "language_inferred": true
       },
       {
        "name": "Huku Radio",
+       "active": 0,
        "url": "https://node-16.zeno.fm/kku9m89xexhvv",
        "language_inferred": true
       },
       {
        "name": "Huku Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/kku9m89xexhvv",
        "language_inferred": true
       },
       {
        "name": "I Nation FM",
+       "active": 0,
        "url": "http://node-03.zeno.fm/7y5hws600f8uv",
        "language_inferred": true
       },
       {
        "name": "I Nation Fm radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/7y5hws600f8uv",
        "language_inferred": true
       },
       {
        "name": "Ibn uthaimin",
+       "active": 0,
        "url": "https://stream.zeno.fm/xwvtpdgt2t4tv",
        "language_inferred": true
       },
       {
        "name": "IBT ADVENTIST SOUND",
+       "active": 0,
        "url": "https://stream.zeno.fm/3mr6wyqp97zuv"
       },
       {
        "name": "Idreams Radio",
+       "active": 0,
        "url": "https://node-05.zeno.fm/8v1ryskru98uv",
        "language_inferred": true
       },
       {
        "name": "IDREAMS RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/8v1ryskru98uv"
       },
       {
        "name": "Ilapfasha fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/2sry7fvkq18uv",
        "language_inferred": true
       },
       {
        "name": "ImbaNasi",
+       "active": 0,
        "url": "https://stream.zeno.fm/h3ewnbn9m3uuv"
       },
       {
        "name": "ImbaNasi Radio",
+       "active": 0,
        "url": "https://stream-57.zeno.fm/dsfhivkawjiuv",
        "language_inferred": true
       },
       {
        "name": "Impact Nation",
+       "active": 0,
        "url": "https://node-23.zeno.fm/kzpf1b3m7s8uv",
        "language_inferred": true
       },
       {
        "name": "IMPACT NATION",
+       "active": 0,
        "url": "https://stream.zeno.fm/kzpf1b3m7s8uv",
        "language_inferred": true
       },
       {
        "name": "Info Radio",
+       "active": 0,
        "url": "https://stream-46.zeno.fm/22crmm38u0hvv",
        "language_inferred": true
       },
       {
        "name": "Info Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/22crmm38u0hvv",
        "language_inferred": true
       },
       {
        "name": "Info Radio – TZ-17",
+       "active": 0,
        "url": "http://198.154.112.230:8007/stream",
        "language_inferred": true
       },
       {
        "name": "Iqra 100.1 FM",
+       "active": 0,
        "url": "http://hyades.shoutca.st:8358/"
       },
       {
        "name": "IrizMuzik.FM",
+       "active": 0,
        "url": "https://node-34.zeno.fm/v40xqnryqg0uv",
        "language_inferred": true
       },
       {
        "name": "IrizMuzik.Fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/v40xqnryqg0uv",
        "language_inferred": true
       },
       {
        "name": "IrizMuzik.Fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/xqtquhw7xg0uv",
        "language_inferred": true
       },
       {
        "name": "IrizMuzik.Fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/pcsbndryqg0uv",
        "language_inferred": true
       },
       {
        "name": "Islamia",
+       "active": 0,
        "url": "http://node-21.zeno.fm/mshvxvdwmwzuv",
        "language_inferred": true
       },
       {
        "name": "Islamic  Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/vf68vsufx98uv"
       },
       {
        "name": "Izow FM",
+       "active": 0,
        "url": "https://node-12.zeno.fm/w9mwzd7qvy8uv",
        "language_inferred": true
       },
       {
        "name": "izow fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/w9mwzd7qvy8uv",
        "language_inferred": true
       },
       {
        "name": "Jacotel Fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/pdnsnbtpp2zuv",
        "language_inferred": true
       },
       {
        "name": "Jambo Fm Tanzania radio",
+       "active": 0,
        "url": "https://cast3.asurahosting.com/proxy/jambocom/stream",
        "language_inferred": true
       },
       {
        "name": "Jamii FM Radio",
+       "active": 0,
        "url": "https://node-14.zeno.fm/b8ysax62bf9uv",
        "language_inferred": true
       },
       {
        "name": "Jamii Online Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/k6umagk8gpwuv"
       },
       {
        "name": "jamson test",
+       "active": 0,
        "url": "https://stream.zeno.fm/396r5fv1w0hvv",
        "language_inferred": true
       },
       {
        "name": "JANJA FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/f5v9vn4a6nhvv",
        "language_inferred": true
       },
       {
        "name": "JCM ONLINE RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/r6up84fvkrhvv",
        "language_inferred": true
       },
       {
        "name": "JEMBE  FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/s1d583f3q98uv",
        "language_inferred": true
       },
       {
        "name": "Jembe FM",
+       "active": 0,
        "url": "http://listen.shoutcast.com/JembeFM",
        "language_inferred": true
       },
       {
        "name": "Jesus Deliverance Church",
+       "active": 0,
        "url": "https://stream.zeno.fm/z36ekzqezrhvv",
        "language_inferred": true
       },
       {
        "name": "jimboni Kwetu Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/w4wn5md5td0uv",
        "language_inferred": true
       },
       {
        "name": "Jioni radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/har9udw4608uv",
        "language_inferred": true
       },
       {
        "name": "Jitambue Radio",
+       "active": 0,
        "url": "https://node-34.zeno.fm/e1fxffkx298uv",
        "language_inferred": true
       },
       {
        "name": "Jitambue Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/e1fxffkx298uv",
        "language_inferred": true
       },
       {
        "name": "JITIHADAONLINERADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/5qwyr6schfhvv",
        "language_inferred": true
       },
       {
        "name": "Jogoo FM",
+       "active": 0,
        "url": "http://s44.myradiostream.com:7654/stream.nsv",
        "language_inferred": true
       },
       {
        "name": "JongoOnlineRadio station",
+       "active": 0,
        "url": "https://stream.zeno.fm/hp38ee24fchvv",
        "language_inferred": true
       },
       {
        "name": "KABEYA FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/kwbprgluvk7tv",
        "language_inferred": true
       },
       {
        "name": "Kakwale FM",
+       "active": 0,
        "url": "https://stream-53.zeno.fm/33kkpa2wcfhvv",
        "language_inferred": true
       },
       {
        "name": "Kakwale FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/bnt7a8358nhvv",
        "language_inferred": true
       },
       {
        "name": "KALAMBO FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/rpegg8xzwc9uv",
        "language_inferred": true
       },
       {
        "name": "KARATU FM",
+       "active": 0,
        "url": "https://node-31.zeno.fm/frtk6234qxhvv",
        "language_inferred": true
       },
       {
        "name": "Karatu24 FM",
+       "active": 0,
        "url": "https://stream-58.zeno.fm/frtk6234qxhvv",
        "language_inferred": true
       },
       {
        "name": "Kasibante FM",
+       "active": 0,
        "url": "http://78.129.193.82:4177/stream.mp3"
       },
       {
        "name": "Kasibante_FM – Bukoba – TZ-05",
+       "active": 0,
        "url": "http://5.39.82.219:20788/listen.mp3",
        "language_inferred": true
       },
       {
        "name": "Katoro FM",
+       "active": 0,
        "url": "http://87.117.197.33:33307?type=.mp3",
        "language_inferred": true
       },
       {
        "name": "Kazi FM",
+       "active": 0,
        "url": "https://node-23.zeno.fm/e1u7a0gk8rhvv",
        "language_inferred": true
       },
       {
        "name": "Kazi FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/e1u7a0gk8rhvv",
        "language_inferred": true
       },
       {
        "name": "Kazi Fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/epgykzassnhvv",
        "language_inferred": true
       },
       {
        "name": "Keifo Fm Radio 94.1",
+       "active": 0,
        "url": "https://freeuk14.listen2myradio.com/live.mp3?typeportmount=s2_15866_stream_527232255stream.nsv",
        "language_inferred": true
       },
       {
        "name": "KGT Radio",
+       "active": 0,
        "url": "https://node-05.zeno.fm/p46rpn6cyy8uv",
        "language_inferred": true
       },
       {
        "name": "KGT Radio",
+       "active": 0,
        "url": "https://strw1.openstream.co/2054",
        "language_inferred": true
       },
       {
        "name": "Kibaoni FM",
+       "active": 0,
        "url": "https://node-31.zeno.fm/20819m6c5zhvv",
        "language_inferred": true
       },
       {
        "name": "Kibaoni FM radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/20819m6c5zhvv",
        "language_inferred": true
       },
       {
        "name": "Kicheko Online Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/vkrk1t2n1v8uv"
       },
       {
        "name": "Kigoma FM",
+       "active": 0,
        "url": "https://node-01.zeno.fm/fgrxef6kffhvv",
        "language_inferred": true
       },
       {
        "name": "Kigoma FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/fgrxef6kffhvv",
        "language_inferred": true
       },
       {
        "name": "KING MMM FM",
+       "active": 0,
        "url": "https://node-14.zeno.fm/ypxrrda42k8uv",
        "language_inferred": true
       },
       {
        "name": "KING MMM fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/zafhe55d1k8uv",
        "language_inferred": true
       },
       {
        "name": "KING mmm fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/pax0h1n42k8uv"
       },
       {
        "name": "KING MMM fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/ypxrrda42k8uv",
        "language_inferred": true
       },
       {
        "name": "Kipiti Radio",
+       "active": 0,
        "url": "https://node-23.zeno.fm/7ebq5q3tcv8uv?zs=ebuCSzjhR5-1NPLirsVzJA&amprj-tok=AAABf7ttXSsAb-6Tgm886bXNjA&amprj-ttl=5",
        "language_inferred": true
       },
       {
        "name": "Kipiti Radio – TZ-14",
+       "active": 0,
        "url": "https://node-35.zeno.fm/7ebq5q3tcv8uv?zs=n_RZJFV4RlGahKn6mDgvvg&rj-tok=AAABf6wUTwIAmvsDkB__BsBH4Q&rj-ttl=5",
        "language_inferred": true
       },
       {
        "name": "Kulola FM Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/oxhfqgdnwbsuv",
        "language_inferred": true
       },
       {
        "name": "Kwaneema Fm",
+       "active": 0,
        "url": "https://freeuk5.listen2myradio.com/live.mp3?typeportmount=s1_18381_stream_675747970",
        "language_inferred": true
       },
       {
        "name": "Kyaka FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/ohpuvo0ngsutv"
       },
       {
        "name": "KYELA FM RADIO",
+       "active": 0,
        "url": "https://listen.mixlr.com/d67acd84becaa846005678d6f68f1250",
        "language_inferred": true
       },
       {
        "name": "Kyela Fm Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/qn3vyq4et0hvv",
        "language_inferred": true
       },
       {
        "name": "Kyela Fm Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/dh2ue834qy8uv",
        "language_inferred": true
       },
       {
        "name": "LANGO RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/pswmqa2bthjuv",
        "language_inferred": true
       },
       {
        "name": "Libo Radio Tanzania – TZ-16",
+       "active": 0,
        "url": "https://stream-44.zeno.fm/kaxma3iiyanuv?zs=NjJqbG3oTwed3etKFQuaSg",
        "language_inferred": true
       },
       {
        "name": "LIFE MEDIA",
+       "active": 0,
        "url": "https://stream.zeno.fm/y3hn4n461k8uv",
        "language_inferred": true
       },
       {
        "name": "Lifechange",
+       "active": 0,
        "url": "https://stream.zeno.fm/s70gsq5twhhvv",
        "language_inferred": true
       },
       {
        "name": "Living Water",
+       "active": 0,
        "url": "https://stream-39.zeno.fm/wuuw60gwfxhvv",
        "language_inferred": true
       },
       {
        "name": "Living water",
+       "active": 0,
        "url": "https://stream.zeno.fm/c3k0hyp6ckhvv",
        "language_inferred": true
       },
       {
        "name": "LIVING WATER 103.3",
+       "active": 0,
        "url": "https://stream.zeno.fm/9f7ruzgwfxhvv"
       },
       {
        "name": "Living Water FM – 103.3 FM – TZ-18",
+       "active": 0,
        "url": "http://95.154.202.117:29475/stream/1",
        "language_inferred": true
       },
       {
        "name": "Lucky  Fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/850ap03sp68uv",
        "language_inferred": true
       },
       {
        "name": "LuzeMedia",
+       "active": 0,
        "url": "https://stream.zeno.fm/33ny122ucuhvv",
        "language_inferred": true
       },
       {
        "name": "Lwambo FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/0g7fnfm6bf9uv",
        "language_inferred": true
       },
       {
        "name": "Lwenge FM",
+       "active": 0,
        "url": "https://node-35.zeno.fm/u5rzx6t4af9uv",
        "language_inferred": true
       },
       {
        "name": "Lwenge fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/u5rzx6t4af9uv"
       },
       {
        "name": "Magic FM",
+       "active": 0,
        "url": "https://stream.rcast.net/69241",
        "language_inferred": true
       },
       {
        "name": "Magomeni Youth",
+       "active": 0,
        "url": "https://stream.zeno.fm/ioonk1wsygquv",
        "language_inferred": true
       },
       {
        "name": "Mahubiri Swahili",
+       "active": 0,
        "url": "https://stream.zeno.fm/dn1w8t9msp8uv"
       },
       {
        "name": "Maisha halisi online radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/io6y29jznwzuv",
        "language_inferred": true
       },
       {
        "name": "Maisha Halisi Online Radio – TZ-16",
+       "active": 0,
        "url": "https://stream-59.zeno.fm/io6y29jznwzuv?zs=_WfRyPxTRAyc9sclIN7xJA",
        "language_inferred": true
       },
       {
        "name": "Mandai FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/tpmbpdr20ehvv"
       },
       {
        "name": "Manhaj Online Radio",
+       "active": 0,
        "url": "https://node-26.zeno.fm/vs6tuk4f1d0uv",
        "language_inferred": true
       },
       {
        "name": "Manhaj Online Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/vs6tuk4f1d0uv",
        "language_inferred": true
       },
       {
        "name": "Manukato Radio",
+       "active": 0,
        "url": "https://node-32.zeno.fm/pebd18dpw4zuv.aac",
        "language_inferred": true
       },
       {
        "name": "Manyema radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/3u53afxa3k0uv",
        "language_inferred": true
       },
       {
        "name": "MARKAZ AL KAREEM TZ",
+       "active": 0,
        "url": "https://stream.zeno.fm/azfwbpm2ynhvv",
        "language_inferred": true
       },
       {
        "name": "Markaz Ibn Qudamah",
+       "active": 0,
        "url": "https://stream.zeno.fm/gguhm4ekakhvv",
        "language_inferred": true
       },
       {
        "name": "Markaz Ibn Taymiyyah - Songwe",
+       "active": 0,
        "url": "https://stream.zeno.fm/9cv014xepkhvv",
        "language_inferred": true
       },
       {
        "name": "Markaz Imaam ash-Shaafiiy Mombasa",
+       "active": 0,
        "url": "https://stream.zeno.fm/hnhog5inpz7tv",
        "language_inferred": true
       },
       {
        "name": "MARKAZ IMAM BUKHARI RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/qbkc097r4a0uv"
       },
       {
        "name": "MARKAZ IMAM MUSLIM",
+       "active": 0,
        "url": "https://stream.zeno.fm/rh6p8bnt3a0uv"
       },
       {
        "name": "Markaz Pongwe",
+       "active": 0,
        "url": "https://stream.zeno.fm/ln9khyzkuwquv",
        "language_inferred": true
       },
       {
        "name": "Markaz Radio",
+       "active": 0,
        "url": "https://node-13.zeno.fm/wnxwr9zs3a0uv",
        "language_inferred": true
       },
       {
        "name": "Markaz Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/wnxwr9zs3a0uv"
       },
       {
        "name": "Markaz Salafiyya - Kigoma",
+       "active": 0,
        "url": "https://stream.zeno.fm/f1fb3wnthkhvv",
        "language_inferred": true
       },
       {
        "name": "Markazi ibn qudamah singida mjini",
+       "active": 0,
        "url": "https://stream.zeno.fm/ecfsmqsbkfhvv",
        "language_inferred": true
       },
       {
        "name": "MARS on Air",
+       "active": 0,
        "url": "https://stream.zeno.fm/gtv033g7a48uv",
        "language_inferred": true
       },
       {
        "name": "MARS on Air",
+       "active": 0,
        "url": "https://stream.zeno.fm/v51n51f7a48uv",
        "language_inferred": true
       },
       {
        "name": "MARSonAir",
+       "active": 0,
        "url": "https://node-17.zeno.fm/s7zdvfcwe48uv",
        "language_inferred": true
       },
       {
        "name": "MARSonAir",
+       "active": 0,
        "url": "https://stream.zeno.fm/s7zdvfcwe48uv",
        "language_inferred": true
       },
       {
        "name": "Mashairi Online Radio",
+       "active": 0,
        "url": "https://node-07.zeno.fm/srxbdezcvuhvv",
        "language_inferred": true
       },
       {
        "name": "MASHAIRI ONLINE RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/srxbdezcvuhvv",
        "language_inferred": true
       },
       {
        "name": "Mashujaa Fm",
+       "active": 0,
        "url": "http://mashujaaaa.out.airtime.pro:8000/mashujaaaa_a",
        "language_inferred": true
       },
       {
        "name": "Mashujaa Fm Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/47k3r9kxtxhvv",
        "language_inferred": true
       },
       {
        "name": "Masjid Aaishah Mombasa",
+       "active": 0,
        "url": "https://stream.zeno.fm/jvfgoi6v5thtv",
        "language_inferred": true
       },
       {
        "name": "Masjid ibn baaz mtimkavu",
+       "active": 0,
        "url": "https://stream.zeno.fm/vndqnz4nruhvv",
        "language_inferred": true
       },
       {
        "name": "Masjid Imaam Ibn Baaz (Mtimkavu-Tanga)",
+       "active": 0,
        "url": "https://stream.zeno.fm/tamqvbzruf9uv",
        "language_inferred": true
       },
       {
        "name": "Masjid Manyema Online",
+       "active": 0,
        "url": "https://stream.zeno.fm/yyphlbmohjvuv",
        "language_inferred": true
       },
       {
        "name": "Masjid Omari Radio - Kariakoo",
+       "active": 0,
        "url": "https://stream.zeno.fm/4pcvdh4n4ehvv",
        "language_inferred": true
       },
       {
        "name": "Masjid Omari Radio – Kariakoo",
+       "active": 0,
        "url": "https://stream-39.zeno.fm/4pcvdh4n4ehvv",
        "language_inferred": true
       },
       {
        "name": "Masjid Rahmaan - Kigamboni",
+       "active": 0,
        "url": "https://stream.zeno.fm/mm4u7sshfuhvv",
        "language_inferred": true
       },
       {
        "name": "Masjid Rahmaan – Kigamboni",
+       "active": 0,
        "url": "https://node-12.zeno.fm/mm4u7sshfuhvv",
        "language_inferred": true
       },
       {
        "name": "Masjid Salafy Buzebazeba",
+       "active": 0,
        "url": "https://stream.zeno.fm/2tt58q9vp0hvv",
        "language_inferred": true
       },
       {
        "name": "Masjid Sunnah Msasani",
+       "active": 0,
        "url": "https://stream.zeno.fm/ulstx6jmvcxvv",
        "language_inferred": true
       },
       {
        "name": "Masjid Sunnah Online",
+       "active": 0,
        "url": "https://stream.zeno.fm/y6dlob4xpt8tv",
        "language_inferred": true
       },
       {
        "name": "Matokeo chanyA+",
+       "active": 0,
        "url": "http://s9.myradiostream.com:6596/"
       },
       {
        "name": "Mawaidha Online Radio",
+       "active": 0,
        "url": "https://node-28.zeno.fm/wc00h90cvuhvv",
        "language_inferred": true
       },
       {
        "name": "MAWAIDHA ONLINE RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/wc00h90cvuhvv",
        "language_inferred": true
       },
       {
        "name": "Mazingira Fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/bgca01sem98uv"
       },
       {
        "name": "Mbezi Luis Lutheran",
+       "active": 0,
        "url": "https://stream.zeno.fm/byt8b2rrcv8uv",
        "language_inferred": true
       },
       {
        "name": "MBINGA F.G.B.F RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/uthq1vqa1k8uv",
        "language_inferred": true
       },
       {
        "name": "MbweleMedia",
+       "active": 0,
        "url": "https://stream.zeno.fm/m2eoxkch5fsvv",
        "language_inferred": true
       },
       {
        "name": "Mega FM Tanzania",
+       "active": 0,
        "url": "https://edge.mixlr.com/channel/txltb",
        "language_inferred": true
       },
       {
        "name": "Metro Radio",
+       "active": 0,
        "url": "https://node-33.zeno.fm/2g28317yr5quv",
        "language_inferred": true
       },
       {
        "name": "Midiots",
+       "active": 0,
        "url": "https://stream.zeno.fm/0raplwp7dlwvv",
        "language_inferred": true
       },
       {
        "name": "Mimossa Radio",
+       "active": 0,
        "url": "https://node-34.zeno.fm/6xr9qmsqkxhvv",
        "language_inferred": true
       },
       {
        "name": "Mimossa Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/10e0vmsqkxhvv"
       },
       {
        "name": "Mimossa Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/6xr9qmsqkxhvv",
        "language_inferred": true
       },
       {
        "name": "MKATOLIKI KIGANJANI",
+       "active": 0,
        "url": "https://stream.zeno.fm/cefe9sx2h18uv"
       },
       {
        "name": "Mkulu fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/mrnqzxrqsnhvv",
        "language_inferred": true
       },
       {
        "name": "Ml Christian Radio Online live",
+       "active": 0,
        "url": "https://stream.zeno.fm/r2sjczkjxb2vv"
       },
       {
        "name": "moon 255 radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/h0gmu02zpu8tv",
        "language_inferred": true
       },
       {
        "name": "Morning Star Radio",
+       "active": 0,
        "url": "https://stream.zenolive.com/4aq1th23pvduv",
        "language_inferred": true
       },
       {
        "name": "Morning Star Radio",
+       "active": 0,
        "url": "http://stream.radiojar.com/qpgu3a299rmtv"
       },
       {
        "name": "Morning Star Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/cumarh23pvduv",
        "language_inferred": true
       },
       {
        "name": "Moro fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/5anprxbh9rhvv",
        "language_inferred": true
       },
       {
        "name": "MR FLASH RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/dek2g2t6u68uv",
        "language_inferred": true
       },
       {
        "name": "Mradio",
+       "active": 0,
        "url": "https://stream.zeno.fm/s86wzadveg0uv",
        "language_inferred": true
       },
       {
        "name": "Msuwilla Fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/zsz0zqgmzhhvv",
        "language_inferred": true
       },
       {
        "name": "mtanzania",
+       "active": 0,
        "url": "https://stream.zeno.fm/7nvs7hxynlsuv"
       },
       {
        "name": "Mtb Live Music",
+       "active": 0,
        "url": "https://stream.zeno.fm/zbu4strnzhhvv",
        "language_inferred": true
       },
       {
        "name": "Mtok mbal radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/urcty5q1hd0uv",
        "language_inferred": true
       },
       {
        "name": "MUBASHARA FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/ny8p4pyg5nhvv",
        "language_inferred": true
       },
       {
        "name": "Musika Tz",
+       "active": 0,
        "url": "https://stream.zeno.fm/bn16fbykzhhvv",
        "language_inferred": true
       },
       {
        "name": "Must Lead Online Radio",
+       "active": 0,
        "url": "https://node-04.zeno.fm/b5my1dvyaphvv",
        "language_inferred": true
       },
       {
        "name": "MUSTLEAD ONLINE RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/3aspwdvyaphvv",
        "language_inferred": true
       },
       {
        "name": "Mwakasege Live",
+       "active": 0,
        "url": "https://stream.zeno.fm/8nkkx427wuhvv",
        "language_inferred": true
       },
       {
        "name": "MwokoziRadio",
+       "active": 0,
        "url": "https://stream.zeno.fm/506tuvm84c9uv",
        "language_inferred": true
       },
       {
        "name": "Nahjusalaf Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/vvjeptxra1ivv",
        "language_inferred": true
       },
       {
        "name": "Naranjal En Vivo",
+       "active": 0,
        "url": "https://node-32.zeno.fm/2f94g8acmg0uv?rj-ttl=5&amprj-tok=AAABdfHSzmUAPRAldKXw29Bmsw",
        "language_inferred": true
       },
       {
        "name": "NASRUN MINALLAH RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/bbpymz1trfhvv",
        "language_inferred": true
       },
       {
        "name": "Nelly Radio",
+       "active": 0,
        "url": "https://stream-59.zeno.fm/rxge95bdf0hvv",
        "language_inferred": true
       },
       {
        "name": "Nelly Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/rxge95bdf0hvv",
        "language_inferred": true
       },
       {
        "name": "NENO KWA MAOMBI RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/kzq9g8ayrf9uv",
        "language_inferred": true
       },
       {
        "name": "Neno Online Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/yexeysqrcv8uv",
        "language_inferred": true
       },
       {
        "name": "New Life Africa",
+       "active": 0,
        "url": "https://stream.zeno.fm/ttf1x0wshrhvv",
        "language_inferred": true
       },
       {
        "name": "Nguvu Ya Neno Radio",
+       "active": 0,
        "url": "http://109.169.76.153:12083/"
       },
       {
        "name": "NHK - Radio News in Swahili",
+       "active": 0,
        "url": "http://web-cache.stream.ne.jp/www11/radiojapan/all/223384/live.m3u8"
       },
       {
        "name": "NIS FM",
+       "active": 0,
        "url": "https://node-03.zeno.fm/vemtzswr7k8uv",
        "language_inferred": true
       },
       {
        "name": "NIS RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/g18tkbq8m48uv",
        "language_inferred": true
       },
       {
        "name": "NISHATI MIKOANI",
+       "active": 0,
        "url": "https://stream.zeno.fm/r448pkbnxxhvv",
        "language_inferred": true
       },
       {
        "name": "Njiwa Online Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/red9nth58nhvv"
       },
       {
        "name": "Nuru Fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/abn81q5akuhvv",
        "language_inferred": true
       },
       {
        "name": "Nuru Fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/z8ab0fw1znhvv",
        "language_inferred": true
       },
       {
        "name": "NURU YA MAARIFA",
+       "active": 0,
        "url": "https://stream.zeno.fm/ppbydgzgc78uv",
        "language_inferred": true
       },
       {
        "name": "Omega FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/vencv4995zhvv"
       },
       {
        "name": "Orange FM Radio",
+       "active": 0,
        "url": "https://node-04.zeno.fm/mu3uqdukm98uv",
        "language_inferred": true
       },
       {
        "name": "pacific radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/waprepw5zehvv",
        "language_inferred": true
       },
       {
        "name": "PLUS RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/8arycudtu98uv",
        "language_inferred": true
       },
       {
        "name": "Plus Radio 90.9",
+       "active": 0,
        "url": "https://node-33.zeno.fm/ggbveqxqsuhvv",
        "language_inferred": true
       },
       {
        "name": "PointFM",
+       "active": 0,
        "url": "https://node-22.zeno.fm/0bg1wfd067zuv",
        "language_inferred": true
       },
       {
        "name": "Pointfm",
+       "active": 0,
        "url": "https://stream.zeno.fm/0bg1wfd067zuv"
       },
       {
        "name": "Power Radio – Dar es Salaam – TZ",
+       "active": 0,
        "url": "https://ec2.yesstreaming.net:2995/stream",
        "language_inferred": true
       },
       {
        "name": "Pride FM – Newala Kisimani – TZ-17",
+       "active": 0,
        "url": "http://38.107.243.99:8001/stream?.wma",
        "language_inferred": true
       },
       {
        "name": "Pro24 Radio",
+       "active": 0,
        "url": "http://usa12.fastcast4u.com:5954/1/",
        "language_inferred": true
       },
       {
        "name": "Promise Land FM Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/mesgu1qicgvuv"
       },
       {
        "name": "prudev",
+       "active": 0,
        "url": "https://stream.zeno.fm/umw4x1n4708uv",
        "language_inferred": true
       },
       {
        "name": "Qibla One Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/sq5jphg2ioxvv"
       },
       {
        "name": "Radio Adhana",
+       "active": 0,
        "url": "http://38.107.243.99:8021/stream"
       },
       {
        "name": "Radio Ahmadiyya Mtwara Tanzania",
+       "active": 0,
        "url": "https://stream.zeno.fm/3ycijbctb12uv",
        "language_inferred": true
       },
       {
        "name": "Radio Faraja Tanzania radio",
+       "active": 0,
        "url": "http://freeuk1.listen2myradio.com:35284/stream.nsv",
        "language_inferred": true
       },
       {
        "name": "Radio Fine",
+       "active": 0,
        "url": "https://node-32.zeno.fm/h9bug2d10a0uv",
        "language_inferred": true
       },
       {
        "name": "Radio Fine",
+       "active": 0,
        "url": "https://stream.zeno.fm/h9bug2d10a0uv",
        "language_inferred": true
       },
       {
        "name": "Radio Free Africa",
+       "active": 0,
        "url": "http://noasrv.caster.fm:10183/autodj",
        "language_inferred": true
       },
       {
        "name": "Radio Ihsani",
+       "active": 0,
        "url": "https://stream.zeno.fm/6ra6cv12ynhvv",
        "language_inferred": true
       },
       {
        "name": "Radio Imaani",
+       "active": 0,
        "url": "https://stream.zeno.fm/jewhyzprrbduv",
        "language_inferred": true
       },
       {
        "name": "Radio Joy 90.5",
+       "active": 0,
        "url": "https://stream.zeno.fm/jhy1xrshlbyvv",
        "language_inferred": true
       },
       {
        "name": "Radio Kilimanjaro Moshi",
+       "active": 0,
        "url": "http://freeuk3.listen2myradio.com:25089/",
        "language_inferred": true
       },
       {
        "name": "radio motivetz",
+       "active": 0,
        "url": "https://stream.zeno.fm/9h6gm7u2ynhvv"
       },
       {
        "name": "Radio Ngamia",
+       "active": 0,
        "url": "https://stream-54.zeno.fm/tyri2rpbpzwtv",
        "language_inferred": true
       },
       {
        "name": "Radio Nuur Tanga",
+       "active": 0,
        "url": "http://107.181.254.4:8840/"
       },
       {
        "name": "Radio Nuur Tanga",
+       "active": 0,
        "url": "https://stream.zeno.fm/45vzuhvcn48uv",
        "language_inferred": true
       },
       {
        "name": "Radio Qiblaten",
+       "active": 0,
        "url": "https://s36.myradiostream.com/20772/listen.mp3"
       },
       {
        "name": "Radio Qiblaten",
+       "active": 0,
        "url": "http://192.240.102.133:11643/stream"
       },
       {
        "name": "Radio salaf",
+       "active": 0,
        "url": "https://stream.zeno.fm/zew0kv1hr0hvv",
        "language_inferred": true
       },
       {
        "name": "Radio Tumaini",
+       "active": 0,
        "url": "https://stream.zeno.fm/baxghguxtxhvv",
        "language_inferred": true
       },
       {
        "name": "Radio Uhai",
+       "active": 0,
        "url": "https://stream.zeno.fm/3u3y7xwcfc9uv"
       },
       {
        "name": "Radio Uislamu Wangu",
+       "active": 0,
        "url": "https://stream.zeno.fm/rifofs3mvuluv",
        "language_inferred": true
       },
       {
        "name": "Radio Ukweli 92.7 FM – 92.7 FM – TZ-16",
+       "active": 0,
        "url": "http://207.244.66.85:36660/",
        "language_inferred": true
       },
       {
        "name": "Radio Uvinza FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/ps8e93f52k8uv",
        "language_inferred": true
       },
       {
        "name": "Radio Wish",
+       "active": 0,
        "url": "https://stream.zeno.fm/9wrdkrwvcfhvv"
       },
       {
        "name": "RADIOLINK",
+       "active": 0,
        "url": "https://stream.zeno.fm/6f9e3yfzaphvv",
        "language_inferred": true
       },
       {
        "name": "Raising FM",
+       "active": 0,
        "url": "https://stream-52.zeno.fm/3qc9ufeezxhvv",
        "language_inferred": true
       },
       {
        "name": "RAISING FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/3qc9ufeezxhvv",
        "language_inferred": true
       },
       {
        "name": "RAMATWOFM",
+       "active": 0,
        "url": "https://stream.zeno.fm/0u2gh4aekf9uv",
        "language_inferred": true
       },
       {
        "name": "ramatwonet Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/v8dmuwbqnd0uv",
        "language_inferred": true
       },
       {
        "name": "Ranefm",
+       "active": 0,
        "url": "https://stream.zeno.fm/qhqeggpue48uv",
        "language_inferred": true
       },
       {
        "name": "RDJRADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/2w5fp0m6hg8uv",
        "language_inferred": true
       },
       {
        "name": "Redio ya Darsa",
+       "active": 0,
        "url": "https://stream.zeno.fm/o1ervtrkwf8vv",
        "language_inferred": true
       },
       {
        "name": "Redio ya Qur-aan",
+       "active": 0,
        "url": "https://stream.zeno.fm/40chwyepb0wtv",
        "language_inferred": true
       },
       {
        "name": "Redio ya Sunnah",
+       "active": 0,
        "url": "https://stream.zeno.fm/knji0am44sxuv",
        "language_inferred": true
       },
       {
        "name": "Refocus FM Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/gcuixjkfai3uv",
        "language_inferred": true
       },
       {
        "name": "RFK RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/4fhwzzxa2rhvv",
        "language_inferred": true
       },
       {
        "name": "RFK Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/em3pv6va2rhvv",
        "language_inferred": true
       },
       {
        "name": "Rhumba Music Radio",
+       "active": 0,
        "url": "https://stream-52.zeno.fm/x8y6ptdkd0hvv",
        "language_inferred": true
       },
       {
        "name": "Rhumba music radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/x8y6ptdkd0hvv"
       },
       {
        "name": "Rhumba music radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/3f4watdkd0hvv",
        "language_inferred": true
       },
       {
        "name": "Rhumba Music Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/ahs3fs3yipwuv",
        "language_inferred": true
       },
       {
        "name": "Rida FM 94.7",
+       "active": 0,
        "url": "https://stream-43.zeno.fm/vaz0862f7a0uv",
        "language_inferred": true
       },
       {
        "name": "rifqtz radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/pkfp1gkvquhvv",
        "language_inferred": true
       },
       {
        "name": "Rio 24 Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/4gbqx7bpsfhvv",
        "language_inferred": true
       },
       {
        "name": "Rogue FM",
+       "active": 0,
        "url": "https://stream-45.zeno.fm/s7zqh0mk0hhvv",
        "language_inferred": true
       },
       {
        "name": "RPI FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/zq7cs8weephvv",
        "language_inferred": true
       },
       {
        "name": "Rubega Radio – Dar es Salaam – TZ",
+       "active": 0,
        "url": "https://stream.abenbrothers.com:7000",
        "language_inferred": true
       },
       {
        "name": "RUKIZA STATION",
+       "active": 0,
        "url": "https://stream.zeno.fm/s4vchxp8ckhvv"
       },
       {
        "name": "Sachita FM 88.1 MHz",
+       "active": 0,
        "url": "https://stream.zeno.fm/nr5ogvpmgo9uv",
        "language_inferred": true
       },
       {
        "name": "Sachita FM Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/ahjzwgx7xm0uv"
       },
       {
        "name": "Sachita Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/jtskgk0bjb7uv",
        "language_inferred": true
       },
       {
        "name": "Sakata radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/k6ymp60yvhhvv",
        "language_inferred": true
       },
       {
        "name": "Salaam",
+       "active": 0,
        "url": "https://stream.zeno.fm/z4u71eu29zhvv",
        "language_inferred": true
       },
       {
        "name": "SALEM RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/2eq4mguznfhvv",
        "language_inferred": true
       },
       {
        "name": "SALIM ONLINE RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/a2fdva3yznhvv",
        "language_inferred": true
       },
       {
        "name": "Salvation FM",
+       "active": 0,
        "url": "http://50.22.218.73:20896/",
        "language_inferred": true
       },
       {
        "name": "Sam Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/sh09es229zhvv",
        "language_inferred": true
       },
       {
        "name": "SASMORADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/nsmcdpmwwd0uv",
        "language_inferred": true
       },
       {
        "name": "Savvy FM Arusha",
+       "active": 0,
        "url": "https://stream-46.zeno.fm/tkh85wpzznhvv",
        "language_inferred": true
       },
       {
        "name": "SAVVY FM – 105.3 FM – TZ-01",
+       "active": 0,
        "url": "https://stream-47.zeno.fm/tkh85wpzznhvv?zs=F-v23XnhSo2FElSDxZcEfg",
        "language_inferred": true
       },
       {
        "name": "Selous FM",
+       "active": 0,
        "url": "https://stream-40.zeno.fm/gwpjmwxc7givv",
        "language_inferred": true
       },
       {
        "name": "SELOUS FM RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/s0kfsh9p2nouv"
       },
       {
        "name": "Selous FM Radio – TZ",
+       "active": 0,
        "url": "https://stream-44.zeno.fm/s0kfsh9p2nouv?zs=l8X08iaKQZCqwf7fxECLMg",
        "language_inferred": true
       },
       {
        "name": "SELOUS OUT",
+       "active": 0,
        "url": "https://stream.zeno.fm/diixf24bcduuv",
        "language_inferred": true
       },
       {
        "name": "Sengerema FM",
+       "active": 0,
        "url": "https://radiotadio.co.tz/sengerema-fm-stream?n=ecee1073f74da67cbe63",
        "language_inferred": true
       },
       {
        "name": "sg5radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/sux2udt79e9uv",
        "language_inferred": true
       },
       {
        "name": "SHABA FM",
+       "active": 0,
        "url": "https://stream-40.zeno.fm/frtk6234qxhvv",
        "language_inferred": true
       },
       {
        "name": "Shaba FM Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/erdf535ywuztv",
        "language_inferred": true
       },
       {
        "name": "Shanzo Redio",
+       "active": 0,
        "url": "https://stream.zeno.fm/d0y719ung48uv",
        "language_inferred": true
       },
       {
        "name": "Sheddys New Look FM",
+       "active": 0,
        "url": "https://node-22.zeno.fm/vqnyakyfpkhvv",
        "language_inferred": true
       },
       {
        "name": "Shelevision",
+       "active": 0,
        "url": "https://stream.zeno.fm/fwkv4298wp8uv"
       },
       {
        "name": "shikh omar",
+       "active": 0,
        "url": "https://stream.zeno.fm/4key86yntp8uv",
        "language_inferred": true
       },
       {
        "name": "Shiloh FM",
+       "active": 0,
        "url": "https://stream-43.zeno.fm/nm7hfnd3uhhvv",
        "language_inferred": true
       },
       {
        "name": "Shiloh Fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/nm7hfnd3uhhvv"
       },
       {
        "name": "Shiner's Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/zxnvlashme1tv"
       },
       {
        "name": "Shuhuda za kweli",
+       "active": 0,
        "url": "https://stream.zeno.fm/mhggbgqrjhhtv",
        "language_inferred": true
       },
       {
        "name": "Sibuka FM – 94.5 FM – Dar es Salaam – TZ",
+       "active": 0,
        "url": "http://38.107.243.99:8028/stream?.wma",
        "language_inferred": true
       },
       {
        "name": "Singeli Radio",
+       "active": 0,
        "url": "https://stream-31.zeno.fm/uwa4u1hddchvv",
        "language_inferred": true
       },
       {
        "name": "Singeli radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/uwa4u1hddchvv",
        "language_inferred": true
       },
       {
        "name": "Siteketei Season Swahili-Hood",
+       "active": 0,
        "url": "https://listen.radioking.com/radio/511021/stream/568807"
       },
       {
        "name": "SKY FM",
+       "active": 0,
        "url": "https://listen.radioking.com/radio/526447/stream/584809",
        "language_inferred": true
       },
       {
        "name": "Sky Fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/maj5govpiygvv"
       },
       {
        "name": "skynet",
+       "active": 0,
        "url": "https://stream.zeno.fm/b5pusyvxbfhvv",
        "language_inferred": true
       },
       {
        "name": "SL RADIO TZ",
+       "active": 0,
        "url": "https://stream.zeno.fm/xzwmo8tgwmiuv"
       },
       {
        "name": "SLRadio",
+       "active": 0,
        "url": "https://stream.zeno.fm/g5brycjqr12vv",
        "language_inferred": true
       },
       {
        "name": "SM Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/r5x2xhrqsnhvv",
        "language_inferred": true
       },
       {
        "name": "SMG RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/yuzjak2nfjyvv",
        "language_inferred": true
       },
       {
        "name": "Smile Radio",
+       "active": 0,
        "url": "https://node-03.zeno.fm/pw6fa0pffv8uv",
        "language_inferred": true
       },
       {
        "name": "Smile Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/pw6fa0pffv8uv",
        "language_inferred": true
       },
       {
        "name": "Sons Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/ordydejutgutv"
       },
       {
        "name": "St Joseph Ndala Parish",
+       "active": 0,
        "url": "https://stream.zeno.fm/w6g0uxr92hhvv",
        "language_inferred": true
       },
       {
        "name": "Standard FM Singida",
+       "active": 0,
        "url": "http://uk4-vn.mixstream.net:8076/listen.mp3",
        "language_inferred": true
       },
       {
        "name": "STAR ON FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/1zb2g5vkyxhvv",
        "language_inferred": true
       },
       {
        "name": "Starter Gospel Radio",
+       "active": 0,
        "url": "http://freeuk30.listen2myradio.com:34545/stream.nsv",
        "language_inferred": true
       },
       {
        "name": "STEBO FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/zk4xxq6zbawvv"
       },
       {
        "name": "Storm FM",
+       "active": 0,
        "url": "http://87.117.205.22:8059/stream"
       },
       {
        "name": "Street One Radio",
+       "active": 0,
        "url": "https://stream-41.zeno.fm/d3as2fmadnruv",
        "language_inferred": true
       },
       {
        "name": "Success radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/11yk2v5zbg0uv",
        "language_inferred": true
       },
       {
        "name": "Sunrise Radio",
+       "active": 0,
        "url": "https://onlineradiobox.com/json/tz/sunrise/play?platform=web",
        "language_inferred": true
       },
       {
        "name": "Supa Dupa FM",
+       "active": 0,
        "url": "http://stream.zeno.fm/8mq26sembd0uv",
        "language_inferred": true
       },
       {
        "name": "supa dupa fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/mcbb1sembd0uv",
        "language_inferred": true
       },
       {
        "name": "supadupafm",
+       "active": 0,
        "url": "https://stream.zeno.fm/c24ff8yc7a0uv",
        "language_inferred": true
       },
       {
        "name": "Swahibaradio",
+       "active": 0,
        "url": "https://stream.zeno.fm/fez32c1851zuv",
        "language_inferred": true
       },
       {
        "name": "Swahili Church fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/hzub902xrf9uv",
        "language_inferred": true
       },
       {
        "name": "SWAHILI DIGITAL",
+       "active": 0,
        "url": "https://stream.zeno.fm/ppudzbba508uv",
        "language_inferred": true
       },
       {
        "name": "Tabasam",
+       "active": 0,
        "url": "https://stream.zeno.fm/97dz3bkpc18uv",
        "language_inferred": true
       },
       {
        "name": "TAKE TWO FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/23fdhpng1hhvv",
        "language_inferred": true
       },
       {
        "name": "Tanzanite Soul Radio",
+       "active": 0,
        "url": "https://12.45.456:4586/",
        "language_inferred": true
       },
       {
        "name": "TBC FM – Dar es Salaam – TZ",
+       "active": 0,
        "url": "https://s47.myradiostream.com/14488/listen.mp3",
        "language_inferred": true
       },
       {
        "name": "TBC International",
+       "active": 0,
        "url": "http://s18.myradiostream.com:10246/"
       },
       {
        "name": "TBC International – 95.3 FM – Dar es Salaam – TZ",
+       "active": 0,
        "url": "http://s47.myradiostream.com:14490/listen.mp3",
        "language_inferred": true
       },
       {
        "name": "TBC Taifa",
+       "active": 0,
        "url": "http://usa9-vn.mixstream.net:8080/listen.mp3"
       },
       {
        "name": "The Angelos Tz Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/5760ax4g21zuv",
        "language_inferred": true
       },
       {
        "name": "The Diorama Perfection",
+       "active": 0,
        "url": "https://stream.zeno.fm/56xhk7gpvijuv",
        "language_inferred": true
       },
       {
        "name": "The Taliban",
+       "active": 0,
        "url": "https://stream.zeno.fm/5afetmbm308uv",
        "language_inferred": true
       },
       {
        "name": "THE WAY TO HEAVEN RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/r5e1n2fmbm0uv",
        "language_inferred": true
       },
       {
        "name": "TIFU Online Radio",
+       "active": 0,
        "url": "https://node-06.zeno.fm/pmbarzzm1v8uv",
        "language_inferred": true
       },
       {
        "name": "TIFU Online Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/pmbarzzm1v8uv"
       },
       {
        "name": "TIKI MEDIA ONLINE RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/svgb4fca0xhvv",
        "language_inferred": true
       },
       {
        "name": "Tk FM 88.5 Tanga",
+       "active": 0,
        "url": "http://162.210.192.98:25317/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Tk Fm 885 Tanga",
+       "active": 0,
        "url": "http://78.129.150.144:27284/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "TK FM Radio",
+       "active": 0,
        "url": "http://78.129.193.127:35197/stream.mp3"
       },
       {
        "name": "TNI EA CENTER 1",
+       "active": 0,
        "url": "https://stream.zeno.fm/vrnvzmr01ehvv"
       },
       {
        "name": "Togani FM",
+       "active": 0,
        "url": "https://stream-42.zeno.fm/26mguradny8uv",
        "language_inferred": true
       },
       {
        "name": "TOKAZAMANI REDIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/c7hefnontk0tv",
        "language_inferred": true
       },
       {
        "name": "Tower Online Radio",
+       "active": 0,
        "url": "https://stream-51.zeno.fm/3bllsdnvrnvvv",
        "language_inferred": true
       },
       {
        "name": "TrendingFM",
+       "active": 0,
        "url": "https://node-09.zeno.fm/9y1ztfxq9k0uv",
        "language_inferred": true
       },
       {
        "name": "TrendingFm",
+       "active": 0,
        "url": "https://stream.zeno.fm/9y1ztfxq9k0uv",
        "language_inferred": true
       },
       {
        "name": "Tripple P Radio Online",
+       "active": 0,
        "url": "http://freeuk16.listen2myradio.com:38541/in",
        "language_inferred": true
       },
       {
        "name": "TROPAC FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/s8gvp1ucs1ytv"
       },
       {
        "name": "Trumpet of life",
+       "active": 0,
        "url": "https://stream.zeno.fm/pwmfv6uktp8uv",
        "language_inferred": true
       },
       {
        "name": "Tunduma FM Radio",
+       "active": 0,
        "url": "https://stream-45.zeno.fm/c3q1ab7b2hhvv",
        "language_inferred": true
       },
       {
        "name": "TURNUP VIBES",
+       "active": 0,
        "url": "https://stream.zeno.fm/smflysycqoyvv",
        "language_inferred": true
       },
       {
        "name": "Twiga Radio",
+       "active": 0,
        "url": "http://s2.voscast.com:9848/"
       },
       {
        "name": "Twiga Radio – Dar es Salaam – TZ",
+       "active": 0,
        "url": "http://tachyon.shoutca.st:8056/",
        "language_inferred": true
       },
       {
        "name": "Tzgospel radio – TZ-18",
+       "active": 0,
        "url": "https://mira.streamerr.co/radio/8170/radio.mp3",
        "language_inferred": true
       },
       {
        "name": "tzgospel tanzania",
+       "active": 0,
        "url": "https://stream.zeno.fm/padbbe461rhvv",
        "language_inferred": true
       },
       {
        "name": "UFM - 107.3",
+       "active": 0,
        "url": "https://stream.zeno.fm/6n5d3a3un0hvv",
        "language_inferred": true
       },
       {
        "name": "UFM 107.3",
+       "active": 0,
        "url": "https://stream.zeno.fm/tz0tcc27tc9uv",
        "language_inferred": true
       },
       {
        "name": "UFM Radio 107.3",
+       "active": 0,
        "url": "https://stream-43.zeno.fm/tz0tcc27tc9uv",
        "language_inferred": true
       },
       {
        "name": "UKOMBOZI FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/c49swgpf8qctv"
       },
       {
        "name": "Ukombozi FM – 104.1 FM – TZ-18",
+       "active": 0,
        "url": "https://cast4.asurahosting.com/proxy/ukomboz1/stream",
        "language_inferred": true
       },
       {
        "name": "UKOMBOZI MIRACLE RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/gevukkkhy99uv"
       },
       {
        "name": "UKOMBOZI WA  FAMILIA ONLINE RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/y4r90736ckhvv",
        "language_inferred": true
       },
       {
        "name": "UKWELI TU",
+       "active": 0,
        "url": "https://stream.zeno.fm/he0gm47txhhvv",
        "language_inferred": true
       },
       {
        "name": "UPCT Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/sas6gdt62hhvv",
        "language_inferred": true
       },
       {
        "name": "Uplands FM 89.1",
+       "active": 0,
        "url": "http://freeuk30.listen2myradio.com:34616/",
        "language_inferred": true
       },
       {
        "name": "UREJESHO RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/s5a0l2hiwnruv"
       },
       {
        "name": "USA River Radio",
+       "active": 0,
        "url": "https://stream-46.zeno.fm/hu5v2tr90rhvv",
        "language_inferred": true
       },
       {
        "name": "Ushindi FM",
+       "active": 0,
        "url": "http://149.56.147.197:9321/stream/",
        "language_inferred": true
       },
       {
        "name": "UWEZO WA MWANAMKE",
+       "active": 0,
        "url": "https://stream.zeno.fm/fkbfwjdrvcltv",
        "language_inferred": true
       },
       {
        "name": "Uwezo wa Mwanamke",
+       "active": 0,
        "url": "https://stream.zeno.fm/601vwrx2kv8uv",
        "language_inferred": true
       },
       {
        "name": "Vabu Radio",
+       "active": 0,
        "url": "https://stream-45.zeno.fm/ary9ns600f8uv",
        "language_inferred": true
       },
       {
        "name": "Vabu Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/ary9ns600f8uv",
        "language_inferred": true
       },
       {
        "name": "Vipaji Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/0nx0jtzppuuuv",
        "language_inferred": true
       },
       {
        "name": "VOICE OF ISTIQAMA PEMBA",
+       "active": 0,
        "url": "https://stream.zeno.fm/6u6es1b0pnhvv",
        "language_inferred": true
       },
       {
        "name": "VOS FM RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/2wdnbqrrjddtv?n=a2ac6f9a0f3e110573c4",
        "language_inferred": true
       },
       {
        "name": "Waboud Online Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/4fxwnsqkw98uv",
        "language_inferred": true
       },
       {
        "name": "Wahaya Music Radio",
+       "active": 0,
        "url": "https://stream-39.zeno.fm/zg80kw52m0hvv",
        "language_inferred": true
       },
       {
        "name": "wahaya music radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/zg80kw52m0hvv",
        "language_inferred": true
       },
       {
        "name": "WalkerFM",
+       "active": 0,
        "url": "https://stream.zeno.fm/q0ukxccbhv8uv",
        "language_inferred": true
       },
       {
        "name": "Wapo Radio FM – Dar es Salaam – TZ",
+       "active": 0,
        "url": "http://198.154.112.230:8014/stream",
        "language_inferred": true
       },
       {
        "name": "Wehescha",
+       "active": 0,
        "url": "https://stream.zeno.fm/nxwatx357nhvv",
        "language_inferred": true
       },
       {
        "name": "WENYE MOYO SAFI RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/fzspuzmnkkhvv",
        "language_inferred": true
       },
       {
        "name": "WENYE MOYO SAFI RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/mwafbef0198uv",
        "language_inferred": true
       },
       {
        "name": "WIN MORE SOULS IN CHRIST",
+       "active": 0,
        "url": "https://stream.zeno.fm/9g2171mqmkhvv",
        "language_inferred": true
       },
       {
        "name": "Wolf Fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/rpnfce3wk2zuv",
        "language_inferred": true
       },
       {
        "name": "Worshipers Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/b01dqns62hhvv",
        "language_inferred": true
       },
       {
        "name": "WOTE TV And Radio",
+       "active": 0,
        "url": "https://stream-39.zeno.fm/f55kcrud408uv",
        "language_inferred": true
       },
       {
        "name": "Young Men Radio TZ",
+       "active": 0,
        "url": "https://node-12.zeno.fm/asdxc2pe0chvv",
        "language_inferred": true
       },
       {
        "name": "YOUNG MEN RADIO TZ",
+       "active": 0,
        "url": "https://stream.zeno.fm/asdxc2pe0chvv"
       },
       {
        "name": "Youth Zone",
+       "active": 0,
        "url": "https://node-22.zeno.fm/xxypqpu7xnhvv",
        "language_inferred": true
       },
       {
        "name": "YOUTH ZONE",
+       "active": 0,
        "url": "https://stream.zeno.fm/xxypqpu7xnhvv",
        "language_inferred": true
       },
       {
        "name": "zabibu fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/vas55uwpxyeuv"
       },
       {
        "name": "Zanzibar Qaswida",
+       "active": 0,
        "url": "https://node-15.zeno.fm/7z4839t7gg8uv",
        "language_inferred": true
       },
       {
        "name": "ZANZIBAR QASWIDA",
+       "active": 0,
        "url": "https://stream.zeno.fm/7z4839t7gg8uv",
        "language_inferred": true
       },
       {
        "name": "ZBC - Spice FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/zbxdkw6erd0uv",
        "language_inferred": true
       },
       {
        "name": "ZBC Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/7swh23ffqd0uv",
        "language_inferred": true
       },
       {
        "name": "ZBC Radio - Spice FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/b4q4xax4fd0uv",
        "language_inferred": true
       },
       {
        "name": "ZBC Sauti ya Tanzania-Zanzibar",
+       "active": 0,
        "url": "https://stream.zeno.fm/33d85nkasd0uv"
       },
       {
        "name": "ZENO FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/055sf7qtrnhvv"
       },
       {
        "name": "Zinho fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/lbipjopfdvavv",
        "language_inferred": true
       }
@@ -4967,6 +5822,7 @@
      "stations": [
       {
        "name": "Neno Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/6vx19kexgs8uv",
        "tags": [
         "christian_gospel",
@@ -4975,6 +5831,7 @@
       },
       {
        "name": "Tzgospel Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/ex6ng25chfhvv",
        "tags": [
         "christian_gospel",
@@ -4985,6 +5842,7 @@
       },
       {
        "name": "WAPO Radio",
+       "active": 0,
        "url": "https://cast3.my-control-panel.com/proxy/john1236/stream",
        "tags": [
         "christian_gospel",
@@ -4999,6 +5857,7 @@
      "stations": [
       {
        "name": "A FM 92.9",
+       "active": 0,
        "url": "https://onlineradiobox.com/json/tz/afm/play?platform=web",
        "tags": [
         "pop_hits",
@@ -5012,6 +5871,7 @@
      "stations": [
       {
        "name": "Bongo Radio African Grooves",
+       "active": 0,
        "url": "http://bongoradio.com:8000/dance.mp3",
        "tags": [
         "electronic",
@@ -5025,10 +5885,12 @@
      "stations": [
       {
        "name": "88.9 Storm FM",
+       "active": 0,
        "url": "http://78.129.159.25:8100/stream"
       },
       {
        "name": "Bongo Radio – African Grooves Channel",
+       "active": 0,
        "url": "http://www.bongoradio.com:8000/dance.mp3",
        "tags": [
         "news_talk",
@@ -5037,6 +5899,7 @@
       },
       {
        "name": "Globify Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/b6h8lppd3auuv",
        "tags": [
         "news_talk",
@@ -5045,15 +5908,18 @@
       },
       {
        "name": "IBN TV",
+       "active": 0,
        "url": "http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8",
        "rb": "233983f9-2524-11e9-a80b-52543be04c81"
       },
       {
        "name": "IDREAMS RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/8q4u3skru98uv"
       },
       {
        "name": "JIJI RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/cislmcickyptv",
        "tags": [
         "news_talk",
@@ -5067,6 +5933,7 @@
      "stations": [
       {
        "name": "ABOOD FM",
+       "active": 0,
        "url": "http://38.107.243.99:8020/stream?.wma",
        "tags": [
         "rock",
@@ -5080,6 +5947,7 @@
      "stations": [
       {
        "name": "Bongo Radio",
+       "active": 0,
        "url": "http://173.244.208.77:8000/bongo.mp3",
        "tags": [
         "world",
@@ -5090,6 +5958,7 @@
       },
       {
        "name": "Bongo Radio Taarab and Mduara",
+       "active": 0,
        "url": "http://bongoradio.com:8000/taarab.mp3",
        "tags": [
         "pop_hits",
@@ -5098,6 +5967,7 @@
       },
       {
        "name": "Bongo Radio Zilipendwa",
+       "active": 0,
        "url": "http://bongoradio.com:8000/zilipendwa.mp3",
        "tags": [
         "various_eclectic",
@@ -5106,6 +5976,7 @@
       },
       {
        "name": "WENYE MOYO SAFI RADIO.",
+       "active": 0,
        "url": "https://stream.zeno.fm/bm0p3t6e0chvv"
       }
      ]
@@ -5115,34 +5986,42 @@
      "stations": [
       {
        "name": "Bongo Exclusive",
+       "active": 0,
        "url": "https://stream.zeno.fm/mkx5bg9pounvv"
       },
       {
        "name": "Capital Radio",
+       "active": 0,
        "url": "http://capitalradio.radioca.st:8798/stream"
       },
       {
        "name": "E-FM Radio",
+       "active": 0,
        "url": "http://s1.voscast.com:10544/efm"
       },
       {
        "name": "Kings FM Radio (Njombe)",
+       "active": 0,
        "url": "https://stream.zeno.fm/e6twn0p0xv8uv"
       },
       {
        "name": "Radio Marifa",
+       "active": 0,
        "url": "http://159.65.36.126:8000/Maarifa"
       },
       {
        "name": "Radio Mwangaza FM",
+       "active": 0,
        "url": "http://servertz.com/demo/Bakurutu%20-seya.mp3"
       },
       {
        "name": "Tk Fm 88.5 TANGA",
+       "active": 0,
        "url": "http://109.169.15.20:17818/stream.mp3"
       },
       {
        "name": "TOGANI FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/26mguradny8uv"
       }
      ]
@@ -5157,6 +6036,7 @@
      "stations": [
       {
        "name": "Balozi Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/x0m9cgk1nfhvv",
        "tags": [
         "christian_gospel",
@@ -5166,10 +6046,12 @@
       },
       {
        "name": "Faith Victory Radio",
+       "active": 0,
        "url": "https://cast1.asurahosting.com/proxy/faithvictory/stream"
       },
       {
        "name": "Radio Amen radio",
+       "active": 0,
        "url": "https://servidor40.brlogic.com:7394/live"
       }
      ]
@@ -5184,6 +6066,7 @@
      "stations": [
       {
        "name": "Banana FM",
+       "active": 0,
        "url": "https://bananafm.radioca.st/stream",
        "tags": [
         "news_talk",
@@ -5202,6 +6085,7 @@
      "stations": [
       {
        "name": "ImbaNasi",
+       "active": 0,
        "url": "https://stream.zeno.fm/dsfhivkawjiuv",
        "rb": "bbfa219b-8f10-45dd-b4d6-80f4069c4028"
       }
@@ -5217,6 +6101,7 @@
      "stations": [
       {
        "name": "Voice FM",
+       "active": 0,
        "url": "https://voicefm.radioca.st/"
       }
      ]
@@ -5231,6 +6116,7 @@
      "stations": [
       {
        "name": "DVB online radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/daqghg2zdkcvv"
       }
      ]

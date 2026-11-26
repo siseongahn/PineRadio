@@ -10,6 +10,7 @@
      "stations": [
       {
        "name": "Laser 101 Curacao",
+       "active": 0,
        "url": "http://91.121.174.141:29160",
        "tags": [
         "alternative_indie",
@@ -18,6 +19,7 @@
       },
       {
        "name": "Radio Amadeus Tv",
+       "active": 0,
        "url": "http://us5freenew.listen2myradio.com:38718/?type=http&nocache=14",
        "tags": [
         "alternative_indie",
@@ -32,6 +34,7 @@
      "stations": [
       {
        "name": "Fiesta 106.3 FM",
+       "active": 0,
        "url": "http://149.28.98.95:1063/live",
        "tags": [
         "christian_gospel",
@@ -48,11 +51,13 @@
       },
       {
        "name": "Radio Lighthouse FM",
+       "active": 0,
        "url": "http://95.154.254.81:7351/stream.nsv",
        "language_inferred": true
       },
       {
        "name": "Radio Semiya",
+       "active": 0,
        "url": "http://11331.cloudrad.io:9172/live",
        "tags": [
         "christian_gospel",
@@ -67,6 +72,7 @@
      "stations": [
       {
        "name": "Paradise FM - Hitradio 915 Listen live",
+       "active": 0,
        "url": "https://audio-edge-t85at.fra.h.radiomast.io/7d662828-5b2f-414b-981c-76c18d363b42?ver=37800",
        "tags": [
         "pop_hits",
@@ -81,6 +87,7 @@
      "stations": [
       {
        "name": "Paradise FM 00s & 10s",
+       "active": 0,
        "url": "https://paradisefm.sincere.cloud/00s10s",
        "language_inferred": true
       }
@@ -91,6 +98,7 @@
      "stations": [
       {
        "name": "Radio Amadeus",
+       "active": 0,
        "url": "https://curastreamz.com:7003/stream?type=http&ampnocache=2",
        "tags": [
         "pop_hits",
@@ -105,6 +113,7 @@
      "stations": [
       {
        "name": "Easy FM 97.9",
+       "active": 0,
        "url": "http://64.150.176.42:8011/live",
        "tags": [
         "easy_listening",
@@ -115,6 +124,7 @@
       },
       {
        "name": "Hitradio 91.5 FM",
+       "active": 0,
        "url": "https://stream.stream.delivery/hitradio915",
        "tags": [
         "easy_listening",
@@ -123,6 +133,7 @@
       },
       {
        "name": "Laser 101 Curacao",
+       "active": 0,
        "url": "https://s42.myradiostream.com/29160/",
        "tags": [
         "easy_listening",
@@ -132,6 +143,7 @@
       },
       {
        "name": "Mas 99.7 FM",
+       "active": 0,
        "url": "http://173.245.78.146:8004/stream",
        "tags": [
         "easy_listening",
@@ -140,6 +152,7 @@
       },
       {
        "name": "Paradise FM",
+       "active": 0,
        "url": "https://stream.stream.delivery/paradisefm",
        "tags": [
         "pop_hits",
@@ -148,6 +161,7 @@
       },
       {
        "name": "Radio Direct 107.1 FM radio",
+       "active": 0,
        "url": "https://edge1.direct107.com/",
        "tags": [
         "easy_listening",
@@ -158,6 +172,7 @@
       },
       {
        "name": "Radio Hoyer 1",
+       "active": 0,
        "url": "http://s10.voscast.com:9880/stream1478601452810/1",
        "tags": [
         "easy_listening",
@@ -167,10 +182,12 @@
       },
       {
        "name": "Radio Hoyer 2",
+       "active": 0,
        "url": "http://s10.voscast.com:9772/stream1478601579211/1"
       },
       {
        "name": "Radio Mas 99.7",
+       "active": 0,
        "url": "https://node1.westream.solutions/mas99?ver=619949",
        "tags": [
         "pop_hits",
@@ -181,6 +198,7 @@
       },
       {
        "name": "Radio Mas 99.7 radio",
+       "active": 0,
        "url": "https://radios.wakenext.com/hls/radio_mas99.7/live.m3u8",
        "tags": [
         "pop_hits",
@@ -195,6 +213,7 @@
      "stations": [
       {
        "name": "HITradio 915",
+       "active": 0,
        "url": "https://paradisefm.sincere.cloud/HITradio915",
        "tags": [
         "electronic",
@@ -205,6 +224,7 @@
       },
       {
        "name": "Mix Global Rádió",
+       "active": 0,
        "url": "https://radiostreamfm.com/radio/8100/radio/live.mp3",
        "tags": [
         "electronic",
@@ -214,6 +234,7 @@
       },
       {
        "name": "Radio One 103.9 FM",
+       "active": 0,
        "url": "http://174.37.252.208:8448/stream.nsv",
        "tags": [
         "pop_hits",
@@ -228,6 +249,7 @@
      "stations": [
       {
        "name": "Onda CW Radio",
+       "active": 0,
        "url": "https://sonic.mediacp.eu/8042/stream",
        "tags": [
         "pop_hits",
@@ -244,6 +266,7 @@
       },
       {
        "name": "Radio Ritmo Antiyano",
+       "active": 0,
        "url": "http://167.86.82.103:1820/stream",
        "tags": [
         "pop_hits",
@@ -258,6 +281,7 @@
      "stations": [
       {
        "name": "Mix Global Radio",
+       "active": 0,
        "url": "https://radiostreamfm.com/radio/8100/live.aac",
        "tags": [
         "house",
@@ -271,6 +295,7 @@
       },
       {
        "name": "Mix Global Radio",
+       "active": 0,
        "url": "https://radiostreamfm.com/radio/8100/live.mp3",
        "tags": [
         "house",
@@ -285,6 +310,7 @@
      "stations": [
       {
        "name": "ClazzFM 95.1 Curacao",
+       "active": 0,
        "url": "http://50.22.223.16:8588/stream.nsv",
        "tags": [
         "pop_hits",
@@ -299,6 +325,7 @@
      "stations": [
       {
        "name": "Radio di Sanikolas",
+       "active": 0,
        "url": "https://stream.zeno.fm/dyvgh2a6ng0uv"
       }
      ]
@@ -308,6 +335,7 @@
      "stations": [
       {
        "name": "Alpha FM",
+       "active": 0,
        "url": "http://208.43.9.96:8048/stream.nsv",
        "tags": [
         "latin",
@@ -317,6 +345,7 @@
       },
       {
        "name": "Comebackradio",
+       "active": 0,
        "url": "http://s8.voscast.com:7000/",
        "tags": [
         "latin",
@@ -327,6 +356,7 @@
       },
       {
        "name": "Fruzitime Radio",
+       "active": 0,
        "url": "https://www.radioking.com/api/radio/fruzitime-radio.m3u",
        "tags": [
         "pop_hits",
@@ -336,6 +366,7 @@
       },
       {
        "name": "Radio 94 Korsou",
+       "active": 0,
        "url": "http://162.243.94.61:8028/stream/1",
        "language_inferred": true
       }
@@ -346,6 +377,7 @@
      "stations": [
       {
        "name": "Dolfijn FM 97.3 Seaquarium Beach",
+       "active": 0,
        "url": "http://85.214.231.253:8080/stream.mp3",
        "tags": [
         "pop_hits",
@@ -356,6 +388,7 @@
       },
       {
        "name": "Paradise FM 103.1 radio",
+       "active": 0,
        "url": "https://paradisefm.sincere.cloud/ParadiseFM",
        "tags": [
         "news_talk",
@@ -365,6 +398,7 @@
       },
       {
        "name": "Radio 94 Korsou",
+       "active": 0,
        "url": "http://162.243.94.61:8028/stream.mp3",
        "tags": [
         "pop_hits",
@@ -375,11 +409,13 @@
       },
       {
        "name": "Radio Margaritha Online 90.3 FM",
+       "active": 0,
        "url": "https://usa6.fastcast4u.com/proxy/lfxmgisa?mp=/1",
        "language_inferred": true
       },
       {
        "name": "Radio True4life",
+       "active": 0,
        "url": "http://213.202.241.199:9446/stream",
        "tags": [
         "news_talk",
@@ -395,6 +431,7 @@
      "stations": [
       {
        "name": "Paradise 60s &ampamp 70s",
+       "active": 0,
        "url": "https://paradisefm.sincere.cloud/60s70s",
        "tags": [
         "decade_60s",
@@ -411,11 +448,13 @@
      "stations": [
       {
        "name": "88 Rockórsou",
+       "active": 0,
        "url": "https://streannlivecurom.cachefly.net/Protected/sp=1dirmatch=true/743b11f157a277a2d5cb24178a0ac81f7eb3a7be6c1f8825a13bf90418642566/curom1/curom1/chunks.m3u8",
        "language_inferred": true
       },
       {
        "name": "Chilling Station",
+       "active": 0,
        "url": "http://streamsrv03.hostslim.nl:8003/stream",
        "tags": [
         "pop_hits",
@@ -425,6 +464,7 @@
       },
       {
        "name": "Dolfijn FM",
+       "active": 0,
        "url": "http://85.214.231.253:8080",
        "tags": [
         "pop_hits",
@@ -434,26 +474,31 @@
       },
       {
        "name": "Dolfijn FM 97.3",
+       "active": 0,
        "url": "http://217.172.190.185:8226/stream.nsv",
        "language_inferred": true
       },
       {
        "name": "Easy FM Curacao",
+       "active": 0,
        "url": "http://s30.streamerportal.com:8451/",
        "language_inferred": true
       },
       {
        "name": "Fiesta FM 106.3 radio",
+       "active": 0,
        "url": "https://radiofiestafm.krioyohosting.com/live",
        "language_inferred": true
       },
       {
        "name": "Paradise FM 103.1",
+       "active": 0,
        "url": "http://38.96.175.97:4210/stream.nsv",
        "language_inferred": true
       },
       {
        "name": "Paradise FM 80s & 90s",
+       "active": 0,
        "url": "https://paradisefm.sincere.cloud/80s90s",
        "tags": [
         "pop_hits",
@@ -464,6 +509,7 @@
       },
       {
        "name": "Q93.9 FM",
+       "active": 0,
        "url": "https://s1.northrich.nl:38123/streamq939",
        "tags": [
         "pop_hits",
@@ -473,6 +519,7 @@
       },
       {
        "name": "QC stream",
+       "active": 0,
        "url": "https://stream.zeno.fm/9s61dtwd898uv",
        "tags": [
         "pop_hits",
@@ -482,6 +529,7 @@
       },
       {
        "name": "Radio Amadeus radio",
+       "active": 0,
        "url": "https://curastreamz.com:7003/stream?type=http&nocache=2",
        "tags": [
         "pop_hits",
@@ -491,29 +539,35 @@
       },
       {
        "name": "Radio Hoyer 1",
+       "active": 0,
        "url": "http://s8.voscast.com:7230",
        "language_inferred": true
       },
       {
        "name": "Radio Hoyer 2",
+       "active": 0,
        "url": "https://s1.voscast.com:10489/live"
       },
       {
        "name": "Radio Krioyo 89.7 FM",
+       "active": 0,
        "url": "http://s5.voscast.com:8202/stream.nsv",
        "language_inferred": true
       },
       {
        "name": "Radio Krioyo 89.7 FM",
+       "active": 0,
        "url": "http://162.210.196.140:31458/stream/1"
       },
       {
        "name": "Radio Mas 99.7",
+       "active": 0,
        "url": "http://mas99.com:8201/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio New Song",
+       "active": 0,
        "url": "http://s7.voscast.com:8704/",
        "tags": [
         "pop_hits",
@@ -522,11 +576,13 @@
       },
       {
        "name": "Radio Willemstad live brazil",
+       "active": 0,
        "url": "https://stream2.svrdedicado.org:7238/stream",
        "language_inferred": true
       },
       {
        "name": "Ritmo Antiyano",
+       "active": 0,
        "url": "http://www.ritmo-antiyano.com/ritmo-antiyano",
        "language_inferred": true
       }
@@ -537,6 +593,7 @@
      "stations": [
       {
        "name": "Radio Mambo",
+       "active": 0,
        "url": "http://50.62.79.80:9998/stream.nsv",
        "tags": [
         "reggae_ska",
@@ -551,6 +608,7 @@
      "stations": [
       {
        "name": "Hitradio 915",
+       "active": 0,
        "url": "http://hitradio915.primcast.com:6184/stream.mp3",
        "language_inferred": true
       }
@@ -561,6 +619,7 @@
      "stations": [
       {
        "name": "Bo Radio",
+       "active": 0,
        "url": "http://www.boradio.nl:8000/stream.nsv",
        "tags": [
         "soul_rnb_funk",
@@ -570,6 +629,7 @@
       },
       {
        "name": "Direct 107.1FM",
+       "active": 0,
        "url": "http://radiodeltha927fm.primcast.com:6484/stream.nsv",
        "tags": [
         "pop_hits",
@@ -580,6 +640,7 @@
       },
       {
        "name": "Dushi Swa Radio",
+       "active": 0,
        "url": "http://www.dushiswa.com:5020/stream.nsv",
        "tags": [
         "soul_rnb_funk",
@@ -590,6 +651,7 @@
       },
       {
        "name": "J.L. Radio",
+       "active": 0,
        "url": "http://50.63.61.79:8012/stream.nsv",
        "tags": [
         "soul_rnb_funk",
@@ -599,6 +661,7 @@
       },
       {
        "name": "Kaboem Radio",
+       "active": 0,
        "url": "http://46.249.57.192:8057/stream.nsv",
        "tags": [
         "soul_rnb_funk",
@@ -608,11 +671,13 @@
       },
       {
        "name": "Kultural online",
+       "active": 0,
        "url": "http://www.primcast.com/asx/listen259522",
        "language_inferred": true
       },
       {
        "name": "NO$ RADIO",
+       "active": 0,
        "url": "http://freeuk11.listen2myradio.com:4038/stream/1",
        "tags": [
         "soul_rnb_funk",
@@ -624,6 +689,7 @@
       },
       {
        "name": "Radio Aroma Natural",
+       "active": 0,
        "url": "http://server-06.stream-server.nl:8506/stream.nsv",
        "tags": [
         "reggae_ska",
@@ -633,6 +699,7 @@
       },
       {
        "name": "Radio Kimiko radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/sq6v6nxmns8uv",
        "tags": [
         "pop_hits",
@@ -644,6 +711,7 @@
       },
       {
        "name": "Rockorsou 88.3 FM",
+       "active": 0,
        "url": "http://youngfreshfast.serverroom.us:9166/listen.pls",
        "tags": [
         "soul_rnb_funk",
@@ -657,6 +725,7 @@
      "stations": [
       {
        "name": "radioetly",
+       "active": 0,
        "url": "https://stream.zeno.fm/sm88d7584uhvv",
        "language_inferred": true
       }
@@ -667,325 +736,391 @@
      "stations": [
       {
        "name": "A voz do Brasil Para Cristo Almas TO",
+       "active": 0,
        "url": "https://stream.zeno.fm/aun5mq13pg0uv",
        "language_inferred": true
       },
       {
        "name": "Active 104.5 FM",
+       "active": 0,
        "url": "http://94.23.148.11:8416/stream/1"
       },
       {
        "name": "Always The Best Radio – Willemstad",
+       "active": 0,
        "url": "https://curastreamz.com/8012/stream",
        "language_inferred": true
       },
       {
        "name": "Assembleia de Deus",
+       "active": 0,
        "url": "https://stream.zeno.fm/5268187k21zuv",
        "language_inferred": true
       },
       {
        "name": "Caribbean Music Station – Willemstad",
+       "active": 0,
        "url": "https://stream.zeno.fm/s4euxxvq9c0uv",
        "language_inferred": true
       },
       {
        "name": "centinela",
+       "active": 0,
        "url": "https://stream.zeno.fm/7t5swr4t4f0uv",
        "language_inferred": true
       },
       {
        "name": "Continental Gospel",
+       "active": 0,
        "url": "https://stream.zeno.fm/kpgkvapzkc9uv",
        "language_inferred": true
       },
       {
        "name": "Curacao Blue Sky",
+       "active": 0,
        "url": "https://stream.zeno.fm/4u9z6gyuag8uv",
        "language_inferred": true
       },
       {
        "name": "dfffff",
+       "active": 0,
        "url": "https://stream.zeno.fm/ztpf5w820ehvv",
        "language_inferred": true
       },
       {
        "name": "DJS On air",
+       "active": 0,
        "url": "https://stream.zeno.fm/n54q054mms8uv",
        "language_inferred": true
       },
       {
        "name": "Dolfijn FM Hits",
+       "active": 0,
        "url": "http://190.4.191.150:8020/stream.aac",
        "language_inferred": true
       },
       {
        "name": "Dolfijn FM Urban",
+       "active": 0,
        "url": "http://190.4.191.150:8010/stream.aac",
        "language_inferred": true
       },
       {
        "name": "Dushi FM 88.9 Curacao",
+       "active": 0,
        "url": "https://stream.zeno.fm/sagftcf3k0hvv",
        "language_inferred": true
       },
       {
        "name": "Dushi FM transmishon",
+       "active": 0,
        "url": "https://stream.zeno.fm/afctb8971rhvv",
        "language_inferred": true
       },
       {
        "name": "Fiesta FM 106.3 MHz",
+       "active": 0,
        "url": "https://stream.zeno.fm/xdp0hr4mms8uv",
        "language_inferred": true
       },
       {
        "name": "Joce Production 88.5 FM – Willemstad",
+       "active": 0,
        "url": "https://stream-40.zeno.fm/hp4bpr101ehvv",
        "language_inferred": true
       },
       {
        "name": "Kiss FM – Willemstad",
+       "active": 0,
        "url": "http://stream.zeno.fm/s9gn9p50q98uv",
        "language_inferred": true
       },
       {
        "name": "KRIOYO FUNK TV",
+       "active": 0,
        "url": "https://stream.zeno.fm/rtam8uhbny8uv",
        "language_inferred": true
       },
       {
        "name": "Luz Di Korsou",
+       "active": 0,
        "url": "https://stream.zeno.fm/vm5cf6kapa0uv",
        "language_inferred": true
       },
       {
        "name": "Mavis Staples",
+       "active": 0,
        "url": "https://stream.zeno.fm/p19abakhyk8uv",
        "language_inferred": true
       },
       {
        "name": "Mi 95.7 FM – 95.7 FM – Willemstad",
+       "active": 0,
        "url": "https://streannlive-lh.akamaihd.net/i/Mi95_1@666123/master.m3u8?customtoken=bec9e5ad-f26c-4ff8-acd4-3a9d26c2f9e3&hdnts=exp=1624036279~acl=*~hmac=f9692e2c6eddb3a9e7f9f88cbe58a4d508163d5624cac0466252a45a91537259&AkamaiAnalytics_debug=1&set-segment-duration=",
        "language_inferred": true
       },
       {
        "name": "Mix global Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/8d8qcgv3038uv",
        "language_inferred": true
       },
       {
        "name": "Mizpah",
+       "active": 0,
        "url": "https://stream.zeno.fm/k1cbg09pxk8uv",
        "language_inferred": true
       },
       {
        "name": "NOS RADIO",
+       "active": 0,
        "url": "http://78.129.163.82:20076/stream/1",
        "language_inferred": true
       },
       {
        "name": "Ons Radio Curacao",
+       "active": 0,
        "url": "https://stream.zeno.fm/nyxe5qbvwrhvv",
        "language_inferred": true
       },
       {
        "name": "Ons Radio Curacao Online",
+       "active": 0,
        "url": "http://freeuk27.listen2myradio.com:21021/type=",
        "language_inferred": true
       },
       {
        "name": "Opiniones Hay Millones",
+       "active": 0,
        "url": "https://stream.zeno.fm/qve9kysa7zhvv",
        "language_inferred": true
       },
       {
        "name": "Paradise FM Disco Inferno",
+       "active": 0,
        "url": "https://paradisefm.sincere.cloud/ParadiseDiscoInferno?n=8e9ab23f4dccf8281347",
        "language_inferred": true
       },
       {
        "name": "Power mel",
+       "active": 0,
        "url": "https://stream.zeno.fm/n5u21dehxxhvv",
        "language_inferred": true
       },
       {
        "name": "Radio 88Rockorsou",
+       "active": 0,
        "url": "https://webapi.streann.com/loadbalancer/services/web-players/radios-reseller-secure/5b05983d2cdc3216615630cf/3dc1d764-16b0-44dc-9eb7-d80fb0fdc9dc/nf3q1lejdp1gha0d940ushvuuc/5afb60fe2cdc911600aff6c5/playlist.m3u8"
       },
       {
        "name": "Radio Active 104.5",
+       "active": 0,
        "url": "https://node1.westream.solutions/RadioActive"
       },
       {
        "name": "Radio Amadeus",
+       "active": 0,
        "url": "https://freeuk6.listen2myradio.com/live.mp3?typeportmount=s1_10080_stream_111504213",
        "language_inferred": true
       },
       {
        "name": "Radio Aroma Natural",
+       "active": 0,
        "url": "http://server-28.stream-server.nl:8506/stream/1"
       },
       {
        "name": "RADIO CYBER FM POWER 92",
+       "active": 0,
        "url": "https://stream.zeno.fm/fq9z7t0wng8uv",
        "language_inferred": true
       },
       {
        "name": "Radio de Curazao",
+       "active": 0,
        "url": "https://stream.zeno.fm/7s35553hgf9uv",
        "language_inferred": true
       },
       {
        "name": "radio etly cw",
+       "active": 0,
        "url": "https://stream.zeno.fm/mzacds384uhvv",
        "language_inferred": true
       },
       {
        "name": "Radio Explore Online Curacao",
+       "active": 0,
        "url": "https://usa10.fastcast4u.com:4040/"
       },
       {
        "name": "Radio Explore Online Curacao – Willemstad",
+       "active": 0,
        "url": "http://78.129.240.14:30963/",
        "language_inferred": true
       },
       {
        "name": "Radio Happyhour",
+       "active": 0,
        "url": "https://stream.zeno.fm/5sqx5x3vz68uv",
        "language_inferred": true
       },
       {
        "name": "Radio Juice",
+       "active": 0,
        "url": "https://stream.zeno.fm/2svxn7trxchvv",
        "language_inferred": true
       },
       {
        "name": "Radio Kimiko",
+       "active": 0,
        "url": "https://freeuk17.listen2myradio.com/live.mp3?typeportmount=s1_27785_stream_895514029",
        "language_inferred": true
       },
       {
        "name": "Radio Kimiko",
+       "active": 0,
        "url": "https://stream.zeno.fm/8a0yaqk40s8uv",
        "language_inferred": true
       },
       {
        "name": "Radio Krioyo 89.7 FM",
+       "active": 0,
        "url": "https://radios.wakenext.com/hls/radio_kriyoyo_2/live.m3u8?n=dee5d620593f8e323171",
        "language_inferred": true,
        "rb": "32182b4e-cd2c-4291-821d-6a969eb7b37f"
       },
       {
        "name": "radio kristal di oro",
+       "active": 0,
        "url": "https://stream.zeno.fm/p8rvb3m2m0hvv",
        "language_inferred": true
       },
       {
        "name": "Radio Kristal di Oro – Willemstad",
+       "active": 0,
        "url": "https://stream-43.zeno.fm/chs4bwz1mp8uv",
        "language_inferred": true
       },
       {
        "name": "Radio Let The Music Play",
+       "active": 0,
        "url": "https://stream.zeno.fm/ukv44b2yus8uv",
        "language_inferred": true
       },
       {
        "name": "Radio Mario Reis",
+       "active": 0,
        "url": "https://stream.zeno.fm/7tqqyenqta0uv",
        "language_inferred": true
       },
       {
        "name": "Radio Rey de Selva",
+       "active": 0,
        "url": "https://stream.zeno.fm/yx8unrrucv8uv",
        "language_inferred": true
       },
       {
        "name": "Radio Sambas Enredos Rio Sao Paulo",
+       "active": 0,
        "url": "https://stream.zeno.fm/yggszkwmnd0uv",
        "language_inferred": true
       },
       {
        "name": "Radio Speed Curacao",
+       "active": 0,
        "url": "https://stream.zeno.fm/7ydxac3vvs8uv"
       },
       {
        "name": "Radio Vinylkiste",
+       "active": 0,
        "url": "http://138.201.234.215:10406/",
        "language_inferred": true
       },
       {
        "name": "Radio Vishon",
+       "active": 0,
        "url": "https://stream.zeno.fm/g427xz5q1nhvv",
        "language_inferred": true
       },
       {
        "name": "Radio Vishon Server Curacao",
+       "active": 0,
        "url": "https://stream.zeno.fm/187862hmvy8uv",
        "language_inferred": true
       },
       {
        "name": "Radio Z86 – Willemstad",
+       "active": 0,
        "url": "https://streannlive-lh.akamaihd.net/i/Z86_1@666124/master.m3u8?customtoken=3334f54c-88e1-44c4-ac82-58dc2a0d492e&hdnts=exp=1624036183~acl=*~hmac=4d89524695e1feda588cbd2751ddccfa305a4aa5231380c655588d2b2cc175cc&AkamaiAnalytics_debug=1&set-segment-duration=s",
        "language_inferred": true
       },
       {
        "name": "Ret Q",
+       "active": 0,
        "url": "https://stream-48.zeno.fm/9s61dtwd898uv",
        "language_inferred": true
       },
       {
        "name": "Rockorsou 88.3 FM – 88.3 FM – Willemstad",
+       "active": 0,
        "url": "https://streannlive-lh.akamaihd.net/i/88rockorsou_1@666119/master.m3u8?customtoken=367d9908-71b6-4227-b0c2-b845a979201c&hdnts=exp=1624036357~acl=*~hmac=c63567352d71de7d938e525f7f95335c38d371bb3699bdf0e4bafe3b1244496c&AkamaiAnalytics_debug=1&set-segment-du",
        "language_inferred": true
       },
       {
        "name": "RockSteady Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/zr5ty3ea3d0uv"
       },
       {
        "name": "Rotia Radio Curacao",
+       "active": 0,
        "url": "https://stream.zeno.fm/9cpqrurydy8uv",
        "language_inferred": true
       },
       {
        "name": "Rumbera 107.9 FM Curacao",
+       "active": 0,
        "url": "https://stream.zeno.fm/md62xuw3668uv",
        "language_inferred": true
       },
       {
        "name": "Rumbera Curacao",
+       "active": 0,
        "url": "https://stream.zeno.fm/bzm52hu1trhvv",
        "language_inferred": true
       },
       {
        "name": "Rádio Germano indoor",
+       "active": 0,
        "url": "https://stream.zeno.fm/drsfrqr1h2zuv",
        "language_inferred": true
       },
       {
        "name": "test_fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/umsfnfg9g0hvv",
        "language_inferred": true
       },
       {
        "name": "The Wine Factory Curacao",
+       "active": 0,
        "url": "https://paradisefm.sincere.cloud/twf?n=6f9b0c4b33714f92b116",
        "language_inferred": true
       },
       {
        "name": "Tokusatsu Relembrando",
+       "active": 0,
        "url": "https://stream.zeno.fm/rghut3echg8uv",
        "language_inferred": true
       },
       {
        "name": "Vibes nation Radio",
+       "active": 0,
        "url": "https://node-01.zeno.fm/2rrkqrsgps8uv",
        "language_inferred": true
       },
       {
        "name": "Vibes Nation Radio – Willemstad",
+       "active": 0,
        "url": "https://stream-47.zeno.fm/2rrkqrsgps8uv?zs=FH7i9Z4KSXKYvViUWNlBGg",
        "language_inferred": true
       }
@@ -1001,6 +1136,7 @@
      "stations": [
       {
        "name": "How Radio",
+       "active": 0,
        "url": "http://s7.voscast.com:9138/stream.mp3"
       }
      ]
@@ -1010,6 +1146,7 @@
      "stations": [
       {
        "name": "Comeback Radio",
+       "active": 0,
        "url": "http://74.50.122.103:7000/stream.mp3"
       }
      ]
@@ -1019,6 +1156,7 @@
      "stations": [
       {
        "name": "Active FM",
+       "active": 0,
        "url": "http://94.23.148.11:8416/stream.mp3",
        "tags": [
         "news_talk",
@@ -1027,6 +1165,7 @@
       },
       {
        "name": "Radio Digital",
+       "active": 0,
        "url": "http://164.68.102.183:8040/stream.mp3",
        "tags": [
         "news_talk",
@@ -1040,10 +1179,12 @@
      "stations": [
       {
        "name": "92.1 FM Life",
+       "active": 0,
        "url": "http://s9.voscast.com:7368/stream.mp3"
       },
       {
        "name": "Radio Direct 107.1 FM",
+       "active": 0,
        "url": "https://s9.voscast.com:7365/107fm",
        "tags": [
         "pop_hits",
@@ -1053,6 +1194,7 @@
       },
       {
        "name": "Radio Krioyo",
+       "active": 0,
        "url": "https://streamingv2.shoutcast.com/radio-krioyo-897",
        "tags": [
         "pop_hits",
@@ -1066,22 +1208,27 @@
      "stations": [
       {
        "name": "Direct 107.1 FM",
+       "active": 0,
        "url": "http://s9.voscast.com:7364/stream.mp3"
       },
       {
        "name": "Kultural Online",
+       "active": 0,
        "url": "http://vozdibonaire.primcast.com:9176/stream.mp3"
       },
       {
        "name": "Ons Radio Curaçao",
+       "active": 0,
        "url": "http://freeuk27.listen2myradio.com:21021/stream.mp3"
       },
       {
        "name": "Radio Deltha 92",
+       "active": 0,
        "url": "https://radio1.getstreamhosting.com:6484/stream"
       },
       {
        "name": "Radio Korsou FM",
+       "active": 0,
        "url": "http://s36.myradiostream.com:14198/stream.mp3"
       }
      ]
@@ -1096,6 +1243,7 @@
      "stations": [
       {
        "name": "Direct Life 92.1FM",
+       "active": 0,
        "url": "https://s9.voscast.com:7369/921fm",
        "tags": [
         "pop_hits",
@@ -1109,6 +1257,7 @@
      "stations": [
       {
        "name": "Radio One",
+       "active": 0,
        "url": "http://64.150.176.42:8004/live",
        "tags": [
         "electronic",
@@ -1123,6 +1272,7 @@
      "stations": [
       {
        "name": "Radio One FM",
+       "active": 0,
        "url": "https://8793843.com/7896326782",
        "tags": [
         "house",
@@ -1139,6 +1289,7 @@
      "stations": [
       {
        "name": "Dolfijn FM Latin Listen live",
+       "active": 0,
        "url": "https://radiostreamfm.com/radio/8000/dolfijnlatin.mp3",
        "tags": [
         "latin",
@@ -1157,6 +1308,7 @@
      "stations": [
       {
        "name": "Curacao Christian Radio",
+       "active": 0,
        "url": "https://curacaochristian.out.airtime.pro/curacaochristian_a",
        "tags": [
         "christian_gospel",
@@ -1167,6 +1319,7 @@
       },
       {
        "name": "Radio E Palabra",
+       "active": 0,
        "url": "https://ssl.aloncast.com:3443/stream"
       }
      ]
@@ -1176,6 +1329,7 @@
      "stations": [
       {
        "name": "Go Radio 88.9 FM",
+       "active": 0,
        "url": "http://node-22.zeno.fm/tbrwtd58f18uv?rj-ttl=5\\u0026rj-tok=AAABe_YcX4IAWWTr09H8X4OjbA"
       }
      ]
@@ -1190,6 +1344,7 @@
      "stations": [
       {
        "name": "Joce Production FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/hp4bpr101ehvv",
        "tags": [
         "christian_gospel",
@@ -1210,6 +1365,7 @@
      "stations": [
       {
        "name": "Tzgospel swahili",
+       "active": 0,
        "url": "https://stream.zeno.fm/t4ahz8pdhfhvv"
       }
      ]

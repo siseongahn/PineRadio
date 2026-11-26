@@ -10,6 +10,7 @@
      "stations": [
       {
        "name": "Radio Sangeet Masti radio",
+       "active": 0,
        "url": "https://servidor19.brlogic.com:7304/live",
        "tags": [
         "rock",
@@ -24,10 +25,12 @@
      "stations": [
       {
        "name": "Hope FM Fiji",
+       "active": 0,
        "url": "http://198.178.123.17:8958/stream/1/"
       },
       {
        "name": "Hope FM Fiji",
+       "active": 0,
        "url": "http://s6.voscast.com:8958/"
       }
      ]
@@ -37,6 +40,7 @@
      "stations": [
       {
        "name": "The Vox Populi - Unifiji Campus Radio",
+       "active": 0,
        "url": "https://s5.radio.co/s9ccc1e3bd/listen",
        "tags": [
         "classical",
@@ -53,6 +57,7 @@
      "stations": [
       {
        "name": "Zees Playlist",
+       "active": 0,
        "url": "https://stream.zeno.fm/ud35nxapc2zuv",
        "language_inferred": true
       }
@@ -63,6 +68,7 @@
      "stations": [
       {
        "name": "Mix FM",
+       "active": 0,
        "url": "http://fijiradio.net:8000/live",
        "bitrate": 128,
        "logo": "http://radio.pervii.com/logo/1403690365.png",
@@ -82,6 +88,7 @@
      "stations": [
       {
        "name": "2day FM Fiji",
+       "active": 0,
        "url": "https://peridot.streamguys.com:7150/2Day",
        "tags": [
         "pop_hits",
@@ -101,6 +108,7 @@
      "stations": [
       {
        "name": "Bula FM",
+       "active": 0,
        "url": "https://peridot.streamguys.com:7150/Bula",
        "tags": [
         "news_talk",
@@ -114,6 +122,7 @@
       },
       {
        "name": "FM96 Fiji",
+       "active": 0,
        "url": "https://stream.fijivillage.com/fm96",
        "tags": [
         "news_talk",
@@ -128,6 +137,7 @@
       },
       {
        "name": "Radio Fiji GOLD",
+       "active": 0,
        "url": "https://peridot.streamguys.com:7150/Gold",
        "tags": [
         "news_talk",
@@ -145,11 +155,13 @@
       },
       {
        "name": "Radio Rishtey",
+       "active": 0,
        "url": "http://cast5.servcast.net:8048/stream?type=http&ampnocache=12589",
        "language_inferred": true
       },
       {
        "name": "Radio Rishtey radio",
+       "active": 0,
        "url": "http://cast5.servcast.net:8048/",
        "tags": [
         "news_talk",
@@ -159,6 +171,7 @@
       },
       {
        "name": "Radio Sargam",
+       "active": 0,
        "url": "https://stream.fijivillage.com/radiosargam",
        "tags": [
         "news_talk",
@@ -171,6 +184,7 @@
       },
       {
        "name": "Viti FM Listen live",
+       "active": 0,
        "url": "https://stream.fijivillage.com/vitifm?ver=264613",
        "tags": [
         "news_talk",
@@ -186,6 +200,7 @@
      "stations": [
       {
        "name": "Mix FM Fiji",
+       "active": 0,
        "url": "https://azuracast.fijiradio.net/radio/8000/live",
        "tags": [
         "oldies",
@@ -200,6 +215,7 @@
      "stations": [
       {
        "name": "Station Beta, Suva radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/asjezvzeiixtv",
        "language_inferred": true
       }
@@ -210,6 +226,7 @@
      "stations": [
       {
        "name": "Legend FM",
+       "active": 0,
        "url": "https://stream.fijivillage.com/legendfm",
        "tags": [
         "news_talk",
@@ -232,6 +249,7 @@
      "stations": [
       {
        "name": "Myakashvaanifijicom",
+       "active": 0,
        "url": "http://s7.voscast.com:9768/stream1562334380872/1",
        "language_inferred": true
       }
@@ -242,132 +260,159 @@
      "stations": [
       {
        "name": "1kanna",
+       "active": 0,
        "url": "https://stream.zeno.fm/east774h738uv",
        "language_inferred": true
       },
       {
        "name": "1msvis",
+       "active": 0,
        "url": "https://stream.zeno.fm/6qzf48gh738uv",
        "language_inferred": true
       },
       {
        "name": "1vantonyraj",
+       "active": 0,
        "url": "https://stream.zeno.fm/eus9ahn8938uv",
        "language_inferred": true
       },
       {
        "name": "2Day FM",
+       "active": 0,
        "url": "https://peridot.streamguys1.com:7155/2Day",
        "language_inferred": true
       },
       {
        "name": "aaaaaaaaaaaaaa33333",
+       "active": 0,
        "url": "https://stream.zeno.fm/f2p9nswde0hvv",
        "language_inferred": true
       },
       {
        "name": "Babasiga Classics Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/7118y97xwwzuv"
       },
       {
        "name": "DIVA Fiji Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/scy8hw8k5f0uv"
       },
       {
        "name": "Feminist Radio Fiji",
+       "active": 0,
        "url": "https://stream.zeno.fm/ye5vtgnvawzuv",
        "language_inferred": true
       },
       {
        "name": "FM PASIFIKA",
+       "active": 0,
        "url": "https://stream.zeno.fm/s5db2y8et18uv",
        "language_inferred": true
       },
       {
        "name": "Fuera de Línea",
+       "active": 0,
        "url": "https://stream.zeno.fm/rrw9nn8xr98uv",
        "language_inferred": true
       },
       {
        "name": "Life FM Fiji",
+       "active": 0,
        "url": "https://stream1.rcast.net/65809"
       },
       {
        "name": "MaeAfrica",
+       "active": 0,
        "url": "https://stream.zeno.fm/u1rc3nrgyk8uv",
        "language_inferred": true
       },
       {
        "name": "NAI TABE",
+       "active": 0,
        "url": "https://stream.zeno.fm/nzp4cmx7zs8uv",
        "language_inferred": true
       },
       {
        "name": "Nai Talai FM",
+       "active": 0,
        "url": "http://freeuk25.listen2myradio.com:6483/",
        "language_inferred": true
       },
       {
        "name": "Radio Jackson do Pandeiro",
+       "active": 0,
        "url": "https://stream.zeno.fm/s72auaepta0uv",
        "language_inferred": true
       },
       {
        "name": "Radio Naya Jiwan – Suva – FJ-C",
+       "active": 0,
        "url": "https://freeuk26.listen2myradio.com/live.mp3?typeportmount=s1_9648_stream_715217726",
        "language_inferred": true
       },
       {
        "name": "Radio Rishtey – Labasa – FJ-N",
+       "active": 0,
        "url": "http://cast5.servcast.net:8048/stream",
        "language_inferred": true
       },
       {
        "name": "Radio Roberet Plant",
+       "active": 0,
        "url": "https://stream.zeno.fm/yutap1zbrd0uv",
        "language_inferred": true
       },
       {
        "name": "Remix Station",
+       "active": 0,
        "url": "https://stream.zeno.fm/mdfx7zade2zuv",
        "language_inferred": true
       },
       {
        "name": "StoneBoat",
+       "active": 0,
        "url": "https://stream.zeno.fm/9wdt6mxrxhhvv",
        "language_inferred": true
       },
       {
        "name": "TEAZE ON AIR",
+       "active": 0,
        "url": "https://stream.zeno.fm/86weynmmdwzuv",
        "language_inferred": true
       },
       {
        "name": "TEAZE TU GA",
+       "active": 0,
        "url": "https://stream.zeno.fm/nd78whgmdwzuv",
        "language_inferred": true
       },
       {
        "name": "The Sunsmackers",
+       "active": 0,
        "url": "https://stream.zeno.fm/gwhg70cwgy8uv",
        "language_inferred": true
       },
       {
        "name": "VIRIKAWAKAWA RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/yc1anct4by8uv"
       },
       {
        "name": "Xtreem Radio Online 2 Bollywood",
+       "active": 0,
        "url": "https://stream.zeno.fm/f039fb2k1v8uv",
        "language_inferred": true
       },
       {
        "name": "Xtreem Radio Online Fj",
+       "active": 0,
        "url": "https://stream.zeno.fm/sfcwq3nqzwzuv",
        "language_inferred": true
       },
       {
        "name": "xtreem rap god",
+       "active": 0,
        "url": "https://stream.zeno.fm/betpr7ede2zuv",
        "language_inferred": true
       }
@@ -383,6 +428,7 @@
      "stations": [
       {
        "name": "RADIO RISHTEY FIJI",
+       "active": 0,
        "url": "http://cast5.servcast.net:8048/stream.mp3",
        "tags": [
         "folk",
@@ -396,6 +442,7 @@
      "stations": [
       {
        "name": "Radio Fiji One",
+       "active": 0,
        "url": "https://peridot.streamguys.com:7150/RFOne",
        "tags": [
         "news_talk",
@@ -406,6 +453,7 @@
       },
       {
        "name": "Radio Fiji Two",
+       "active": 0,
        "url": "https://peridot.streamguys.com:7150/RFTwo",
        "tags": [
         "news_talk",
@@ -425,6 +473,7 @@
      "stations": [
       {
        "name": "Viti FM",
+       "active": 0,
        "url": "https://stream.fijivillage.com/vitifm",
        "tags": [
         "pop_hits",
@@ -440,6 +489,7 @@
      "stations": [
       {
        "name": "Radio Navtarang",
+       "active": 0,
        "url": "https://stream.fijivillage.com/navtarang",
        "tags": [
         "pop_hits",
@@ -458,14 +508,17 @@
      "stations": [
       {
        "name": "EKTAA Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/8hgywwgacy8uv"
       },
       {
        "name": "Radio Andaaz",
+       "active": 0,
        "url": "https://stream.zeno.fm/7681nkdb0rhvv"
       },
       {
        "name": "Radio Nine Networks",
+       "active": 0,
        "url": "https://stream.zeno.fm/xbdjlxmmuzzvv"
       }
      ]
@@ -480,6 +533,7 @@
      "stations": [
       {
        "name": "Web Radio PrismaMix",
+       "active": 0,
        "url": "https://stream.zeno.fm/x62k1rn9dm0uv"
       }
      ]
@@ -494,6 +548,7 @@
      "stations": [
       {
        "name": "Tzgospel swahili",
+       "active": 0,
        "url": "https://stream.zeno.fm/vz2ypt1mffhvv"
       }
      ]

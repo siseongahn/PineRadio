@@ -10,6 +10,7 @@
      "stations": [
       {
        "name": "187.5 Kingheartfm",
+       "active": 0,
        "url": "http://stream.hornhost.com:6141/stream?nocache=110&type=http",
        "tags": [
         "alternative_indie",
@@ -19,6 +20,7 @@
       },
       {
        "name": "Lovemix Radio",
+       "active": 0,
        "url": "http://46.165.204.52:10144/stream/1",
        "tags": [
         "alternative_indie",
@@ -33,6 +35,7 @@
      "stations": [
       {
        "name": "Ahmad Khader Al Tarabulsi",
+       "active": 0,
        "url": "http://live.mp3quran.net:9924",
        "tags": [
         "christian_gospel",
@@ -41,6 +44,7 @@
       },
       {
        "name": "Ahmed Amer",
+       "active": 0,
        "url": "http://live.mp3quran.net:9920",
        "tags": [
         "christian_gospel",
@@ -49,14 +53,17 @@
       },
       {
        "name": "Al-Quran Al-Kareem Radio",
+       "active": 0,
        "url": "http://fusion.shoutca.st:8027/"
       },
       {
        "name": "Alukah - Al-Ad'iyyah wa Al-Adhkar Al-Yawmiyyah Channel",
+       "active": 0,
        "url": "http://radio.alukah.net/adiyyaha"
       },
       {
        "name": "Alukah - Al-Adab wa Al-Turath Al-Araby Channel",
+       "active": 0,
        "url": "https://radio.alukah.net/aladab",
        "tags": [
         "christian_gospel",
@@ -65,6 +72,7 @@
       },
       {
        "name": "Alukah - Al-Aqidah wa Al-Tawhid Channel",
+       "active": 0,
        "url": "https://radio.alukah.net/aqidah",
        "tags": [
         "christian_gospel",
@@ -73,6 +81,7 @@
       },
       {
        "name": "Alukah - Al-Fikr wa Al-Da'wah wa Al-Thaqafah Al-Islamiyyah Channel",
+       "active": 0,
        "url": "https://radio.alukah.net/alfikr",
        "tags": [
         "christian_gospel",
@@ -81,6 +90,7 @@
       },
       {
        "name": "Alukah - Al-Fiqhiyyah Channel",
+       "active": 0,
        "url": "https://radio.alukah.net/fiqhiyyah",
        "tags": [
         "christian_gospel",
@@ -89,6 +99,7 @@
       },
       {
        "name": "Alukah - Al-Hadith Channel",
+       "active": 0,
        "url": "https://radio.alukah.net/hadith",
        "tags": [
         "christian_gospel",
@@ -97,6 +108,7 @@
       },
       {
        "name": "Alukah - Al-Hajj Channel",
+       "active": 0,
        "url": "https://radio.alukah.net/hajj",
        "tags": [
         "christian_gospel",
@@ -105,6 +117,7 @@
       },
       {
        "name": "Alukah - Al-Lughtu Al-Arabiyyah wa Ulumiha Channel",
+       "active": 0,
        "url": "https://radio.alukah.net/arabiyyah",
        "tags": [
         "christian_gospel",
@@ -113,6 +126,7 @@
       },
       {
        "name": "Alukah - Al-Maharat Al-Hayatiyyah wa Al-Ulum Al-Tarbawiyyah Channel",
+       "active": 0,
        "url": "https://radio.alukah.net/maharat",
        "tags": [
         "christian_gospel",
@@ -121,6 +135,7 @@
       },
       {
        "name": "Alukah - Al-Mar'ah Al-Muslimah Channel",
+       "active": 0,
        "url": "https://radio.alukah.net/almarah",
        "tags": [
         "christian_gospel",
@@ -129,6 +144,7 @@
       },
       {
        "name": "Alukah - Al-Quran Al-Karim Channel",
+       "active": 0,
        "url": "https://radio.alukah.net/quran",
        "tags": [
         "christian_gospel",
@@ -137,6 +153,7 @@
       },
       {
        "name": "Alukah - Al-Sirah Al-Nabawiyyah Channel",
+       "active": 0,
        "url": "https://radio.alukah.net/sirah",
        "tags": [
         "christian_gospel",
@@ -145,6 +162,7 @@
       },
       {
        "name": "Alukah - Al-Suluk wa Al-Adab wa Al-Akhlaq Channel",
+       "active": 0,
        "url": "https://radio.alukah.net/assuluk",
        "tags": [
         "christian_gospel",
@@ -153,6 +171,7 @@
       },
       {
        "name": "Alukah - Al-Tarajim wa Al-Ta'rikh wa Al-Siyar Channel",
+       "active": 0,
        "url": "https://radio.alukah.net/tarajim",
        "tags": [
         "christian_gospel",
@@ -161,6 +180,7 @@
       },
       {
        "name": "Alukah - Al-Tawiyyah Al-Ijtimaiyyah Channel",
+       "active": 0,
        "url": "https://radio.alukah.net/attawiyy",
        "tags": [
         "christian_gospel",
@@ -169,6 +189,7 @@
       },
       {
        "name": "Alukah - Dr. Khalid ibn Al-Jeraisy's Channel",
+       "active": 0,
        "url": "https://radio.alukah.net/aljeraisy",
        "tags": [
         "christian_gospel",
@@ -177,6 +198,7 @@
       },
       {
        "name": "Alukah - Dr. Saad ibn Abdullah Al-Humayyid's Channel",
+       "active": 0,
        "url": "https://radio.alukah.net/humayid",
        "tags": [
         "christian_gospel",
@@ -185,6 +207,7 @@
       },
       {
        "name": "Alukah - Kibar Al-Ulama Channel",
+       "active": 0,
        "url": "https://radio.alukah.net/ulama",
        "tags": [
         "christian_gospel",
@@ -193,14 +216,17 @@
       },
       {
        "name": "Alukah - Tafsir Channel",
+       "active": 0,
        "url": "http://radio.alukah.net/tafsir"
       },
       {
        "name": "Alukah - Ulum Al-Quran Channel",
+       "active": 0,
        "url": "http://radio.alukah.net/ulumalquran"
       },
       {
        "name": "Fares Abbad Radio",
+       "active": 0,
        "url": "http://live.mp3quran.net:8006/",
        "tags": [
         "christian_gospel",
@@ -209,6 +235,7 @@
       },
       {
        "name": "Khaled Al-Qahtani Radio",
+       "active": 0,
        "url": "http://live.mp3quran.net:9970",
        "tags": [
         "christian_gospel",
@@ -217,6 +244,7 @@
       },
       {
        "name": "KSA Sunnah Madinah",
+       "active": 0,
        "url": "http://mediaserver2.islamicity.com:8000/SaudiTVEnglish",
        "tags": [
         "christian_gospel",
@@ -227,6 +255,7 @@
       },
       {
        "name": "Maher Al-Muaiqly",
+       "active": 0,
        "url": "http://live.mp3quran.net:9996/stream.mp3",
        "tags": [
         "christian_gospel",
@@ -235,19 +264,23 @@
       },
       {
        "name": "Miraath Radio - Arabic",
+       "active": 0,
        "url": "http://miraath.ddns.net:7000/stream"
       },
       {
        "name": "MP3 Quran",
+       "active": 0,
        "url": "http://live.mp3quran.net:9998"
       },
       {
        "name": "MP3 Quran - Alfateh Alzubair Rewayat Aldori An Abi Amr Radio",
+       "active": 0,
        "url": "https://qurango.net/radio/alfateh_alzubair",
        "language_inferred": true
       },
       {
        "name": "MP3 Quran - E'zat Abdulbari Mohammad",
+       "active": 0,
        "url": "http://live.mp3quran.net:9868",
        "tags": [
         "christian_gospel",
@@ -257,10 +290,12 @@
       },
       {
        "name": "MP3 Quran - E'zat Abdulbasit Abdulsamad (Mojawwad)",
+       "active": 0,
        "url": "http://live.mp3quran.net:9974"
       },
       {
        "name": "MP3 Quran - E'zat Adel Al-Khalbany",
+       "active": 0,
        "url": "http://live.mp3quran.net:9874",
        "tags": [
         "christian_gospel",
@@ -269,374 +304,466 @@
       },
       {
        "name": "MP3 Quran - E'zat Ahmed Al-Trabulsi",
+       "active": 0,
        "url": "http://live.mp3quran.net:9926"
       },
       {
        "name": "MP3 Quran - E'zat Al-Qaria Yassen Rewayat Warsh An Nafi Radio",
+       "active": 0,
        "url": "http://live.mp3quran.net:9908"
       },
       {
        "name": "MP3 Quran - E'zat Alfateh Alzubair",
+       "active": 0,
        "url": "http://live.mp3quran.net:9910"
       },
       {
        "name": "MP3 Quran - E'zat Ali Al-Huthaifi",
+       "active": 0,
        "url": "http://live.mp3quran.net:9844"
       },
       {
        "name": "MP3 Quran - E'zat Ali Alhuthafi Hungarian Majari",
+       "active": 0,
        "url": "http://live.mp3quran.net:9738"
       },
       {
        "name": "MP3 Quran - E'zat Ali Alhuthafi Portuguese",
+       "active": 0,
        "url": "http://live.mp3quran.net:9736"
       },
       {
        "name": "MP3 Quran - E'zat Ali Jaber",
+       "active": 0,
        "url": "http://live.mp3quran.net:9964"
       },
       {
        "name": "MP3 Quran - E'zat Aloyoon Al-Koshi",
+       "active": 0,
        "url": "http://live.mp3quran.net:9912"
       },
       {
        "name": "MP3 Quran - E'zat Beautiful Recitations",
+       "active": 0,
        "url": "http://live.mp3quran.net:8012"
       },
       {
        "name": "MP3 Quran - E'zat C Haj Muhannad AlTayyib Warsh An nafi Tamazight",
+       "active": 0,
        "url": "http://live.mp3quran.net:9760"
       },
       {
        "name": "MP3 Quran - E'zat Fares Abbad",
+       "active": 0,
        "url": "http://live.mp3quran.net:9972/"
       },
       {
        "name": "MP3 Quran - E'zat Fatwa",
+       "active": 0,
        "url": "http://184.173.185.71:8014"
       },
       {
        "name": "MP3 Quran - E'zat Hani Al-Rifai",
+       "active": 0,
        "url": "http://live.mp3quran.net:9780"
       },
       {
        "name": "MP3 Quran - E'zat Hatem Fareed Alwaer",
+       "active": 0,
        "url": "http://live.mp3quran.net:9898"
       },
       {
        "name": "MP3 Quran - E'zat Ibrahim Al-Akdar",
+       "active": 0,
        "url": "http://live.mp3quran.net:9946"
       },
       {
        "name": "MP3 Quran - E'zat Ibrahim Al-Dossari",
+       "active": 0,
        "url": "http://live.mp3quran.net:9902"
       },
       {
        "name": "MP3 Quran - E'zat Idress Abkr",
+       "active": 0,
        "url": "http://live.mp3quran.net:9968"
       },
       {
        "name": "MP3 Quran - E'zat Imad Zuhair Hafiz",
+       "active": 0,
        "url": "http://live.mp3quran.net:9840"
       },
       {
        "name": "MP3 Quran - E'zat Jamaan Alosaimi",
+       "active": 0,
        "url": "http://live.mp3quran.net:9950"
       },
       {
        "name": "MP3 Quran - E'zat Jamal Shaker Abdullah",
+       "active": 0,
        "url": "http://live.mp3quran.net:9900"
       },
       {
        "name": "MP3 Quran - E'zat Khalid Abdul-Kafi",
+       "active": 0,
        "url": "http://live.mp3quran.net:9894"
       },
       {
        "name": "MP3 Quran - E'zat Khalid Al-Mohanna",
+       "active": 0,
        "url": "http://live.mp3quran.net:9896"
       },
       {
        "name": "MP3 Quran - E'zat Khalifa Al-Tunaiji",
+       "active": 0,
        "url": "http://live.mp3quran.net:9892"
       },
       {
        "name": "MP3 Quran - E'zat Maher Al-Muaiqly",
+       "active": 0,
        "url": "http://live.mp3quran.net:9996"
       },
       {
        "name": "MP3 Quran - E'zat Maher Shakhashero",
+       "active": 0,
        "url": "http://live.mp3quran.net:9836"
       },
       {
        "name": "MP3 Quran - E'zat Mahir Al-Muaiqli",
+       "active": 0,
        "url": "http://live.mp3quran.net:8002"
       },
       {
        "name": "MP3 Quran - E'zat Mahmood Al-Rifai",
+       "active": 0,
        "url": "http://live.mp3quran.net:9818"
       },
       {
        "name": "MP3 Quran - E'zat Mahmood Al-Sheimy Rewayat Al Dorai An Al Kisaai",
+       "active": 0,
        "url": "http://live.mp3quran.net:9812"
       },
       {
        "name": "MP3 Quran - E'zat Mahmoud Ali Al-Banna",
+       "active": 0,
        "url": "http://live.mp3quran.net:9808"
       },
       {
        "name": "MP3 Quran - E'zat Mahmoud Ali Al-Banna Almusshaf Al Mojawwad Radio",
+       "active": 0,
        "url": "http://live.mp3quran.net:9810"
       },
       {
        "name": "MP3 Quran - E'zat Mahmoud Khalil Al Hussary Bosnia",
+       "active": 0,
        "url": "http://live.mp3quran.net:9730/"
       },
       {
        "name": "MP3 Quran - E'zat Mahmoud Khalil Al-Hussary",
+       "active": 0,
        "url": "http://live.mp3quran.net:9958/"
       },
       {
        "name": "MP3 Quran - E'zat Mahmoud Khalil Al-Hussary Al Musshaf Al Mojawwad Radio",
+       "active": 0,
        "url": "http://live.mp3quran.net:9806"
       },
       {
        "name": "MP3 Quran - E'zat Mahmoud Khalil Al-Hussary Rewayat Warsh An Nafi",
+       "active": 0,
        "url": "http://live.mp3quran.net:9804"
       },
       {
        "name": "MP3 Quran - E'zat Mishary Alafasi",
+       "active": 0,
        "url": "http://live.mp3quran.net:9982"
       },
       {
        "name": "MP3 Quran - E'zat Mishary Alafasy Spanish",
+       "active": 0,
        "url": "http://live.mp3quran.net:9756/"
       },
       {
        "name": "MP3 Quran - E'zat Moeedh Alharthi Radio",
+       "active": 0,
        "url": "http://live.mp3quran.net:9802"
       },
       {
        "name": "MP3 Quran - E'zat Mohammad Abdullkarem",
+       "active": 0,
        "url": "http://live.mp3quran.net:9822"
       },
       {
        "name": "MP3 Quran - E'zat Mohammad Al-Abdullah",
+       "active": 0,
        "url": "http://live.mp3quran.net:9814"
       },
       {
        "name": "MP3 Quran - E'zat Mohammad Al-Abdullah Rewayat Al Dorai An Al Kisaai Radio",
+       "active": 0,
        "url": "http://live.mp3quran.net:9816"
       },
       {
        "name": "MP3 Quran - E'zat Mohammad Ayyub",
+       "active": 0,
        "url": "http://live.mp3quran.net:9960"
       },
       {
        "name": "MP3 Quran - E'zat Mohammad Jibrel",
+       "active": 0,
        "url": "http://live.mp3quran.net:9962"
       },
       {
        "name": "MP3 Quran - E'zat Mohammed Alminshawi Urdu Translation",
+       "active": 0,
        "url": "http://live.mp3quran.net:9758"
       },
       {
        "name": "MP3 Quran - E'zat Mohammed Siddiq Al-Minshawi",
+       "active": 0,
        "url": "http://live.mp3quran.net:9826"
       },
       {
        "name": "MP3 Quran - E'zat Muftah Al-Saltany",
+       "active": 0,
        "url": "http://live.mp3quran.net:9790"
       },
       {
        "name": "MP3 Quran - E'zat Muftah Al-Saltany Ibn Thakwan An Ibn Amer",
+       "active": 0,
        "url": "http://live.mp3quran.net:9794"
       },
       {
        "name": "MP3 Quran - E'zat Muftah Al-Saltany Rewayat AlDorai An Al Kisaai",
+       "active": 0,
        "url": "http://live.mp3quran.net:9788"
       },
       {
        "name": "MP3 Quran - E'zat Muftah Al-Sultany",
+       "active": 0,
        "url": "http://live.mp3quran.net:9792"
       },
       {
        "name": "MP3 Quran - E'zat Muhammad Abdul-Karim",
+       "active": 0,
        "url": "http://live.mp3quran.net:9824"
       },
       {
        "name": "MP3 Quran - E'zat Muhammad Al-Tablawy",
+       "active": 0,
        "url": "http://live.mp3quran.net:9834",
        "rb": "e9b972cd-408d-4540-b3d1-78eb2d084edb",
        "logo": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250109_145005160.jpg?alt=media&token=abecbaec-3df7-4d04-9f5b-b27fb086832b"
       },
       {
        "name": "MP3 Quran - E'zat Muhammad Rashad Al-Shareef",
+       "active": 0,
        "url": "http://live.mp3quran.net:9830"
       },
       {
        "name": "MP3 Quran - E'zat Muhammad Saleh Alim Shah",
+       "active": 0,
        "url": "http://live.mp3quran.net:9828"
       },
       {
        "name": "MP3 Quran - E'zat Muhammed Al-Luhaidan",
+       "active": 0,
        "url": "http://live.mp3quran.net:9832"
       },
       {
        "name": "MP3 Quran - E'zat Muhammed Siddiq Al-Minshawi",
+       "active": 0,
        "url": "http://live.mp3quran.net:9978"
       },
       {
        "name": "MP3 Quran - E'zat Musa Bilal",
+       "active": 0,
        "url": "http://live.mp3quran.net:9786"
       },
       {
        "name": "MP3 Quran - E'zat Mustafa Al-Lahoni",
+       "active": 0,
        "url": "http://live.mp3quran.net:9798"
       },
       {
        "name": "MP3 Quran - E'zat Mustafa Ismail",
+       "active": 0,
        "url": "http://live.mp3quran.net:9800"
       },
       {
        "name": "MP3 Quran - E'zat Mustafa Raad Al-Azzawy",
+       "active": 0,
        "url": "http://live.mp3quran.net:9796"
       },
       {
        "name": "MP3 Quran - E'zat Nabil Al-Rifay",
+       "active": 0,
        "url": "http://live.mp3quran.net:9784"
       },
       {
        "name": "MP3 Quran - E'zat Niamah Al-Hassan",
+       "active": 0,
        "url": "http://live.mp3quran.net:9782"
       },
       {
        "name": "MP3 Quran - E'zat Quran Translation in France",
+       "active": 0,
        "url": "http://live.mp3quran.net:9744"
       },
       {
        "name": "MP3 Quran - E'zat Quran Translation in Germany",
+       "active": 0,
        "url": "http://live.mp3quran.net:9742"
       },
       {
        "name": "MP3 Quran - E'zat Saad Alghamdi Kurdish Translation",
+       "active": 0,
        "url": "http://live.mp3quran.net:9762"
       },
       {
        "name": "MP3 Quran - E'zat Saad Alghamdi Turkish Translation",
+       "active": 0,
        "url": "http://live.mp3quran.net:9764"
       },
       {
        "name": "MP3 Quran - E'zat Saber Abdulhakm",
+       "active": 0,
        "url": "http://live.mp3quran.net:9952"
       },
       {
        "name": "MP3 Quran - E'zat Sahl Yassin",
+       "active": 0,
        "url": "http://live.mp3quran.net:9888"
       },
       {
        "name": "MP3 Quran - E'zat Salah Al-Budair",
+       "active": 0,
        "url": "http://live.mp3quran.net:9882"
       },
       {
        "name": "MP3 Quran - E'zat Salah Al-Hashim",
+       "active": 0,
        "url": "http://live.mp3quran.net:9880"
       },
       {
        "name": "MP3 Quran - E'zat Salah Bukhatir",
+       "active": 0,
        "url": "http://live.mp3quran.net:9878"
       },
       {
        "name": "MP3 Quran - E'zat Saud Al-Shuraim",
+       "active": 0,
        "url": "http://live.mp3quran.net:9986"
       },
       {
        "name": "MP3 Quran - E'zat Saud Al-Shuraim And Abdulrahman Alsudaes Urdu",
+       "active": 0,
        "url": "http://live.mp3quran.net:9750/"
       },
       {
        "name": "MP3 Quran - E'zat Sayeed Ramadan",
+       "active": 0,
        "url": "http://live.mp3quran.net:9886"
       },
       {
        "name": "MP3 Quran - E'zat Shaik Abu Baker Al-Shatiri",
+       "active": 0,
        "url": "http://live.mp3quran.net:9966"
       },
       {
        "name": "MP3 Quran - E'zat Shirazad Tahir",
+       "active": 0,
        "url": "http://live.mp3quran.net:9884"
       },
       {
        "name": "MP3 Quran - E'zat Tareq Abdulgani Daawob",
+       "active": 0,
        "url": "http://live.mp3quran.net:9876"
       },
       {
        "name": "MP3 Quran - E'zat Tawfeeq As-Sayegh",
+       "active": 0,
        "url": "http://live.mp3quran.net:9906"
       },
       {
        "name": "MP3 Quran - E'zat Translation of Quran In Chinese",
+       "active": 0,
        "url": "http://live.mp3quran.net:9766"
       },
       {
        "name": "MP3 Quran - E'zat Umar Al-Qazabri",
+       "active": 0,
        "url": "http://live.mp3quran.net:9838"
       },
       {
        "name": "MP3 Quran - E'zat Waleed Alnaehi",
+       "active": 0,
        "url": "http://live.mp3quran.net:9778"
       },
       {
        "name": "MP3 Quran - E'zat Yahya Hawwa",
+       "active": 0,
        "url": "http://live.mp3quran.net:9772"
       },
       {
        "name": "MP3 Quran - E'zat Yasser Al-Qurashi",
+       "active": 0,
        "url": "http://live.mp3quran.net:9776"
       },
       {
        "name": "MP3 Quran - E'zat Yasser AlMazroyee",
+       "active": 0,
        "url": "http://live.mp3quran.net:9774"
       },
       {
        "name": "MP3 Quran - E'zat Yousef Alshoaey",
+       "active": 0,
        "url": "http://live.mp3quran.net:9770"
       },
       {
        "name": "MP3 Quran - E'zat Yousef Bin Noah Ahmad",
+       "active": 0,
        "url": "http://live.mp3quran.net:9768"
       },
       {
        "name": "MP3 Quran - E'zat Zaki Daghistani",
+       "active": 0,
        "url": "http://live.mp3quran.net:9890"
       },
       {
        "name": "MP3 Quran - Islamic Tagalog Radio",
+       "active": 0,
        "url": "http://live.mp3quran.net:9930"
       },
       {
        "name": "MP3 Quran - Islamic Uyghuri Radio",
+       "active": 0,
        "url": "http://live.mp3quran.net:9938"
       },
       {
        "name": "MP3 Quran - Islamic Uygur Radio",
+       "active": 0,
        "url": "http://live.mp3quran.net:9940"
       },
       {
        "name": "MP3 Quran - Muftah Alsaltany Rewayat Aldori An Abi Am Radio",
+       "active": 0,
        "url": "https://qurango.net/radio/muftah_alsaltany_aldori_an_abi_amr",
        "language_inferred": true
       },
       {
        "name": "MP3 Quran -Ahmad Khader AlTarabulsi Rewayat Qalon An Nafi Radio",
+       "active": 0,
        "url": "https://qurango.net/radio/ahmed_altrabulsi",
        "language_inferred": true
       },
       {
        "name": "QURAN KAREEM",
+       "active": 0,
        "url": "https://quraanfm-radio.mbc.net/quraanfm-radio.m3u8"
       },
       {
        "name": "Quran Live",
+       "active": 0,
        "url": "http://167.86.117.189:9966/stream",
        "tags": [
         "christian_gospel",
@@ -646,6 +773,7 @@
       },
       {
        "name": "Quran Radio",
+       "active": 0,
        "url": "http://live2.badrshfaqah.sa:8027/stream",
        "tags": [
         "christian_gospel",
@@ -654,6 +782,7 @@
       },
       {
        "name": "Quran Radio Live",
+       "active": 0,
        "url": "http://live.atyaf.co:8012/",
        "tags": [
         "christian_gospel",
@@ -662,26 +791,31 @@
       },
       {
        "name": "Radio Ataa Alkhayer",
+       "active": 0,
        "url": "http://www.alijaber.net/aj_q2/089S_AlFajr.mp3"
       },
       {
        "name": "RadioSunna",
+       "active": 0,
        "url": "https://stream.pcradio.ru/radiosunna-med",
        "language_inferred": true
       },
       {
        "name": "Voice Of Grace",
+       "active": 0,
        "url": "https://securestreams5.reliastream.com:1820/",
        "rb": "e266ecb9-493b-40b7-8cc7-4ccff9a75665",
        "logo": "https://antiochpatriarchate.org/img/radio.png"
       },
       {
        "name": "إذاعات المملكة العربية السعودية - إذاعة القرأن الكريم",
+       "active": 0,
        "url": "https://n02.radiojar.com/0tpy1h0kxtzuv",
        "language_inferred": true
       },
       {
        "name": "إذاعة ياسر الدوسري",
+       "active": 0,
        "url": "https://qurango.net/radio/yasser_aldosari",
        "tags": [
         "christian_gospel",
@@ -692,10 +826,12 @@
       },
       {
        "name": "الرقية الشرعية",
+       "active": 0,
        "url": "http://live.mp3quran.net:9936"
       },
       {
        "name": "جمال شاكر عبدالله - رواية حفص عن عاصم",
+       "active": 0,
        "url": "https://qurango.net/radio/jamal_shaker_abdullah",
        "tags": [
         "christian_gospel",
@@ -704,6 +840,7 @@
       },
       {
        "name": "فيرس 24/7",
+       "active": 0,
        "url": "http://verse24.com:3344/",
        "tags": [
         "christian_gospel",
@@ -713,6 +850,7 @@
       },
       {
        "name": "قناة القرآن الكريم",
+       "active": 0,
        "url": "http://mediaserver2.islamicity.com:8000/SaudiTVArabic",
        "tags": [
         "christian_gospel",
@@ -723,6 +861,7 @@
       },
       {
        "name": "نهج واضح للمسلمين",
+       "active": 0,
        "url": "http://Alnahj.net:8000/stream"
       }
      ]
@@ -732,11 +871,13 @@
      "stations": [
       {
        "name": "104.2 MIX LOVER'S FM radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/2sg3kam19nhvv",
        "language_inferred": true
       },
       {
        "name": "Annahj - Islam Arabic - إذاعة النهج الواضح",
+       "active": 0,
        "url": "https://node33.obviousapproach.com:9000/stream",
        "tags": [
         "classical",
@@ -747,11 +888,13 @@
       },
       {
        "name": "coran kareem",
+       "active": 0,
        "url": "http://m.live.net.sa:1935/live/quransa/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "Mp3Quran Main",
+       "active": 0,
        "url": "https://qurango.net/radio/mix",
        "tags": [
         "christian_gospel",
@@ -761,27 +904,32 @@
       },
       {
        "name": "Mp3Quran Tarateel",
+       "active": 0,
        "url": "https://qurango.net/radio/tarateel",
        "rb": "a9bee505-526e-4c7c-bf03-9797bbc8e28b"
       },
       {
        "name": "Radio nida alislam",
+       "active": 0,
        "url": "http://n05.radiojar.com/59096z743d0uv?rj-ttl=5\\u0026rj-tok=AAZBfqTS3R8Zo-MbNKypObvbjA",
        "language_inferred": true
       },
       {
        "name": "القارئ علي الحذيفي رواية قالون",
+       "active": 0,
        "url": "https://qurango.net/radio/ali_alhuthaifi_qalon",
        "language_inferred": true,
        "rb": "8a753c11-ee4a-42bf-8e4d-6d852cac9030"
       },
       {
        "name": "تفسير بن عثيمين رحمه الله تعالى",
+       "active": 0,
        "url": "https://qurango.net/radio/tafseer",
        "language_inferred": true
       },
       {
        "name": "فتاوى الشيخ ابن عثيمين",
+       "active": 0,
        "url": "http://server2.quraan.us:9890/*.mp3"
       }
      ]
@@ -791,24 +939,29 @@
      "stations": [
       {
        "name": "ELSC TALKS GAZA",
+       "active": 0,
        "url": "https://stream.zeno.fm/9zby77mnug0uv"
       },
       {
        "name": "i-be Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/xh6d0xs8f18uv"
       },
       {
        "name": "OUSRADIOTV",
+       "active": 0,
        "url": "https://stream.zeno.fm/yvabgw46kfhvv",
        "language_inferred": true
       },
       {
        "name": "Randa Rays",
+       "active": 0,
        "url": "https://stream.zeno.fm/a0vpkdznrp8uv",
        "language_inferred": true
       },
       {
        "name": "إنجيل - (ʾInjīl)",
+       "active": 0,
        "url": "https://stream.zeno.fm/mwbhxhxz0ehvv"
       }
      ]
@@ -818,21 +971,25 @@
      "stations": [
       {
        "name": "A n W a T",
+       "active": 0,
        "url": "https://stream.zeno.fm/f36nwk1tqp8uv",
        "language_inferred": true
       },
       {
        "name": "dingdong fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/ythwd6sywc9uv",
        "language_inferred": true
       },
       {
        "name": "Foreverfun",
+       "active": 0,
        "url": "https://stream.zeno.fm/cx5n2bkm8hhvv",
        "language_inferred": true
       },
       {
        "name": "test chat",
+       "active": 0,
        "url": "https://stream.zeno.fm/m6dzw97thxhvv",
        "language_inferred": true
       }
@@ -843,6 +1000,7 @@
      "stations": [
       {
        "name": "104.2 MIXLOVERS FM radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/vzw6cam19nhvv",
        "tags": [
         "disco_eurodance",
@@ -852,6 +1010,7 @@
       },
       {
        "name": "MusicJamOFW",
+       "active": 0,
        "url": "http://ny.mysonicserver.com:8044/stream",
        "tags": [
         "disco_eurodance",
@@ -866,6 +1025,7 @@
      "stations": [
       {
        "name": "101.8 Artys Fm radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/754f5ent9bhvv",
        "tags": [
         "easy_listening",
@@ -875,6 +1035,7 @@
       },
       {
        "name": "14.4 Twinnie Fm Radio",
+       "active": 0,
        "url": "https://mars.streamerr.co/8060/stream",
        "tags": [
         "easy_listening",
@@ -887,6 +1048,7 @@
       },
       {
        "name": "69.9 OL OL DESSERTO FM radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/gkxde584wuhvv",
        "tags": [
         "easy_listening",
@@ -899,6 +1061,7 @@
       },
       {
        "name": "84.7 Bee Cool Fm",
+       "active": 0,
        "url": "https://ny.mysonicserver.com/8054/stream",
        "tags": [
         "easy_listening",
@@ -910,6 +1073,7 @@
       },
       {
        "name": "94.7 Tropang Kasangga Fm radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/2m4822mxfxhvv",
        "tags": [
         "easy_listening",
@@ -922,6 +1086,7 @@
       },
       {
        "name": "Mix FM",
+       "active": 0,
        "url": "http://s2.voscast.com:11376",
        "tags": [
         "pop_hits",
@@ -930,10 +1095,12 @@
       },
       {
        "name": "Panorama FM (بانوراما )",
+       "active": 0,
        "url": "http://mbcfm-live.hls.adaptive.level3.net/hls-live/mbc-panoramafmvideo/_definst_/live.m3u8"
       },
       {
        "name": "Radio Asharq with Bloomberg / راديو الشرق مع بلومبرغ",
+       "active": 0,
        "url": "https://l3.itworkscdn.net/asharqradioalive/asharqradioa/icecast.audio",
        "tags": [
         "easy_listening",
@@ -943,6 +1110,7 @@
       },
       {
        "name": "Six sister newly fm radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/te61rbf68nhvv",
        "language_inferred": true
       }
@@ -953,6 +1121,7 @@
      "stations": [
       {
        "name": "Radio Helax 93.7 FM Listen live",
+       "active": 0,
        "url": "https://19993.live.streamtheworld.com/RADIO_HELAX_128.mp3",
        "tags": [
         "schlager_polka",
@@ -967,6 +1136,7 @@
      "stations": [
       {
        "name": "Marina 88.8 FM Radio Jalsat",
+       "active": 0,
        "url": "http://31.14.40.102:8008/stream.mp3"
       }
      ]
@@ -976,6 +1146,7 @@
      "stations": [
       {
        "name": "100% Hits - 100FM רדיוס Listen live",
+       "active": 0,
        "url": "https://a25.streamgates.net/radios-audio/100Hits/chunks.m3u8",
        "tags": [
         "pop_hits",
@@ -990,6 +1161,7 @@
      "stations": [
       {
        "name": "Addokali Mohammad Alalim",
+       "active": 0,
        "url": "http://live.mp3quran.net:9916",
        "tags": [
         "islamic_quran",
@@ -998,6 +1170,7 @@
       },
       {
        "name": "Adel Ryyan",
+       "active": 0,
        "url": "http://live.mp3quran.net:9872",
        "tags": [
         "islamic_quran",
@@ -1006,6 +1179,7 @@
       },
       {
        "name": "Ahmad Nauina",
+       "active": 0,
        "url": "http://live.mp3quran.net:9904",
        "tags": [
         "islamic_quran",
@@ -1014,6 +1188,7 @@
       },
       {
        "name": "Ahmad Saber",
+       "active": 0,
        "url": "http://live.mp3quran.net:9922",
        "tags": [
         "islamic_quran",
@@ -1022,6 +1197,7 @@
       },
       {
        "name": "Akram Alalaqmi",
+       "active": 0,
        "url": "http://live.mp3quran.net:9918",
        "tags": [
         "islamic_quran",
@@ -1030,19 +1206,23 @@
       },
       {
        "name": "Alafasy Radio",
+       "active": 0,
        "url": "http://streams4.museter.com:8444/stream.ogg"
       },
       {
        "name": "Aljazera quran radio",
+       "active": 0,
        "url": "https://strw1.openstream.co/2388",
        "language_inferred": true
       },
       {
        "name": "Ashabulhadith Radio",
+       "active": 0,
        "url": "http://cast1.asurahosting.com/proxy/ashabulhadith/stream"
       },
       {
        "name": "Miraath Al-Anbiyya",
+       "active": 0,
        "url": "http://radio.al7eah.net:8010/stream",
        "tags": [
         "islamic_quran",
@@ -1051,6 +1231,7 @@
       },
       {
        "name": "Miraath’s English Radio",
+       "active": 0,
        "url": "http://151.80.100.177:7000/autodj/",
        "tags": [
         "islamic_quran",
@@ -1061,6 +1242,7 @@
       },
       {
        "name": "MP3 Quran - E'zat Ahmad Al-Ajmy",
+       "active": 0,
        "url": "http://live.mp3quran.net:8008",
        "tags": [
         "islamic_quran",
@@ -1069,6 +1251,7 @@
       },
       {
        "name": "MP3 Quran - E'zat Ahmad Al-Hawashi",
+       "active": 0,
        "url": "http://live.mp3quran.net:9928",
        "tags": [
         "islamic_quran",
@@ -1077,11 +1260,13 @@
       },
       {
        "name": "MP3Quran - Fares Abbad Radio",
+       "active": 0,
        "url": "http://live.mp3quran.net:8006/stream",
        "language_inferred": true
       },
       {
        "name": "Quran Radio Tafsir",
+       "active": 0,
        "url": "http://206.72.199.179:9992/stream",
        "tags": [
         "islamic_quran",
@@ -1090,6 +1275,7 @@
       },
       {
        "name": "Sabeel Al Anbiyya",
+       "active": 0,
        "url": "https://radio.al7eah.net/8042/stream",
        "tags": [
         "islamic_quran",
@@ -1100,6 +1286,7 @@
       },
       {
        "name": "Sabeel Al Anbiyya",
+       "active": 0,
        "url": "https://sabeelradio.out.airtime.pro/sabeelradio_a",
        "tags": [
         "islamic_quran",
@@ -1109,6 +1296,7 @@
       },
       {
        "name": "Verse 24/7 Holy Quran",
+       "active": 0,
        "url": "https://f9a1620f.ngrok.io/stream.nsv",
        "tags": [
         "islamic_quran",
@@ -1118,34 +1306,42 @@
       },
       {
        "name": "أحمد ديبان - رواية حفص عن عاصم",
+       "active": 0,
        "url": "https://Qurango.net/radio/ahmad_deban"
       },
       {
        "name": "أحمد صابر - رواية حفص عن عاصم",
+       "active": 0,
        "url": "https://Qurango.net/radio/ahmad_saber"
       },
       {
        "name": "أحمد عامر - رواية حفص عن عاصم",
+       "active": 0,
        "url": "https://Qurango.net/radio/ahmed_amer"
       },
       {
        "name": "أحمد نعينع - رواية حفص عن عاصم",
+       "active": 0,
        "url": "https://Qurango.net/radio/ahmad_nauina"
       },
       {
        "name": "أكرم العلاقمي - رواية حفص عن عاصم",
+       "active": 0,
        "url": "https://Qurango.net/radio/akram_alalaqmi"
       },
       {
        "name": "إبراهيم الأخضر",
+       "active": 0,
        "url": "https://qurango.net/radio/ibrahim_alakdar"
       },
       {
        "name": "إدريس أبكر - رواية حفص عن عاصم",
+       "active": 0,
        "url": "https://Qurango.net/radio/idrees_abkr"
       },
       {
        "name": "إذاعة السنة",
+       "active": 0,
        "url": "http://andromeda.shoutca.st:8189/live",
        "tags": [
         "islamic_quran",
@@ -1155,159 +1351,198 @@
       },
       {
        "name": "ابراهيم الدوسري - رواية ورش عن نافع",
+       "active": 0,
        "url": "https://Qurango.net/radio/ibrahim_aldosari"
       },
       {
        "name": "الزين محمد أحمد - رواية حفص عن عاصم",
+       "active": 0,
        "url": "https://Qurango.net/radio/alzain_mohammad_ahmad"
       },
       {
        "name": "العيون الكوشي - رواية ورش عن نافع",
+       "active": 0,
        "url": "https://Qurango.net/radio/aloyoon_alkoshi"
       },
       {
        "name": "القارئ ياسين - رواية حفص عن عاصم",
+       "active": 0,
        "url": "https://Qurango.net/radio/alqaria_yassen"
       },
       {
        "name": "توفيق الصايغ - رواية حفص عن عاصم",
+       "active": 0,
        "url": "https://Qurango.net/radio/tawfeeq_assayegh"
       },
       {
        "name": "خالد القحطاني - رواية حفص عن عاصم",
+       "active": 0,
        "url": "https://Qurango.net/radio/khaled_alqahtani"
       },
       {
        "name": "خالد عبدالكافي - رواية حفص عن عاصم",
+       "active": 0,
        "url": "https://Qurango.net/radio/khalid_abdulkafi"
       },
       {
        "name": "خليفة الطنيجي - رواية حفص عن عاصم",
+       "active": 0,
        "url": "https://Qurango.net/radio/khalifa_altunaiji"
       },
       {
        "name": "زكي داغستاني - رواية حفص عن عاصم",
+       "active": 0,
        "url": "https://Qurango.net/radio/zaki_daghistani"
       },
       {
        "name": "سعد الغامدي - رواية حفص عن عاصم",
+       "active": 0,
        "url": "https://Qurango.net/radio/saad_alghamdi"
       },
       {
        "name": "سعود الشريم - رواية حفص عن عاصم",
+       "active": 0,
        "url": "https://Qurango.net/radio/saud_alshuraim"
       },
       {
        "name": "سيد رمضان - رواية حفص عن عاصم",
+       "active": 0,
        "url": "https://Qurango.net/radio/sayeed_ramadan"
       },
       {
        "name": "شيرزاد عبدالرحمن طاهر - رواية حفص عن عاصم",
+       "active": 0,
        "url": "https://Qurango.net/radio/shirazad_taher"
       },
       {
        "name": "صابر عبدالحكم - رواية حفص عن عاصم",
+       "active": 0,
        "url": "https://Qurango.net/radio/saber_abdulhakm"
       },
       {
        "name": "صلاح البدير - رواية حفص عن عاصم",
+       "active": 0,
        "url": "https://Qurango.net/radio/salah_albudair"
       },
       {
        "name": "صلاح بو خاطر - رواية حفص عن عاصم",
+       "active": 0,
        "url": "https://Qurango.net/radio/slaah_bukhatir",
        "rb": "26e47152-04dd-42e1-bd3a-8b83fe88e357"
       },
       {
        "name": "عادل ريان - رواية حفص عن عاصم",
+       "active": 0,
        "url": "https://Qurango.net/radio/adel_ryyan"
       },
       {
        "name": "عبدالبارئ محمد - رواية حفص عن عاصم",
+       "active": 0,
        "url": "https://Qurango.net/radio/abdulbari_mohammad"
       },
       {
        "name": "عبدالباسط عبدالصمد - رواية حفص عن عاصم",
+       "active": 0,
        "url": "https://Qurango.net/radio/abdulbasit_abdulsamad"
       },
       {
        "name": "عبدالباسط عبدالصمد - رواية حفص عن عاصم - المصحف المجود",
+       "active": 0,
        "url": "https://qurango.net/radio/abdulbasit_abdulsamad_mojawwad"
       },
       {
        "name": "عبدالباسط عبدالصمد - رواية ورش عن نافع",
+       "active": 0,
        "url": "https://Qurango.net/radio/abdulbasit_abdulsamad_warsh"
       },
       {
        "name": "عبدالرحمن السديس - رواية حفص عن عاصم",
+       "active": 0,
        "url": "https://Qurango.net/radio/abdulrahman_alsudaes"
       },
       {
        "name": "عبدالرحمن الماجد - رواية حفص عن عاصم",
+       "active": 0,
        "url": "https://qurango.net/radio/abdulrahman_almajed"
       },
       {
        "name": "عبدالرشيد صوفي - رواية السوسي عن أبي عمرو",
+       "active": 0,
        "url": "https://Qurango.net/radio/abdulrasheed_soufi_assosi"
       },
       {
        "name": "عبدالرشيد صوفي - رواية خلف عن حمزة",
+       "active": 0,
        "url": "https://Qurango.net/radio/abdulrasheed_soufi_khalaf"
       },
       {
        "name": "عبدالعزيز الأحمد - رواية حفص عن عاصم",
+       "active": 0,
        "url": "https://Qurango.net/radio/abdul_aziz_alahmad"
       },
       {
        "name": "عبدالله المطرود - رواية حفص عن عاصم",
+       "active": 0,
        "url": "https://Qurango.net/radio/abdullah_almattrod"
       },
       {
        "name": "عبدالله بصفر - رواية حفص عن عاصم",
+       "active": 0,
        "url": "https://Qurango.net/radio/abdullah_basfer"
       },
       {
        "name": "عبدالله خياط - رواية حفص عن عاصم",
+       "active": 0,
        "url": "https://Qurango.net/radio/abdullah_khayyat"
       },
       {
        "name": "عبدالمحسن الحارثي - رواية حفص عن عاصم",
+       "active": 0,
        "url": "https://Qurango.net/radio/abdulmohsin_alharthy"
       },
       {
        "name": "عبدالمحسن العبيكان",
+       "active": 0,
        "url": "https://Qurango.net/radio/abdulmohsin_alobaikan"
       },
       {
        "name": "عبدالمحسن القاسم - رواية حفص عن عاصم",
+       "active": 0,
        "url": "https://Qurango.net/radio/abdulmohsen_alqasim"
       },
       {
        "name": "عبدالهادي أحمد كناكري",
+       "active": 0,
        "url": "https://Qurango.net/radio/abdulhadi_kanakeri"
       },
       {
        "name": "عبدالودود حنيف",
+       "active": 0,
        "url": "https://Qurango.net/radio/abdulwadood_haneef"
       },
       {
        "name": "علي بن عبدالرحمن الحذيفي",
+       "active": 0,
        "url": "https://Qurango.net/radio/ali_alhuthaifi"
       },
       {
        "name": "علي جابر",
+       "active": 0,
        "url": "https://Qurango.net/radio/ali_jaber"
       },
       {
        "name": "علي حجاج السويسي",
+       "active": 0,
        "url": "https://Qurango.net/radio/ali_hajjaj_alsouasi"
       },
       {
        "name": "عمر القزابري",
+       "active": 0,
        "url": "https://Qurango.net/radio/omar_alqazabri"
       },
       {
        "name": "فارس عباد",
+       "active": 0,
        "url": "https://Qurango.net/radio/fares_abbad",
        "tags": [
         "islamic_quran",
@@ -1318,38 +1553,47 @@
       },
       {
        "name": "محمد أبو سنينة - رواية قالون عن نافع",
+       "active": 0,
        "url": "https://Qurango.net/radio/sneineh"
       },
       {
        "name": "محمد الطبلاوي - رواية حفص عن عاصم",
+       "active": 0,
        "url": "https://Qurango.net/radio/mohammad_altablaway"
       },
       {
        "name": "محمد اللحيدان - رواية حفص عن عاصم",
+       "active": 0,
        "url": "https://Qurango.net/radio/mohammed_allohaidan"
       },
       {
        "name": "محمد جبريل - رواية حفص عن عاصم",
+       "active": 0,
        "url": "https://Qurango.net/radio/mohammed_jibreel"
       },
       {
        "name": "محمد رشاد الشريف - رواية حفص عن عاصم",
+       "active": 0,
        "url": "https://Qurango.net/radio/mohammad_rashad_alshareef"
       },
       {
        "name": "محمد صالح عالم شاه - رواية حفص عن عاصم",
+       "active": 0,
        "url": "https://Qurango.net/radio/mohammad_saleh_alim_shah"
       },
       {
        "name": "محمد صديق المنشاوي - رواية حفص عن عاصم - المصحف المجود",
+       "active": 0,
        "url": "https://qurango.net/radio/mohammed_siddiq_alminshawi_mojawwad"
       },
       {
        "name": "محمد عبدالكريم - رواية حفص عن عاصم",
+       "active": 0,
        "url": "https://Qurango.net/radio/mohammad_abdullkarem"
       },
       {
        "name": "محمد عثمان خان - رواية حفص عن عاصم",
+       "active": 0,
        "url": "https://Qurango.net/radio/mohammed_osman_khan",
        "tags": [
         "islamic_quran",
@@ -1358,49 +1602,60 @@
       },
       {
        "name": "محمود الشيمي - رواية الدوري عن الكسائي",
+       "active": 0,
        "url": "https://Qurango.net/radio/mahmood_alsheimy"
       },
       {
        "name": "محمود خليل الحصري - رواية حفص عن عاصم",
+       "active": 0,
        "url": "https://Qurango.net/radio/mahmoud_khalil_alhussary",
        "rb": "2cb54ac0-37d7-4742-8259-18e07a6cb2c7"
       },
       {
        "name": "محمود خليل الحصري - رواية حفص عن عاصم - المصحف المجود",
+       "active": 0,
        "url": "https://Qurango.net/radio/mahmoud_khalil_alhussary_mojawwad"
       },
       {
        "name": "محمود خليل الحصري - رواية ورش عن نافع",
+       "active": 0,
        "url": "https://Qurango.net/radio/mahmoud_khalil_alhussary_warsh"
       },
       {
        "name": "محمود علي البنا - رواية حفص عن عاصم",
+       "active": 0,
        "url": "https://Qurango.net/radio/mahmoud_ali__albanna"
       },
       {
        "name": "محمود علي البنا - رواية حفص عن عاصم - المصحف المجود",
+       "active": 0,
        "url": "https://Qurango.net/radio/mahmoud_ali__albanna_mojawwad"
       },
       {
        "name": "مصطفى إسماعيل - رواية حفص عن عاصم",
+       "active": 0,
        "url": "https://Qurango.net/radio/mustafa_ismail",
        "rb": "0155ec12-7308-468a-88dc-fcbd440e01da",
        "logo": "http://www.phantomsw.com/assets/img/apple-touch-icon.png"
       },
       {
        "name": "ناصر القطامي",
+       "active": 0,
        "url": "https://Qurango.net/radio/nasser_alqatami"
       },
       {
        "name": "نبيل الرفاعي",
+       "active": 0,
        "url": "https://Qurango.net/radio/nabil_al_rifay"
       },
       {
        "name": "نعمة الحسان",
+       "active": 0,
        "url": "https://Qurango.net/radio/neamah_alhassan"
       },
       {
        "name": "هاني الرفاعي - رواية حفص عن عاصم",
+       "active": 0,
        "url": "https://Qurango.net/radio/hani_arrifai"
       }
      ]
@@ -1410,6 +1665,7 @@
      "stations": [
       {
        "name": "Alif Alif FM",
+       "active": 0,
        "url": "https://alifalifjobs.com/radio/8000/AlifAlifLive.mp3",
        "tags": [
         "pop_hits",
@@ -1422,6 +1678,7 @@
       },
       {
        "name": "Alif Alif FM",
+       "active": 0,
        "url": "http://www.alifaliffm.com:8800/AlifAlif.mp3",
        "tags": [
         "news_talk",
@@ -1432,6 +1689,7 @@
       },
       {
        "name": "MBC FM radio",
+       "active": 0,
        "url": "http://www.mbc.net/ar/mbc-fm.html#",
        "tags": [
         "news_talk",
@@ -1440,6 +1698,7 @@
       },
       {
        "name": "Miraath Al Anbiyya radio",
+       "active": 0,
        "url": "http://miraath.ddns.net:7000/autodj",
        "tags": [
         "news_talk",
@@ -1450,6 +1709,7 @@
       },
       {
        "name": "Miraath's Deutsch Radio",
+       "active": 0,
        "url": "https://radio.al7eah.net/8032/stream",
        "tags": [
         "news_talk",
@@ -1460,6 +1720,7 @@
       },
       {
        "name": "Miraath's English Radio",
+       "active": 0,
        "url": "http://radio.miraath.net:7010/stream?1483556222217",
        "tags": [
         "news_talk",
@@ -1471,6 +1732,7 @@
       },
       {
        "name": "Miraath's Holy Quraan Radio",
+       "active": 0,
        "url": "https://radio.al7eah.net/8010/stream",
        "tags": [
         "news_talk",
@@ -1481,10 +1743,12 @@
       },
       {
        "name": "Miraaths Holy Quraan Radio",
+       "active": 0,
        "url": "http://178.32.57.87:7000/stream"
       },
       {
        "name": "Miraath’s Deutsch Radio",
+       "active": 0,
        "url": "http://radio.al7eah.net:8032/stream",
        "tags": [
         "islamic_quran",
@@ -1494,6 +1758,7 @@
       },
       {
        "name": "MIX FM KSA",
+       "active": 0,
        "url": "http://s2.voscast.com:11376/live",
        "tags": [
         "pop_hits",
@@ -1507,6 +1772,7 @@
       },
       {
        "name": "Radio Asharq with Bloomberg / راديو الشرق مع بلومبرغ",
+       "active": 0,
        "url": "https://svs.itworkscdn.net/asharqradioalive/asharqradioa/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -1515,11 +1781,13 @@
       },
       {
        "name": "Radio Saudi International (Indonesian) radio",
+       "active": 0,
        "url": "http://sirius.shoutca.st:8451/stream",
        "language_inferred": true
       },
       {
        "name": "RadioSunna",
+       "active": 0,
        "url": "http://andromeda.shoutca.st:8189/stream",
        "tags": [
         "news_talk",
@@ -1531,16 +1799,19 @@
       },
       {
        "name": "RadioSunna",
+       "active": 0,
        "url": "https://www.liveradio.es/http://andromeda.shoutca.st:8189/stream",
        "language_inferred": true
       },
       {
        "name": "RadioSunna",
+       "active": 0,
        "url": "http://andromeda.shoutca.st:8189/",
        "language_inferred": true
       },
       {
        "name": "Riyadh Radio",
+       "active": 0,
        "url": "http://87.98.130.255:8234/stream",
        "tags": [
         "news_talk",
@@ -1549,6 +1820,7 @@
       },
       {
        "name": "Saudi Quran",
+       "active": 0,
        "url": "https://n03.radiojar.com/4wqre23fytzuv?rj-ttl=5&amprj-tok=AAABcpeE2DcAcvCKiCVs3gTnqg",
        "tags": [
         "news_talk",
@@ -1558,6 +1830,7 @@
       },
       {
        "name": "Tagalog Islamic Radio",
+       "active": 0,
        "url": "http://184.173.185.71:9930/stream/",
        "tags": [
         "christian_gospel",
@@ -1568,6 +1841,7 @@
       },
       {
        "name": "إذاعة الرياض – الإذاعات شبكة الإذاعة السعودية",
+       "active": 0,
        "url": "http://www2.radios.life:8633/stream/",
        "tags": [
         "news_talk",
@@ -1577,6 +1851,7 @@
       },
       {
        "name": "اذاعة القرأن الكريم radio",
+       "active": 0,
        "url": "http://quran.sr.sa/live-streaming",
        "tags": [
         "news_talk",
@@ -1592,40 +1867,48 @@
      "stations": [
       {
        "name": "Jawak Arabi",
+       "active": 0,
        "url": "http://cassini.shoutca.st:8913/stream",
        "language_inferred": true
       },
       {
        "name": "Jawak English",
+       "active": 0,
        "url": "http://cassini.shoutca.st:9576/listen.pls?sid=1",
        "language_inferred": true
       },
       {
        "name": "Madoradio",
+       "active": 0,
        "url": "http://193.108.118.145:8020/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Mix FM - Saudi Arabia",
+       "active": 0,
        "url": "http://s2.voscast.com:11376/stream/1/",
        "language_inferred": true
       },
       {
        "name": "Mix FM SA 98.0 FM",
+       "active": 0,
        "url": "http://soho.wavestreamer.com:3696/Live",
        "language_inferred": true
       },
       {
        "name": "Pano Hits - Panorama FM",
+       "active": 0,
        "url": "http://mbc-live.hls.adaptive.level3.net/hls-live/mbc-panhit/_definst_/live/stream1.m3u8",
        "language_inferred": true
       },
       {
        "name": "Radio Sawa The Gulf",
+       "active": 0,
        "url": "http://107.14.43.111/7/28/233455/v1/ibb.akacast.akamaistream.net/mbn_channel_06?akacasthops=1"
       },
       {
        "name": "Rotana FM",
+       "active": 0,
        "url": "http://curiosity.shoutca.st:6035/",
        "tags": [
         "pop_hits",
@@ -1634,6 +1917,7 @@
       },
       {
        "name": "Rotana FM",
+       "active": 0,
        "url": "http://curiosity.shoutca.st:6035/stream",
        "tags": [
         "pop_hits",
@@ -1642,23 +1926,28 @@
       },
       {
        "name": "Rotana FM",
+       "active": 0,
        "url": "http://philae.shoutca.st:8114/stream/1/",
        "language_inferred": true
       },
       {
        "name": "Rotana FM KSA 88.0 FM",
+       "active": 0,
        "url": "http://192.184.9.81:8130"
       },
       {
        "name": "Saudia Radio",
+       "active": 0,
        "url": "http://fusion.shoutca.st:8021/"
       },
       {
        "name": "Star KSA (ستار السعودية)",
+       "active": 0,
        "url": "http://104.200.150.186:8000/stream=1"
       },
       {
        "name": "UFM Radio",
+       "active": 0,
        "url": "http://stream.ufmradio.com:8000/"
       }
      ]
@@ -1668,6 +1957,7 @@
      "stations": [
       {
        "name": "122.7 Wildlovers Fm",
+       "active": 0,
        "url": "https://sonic.whitelabelservers.co.uk/6254/stream.mp3",
        "tags": [
         "pop_hits",
@@ -1678,6 +1968,7 @@
       },
       {
        "name": "Miraath - ميراث الأنبياء Listen live",
+       "active": 0,
        "url": "https://radio.al7eah.net/8010/server",
        "tags": [
         "reggae_ska",
@@ -1694,6 +1985,7 @@
      "stations": [
       {
        "name": "106.4 Musicjamofw",
+       "active": 0,
        "url": "https://ecast.myautodj.com/musicjamofw",
        "tags": [
         "rock",
@@ -1705,11 +1997,13 @@
       },
       {
        "name": "14.4 Twinnie Fm Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/3ayasyr7dchvv",
        "language_inferred": true
       },
       {
        "name": "D&amp#39 JAM RADIO FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/n1q5f0bsuf9uv",
        "tags": [
         "rock",
@@ -1721,6 +2015,7 @@
       },
       {
        "name": "Ofw Cool Radio",
+       "active": 0,
        "url": "http://andromeda.shoutca.st:8086/",
        "language_inferred": true
       }
@@ -1731,6 +2026,7 @@
      "stations": [
       {
        "name": "23.12 Dimension fm radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/8wnvmrgttf9uv",
        "tags": [
         "soul_rnb_funk",
@@ -1740,6 +2036,7 @@
       },
       {
        "name": "Radio Baijan Listen live",
+       "active": 0,
        "url": "https://thisisbaijan.out.airtime.pro/thisisbaijan_a",
        "tags": [
         "rock",
@@ -1751,6 +2048,7 @@
       },
       {
        "name": "RD FM RADIO",
+       "active": 0,
        "url": "https://mars.streamerr.co/8222/stream",
        "tags": [
         "pop_hits",
@@ -1767,24 +2065,29 @@
      "stations": [
       {
        "name": "AJA FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/zw50m7k1dy8uv",
        "language_inferred": true
       },
       {
        "name": "Sports Radio Arabia Arabic",
+       "active": 0,
        "url": "http://mp3streaming.planetwideradio.com:9960/BahWil2"
       },
       {
        "name": "Sports Radio Arabia English",
+       "active": 0,
        "url": "http://mp3streaming.planetwideradio.com:9960/BahWil1",
        "language_inferred": true
       },
       {
        "name": "UFM KSA",
+       "active": 0,
        "url": "http://104.200.150.186:8000/"
       },
       {
        "name": "UFM Radio",
+       "active": 0,
        "url": "http://69.61.26.75:8000",
        "tags": [
         "pop_hits",
@@ -1800,26 +2103,31 @@
      "stations": [
       {
        "name": "88.8 iN FM",
+       "active": 0,
        "url": "https://sslstreamconverter.com/public/radiostreamfiles/radio361.php",
        "language_inferred": true
       },
       {
        "name": "Aljazera quran",
+       "active": 0,
        "url": "http://54.36.244.106/2388",
        "language_inferred": true
       },
       {
        "name": "Jawak English",
+       "active": 0,
        "url": "http://cassini.shoutca.st:9576/stream",
        "language_inferred": true
       },
       {
        "name": "Jawak Khaleeji",
+       "active": 0,
        "url": "http://cassini.shoutca.st:9993/stream",
        "language_inferred": true
       },
       {
        "name": "Trys-z Fm",
+       "active": 0,
        "url": "https://cast2.my-control-panel.com/proxy/tryszfm/stream",
        "language_inferred": true
       }
@@ -1830,6 +2138,7 @@
      "stations": [
       {
        "name": "Jiddah Radio",
+       "active": 0,
        "url": "http://pollux.shoutca.st:8509/",
        "tags": [
         "news_talk",
@@ -1838,19 +2147,23 @@
       },
       {
        "name": "Rotana FM KSA",
+       "active": 0,
        "url": "http://philae.shoutca.st:8114/"
       },
       {
        "name": "UFM KSA",
+       "active": 0,
        "url": "http://69.61.26.75:8000/index.htmlaudio.mp3?hash=1600339983753"
       },
       {
        "name": "VERSE 24 - MAKKAH LIVE",
+       "active": 0,
        "url": "http://149.28.52.216:3344/stream/10/",
        "language_inferred": true
       },
       {
        "name": "Verse 24/7 Listen live",
+       "active": 0,
        "url": "https://verse24.ngrok.io/listen.mp3",
        "tags": [
         "islamic_quran",
@@ -1866,901 +2179,1094 @@
      "stations": [
       {
        "name": "100 Sound Wave FM – 100 FM – SA",
+       "active": 0,
        "url": "http://stream.zeno.fm/qr896t6vvrhvv",
        "language_inferred": true
       },
       {
        "name": "100SOUNDWAVEFM",
+       "active": 0,
        "url": "https://stream.zeno.fm/5gxt1t6vvrhvv",
        "language_inferred": true
       },
       {
        "name": "101.8 ARTYS FM – Riyadh – SA-O1",
+       "active": 0,
        "url": "https://ecast.myautodj.com/1018artysfm",
        "language_inferred": true
       },
       {
        "name": "104.2 FAMOUS ONLINE RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/ug5fbjongxfuv",
        "language_inferred": true
       },
       {
        "name": "143.4 WIN FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/ea0f7y3wvrhvv",
        "language_inferred": true
       },
       {
        "name": "143.4 win fm – SA",
+       "active": 0,
        "url": "http://stream.zeno.fm/1eh5az3wvrhvv",
        "language_inferred": true
       },
       {
        "name": "2.000 Choice",
+       "active": 0,
        "url": "https://stream.zeno.fm/wt04gde6mjuuv",
        "language_inferred": true
       },
       {
        "name": "6.6yummyfm – SA",
+       "active": 0,
        "url": "http://everestcast-us.myautodj.com:2700/stream",
        "language_inferred": true
       },
       {
        "name": "69.8 MANDIRIGMA FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/vsgeyxhbspcuv",
        "language_inferred": true
       },
       {
        "name": "77.7SCYTEFM",
+       "active": 0,
        "url": "https://stream.zeno.fm/jvvbwymjm9btv",
        "language_inferred": true
       },
       {
        "name": "78.2mythom fm online radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/bmte93it7bqtv",
        "language_inferred": true
       },
       {
        "name": "85.2 MILLENIAL WORLD FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/g8jjw4b3aegtv",
        "language_inferred": true
       },
       {
        "name": "88.8 iN FM",
+       "active": 0,
        "url": "http://centova57.instainternet.com:8000/stream",
        "language_inferred": true
       },
       {
        "name": "88.9 OFWCOOLRADIO – 88.9 FM – SA",
+       "active": 0,
        "url": "https://radiocool.radioca.st/",
        "language_inferred": true
       },
       {
        "name": "8AHWA FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/nd8tycun9hhvv",
        "language_inferred": true
       },
       {
        "name": "90.5 Heart FM",
+       "active": 0,
        "url": "https://stream.905heartfm.com:8070/stream",
        "language_inferred": true
       },
       {
        "name": "94.7 tropang kasangga",
+       "active": 0,
        "url": "https://stream.zeno.fm/yv9hy2mxfxhvv",
        "language_inferred": true
       },
       {
        "name": "aaynetcom",
+       "active": 0,
        "url": "https://stream.zeno.fm/x913ttqtarzuv",
        "language_inferred": true
       },
       {
        "name": "abudy FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/29yegmxg9x8uv",
        "language_inferred": true
       },
       {
        "name": "African DM",
+       "active": 0,
        "url": "https://stream.zeno.fm/zc9fdtcdbm8uv"
       },
       {
        "name": "AHLA AL QASEED FM",
+       "active": 0,
        "url": "https://ahlalqaseedfm-radio.mbc.net/ahlalqaseedfm-radio.m3u8"
       },
       {
        "name": "Ahmad Al Nufais",
+       "active": 0,
        "url": "https://stream.zeno.fm/5erutxnt9gptv"
       },
       {
        "name": "AL-QURAN",
+       "active": 0,
        "url": "https://stream.zeno.fm/o2jkxzlakrttv"
       },
       {
        "name": "Alif Alif FM (ألف ألف إف إم)",
+       "active": 0,
        "url": "http://alifaliffm.com:8800/AlifAlif.mp3",
        "language_inferred": true
       },
       {
        "name": "almadkhaliweb",
+       "active": 0,
        "url": "https://stream.zeno.fm/gpm8qh09tv8uv",
        "language_inferred": true
       },
       {
        "name": "ALMAHATTA RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/xkwydxb4uhhvv",
        "language_inferred": true
       },
       {
        "name": "AlTilawate Quran Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/kp4z4nswpuhvv",
        "language_inferred": true
       },
       {
        "name": "Alula FM – Jeddah – Mecca Region – SA",
+       "active": 0,
        "url": "https://alulafm-radio.mbc.net/alulafm-radio_1.m3u8",
        "language_inferred": true
       },
       {
        "name": "ama fm95",
+       "active": 0,
        "url": "https://stream.zeno.fm/h05ctquh52ltv",
        "language_inferred": true
       },
       {
        "name": "Anwar Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/vfge7cdsqv8uv",
        "language_inferred": true
       },
       {
        "name": "Arabic News - NHK WORLD RADIO JAPAN",
+       "active": 0,
        "url": "https://www3.nhk.or.jp/nhkworld/upld/medias/ar/radio/news/20200818010000_arabic_1.mp3"
       },
       {
        "name": "art world",
+       "active": 0,
        "url": "https://stream.zeno.fm/p9vsa025wp8uv",
        "language_inferred": true
       },
       {
        "name": "BENGAL RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/vc8u728abzzuv"
       },
       {
        "name": "BEST FRIEND FM 109.9",
+       "active": 0,
        "url": "https://stream.zeno.fm/0afvnq8srp8uv",
        "language_inferred": true
       },
       {
        "name": "bestnationnw",
+       "active": 0,
        "url": "https://stream.zeno.fm/2mu5gr0gtv8uv"
       },
       {
        "name": "Bolbona_Go_Ar_Kono_Din",
+       "active": 0,
        "url": "https://stream.zeno.fm/zejrmhwituluv",
        "language_inferred": true
       },
       {
        "name": "BOOM FM RADIO 101.5",
+       "active": 0,
        "url": "https://stream.zeno.fm/9uk39484wuhvv",
        "language_inferred": true
       },
       {
        "name": "Chaos FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/7cq01mhkfphvv",
        "language_inferred": true
       },
       {
        "name": "Country Songs",
+       "active": 0,
        "url": "https://stream.zeno.fm/7erh1q4b998uv",
        "language_inferred": true
       },
       {
        "name": "D JAM RADIO FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/7mxkb0bsuf9uv",
        "language_inferred": true
       },
       {
        "name": "d7o000om-FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/u7g9mhp8e8zuv",
        "language_inferred": true
       },
       {
        "name": "D7oooom-Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/41yfz9vpduhvv"
       },
       {
        "name": "Deema salem",
+       "active": 0,
        "url": "https://stream.zeno.fm/f7gp3by1ekhvv",
        "language_inferred": true
       },
       {
        "name": "Dream Love FM – Jeddah – Mecca Region – SA",
+       "active": 0,
        "url": "https://centova72.instainternet.com/proxy/dreamlovefm?mp=/stream",
        "language_inferred": true
       },
       {
        "name": "Eagle eye",
+       "active": 0,
        "url": "https://stream.zeno.fm/m3ad4nmk9whvv",
        "language_inferred": true
       },
       {
        "name": "earth sound",
+       "active": 0,
        "url": "https://stream.zeno.fm/yxqhfepsuxhvv",
        "language_inferred": true
       },
       {
        "name": "Elite Beats",
+       "active": 0,
        "url": "https://stream.zeno.fm/v8ndaua4fd0uv",
        "language_inferred": true
       },
       {
        "name": "Elite caffe",
+       "active": 0,
        "url": "https://stream.zeno.fm/ks34fmgf6a0uv"
       },
       {
        "name": "Elite caffe Dior",
+       "active": 0,
        "url": "https://stream.zeno.fm/s65hkbss7k8uv",
        "language_inferred": true
       },
       {
        "name": "English FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/kh16o3shxsyuv",
        "language_inferred": true
       },
       {
        "name": "English song",
+       "active": 0,
        "url": "https://stream.zeno.fm/14aiwdasesiuv",
        "language_inferred": true
       },
       {
        "name": "Farasan news",
+       "active": 0,
        "url": "http://67.222.135.224:9992/",
        "language_inferred": true
       },
       {
        "name": "farooha",
+       "active": 0,
        "url": "https://stream.zeno.fm/dvum881b3v8uv",
        "language_inferred": true
       },
       {
        "name": "Flowerty",
+       "active": 0,
        "url": "https://stream.zeno.fm/ddsc34bm8hhvv",
        "language_inferred": true
       },
       {
        "name": "Fujairah FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/hn41d3wv6k8uv"
       },
       {
        "name": "Hindi song",
+       "active": 0,
        "url": "https://stream.zeno.fm/0puu1yg3grgtv",
        "language_inferred": true
       },
       {
        "name": "Holy Book FM",
+       "active": 0,
        "url": "https://usa10.fastcast4u.com:4530/?type=http&ampnocache=1671838772",
        "language_inferred": true
       },
       {
        "name": "Holy Book FM",
+       "active": 0,
        "url": "http://usa10.fastcast4u.com:4530/",
        "language_inferred": true
       },
       {
        "name": "Hosseini Connection",
+       "active": 0,
        "url": "https://stream.zeno.fm/bmonugvwxgnvv",
        "language_inferred": true
       },
       {
        "name": "hsiiii",
+       "active": 0,
        "url": "https://stream.zeno.fm/ee03crh7wuhvv",
        "language_inferred": true
       },
       {
        "name": "ILMT JAM MUSIC STATION",
+       "active": 0,
        "url": "https://stream.zeno.fm/ypttahwnnchvv",
        "language_inferred": true
       },
       {
        "name": "Iqraa (قناة اقرأ الفضائية) – Jeddah – Mecca Region – SA",
+       "active": 0,
        "url": "https://iqraac.cdn.mgmlcdn.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "ISLAM-LOL-Quran-Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/0g16sqa80tzuv"
       },
       {
        "name": "Islam123",
+       "active": 0,
        "url": "https://stream.zeno.fm/qng8mcd2rxhvv",
        "language_inferred": true
       },
       {
        "name": "Islamic Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/gdml64tljw0uv",
        "language_inferred": true
       },
       {
        "name": "JAI.M.FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/chgu9qy0aphvv",
        "language_inferred": true
       },
       {
        "name": "Jamee3 Altaquaw",
+       "active": 0,
        "url": "https://stream.zeno.fm/nx7ae02cby8uv",
        "language_inferred": true
       },
       {
        "name": "JC FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/xr636mqxgs8uv",
        "language_inferred": true
       },
       {
        "name": "JED RED",
+       "active": 0,
        "url": "https://stream.zeno.fm/9my7afwsdg8uv",
        "language_inferred": true
       },
       {
        "name": "Jeddah Radio اذاعة جدة – Riyadh – SA-O1",
+       "active": 0,
        "url": "https://cllive.itworkscdn.net/ksajeddahradiolive/token=nva=1664807778~dirs=1~hash=06bc43a2ffe105bf37062/ksajeddahradiovision/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "Jo Test Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/hyoa7u2nppcuv",
        "language_inferred": true
       },
       {
        "name": "Joy of the Gospel Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/bhytp2pbp9zuv",
        "language_inferred": true
       },
       {
        "name": "Khaled Al-Qahtani Radio (خالد القهطانى راديو) – Riyadh – SA-O1",
+       "active": 0,
        "url": "http://live.mp3quran.net:9970/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Lofi quran",
+       "active": 0,
        "url": "https://stream.zeno.fm/ecqgcop1ruouv",
        "language_inferred": true
       },
       {
        "name": "lyalina",
+       "active": 0,
        "url": "https://stream.zeno.fm/z319cpk6bxhvv",
        "language_inferred": true
       },
       {
        "name": "Maher Alwan",
+       "active": 0,
        "url": "https://stream.zeno.fm/gtwyk07kfc7vv"
       },
       {
        "name": "MALAMAN SUNNAH",
+       "active": 0,
        "url": "https://stream.zeno.fm/jhb5tpm10jbtv"
       },
       {
        "name": "manarah-test",
+       "active": 0,
        "url": "https://stream.zeno.fm/vs5vqw3e9x8uv",
        "language_inferred": true
       },
       {
        "name": "Maribfm",
+       "active": 0,
        "url": "https://stream.zeno.fm/rsf9u9ehcm0uv",
        "language_inferred": true
       },
       {
        "name": "MBC FM",
+       "active": 0,
        "url": "https://mbcfm-radio.mbc.net/mbcfm-radio.m3u8"
       },
       {
        "name": "MBC FM",
+       "active": 0,
        "url": "https://mbcfm-radio.mbc.net/mbcfm-radio_1.m3u8?n=7f9b372d954ddee02ee1"
       },
       {
        "name": "MBC FM live",
+       "active": 0,
        "url": "https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index_1.m3u8"
       },
       {
        "name": "MBC FM – Jeddah – Mecca Region – SA",
+       "active": 0,
        "url": "https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8",
        "language_inferred": true
       },
       {
        "name": "MEDIA ONE FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/nmzdx1f15bhvv"
       },
       {
        "name": "Miraath Al Anbiyaa (ميراث الأنبياء)",
+       "active": 0,
        "url": "http://radio.miraath.net:7000/stream"
       },
       {
        "name": "Miraath Al Anbiyya",
+       "active": 0,
        "url": "http://miraath.ddns.net:7000/live",
        "language_inferred": true
       },
       {
        "name": "Miraaths Deutsch Radio",
+       "active": 0,
        "url": "http://miraath.ddns.net:7060/stream",
        "language_inferred": true
       },
       {
        "name": "Mix FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/2441p5mb0s8uv"
       },
       {
        "name": "Mix FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/4zpbyub9hv8uv",
        "language_inferred": true
       },
       {
        "name": "Mohadharat",
+       "active": 0,
        "url": "https://stream.zeno.fm/12heap5qhnzuv"
       },
       {
        "name": "Mohammad",
+       "active": 0,
        "url": "https://stream.zeno.fm/nzv31fyw6hhvv",
        "language_inferred": true
       },
       {
        "name": "MOOD FM",
+       "active": 0,
        "url": "https://moodfm-radio.mbc.net/moodfm-radio.m3u8"
       },
       {
        "name": "MP3 Quran - Abdullah AlJohany Radio",
+       "active": 0,
        "url": "https://qurango.net/radio/abdullah_aljohany",
        "language_inferred": true
       },
       {
        "name": "MusicJamOFW – Riyadh – SA-O1",
+       "active": 0,
        "url": "https://carydagspog.radioca.st",
        "language_inferred": true
       },
       {
        "name": "National_Day_90",
+       "active": 0,
        "url": "https://stream.zeno.fm/xcbmvwp0qa0uv",
        "language_inferred": true
       },
       {
        "name": "Nida Al Islam Radio اذاعة نداء الاسلام – Riyadh – SA-O1",
+       "active": 0,
        "url": "https://cllive.itworkscdn.net/ksanedaradiolive/token=nva=1664806989~dirs=1~hash=0a5ca7d00afd415687b59/ksanedaradiovision/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "NOOBFM",
+       "active": 0,
        "url": "https://stream.zeno.fm/ry0uppq6af9uv"
       },
       {
        "name": "OFW MUSIC TAMBAYAN RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/dezmvhrpyk8uv",
        "language_inferred": true
       },
       {
        "name": "Old-is-Gold",
+       "active": 0,
        "url": "https://stream.zeno.fm/nffha1cmpchvv",
        "language_inferred": true
       },
       {
        "name": "OWNwaves channel",
+       "active": 0,
        "url": "https://stream.zeno.fm/x12srjx6vcivv",
        "language_inferred": true
       },
       {
        "name": "P I  RADIO QURAN",
+       "active": 0,
        "url": "https://stream.zeno.fm/mgkvrny59f0uv"
       },
       {
        "name": "Panorama FM",
+       "active": 0,
        "url": "https://panoramafm-radio.mbc.net/panoramafm-radio.m3u8"
       },
       {
        "name": "PHR 105.3 PRECIOUS HEARTS RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/yyzp7bv9qchvv",
        "language_inferred": true
       },
       {
        "name": "PHR 105.3 PRECIOUS HEARTS RADIO – 105.3 FM – Riyadh – SA-O1",
+       "active": 0,
        "url": "https://stream.zenolive.com/yyzp7bv9qchvv",
        "language_inferred": true
       },
       {
        "name": "Pinoy Juan Radio",
+       "active": 0,
        "url": "http://149.56.195.94:8121/live",
        "language_inferred": true
       },
       {
        "name": "POR FM – SA",
+       "active": 0,
        "url": "https://ny.mysonicserver.com/8098/stream",
        "language_inferred": true
       },
       {
        "name": "pppprl",
+       "active": 0,
        "url": "https://stream.zeno.fm/muzcn6mmrnkuv",
        "language_inferred": true
       },
       {
        "name": "Qaroon Music",
+       "active": 0,
        "url": "https://stream.zeno.fm/ru4w272g6ehvv"
       },
       {
        "name": "Quran Kareem",
+       "active": 0,
        "url": "https://stream.zeno.fm/39rsnk15v68uv",
        "language_inferred": true
       },
       {
        "name": "Quran Live",
+       "active": 0,
        "url": "http://radio.yaservers.com:9966/"
       },
       {
        "name": "Quran Radio اذاعة القرآن الكريم – الرياض – Riyadh – SA-O1",
+       "active": 0,
        "url": "https://cllive.itworkscdn.net/ksaquranradiolive/token=nva=1664807942~dirs=1~hash=072481aeec7eeb7f971e3/ksaquranradiovision/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "Quran. Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/ep73w26nachvv"
       },
       {
        "name": "Radio Barakah",
+       "active": 0,
        "url": "https://stream.zeno.fm/gz73d47hq18uv"
       },
       {
        "name": "Radio DAMBE Youri FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/tugk92dh2v8uv"
       },
       {
        "name": "RADIO DE LA SOLIDARITE OUAHIGOUYA",
+       "active": 0,
        "url": "https://stream.zeno.fm/kmmkydve898uv"
       },
       {
        "name": "radio dhafer",
+       "active": 0,
        "url": "https://stream.zeno.fm/udjwpz9wb42tv",
        "language_inferred": true
       },
       {
        "name": "Radio nida alislam",
+       "active": 0,
        "url": "http://n05.radiojar.com/59096z743d0uv?rj-ttl=5&rj-tok=AAZBfqTS3R8Zo-MbNKypObvbjA?n=b8a47493a08563fb497c",
        "language_inferred": true
       },
       {
        "name": "Radio Quran (راديو القرآن) – Riyadh – SA-O1",
+       "active": 0,
        "url": "https://radioquran.net/audio/001.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio Suara Al-Iman",
+       "active": 0,
        "url": "https://stream.zeno.fm/3p2ygnssu98uv"
       },
       {
        "name": "Radio Wisal",
+       "active": 0,
        "url": "https://stream.zeno.fm/tqz5lbepprwtv"
       },
       {
        "name": "radio z6c740hl",
+       "active": 0,
        "url": "https://stream.zeno.fm/t9npvbpehfhvv",
        "language_inferred": true
       },
       {
        "name": "RadioTest",
+       "active": 0,
        "url": "https://stream.zeno.fm/5aufyw440xhvv",
        "language_inferred": true
       },
       {
        "name": "reema5382",
+       "active": 0,
        "url": "https://stream.zeno.fm/6z6k059y0ehvv",
        "language_inferred": true
       },
       {
        "name": "Relax Corner",
+       "active": 0,
        "url": "https://stream.zeno.fm/621aafxdpchvv",
        "language_inferred": true
       },
       {
        "name": "Ridwaan Online Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/dxymmxqtdlcuv"
       },
       {
        "name": "Ritmos Árabes",
+       "active": 0,
        "url": "https://stream.zeno.fm/olxqolvitmwvv",
        "language_inferred": true
       },
       {
        "name": "Riyadh Radio اذاعة الرياض – Riyadh – SA-O1",
+       "active": 0,
        "url": "https://cllive.itworkscdn.net/ksariyadhradiolive/token=nva=1664807561~dirs=1~hash=0fa647db1042a74c9b8c4/ksariyadhradiovision/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "RM HEART FM – Jeddah – Mecca Region – SA",
+       "active": 0,
        "url": "http://node-33.zeno.fm/7mn2hxs13hhvv",
        "language_inferred": true
       },
       {
        "name": "Rotana FM KSA",
+       "active": 0,
        "url": "http://curiosity.shoutca.st:6035/stream.mp3"
       },
       {
        "name": "Sabeel Al Anbiyya",
+       "active": 0,
        "url": "http://95.217.64.156/8042/stream",
        "language_inferred": true
       },
       {
        "name": "Sad only",
+       "active": 0,
        "url": "https://stream.zeno.fm/2rf3eph1wv8uv",
        "language_inferred": true
       },
       {
        "name": "SALT CAMP",
+       "active": 0,
        "url": "https://stream.zeno.fm/4rs0hb83cy8uv",
        "language_inferred": true
       },
       {
        "name": "Saudhi Tamil FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/154ahr4rts0tv",
        "language_inferred": true
       },
       {
        "name": "Saudi International Radio FR – Riyadh – SA-O1",
+       "active": 0,
        "url": "http://frenchradio.radioca.st/stream?type=http&nocache=170",
        "language_inferred": true
       },
       {
        "name": "Saudia Radio (راديو السعودية)",
+       "active": 0,
        "url": "http://cmt-live.hls.adaptive.level3.net/cmt/radiochannel04/01.m3u8"
       },
       {
        "name": "Saudia Radio – Riyadh – SA-O1",
+       "active": 0,
        "url": "https://cllive.itworkscdn.net/ksasaudiaradiolive/token=nva=1664808081~dirs=1~hash=0456c821b6bd0c8be9d38/ksasaudiaradiovision/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "Sawa Magazine",
+       "active": 0,
        "url": "http://feeds.soundcloud.com/stream/628933869-sawamagazine-30-05-19.mp3"
       },
       {
        "name": "SBS Arabic24",
+       "active": 0,
        "url": "https://feedpress.me/link/17610/13814899/arabic_c1a5dc8e-b02f-4eb5-ba26-3d3877cc2f63.mp3"
       },
       {
        "name": "Sham fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/zg7wy9vqruhvv",
        "language_inferred": true
       },
       {
        "name": "SHEHI RADIO STATION",
+       "active": 0,
        "url": "https://stream.zeno.fm/tqxpikf7vjnuv"
       },
       {
        "name": "Shurooq Islamic MIX-tuneyou",
+       "active": 0,
        "url": "https://stream.zeno.fm/5xz406y3dkhvv",
        "language_inferred": true
       },
       {
        "name": "Shurooq Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/gzc32xsxkc9uv"
       },
       {
        "name": "SIX SISTERS NEWLY FM – SA",
+       "active": 0,
        "url": "http://stream.zeno.fm/fbmewbf68nhvv",
        "language_inferred": true
       },
       {
        "name": "Surah Yusuf Faris Abbad",
+       "active": 0,
        "url": "https://stream.zeno.fm/k16tu0geqy1vv",
        "language_inferred": true
       },
       {
        "name": "SXBMY1",
+       "active": 0,
        "url": "https://stream.zeno.fm/nka14zpxyuhvv",
        "language_inferred": true
       },
       {
        "name": "Tagalog Islamic Radio",
+       "active": 0,
        "url": "http://184.173.185.71:9930/"
       },
       {
        "name": "Tambayan",
+       "active": 0,
        "url": "https://stream.zeno.fm/ntwetdr3bajuv",
        "language_inferred": true
       },
       {
        "name": "Tambayan01",
+       "active": 0,
        "url": "https://stream.zeno.fm/7pububesewptv",
        "language_inferred": true
       },
       {
        "name": "THE 88 RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/sq2fxseom6quv",
        "language_inferred": true
       },
       {
        "name": "The Holy Quran",
+       "active": 0,
        "url": "https://stream.zeno.fm/2tw3g4g3zf9uv",
        "language_inferred": true
       },
       {
        "name": "Tilawah Ajnad - Al-Quran",
+       "active": 0,
        "url": "https://stream.zeno.fm/zeg76syy9nhvv"
       },
       {
        "name": "Tilawate Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/ehvm5e4nyrhvv",
        "language_inferred": true
       },
       {
        "name": "Top gun",
+       "active": 0,
        "url": "https://stream.zeno.fm/gak8kdgvvxhvv",
        "language_inferred": true
       },
       {
        "name": "tranquillo",
+       "active": 0,
        "url": "https://stream.zeno.fm/xnrxsa8a898uv",
        "language_inferred": true
       },
       {
        "name": "Translation",
+       "active": 0,
        "url": "https://stream.zeno.fm/yh99ykptsf9uv",
        "language_inferred": true
       },
       {
        "name": "Trebu Wak Wak FM – SA",
+       "active": 0,
        "url": "http://stream.zeno.fm/r7lwytm4z91tv",
        "language_inferred": true
       },
       {
        "name": "Tzgospel (saudia )",
+       "active": 0,
        "url": "https://stream.zeno.fm/g1dk92bgzchvv",
        "language_inferred": true
       },
       {
        "name": "Tzgospel swahili",
+       "active": 0,
        "url": "https://stream.zeno.fm/gwgahmn6schvv",
        "language_inferred": true
       },
       {
        "name": "Utol Radio at Boses ni Kabayan",
+       "active": 0,
        "url": "https://stream.zeno.fm/ts9d7mrsz68uv",
        "language_inferred": true
       },
       {
        "name": "VASPER FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/3tyzk47rmchvv",
        "language_inferred": true
       },
       {
        "name": "Verse24 Holy Quran",
+       "active": 0,
        "url": "http://149.28.52.216:3344/listen.mp3"
       },
       {
        "name": "waiting list",
+       "active": 0,
        "url": "https://stream.zeno.fm/z3q4pzn4p48uv",
        "language_inferred": true
       },
       {
        "name": "WANASAH",
+       "active": 0,
        "url": "https://wanasahfm-radio.mbc.net/wanasahfm-radio.m3u8"
       },
       {
        "name": "Wanasah FM",
+       "active": 0,
        "url": "https://wanasahfm-radio.mbc.net/wanasahfm-radio_1.m3u8?n=1cb81a2f3e0512e90da3"
       },
       {
        "name": "Web Musica Paraíso Fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/utdnm3g92d0uv"
       },
       {
        "name": "Western Life",
+       "active": 0,
        "url": "https://stream.zeno.fm/nhx011zb998uv",
        "language_inferred": true
       },
       {
        "name": "Yasser Al-Faylakawi",
+       "active": 0,
        "url": "https://stream.zeno.fm/1w8s0znszlguv"
       },
       {
        "name": "ZAD_Mix_Radio-CA",
+       "active": 0,
        "url": "https://stream.zeno.fm/a25rq9ywuyotv"
       },
       {
        "name": "zamanradio",
+       "active": 0,
        "url": "https://stream.zeno.fm/mckfkukpxchvv",
        "language_inferred": true
       },
       {
        "name": "أثير الاسلام",
+       "active": 0,
        "url": "https://stream.zeno.fm/zv5phdhdtovvv",
        "language_inferred": true
       },
       {
        "name": "إذاعة الرياض",
+       "active": 0,
        "url": "http://live3.almgrat.com:8042/stream",
        "language_inferred": true
       },
       {
        "name": "إذاعة جدة",
+       "active": 0,
        "url": "http://live3.almgrat.com:8273/stream"
       },
       {
        "name": "إذاعة نداء الإسلام",
+       "active": 0,
        "url": "http://87.98.130.255:8348/stream"
       },
       {
        "name": "اذاعة ترتيل",
+       "active": 0,
        "url": "https://stream.zeno.fm/9xvvkzbxdzzuv",
        "language_inferred": true
       },
       {
        "name": "اذاعة نورين محمد صديق",
+       "active": 0,
        "url": "https://stream.zeno.fm/j4c1reqo5catv"
       },
       {
        "name": "الإذاعات الدولية السعودية",
+       "active": 0,
        "url": "http://cmt-live.hls.adaptive.level3.net/cmt/radiochannel05/index.m3u8"
       },
       {
        "name": "الشيخ إدريس أبكر برواية حفص",
+       "active": 0,
        "url": "http://server2.quraan.us:9300/*.mp3"
       },
       {
        "name": "الشيخ توفيق الصايغ برواية حفص",
+       "active": 0,
        "url": "http://quraan.us:9796/*.mp3"
       },
       {
        "name": "النبأ العظيم",
+       "active": 0,
        "url": "https://stream.zeno.fm/tmq331bf0k8uv"
       },
       {
        "name": "النهج الواضح-الإذاعة الثالثة – Riyadh – SA-O1",
+       "active": 0,
        "url": "http://Alnahj.net:8002/stream",
        "language_inferred": true
       },
       {
        "name": "النهج الواضح-الإذاعة الثانية",
+       "active": 0,
        "url": "http://Alnahj.net:8001/stream"
       },
       {
        "name": "تراتيل قصيرة متميزة",
+       "active": 0,
        "url": "http://live.mp3quran.net:9702/"
       },
       {
        "name": "تفسير القرآن الكريم",
+       "active": 0,
        "url": "https://stream.zeno.fm/a3d9cxm5aa9uv"
       },
       {
        "name": "ثقافة",
+       "active": 0,
        "url": "http://www.france24.com/ar/tv-shows/ثقافة/podcast"
       },
       {
        "name": "جادك الغيث",
+       "active": 0,
        "url": "https://stream.zeno.fm/d6mqrdge4nhvv"
       },
       {
        "name": "ذاكرة التاريخ",
+       "active": 0,
        "url": "http://atv-video-test.s3.amazonaws.com/05.mp4"
       },
       {
        "name": "راديو السفراء (Arabic)",
+       "active": 0,
        "url": "http://stream.zeno.fm/9yu8n69zk0hvv"
       },
       {
        "name": "راديو مشروع السنة الدعوي",
+       "active": 0,
        "url": "https://stream.zeno.fm/2akvkxopwhevv"
       },
       {
        "name": "راديو نافذة إلى الحياة",
+       "active": 0,
        "url": "https://stream.zeno.fm/7aqb1fmw768uv",
        "language_inferred": true
       },
       {
        "name": "فيرس 24/7 Makkah Live",
+       "active": 0,
        "url": "https://verse24.ngrok.io/stream/10/?type=acc"
       },
       {
        "name": "لبانوراما FM",
+       "active": 0,
        "url": "https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index_7.m3u8"
       },
       {
        "name": "ماهر المعيقلي- رواية حفص عن عاصم",
+       "active": 0,
        "url": "http://live.mp3quran.net:9932/"
       },
       {
        "name": "مقدمة رسالة ابن أبي زيد القيرواني1",
+       "active": 0,
        "url": "https://www.al-badr.net/download/esound/choroohat/abuzaid_alkirawani/001.mp3?n=63d9724c6ef00587d586",
        "language_inferred": true,
        "rb": "067ee4b5-2d94-4888-8eb4-cc5b17da1fff"
@@ -2777,6 +3283,7 @@
      "stations": [
       {
        "name": "Radio Gangaran de Kobiri",
+       "active": 0,
        "url": "https://stream.zeno.fm/6dvru81vetzuv"
       }
      ]
@@ -2786,42 +3293,52 @@
      "stations": [
       {
        "name": "AL BAYANE CORAN",
+       "active": 0,
        "url": "https://stream.zeno.fm/tx9re2n01f9uv"
       },
       {
        "name": "Horonya FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/8y212swrwv5tv"
       },
       {
        "name": "Radio Bonheur 101.4 FM GUINEE",
+       "active": 0,
        "url": "https://stream.zeno.fm/2ee8m52mb"
       },
       {
        "name": "Radio DAMBE TOUBA",
+       "active": 0,
        "url": "https://stream.zeno.fm/0bcch219d4duv"
       },
       {
        "name": "Radio Dambe Touba live",
+       "active": 0,
        "url": "https://stream.zeno.fm/c2d7rhqfx5quv"
       },
       {
        "name": "Radio Islamique Al Mafaz FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/1mu83wpfntzuv"
       },
       {
        "name": "Radio Solidarité Ouahigouya",
+       "active": 0,
        "url": "https://stream.zeno.fm/uktqa0b7pzzuv"
       },
       {
        "name": "Radio UNITE TIDJANI Mali",
+       "active": 0,
        "url": "https://stream.zeno.fm/zq0dh8b6z5quv"
       },
       {
        "name": "Radio Unité Hamawiya Nioro du Sahel",
+       "active": 0,
        "url": "https://stream.zeno.fm/vsuytpr4b5zuv"
       },
       {
        "name": "THIAM FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/dhbfh98te5zuv"
       }
      ]
@@ -2836,42 +3353,52 @@
      "stations": [
       {
        "name": "AT-TA'AWUUN EDUCATIONAL SERVICES",
+       "active": 0,
        "url": "https://stream.zeno.fm/0caqzpgg2k0uv"
       },
       {
        "name": "KARATUN RUQYAH",
+       "active": 0,
        "url": "https://stream.zeno.fm/b9c20d2c508uv"
       },
       {
        "name": "Mandawari Onine Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/b0tz4n40zf8uv"
       },
       {
        "name": "Martaba FM Online",
+       "active": 0,
        "url": "https://stream.zeno.fm/ewsev0cunc9uv"
       },
       {
        "name": "MTiLW Islamiyya",
+       "active": 0,
        "url": "https://stream.zeno.fm/dvcdw272ry8uv"
       },
       {
        "name": "Qur'anic Recitation",
+       "active": 0,
        "url": "https://stream.zeno.fm/wgnu890xwd0uv"
       },
       {
        "name": "SAUDI HAUSAWI RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/4vu5dyayqnhvv"
       },
       {
        "name": "Sautul Hikma Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/4hvru70yafhvv"
       },
       {
        "name": "SooalRadio",
+       "active": 0,
        "url": "https://stream.zeno.fm/gwarrgvb8ehvv"
       },
       {
        "name": "الإذاعة الرئيسية",
+       "active": 0,
        "url": "https://stream.zeno.fm/vgmmzo1jgxrtv"
       }
      ]
@@ -2886,6 +3413,7 @@
      "stations": [
       {
        "name": "ICTunes",
+       "active": 0,
        "url": "http://mediaserver2.islamicity.com:8000/ictunes",
        "tags": [
         "pop_hits",
@@ -2901,6 +3429,7 @@
      "stations": [
       {
        "name": "Saudi Aramco Studio 2 FM 101.4 Dharan",
+       "active": 0,
        "url": "https://ice31.securenetsystems.net/STUDIO2",
        "tags": [
         "classical",
@@ -2922,6 +3451,7 @@
      "stations": [
       {
        "name": "MIX FM KSA",
+       "active": 0,
        "url": "https://s1.voscast.com:11377/live.mp3",
        "tags": [
         "easy_listening",
@@ -2936,6 +3466,7 @@
      "stations": [
       {
        "name": "Studio 1 FM Saudi Aramco",
+       "active": 0,
        "url": "https://ice31.securenetsystems.net/STUDIO1",
        "tags": [
         "rock",
@@ -2956,22 +3487,27 @@
      "stations": [
       {
        "name": "djefydj",
+       "active": 0,
        "url": "https://stream.zeno.fm/dh23ud5cnzzuv"
       },
       {
        "name": "DNA FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/885p4scy238uv"
       },
       {
        "name": "pinoy-onlineradio",
+       "active": 0,
        "url": "https://stream.zeno.fm/xwh17ua9hfhvv"
       },
       {
        "name": "Quranradio",
+       "active": 0,
        "url": "https://stream.zeno.fm/z8ba39gfwf9uv"
       },
       {
        "name": "TAMBAYAN",
+       "active": 0,
        "url": "https://stream.zeno.fm/82bb4d2uz68uv"
       }
      ]
@@ -2986,34 +3522,42 @@
      "stations": [
       {
        "name": "Ahmad Wave",
+       "active": 0,
        "url": "https://stream.zeno.fm/mck9q2wt1zhvv"
       },
       {
        "name": "Hisham Elahi Zaheer",
+       "active": 0,
        "url": "https://stream.zeno.fm/veut46k57zhvv"
       },
       {
        "name": "I FM RADIO pro",
+       "active": 0,
        "url": "https://stream.zeno.fm/91vvgvfx298uv"
       },
       {
        "name": "ISLAM 101",
+       "active": 0,
        "url": "https://stream.zeno.fm/r8sfeh5rkxhvv"
       },
       {
        "name": "Muslim Group",
+       "active": 0,
        "url": "https://stream.zeno.fm/pfqzlgj391kuv"
       },
       {
        "name": "Quran Kareem",
+       "active": 0,
        "url": "https://stream.zeno.fm/ywkw528yzp8uv"
       },
       {
        "name": "Quran Radio Lahore",
+       "active": 0,
        "url": "https://stream.zeno.fm/ztxvjc0wlsstv"
       },
       {
        "name": "Tilawat Quran_Terjuma",
+       "active": 0,
        "url": "https://stream.zeno.fm/n486ww4g21zuv"
       }
      ]
@@ -3028,22 +3572,27 @@
      "stations": [
       {
        "name": "I-Dream Radio 1044 AM",
+       "active": 0,
        "url": "https://stream.zeno.fm/myh2wa71rxhvv"
       },
       {
        "name": "Media Hikmah Nusantara",
+       "active": 0,
        "url": "https://stream.zeno.fm/22xkut5ru98uv"
       },
       {
        "name": "Nurul Muhibbin Tanah Laut",
+       "active": 0,
        "url": "https://stream.zeno.fm/x5ksng42rs8uv"
       },
       {
        "name": "Radio Nurul Hikam Pucang Sidoarjo",
+       "active": 0,
        "url": "https://stream.zeno.fm/vd2vmsg9wv8vv"
       },
       {
        "name": "Suara Permai",
+       "active": 0,
        "url": "https://stream.zeno.fm/qvpm0spzfs8uv"
       }
      ]
@@ -3058,6 +3607,7 @@
      "stations": [
       {
        "name": "Lmj online home fm radio -love natin to!",
+       "active": 0,
        "url": "https://stream.zeno.fm/aqjyy8xcampuv",
        "tags": [
         "news_talk",
@@ -3074,6 +3624,7 @@
      "stations": [
       {
        "name": "Favradio",
+       "active": 0,
        "url": "http://stream.hornhost.com:8109/stream.mp3",
        "tags": [
         "pop_hits",
@@ -3089,10 +3640,12 @@
      "stations": [
       {
        "name": "Favradio",
+       "active": 0,
        "url": "http://stream.hornhost.com:8109/stream"
       },
       {
        "name": "Tambayan1",
+       "active": 0,
        "url": "https://stream.zeno.fm/yoinpjldybxtv"
       }
      ]
@@ -3107,18 +3660,22 @@
      "stations": [
       {
        "name": "daimondmasjid",
+       "active": 0,
        "url": "https://stream.zeno.fm/wce7yn1p5f0uv"
       },
       {
        "name": "Guide us on the straight path (Guostrapath)",
+       "active": 0,
        "url": "https://stream.zeno.fm/53pw6lbkmq5vv"
       },
       {
        "name": "HMF RADIO YORUBA",
+       "active": 0,
        "url": "https://stream.zeno.fm/z9s1hecdzs8uv"
       },
       {
        "name": "Sublime Online Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/9ngkrn7r5s8uv"
       }
      ]
@@ -3133,18 +3690,22 @@
      "stations": [
       {
        "name": "Al Quran",
+       "active": 0,
        "url": "https://stream.zeno.fm/8pvubv36huhvv"
       },
       {
        "name": "Islamic Tune",
+       "active": 0,
        "url": "https://stream.zeno.fm/ichfja4hj4tuv"
       },
       {
        "name": "Oishi Bani 24",
+       "active": 0,
        "url": "https://stream.zeno.fm/53tdatdd2c9uv"
       },
       {
        "name": "Ruqyah Radio - Ruqyah Support BD",
+       "active": 0,
        "url": "https://stream.zeno.fm/pz72fq579f0uv"
       }
      ]
@@ -3159,6 +3720,7 @@
      "stations": [
       {
        "name": "Radio Twist",
+       "active": 0,
        "url": "http://www.radiotwist.net:8080/"
       }
      ]
@@ -3168,6 +3730,7 @@
      "stations": [
       {
        "name": "Radio Hindi",
+       "active": 0,
        "url": "https://stream.zeno.fm/iuktcl7nxuptv"
       }
      ]
@@ -3182,6 +3745,7 @@
      "stations": [
       {
        "name": "101.69 Marites Fm Radio",
+       "active": 0,
        "url": "https://ny.mysonicserver.com/8044/stream",
        "tags": [
         "easy_listening",
@@ -3201,6 +3765,7 @@
      "stations": [
       {
        "name": "Quran Channel",
+       "active": 0,
        "url": "http://mediaserver2.islamicity.com:8000/QuranRadio",
        "tags": [
         "christian_gospel",
@@ -3220,6 +3785,7 @@
      "stations": [
       {
        "name": "MP3 Quran - Islamic Chinese Radio",
+       "active": 0,
        "url": "http://live.mp3quran.net:9942"
       }
      ]
@@ -3234,6 +3800,7 @@
      "stations": [
       {
        "name": "MP3 Quran - Islamic Thai Radio",
+       "active": 0,
        "url": "http://live.mp3quran.net:9934"
       }
      ]
@@ -3248,6 +3815,7 @@
      "stations": [
       {
        "name": "sadhik fm melody",
+       "active": 0,
        "url": "https://stream.zeno.fm/d82s3t61x1zuv"
       }
      ]
@@ -3262,6 +3830,7 @@
      "stations": [
       {
        "name": "MJB-5921",
+       "active": 0,
        "url": "https://stream.zeno.fm/czpkx0rvaphvv"
       }
      ]
@@ -3276,6 +3845,7 @@
      "stations": [
       {
        "name": "Madeena 313",
+       "active": 0,
        "url": "https://stream.zeno.fm/y832ump7vv8uv"
       }
      ]
@@ -3290,6 +3860,7 @@
      "stations": [
       {
        "name": "Asakir Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/mp2rrkckqjhtv"
       }
      ]
@@ -3304,6 +3875,7 @@
      "stations": [
       {
        "name": "Radyo IPSR",
+       "active": 0,
        "url": "https://stream.zeno.fm/pqta9hb5pa0uv"
       }
      ]
@@ -3318,6 +3890,7 @@
      "stations": [
       {
        "name": "Saudi Ug connect",
+       "active": 0,
        "url": "https://stream.zeno.fm/ku1fc5b1znhvv"
       }
      ]
@@ -3332,6 +3905,7 @@
      "stations": [
       {
        "name": "Startzz Quran",
+       "active": 0,
        "url": "https://stream.zeno.fm/smpfszs9guhvv"
       }
      ]
@@ -3346,6 +3920,7 @@
      "stations": [
       {
        "name": "Radio Aneka",
+       "active": 0,
        "url": "https://stream.zeno.fm/hay4qxdxdg0uv"
       }
      ]

@@ -10,6 +10,7 @@
      "stations": [
       {
        "name": "Old Town Radio",
+       "active": 0,
        "url": "https://stream.radiojar.com/3emwf2xgam8uv",
        "tags": [
         "rock",
@@ -18,6 +19,7 @@
       },
       {
        "name": "Radyo ODTU Kuzey Kibris",
+       "active": 0,
        "url": "http://144.122.156.68:8000/stream/1/",
        "tags": [
         "alternative_indie",
@@ -33,6 +35,7 @@
       },
       {
        "name": "Rock FM Cyprus",
+       "active": 0,
        "url": "http://live3.istoikona.net:8456/",
        "language_inferred": true
       }
@@ -43,6 +46,7 @@
      "stations": [
       {
        "name": "Chillout Zone",
+       "active": 0,
        "url": "http://5.189.142.165:2304/stream/stream.mp3",
        "language_inferred": true
       }
@@ -53,6 +57,7 @@
      "stations": [
       {
        "name": "All Time Greatest Radio – Chillout Zone",
+       "active": 0,
        "url": "http://5.189.142.165:2304/stream",
        "tags": [
         "chillout_lounge",
@@ -62,11 +67,13 @@
       },
       {
        "name": "Chillout Zone",
+       "active": 0,
        "url": "https://listen.openstream.co/4090/audio",
        "language_inferred": true
       },
       {
        "name": "CHILLOUT ZONE",
+       "active": 0,
        "url": "http://5.189.142.165:2304/",
        "language_inferred": true
       }
@@ -77,21 +84,25 @@
      "stations": [
       {
        "name": "Radio Agios Demetrios",
+       "active": 0,
        "url": "http://eco.onestreaming.com:8474/",
        "rb": "9992cf45-3ec2-11e9-aa55-52543be04c81"
       },
       {
        "name": "Radio Ieras Mitropolis Lemesou",
+       "active": 0,
        "url": "http://93.109.209.123:9080/stream.mp3",
        "rb": "7065ab06-412a-4bbd-96fa-4ef502a70eb5",
        "logo": "https://cdn.e-radio.gr/logos/cy/big/imlemesou.png"
       },
       {
        "name": "translation of the Quran in Greek",
+       "active": 0,
        "url": "https://server3.quraan.us:8022/?n=12deecebb6d1359c3c02"
       },
       {
        "name": "Zenith 96.4 FM radio",
+       "active": 0,
        "url": "https://live3.istoikona.net:9836/stream",
        "tags": [
         "pop_hits",
@@ -104,6 +115,7 @@
       },
       {
        "name": "Εκκλησία Ερήμης",
+       "active": 0,
        "url": "https://stream.zeno.fm/1b1k768ykwzuv"
       }
      ]
@@ -113,6 +125,7 @@
      "stations": [
       {
        "name": "All Hits Zone",
+       "active": 0,
        "url": "https://listen.openstream.co/3126/audio",
        "tags": [
         "oldies",
@@ -125,16 +138,19 @@
       },
       {
        "name": "Bayrak Klasik",
+       "active": 0,
        "url": "http://sc.brtk.net:8006/stream/1",
        "language_inferred": true
       },
       {
        "name": "Bayrak Klasik - Lefkosa",
+       "active": 0,
        "url": "https://www.liveradio.es/http://sc.brtk.net:8006/stream/1",
        "language_inferred": true
       },
       {
        "name": "Kanali",
+       "active": 0,
        "url": "https://live3.istoikona.net:9802/kanali",
        "tags": [
         "pop_hits",
@@ -144,6 +160,7 @@
       },
       {
        "name": "Kanali 6 106",
+       "active": 0,
        "url": "http://stream.dnsgb.net:8012/",
        "tags": [
         "classical",
@@ -154,6 +171,7 @@
       },
       {
        "name": "Melodia Entexno",
+       "active": 0,
        "url": "http://eco.onestreaming.com:8031//stream.mp3",
        "tags": [
         "classical",
@@ -163,11 +181,13 @@
       },
       {
        "name": "Melodia Entexno",
+       "active": 0,
        "url": "http://eco.onestreaming.com:8031/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Melody Radio 103.1 FM",
+       "active": 0,
        "url": "https://melodyradio1031.com/?page_id=382",
        "tags": [
         "classical",
@@ -177,6 +197,7 @@
       },
       {
        "name": "Melody Radio Cyprus",
+       "active": 0,
        "url": "http://liveaudio.virtualict.com:8000/test5.aac/",
        "tags": [
         "pop_hits",
@@ -185,6 +206,7 @@
       },
       {
        "name": "Tetarto Live",
+       "active": 0,
        "url": "https://r1.cloudskep.com/cybcr/cybc4/icecast.audio",
        "tags": [
         "classical",
@@ -202,6 +224,7 @@
      "stations": [
       {
        "name": "Fuad Nasirov",
+       "active": 0,
        "url": "https://stream.zeno.fm/rw92npvv9c0uv",
        "language_inferred": true
       }
@@ -212,6 +235,7 @@
      "stations": [
       {
        "name": "MaxNik fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/0myrfedf8f0uv",
        "language_inferred": true
       }
@@ -222,11 +246,13 @@
      "stations": [
       {
        "name": "50s All Time Greatest",
+       "active": 0,
        "url": "https://listen.radionomy.com/50salltimegreatest",
        "language_inferred": true
       },
       {
        "name": "50s Hits Zone",
+       "active": 0,
        "url": "http://37.59.32.115:5139/stream",
        "tags": [
         "decade_1920s_50s",
@@ -241,11 +267,13 @@
      "stations": [
       {
        "name": "60s All Time Greatest",
+       "active": 0,
        "url": "https://listen.radionomy.com/AllTimeGreatestRadio?type=.mp3",
        "language_inferred": true
       },
       {
        "name": "All Time Greatest Radio",
+       "active": 0,
        "url": "https://listen.radionomy.com/90salltimegreatest",
        "tags": [
         "decade_70s",
@@ -261,6 +289,7 @@
      "stations": [
       {
        "name": "70s 80s Greatest",
+       "active": 0,
        "url": "https://stream.laut.fm/70s80sgreatest?ref=radiode",
        "tags": [
         "decade_70s",
@@ -270,6 +299,7 @@
       },
       {
        "name": "70s Hits Zone",
+       "active": 0,
        "url": "http://37.59.32.115:5129/stream",
        "language_inferred": true
       }
@@ -280,11 +310,13 @@
      "stations": [
       {
        "name": "80s Chartbusters",
+       "active": 0,
        "url": "https://listen.radionomy.com/80schartbusters",
        "language_inferred": true
       },
       {
        "name": "All Hits 4u",
+       "active": 0,
        "url": "http://199.217.113.151:8020/stream",
        "tags": [
         "decade_80s",
@@ -298,6 +330,7 @@
      "stations": [
       {
        "name": "Anna Vissi Radio",
+       "active": 0,
        "url": "https://stream.pcradio.ru/Anna_Vissi-med",
        "language_inferred": true
       }
@@ -308,6 +341,7 @@
      "stations": [
       {
        "name": "Enerji 93.1 FM",
+       "active": 0,
        "url": "http://webstream.mediaworks.com.tr/stream/2/stream.mp3/",
        "tags": [
         "easy_listening",
@@ -316,11 +350,13 @@
       },
       {
        "name": "Kanali Radio",
+       "active": 0,
        "url": "http://stream.dnsgb.net:8012/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Kiss FM",
+       "active": 0,
        "url": "http://r2.phileradio.com:8193/89FM",
        "tags": [
         "pop_hits",
@@ -332,11 +368,13 @@
       },
       {
        "name": "Love Zone",
+       "active": 0,
        "url": "http://5.189.142.165:8108/stream",
        "language_inferred": true
       },
       {
        "name": "Politis FM",
+       "active": 0,
        "url": "https://cdn.istoikona.com/politis/live/icecast.audio",
        "tags": [
         "news_talk",
@@ -348,6 +386,7 @@
       },
       {
        "name": "Radio Elios",
+       "active": 0,
        "url": "http://live3.istoikona.net:8199/audio.mp3?hash=1442246258955",
        "tags": [
         "easy_listening",
@@ -361,6 +400,7 @@
      "stations": [
       {
        "name": "90s All Time Greatest",
+       "active": 0,
        "url": "http://streaming.radionomy.com/90sAllTimeGreatest",
        "tags": [
         "pop_hits",
@@ -370,6 +410,7 @@
       },
       {
        "name": "Butterfly Radio Cyprus",
+       "active": 0,
        "url": "https://stream.zeno.fm/5a5phs9qkkhvv",
        "tags": [
         "electronic",
@@ -384,6 +425,7 @@
       },
       {
        "name": "DeeJay Cyprus",
+       "active": 0,
        "url": "http://eradio.networksolutions.com.cy:1935/DeeJay/DeeJay.stream/playlist.m3u8",
        "tags": [
         "pop_hits",
@@ -393,6 +435,7 @@
       },
       {
        "name": "Dub it! Radio",
+       "active": 0,
        "url": "http://50.7.77.114:8479/stream",
        "tags": [
         "electronic",
@@ -404,6 +447,7 @@
       },
       {
        "name": "Dubophonic Radio",
+       "active": 0,
        "url": "https://radio.regg.ae/radio/8000/radio.mp3",
        "tags": [
         "electronic",
@@ -414,6 +458,7 @@
       },
       {
        "name": "Greek Hits – Greek Hits Radio",
+       "active": 0,
        "url": "http://5stream.shoutcastservices.com:8140/stream",
        "tags": [
         "electronic",
@@ -422,11 +467,13 @@
       },
       {
        "name": "Guaba Radio",
+       "active": 0,
        "url": "https://eco.onestreaming.com/proxy/guaba/stream",
        "language_inferred": true
       },
       {
        "name": "Guaba Radio",
+       "active": 0,
        "url": "http://live3.istoikona.net:8830/stream",
        "tags": [
         "electronic",
@@ -436,11 +483,13 @@
       },
       {
        "name": "Mix FM (Nicosia) Radio",
+       "active": 0,
        "url": "https://stream.pcradio.ru/mixfmradio_com-med",
        "language_inferred": true
       },
       {
        "name": "Pure 90s",
+       "active": 0,
        "url": "http://5.189.142.165:8505/stream",
        "tags": [
         "pop_hits",
@@ -450,11 +499,13 @@
       },
       {
        "name": "Radio TBB",
+       "active": 0,
        "url": "https://stream.pcradio.ru/radio_tbb-med",
        "language_inferred": true
       },
       {
        "name": "Radio TBB radio",
+       "active": 0,
        "url": "http://prem2.di.fm/trance_hi?9dc5e7bd00423d16a960e29a",
        "tags": [
         "electronic",
@@ -465,6 +516,7 @@
       },
       {
        "name": "Super Club Radio",
+       "active": 0,
        "url": "https://canopus.dribbcast.com:8004/stream",
        "tags": [
         "electronic",
@@ -475,6 +527,7 @@
       },
       {
        "name": "Super Club Radio",
+       "active": 0,
        "url": "https://canopus.dribbcast.com:2000/tunein/8004/stream/pls",
        "tags": [
         "pop_hits",
@@ -485,6 +538,7 @@
       },
       {
        "name": "Super Club Radio",
+       "active": 0,
        "url": "https://mpc2.mediacp.eu:8320/stream",
        "tags": [
         "electronic",
@@ -501,6 +555,7 @@
      "stations": [
       {
        "name": "artFM Radio",
+       "active": 0,
        "url": "https://cast.artfmradio.com/radio/8000/radio.mp3?1579455658",
        "tags": [
         "folk",
@@ -511,6 +566,7 @@
       },
       {
        "name": "artFM Radio",
+       "active": 0,
        "url": "http://cast.artfmradio.com:8000/radio.mp3",
        "tags": [
         "pop_hits",
@@ -519,6 +575,7 @@
       },
       {
        "name": "GREEK HITS RADIO",
+       "active": 0,
        "url": "http://listen.radionomy.com/greekhitsradio",
        "tags": [
         "pop_hits",
@@ -528,6 +585,7 @@
       },
       {
        "name": "Kanali 6",
+       "active": 0,
        "url": "http://live3.istoikona.net:8372/stream/2/Title1=Kanali",
        "tags": [
         "folk",
@@ -539,6 +597,7 @@
       },
       {
        "name": "Kanali-6 106 FM",
+       "active": 0,
        "url": "http://31.193.142.7:8012/stream",
        "tags": [
         "folk",
@@ -547,6 +606,7 @@
       },
       {
        "name": "Love FM (Greece) Radio",
+       "active": 0,
        "url": "https://stream.pcradio.ru/rad_lvrdgrcc-med",
        "tags": [
         "folk",
@@ -561,6 +621,7 @@
      "stations": [
       {
        "name": "Radio Sfera 96,8-106,4 FM - Κύπρος",
+       "active": 0,
        "url": "https://securestreams3.autopo.st:1417/sfera",
        "tags": [
         "pop_hits",
@@ -575,6 +636,7 @@
      "stations": [
       {
        "name": "NRG Trke Rap",
+       "active": 0,
        "url": "http://scserv.nrgplay.com:80/stream/202/",
        "language_inferred": true
       }
@@ -585,6 +647,7 @@
      "stations": [
       {
        "name": "Hot Radio Cyprus",
+       "active": 0,
        "url": "http://95.173.184.248:9948/listen.pls",
        "tags": [
         "house",
@@ -594,6 +657,7 @@
       },
       {
        "name": "Private Show Club Radio",
+       "active": 0,
        "url": "https://eu8.fastcast4u.com/proxy/thiefastro?mp=/1",
        "tags": [
         "house",
@@ -604,6 +668,7 @@
       },
       {
        "name": "Private Show Club Radio",
+       "active": 0,
        "url": "http://51.255.235.165:6145/stream",
        "tags": [
         "house",
@@ -613,6 +678,7 @@
       },
       {
        "name": "Radio TBB",
+       "active": 0,
        "url": "http://79.98.108.170:8121/live",
        "tags": [
         "house",
@@ -627,6 +693,7 @@
      "stations": [
       {
        "name": "Chillout Breeze",
+       "active": 0,
        "url": "https://listen.radionomy.com/chilloutbreeze",
        "tags": [
         "ambient_relax",
@@ -636,6 +703,7 @@
       },
       {
        "name": "Chillout Zone",
+       "active": 0,
        "url": "http://5.189.142.165:2304/stream.mp3",
        "tags": [
         "jazz",
@@ -645,6 +713,7 @@
       },
       {
        "name": "Njoy 99.5 radio",
+       "active": 0,
        "url": "http://shout.kalsedia.com:9950/njoy9950_128",
        "tags": [
         "pop_hits",
@@ -656,6 +725,7 @@
       },
       {
        "name": "Zucca Radio",
+       "active": 0,
        "url": "https://stream.pcradio.ru/rad_zccrd-med",
        "tags": [
         "jazz",
@@ -670,10 +740,12 @@
      "stations": [
       {
        "name": "Zenith",
+       "active": 0,
        "url": "http://live3.istoikona.net:8023/audio.mp3?hash=1465047625436"
       },
       {
        "name": "Zenith 96.4 FM",
+       "active": 0,
        "url": "http://eco.onestreaming.com:8023/stream",
        "tags": [
         "pop_hits",
@@ -688,6 +760,7 @@
      "stations": [
       {
        "name": "Chromium Sun",
+       "active": 0,
        "url": "http://37.187.90.196:8885"
       }
      ]
@@ -697,10 +770,12 @@
      "stations": [
       {
        "name": "107.6 FM",
+       "active": 0,
        "url": "http://live3.istoikona.net:8199/"
       },
       {
        "name": "Active Radio",
+       "active": 0,
        "url": "https://securestreams3.autopo.st:1417/active",
        "tags": [
         "news_talk",
@@ -711,6 +786,7 @@
       },
       {
        "name": "Active Radio",
+       "active": 0,
        "url": "https://securestreams3.autopo.st:1417/activemusic",
        "tags": [
         "news_talk",
@@ -720,6 +796,7 @@
       },
       {
        "name": "Active Radio Cyprus",
+       "active": 0,
        "url": "http://r1.phileradio.com:8193/active",
        "tags": [
         "sports",
@@ -728,6 +805,7 @@
       },
       {
        "name": "AlexWebRadio radio",
+       "active": 0,
        "url": "https://listen.radioking.com/radio/372691/stream/422836",
        "tags": [
         "news_talk",
@@ -737,6 +815,7 @@
       },
       {
        "name": "ANT-1 FM",
+       "active": 0,
        "url": "http://eco.onestreaming.com:8133/stream/1",
        "tags": [
         "pop_hits",
@@ -745,6 +824,7 @@
       },
       {
        "name": "Ant1 Radio",
+       "active": 0,
        "url": "https://r1.cloudskep.com/radio2/ant1fm/icecast.audio",
        "tags": [
         "pop_hits",
@@ -755,6 +835,7 @@
       },
       {
        "name": "Astra FM",
+       "active": 0,
        "url": "http://radio.dialogos.com.cy:8000/stream",
        "tags": [
         "pop_hits",
@@ -765,6 +846,7 @@
       },
       {
        "name": "Astra FM",
+       "active": 0,
        "url": "https://securestreams2.autopo.st:1106/stream",
        "tags": [
         "news_talk",
@@ -774,6 +856,7 @@
       },
       {
        "name": "Bayrak International - Lefkosa",
+       "active": 0,
        "url": "https://www.liveradio.es/http://sc.brtk.net:8004/stream/1",
        "tags": [
         "news_talk",
@@ -783,6 +866,7 @@
       },
       {
        "name": "Bayrak Radyosu - Lefkosa",
+       "active": 0,
        "url": "https://www.liveradio.es/http://sc.brtk.net:8002/stream/1",
        "tags": [
         "news_talk",
@@ -792,11 +876,13 @@
       },
       {
        "name": "Bayrak Radyosu radio",
+       "active": 0,
        "url": "http://sc.brtk.net:8002/*.mp3",
        "language_inferred": true
       },
       {
        "name": "Bayrak Türk Müziği - Lefkosa",
+       "active": 0,
        "url": "https://www.liveradio.es/http://sc.brtk.net:8010/stream/1",
        "tags": [
         "news_talk",
@@ -806,6 +892,7 @@
       },
       {
        "name": "BFBS Cyprus",
+       "active": 0,
        "url": "https://edge-audio-05-gos2.sharp-stream.com/ssvcbfbs8.aac",
        "tags": [
         "news_talk",
@@ -814,6 +901,7 @@
       },
       {
        "name": "BFBS Cyprus",
+       "active": 0,
        "url": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs8.aac",
        "tags": [
         "pop_hits",
@@ -823,6 +911,7 @@
       },
       {
        "name": "BFBS Radio 2",
+       "active": 0,
        "url": "http://edge-audio-06-cr.sharp-stream.com/ssvcbfbs2.mp3",
        "tags": [
         "news_talk",
@@ -832,6 +921,7 @@
       },
       {
        "name": "CyBC Radio 1",
+       "active": 0,
        "url": "http://r1.cloudskep.com/cybcr/cybc1/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -841,6 +931,7 @@
       },
       {
        "name": "CyBC Radio 2",
+       "active": 0,
        "url": "https://r1.cloudskep.com/cybcr/cybc2/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -849,6 +940,7 @@
       },
       {
        "name": "CyBC Radio 3",
+       "active": 0,
        "url": "https://r1.cloudskep.com/cybcr/cybc3/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -858,6 +950,7 @@
       },
       {
        "name": "Kanali 7",
+       "active": 0,
        "url": "http://live.kanali7.com:4012/stream.mp3",
        "tags": [
         "news_talk",
@@ -866,12 +959,14 @@
       },
       {
        "name": "Kanali7 98.4 FM",
+       "active": 0,
        "url": "http://live.kanali7.com:4010/",
        "rb": "963770be-0601-11e8-ae97-52543be04c81",
        "logo": "http://new.kanali7.com/wp-content/uploads/2016/03/kanali-7-logo-low.png"
       },
       {
        "name": "Kibris FM",
+       "active": 0,
        "url": "https://play.kibrisfm.com/hls/radio.m3u8",
        "tags": [
         "news_talk",
@@ -881,11 +976,13 @@
       },
       {
        "name": "Kibris FM radio",
+       "active": 0,
        "url": "https://play.kibrisfm.com/stream2/hls/stream.m3u8",
        "language_inferred": true
       },
       {
        "name": "Kıbrıs Sim Radyo",
+       "active": 0,
        "url": "http://88.255.211.12:8000/stream.mp3",
        "tags": [
         "news_talk",
@@ -895,6 +992,7 @@
       },
       {
        "name": "Prima 93.0",
+       "active": 0,
        "url": "http://shout.kalsedia.com:9300/prima9300_128",
        "tags": [
         "news_talk",
@@ -903,6 +1001,7 @@
       },
       {
        "name": "Proto Live",
+       "active": 0,
        "url": "https://r1.cloudskep.com/cybcr/cybc1/icecast.audio",
        "tags": [
         "news_talk",
@@ -913,6 +1012,7 @@
       },
       {
        "name": "Radio Cosmos",
+       "active": 0,
        "url": "http://i.streams.ovh:9249/stream",
        "tags": [
         "news_talk",
@@ -921,6 +1021,7 @@
       },
       {
        "name": "Radio Dardasha7",
+       "active": 0,
        "url": "https://stream.radio.co/s44717d098/listen",
        "tags": [
         "news_talk",
@@ -929,6 +1030,7 @@
       },
       {
        "name": "Radio EF-EM",
+       "active": 0,
        "url": "http://ample-02.radiojar.com/0zux9wv29gruv",
        "tags": [
         "news_talk",
@@ -937,6 +1039,7 @@
       },
       {
        "name": "Radio Melodia",
+       "active": 0,
        "url": "http://r1.phileradio.com:8193/89FM",
        "tags": [
         "pop_hits",
@@ -948,6 +1051,7 @@
       },
       {
        "name": "Radio Pafos",
+       "active": 0,
        "url": "http://live.iteam4media.com:1818/.mp3",
        "tags": [
         "pop_hits",
@@ -957,6 +1061,7 @@
       },
       {
        "name": "Radio Pafos 93.7 FM",
+       "active": 0,
        "url": "http://live.iteam4media.com:1818/",
        "tags": [
         "news_talk",
@@ -967,6 +1072,7 @@
       },
       {
        "name": "Radio Proto",
+       "active": 0,
        "url": "http://eco.onestreaming.com:8191/",
        "tags": [
         "news_talk",
@@ -978,6 +1084,7 @@
       },
       {
        "name": "Radio Sfera 102.2 FM radio",
+       "active": 0,
        "url": "https://netradio.live24.gr/sfera4132",
        "tags": [
         "news_talk",
@@ -987,6 +1094,7 @@
       },
       {
        "name": "Radio Δίεση 101.1 FM",
+       "active": 0,
        "url": "https://r1.cloudskep.com/radio/diesi/icecast.audio",
        "tags": [
         "news_talk",
@@ -1001,6 +1109,7 @@
       },
       {
        "name": "Star FM 93.7 radio",
+       "active": 0,
        "url": "http://eco.onestreaming.com:8538/",
        "tags": [
         "pop_hits",
@@ -1011,6 +1120,7 @@
       },
       {
        "name": "Super Sport FM",
+       "active": 0,
        "url": "https://sportfm-cyprus.live24.gr/sportfm-cyprus",
        "bitrate": 128,
        "logo": "http://radio.pervii.com/logo/1403620761.png",
@@ -1022,6 +1132,7 @@
       },
       {
        "name": "Super Sport FM",
+       "active": 0,
        "url": "https://r1.cloudskep.com/radio3/supersportfm/icecast.audio",
        "tags": [
         "news_talk",
@@ -1032,6 +1143,7 @@
       },
       {
        "name": "Trito Live",
+       "active": 0,
        "url": "https://r1.cloudskep.com/cybcr/cybc3/icecast.audio",
        "tags": [
         "news_talk",
@@ -1042,6 +1154,7 @@
       },
       {
        "name": "UCY Voice 95.2FM",
+       "active": 0,
        "url": "http://108.163.223.242:8340/stream/",
        "tags": [
         "news_talk",
@@ -1052,6 +1165,7 @@
       },
       {
        "name": "Ράδιο Ναυάγιο",
+       "active": 0,
        "url": "https://cast.loiz.org/radio/8000/stream.mp3",
        "tags": [
         "news_talk",
@@ -1066,6 +1180,7 @@
      "stations": [
       {
        "name": "50s All Time Greatest",
+       "active": 0,
        "url": "http://streaming.radionomy.com/50sAllTimeGreatest",
        "tags": [
         "pop_hits",
@@ -1075,6 +1190,7 @@
       },
       {
        "name": "60s Chartbusters",
+       "active": 0,
        "url": "https://listen.radionomy.com/60schartbusters",
        "tags": [
         "oldies",
@@ -1085,6 +1201,7 @@
       },
       {
        "name": "60s Chartbusters",
+       "active": 0,
        "url": "http://streaming.radionomy.com/60sChartbusters",
        "tags": [
         "pop_hits",
@@ -1094,6 +1211,7 @@
       },
       {
        "name": "KISS",
+       "active": 0,
        "url": "https://securestreams3.autopo.st:1417/89FM",
        "tags": [
         "pop_hits",
@@ -1107,6 +1225,7 @@
       },
       {
        "name": "Love Zone",
+       "active": 0,
        "url": "http://5.189.142.165:8108/stream.mp3",
        "tags": [
         "oldies",
@@ -1116,6 +1235,7 @@
       },
       {
        "name": "Radio All Time 70s 80s Greatest",
+       "active": 0,
        "url": "http://streaming.radionomy.com/AllTime70s80sGreatest",
        "tags": [
         "oldies",
@@ -1132,6 +1252,7 @@
      "stations": [
       {
        "name": "Black Diamond Radio",
+       "active": 0,
        "url": "http://streaming.radionomy.com/HardRockRadioLiveMetalMeltdown",
        "tags": [
         "pop_hits",
@@ -1142,10 +1263,12 @@
       },
       {
        "name": "Butterfy Radio Greek",
+       "active": 0,
        "url": "https://stream.zeno.fm/qq324f8k3uhvv"
       },
       {
        "name": "Capital Radio",
+       "active": 0,
        "url": "http://159.253.37.137:9956/",
        "tags": [
         "pop_hits",
@@ -1155,15 +1278,18 @@
       },
       {
        "name": "Capital Radio 93.8 FM",
+       "active": 0,
        "url": "http://radyotest.guzel.net.tr:9956/"
       },
       {
        "name": "Choice FM",
+       "active": 0,
        "url": "http://live3.istoikona.net:8364/",
        "language_inferred": true
       },
       {
        "name": "Choice FM",
+       "active": 0,
        "url": "http://eco.onestreaming.com:8364/",
        "tags": [
         "pop_hits",
@@ -1172,40 +1298,48 @@
       },
       {
        "name": "Choice FM",
+       "active": 0,
        "url": "http://eco.onestreaming.com:8364/stream",
        "language_inferred": true
       },
       {
        "name": "Choice FM 104.3-107.4 radio",
+       "active": 0,
        "url": "https://live3.istoikona.net:18364/stream",
        "language_inferred": true
       },
       {
        "name": "Cyprus Radio AKS",
+       "active": 0,
        "url": "http://london-dedicated.myautodj.com:9005/stream",
        "language_inferred": true
       },
       {
        "name": "Dromos FM",
+       "active": 0,
        "url": "https://dromoscyprus.live24.gr/dromoscyprus"
       },
       {
        "name": "EF-EM / 99 FM",
+       "active": 0,
        "url": "https://live3.istoikona.net:9104/stream",
        "language_inferred": true
       },
       {
        "name": "Extacy Radio",
+       "active": 0,
        "url": "https://i8.streams.ovh:18079/stream",
        "language_inferred": true
       },
       {
        "name": "First FM",
+       "active": 0,
        "url": "http://185.110.242.208:8090/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "GREEK WORLD RADIO",
+       "active": 0,
        "url": "http://5.189.142.165:8140/stream.mp3",
        "tags": [
         "pop_hits",
@@ -1216,16 +1350,19 @@
       },
       {
        "name": "Hot 40 Music",
+       "active": 0,
        "url": "http://listen.radionomy.com/Hot40Music",
        "language_inferred": true
       },
       {
        "name": "Hot 40 Music",
+       "active": 0,
        "url": "http://streaming.radionomy.com/Hot40Music",
        "language_inferred": true
       },
       {
        "name": "KISS FM 89.0",
+       "active": 0,
        "url": "http://phileradio.com:8193/89FM",
        "tags": [
         "pop_hits",
@@ -1235,6 +1372,7 @@
       },
       {
        "name": "Klik 105.5 FM",
+       "active": 0,
        "url": "http://eco.onestreaming.com:8310/",
        "tags": [
         "pop_hits",
@@ -1245,10 +1383,12 @@
       },
       {
        "name": "Klik FM",
+       "active": 0,
        "url": "http://eco.onestreaming.com:8310/stream"
       },
       {
        "name": "Klik FM",
+       "active": 0,
        "url": "http://live3.istoikona.net:8310/",
        "tags": [
         "pop_hits",
@@ -1258,6 +1398,7 @@
       },
       {
        "name": "Mix FM",
+       "active": 0,
        "url": "http://eco.onestreaming.com:8127/",
        "tags": [
         "pop_hits",
@@ -1266,42 +1407,51 @@
       },
       {
        "name": "Mix FM",
+       "active": 0,
        "url": "http://live3.istoikona.com:8127/"
       },
       {
        "name": "NRG Türk",
+       "active": 0,
        "url": "http://live.nrgplay.com:8000/stream/2/",
        "language_inferred": true
       },
       {
        "name": "Radio Pafos",
+       "active": 0,
        "url": "http://live.iteam4media.com:1818/?1461772569450.mp3"
       },
       {
        "name": "Radyo Juke",
+       "active": 0,
        "url": "http://yayin.netradyom.com:9990/stream.nsv",
        "language_inferred": true
       },
       {
        "name": "RockFM 89.2",
+       "active": 0,
        "url": "https://cdn.istoikona.com/RockFm/limassol/icecast.audio"
       },
       {
        "name": "Russian Wave 105.7 FM",
+       "active": 0,
        "url": "http://shout.kalsedia.com:1057/ruwave1057_64/stream/1",
        "language_inferred": true
       },
       {
        "name": "Sfera 96.8",
+       "active": 0,
        "url": "http://r1.phileradio.com:8193/sfera",
        "language_inferred": true
       },
       {
        "name": "Sunshine Radio 90.8 FM",
+       "active": 0,
        "url": "http://5.63.151.52:7172/stream/stream.mp3"
       },
       {
        "name": "Super FM 104.8",
+       "active": 0,
        "url": "http://eco.onestreaming.com:8175",
        "tags": [
         "pop_hits",
@@ -1312,16 +1462,19 @@
       },
       {
        "name": "Super FM Radio",
+       "active": 0,
        "url": "http://37.48.68.74:8175/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Super Rad104.8 - FM 95.7",
+       "active": 0,
        "url": "http://eco.onestreaming.com:8175/stream",
        "language_inferred": true
       },
       {
        "name": "The 2000s",
+       "active": 0,
        "url": "http://streaming.radionomy.com/90salltimegreatest",
        "tags": [
         "pop_hits",
@@ -1332,10 +1485,12 @@
       },
       {
        "name": "Zenith FM 96.4",
+       "active": 0,
        "url": "http://live3.istoikona.net:8023/"
       },
       {
        "name": "Zenith Radio",
+       "active": 0,
        "url": "http://eco.onestreaming.com:8023/",
        "tags": [
         "pop_hits",
@@ -1345,6 +1500,7 @@
       },
       {
        "name": "Русское Радио",
+       "active": 0,
        "url": "https://n03.radiojar.com/wy42n4wvdf9uv",
        "language_inferred": true
       }
@@ -1355,11 +1511,13 @@
      "stations": [
       {
        "name": "50s All Time Greatest",
+       "active": 0,
        "url": "http://streaming.radionomy.com/50salltimegreatest",
        "language_inferred": true
       },
       {
        "name": "60s Chartbusters",
+       "active": 0,
        "url": "https://streamingv2.shoutcast.com/60sChartbusters",
        "tags": [
         "rock",
@@ -1374,6 +1532,7 @@
       },
       {
        "name": "All Time 70s 80s Greatest",
+       "active": 0,
        "url": "http://streaming.radionomy.com/alltime70s80sgreatest",
        "tags": [
         "rock",
@@ -1385,6 +1544,7 @@
       },
       {
        "name": "All Time 70s 80s Greatest",
+       "active": 0,
        "url": "https://streamingv2.shoutcast.com/alltime70s80sgreatest",
        "tags": [
         "rock",
@@ -1397,6 +1557,7 @@
       },
       {
        "name": "All Time Greatest Radio – 70s 80s All Time Greatest",
+       "active": 0,
        "url": "http://streamingv2.shoutcast.com/AllTime70s80sGreatest",
        "tags": [
         "rock",
@@ -1409,10 +1570,12 @@
       },
       {
        "name": "CloudCY Rock",
+       "active": 0,
        "url": "http://radio.cloudcy.org:8000/rock"
       },
       {
        "name": "Greek Choice Radio",
+       "active": 0,
        "url": "http://eco.onestreaming.com:8207/",
        "tags": [
         "rock",
@@ -1421,6 +1584,7 @@
       },
       {
        "name": "Hoi Polloi Radio",
+       "active": 0,
        "url": "http://192.240.102.198:14184/stream",
        "tags": [
         "rock",
@@ -1431,6 +1595,7 @@
       },
       {
        "name": "NRJ Cyprus",
+       "active": 0,
        "url": "https://stream.radiojar.com/ke923q0hhf9uv",
        "tags": [
         "pop_hits",
@@ -1441,6 +1606,7 @@
       },
       {
        "name": "NRJ Cyprus radio",
+       "active": 0,
        "url": "http://broadcaster.iteam4media.com/ke923q0hhf9uv",
        "tags": [
         "electronic",
@@ -1452,16 +1618,19 @@
       },
       {
        "name": "Pure 60s",
+       "active": 0,
        "url": "https://listen.openstream.co/3341/audio",
        "language_inferred": true
       },
       {
        "name": "Pure 60s",
+       "active": 0,
        "url": "https://str2b.openstream.co/575",
        "language_inferred": true
       },
       {
        "name": "Pure 90s",
+       "active": 0,
        "url": "http://5.189.142.165:8505/stream.mp3",
        "tags": [
         "rock",
@@ -1473,6 +1642,7 @@
       },
       {
        "name": "Radio Navagio",
+       "active": 0,
        "url": "https://radio-navagio.com/stream",
        "tags": [
         "rock",
@@ -1487,6 +1657,7 @@
       },
       {
        "name": "Rock FM Cyprus",
+       "active": 0,
        "url": "http://live3.istoikona.net:8278/",
        "tags": [
         "rock",
@@ -1497,10 +1668,12 @@
       },
       {
        "name": "Rock FM Limassol",
+       "active": 0,
        "url": "http://live3.istoikona.net:8456/stream.mp3"
       },
       {
        "name": "Rock Inferno",
+       "active": 0,
        "url": "http://213.202.252.109:8012/radio.mp3",
        "tags": [
         "rock",
@@ -1510,6 +1683,7 @@
       },
       {
        "name": "Rockstone radio",
+       "active": 0,
        "url": "https://neos.win:59810/stream",
        "tags": [
         "rock",
@@ -1520,11 +1694,13 @@
       },
       {
        "name": "Studio64 FM",
+       "active": 0,
        "url": "http://whsh4u-clients.com:9047/",
        "language_inferred": true
       },
       {
        "name": "Studio64 radio",
+       "active": 0,
        "url": "https://whsh4u-clients.com/proxy/gdmewnaz?mp=/stream",
        "tags": [
         "rock",
@@ -1540,6 +1716,7 @@
      "stations": [
       {
        "name": "Butterfly Radio Cyprus",
+       "active": 0,
        "url": "https://stream2.alphaserver.eu/radio/8160/radio.mp3",
        "tags": [
         "soul_rnb_funk",
@@ -1552,6 +1729,7 @@
       },
       {
        "name": "Music Moments",
+       "active": 0,
        "url": "https://andreas.radioca.st/stream.mp3/",
        "tags": [
         "soul_rnb_funk",
@@ -1568,10 +1746,12 @@
      "stations": [
       {
        "name": "OMONOIA Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/ex5qtsb8n98uv"
       },
       {
        "name": "Radio Proto",
+       "active": 0,
        "url": "http://eco.onestreaming.com:8191/stream",
        "tags": [
         "sports",
@@ -1581,6 +1761,7 @@
       },
       {
        "name": "Sports 1 Radio",
+       "active": 0,
        "url": "http://eco.onestreaming.com:8486/stream",
        "tags": [
         "sports",
@@ -1589,15 +1770,18 @@
       },
       {
        "name": "Sports 1 Radio",
+       "active": 0,
        "url": "http://eco.onestreaming.com:8486/"
       },
       {
        "name": "Σπορ FM",
+       "active": 0,
        "url": "https://eradio.networksolutions.com.cy:1943/SportFM/SportFM.stream/chunklist_w800411694.m3u8",
        "language_inferred": true
       },
       {
        "name": "Σπορ FM 95.0",
+       "active": 0,
        "url": "http://eradio.networksolutions.com.cy:1935/SportFM/SportFM.stream/playlist.m3u8",
        "tags": [
         "sports",
@@ -1613,6 +1797,7 @@
      "stations": [
       {
        "name": "RadioTBB your electronic world!",
+       "active": 0,
        "url": "http://79.98.108.170:8121",
        "tags": [
         "trance_goa",
@@ -1627,6 +1812,7 @@
      "stations": [
       {
        "name": "Fantastic Greek Radio",
+       "active": 0,
        "url": "http://radio.streamings.gr:8025/stream",
        "tags": [
         "various_eclectic",
@@ -1635,11 +1821,13 @@
       },
       {
        "name": "Fantastic Greek Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/47vbps9zzf8uv",
        "language_inferred": true
       },
       {
        "name": "Radio Haji",
+       "active": 0,
        "url": "http://50.7.99.163:16116/live",
        "language_inferred": true
       }
@@ -1650,11 +1838,13 @@
      "stations": [
       {
        "name": "Bayrak Radyosu",
+       "active": 0,
        "url": "http://sc.brtk.net:8002/stream/1",
        "language_inferred": true
       },
       {
        "name": "Bayrak Türk Müzigi",
+       "active": 0,
        "url": "http://sc.brtk.net:8010/stream/1",
        "tags": [
         "pop_hits",
@@ -1664,6 +1854,7 @@
       },
       {
        "name": "Greek Hits Radio",
+       "active": 0,
        "url": "https://listen.radionomy.com/greekhitsradio.m3u",
        "tags": [
         "pop_hits",
@@ -1673,6 +1864,7 @@
       },
       {
        "name": "Greek Hits – Greek World Radio",
+       "active": 0,
        "url": "http://5.189.142.165:8140/stream",
        "tags": [
         "pop_hits",
@@ -1682,6 +1874,7 @@
       },
       {
        "name": "Radio Cosmos",
+       "active": 0,
        "url": "http://server.webradioserver.gr:9249/stream",
        "tags": [
         "world",
@@ -1690,6 +1883,7 @@
       },
       {
        "name": "Radio Sfera 96.8 FM",
+       "active": 0,
        "url": "http://phileradio.com:8193/sfera",
        "bitrate": 128,
        "logo": "http://radio.pervii.com/logo/1403650547.png",
@@ -1701,6 +1895,7 @@
       },
       {
        "name": "Radio Ubuntu",
+       "active": 0,
        "url": "http://5.189.184.146:8000/radio.mp3",
        "tags": [
         "world",
@@ -1713,6 +1908,7 @@
       },
       {
        "name": "Super FM - Κύπρος",
+       "active": 0,
        "url": "https://live3.istoikona.net:18826/stream",
        "tags": [
         "world",
@@ -1726,92 +1922,111 @@
      "stations": [
       {
        "name": "All 00s Radio",
+       "active": 0,
        "url": "http://51.77.124.144:8038/stream",
        "language_inferred": true
       },
       {
        "name": "All 50s Radio",
+       "active": 0,
        "url": "https://streaming.radionomy.com/50sAllTimeGreatest?lang=en-US%2cen%3bq%3d0.9",
        "language_inferred": true
       },
       {
        "name": "All 60s Radio",
+       "active": 0,
        "url": "http://185.105.4.100:8151/radio.mp3",
        "language_inferred": true
       },
       {
        "name": "All 70s Radio",
+       "active": 0,
        "url": "http://185.105.4.100:8073/radio.mp3",
        "language_inferred": true
       },
       {
        "name": "All 90s Radio",
+       "active": 0,
        "url": "http://51.77.124.144:8083/stream",
        "language_inferred": true
       },
       {
        "name": "All Hits 4u",
+       "active": 0,
        "url": "http://89.163.227.75:8020/stream",
        "language_inferred": true
       },
       {
        "name": "All Hits 4u – Limassol – Limassol District – CY",
+       "active": 0,
        "url": "https://cast.yourradio.live/radio/8010/radio.mp3",
        "language_inferred": true
       },
       {
        "name": "All Time 70s 80s Greatest",
+       "active": 0,
        "url": "https://live.streamthe.world/70s80salltime",
        "language_inferred": true
       },
       {
        "name": "All Time 70s 80s Greatest",
+       "active": 0,
        "url": "https://listen.shoutcast.com/alltime70s80sgreatest",
        "language_inferred": true
       },
       {
        "name": "Alpha FM",
+       "active": 0,
        "url": "http://live3.istoikona.net:8310/stream"
       },
       {
        "name": "Ant1 FM",
+       "active": 0,
        "url": "https://r1.cloudskep.com/radio2/ant1fm/icecast.audio?direct=false",
        "language_inferred": true
       },
       {
        "name": "artFM Radio",
+       "active": 0,
        "url": "http://192.240.102.198:14012/stream"
       },
       {
        "name": "Atsalino Rodo",
+       "active": 0,
        "url": "https://stream.zeno.fm/qkfns34a51zuv",
        "language_inferred": true
       },
       {
        "name": "BFBS Cyprus",
+       "active": 0,
        "url": "http://tx.sharp-stream.com/icecast.php?i=ssvcbfbs8.mp3",
        "language_inferred": true
       },
       {
        "name": "BimberFM",
+       "active": 0,
        "url": "https://stream.zeno.fm/w2m7svxn8rhvv",
        "language_inferred": true
       },
       {
        "name": "Butterfly Greek Radio Cyprus",
+       "active": 0,
        "url": "https://stream.zeno.fm/8wyb0f8k3uhvv"
       },
       {
        "name": "Capital FM - 101.4 & 96.1",
+       "active": 0,
        "url": "http://81.4.144.146:8000/live"
       },
       {
        "name": "Capital Radio",
+       "active": 0,
        "url": "http://radyo1.radyo-dinle.tc:8256/stream",
        "language_inferred": true
       },
       {
        "name": "Capital Türk",
+       "active": 0,
        "url": "https://radyo1.radyo-dinle.tc/8210/stream",
        "language_inferred": true,
        "rb": "5309c12b-ef84-43a2-8e6b-1d9d994bea01",
@@ -1819,581 +2034,701 @@
       },
       {
        "name": "Carantina FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/52qkyz6e0chvv",
        "language_inferred": true
       },
       {
        "name": "Chaton",
+       "active": 0,
        "url": "https://stream.zeno.fm/9fx1r79skrhvv",
        "language_inferred": true
       },
       {
        "name": "Choice 104.3 FM",
+       "active": 0,
        "url": "http://eco.onestreaming.com:8364/stream/1",
        "language_inferred": true
       },
       {
        "name": "Choice FM",
+       "active": 0,
        "url": "http://live3.istoikona.net:8364/stream",
        "language_inferred": true
       },
       {
        "name": "Classic99",
+       "active": 0,
        "url": "http://fast.citrus3.com:8150/stream"
       },
       {
        "name": "Coaching Bg",
+       "active": 0,
        "url": "https://stream.zeno.fm/5hc1ah3hzhhvv",
        "language_inferred": true
       },
       {
        "name": "Cool Radio 91.6",
+       "active": 0,
        "url": "http://live3.istoikona.net/stream/cooleradio/stream.pls?n=394793ed20a97c7ac3e3",
        "language_inferred": true,
        "rb": "0ad4597d-1830-4062-a6a9-7a7d4636dec6"
       },
       {
        "name": "CUT Radio",
+       "active": 0,
        "url": "http://ample-07.radiojar.com/cut-radio.mp3"
       },
       {
        "name": "CyBC Radio 4",
+       "active": 0,
        "url": "https://r1.cloudskep.com/cybcr/cybc4/iplaylist.m3u8"
       },
       {
        "name": "Cyprus Dub Community Radio",
+       "active": 0,
        "url": "http://50.7.77.114:8479/autodj"
       },
       {
        "name": "Cyprus Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/vb2s9675cy8uv",
        "language_inferred": true
       },
       {
        "name": "Cyprus Radio AKS",
+       "active": 0,
        "url": "https://stream.zeno.fm/afdxfdwxqfhvv",
        "language_inferred": true
       },
       {
        "name": "Cyprus Radio AKS – CY",
+       "active": 0,
        "url": "http://london-dedicated.myautodj.com:9005/",
        "language_inferred": true
       },
       {
        "name": "Cyptek",
+       "active": 0,
        "url": "https://stream.zeno.fm/prn8bxgwxwzuv",
        "language_inferred": true
       },
       {
        "name": "Day After Day",
+       "active": 0,
        "url": "https://stream.zeno.fm/88xbkpd72hhvv",
        "language_inferred": true
       },
       {
        "name": "dd mikky",
+       "active": 0,
        "url": "https://stream.zeno.fm/hd5q9u93czzuv",
        "language_inferred": true
       },
       {
        "name": "DJ Box Radio",
+       "active": 0,
        "url": "http://eu8.fastcast4u.com:5116",
        "language_inferred": true
       },
       {
        "name": "DNA COFFEE & PIZZA | Radio Station",
+       "active": 0,
        "url": "http://radio.terst.net/hls/dna/live.m3u8?n=5aaf6cf6aff4a6118562"
       },
       {
        "name": "Drakos",
+       "active": 0,
        "url": "https://stream.zeno.fm/buyehmrrpc9uv",
        "language_inferred": true
       },
       {
        "name": "Dream Live Urban",
+       "active": 0,
        "url": "https://node-01.zeno.fm/gcw2q6u67f8uv",
        "language_inferred": true
       },
       {
        "name": "Dream Live Urban",
+       "active": 0,
        "url": "https://stream.zeno.fm/gcw2q6u67f8uv",
        "language_inferred": true
       },
       {
        "name": "Electronic",
+       "active": 0,
        "url": "https://stream.zeno.fm/tn9lvfpzzeivv",
        "language_inferred": true
       },
       {
        "name": "Emphasys",
+       "active": 0,
        "url": "https://stream.zeno.fm/epsq2y7dfv8uv",
        "language_inferred": true
       },
       {
        "name": "ESPIRITO DA GRACA",
+       "active": 0,
        "url": "https://stream.zeno.fm/368mps61gm0uv",
        "language_inferred": true
       },
       {
        "name": "Feromon Parfüm",
+       "active": 0,
        "url": "https://conjy.com:8043/stream201.mp3",
        "language_inferred": true
       },
       {
        "name": "FK - TRIBUTE",
+       "active": 0,
        "url": "https://stream.zeno.fm/2a9suwwwbphvv",
        "language_inferred": true
       },
       {
        "name": "Forum Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/hfjrwud9nqwuv",
        "language_inferred": true
       },
       {
        "name": "GQGeorge FM 2 – CY",
+       "active": 0,
        "url": "http://31.216.72.190:8000/listen.pls",
        "language_inferred": true
       },
       {
        "name": "Greek Hits",
+       "active": 0,
        "url": "https://stream.zeno.fm/pe6fd6mxng8uv",
        "language_inferred": true
       },
       {
        "name": "Hariba Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/17qaa08euv8uv",
        "language_inferred": true
       },
       {
        "name": "Hip Hop Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/m8du1drahv8uv",
        "language_inferred": true
       },
       {
        "name": "Hip Hop Radio Cyprus",
+       "active": 0,
        "url": "https://node-25.zeno.fm/m8du1drahv8uv",
        "language_inferred": true
       },
       {
        "name": "HiT WebRadio",
+       "active": 0,
        "url": "https://stream.zeno.fm/v67cgy99fc9uv",
        "language_inferred": true
       },
       {
        "name": "Hot Hits Cyprus",
+       "active": 0,
        "url": "https://stream.zeno.fm/scnec3ccqfjvv",
        "language_inferred": true
       },
       {
        "name": "Hot Radio Cyprus",
+       "active": 0,
        "url": "https://ip169.ozelip.com/8004/stream",
        "language_inferred": true
       },
       {
        "name": "I SELL AND FIX RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/wwzcve5u5s8uv",
        "language_inferred": true
       },
       {
        "name": "John Doe radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/crh0q7nqruhvv",
        "language_inferred": true
       },
       {
        "name": "Kanali6 (106.00 | 98.6 | 107.00 | 106.9) Lemesos Cyprus",
+       "active": 0,
        "url": "http://31.193.142.7:8012/listen.pls?sid=1"
       },
       {
        "name": "Kanali7 98.4",
+       "active": 0,
        "url": "http://live.kanali7.com:4012/",
        "language_inferred": true
       },
       {
        "name": "KANALI7 984  998  1021 FM STEREO CYPRUS",
+       "active": 0,
        "url": "http://live.radioalphaomega.com:4012/stream.mp3"
       },
       {
        "name": "Klik 105.5 FM",
+       "active": 0,
        "url": "http://eco.onestreaming.com:8310/stream/1",
        "language_inferred": true
       },
       {
        "name": "Kolwezi FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/el2ltjbxnovvv",
        "language_inferred": true
       },
       {
        "name": "KRYK İkinci Kanalı - Kıbrıs",
+       "active": 0,
        "url": "https://r1.cloudskep.com/cybcr/cybc2/icecast.audio",
        "language_inferred": true
       },
       {
        "name": "Lemoni Radio",
+       "active": 0,
        "url": "http://stream.radiojar.com/mw1xsf0dpnruv.mp3?n=221b73f89f24253f9ac3"
       },
       {
        "name": "Love fm",
+       "active": 0,
        "url": "http://eradio.networksolutions.com.cy:1935/LoveRadio/Loveradio.stream/master.m3u8"
       },
       {
        "name": "Love FM",
+       "active": 0,
        "url": "http://eradio.networksolutions.com.cy:1935/LoveRadio/Loveradio.stream/playlist.m3u8",
        "rb": "3ee0ecc7-4be2-4ee9-b356-61d98b40d933",
        "logo": "http://www.lovefm.com.cy/uploads/6/2/2/6/62260227/lovefm-logo-copy.png"
       },
       {
        "name": "Love FM Cyprus",
+       "active": 0,
        "url": "http://eradio.networksolutions.com.cy:1935/LoveRadio/_definst_/Loveradio.stream/playlist.m3u8"
       },
       {
        "name": "MaxWowzer",
+       "active": 0,
        "url": "https://stream.zeno.fm/33dzs78nq2zuv",
        "language_inferred": true
       },
       {
        "name": "Melo Mamas",
+       "active": 0,
        "url": "https://stream.zeno.fm/5ztf0doayxxvv",
        "language_inferred": true
       },
       {
        "name": "Melody Radio",
+       "active": 0,
        "url": "http://liveaudio.virtualict.com:8000/"
       },
       {
        "name": "Melody Radio 103.1",
+       "active": 0,
        "url": "http://livemedia.virtualict.com:8000/test5.aac",
        "language_inferred": true
       },
       {
        "name": "Melody Radio Cyprus",
+       "active": 0,
        "url": "http://liveaudio.virtualict.com:8000/stream.nsv"
       },
       {
        "name": "Mix FM",
+       "active": 0,
        "url": "http://live3.istoikona.net:8706/stream",
        "language_inferred": true
       },
       {
        "name": "Mix FM 102.3",
+       "active": 0,
        "url": "http://eco.onestreaming.com:8127/stream/1",
        "language_inferred": true
       },
       {
        "name": "Mix Greek",
+       "active": 0,
        "url": "http://eco.onestreaming.com:8644/"
       },
       {
        "name": "Music Trip",
+       "active": 0,
        "url": "https://stream.zeno.fm/hrvvec9yaphvv",
        "language_inferred": true
       },
       {
        "name": "Musica",
+       "active": 0,
        "url": "https://stream.zeno.fm/eqa51qbf368uv",
        "language_inferred": true
       },
       {
        "name": "MyRadioArt",
+       "active": 0,
        "url": "http://eco.onestreaming.com:8540/stream/1"
       },
       {
        "name": "Nicósia in brazil america",
+       "active": 0,
        "url": "https://stream2.svrdedicado.org/8354/stream",
        "language_inferred": true
       },
       {
        "name": "noise radio",
+       "active": 0,
        "url": "http://198.178.121.76:8359/stream",
        "language_inferred": true
       },
       {
        "name": "NRJ Cyprus",
+       "active": 0,
        "url": "http://shout.kalsedia.com:1045",
        "language_inferred": true
       },
       {
        "name": "Numero 1",
+       "active": 0,
        "url": "https://stream.zeno.fm/v82f2dgkcd0uv",
        "language_inferred": true
       },
       {
        "name": "OJO Radio",
+       "active": 0,
        "url": "http://live3.istoikona.com:8642",
        "language_inferred": true
       },
       {
        "name": "PIK Sat TV",
+       "active": 0,
        "url": "http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8",
        "rb": "be20711a-1e45-11e9-a80b-52543be04c81",
        "logo": "https://control.divio.com/static/favicon.png"
       },
       {
        "name": "pk1234",
+       "active": 0,
        "url": "https://stream.zeno.fm/vnnyvomgcg3vv",
        "language_inferred": true
       },
       {
        "name": "Positive Vibrations",
+       "active": 0,
        "url": "https://stream.zeno.fm/4qmcvrhxav8uv",
        "language_inferred": true
       },
       {
        "name": "PsyhiCo",
+       "active": 0,
        "url": "https://stream.zeno.fm/49u16vpd7ehvv",
        "language_inferred": true
       },
       {
        "name": "QuarantineCY",
+       "active": 0,
        "url": "https://stream.zeno.fm/p4691y0wz1zuv"
       },
       {
        "name": "Radio Café-In",
+       "active": 0,
        "url": "https://stream.zeno.fm/tj6wpk8auirvv",
        "language_inferred": true
       },
       {
        "name": "Radio Cherry",
+       "active": 0,
        "url": "http://live3.istoikona.net:8101/stream"
       },
       {
        "name": "RADIO CIDADE DA FE",
+       "active": 0,
        "url": "https://stream.zeno.fm/45kcaf4zwd0uv",
        "language_inferred": true
       },
       {
        "name": "Radio Cyprus",
+       "active": 0,
        "url": "https://stream.zeno.fm/13ekbca2zf8uv",
        "language_inferred": true
       },
       {
        "name": "Radio Deejay 93.5",
+       "active": 0,
        "url": "https://eradio.networksolutions.com.cy:1943/DeeJay/DeeJay.stream/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "Radio EF-EM 99.0",
+       "active": 0,
        "url": "http://live3.istoikona.com:8671/"
       },
       {
        "name": "Radio El-2ize3a",
+       "active": 0,
        "url": "https://stream.zeno.fm/7akcz2a4ba9uv",
        "language_inferred": true
       },
       {
        "name": "Radio Elios",
+       "active": 0,
        "url": "http://live3.istoikona.net:8199/mp3"
       },
       {
        "name": "Radio Gilberto Gil",
+       "active": 0,
        "url": "https://stream.zeno.fm/tk394gfnha0uv",
        "language_inferred": true
       },
       {
        "name": "Radio John Bowie",
+       "active": 0,
        "url": "https://stream.zeno.fm/kvvdc16grd0uv",
        "language_inferred": true
       },
       {
        "name": "Radio Livres para Adorar",
+       "active": 0,
        "url": "https://stream.zeno.fm/t8npxdh9f2zuv",
        "language_inferred": true
       },
       {
        "name": "Radio Logos - «Ο Άγιος Δημήτριος»",
+       "active": 0,
        "url": "http://r1.cloudskep.com/radio/agiosdemetrios/icecast.audio",
        "rb": "971985c2-f082-4513-8e65-715c988a0ced",
        "logo": "https://logosradio.com.cy/assets/images/o-alithinos-logos-1.png"
       },
       {
        "name": "Radio Napa",
+       "active": 0,
        "url": "http://67.212.189.122:8115/",
        "language_inferred": true
       },
       {
        "name": "RADIO OZI",
+       "active": 0,
        "url": "https://stream.zeno.fm/23179e2gswzuv",
        "language_inferred": true
       },
       {
        "name": "Radio Pafos 93.7 FM – 93.7 FM – Paphos – Pafos – CY",
+       "active": 0,
        "url": "http://live.iteam4media.com:1818/?1471610061910.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio Pantocrator",
+       "active": 0,
        "url": "http://146.185.18.251:7006/",
        "language_inferred": true
       },
       {
        "name": "Radio Pantocrator",
+       "active": 0,
        "url": "http://146.185.18.251:2199/tunein/cnikol01.pls"
       },
       {
        "name": "Radio Paphos",
+       "active": 0,
        "url": "https://stream.zeno.fm/svm6hp6ehfhvv",
        "language_inferred": true
       },
       {
        "name": "Radio Pyrgos",
+       "active": 0,
        "url": "http://freeus1.listen2myradio.com/stream.mp3?ipport=freeus1.listen2myradio.com_3159"
       },
       {
        "name": "radio triangular ARM",
+       "active": 0,
        "url": "https://stream.zeno.fm/apzhyx4myhhvv",
        "language_inferred": true
       },
       {
        "name": "RadioPlus Cyprus",
+       "active": 0,
        "url": "https://stream.zeno.fm/9nymp2xq2zhvv",
        "language_inferred": true
       },
       {
        "name": "Radyo Cool",
+       "active": 0,
        "url": "http://yayin3.canlitv.com:6050/",
        "language_inferred": true
       },
       {
        "name": "Radyo Juke",
+       "active": 0,
        "url": "http://mirasis.acteknik.com:9990",
        "language_inferred": true
       },
       {
        "name": "Radyo JUKE",
+       "active": 0,
        "url": "https://stream.zeno.fm/9y2aytw0uhhvv",
        "language_inferred": true
       },
       {
        "name": "Radyo Mayis",
+       "active": 0,
        "url": "http://67.212.189.122:8247"
       },
       {
        "name": "Rock FM 98.5",
+       "active": 0,
        "url": "http://live3.istoikona.net:8278/stream/1",
        "language_inferred": true
       },
       {
        "name": "Rock FM Gold",
+       "active": 0,
        "url": "https://s3.radio.co/s6d4f4a914/listen",
        "language_inferred": true
       },
       {
        "name": "Rock FM Paphos",
+       "active": 0,
        "url": "http://live3.istoikona.net:8278/stream",
        "language_inferred": true
       },
       {
        "name": "Rock Inferno",
+       "active": 0,
        "url": "https://stream.shoutcastradio.co.uk/8028/stream",
        "language_inferred": true
       },
       {
        "name": "Rock Inferno – Limassol – Limassol District – CY",
+       "active": 0,
        "url": "http://161.97.154.49:8028/stream",
        "language_inferred": true
       },
       {
        "name": "Russian Wave",
+       "active": 0,
        "url": "http://shout.kalsedia.com:1057/ruwave1057_128",
        "language_inferred": true
       },
       {
        "name": "Sara FM",
+       "active": 0,
        "url": "http://yayin.cloud:9700/stream.mp3"
       },
       {
        "name": "Sara FM – 97.0 FM – Kyrenia – Keryneia – CY",
+       "active": 0,
        "url": "http://176.118.198.12:8000/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "SmileFM",
+       "active": 0,
        "url": "https://stream.zeno.fm/fzh4c7tngg0uv",
        "language_inferred": true
       },
       {
        "name": "Super Club Radio",
+       "active": 0,
        "url": "http://mpc2.mediacp.eu:8320/stream2",
        "language_inferred": true
       },
       {
        "name": "Super Club Radio – Nicosia – CY",
+       "active": 0,
        "url": "https://mpc2.mediacp.eu:2020/tunein/superclubradio/stream",
        "language_inferred": true
       },
       {
        "name": "testtest",
+       "active": 0,
        "url": "https://stream.zeno.fm/ztc9w2y7nf9uv",
        "language_inferred": true
       },
       {
        "name": "The Best of 80s",
+       "active": 0,
        "url": "https://stream.zeno.fm/k4npju5ezcitv",
        "language_inferred": true
       },
       {
        "name": "The Music Ark",
+       "active": 0,
        "url": "https://stream.zeno.fm/ma242ef9fwzuv"
       },
       {
        "name": "The Station - راديو الاذاعة",
+       "active": 0,
        "url": "https://stream.zeno.fm/7s7x9q1zbfhvv",
        "language_inferred": true
       },
       {
        "name": "UCY Voice",
+       "active": 0,
        "url": "https://cp4.shoutcheap.com:18340/stream"
       },
       {
        "name": "UCY Voice",
+       "active": 0,
        "url": "http://69.175.94.98:8308/stream.mp3/",
        "language_inferred": true
       },
       {
        "name": "UCY Voice 95.2 – 95.2 FM – Nicosia – CY",
+       "active": 0,
        "url": "http://cp4.shoutcheap.com:8340/",
        "language_inferred": true
       },
       {
        "name": "vaganov",
+       "active": 0,
        "url": "https://stream.zeno.fm/cv8gd8ya4v8uv",
        "language_inferred": true
       },
       {
        "name": "Viva FM – 104.3 FM – Paphos – Pafos – CY",
+       "active": 0,
        "url": "https://ec1.yesstreaming.net:1850/stream",
        "language_inferred": true
       },
       {
        "name": "Vsjshgf",
+       "active": 0,
        "url": "https://stream.zeno.fm/mnqk6uwx6whvv",
        "language_inferred": true
       },
       {
        "name": "WIKI WIKI",
+       "active": 0,
        "url": "https://stream.zeno.fm/xd18hz44dpntv",
        "language_inferred": true
       },
       {
        "name": "Yeah54",
+       "active": 0,
        "url": "https://stream.zeno.fm/3456qw599x8uv",
        "language_inferred": true
       },
       {
        "name": "Zenith FM 96.4",
+       "active": 0,
        "url": "http://live3.istoikona.net:8023/stream/1",
        "language_inferred": true
       },
       {
        "name": "Zenith Radio",
+       "active": 0,
        "url": "http://live3.istoikona.net:8023/audio.mp3?hash=1471614128026"
       },
       {
        "name": "Zucca Radio",
+       "active": 0,
        "url": "http://95.217.120.122/",
        "language_inferred": true,
        "rb": "bd91cfa2-0e05-40a4-b77e-cc7c3b86d946"
       },
       {
        "name": "ZUCCA RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/mtk7a6rnsfhvv",
        "language_inferred": true
       }
@@ -2409,6 +2744,7 @@
      "stations": [
       {
        "name": "Zucca Radio",
+       "active": 0,
        "url": "https://stream.zuccaradio.com/stream/1/",
        "tags": [
         "latin",
@@ -2423,6 +2759,7 @@
      "stations": [
       {
        "name": "All Time Greatest Radio",
+       "active": 0,
        "url": "https://listen.radionomy.com/alltime70s80sgreatest",
        "tags": [
         "decade_70s",
@@ -2437,6 +2774,7 @@
      "stations": [
       {
        "name": "All Time Greatest Radio – 90s All Time Greatest",
+       "active": 0,
        "url": "https://streamingv2.shoutcast.com/90sAllTimeGreatest",
        "tags": [
         "pop_hits",
@@ -2447,14 +2785,17 @@
       },
       {
        "name": "Guaba Radio",
+       "active": 0,
        "url": "https://live3.istoikona.net:18830/stream"
       },
       {
        "name": "Private Show Club Radio",
+       "active": 0,
        "url": "http://eu8.fastcast4u.com/proxy/thiefastro"
       },
       {
        "name": "Radio TBB",
+       "active": 0,
        "url": "http://79.98.108.170:8022/live",
        "tags": [
         "electronic",
@@ -2469,6 +2810,7 @@
      "stations": [
       {
        "name": "50s All Time Greatest",
+       "active": 0,
        "url": "https://streamingv2.shoutcast.com/50sAllTimeGreatest",
        "tags": [
         "oldies",
@@ -2479,6 +2821,7 @@
       },
       {
        "name": "70s 80s All Time Greatest",
+       "active": 0,
        "url": "http://5.189.142.165:8032/stream",
        "tags": [
         "pop_hits",
@@ -2490,6 +2833,7 @@
       },
       {
        "name": "All Time 70s 80s Greatest",
+       "active": 0,
        "url": "http://str2b.openstream.co/577"
       }
      ]
@@ -2499,6 +2843,7 @@
      "stations": [
       {
        "name": "BFBS Radio 1 Cyprus",
+       "active": 0,
        "url": "https://icy-e-01.sharp-stream.com/ssvcbfbs8.mp3",
        "tags": [
         "pop_hits",
@@ -2507,6 +2852,7 @@
       },
       {
        "name": "Mix FM 102.3",
+       "active": 0,
        "url": "https://live3.istoikona.net:9706/stream",
        "tags": [
         "pop_hits",
@@ -2520,6 +2866,7 @@
      "stations": [
       {
        "name": "All 60s Radio",
+       "active": 0,
        "url": "http://185.105.4.100:8151/stream",
        "tags": [
         "rock",
@@ -2530,6 +2877,7 @@
       },
       {
        "name": "All 70s Radio",
+       "active": 0,
        "url": "http://185.105.4.100:8073/stream",
        "tags": [
         "rock",
@@ -2540,10 +2888,12 @@
       },
       {
        "name": "Rock FM 98,5",
+       "active": 0,
        "url": "https://cdn.istoikona.com/RockFm/Live/icecast.audio"
       },
       {
        "name": "Rock FM Paphos",
+       "active": 0,
        "url": "http://live3.istoikona.net:8278/stream.mp3",
        "tags": [
         "rock",
@@ -2557,6 +2907,7 @@
      "stations": [
       {
        "name": "Cyprus Funk Station",
+       "active": 0,
        "url": "https://gneocleo.radioca.st/stream",
        "tags": [
         "pop_hits",
@@ -2565,6 +2916,7 @@
       },
       {
        "name": "Cyprus Funk Station",
+       "active": 0,
        "url": "http://philae.shoutca.st:8201/stream",
        "tags": [
         "soul_rnb_funk",
@@ -2582,6 +2934,7 @@
      "stations": [
       {
        "name": "Radio Proto",
+       "active": 0,
        "url": "https://live3.istoikona.net:18191/stream",
        "tags": [
         "sports",
@@ -2598,6 +2951,7 @@
      "stations": [
       {
        "name": "Mix4.me uplifitng trance web radio",
+       "active": 0,
        "url": "http://142.132.213.6:8497/stream",
        "tags": [
         "trance_goa",
@@ -2614,6 +2968,7 @@
      "stations": [
       {
        "name": "BFBS Cyprus",
+       "active": 0,
        "url": "http://tx.sharp-stream.com/http_live.php?i=ssvcbfbs8.aac"
       }
      ]
@@ -2623,34 +2978,42 @@
      "stations": [
       {
        "name": "99.5 NJOY radio",
+       "active": 0,
        "url": "http://shout.kalsedia.com:9950/njoy9950_128http://"
       },
       {
        "name": "BFBS Cyprus",
+       "active": 0,
        "url": "http://edge-audio-06-cr.sharp-stream.com/ssvcbfbs8.mp3"
       },
       {
        "name": "Cool Radio",
+       "active": 0,
        "url": "https://cdn.istoikona.com/collradio/live/icecast.audio"
       },
       {
        "name": "GO RADIO PH",
+       "active": 0,
        "url": "http://tachyon.shoutca.st:8269/stream?1654763302832"
       },
       {
        "name": "NRG",
+       "active": 0,
        "url": "https://n0e.radiojar.com/ke923q0hhf9uv?rj-ttl=5&rj-tok=AAABgUJL9VYA6Ody9mw1J6mRDw"
       },
       {
        "name": "NRJ Cyprus",
+       "active": 0,
        "url": "https://n0b.radiojar.com/ke923q0hhf9uv?rj-ttl=5&rj-tok=AAABgUbxeKcAGihrtKztnoz2fw"
       },
       {
        "name": "OJO Radio",
+       "active": 0,
        "url": "https://n11.radiojar.com/yfyshz6gcyduv?rj-ttl=5&rj-tok=AAABgUciA6gASyKzxo52diewgw"
       },
       {
        "name": "Radio Blind Dog",
+       "active": 0,
        "url": "https://whooshserver.net:8227/live"
       }
      ]
@@ -2665,6 +3028,7 @@
      "stations": [
       {
        "name": "Radio Bayrak Classic",
+       "active": 0,
        "url": "http://sc.brtk.net:8006/"
       }
      ]
@@ -2674,6 +3038,7 @@
      "stations": [
       {
        "name": "Radyo Mayis",
+       "active": 0,
        "url": "http://108.163.223.242:8247/stream.mp3",
        "tags": [
         "pop_hits",
@@ -2687,6 +3052,7 @@
      "stations": [
       {
        "name": "NRG Türk radio",
+       "active": 0,
        "url": "https://live.nrgplay.com/stream/2/",
        "tags": [
         "pop_hits",
@@ -2700,6 +3066,7 @@
      "stations": [
       {
        "name": "Dance 95.5 FM",
+       "active": 0,
        "url": "http://88.99.254.110/",
        "tags": [
         "electronic",
@@ -2710,6 +3077,7 @@
       },
       {
        "name": "Dance FM 95.5 radio",
+       "active": 0,
        "url": "https://scserv.nrgplay.com/stream/1/",
        "tags": [
         "electronic",
@@ -2719,6 +3087,7 @@
       },
       {
        "name": "Radyo Guven",
+       "active": 0,
        "url": "https://us2freenew.listen2myradio.com/live.mp3?typeportmount=s1_33673_stream_636786608stream.nsv",
        "tags": [
         "pop_hits",
@@ -2728,6 +3097,7 @@
       },
       {
        "name": "Sara FM 97.0",
+       "active": 0,
        "url": "http://91.103.255.89:8000/stream",
        "tags": [
         "electronic",
@@ -2743,6 +3113,7 @@
      "stations": [
       {
        "name": "Bayrak Turk Music",
+       "active": 0,
        "url": "http://sc.brtk.net:8010/",
        "tags": [
         "folk",
@@ -2756,6 +3127,7 @@
      "stations": [
       {
        "name": "NRG Türkçe Rap",
+       "active": 0,
        "url": "https://live.nrgplay.com/stream/turkcerap",
        "tags": [
         "hip_hop_rap",
@@ -2769,6 +3141,7 @@
      "stations": [
       {
        "name": "First FM",
+       "active": 0,
        "url": "http://92.63.6.40:8090"
       }
      ]
@@ -2778,6 +3151,7 @@
      "stations": [
       {
        "name": "Bayrak FM",
+       "active": 0,
        "url": "http://sc.brtk.net:8000/",
        "tags": [
         "news_talk",
@@ -2790,10 +3164,12 @@
       },
       {
        "name": "Bayrak FM",
+       "active": 0,
        "url": "https://www.liveradio.es/http://sc.brtk.net:8000/"
       },
       {
        "name": "Bayrak Radyo Haber",
+       "active": 0,
        "url": "https://crs.webdesign-flash.ro/?q=http://sc.brtk.net:8008/&plugin_id=7628&site_id=8520577",
        "tags": [
         "news_talk",
@@ -2802,6 +3178,7 @@
       },
       {
        "name": "Bayrak Radyosu",
+       "active": 0,
        "url": "http://sc.brtk.net:8002/",
        "tags": [
         "news_talk",
@@ -2817,20 +3194,24 @@
      "stations": [
       {
        "name": "Capital Radio",
+       "active": 0,
        "url": "https://radyo1.radyo-dinle.tc/8256/stream",
        "rb": "5410588b-6614-48e6-9b88-8f372f8512f8",
        "logo": "https://api.enerjiplay.com/uploads/images/file-1779347508013-389877087.jpg"
       },
       {
        "name": "Kıbrıs First FM",
+       "active": 0,
        "url": "http://185.110.242.208:8090/"
       },
       {
        "name": "Play FM Cyprus",
+       "active": 0,
        "url": "http://live.playfm.com.tr:9050/"
       },
       {
        "name": "Radyo Vatan",
+       "active": 0,
        "url": "http://95.0.173.195:9002/vatan",
        "tags": [
         "pop_hits",
@@ -2844,6 +3225,7 @@
      "stations": [
       {
        "name": "Ydü FM radio",
+       "active": 0,
        "url": "http://broadcast.neu.edu.tr/ydufm",
        "tags": [
         "rock",
@@ -2857,6 +3239,7 @@
      "stations": [
       {
        "name": "Radio Bayrak International",
+       "active": 0,
        "url": "http://sc.brtk.net:8004",
        "tags": [
         "news_talk",
@@ -2871,18 +3254,22 @@
      "stations": [
       {
        "name": "Diyalog Radyo",
+       "active": 0,
        "url": "https://59cba4d34b678.streamlock.net/radyo/diyalog-radyo/playlist.m3u8"
       },
       {
        "name": "Güven",
+       "active": 0,
        "url": "https://freeuk23.listen2myradio.com/live.mp3?typeportmount=s2_34738_stream_925874211"
       },
       {
        "name": "Radyo Cool radio",
+       "active": 0,
        "url": "https://onlineradiobox.com/json/cy/cool/play?platform=web"
       },
       {
        "name": "Sara FM 97.0",
+       "active": 0,
        "url": "http://192.99.4.48:8000/radio.mp3"
       }
      ]
@@ -2897,20 +3284,24 @@
      "stations": [
       {
        "name": "Hit Fm Cyprus",
+       "active": 0,
        "url": "http://live3.istoikona.net:8207/"
       },
       {
        "name": "Russian Radio Cyprus",
+       "active": 0,
        "url": "https://stream.radiojar.com/wy42n4wvdf9uv"
       },
       {
        "name": "Russian Radio Cyprus",
+       "active": 0,
        "url": "https://stream.veblot.net/proxy/russianradio/stream/",
        "rb": "670526e2-4e5c-4900-a866-fcba98540310",
        "logo": "https://russianradio.cy/wp-content/uploads/2024/06/cropped-rr-favico-180x180.png"
       },
       {
        "name": "Russian Wave Radio",
+       "active": 0,
        "url": "http://shout.kalsedia.com:1057/ruwave1057_64"
       }
      ]
@@ -2925,6 +3316,7 @@
      "stations": [
       {
        "name": "Radio Sama",
+       "active": 0,
        "url": "http://serv02.streamsfortheworld.com:8000/radiosama_hi",
        "tags": [
         "christian_gospel",
@@ -2938,10 +3330,12 @@
      "stations": [
       {
        "name": "RadioSama",
+       "active": 0,
        "url": "http://radio.radiosama.org:8000/sama_128"
       },
       {
        "name": "RadioSama radio",
+       "active": 0,
        "url": "https://radio.radiosama.org/sama_64"
       }
      ]
@@ -2956,6 +3350,7 @@
      "stations": [
       {
        "name": "CCN Cyprus Chinese Radio",
+       "active": 0,
        "url": "https://cdn.istoikona.com/ccnradio/ccnradio/icecast.audio",
        "tags": [
         "news_talk",
@@ -2971,6 +3366,7 @@
      "stations": [
       {
        "name": "塞浦路斯CCN欧洲中国平台",
+       "active": 0,
        "url": "https://cdn.istoikona.com/ccnrtv/live/playlist.m3u8?n=116350509930562684f0",
        "rb": "76b72808-097a-4777-91db-6641628e2c34",
        "logo": "https://ccnnetwork.cn/wp-content/uploads/2021/07/newccnlogo2021.png"
@@ -2987,6 +3383,7 @@
      "stations": [
       {
        "name": "GQGeorge FM",
+       "active": 0,
        "url": "http://216.241.144.132:8000/"
       }
      ]
@@ -2996,6 +3393,7 @@
      "stations": [
       {
        "name": "Lemoni Radio",
+       "active": 0,
        "url": "http://stream.radiojar.com/mw1xsf0dpnruv"
       }
      ]
@@ -3010,10 +3408,12 @@
      "stations": [
       {
        "name": "Dada Studio Gospel FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/hmd42kdu01zuv"
       },
       {
        "name": "MODA SERTANEJA FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/rwdbf3d0np8uv"
       }
      ]
@@ -3028,6 +3428,7 @@
      "stations": [
       {
        "name": "R23 Web Radio",
+       "active": 0,
        "url": "http://185.80.220.12:8252/stream"
       }
      ]
@@ -3042,6 +3443,7 @@
      "stations": [
       {
        "name": "Tzgospel swahili",
+       "active": 0,
        "url": "https://stream.zeno.fm/5xcyth2dgfhvv"
       }
      ]

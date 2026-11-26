@@ -10,6 +10,7 @@
      "stations": [
       {
        "name": "Radio Bonne Nouvelle Guyane",
+       "active": 0,
        "url": "http://rbngdirect2.ddns.net:8000/stream.mp3"
       }
      ]
@@ -19,10 +20,12 @@
      "stations": [
       {
        "name": "Radio Classica",
+       "active": 0,
        "url": "http://france16.coollabel-productions.com:8280/stream"
       },
       {
        "name": "Radio Classica Guyane",
+       "active": 0,
        "url": "http://france16.coollabel-productions.com:8280/",
        "tags": [
         "classical",
@@ -36,11 +39,13 @@
      "stations": [
       {
        "name": "1aniru_radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/k4hen7hb938uv",
        "language_inferred": true
       },
       {
        "name": "Radio HD",
+       "active": 0,
        "url": "https://stream.zeno.fm/h5daeh43z98uv",
        "language_inferred": true
       }
@@ -51,6 +56,7 @@
      "stations": [
       {
        "name": "БОЛЬШОЙДОНБАСС",
+       "active": 0,
        "url": "https://stream.zeno.fm/wyut7xkj9tjuv",
        "language_inferred": true
       }
@@ -61,6 +67,7 @@
      "stations": [
       {
        "name": "Radio Mayouri Campus FM",
+       "active": 0,
        "url": "http://mayouri.jrp.ma:8000/mayouricampus",
        "tags": [
         "country",
@@ -74,6 +81,7 @@
      "stations": [
       {
        "name": "Nostalgie Guyane",
+       "active": 0,
        "url": "http://2stream.dyndns.org:8000/nostalgieguy",
        "tags": [
         "pop_hits",
@@ -91,6 +99,7 @@
      "stations": [
       {
        "name": "Chérie FM",
+       "active": 0,
        "url": "https://cheriefmguyane.ice.infomaniak.ch/cheriefmguyane-64.aac",
        "tags": [
         "pop_hits",
@@ -106,6 +115,7 @@
      "stations": [
       {
        "name": "Fun Radio Guyane",
+       "active": 0,
        "url": "http://manager2.streaming-ingenierie.fr:8050",
        "tags": [
         "electronic",
@@ -115,6 +125,7 @@
       },
       {
        "name": "Fun Radio Guyane",
+       "active": 0,
        "url": "http://manager2.streaming-ingenierie.fr:8050/stream.mp3",
        "tags": [
         "pop_hits",
@@ -123,6 +134,7 @@
       },
       {
        "name": "GBSRadio radio",
+       "active": 0,
        "url": "https://guyanablackstar.fr/wp-content/uploads/2021/08/Dj-Moody-Mike-Money.mp3",
        "tags": [
         "electronic",
@@ -134,6 +146,7 @@
       },
       {
        "name": "Top Kids Station Listen live",
+       "active": 0,
        "url": "https://s38.derstream.net/topkidsstation.mp3",
        "tags": [
         "electronic",
@@ -150,6 +163,7 @@
      "stations": [
       {
        "name": "Rádio 96 FM Listen live",
+       "active": 0,
        "url": "https://cantador.app:9084/live",
        "tags": [
         "hip_hop_rap",
@@ -164,6 +178,7 @@
      "stations": [
       {
        "name": "GBSRadio",
+       "active": 0,
        "url": "https://listen.radioking.com/radio/132484/stream/172396",
        "tags": [
         "latin",
@@ -184,6 +199,7 @@
      "stations": [
       {
        "name": "Guyane 1ère",
+       "active": 0,
        "url": "https://guyane.ice.infomaniak.ch/guyane-128.mp3",
        "tags": [
         "news_talk",
@@ -201,6 +217,7 @@
       },
       {
        "name": "Mayouri Campus",
+       "active": 0,
        "url": "https://ssl-audio-mayouri.onair.audio/",
        "tags": [
         "news_talk",
@@ -211,6 +228,7 @@
       },
       {
        "name": "Radio JAM Guyane radio",
+       "active": 0,
        "url": "https://radiojam.ice.infomaniak.ch/radiojam-64.mp3",
        "tags": [
         "news_talk",
@@ -224,6 +242,7 @@
      "stations": [
       {
        "name": "Métis FM",
+       "active": 0,
        "url": "https://str0.creacast.com/metisfm",
        "tags": [
         "pop_hits",
@@ -234,20 +253,24 @@
       },
       {
        "name": "NRJ Guyane 97,3 FM",
+       "active": 0,
        "url": "http://broadcast.infomaniak.ch/nrjguyane-64.mp3",
        "language_inferred": true
       },
       {
        "name": "Otvoreni radio",
+       "active": 0,
        "url": "http://163.172.96.134:8162/",
        "language_inferred": true
       },
       {
        "name": "Ouest FM",
+       "active": 0,
        "url": "http://163.172.96.134:8162/stream"
       },
       {
        "name": "Radio Classica Guyane",
+       "active": 0,
        "url": "http://france16.coollabel-productions.com:8280/stream.mp3",
        "tags": [
         "pop_hits",
@@ -256,10 +279,12 @@
       },
       {
        "name": "Radio Rossignol FM",
+       "active": 0,
        "url": "http://radio3.pro-fhi.net:9004/"
       },
       {
        "name": "RTL 2 Guyane",
+       "active": 0,
        "url": "http://91.121.29.104:8136",
        "tags": [
         "pop_hits",
@@ -268,6 +293,7 @@
       },
       {
        "name": "Trace FM Guyane",
+       "active": 0,
        "url": "https://stream.trace.tv/trace_fm_guyane-midfi.aac",
        "tags": [
         "pop_hits",
@@ -282,6 +308,7 @@
      "stations": [
       {
        "name": "chwitiweb",
+       "active": 0,
        "url": "https://www.radioking.com/play/chwitiweb",
        "tags": [
         "reggae_ska",
@@ -292,6 +319,7 @@
       },
       {
        "name": "Guyanablackstar Radio",
+       "active": 0,
        "url": "https://www.radioking.com/play/gbsradio973",
        "tags": [
         "reggae_ska",
@@ -303,6 +331,7 @@
       },
       {
        "name": "NRJ Guyane",
+       "active": 0,
        "url": "https://nrjguyane.ice.infomaniak.ch/nrjguyane-64.aac",
        "tags": [
         "pop_hits",
@@ -321,6 +350,7 @@
      "stations": [
       {
        "name": "Bblack Radio Listen live",
+       "active": 0,
        "url": "https://radio-streaming.net/france/ouest-fm/icecast.audio",
        "tags": [
         "rock",
@@ -334,6 +364,7 @@
       },
       {
        "name": "RTL 2 Guyane",
+       "active": 0,
        "url": "http://coollabel1.streaming-ingenierie.fr:8136/stream.mp3",
        "tags": [
         "pop_hits",
@@ -343,6 +374,7 @@
       },
       {
        "name": "RTL 2 Guyane",
+       "active": 0,
        "url": "http://coollabel1.streaming-ingenierie.fr:8136",
        "tags": [
         "rock",
@@ -356,6 +388,7 @@
      "stations": [
       {
        "name": "Bblack Radio",
+       "active": 0,
        "url": "https://stunnel1.cyber-streaming.com:9162/stream",
        "tags": [
         "pop_hits",
@@ -371,6 +404,7 @@
      "stations": [
       {
        "name": "Chwiti Web",
+       "active": 0,
        "url": "https://listen.radioking.com/radio/190309/stream/232540",
        "language_inferred": true
       }
@@ -381,102 +415,123 @@
      "stations": [
       {
        "name": "90s Jahmar",
+       "active": 0,
        "url": "https://stream.zeno.fm/fvouylyv079vv",
        "language_inferred": true
       },
       {
        "name": "ALCATRAZ RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/ht3721kkmy8uv",
        "language_inferred": true
       },
       {
        "name": "CLRP LOGIN",
+       "active": 0,
        "url": "https://stream.zeno.fm/ych83rm9uuhvv",
        "language_inferred": true
       },
       {
        "name": "Flow RX podcast",
+       "active": 0,
        "url": "https://stream.zeno.fm/q53gwhc314zuv",
        "language_inferred": true
       },
       {
        "name": "Fonte de Água Viva FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/3jmhqp5imovuv",
        "language_inferred": true
       },
       {
        "name": "HACIENDA FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/c6thf3n367zuv"
       },
       {
        "name": "Jeanpierre TOINE",
+       "active": 0,
        "url": "https://stream.zeno.fm/073u3evnvf9uv"
       },
       {
        "name": "Joie de Vivre",
+       "active": 0,
        "url": "https://listen.radioking.com/radio/289372/stream/335533",
        "language_inferred": true
       },
       {
        "name": "JUDNER ACTUALITES",
+       "active": 0,
        "url": "https://stream.zeno.fm/xy6n4u8nhzzuv",
        "language_inferred": true
       },
       {
        "name": "Kenny xD",
+       "active": 0,
        "url": "https://stream.zeno.fm/ssm9xst6mwkvv",
        "language_inferred": true
       },
       {
        "name": "Mosaïque FM",
+       "active": 0,
        "url": "http://91.121.67.95:9000/stream"
       },
       {
        "name": "Métis FM",
+       "active": 0,
        "url": "https://str0.creacast.com/metisfm.mp3",
        "rb": "975e0a32-aee2-4aa4-9474-93867cb80f09",
        "logo": "https://metis.fm/uploads/media/metisfm/logo_metis_50.jpg"
       },
       {
        "name": "Ouest FM",
+       "active": 0,
        "url": "http://icepe6.infomaniak.ch/ouestfm-high.mp3",
        "language_inferred": true
       },
       {
        "name": "PlayFM DAB+ – GF",
+       "active": 0,
        "url": "https://radio13.pro-fhi.net/radio/9048/stream",
        "language_inferred": true
       },
       {
        "name": "Radio FONDATION CHRETIENNE",
+       "active": 0,
        "url": "https://stream.zeno.fm/pfeqyah077zuv"
       },
       {
        "name": "Radio Guyane TV – Cayenne – Guyane – GF",
+       "active": 0,
        "url": "https://listen.radioking.com/radio/536765/stream/595352",
        "language_inferred": true
       },
       {
        "name": "Radio NRJ",
+       "active": 0,
        "url": "http://nrjguyane.ice.infomaniak.ch/nrjguyane-64.mp3"
       },
       {
        "name": "Radio Puzzle",
+       "active": 0,
        "url": "http://9843.go2stream.fr:8000/stream",
        "language_inferred": true
       },
       {
        "name": "RadioA2dMatoury",
+       "active": 0,
        "url": "https://stream.zeno.fm/q9gh75wnvf9uv",
        "language_inferred": true
       },
       {
        "name": "testmyskillz",
+       "active": 0,
        "url": "https://stream.zeno.fm/e2cqavldfliuv",
        "language_inferred": true
       },
       {
        "name": "Trace FM Guyane – Georgetown – Demerara-Mahaica – GF",
+       "active": 0,
        "url": "http://n10a-eu.rcs.revma.com/nxvafk744k0uv?rj-ttl=5&rj-tok=AAABgo170uYA6-FZRQW7q4UfSQ",
        "language_inferred": true
       }
@@ -492,6 +547,7 @@
      "stations": [
       {
        "name": "Tzgospel swahili",
+       "active": 0,
        "url": "https://stream.zeno.fm/f5yk9ad7kfhvv"
       }
      ]

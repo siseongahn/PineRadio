@@ -10,6 +10,7 @@
      "stations": [
       {
        "name": "Apparatid",
+       "active": 0,
        "url": "http://icecast.365net.is:8000/orbApparatid.aac",
        "tags": [
         "alternative_indie",
@@ -21,6 +22,7 @@
       },
       {
        "name": "X-id 97.7 FM",
+       "active": 0,
        "url": "http://icecast.365net.is:8000/orbXid.aac",
        "tags": [
         "alternative_indie",
@@ -32,6 +34,7 @@
       },
       {
        "name": "X-id 97.7 FM",
+       "active": 0,
        "url": "http://vcache1.365net.is/hls-radio/x977/playlist.m3u8"
       }
      ]
@@ -41,6 +44,7 @@
      "stations": [
       {
        "name": "Létt Bylgjan",
+       "active": 0,
        "url": "http://icecast.365net.is:8000/orbLettBylgjan.aac.m3u",
        "tags": [
         "ambient_relax",
@@ -55,11 +59,13 @@
      "stations": [
       {
        "name": "BB RADIO - Soft Listen live",
+       "active": 0,
        "url": "https://streambbr.ir-media-tec.com/relax/mp3-192/web/",
        "language_inferred": true
       },
       {
        "name": "Bitter Sweet Music IS radio",
+       "active": 0,
        "url": "http://91.121.236.34:8520/is",
        "tags": [
         "chillout_lounge",
@@ -74,6 +80,7 @@
      "stations": [
       {
        "name": "Lindin",
+       "active": 0,
        "url": "http://62.145.147.50:8001/stream.aac",
        "tags": [
         "christian_gospel",
@@ -82,21 +89,25 @@
       },
       {
        "name": "Lindin Radio",
+       "active": 0,
        "url": "http://62.145.147.50:8001/lindin"
       },
       {
        "name": "Radio Bodun 105.5 Reykjavik",
+       "active": 0,
        "url": "http://radio.bodun.is:8000/stream",
        "rb": "9623e951-0601-11e8-ae97-52543be04c81",
        "logo": "http://cdn-radiotime-logos.tunein.com/s102576q.png"
       },
       {
        "name": "Tzgospel Radio, Reykjavik",
+       "active": 0,
        "url": "https://stream.zeno.fm/52gf9f8u2ehvv",
        "language_inferred": true
       },
       {
        "name": "Utvarp Bodun",
+       "active": 0,
        "url": "http://bodun.is:8000/stream",
        "tags": [
         "kids",
@@ -110,14 +121,17 @@
      "stations": [
       {
        "name": "80s Bylgjan",
+       "active": 0,
        "url": "https://live.visir.is/hls-radio/80s/chunklist_DVR.m3u8"
       },
       {
        "name": "Gull Bylgjan",
+       "active": 0,
        "url": "https://live.visir.is/hls-radio/gullbylgjan/chunklist_DVR.m3u8"
       },
       {
        "name": "Retro 895",
+       "active": 0,
        "url": "http://radio.is:443/retromobile",
        "tags": [
         "decade_80s",
@@ -128,6 +142,7 @@
       },
       {
        "name": "Rondó RÚV 87.7 FM",
+       "active": 0,
        "url": "http://netradio.ruv.is/rondo.mp3",
        "tags": [
         "classical",
@@ -136,6 +151,7 @@
       },
       {
        "name": "RÚV Rondó",
+       "active": 0,
        "url": "https://ruv-rondo-live-hls.secure.footprint.net/hls-live/ruv-ras3/_definst_/live.m3u8",
        "tags": [
         "classical",
@@ -144,10 +160,12 @@
       },
       {
        "name": "RÚV Rondó",
+       "active": 0,
        "url": "http://sip-live.hds.adaptive.level3.net/hls-live/ruv-ras3/_definst_/live.m3u8"
       },
       {
        "name": "RÚV Rás 1",
+       "active": 0,
        "url": "http://sip-live.hds.adaptive.level3.net/hls-live/ruv-ras1/_definst_/live.m3u8",
        "tags": [
         "classical",
@@ -158,6 +176,7 @@
       },
       {
        "name": "RÚV – Rás 2",
+       "active": 0,
        "url": "http://sip-live.hds.adaptive.level3.net/hls-live/ruv-ras2/_definst_/live.m3u8",
        "tags": [
         "classical",
@@ -172,6 +191,7 @@
      "stations": [
       {
        "name": "001Manimaa hd",
+       "active": 0,
        "url": "https://stream.zeno.fm/n655rxm0238uv",
        "language_inferred": true
       }
@@ -182,10 +202,12 @@
      "stations": [
       {
        "name": "Flashback 60's",
+       "active": 0,
        "url": "http://stream.radio.is:443/60flashback"
       },
       {
        "name": "Flashback 60s Online - Reykjavik",
+       "active": 0,
        "url": "http://radio.is:443/60flashback",
        "tags": [
         "decade_60s",
@@ -195,6 +217,7 @@
       },
       {
        "name": "Krúttin",
+       "active": 0,
        "url": "http://radio.turteldufur.is/stream/turteldufur/",
        "tags": [
         "decade_70s",
@@ -209,10 +232,12 @@
      "stations": [
       {
        "name": "Flashback 70's",
+       "active": 0,
        "url": "http://stream.radio.is:443/70flashback"
       },
       {
        "name": "Flashback 70s",
+       "active": 0,
        "url": "https://ice-11.spilarinn.is/70flashback"
       }
      ]
@@ -222,6 +247,7 @@
      "stations": [
       {
        "name": "80's Bylgjan",
+       "active": 0,
        "url": "http://icecast.365net.is:8000/orb80s.aac.m3u",
        "tags": [
         "decade_80s",
@@ -232,16 +258,19 @@
       },
       {
        "name": "80's FlashBack",
+       "active": 0,
        "url": "https://ice-11.spilarinn.is/80flashback",
        "rb": "223a427e-2661-41c0-a40a-7d15fdca9da4",
        "logo": "http://spilarinn.is"
       },
       {
        "name": "Flashback 80's",
+       "active": 0,
        "url": "http://stream.radio.is:443/80flashback"
       },
       {
        "name": "Flashback 80s 101.5 Reykjavik",
+       "active": 0,
        "url": "http://www.radio.is:443/80flashback",
        "tags": [
         "decade_80s",
@@ -255,14 +284,17 @@
      "stations": [
       {
        "name": "Flashback 90's",
+       "active": 0,
        "url": "http://stream.radio.is:443/90flashback"
       },
       {
        "name": "Flashback 90s",
+       "active": 0,
        "url": "https://ice-11.spilarinn.is/90flashback"
       },
       {
        "name": "Flashback 90s Online Reykjavik",
+       "active": 0,
        "url": "http://www.radio.is:443/90flashback",
        "tags": [
         "decade_90s",
@@ -276,6 +308,7 @@
      "stations": [
       {
        "name": "FM 957",
+       "active": 0,
        "url": "http://icecast.365net.is:8000/orbFm957.aac",
        "tags": [
         "pop_hits",
@@ -285,6 +318,7 @@
       },
       {
        "name": "FM 957",
+       "active": 0,
        "url": "http://vcache1.365net.is/hls-radio/fm957/playlist.m3u8",
        "tags": [
         "easy_listening",
@@ -294,6 +328,7 @@
       },
       {
        "name": "Kaninn FM 100.5",
+       "active": 0,
        "url": "http://radio.is:443/kaninnmobile",
        "tags": [
         "easy_listening",
@@ -302,6 +337,7 @@
       },
       {
        "name": "Kannin FM 100.5 \"K100\" Reykjavik",
+       "active": 0,
        "url": "http://www.radio.is:443/kaninnmobile",
        "tags": [
         "easy_listening",
@@ -310,10 +346,12 @@
       },
       {
        "name": "Létt Bylgjan",
+       "active": 0,
        "url": "https://live.365cdn.is/hls-radio/lettbylgjan/playlist.m3u8"
       },
       {
        "name": "Rás 2 RÚV 90.1 FM",
+       "active": 0,
        "url": "http://netradio.ruv.is/ras2.mp3",
        "tags": [
         "pop_hits",
@@ -325,6 +363,7 @@
       },
       {
        "name": "ÁttanFM",
+       "active": 0,
        "url": "http://www.radio.is:443/attan",
        "language_inferred": true
       }
@@ -335,10 +374,12 @@
      "stations": [
       {
        "name": "FM 957 Extra",
+       "active": 0,
        "url": "https://live.365cdn.is/hls-radio/fmextra/playlist.m3u8"
       },
       {
        "name": "FMX Klassík",
+       "active": 0,
        "url": "https://live.visir.is/hls-radio/fmx/chunklist_DVR.m3u8",
        "tags": [
         "classical",
@@ -348,21 +389,25 @@
       },
       {
        "name": "GusGus Radio",
+       "active": 0,
        "url": "https://stream.pcradio.ru/gus_gus-med",
        "language_inferred": true
       },
       {
        "name": "Kiss FM",
+       "active": 0,
        "url": "https://ice-11.spilarinn.is/kiss"
       },
       {
        "name": "Kiss FM Xtra",
+       "active": 0,
        "url": "https://ice-11.spilarinn.is/fmxtra",
        "country_inferred": true,
        "language_inferred": true
       },
       {
        "name": "Making Waves Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/5dgevfbqyhhvv",
        "tags": [
         "electronic",
@@ -374,10 +419,12 @@
       },
       {
        "name": "Snow Radio Network",
+       "active": 0,
        "url": "http://19293.live.streamtheworld.com/SP_R3489961_SC"
       },
       {
        "name": "Íslenska Bylgjan",
+       "active": 0,
        "url": "https://live.visir.is/hls-radio/fmx/playlist.m3u8",
        "tags": [
         "electronic",
@@ -391,6 +438,7 @@
      "stations": [
       {
        "name": "Apparatið",
+       "active": 0,
        "url": "https://live.visir.is/hls-radio/apparatid/playlist.m3u8?DVR",
        "tags": [
         "folk",
@@ -402,6 +450,7 @@
       },
       {
        "name": "Íslenska Bylgjan",
+       "active": 0,
        "url": "http://stream3.radio.is:443/tfmx",
        "tags": [
         "world",
@@ -415,11 +464,13 @@
      "stations": [
       {
        "name": "Ice FM",
+       "active": 0,
        "url": "http://falcon.shoutca.st:8516/stream",
        "language_inferred": true
       },
       {
        "name": "Ice FM - Reykjavík",
+       "active": 0,
        "url": "http://falcon.shoutca.st:8516",
        "tags": [
         "hip_hop_rap",
@@ -428,6 +479,7 @@
       },
       {
        "name": "ICE FM Iceland",
+       "active": 0,
        "url": "http://37.59.28.208:8188/",
        "tags": [
         "hip_hop_rap",
@@ -436,6 +488,7 @@
       },
       {
        "name": "Ice FM Online",
+       "active": 0,
        "url": "http://37.59.28.208:8188/stream/",
        "tags": [
         "hip_hop_rap",
@@ -445,6 +498,7 @@
       },
       {
        "name": "Ice FM radio",
+       "active": 0,
        "url": "http://37.59.28.208:8217/",
        "tags": [
         "pop_hits",
@@ -455,6 +509,7 @@
       },
       {
        "name": "Útvarp 101",
+       "active": 0,
        "url": "rtsp://wms-1.visir.is/radio/101",
        "tags": [
         "hip_hop_rap",
@@ -469,12 +524,14 @@
      "stations": [
       {
        "name": "1 Fm Always Christmas",
+       "active": 0,
        "url": "http://archive.is/stream/1kJUNxlisten.pls",
        "country_inferred": true,
        "language_inferred": true
       },
       {
        "name": "Flashback Jól 101.5 Reykjavik",
+       "active": 0,
        "url": "https://ice-11.spilarinn.is/jolaflashback?n=69e72503553af3fda6d7"
       }
      ]
@@ -484,6 +541,7 @@
      "stations": [
       {
        "name": "FM Extra 101.5",
+       "active": 0,
        "url": "http://www.radio.is:443/fmxtra",
        "tags": [
         "house",
@@ -492,10 +550,12 @@
       },
       {
        "name": "FM Xtra",
+       "active": 0,
        "url": "http://stream.radio.is:443/fmxtra"
       },
       {
        "name": "Radio Deep Underground",
+       "active": 0,
        "url": "http://139.28.39.116/radio/8000/rdu.mp3",
        "tags": [
         "house",
@@ -509,6 +569,7 @@
      "stations": [
       {
        "name": "Rondo",
+       "active": 0,
        "url": "http://sip-live.hds.adaptive.level3.net/hls-live/ruv-ras3/_definst_/live/stream1.m3u8",
        "tags": [
         "classical",
@@ -518,6 +579,7 @@
       },
       {
        "name": "Rondó",
+       "active": 0,
        "url": "https://ruv-radio-live.akamaized.net/streymi/rondo/rondo.m3u8",
        "tags": [
         "jazz",
@@ -529,11 +591,13 @@
       },
       {
        "name": "RV Rond",
+       "active": 0,
        "url": "http://netradio.ruv.is:80/rondo.aac",
        "language_inferred": true
       },
       {
        "name": "RÚV Rondó",
+       "active": 0,
        "url": "https://ruv-radio-live.akamaized.net/streymi/rondo/rondo/rondo.m3u8",
        "tags": [
         "jazz",
@@ -547,11 +611,13 @@
      "stations": [
       {
        "name": "Krakka RÚV radio",
+       "active": 0,
        "url": "http://netradio.ruv.is:80/krakkaruv.aac",
        "language_inferred": true
       },
       {
        "name": "utvarpið",
+       "active": 0,
        "url": "https://stream.zeno.fm/5c3u29xwp68uv",
        "language_inferred": true
       }
@@ -562,6 +628,7 @@
      "stations": [
       {
        "name": "Bylgjan 98.9 Reykjavik",
+       "active": 0,
        "url": "http://icecast.365net.is:8000/orbbylgjan.aac",
        "tags": [
         "pop_hits",
@@ -575,6 +642,7 @@
       },
       {
        "name": "Bylgjan FM",
+       "active": 0,
        "url": "https://live.visir.is/hls-radio/bylgjan/playlist.m3u8",
        "tags": [
         "pop_hits",
@@ -585,6 +653,7 @@
       },
       {
        "name": "Bylgjan FM",
+       "active": 0,
        "url": "http://vcache1.365net.is/hls-radio/bylgjan/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -596,11 +665,13 @@
       },
       {
        "name": "Bylgjan FM Radio",
+       "active": 0,
        "url": "https://stream.pcradio.ru/rad_blgnvsr-med",
        "language_inferred": true
       },
       {
        "name": "FM 957",
+       "active": 0,
        "url": "https://live.visir.is/hls-radio/fm957/chunklist_DVR.m3u8",
        "tags": [
         "news_talk",
@@ -609,6 +680,7 @@
       },
       {
        "name": "FRED FILM RADIO, Reykjavik",
+       "active": 0,
        "url": "https://s10.webradio-hosting.com/proxy/fredradiois/stream/",
        "language_inferred": true,
        "rb": "fc157689-436b-4da8-a3d5-18d72bbda568",
@@ -616,6 +688,7 @@
       },
       {
        "name": "K100",
+       "active": 0,
        "url": "https://k100straumar.mbl.is/kaninnmobile",
        "tags": [
         "news_talk",
@@ -627,6 +700,7 @@
       },
       {
        "name": "Lett Bylgjan",
+       "active": 0,
        "url": "http://icecast.365net.is:8000/orbLettBylgjan.aac",
        "tags": [
         "pop_hits",
@@ -637,11 +711,13 @@
       },
       {
        "name": "RUV Ras 1",
+       "active": 0,
        "url": "https://ruv-ras1-live-hls.secure.footprint.net/hls-live/ruv-ras1/_definst_/live/stream1.m3u8",
        "language_inferred": true
       },
       {
        "name": "Rás 1",
+       "active": 0,
        "url": "https://ruv-ras1-live-hls.secure.footprint.net/hls-live/ruv-ras1/_definst_/live.m3u8",
        "tags": [
         "news_talk",
@@ -651,6 +727,7 @@
       },
       {
        "name": "Rás 2",
+       "active": 0,
        "url": "https://ruv-ras2-live-hls.secure.footprint.net/hls-live/ruv-ras2/_definst_/live.m3u8",
        "tags": [
         "news_talk",
@@ -661,6 +738,7 @@
       },
       {
        "name": "RÚV  Rás 1",
+       "active": 0,
        "url": "https://ruv-radio-live.akamaized.net/streymi/ras1/ras1.m3u8",
        "tags": [
         "news_talk",
@@ -670,6 +748,7 @@
       },
       {
        "name": "Rúv rás1",
+       "active": 0,
        "url": "http://netradio.ruv.is/ras1.aac.m3u",
        "tags": [
         "news_talk",
@@ -679,11 +758,13 @@
       },
       {
        "name": "Utvarp Saga",
+       "active": 0,
        "url": "https://www.liveradio.es/http://radio.is:443/saga",
        "language_inferred": true
       },
       {
        "name": "Útvarp Saga",
+       "active": 0,
        "url": "https://stream.utvarpsaga.is/Hljodver",
        "tags": [
         "news_talk",
@@ -700,6 +781,7 @@
      "stations": [
       {
        "name": "80s Bylgjan",
+       "active": 0,
        "url": "http://icecast.365net.is:8000/orb80s.aac",
        "tags": [
         "decade_80s",
@@ -711,6 +793,7 @@
       },
       {
        "name": "Bylgjan 80s",
+       "active": 0,
        "url": "https://live.visir.is/hls-radio/80s/playlist.m3u8",
        "tags": [
         "oldies",
@@ -722,10 +805,12 @@
       },
       {
        "name": "FlashBack 60s",
+       "active": 0,
        "url": "http://stream3.radio.is:443/60flashback"
       },
       {
        "name": "Flashback 60s",
+       "active": 0,
        "url": "https://ice-11.spilarinn.is/60flashback",
        "tags": [
         "decade_60s",
@@ -736,14 +821,17 @@
       },
       {
        "name": "FlashBack 70s",
+       "active": 0,
        "url": "http://stream3.radio.is:443/70flashback"
       },
       {
        "name": "FlashBack 80s",
+       "active": 0,
        "url": "http://stream3.radio.is:443/80flashback"
       },
       {
        "name": "FlashBack 90s",
+       "active": 0,
        "url": "http://stream3.radio.is:443/90flashback",
        "tags": [
         "pop_hits",
@@ -752,6 +840,7 @@
       },
       {
        "name": "Gull Bylgjan",
+       "active": 0,
        "url": "http://icecast.365net.is:8000/orbGullBylgjan.aac",
        "tags": [
         "pop_hits",
@@ -764,6 +853,7 @@
       },
       {
        "name": "Gull Bylgjan",
+       "active": 0,
        "url": "https://live.visir.is/hls-radio/gullbylgjan/playlist.m3u8",
        "tags": [
         "decade_80s",
@@ -775,20 +865,24 @@
       },
       {
        "name": "Gull Bylgjan",
+       "active": 0,
        "url": "https://live.365cdn.is/hls-radio/gullbylgjan/playlist.m3u8"
       },
       {
        "name": "Gull Bylgjan – 90.9 FM – Reykjavik – Capital Region – IS",
+       "active": 0,
        "url": "https://icecast.visir.is/orbGullBylgjan.aac",
        "language_inferred": true
       },
       {
        "name": "Prufa",
+       "active": 0,
        "url": "https://198.245.61.103:8119/index.html",
        "language_inferred": true
       },
       {
        "name": "Retro 895",
+       "active": 0,
        "url": "https://k100straumar.mbl.is/retromobile",
        "tags": [
         "oldies",
@@ -801,6 +895,7 @@
       },
       {
        "name": "Retro 895 radio",
+       "active": 0,
        "url": "https://ice-11.spilarinn.is/retromobile",
        "tags": [
         "oldies",
@@ -812,10 +907,12 @@
       },
       {
        "name": "Retro FM 89.5",
+       "active": 0,
        "url": "http://www.radio.is:443/retromobile"
       },
       {
        "name": "Vinyl Tónlist Netútvarp",
+       "active": 0,
        "url": "https://s3.voscast.com:10165/Hljodver"
       }
      ]
@@ -825,15 +922,18 @@
      "stations": [
       {
        "name": "Apparatid Radio",
+       "active": 0,
        "url": "https://live.visir.is/hls-radio/apparatid/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "Apparatið",
+       "active": 0,
        "url": "https://live.visir.is/hls-radio/apparatid/chunklist_DVR.m3u8"
       },
       {
        "name": "Bylgjan",
+       "active": 0,
        "url": "http://icecast.visir.is:8000/orbbylgjan.aac",
        "bitrate": 128,
        "logo": "http://radio.pervii.com/im/4/1572889764.jpg",
@@ -842,6 +942,7 @@
       },
       {
        "name": "FlashBack",
+       "active": 0,
        "url": "http://stream.radio.is:443/flashback",
        "tags": [
         "pop_hits",
@@ -852,10 +953,12 @@
       },
       {
        "name": "FlashBack 91.9 FM",
+       "active": 0,
        "url": "http://stream3.radio.is:443/flashback"
       },
       {
        "name": "FlashBack 91.9 FM",
+       "active": 0,
        "url": "https://ice-11.spilarinn.is/flashback",
        "tags": [
         "pop_hits",
@@ -865,6 +968,7 @@
       },
       {
        "name": "Flashback 91.9 Reykjavik",
+       "active": 0,
        "url": "http://www.radio.is:443/flashback",
        "tags": [
         "pop_hits",
@@ -873,10 +977,12 @@
       },
       {
        "name": "FM 957",
+       "active": 0,
        "url": "https://live.365cdn.is/hls-radio/fm957/playlist.m3u8"
       },
       {
        "name": "FM Extra",
+       "active": 0,
        "url": "https://live.visir.is/hls-radio/fmextra/playlist.m3u8",
        "tags": [
         "pop_hits",
@@ -886,16 +992,19 @@
       },
       {
        "name": "FM Trölli",
+       "active": 0,
        "url": "https://hb.trolli.is/stream/1/",
        "country_inferred": true,
        "language_inferred": true
       },
       {
        "name": "FM Xtra 101.5 FM",
+       "active": 0,
        "url": "http://radio.is:443/fmxtra"
       },
       {
        "name": "FM957",
+       "active": 0,
        "url": "https://live.visir.is/hls-radio/fm957/playlist.m3u8",
        "tags": [
         "pop_hits",
@@ -905,44 +1014,53 @@
       },
       {
        "name": "FM957 Radio",
+       "active": 0,
        "url": "https://stream.pcradio.ru/fm957_is-med",
        "language_inferred": true
       },
       {
        "name": "K100",
+       "active": 0,
        "url": "https://www.onlineradiobin.com/ajax/live.php?id=60711"
       },
       {
        "name": "K100 Radio",
+       "active": 0,
        "url": "https://stream.pcradio.ru/k100_mbl_is-med",
        "language_inferred": true
       },
       {
        "name": "K100.5 Kaninn",
+       "active": 0,
        "url": "https://k100streymi.mbl.is/beint/k100/index.m3u8",
        "country_inferred": true,
        "language_inferred": true
       },
       {
        "name": "K100.5 Kaninn",
+       "active": 0,
        "url": "http://stream3.radio.is:443/kaninnmobile",
        "language_inferred": true
       },
       {
        "name": "Kiss FM (Reykjavík) Radio",
+       "active": 0,
        "url": "https://stream.pcradio.ru/kissfm_is-med",
        "language_inferred": true
       },
       {
        "name": "Kiss FM 104.5 Reykjavik",
+       "active": 0,
        "url": "http://stream.radio.is:443/kiss"
       },
       {
        "name": "KissFM 104,5",
+       "active": 0,
        "url": "http://www.radio.is:443/kiss"
       },
       {
        "name": "KissFM 104.5",
+       "active": 0,
        "url": "https://ice-11.spilarinn.is/kissfm",
        "tags": [
         "pop_hits",
@@ -952,10 +1070,12 @@
       },
       {
        "name": "KissFM 104.5",
+       "active": 0,
        "url": "http://stream3.radio.is:443/kissfm"
       },
       {
        "name": "Létt Bylgjan",
+       "active": 0,
        "url": "https://live.visir.is/hls-radio/lettbylgjan/playlist.m3u8",
        "tags": [
         "pop_hits",
@@ -967,11 +1087,13 @@
       },
       {
        "name": "RV Nll",
+       "active": 0,
        "url": "http://netradio.ruv.is:80/ruvnull.aac",
        "language_inferred": true
       },
       {
        "name": "RÚV Núll Pop",
+       "active": 0,
        "url": "http://netradio.ruv.is:80/ruvnull.mp3",
        "tags": [
         "various_eclectic",
@@ -980,6 +1102,7 @@
       },
       {
        "name": "RÚV Rás 2",
+       "active": 0,
        "url": "https://ruv-radio-live.akamaized.net/streymi/ras2/ras2/ras2.m3u8",
        "tags": [
         "pop_hits",
@@ -989,19 +1112,23 @@
       },
       {
        "name": "Skaga Rásin",
+       "active": 0,
        "url": "http://radio.turteldufur.is/stream/skagarasin/"
       },
       {
        "name": "Sudurland FM",
+       "active": 0,
        "url": "https://www.liveradio.es/http://178.19.58.119:1818/",
        "language_inferred": true
       },
       {
        "name": "Sudurland FM",
+       "active": 0,
        "url": "https://ice-11.spilarinn.is/tsudurlandfm"
       },
       {
        "name": "Sudurland FM 96.3",
+       "active": 0,
        "url": "http://178.19.58.119:1818/",
        "tags": [
         "pop_hits",
@@ -1010,6 +1137,7 @@
       },
       {
        "name": "Utvarp Saga",
+       "active": 0,
        "url": "http://stream.radio.is:443/saga",
        "tags": [
         "pop_hits",
@@ -1020,6 +1148,7 @@
       },
       {
        "name": "Utvarp Saga FM",
+       "active": 0,
        "url": "https://ice-11.spilarinn.is/saga",
        "tags": [
         "pop_hits",
@@ -1028,27 +1157,32 @@
       },
       {
        "name": "Visir \"FM 957 Extra\" Reykjavik",
+       "active": 0,
        "url": "http://icecast.365net.is:8000/orbFmExtra.aac",
        "rb": "68252d54-fe00-4f37-bac7-7015f95c6a37",
        "logo": "https://www.visir.is/mi/cio/ad84742b-46c3-44e2-8ba5-9b1755e65677.png"
       },
       {
        "name": "Visir \"FM957\" 95.7 Reykjavik",
+       "active": 0,
        "url": "http://icecast.365net.is:8000/orbFm957.aac.m3u",
        "rb": "961e9e40-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "X-id 97.7 FM",
+       "active": 0,
        "url": "https://live.visir.is/hls-radio/x977/chunklist_DVR.m3u8"
       },
       {
        "name": "Íslenska Bylgjan 103.9",
+       "active": 0,
        "url": "https://live.visir.is/hls-radio/islenska/playlist.m3u8",
        "country_inferred": true,
        "language_inferred": true
       },
       {
        "name": "Útvarp 101",
+       "active": 0,
        "url": "https://stream.101.live/audio/101/chunklist.m3u8",
        "language_inferred": true
       }
@@ -1059,6 +1193,7 @@
      "stations": [
       {
        "name": "FM 96 London - CFPL-FM",
+       "active": 0,
        "url": "https://corus.leanstream.co/CFPLFM",
        "tags": [
         "rock",
@@ -1069,14 +1204,17 @@
       },
       {
        "name": "FMX Klassik",
+       "active": 0,
        "url": "https://live.365cdn.is/hls-radio/fmx/playlist.m3u8"
       },
       {
        "name": "FMX Klassik 103.9 Reykjavik",
+       "active": 0,
        "url": "http://vcache1.365net.is/hls-radio/fmx/master.m3u8"
       },
       {
        "name": "Gull Bylgjan 90.9 Reykjavik",
+       "active": 0,
        "url": "http://icecast.365net.is:8000/orbGullBylgjan.aac.m3u",
        "tags": [
         "rock",
@@ -1087,6 +1225,7 @@
       },
       {
        "name": "Létt Bylgjan",
+       "active": 0,
        "url": "https://live.visir.is/hls-radio/lettbylgjan/chunklist_DVR.m3u8",
        "tags": [
         "rock",
@@ -1096,6 +1235,7 @@
       },
       {
        "name": "Trölli FM",
+       "active": 0,
        "url": "http://live.trolli.is:8200/",
        "tags": [
         "pop_hits",
@@ -1109,20 +1249,24 @@
       },
       {
        "name": "X-id 97.7",
+       "active": 0,
        "url": "https://icecast.visir.is/orbXid.aac",
        "language_inferred": true
       },
       {
        "name": "X-id 97.7 FM",
+       "active": 0,
        "url": "https://live.365cdn.is/hls-radio/x977/playlist.m3u8"
       },
       {
        "name": "X977",
+       "active": 0,
        "url": "http://icecast.365net.is:8000/orbXid.aac.m3u",
        "rb": "961e8c73-0601-11e8-ae97-52543be04c81"
       },
       {
        "name": "X977 radio",
+       "active": 0,
        "url": "https://live.visir.is/hls-radio/x977/playlist.m3u8",
        "tags": [
         "rock",
@@ -1137,6 +1281,7 @@
      "stations": [
       {
        "name": "illerpower Listen live",
+       "active": 0,
        "url": "https://stream.laut.fm/illerpower?ref=radiode",
        "tags": [
         "schlager_polka",
@@ -1152,6 +1297,7 @@
      "stations": [
       {
        "name": "FMX Klassik",
+       "active": 0,
        "url": "http://icecast.365net.is:8000/orbFMX.aac",
        "tags": [
         "soul_rnb_funk",
@@ -1162,6 +1308,7 @@
       },
       {
        "name": "Paradise FM Listen live",
+       "active": 0,
        "url": "https://audio-edge-es6pf.mia.g.radiomast.io/0068d53d-f6a4-41d3-9e9a-6a2b67387d9f",
        "tags": [
         "soul_rnb_funk",
@@ -1177,11 +1324,13 @@
      "stations": [
       {
        "name": "Biser Radio Live",
+       "active": 0,
        "url": "https://as1.prvihosting.com/radio/8100/radio.mp3?1602280578",
        "language_inferred": true
       },
       {
        "name": "Saga 99.4 Reykjavik",
+       "active": 0,
        "url": "http://www.radio.is:443/saga"
       }
      ]
@@ -1191,6 +1340,7 @@
      "stations": [
       {
        "name": "Rás 1 RÚV 93.5 FM",
+       "active": 0,
        "url": "http://netradio.ruv.is/ras1.mp3",
        "tags": [
         "news_talk",
@@ -1207,253 +1357,304 @@
      "stations": [
       {
        "name": "1vijikandh",
+       "active": 0,
        "url": "https://stream.zeno.fm/v5t0ysd9938uv",
        "language_inferred": true
       },
       {
        "name": "80s BYLGJAN – Reykjavik – Capital Region – IS",
+       "active": 0,
        "url": "https://icecast.visir.is/orb80s.aac",
        "language_inferred": true
       },
       {
        "name": "ABBYY FineReader 11 64",
+       "active": 0,
        "url": "https://stream.zeno.fm/odxzhzufoimuv",
        "language_inferred": true
       },
       {
        "name": "Anuel AA",
+       "active": 0,
        "url": "https://stream.zeno.fm/485qy7ewwchvv",
        "language_inferred": true
       },
       {
        "name": "asdsdad",
+       "active": 0,
        "url": "https://stream.zeno.fm/zzfjff5jch0vv",
        "language_inferred": true
       },
       {
        "name": "Boudoir Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/8fk3s6yegphvv",
        "language_inferred": true
       },
       {
        "name": "Bylgjan",
+       "active": 0,
        "url": "https://icecast.visir.is/orbbylgjan.aac"
       },
       {
        "name": "Dannys Rock Station",
+       "active": 0,
        "url": "https://stream.zeno.fm/6e3asd896nhvv",
        "language_inferred": true
       },
       {
        "name": "Diseased Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/t5re44ttta0uv",
        "language_inferred": true
       },
       {
        "name": "Effaþa",
+       "active": 0,
        "url": "https://stream.zeno.fm/aa61r7cdfc9uv",
        "language_inferred": true
       },
       {
        "name": "Flashback 91.9 FM Radio",
+       "active": 0,
        "url": "https://stream.pcradio.ru/flashback_919-med",
        "language_inferred": true
       },
       {
        "name": "FM 957",
+       "active": 0,
        "url": "http://live.visir.is/hls-radio/fm957/playlist.m3u8?DVR",
        "language_inferred": true
       },
       {
        "name": "FM 957 – 957 AM – Reykjavik – Capital Region – IS",
+       "active": 0,
        "url": "https://icecast.visir.is/orbFm957.aac",
        "language_inferred": true
       },
       {
        "name": "FM Xtra – Reykjavik – Capital Region – IS",
+       "active": 0,
        "url": "https://ice-11.spilarinn.is/zfmextra",
        "language_inferred": true
       },
       {
        "name": "FRED FILM RADIO Icelandic",
+       "active": 0,
        "url": "http://s6.webradio-hosting.com:8110/"
       },
       {
        "name": "Gingery Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/im5uhpiwz9dvv",
        "language_inferred": true
       },
       {
        "name": "http://radio.is:443/saga",
+       "active": 0,
        "url": "http://radio.is:443/saga"
       },
       {
        "name": "Jamrock",
+       "active": 0,
        "url": "https://stream.zeno.fm/yxcit5uvslvvv",
        "language_inferred": true
       },
       {
        "name": "Jax ling official radio station",
+       "active": 0,
        "url": "https://stream.zeno.fm/qay2essawuhvv",
        "language_inferred": true
       },
       {
        "name": "Jóla Skaga Rásin – Reykjavik – Capital Region – IS",
+       "active": 0,
        "url": "https://jol.skagarasin.is",
        "language_inferred": true
       },
       {
        "name": "Jólarásin / Christmas Radio",
+       "active": 0,
        "url": "https://s27.myradiostream.com/sc1/:17936/listen.mp3"
       },
       {
        "name": "K 100",
+       "active": 0,
        "url": "https://ice-11.spilarinn.is/kaninnmobile",
        "language_inferred": true,
        "rb": "8d472d16-8ce9-49ed-9b60-df7cd7041566"
       },
       {
        "name": "KFM Iceland – 104.3 FM – Vestmannaeyjar – South – IS",
+       "active": 0,
        "url": "http://s28.myradiostream.com:28330/listen.mp3",
        "language_inferred": true
       },
       {
        "name": "KrakkaRÚV",
+       "active": 0,
        "url": "http://sip-live.hds.adaptive.level3.net/hls-live/ruv-ras4/_definst_/live.m3u8"
       },
       {
        "name": "LOAT Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/e6a1gpmxznhvv",
        "language_inferred": true
       },
       {
        "name": "Létt Bylgjan",
+       "active": 0,
        "url": "https://live.visir.is/hls-radio/bylgjan/chunklist_DVR.m3u8",
        "language_inferred": true
       },
       {
        "name": "Létt Bylgjan – 96.7 FM – Reykjavik – Capital Region – IS",
+       "active": 0,
        "url": "https://icecast.visir.is/orbLettBylgjan.aac",
        "language_inferred": true
       },
       {
        "name": "Poland from Hetalia Marukaite Chikyuu FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/qe3nk3gp2zhvv",
        "language_inferred": true
       },
       {
        "name": "prufan",
+       "active": 0,
        "url": "https://stream.zeno.fm/dw8p60d4xuhvv",
        "language_inferred": true
       },
       {
        "name": "radio c",
+       "active": 0,
        "url": "https://stream.zeno.fm/u9xzva5hpd0uv",
        "language_inferred": true
       },
       {
        "name": "Radio Frytki 24h LIVE ON",
+       "active": 0,
        "url": "https://stream.zeno.fm/93xzfhatmwxtv",
        "language_inferred": true
       },
       {
        "name": "Radio Frytki 24H LIVE ON (ONLY MUSIC)",
+       "active": 0,
        "url": "https://stream.zeno.fm/4jbp2tq7jvqtv",
        "language_inferred": true
       },
       {
        "name": "Radio Perro",
+       "active": 0,
        "url": "https://stream.zeno.fm/b78ugghetc9uv",
        "language_inferred": true
       },
       {
        "name": "Retro 89.5",
+       "active": 0,
        "url": "http://stream.radio.is:443/retromobile"
       },
       {
        "name": "Retró Skaga Rásin – Reykjavik – Capital Region – IS",
+       "active": 0,
        "url": "http://1985.is:8220/skagarasinretro",
        "language_inferred": true
       },
       {
        "name": "Rondó – Reykjavik – Capital Region – IS",
+       "active": 0,
        "url": "http://ice-11.spilarinn.is/xrondo",
        "language_inferred": true
       },
       {
        "name": "Rás2",
+       "active": 0,
        "url": "http://netradio.ruv.is/ras2.aac",
        "rb": "0ec0f183-4681-478f-b507-cb4ca6333541",
        "logo": "https://www.ruv.is/apple-touch-icon.png"
       },
       {
        "name": "RÚV Rás 1",
+       "active": 0,
        "url": "http://netradio.ruv.is/ras1.aac",
        "rb": "ea3a1278-0b08-4254-a98b-cfee9a576b18"
       },
       {
        "name": "Skaga Rásin",
+       "active": 0,
        "url": "https://stream.zeno.fm/0b1q040fuuhvv",
        "language_inferred": true
       },
       {
        "name": "Skaga Rásin – Hands-Up – Reykjavik – Capital Region – IS",
+       "active": 0,
        "url": "http://1985.is:8216/skagarasinhu",
        "language_inferred": true
       },
       {
        "name": "Skaga Rásin – Reykjavik – Capital Region – IS",
+       "active": 0,
        "url": "http://1985.is:8210/skagarasin",
        "language_inferred": true
       },
       {
        "name": "Snow Radio Network – Reykjavik – Capital Region – IS",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM02AAC45_SC?pname=TDSdk",
        "language_inferred": true
       },
       {
        "name": "Sport FM 102.5 - Reykjavík, Ísland",
+       "active": 0,
        "url": "http://radio.is:443/sportveitan",
        "country_inferred": true,
        "language_inferred": true
       },
       {
        "name": "Sudurland FM 96.3",
+       "active": 0,
        "url": "http://stream3.radio.is:443/saga",
        "language_inferred": true
       },
       {
        "name": "The First Time",
+       "active": 0,
        "url": "https://stream.zeno.fm/1duy32n43hhvv",
        "language_inferred": true
       },
       {
        "name": "The tech community",
+       "active": 0,
        "url": "https://stream.zeno.fm/b3xpzbdfeq8uv",
        "language_inferred": true
       },
       {
        "name": "Unholy Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/41y996trua0uv",
        "language_inferred": true
       },
       {
        "name": "We Are The Brians – IS",
+       "active": 0,
        "url": "http://thebrians.mynetgear.com:8000/radio.mp3",
        "language_inferred": true
       },
       {
        "name": "Íslenska Skaga Rásin – Reykjavik – Capital Region – IS",
+       "active": 0,
        "url": "http://1985.is:8218/skagarasinis",
        "language_inferred": true
       },
       {
        "name": "Útvarp Boðun – Reykjavik – Capital Region – IS",
+       "active": 0,
        "url": "https://bodun.is:8443/stream?type=.mp3",
        "language_inferred": true
       },
       {
        "name": "Útvarp Saga",
+       "active": 0,
        "url": "http://89.17.150.20:443/saga"
       }
      ]
@@ -1468,6 +1669,7 @@
      "stations": [
       {
        "name": "Tzgospel (Iceland)",
+       "active": 0,
        "url": "https://stream.zeno.fm/dc122f8u2ehvv"
       }
      ]

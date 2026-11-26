@@ -10,6 +10,7 @@
      "stations": [
       {
        "name": "Green Coast Radio",
+       "active": 0,
        "url": "https://ais-edge37-live365-dal02.cdnstream.com/a49866",
        "tags": [
         "pop_hits",
@@ -26,6 +27,7 @@
      "stations": [
       {
        "name": "The West Coast Swing Radio Twcsradio Com",
+       "active": 0,
        "url": "http://www.twcsradio.com:8000/stream/1",
        "tags": [
         "big_band_swing",
@@ -40,32 +42,38 @@
      "stations": [
       {
        "name": "Adoration Matinale",
+       "active": 0,
        "url": "https://www.radioking.com/play/adoration-matinale"
       },
       {
        "name": "Alphaetomega radio",
+       "active": 0,
        "url": "http://161.97.160.18:8000/alphaetomega",
        "language_inferred": true,
        "rb": "4d88a1b1-d31c-42bb-b743-ac276d321fa3"
       },
       {
        "name": "Avec Jésus",
+       "active": 0,
        "url": "http://93.190.141.15:7387/live/",
        "language_inferred": true
       },
       {
        "name": "LA VOIX DE L'ESPERANCE radio",
+       "active": 0,
        "url": "http://35.181.33.195:8000/esperance.mp3",
        "language_inferred": true
       },
       {
        "name": "MemraRadio 365",
+       "active": 0,
        "url": "https://s58.radiolize.com/radio/8050/radio.mp3",
        "language_inferred": true,
        "rb": "9fa8a682-a865-4d47-870b-dd92004ce263"
       },
       {
        "name": "Radio Adoration Matinale",
+       "active": 0,
        "url": "https://listen.radioking.com/radio/9442/stream/19811",
        "tags": [
         "christian_gospel",
@@ -75,10 +83,12 @@
       },
       {
        "name": "Radio Al Bayane",
+       "active": 0,
        "url": "http://node-18.zeno.fm/7hh9tvn162quv"
       },
       {
        "name": "Radio Al Fayda",
+       "active": 0,
        "url": "https://radio7.pro-fhi.net/live/RADIO%20AL%20FAYDA",
        "tags": [
         "christian_gospel",
@@ -88,11 +98,13 @@
       },
       {
        "name": "Radio Chandelier",
+       "active": 0,
        "url": "http://serveur3.wanastream.com:10500",
        "rb": "7e19bf7b-c09c-48f7-81b3-f52a1ee9c27a"
       },
       {
        "name": "Radio EKKLEHSIA",
+       "active": 0,
        "url": "http://radioekklehsia.playtheradio.com/",
        "tags": [
         "christian_gospel",
@@ -102,11 +114,13 @@
       },
       {
        "name": "Radio Elohim radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/zywzivpouqgtv",
        "language_inferred": true
       },
       {
        "name": "Radio Espoir",
+       "active": 0,
        "url": "https://radioespoir.ice.infomaniak.ch/radioespoir.mp3",
        "tags": [
         "christian_gospel",
@@ -116,6 +130,7 @@
       },
       {
        "name": "Radio Espoir",
+       "active": 0,
        "url": "http://93.190.141.15:7030/",
        "tags": [
         "christian_gospel",
@@ -125,6 +140,7 @@
       },
       {
        "name": "Radio Espoir",
+       "active": 0,
        "url": "https://eu2-centova.serverse.com/proxy/radioespoir?mp=/stream",
        "tags": [
         "christian_gospel",
@@ -134,6 +150,7 @@
       },
       {
        "name": "Radio Espoir",
+       "active": 0,
        "url": "https://dc1.serverse.com/proxy/radioespoir/stream",
        "tags": [
         "christian_gospel",
@@ -143,16 +160,19 @@
       },
       {
        "name": "Radio Espoir radio",
+       "active": 0,
        "url": "https://radioespoir.ice.infomaniak.ch/radioespoir.mp3?ver=180271",
        "language_inferred": true
       },
       {
        "name": "Radio Frquence Vie",
+       "active": 0,
        "url": "http://188.40.32.140:8023/frequencevie.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio Fréquence Vie",
+       "active": 0,
        "url": "http://51.158.97.118:8000/frequencevie.mp3",
        "tags": [
         "christian_gospel",
@@ -161,6 +181,7 @@
       },
       {
        "name": "radio khadim radio",
+       "active": 0,
        "url": "https://fpsnew1.listen2myradio.com:2199/listen.php?ip=82.145.63.6\\u0026port=8511\\u0026type=ice\\u0026mount=stream",
        "tags": [
         "christian_gospel",
@@ -170,25 +191,30 @@
       },
       {
        "name": "Radio la main d'amour radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/gqscwh5rqg8uv",
        "language_inferred": true
       },
       {
        "name": "Radio La Voix de l'Evangile radio",
+       "active": 0,
        "url": "http://84.16.232.202:7139/stream",
        "language_inferred": true
       },
       {
        "name": "Radio Maria 104.8 FM radio",
+       "active": 0,
        "url": "http://dreamsiteradiocp.com:8112/"
       },
       {
        "name": "Radio Maria Côte dIvoire Man",
+       "active": 0,
        "url": "https://freeuk25.listen2myradio.com/live.mp3?typeportmount=s1_17843_stream_37063493",
        "language_inferred": true
       },
       {
        "name": "Radio Maria Côte D’Ivoire",
+       "active": 0,
        "url": "http://dreamsiteradiocp.com:8112/stream/",
        "tags": [
         "christian_gospel",
@@ -198,6 +224,7 @@
       },
       {
        "name": "Radio Nationale Catholique",
+       "active": 0,
        "url": "http://93.190.141.15:7026/rncabidjan-48.mp3",
        "tags": [
         "christian_gospel",
@@ -206,11 +233,13 @@
       },
       {
        "name": "Radio Pain Du Ciel radio",
+       "active": 0,
        "url": "http://freeuk30.listen2myradio.com:8367/stream.nsv",
        "language_inferred": true
       },
       {
        "name": "RNC Radio Nationale Catholique",
+       "active": 0,
        "url": "https://radionationalecatholiqueci.ice.infomaniak.ch/radionationalecatholiqueci-128.mp3?type=.flv&ua=Infomaniak+Flash+Player+v2"
       }
      ]
@@ -220,6 +249,7 @@
      "stations": [
       {
        "name": "Erie Coast Local Radio",
+       "active": 0,
        "url": "http://s1.voscast.com:9450/stream/1",
        "tags": [
         "classical",
@@ -236,6 +266,7 @@
       },
       {
        "name": "Native Family Radio",
+       "active": 0,
        "url": "http://jdsradionet.com:8800/stream/1",
        "tags": [
         "classical",
@@ -252,6 +283,7 @@
       },
       {
        "name": "Pirate Radio Of The Treasure Coast WKKC-DB",
+       "active": 0,
        "url": "http://192.211.51.158:5182/stream/1",
        "tags": [
         "classical",
@@ -263,6 +295,7 @@
       },
       {
        "name": "Pirate Radio WKKC-DB",
+       "active": 0,
        "url": "http://ais-edge07-live365-dal02.cdnstream.com/a89594",
        "tags": [
         "classical",
@@ -274,6 +307,7 @@
       },
       {
        "name": "Remember Then Radio",
+       "active": 0,
        "url": "http://149.56.185.82:8083/stream/stream/1",
        "tags": [
         "classical",
@@ -287,6 +321,7 @@
       },
       {
        "name": "WCGR",
+       "active": 0,
        "url": "http://sv3.vestaradio.com:4370",
        "tags": [
         "classical",
@@ -306,6 +341,7 @@
      "stations": [
       {
        "name": "Coast Fm Tenerife",
+       "active": 0,
        "url": "http://s3.viastreaming.net:8540/stream/1",
        "tags": [
         "decade_70s",
@@ -321,6 +357,7 @@
      "stations": [
       {
        "name": "Station X Gold Coast Australia Www Stationx Com Au",
+       "active": 0,
        "url": "http://kara.fast-serv.com:9264/stream/1",
        "language_inferred": true
       }
@@ -331,6 +368,7 @@
      "stations": [
       {
        "name": "Sunshine Radio Costa Del Sol",
+       "active": 0,
        "url": "http://185.105.4.251:8140/stream/1",
        "tags": [
         "decade_90s",
@@ -345,6 +383,7 @@
      "stations": [
       {
        "name": "Htr Gold Coast",
+       "active": 0,
        "url": "http://s4.total-streaming.com:8000/htrgoldcoast/stream/1",
        "tags": [
         "pop_hits",
@@ -360,6 +399,7 @@
      "stations": [
       {
        "name": "DooshFM",
+       "active": 0,
        "url": "https://sky.doscast.com/proxy/dooshfm/stream",
        "tags": [
         "electronic",
@@ -369,6 +409,7 @@
       },
       {
        "name": "Hits 1 Abidjan radio",
+       "active": 0,
        "url": "http://94.23.221.158:9006/stream",
        "tags": [
         "electronic",
@@ -380,6 +421,7 @@
       },
       {
        "name": "Radio Trace Fm Côte d'Ivoire radio",
+       "active": 0,
        "url": "https://stream.rcs.revma.com/wvx3tf5q54zuv",
        "language_inferred": true
       }
@@ -390,6 +432,7 @@
      "stations": [
       {
        "name": "Abidjan Zik",
+       "active": 0,
        "url": "http://freeus3.listen2myradio.com:5610/1",
        "tags": [
         "reggae_ska",
@@ -399,6 +442,7 @@
       },
       {
        "name": "Afrobeat international",
+       "active": 0,
        "url": "https://radioking.com/play/afrobeat-inter",
        "tags": [
         "world",
@@ -408,6 +452,7 @@
       },
       {
        "name": "East Coast Radio",
+       "active": 0,
        "url": "http://eastcoast.listen2myradio.com/",
        "tags": [
         "hip_hop_rap",
@@ -417,6 +462,7 @@
       },
       {
        "name": "Hip Hop Radio Listen live",
+       "active": 0,
        "url": "https://manager3.streamradio.fr:2275/server",
        "tags": [
         "hip_hop_rap",
@@ -426,6 +472,7 @@
       },
       {
        "name": "Hip-Hop Radio côte d'Ivoire",
+       "active": 0,
        "url": "https://manager3.streamradio.fr:2275/stream",
        "tags": [
         "hip_hop_rap",
@@ -435,6 +482,7 @@
       },
       {
        "name": "Hiphop Radio 225",
+       "active": 0,
        "url": "https://srv.webradiomanager.fr:2185/stream",
        "tags": [
         "hip_hop_rap",
@@ -444,6 +492,7 @@
       },
       {
        "name": "Insite Radio",
+       "active": 0,
        "url": "http://www.myradiostream.com/insite",
        "tags": [
         "alternative_indie",
@@ -453,6 +502,7 @@
       },
       {
        "name": "Kwpr West Coast Pirate Radio",
+       "active": 0,
        "url": "http://streaming.live365.com/wcpirateradio",
        "tags": [
         "disco_eurodance",
@@ -463,6 +513,7 @@
       },
       {
        "name": "OKLM AFRICA",
+       "active": 0,
        "url": "https://radio.ready2play.fr:2005/stream",
        "tags": [
         "electronic",
@@ -472,6 +523,7 @@
       },
       {
        "name": "Qoncrete Dialect",
+       "active": 0,
        "url": "http://ais-edge07-live365-dal02.cdnstream.com/a69284",
        "tags": [
         "hip_hop_rap",
@@ -484,11 +536,13 @@
       },
       {
        "name": "Radio Zouglou",
+       "active": 0,
        "url": "http://listen.radionomy.com/radiozouglou",
        "language_inferred": true
       },
       {
        "name": "Siccness Radio",
+       "active": 0,
        "url": "http://ample-03.radiojar.com:80/43qggyc082vtv?rj-ttl=5&amprj-token=AAABXtGcqJqYhdOiIRZf2Q4ySa-AY5WcqZrQD5e8zNF6hKhtHdIl6A",
        "tags": [
         "hip_hop_rap",
@@ -505,6 +559,7 @@
       },
       {
        "name": "Skyrock Abidjan Listen live",
+       "active": 0,
        "url": "https://icecast.skyrock.net/s/natio_mp3_64k",
        "tags": [
         "hip_hop_rap",
@@ -515,6 +570,7 @@
       },
       {
        "name": "Trace FM Cote D'Ivoire",
+       "active": 0,
        "url": "http://chai5she.cdn.dvmr.fr/trace_fm_ci-midfi.aac",
        "tags": [
         "pop_hits",
@@ -523,6 +579,7 @@
       },
       {
        "name": "Trace FM Côte d’Ivoire",
+       "active": 0,
        "url": "https://stream.trace.tv/trace_fm_ci-midfi.aac",
        "tags": [
         "pop_hits",
@@ -539,11 +596,13 @@
      "stations": [
       {
        "name": "Radio AL Fayda 95.3 FM Listen live",
+       "active": 0,
        "url": "https://radio10.pro-fhi.net/flux-ajyrgaik/server",
        "language_inferred": true
       },
       {
        "name": "Sadio FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/6peu618by5quv"
       }
      ]
@@ -553,10 +612,12 @@
      "stations": [
       {
        "name": "Challenges Radio Tv",
+       "active": 0,
        "url": "https://www.radioking.com/play/challengeradiotv/101407"
       },
       {
        "name": "The Coast Radio Jazz Amp Soul",
+       "active": 0,
        "url": "http://thecoastradio.com",
        "tags": [
         "jazz",
@@ -574,6 +635,7 @@
      "stations": [
       {
        "name": "Radio Zouk Love",
+       "active": 0,
        "url": "https://music.wixstatic.com/mp3/5aa9c0_c3c4d419641549ecb2182eaa13f6fcb2.mp3"
       }
      ]
@@ -583,6 +645,7 @@
      "stations": [
       {
        "name": "Granite Coast Radio",
+       "active": 0,
        "url": "http://ca2.radioboss.fm:8343/stream/stream/1",
        "tags": [
         "metal",
@@ -597,6 +660,7 @@
      "stations": [
       {
        "name": "Africa Radio Abidjan",
+       "active": 0,
        "url": "https://africaradio.ice.infomaniak.ch/abidjan128.mp3",
        "tags": [
         "news_talk",
@@ -609,6 +673,7 @@
       },
       {
        "name": "Afrobeat international",
+       "active": 0,
        "url": "https://listen.radioking.com/radio/397789/stream/449770",
        "tags": [
         "news_talk",
@@ -621,16 +686,19 @@
       },
       {
        "name": "Central Coast Online Scanner Rfs Stream",
+       "active": 0,
        "url": "http://stream.centralcoastonlinescanner.com:8000/rfs",
        "language_inferred": true
       },
       {
        "name": "Cote divoire FM",
+       "active": 0,
        "url": "http://212.83.172.22/radio/9892/stream/62227",
        "language_inferred": true
       },
       {
        "name": "GBEKE FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/m0982tsy908uv",
        "tags": [
         "news_talk",
@@ -640,11 +708,13 @@
       },
       {
        "name": "Gbêkê Fm",
+       "active": 0,
        "url": "https://freeuk23.listen2myradio.com/live.mp3?typeportmount=s1_33484_stream",
        "language_inferred": true
       },
       {
        "name": "Menade Smaug Radio",
+       "active": 0,
        "url": "https://stream-69.zeno.fm/v78geu0tbc9uv",
        "tags": [
         "news_talk",
@@ -654,6 +724,7 @@
       },
       {
        "name": "Menade Smaug Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/v78geu0tbc9uv",
        "tags": [
         "sports",
@@ -663,6 +734,7 @@
       },
       {
        "name": "Radio Al Bayane",
+       "active": 0,
        "url": "https://stream.zeno.fm/7hh9tvn162quv",
        "tags": [
         "christian_gospel",
@@ -672,6 +744,7 @@
       },
       {
        "name": "Radio Al Bayane",
+       "active": 0,
        "url": "https://stream.zeno.fm/seb77kna90duv",
        "tags": [
         "news_talk",
@@ -681,6 +754,7 @@
       },
       {
        "name": "Radio Al-Bayane",
+       "active": 0,
        "url": "https://stream.zenolive.com/seb77kna90duv",
        "tags": [
         "news_talk",
@@ -690,6 +764,7 @@
       },
       {
        "name": "Radio Al-Bayane",
+       "active": 0,
        "url": "http://stream.zenolive.com/7hh9tvn162quv",
        "tags": [
         "news_talk",
@@ -700,6 +775,7 @@
       },
       {
        "name": "Radio Atlantique FM radio",
+       "active": 0,
        "url": "http://195.154.185.139/radio/15913/stream/29411",
        "tags": [
         "news_talk",
@@ -710,12 +786,14 @@
       },
       {
        "name": "Radio Daloa FM radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/fnkkuavm2y9vv",
        "language_inferred": true,
        "rb": "5dc60307-f883-4e08-8425-528104fe9345"
       },
       {
        "name": "Radio Denguele radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/z9fpkkbpfp1vv",
        "tags": [
         "news_talk",
@@ -725,6 +803,7 @@
       },
       {
        "name": "Radio Eivia Sports radio",
+       "active": 0,
        "url": "http://radioeivia.ice.infomaniak.ch/radioeivia.mp3",
        "tags": [
         "news_talk",
@@ -734,12 +813,14 @@
       },
       {
        "name": "Radio Feremandougou Fm radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/slsb3sxzxqxvv",
        "language_inferred": true,
        "rb": "594310de-17ab-413a-bfd6-02f31b26dd4e"
       },
       {
        "name": "Radio Kabadougou Fm radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/gfvm7pxkv98uv",
        "tags": [
         "news_talk",
@@ -750,6 +831,7 @@
       },
       {
        "name": "Radio La Voix De La Diaspora",
+       "active": 0,
        "url": "https://listen.radioking.com/radio/9892/stream/62227",
        "tags": [
         "news_talk",
@@ -761,6 +843,7 @@
       },
       {
        "name": "Radio Media + CI Bouake radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/geewmcac4louv",
        "tags": [
         "news_talk",
@@ -771,18 +854,21 @@
       },
       {
        "name": "Radio MEDIA+CI Yamoussoukro radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/8af5wodfzkvtv",
        "language_inferred": true,
        "rb": "68d8961a-c0c4-4b06-a563-5ecbfcd4ae2a"
       },
       {
        "name": "Radio SOLEIL+CI San-Pedro radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/z7fmrvt47uxvv",
        "language_inferred": true,
        "rb": "ee40a087-21a9-4773-81e6-f7cd8d0642dd"
       },
       {
        "name": "Radio Tchrato 101.4 Fm Daloa radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/zcpvlsgfuvbuv",
        "tags": [
         "news_talk",
@@ -793,6 +879,7 @@
       },
       {
        "name": "RadioSamo radio",
+       "active": 0,
        "url": "https://listen.radioking.com/radio/291748/stream/338065",
        "tags": [
         "news_talk",
@@ -807,11 +894,13 @@
      "stations": [
       {
        "name": "Pacific Coast FM",
+       "active": 0,
        "url": "https://listen.radioking.com/radio/379018/stream/429937",
        "language_inferred": true
       },
       {
        "name": "Radio Augusta International",
+       "active": 0,
        "url": "https://ecmanager4.pro-fhi.net:2660/stream/1/",
        "tags": [
         "oldies",
@@ -822,6 +911,7 @@
       },
       {
        "name": "Radio Augusta International radio",
+       "active": 0,
        "url": "https://ecmanager4.pro-fhi.net:2660/?type=http\\u0026nocache=1660069410",
        "tags": [
         "oldies",
@@ -832,6 +922,7 @@
       },
       {
        "name": "Radio Nostalgie 101.1 FM radio",
+       "active": 0,
        "url": "http://213.136.96.14:8000/nostalgie2.mp3",
        "tags": [
         "oldies",
@@ -851,16 +942,19 @@
      "stations": [
       {
        "name": "Hit Radio Côte d’Ivoire",
+       "active": 0,
        "url": "https://hrci.ice.infomaniak.ch/ci-abidjan-96.aac"
       },
       {
        "name": "Life Radio",
+       "active": 0,
        "url": "https://cast4.asurahosting.com/proxy/life/stream",
        "language_inferred": true,
        "rb": "739f485a-e8a2-4fcc-9fad-65ab509125cf"
       },
       {
        "name": "Nostalgie FM",
+       "active": 0,
        "url": "http://213.136.96.14:8000/nostalgie.mp3",
        "tags": [
         "pop_hits",
@@ -870,33 +964,40 @@
       },
       {
        "name": "Radio Blm 100.6",
+       "active": 0,
        "url": "http://usa7.fastcast4u.com:4486/"
       },
       {
        "name": "Radio Blm 1006",
+       "active": 0,
        "url": "https://usa7.fastcast4u.com/proxy/blmfm/?mp=/stream",
        "language_inferred": true
       },
       {
        "name": "Radio Fréquence2",
+       "active": 0,
        "url": "https://www.enovativecdn.com:4433/radio/frequence2.stream/playlist.m3u8"
       },
       {
        "name": "RTI Radio Côte d'Ivoire",
+       "active": 0,
        "url": "https://www.enovativecdn.com/rticdn/smil:rti1.smil/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "VIBE Radio",
+       "active": 0,
        "url": "http://31.207.37.120:8000/viberadio-ci.mp3"
       },
       {
        "name": "VIBE RADIO Cte DIvoire",
+       "active": 0,
        "url": "http://217.182.132.143:8000/viberadio-ci.mp3",
        "language_inferred": true
       },
       {
        "name": "VIBE RADIO Côte DIvoire",
+       "active": 0,
        "url": "http://31.207.37.120:8000/viberadio-ci.mp3?1605201929097",
        "language_inferred": true
       }
@@ -907,11 +1008,13 @@
      "stations": [
       {
        "name": "Coast To Coast Fm",
+       "active": 0,
        "url": "http://radio.ctcfm.com:8000/stream/1",
        "language_inferred": true
       },
       {
        "name": "East Coast Radio Jams",
+       "active": 0,
        "url": "http://stream-42.zeno.fm/dcxkzmhkgbquv?zs=hidsl1n0q9ojx9opodkwjg",
        "tags": [
         "reggae_ska",
@@ -925,11 +1028,13 @@
       },
       {
        "name": "Radio Reggaeslam",
+       "active": 0,
        "url": "http://87.117.201.152:7178/",
        "language_inferred": true
       },
       {
        "name": "Radio Reggaeslam radio",
+       "active": 0,
        "url": "http://87.117.201.152/stream.mp3?ipport=87.117.201.152_7178",
        "tags": [
         "folk",
@@ -944,11 +1049,13 @@
      "stations": [
       {
        "name": "77 4fm The 80s Test Broadcast Gold Coast Australia Www The80s Com Au",
+       "active": 0,
        "url": "http://kara.fast-serv.com:9886/stream/1",
        "language_inferred": true
       },
       {
        "name": "AXIS Radio",
+       "active": 0,
        "url": "http://edge1-a.exa.live365.net/a02059",
        "tags": [
         "rock",
@@ -962,6 +1069,7 @@
       },
       {
        "name": "California-101",
+       "active": 0,
        "url": "http://194.150.236.178:8000/stream/1",
        "tags": [
         "rock",
@@ -971,6 +1079,7 @@
       },
       {
        "name": "East Coast Country Gospel",
+       "active": 0,
        "url": "http://eccgospelradio.com:8151/stream/1",
        "tags": [
         "rock",
@@ -981,11 +1090,13 @@
       },
       {
        "name": "Kozt The Coast",
+       "active": 0,
        "url": "http://koztlinux.kozt.com:9000/stream/1",
        "language_inferred": true
       },
       {
        "name": "Pirate Radio Of The Treasure Coast Wkkc Db",
+       "active": 0,
        "url": "http://66.85.88.29:80/stream/1",
        "tags": [
         "rock",
@@ -996,6 +1107,7 @@
       },
       {
        "name": "Space Coast Metal",
+       "active": 0,
        "url": "http://72.239.233.53:6969/high.mp3",
        "tags": [
         "rock",
@@ -1011,6 +1123,7 @@
       },
       {
        "name": "Triple XY",
+       "active": 0,
        "url": "http://206.190.130.182:8051/stream/1",
        "tags": [
         "rock",
@@ -1027,6 +1140,7 @@
      "stations": [
       {
        "name": "107PowerFM.Net",
+       "active": 0,
        "url": "http://67.212.165.106:8308/stream.mp3",
        "tags": [
         "soul_rnb_funk",
@@ -1039,6 +1153,7 @@
       },
       {
        "name": "Nanan Radio",
+       "active": 0,
        "url": "http://nananradio.listen2myradio.com/",
        "tags": [
         "latin",
@@ -1048,6 +1163,7 @@
       },
       {
        "name": "Radio Augusta",
+       "active": 0,
        "url": "https://radioairplay.fr:2330/stream",
        "tags": [
         "soul_rnb_funk",
@@ -1059,6 +1175,7 @@
       },
       {
        "name": "Ziplignan FM Listen live",
+       "active": 0,
        "url": "https://manager2.creativradio.com:2555/server",
        "tags": [
         "soul_rnb_funk",
@@ -1073,20 +1190,24 @@
      "stations": [
       {
        "name": "Atlantique FM 107.2",
+       "active": 0,
        "url": "https://listen.radioking.com/radio/356350/stream/405679",
        "language_inferred": true
       },
       {
        "name": "Central Coast Live Radio",
+       "active": 0,
        "url": "http://thassos.cdnstream.com:5299/live",
        "language_inferred": true
       },
       {
        "name": "RADIO BEL'EPOK",
+       "active": 0,
        "url": "http://178.18.254.84:8000/airtime_128"
       },
       {
        "name": "Ziplignan FM",
+       "active": 0,
        "url": "http://manager2.creativradio.com:2340/stream",
        "language_inferred": true
       }
@@ -1097,18 +1218,22 @@
      "stations": [
       {
        "name": "Abidjan Zik",
+       "active": 0,
        "url": "http://radio9.pro-fhi.net:19178"
       },
       {
        "name": "Canal 225",
+       "active": 0,
        "url": "https://canal225fm.ice.infomaniak.ch/canal225fm-128.mp3"
       },
       {
        "name": "Hip-hop Radio Côte d'Ivoire",
+       "active": 0,
        "url": "https://manager8.streamradio.fr:2895/stream"
       },
       {
        "name": "Life Radio",
+       "active": 0,
        "url": "https://cors-proxy.elfsight.com/https://cast4.asurahosting.com/proxy/life/stream",
        "tags": [
         "pop_hits",
@@ -1118,6 +1243,7 @@
       },
       {
        "name": "Radio Alpha Blondy",
+       "active": 0,
        "url": "https://listen.radioking.com/radio/364633/stream/414370",
        "tags": [
         "world",
@@ -1131,6 +1257,7 @@
       },
       {
        "name": "Radio Alpha Blondy 97.9 Abidjan",
+       "active": 0,
        "url": "https://www.radioking.com/play/alphablondyfm",
        "tags": [
         "pop_hits",
@@ -1139,6 +1266,7 @@
       },
       {
        "name": "Radio FM African Listen live",
+       "active": 0,
        "url": "https://str2b.openstream.co/615",
        "tags": [
         "world",
@@ -1148,6 +1276,7 @@
       },
       {
        "name": "Radio Jam",
+       "active": 0,
        "url": "https://listen.radioking.com/radio/61201/stream/98566",
        "tags": [
         "world",
@@ -1160,6 +1289,7 @@
       },
       {
        "name": "Radio JAM",
+       "active": 0,
        "url": "https://www.radioking.com/play/my-radio-jam",
        "tags": [
         "world",
@@ -1169,23 +1299,28 @@
       },
       {
        "name": "Radio Merveille Togo",
+       "active": 0,
        "url": "https://c3.radioboss.fm/playlist/234/stream.m3u"
       },
       {
        "name": "Radio Paix Sanwi",
+       "active": 0,
        "url": "http://93.190.141.15:7108/stream/",
        "language_inferred": true
       },
       {
        "name": "Radio Zouglou",
+       "active": 0,
        "url": "http://144.91.94.111:8000/radiozouglou"
       },
       {
        "name": "RADIO ZOUGLOU",
+       "active": 0,
        "url": "http://streamingv2.shoutcast.com/RADIOZOUGLOU"
       },
       {
        "name": "Skyrock Abidjan",
+       "active": 0,
        "url": "https://icecast.skyrock.net/s/abidjan_aac_64k",
        "tags": [
         "world",
@@ -1203,161 +1338,195 @@
      "stations": [
       {
        "name": "Alpha Blondy FM",
+       "active": 0,
        "url": "https://listen.radioking.com/radio/164353/stream/205408"
       },
       {
        "name": "Bassam FM",
+       "active": 0,
        "url": "http://bassamfm.com/v1/ecoute_en_direct.php",
        "language_inferred": true
       },
       {
        "name": "Bassam FM",
+       "active": 0,
        "url": "http://livesbafm.ddns.net:88/broadwavehigh.mp3?src=1"
       },
       {
        "name": "Coast Fm 96 5 97 2 Fm",
+       "active": 0,
        "url": "http://50.7.77.178:8414/live",
        "language_inferred": true
       },
       {
        "name": "HipHop Radio cte dIvoire",
+       "active": 0,
        "url": "https://manager2.creativradio.com:2350/stream",
        "language_inferred": true
       },
       {
        "name": "Htr Jazzy Gold Coast",
+       "active": 0,
        "url": "http://s15.total-streaming.com:9356/stream/1",
        "language_inferred": true
       },
       {
        "name": "Ivoire FM",
+       "active": 0,
        "url": "http://s39.myradiostream.com:10708/listen.mp3"
       },
       {
        "name": "La Voix de l'Espérance",
+       "active": 0,
        "url": "http://213.136.96.99:8000/esperance.mp3"
       },
       {
        "name": "Memra Web Radio",
+       "active": 0,
        "url": "https://s35.radiolize.com/radio/8100/radio.mp3",
        "language_inferred": true
       },
       {
        "name": "Menade Smaug Radio",
+       "active": 0,
        "url": "https://stream-69.zeno.fm/v78geu0tbc9uv?zs=F5EVMg-QSsCdrqjNH7HVUQ",
        "language_inferred": true
       },
       {
        "name": "ONUCI FM",
+       "active": 0,
        "url": "http://unweb01.rombus.com:8000/stream.mp3"
       },
       {
        "name": "Radio Augusta - New Generation",
+       "active": 0,
        "url": "http://162.19.20.52:2020/",
        "language_inferred": true
       },
       {
        "name": "Radio Blm 100.6",
+       "active": 0,
        "url": "http://us7.fastcas4u.com:4603/",
        "language_inferred": true
       },
       {
        "name": "Radio Chandelier",
+       "active": 0,
        "url": "http://serveur3.wanastream.com:10500/pls"
       },
       {
        "name": "Radio Cote dIvoire",
+       "active": 0,
        "url": "https://www.enovativecdn.com/radio/radiorci.stream/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "Radio de la paix",
+       "active": 0,
        "url": "http://radiopaix.live.fondation-fhb.org:8000/stream.mp3"
       },
       {
        "name": "Radio Frequence 2",
+       "active": 0,
        "url": "https://www.enovativecdn.com/radio/frequence2.stream/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "Radio Fréquence2 – 92.0 FM – Abidjan – Lagunes – Ivory Coast",
+       "active": 0,
        "url": "https://enovativecdn.com/rticdn/frequence2/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "radio khadim",
+       "active": 0,
        "url": "http://fps4.listen2myradio.com:8241/live",
        "language_inferred": true
       },
       {
        "name": "Radio la main damour",
+       "active": 0,
        "url": "https://stream.zeno.fm/27930h5rqg8uv",
        "language_inferred": true
       },
       {
        "name": "Radio La Voix de lEvangile",
+       "active": 0,
        "url": "http://93.190.141.15:7026/rncabidjan-128.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio Maria Côte d'Ivoire Man radio",
+       "active": 0,
        "url": "https://dreamsiteradiocp5.com/proxy/rmivorycoastman?mp=/stream",
        "language_inferred": true
       },
       {
        "name": "Radio Maria Ivory Coast",
+       "active": 0,
        "url": "https://dreamsiteradioplayer.it/wf/wfivorycoast/?pl=vlc&c=Radio%20Maria%20C%C3%B4te%20D%27Ivoire?n=c695234d08ea69e18c13",
        "language_inferred": true
       },
       {
        "name": "Radio Paix Sanwi",
+       "active": 0,
        "url": "http://dc1.serverse.com:7234/stream",
        "language_inferred": true
       },
       {
        "name": "Radio Paix Sanwi",
+       "active": 0,
        "url": "http://93.190.141.15:7079/"
       },
       {
        "name": "Radio Paix Sanwi – 89.2 FM – Aboisso – Sud-Comoé – Ivory Coast",
+       "active": 0,
        "url": "http://93.190.141.15:7108/",
        "language_inferred": true
       },
       {
        "name": "radio pisa line",
+       "active": 0,
        "url": "https://stream1.svrdedicado.org:7182/stream",
        "language_inferred": true
       },
       {
        "name": "Radio Reggaeslam",
+       "active": 0,
        "url": "https://polaris.dribb.com/proxy/jrn_reggae?mp=%2Fstream",
        "language_inferred": true
       },
       {
        "name": "RTI Radio Côte d'Ivoire",
+       "active": 0,
        "url": "https://www.enovativecdn.com:4433/radio/radiorci.stream/playlist.m3u8"
       },
       {
        "name": "RTI Radio Côte d’Ivoire – 95.7 FM – Abidjan – Lagunes – Ivory Coast",
+       "active": 0,
        "url": "https://enovativecdn.com/radioci/icecast/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "Trace FM",
+       "active": 0,
        "url": "https://stream.trace.tv/trace_fm_rdc-midfi.aac"
       },
       {
        "name": "Trace FM Cote D’Ivoire – Abidjan – Lagunes – Ivory Coast",
+       "active": 0,
        "url": "https://n22a-eu.rcs.revma.com/1xq5rye54k0uv",
        "language_inferred": true
       },
       {
        "name": "Zenith fm radio",
+       "active": 0,
        "url": "https://listen.radioking.com/radio/542930/stream/601988",
        "language_inferred": true
       },
       {
        "name": "Zenith FM – Abidjan – Lagunes – Ivory Coast",
+       "active": 0,
        "url": "http://radio12.pro-fhi.net:9012/stream",
        "language_inferred": true
       }
@@ -1373,6 +1542,7 @@
      "stations": [
       {
        "name": "RADIO MENADE SMAUG",
+       "active": 0,
        "url": "https://stream-52.zeno.fm/v78geu0tbc9uv",
        "tags": [
         "country",
@@ -1392,6 +1562,7 @@
      "stations": [
       {
        "name": "Gbeke FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/8nfdbusy908uv"
       }
      ]

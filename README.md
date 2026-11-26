@@ -80,6 +80,7 @@ data/
   audiobooks/<name>.json    one file per collection
 tools/
   build_stations.py         m3u → JSON converter
+  check_radio.py            sequential stream checks and active counts
   featured.py               puts tools/featured/*.m3u at the top of their country
   radiobrowser.py           adds Radio Browser logos and station ids ("rb") to data/radio
   featured/<country>.m3u    hand-picked stations per country, in display order
@@ -107,6 +108,7 @@ deploy/
           "stations": [
             {
               "name": "Example FM",
+              "active": 0,
               "url": "https://example.com/stream",
               "bitrate": 128,
               "logo": "https://example.com/logo.png",
@@ -188,6 +190,29 @@ A full rebuild takes about 1–2 minutes and needs only the Python 3 standard li
   - The build applies the lists automatically. After editing a list, apply it without a rebuild: `python3 -I tools/featured.py data`.
 
 To adjust the rules, edit `GENRE_RULES` or `GENRE_OVERRIDES` in `tools/build_stations.py` or the tables in `tools/geo_lang.py`, then rebuild.
+
+## Checking live radio streams
+
+Each radio station has an integer `active` field that counts successful checks.
+Install FFmpeg (which provides `ffprobe`), then run:
+
+```sh
+python3 tools/check_radio.py --repeat
+```
+
+The checker starts with South Korea and visits every country. It probes one
+station at a time, waits at least 10 seconds between stations, and gives each
+probe up to 12 seconds to read an audio packet. For PLS URLs, the checker reads
+the playlist and probes its stream entries within the same timeout. Failed
+checks leave the count at its previous value. A repeating run waits seven days
+after finishing a full pass, then starts another. Use `--limit N` without
+`--repeat` for a bounded run.
+
+The checker saves its position after each probe under `data/.radio-check/`.
+It writes successful counts back to the country JSON in batches and recovers
+saved results after a restart. Pause the checker before rebuilding or editing
+the radio catalog. Restarts resume the current pass when the country files and
+the current country's URL order still match the checkpoint.
 
 ## Hosting
 

@@ -10,6 +10,7 @@
      "stations": [
       {
        "name": "RadioVeronicaForever-BLusParadais Listen live",
+       "active": 0,
        "url": "https://node-09.zeno.fm/ea2mvm697f0uv.aac",
        "tags": [
         "alternative_indie",
@@ -24,6 +25,7 @@
      "stations": [
       {
        "name": "Middle East Agape Radio - صوت المحبة الشرق الأوسط",
+       "active": 0,
        "url": "https://stream.zeno.fm/sb6wmu58938uv",
        "tags": [
         "christian_gospel",
@@ -32,6 +34,7 @@
       },
       {
        "name": "Sham FM Radio",
+       "active": 0,
        "url": "https://stream.pcradio.ru/shamfm_fm-med",
        "language_inferred": true
       }
@@ -42,6 +45,7 @@
      "stations": [
       {
        "name": "ONE FM Classic",
+       "active": 0,
        "url": "https://stream.zenolive.com/xnz9z83uzrquv",
        "tags": [
         "classical",
@@ -50,6 +54,7 @@
       },
       {
        "name": "Version FM",
+       "active": 0,
        "url": "https://versionfm.com:8100/stream",
        "tags": [
         "classical",
@@ -64,6 +69,7 @@
      "stations": [
       {
        "name": "GUPS SYRIA",
+       "active": 0,
        "url": "https://stream.zeno.fm/mwub9bc3xnhvv",
        "language_inferred": true
       }
@@ -74,6 +80,7 @@
      "stations": [
       {
        "name": "Tartous FM طرطوس اف ام",
+       "active": 0,
        "url": "http://82.137.248.16:1935/RTartus/RTartusLive/playlist.m3u8"
       }
      ]
@@ -83,6 +90,7 @@
      "stations": [
       {
        "name": "TrancePulse Dublin Listen live",
+       "active": 0,
        "url": "https://stream.trance.ie:8443/server",
        "tags": [
         "trance_goa",
@@ -99,6 +107,7 @@
      "stations": [
       {
        "name": "GUL-FM Voice of Peace ~~~ Broadcasting from ROJAVA-SYRIA | USA",
+       "active": 0,
        "url": "http://s6.voscast.com:9938/stream/1",
        "tags": [
         "easy_listening",
@@ -108,6 +117,7 @@
       },
       {
        "name": "نينار إف إم",
+       "active": 0,
        "url": "https://ninarfm.grtvstream.com:8896/stream",
        "tags": [
         "easy_listening",
@@ -123,6 +133,7 @@
      "stations": [
       {
        "name": "Al Madina FM",
+       "active": 0,
        "url": "http://192.99.17.12:4978/stream.mp3",
        "tags": [
         "pop_hits",
@@ -132,6 +143,7 @@
       },
       {
        "name": "Melody FM",
+       "active": 0,
        "url": "http://streaming.inet.sy:8000/melodyfm",
        "tags": [
         "pop_hits",
@@ -143,6 +155,7 @@
       },
       {
        "name": "Shufi Mafi",
+       "active": 0,
        "url": "https://live-shufimafi.sharp-stream.com/shufimafi.aac",
        "tags": [
         "world",
@@ -152,6 +165,7 @@
       },
       {
        "name": "راديو ولات  106 FM - Welat Fm Listen live",
+       "active": 0,
        "url": "https://192.184.9.158:8658/",
        "tags": [
         "pop_hits",
@@ -167,11 +181,13 @@
      "stations": [
       {
        "name": "Nojoom FM (Syria) Radio",
+       "active": 0,
        "url": "https://stream.pcradio.ru/rad_njmfm-med",
        "language_inferred": true
       },
       {
        "name": "Radio Arabesk radio",
+       "active": 0,
        "url": "http://185.4.87.79:8000/stream.mp3",
        "tags": [
         "pop_hits",
@@ -181,15 +197,18 @@
       },
       {
        "name": "Radio El Karma radio",
+       "active": 0,
        "url": "http://radioliveb.rtv.gov.sy:8002/RadioKarma"
       },
       {
        "name": "Radio Yeraz",
+       "active": 0,
        "url": "https://stream.pcradio.ru/yeraz_fm-med",
        "language_inferred": true
       },
       {
        "name": "Rayan FM (راديو ريان إف إم)",
+       "active": 0,
        "url": "http://78.129.150.144/live.mp3?typeportmount=s1_28227_stream_574542785"
       }
      ]
@@ -199,6 +218,7 @@
      "stations": [
       {
        "name": "Radio Sedra",
+       "active": 0,
        "url": "http://ca.rcast.net:8028/stream.mp3",
        "tags": [
         "jazz",
@@ -212,6 +232,7 @@
      "stations": [
       {
        "name": "راديو الما",
+       "active": 0,
        "url": "https://stream.zeno.fm/624m8t4gwf9uv",
        "language_inferred": true
       }
@@ -222,6 +243,7 @@
      "stations": [
       {
        "name": "Al Madina FM",
+       "active": 0,
        "url": "https://stream.almadinafm.com/stream.mp3",
        "tags": [
         "news_talk",
@@ -234,10 +256,12 @@
       },
       {
        "name": "Alquds FM",
+       "active": 0,
        "url": "http://live.atyaf.co:8000/stream.mp3"
       },
       {
        "name": "Arta FM",
+       "active": 0,
        "url": "https://edge.mixlr.com/channel/qtgru",
        "tags": [
         "news_talk",
@@ -250,6 +274,7 @@
       },
       {
        "name": "Asima-Online",
+       "active": 0,
        "url": "https://asima.out.airtime.pro:8000/asima_a",
        "tags": [
         "news_talk",
@@ -263,6 +288,7 @@
       },
       {
        "name": "FUSE FM radio",
+       "active": 0,
        "url": "http://192.95.23.89:4986/stream.mp3",
        "tags": [
         "news_talk",
@@ -271,11 +297,13 @@
       },
       {
        "name": "Hawa Smart",
+       "active": 0,
        "url": "http://online2.hawa-smart.fm/radio_mono",
        "language_inferred": true
       },
       {
        "name": "Ninar FM",
+       "active": 0,
        "url": "https://ninarfm.grtvstream.com:8896/",
        "tags": [
         "news_talk",
@@ -286,6 +314,7 @@
       },
       {
        "name": "ONE FM",
+       "active": 0,
        "url": "https://stream.zenolive.com/kxbs5p6e8ueuv",
        "tags": [
         "news_talk",
@@ -296,6 +325,7 @@
       },
       {
        "name": "Orient Radio",
+       "active": 0,
        "url": "https://svs.itworkscdn.net/orientradiolive/orlive/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -305,11 +335,13 @@
       },
       {
        "name": "Radio Al Kul 103.2 FM",
+       "active": 0,
        "url": "http://livecast.radioalkul.com:8080/stream/1",
        "language_inferred": true
       },
       {
        "name": "Radio Alkul",
+       "active": 0,
        "url": "http://livecast.radioalkul.com:8080/stream.mp3",
        "tags": [
         "news_talk",
@@ -318,6 +350,7 @@
       },
       {
        "name": "Radio Amwaj",
+       "active": 0,
        "url": "http://82.137.248.16:1935/RAmwaj/RAmwajLive/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -326,6 +359,7 @@
       },
       {
        "name": "Radio Amwaj FM",
+       "active": 0,
        "url": "http://radioliveb.rtv.gov.sy:8002/RadioAmwaj",
        "tags": [
         "news_talk",
@@ -335,6 +369,7 @@
       },
       {
        "name": "Radio Damascus",
+       "active": 0,
        "url": "http://radioliveb.rtv.gov.sy:8002/RadioDimshq",
        "tags": [
         "news_talk",
@@ -347,11 +382,13 @@
       },
       {
        "name": "Radio Hara FM",
+       "active": 0,
        "url": "http://edge.mixlr.com/channel/qkacr",
        "language_inferred": true
       },
       {
        "name": "Radio Sada | Radio Echo",
+       "active": 0,
        "url": "http://192.99.8.192:3054/",
        "tags": [
         "news_talk",
@@ -360,6 +397,7 @@
       },
       {
        "name": "Radio Souryana",
+       "active": 0,
        "url": "http://radioliveb.rtv.gov.sy:8008/RadioSouryana",
        "tags": [
         "news_talk",
@@ -369,6 +407,7 @@
       },
       {
        "name": "Radio Zenobia FM",
+       "active": 0,
        "url": "http://radioliveb.rtv.gov.sy:8002/RadioZenobia",
        "tags": [
         "news_talk",
@@ -378,6 +417,7 @@
       },
       {
        "name": "Rayan FM radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/fbhyqgivbgnvv",
        "tags": [
         "news_talk",
@@ -386,6 +426,7 @@
       },
       {
        "name": "Sawt Alshabab FM",
+       "active": 0,
        "url": "http://radioliveb.rtv.gov.sy:8002/RadioShabab",
        "tags": [
         "news_talk",
@@ -398,6 +439,7 @@
       },
       {
        "name": "Shuf Mafi",
+       "active": 0,
        "url": "https://live-shufimafi.sharp-stream.com/shufimafi.mp3",
        "tags": [
         "news_talk",
@@ -406,6 +448,7 @@
       },
       {
        "name": "Sout Raya FM",
+       "active": 0,
        "url": "http://109.123.114.172:5489/Live",
        "tags": [
         "news_talk",
@@ -414,6 +457,7 @@
       },
       {
        "name": "syria news",
+       "active": 0,
        "url": "http://radioliveb.rtv.gov.sy:8002/Snews",
        "tags": [
         "news_talk",
@@ -422,10 +466,12 @@
       },
       {
        "name": "Syrian Foreign Radio",
+       "active": 0,
        "url": "http://radioliveb.rtv.gov.sy:8002/RadioCham"
       },
       {
        "name": "إذاعة القدس - Alquds Radio",
+       "active": 0,
        "url": "http://91.144.31.235:8000/live.nsv"
       }
      ]
@@ -435,6 +481,7 @@
      "stations": [
       {
        "name": "EmaarFM radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/4luag56o066uv",
        "tags": [
         "decade_60s",
@@ -449,10 +496,12 @@
      "stations": [
       {
        "name": "Arabesque FM - أرابيسك اف ام",
+       "active": 0,
        "url": "http://185.4.87.79:8765/stream"
       },
       {
        "name": "Farah FM",
+       "active": 0,
        "url": "http://radio.farah.fm:8015/",
        "tags": [
         "pop_hits",
@@ -461,35 +510,43 @@
       },
       {
        "name": "Fuse FM - فيوز اف ام",
+       "active": 0,
        "url": "http://192.99.17.12:4986/stream.mp3"
       },
       {
        "name": "Hawa SMART - إذاعة هوا سمارت",
+       "active": 0,
        "url": "http://online2.hawa-smart.fm/mp3_128"
       },
       {
        "name": "Metropolitana - LIGHT Listen live",
+       "active": 0,
        "url": "https://paineldj.com.br:2594/server",
        "language_inferred": true
       },
       {
        "name": "Nasaem Syria Radio - راديو نسائم سوريا",
+       "active": 0,
        "url": "http://s1.voscast.com:10002/"
       },
       {
        "name": "Ninar FM - نينار اف ام",
+       "active": 0,
        "url": "http://ninarfm.grtvstream.com:8896/stream.mp3"
       },
       {
        "name": "Rotana Style FM",
+       "active": 0,
        "url": "http://167.114.131.90:5380"
       },
       {
        "name": "Rotana Style FM - روتانا",
+       "active": 0,
        "url": "http://192.99.17.12:5098/stream.mp3"
       },
       {
        "name": "Syria Alghad - إذاعة سورية الغد",
+       "active": 0,
        "url": "http://185.121.184.104:8000/stream.mp3"
       }
      ]
@@ -499,6 +556,7 @@
      "stations": [
       {
        "name": "Al Aan FM Listen live",
+       "active": 0,
        "url": "https://streamingcdn.alaan.tv/fm/fm/chunklist.m3u8",
        "tags": [
         "soul_rnb_funk",
@@ -515,10 +573,12 @@
      "stations": [
       {
        "name": "Farah FM",
+       "active": 0,
        "url": "http://radio.farah.fm:8000/"
       },
       {
        "name": "Sadaljabl FM",
+       "active": 0,
        "url": "http://148.251.92.51:9342/",
        "language_inferred": true
       }
@@ -529,19 +589,23 @@
      "stations": [
       {
        "name": "Al Madina FM 101.5",
+       "active": 0,
        "url": "http://192.99.17.12:4978/"
       },
       {
        "name": "Farah FM",
+       "active": 0,
        "url": "https://radio.farah.fm/",
        "rb": "fc84a35e-04a1-4e33-915e-ffb155d5c0b4"
       },
       {
        "name": "Fuse Fm Syria 91.1",
+       "active": 0,
        "url": "http://192.99.17.12:4986/"
       },
       {
        "name": "Mix Fm Syria",
+       "active": 0,
        "url": "http://192.99.17.12:5102/stream.mp3",
        "tags": [
         "pop_hits",
@@ -551,6 +615,7 @@
       },
       {
        "name": "ONE FM MIX",
+       "active": 0,
        "url": "https://stream.zenolive.com/bdnwx53e8ueuv",
        "tags": [
         "world",
@@ -559,6 +624,7 @@
       },
       {
        "name": "Radio Al Kul 103.2 FM",
+       "active": 0,
        "url": "http://livecast.radioalkul.com:8080/",
        "tags": [
         "various_eclectic",
@@ -567,22 +633,27 @@
       },
       {
        "name": "Radio Orman",
+       "active": 0,
        "url": "http://ormanland.no-ip.info:8200"
       },
       {
        "name": "Radio Rozana 103.5 FM",
+       "active": 0,
        "url": "http://ample-zeno-06.radiojar.com/43ssay93pvduv"
       },
       {
        "name": "Rayan FM",
+       "active": 0,
        "url": "http://15.235.86.218/fbhyqgivbgnvv"
       },
       {
        "name": "Samana",
+       "active": 0,
        "url": "http://curiosity.shoutca.st:8068/stream"
       },
       {
        "name": "Sham FM",
+       "active": 0,
        "url": "https://radioshamfm.grtvstream.com:8400",
        "tags": [
         "pop_hits",
@@ -594,14 +665,17 @@
       },
       {
        "name": "Sham FM",
+       "active": 0,
        "url": "http://radioshamfm.grtvstream.com:8400/stream.nsv"
       },
       {
        "name": "Swaida Radio",
+       "active": 0,
        "url": "http://swaida.com:9996/"
       },
       {
        "name": "Voice of the Republic",
+       "active": 0,
        "url": "http://hubble.shoutca.st:8026/stream",
        "tags": [
         "various_eclectic",
@@ -610,6 +684,7 @@
       },
       {
        "name": "Watan FM",
+       "active": 0,
        "url": "http://192.99.170.8:5470/",
        "tags": [
         "news_talk",
@@ -618,6 +693,7 @@
       },
       {
        "name": "راديو الآن",
+       "active": 0,
        "url": "https://streamingcdn.alaan.tv/fm/fm/playlist.m3u8",
        "tags": [
         "world",
@@ -631,521 +707,634 @@
      "stations": [
       {
        "name": "ahmadrideo",
+       "active": 0,
        "url": "https://stream.zeno.fm/ur06hz5q2nhvv",
        "language_inferred": true
       },
       {
        "name": "Al Madina FM",
+       "active": 0,
        "url": "http://stream.almadinafm.com:5656/",
        "language_inferred": true
       },
       {
        "name": "ALAMEER FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/1msb71ube78uv"
       },
       {
        "name": "Alwan FM",
+       "active": 0,
        "url": "https://stream-54.zeno.fm/fhhhcrvxhchvv",
        "language_inferred": true
       },
       {
        "name": "AMC FM",
+       "active": 0,
        "url": "http://s6.voscast.com:9944/",
        "language_inferred": true
       },
       {
        "name": "Amwaj FM",
+       "active": 0,
        "url": "http://radiolive.rtv.gov.sy:1935/RAmwaj/RAmwajLive/playlist.m3u8"
       },
       {
        "name": "Arabesque FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/82ctdxukzk8uv"
       },
       {
        "name": "Arabic music",
+       "active": 0,
        "url": "https://stream.zeno.fm/99hgt2cdrrhvv",
        "language_inferred": true
       },
       {
        "name": "Ariha App",
+       "active": 0,
        "url": "https://stream.zeno.fm/c5qk1v3ydzzuv",
        "language_inferred": true
       },
       {
        "name": "AssyrianMp3 Radio",
+       "active": 0,
        "url": "http://79.142.67.91:9998/stream"
       },
       {
        "name": "AVVIO FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/3k53py8w1nhvv"
       },
       {
        "name": "BASSO RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/v4z8x4vsmchvv",
        "language_inferred": true
       },
       {
        "name": "bisalase",
+       "active": 0,
        "url": "https://stream.zeno.fm/s9oydzkrv2muv",
        "language_inferred": true
       },
       {
        "name": "Damascus Radio",
+       "active": 0,
        "url": "http://vod.ortas.sy:1935/oLive/rdimshq05042022/playlist.m3u8?n=459c018e74177da1b093"
       },
       {
        "name": "DASYR Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/313ew32eprhvv",
        "language_inferred": true
       },
       {
        "name": "Dawet FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/vg1qmu7d0s8uv",
        "language_inferred": true
       },
       {
        "name": "DJ test  Radio anin",
+       "active": 0,
        "url": "https://stream.zeno.fm/npp343ebkuhvv"
       },
       {
        "name": "El rey te mando a llamar",
+       "active": 0,
        "url": "https://stream.zeno.fm/sacezcufbkhvv",
        "language_inferred": true
       },
       {
        "name": "Emaar FM Radio",
+       "active": 0,
        "url": "https://stream-149.zeno.fm/4luag56o066uv?n=0b9086fd7a7f7c8ecef6",
        "rb": "261a7a31-985c-4561-9bc3-fa3b35d3a3ab",
        "logo": "https://www.emaarradio.com/images/logo.png"
       },
       {
        "name": "Emaar Radio – As Suwaydah – As-Suwayda Governorate – SY",
+       "active": 0,
        "url": "http://51.161.117.143/qey9b7xxvhhvv?rj-ttl=5&rj-tok=AAABf0pR5ksAESKgJkpjHbSjpw",
        "language_inferred": true
       },
       {
        "name": "EmaarFM",
+       "active": 0,
        "url": "https://stream.zeno.fm/9nyu15xxvhhvv",
        "language_inferred": true
       },
       {
        "name": "Fann FM - فن إف إم",
+       "active": 0,
        "url": "http://188.247.86.67:8000/2"
       },
       {
        "name": "Farah FM 97.3",
+       "active": 0,
        "url": "http://radio.farah.fm:8015/stream/1",
        "language_inferred": true
       },
       {
        "name": "Friends fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/ug4ww6dwy1zuv",
        "language_inferred": true
       },
       {
        "name": "Hawk Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/muqdyk1wty8uv",
        "language_inferred": true
       },
       {
        "name": "hi4best",
+       "active": 0,
        "url": "https://stream.zeno.fm/9x868ny3bzzuv",
        "language_inferred": true
       },
       {
        "name": "Hiba-Tullah Shakir",
+       "active": 0,
        "url": "https://stream.zeno.fm/rpweq5m7n48uv",
        "language_inferred": true
       },
       {
        "name": "Iw6mp64 Ship 26",
+       "active": 0,
        "url": "https://stream.zeno.fm/wiwsf9synbmtv",
        "language_inferred": true
       },
       {
        "name": "KawahoseinFM",
+       "active": 0,
        "url": "https://stream.zeno.fm/s4y0ds963hhvv",
        "language_inferred": true
       },
       {
        "name": "khatu almashmash",
+       "active": 0,
        "url": "https://stream1.svrdedicado.org:7175/stream",
        "language_inferred": true
       },
       {
        "name": "MAMO_SY",
+       "active": 0,
        "url": "https://stream.zeno.fm/t3v5vg40wc9uv",
        "language_inferred": true
       },
       {
        "name": "Middle East Agape Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/nzymeu58938uv"
       },
       {
        "name": "Nasaem Syria Radio",
+       "active": 0,
        "url": "http://198.178.123.2:10002/",
        "language_inferred": true
       },
       {
        "name": "Nasaem Syria Radio | Breezes Syria",
+       "active": 0,
        "url": "https://stream.zeno.fm/u1wbm3k7gxquv",
        "rb": "d120bfd3-1326-4685-91e8-08e5f410a75e",
        "logo": "https://nasaem.fm/wp-content/uploads/2026/01/Logo-N-26.jpg"
       },
       {
        "name": "Nassif Zeitoun Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/aqxpbzxe0chvv",
        "language_inferred": true
       },
       {
        "name": "NEW LIFE",
+       "active": 0,
        "url": "https://stream.zeno.fm/6acfvk5bqrhvv"
       },
       {
        "name": "Nojoom FM Syria نجوم اف ام سوريا – 103.2 FM – Aleppo – Aleppo Governorate – SY",
+       "active": 0,
        "url": "http://185.105.4.53:4423/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "ONE FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/9ud4v53e8ueuv"
       },
       {
        "name": "ONE FM Classic",
+       "active": 0,
        "url": "https://stream.zeno.fm/95tew83uzrquv"
       },
       {
        "name": "ONE FM DJ",
+       "active": 0,
        "url": "https://stream.zeno.fm/3g3v8tw2708uv",
        "language_inferred": true
       },
       {
        "name": "ONE FM ZAROK",
+       "active": 0,
        "url": "https://stream.zeno.fm/bswfvqh18wquv"
       },
       {
        "name": "ONE FM – 92.8 FM – SY-HA",
+       "active": 0,
        "url": "https://stream.zeno.fm/7qqkktbcxbruv",
        "language_inferred": true
       },
       {
        "name": "R11111",
+       "active": 0,
        "url": "https://stream.zeno.fm/cudnztppxrhvv"
       },
       {
        "name": "Radio 7la",
+       "active": 0,
        "url": "http://7la.grtv.im:8999/",
        "language_inferred": true
       },
       {
        "name": "Radio 7la - راديو حلا",
+       "active": 0,
        "url": "http://7la.grtv.im:8985/"
       },
       {
        "name": "Radio Free Syria - إذاعة سوريا الحرء",
+       "active": 0,
        "url": "http://s10.voscast.com:9816/stream1460364822091/1"
       },
       {
        "name": "Radio Jerusalem",
+       "active": 0,
        "url": "https://stream.zeno.fm/p1yac2pu6k8uv"
       },
       {
        "name": "Radio Masjid Umar",
+       "active": 0,
        "url": "http://live.almuwahhidiin.com:8108/"
       },
       {
        "name": "Radio Nour Elsham",
+       "active": 0,
        "url": "http://radioliveb.rtv.gov.sy:8002/RadioNour"
       },
       {
        "name": "Radio One FM Zarok",
+       "active": 0,
        "url": "https://stream.zenolive.com/rzqd4rh18wquv",
        "language_inferred": true
       },
       {
        "name": "Radio Rewaya",
+       "active": 0,
        "url": "https://stream.zeno.fm/a35v720n3f8uv"
       },
       {
        "name": "Radio Rozana",
+       "active": 0,
        "url": "https://stream.zeno.fm/6vhq8x93pvduv"
       },
       {
        "name": "Radio Sada",
+       "active": 0,
        "url": "http://192.99.8.192:3054/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio Sada",
+       "active": 0,
        "url": "http://radio-sada.com/"
       },
       {
        "name": "Radio Sada (راديو صدى) – Damascus – Damascus Governorate – SY",
+       "active": 0,
        "url": "http://192.99.8.192:3054/stream.mp3/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio Sawt Al-Raqqa",
+       "active": 0,
        "url": "http://s2.voscast.com:11004/stream1560523181469/1"
       },
       {
        "name": "Radio Sedra",
+       "active": 0,
        "url": "https://livessl.rcast.net/stream/67257.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio Sedra – Damascus – Damascus Governorate – SY",
+       "active": 0,
        "url": "https://freeuk30.listen2myradio.com/live.mp3?typeportmount=s2_20882_stream_148700128",
        "language_inferred": true
       },
       {
        "name": "Radio Syriana",
+       "active": 0,
        "url": "https://stream-19.zeno.fm/f0bfdk2w34zuv?zs=UBposLvEQiin60-Fz8eedw",
        "language_inferred": true
       },
       {
        "name": "Radio Zenobia FM",
+       "active": 0,
        "url": "http://radiolive.rtv.gov.sy:1935/RZenobia/RZenobiaLive/playlist.m3u8"
       },
       {
        "name": "radiofm",
+       "active": 0,
        "url": "https://stream.zeno.fm/eyt7n0yzm0hvv",
        "language_inferred": true
       },
       {
        "name": "RadioHawanaFM",
+       "active": 0,
        "url": "https://stream.zeno.fm/bt0rc6s6srhvv",
        "language_inferred": true
       },
       {
        "name": "Ramy Gamals Album Layalina",
+       "active": 0,
        "url": "https://stream.zeno.fm/ytpk4quyve6vv",
        "language_inferred": true
       },
       {
        "name": "Rayan FM",
+       "active": 0,
        "url": "http://www.rayanfm.com:9998/",
        "language_inferred": true
       },
       {
        "name": "Rayan FM (راديو ريان إف إم) – As Suwaydah – As-Suwayda Governorate – SY",
+       "active": 0,
        "url": "https://freeuk28.listen2myradio.com/live.mp3?typeportmount=s1_17532_stream_726858015",
        "language_inferred": true
       },
       {
        "name": "RayanFM",
+       "active": 0,
        "url": "https://stream.zeno.fm/buuzq8d3uhhvv",
        "language_inferred": true
       },
       {
        "name": "Reyma15",
+       "active": 0,
        "url": "https://stream.zeno.fm/q27mhy55u0hvv",
        "language_inferred": true
       },
       {
        "name": "RojavaSher",
+       "active": 0,
        "url": "https://stream.zeno.fm/skdnq6efyy8uv",
        "language_inferred": true
       },
       {
        "name": "Rotana Style FM – روتانا – Damascus – Damascus Governorate – SY",
+       "active": 0,
        "url": "https://www.rotanastyle.com/stream.rotanastyle.com/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Rozana Radio",
+       "active": 0,
        "url": "http://ample-zeno-08.radiojar.com/43ssay93pvduv?rj-ttl=5&amprj-token=AAABZvzaSnoE7w1ZlWsobx72DxySJ53NjuYHT8N5XEab1oVJjbJcJA",
        "language_inferred": true
       },
       {
        "name": "Rozana Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/n4d3nq4258quv"
       },
       {
        "name": "Rozana Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/43ssay93pvduv"
       },
       {
        "name": "Sada FM",
+       "active": 0,
        "url": "http://sc8new.shoutcaststreaming.us:8032/stream.mp3"
       },
       {
        "name": "Sadaljabl FM",
+       "active": 0,
        "url": "http://148.251.92.51:9342/stream?type=http&nocache=10",
        "language_inferred": true
       },
       {
        "name": "Sadaljabl FM radio",
+       "active": 0,
        "url": "http://148.251.92.51:9348/stream?type=http\\u0026nocache=11"
       },
       {
        "name": "Sama Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/7hqhw2s8pxhvv",
        "language_inferred": true
       },
       {
        "name": "Sawt Al-Hayat",
+       "active": 0,
        "url": "https://sawtalhayat-rojavaradio.radioca.st/stream",
        "language_inferred": true
       },
       {
        "name": "Sawt Alshabab FM – Aleppo – Aleppo Governorate – SY",
+       "active": 0,
        "url": "http://radioliveb.rtv.gov.sy:8002/RadioShabab.m3u",
        "language_inferred": true
       },
       {
        "name": "Sham FM",
+       "active": 0,
        "url": "http://5.39.218.151:8400/"
       },
       {
        "name": "Shamuna FM",
+       "active": 0,
        "url": "http://hyades.shoutca.st:8050/stream",
        "language_inferred": true
       },
       {
        "name": "Shamuna FM",
+       "active": 0,
        "url": "http://188.165.237.19:8050",
        "language_inferred": true
       },
       {
        "name": "SM12345",
+       "active": 0,
        "url": "https://stream.zeno.fm/33bhdpds1v8uv",
        "language_inferred": true
       },
       {
        "name": "SouriaLi (سوريالي)",
+       "active": 0,
        "url": "http://s9.voscast.com:7924/stream1460655567844/1"
       },
       {
        "name": "Swaida",
+       "active": 0,
        "url": "http://swaida.com:9996/listen.pls?sid=1?n=73445fb0675b177c1025"
       },
       {
        "name": "Swar Alsham",
+       "active": 0,
        "url": "https://stream.zeno.fm/03yqag7pxrhvv"
       },
       {
        "name": "Syria Sat",
+       "active": 0,
        "url": "http://radioliveb.rtv.gov.sy:8008/Sat?n=ba05d46b31c728bf775b"
       },
       {
        "name": "SyrianRadio",
+       "active": 0,
        "url": "https://stream.zeno.fm/18nyytzwm7zuv"
       },
       {
        "name": "Tartus‎",
+       "active": 0,
        "url": "http://vod.ortas.sy:1935/RTartus/RTartusLive/playlist.m3u8?n=cba7f027bf4f259a7e51"
       },
       {
        "name": "Tevin podcast",
+       "active": 0,
        "url": "https://stream.zeno.fm/men7h4z4uc9uv",
        "language_inferred": true
       },
       {
        "name": "UNLimited World",
+       "active": 0,
        "url": "https://stream.zeno.fm/k5dsngtn1u2vv",
        "language_inferred": true
       },
       {
        "name": "Version FM",
+       "active": 0,
        "url": "http://38.96.175.97:5980/"
       },
       {
        "name": "Vibes24",
+       "active": 0,
        "url": "https://stream.zeno.fm/z4576myyav8uv",
        "language_inferred": true
       },
       {
        "name": "Watan FM Idlib, Hama, Halab",
+       "active": 0,
        "url": "http://192.99.170.8:5470//stream.mp3"
       },
       {
        "name": "WatanFM",
+       "active": 0,
        "url": "https://usa11.fastcast4u.com/proxy/ctpohybz?mp=/1"
       },
       {
        "name": "X Prince",
+       "active": 0,
        "url": "https://stream.zeno.fm/3vn4dcr05hhvv",
        "language_inferred": true
       },
       {
        "name": "XXXTENTCAION-CHANGES",
+       "active": 0,
        "url": "https://stream.zeno.fm/bxyzwcsvvrhvv",
        "language_inferred": true
       },
       {
        "name": "Zenobia",
+       "active": 0,
        "url": "http://vod.ortas.sy:1935/RZenobia/RZenobiaLive/playlist.m3u8?n=78bd1d692e4c097f10bc"
       },
       {
        "name": "ZenobiaFM",
+       "active": 0,
        "url": "https://stream.zeno.fm/8fu53dk8f18uv",
        "language_inferred": true
       },
       {
        "name": "Zinafm",
+       "active": 0,
        "url": "https://stream.zeno.fm/z3pc706cvnhvv",
        "language_inferred": true
       },
       {
        "name": "إذاعة القدس",
+       "active": 0,
        "url": "https://stream.zeno.fm/aerinv1iotntv"
       },
       {
        "name": "ادلب الحرة",
+       "active": 0,
        "url": "https://stream.zeno.fm/krc3u3mssf9uv",
        "language_inferred": true
       },
       {
        "name": "الرئيسية ROZANA",
+       "active": 0,
        "url": "http://ample-zeno-04.radiojar.com/43ssay93pvduv"
       },
       {
        "name": "القرآن والسنة",
+       "active": 0,
        "url": "https://stream.zeno.fm/q6gsnyvqsnhvv"
       },
       {
        "name": "حريم السلطان - Muhteşem Yüzyıl",
+       "active": 0,
        "url": "https://stream.zeno.fm/um2mm20vqnhvv",
        "language_inferred": true
       },
       {
        "name": "راديو الآن",
+       "active": 0,
        "url": "http://alaanfm.radioman.fi:8000/medianode1"
       },
       {
        "name": "راديو فرش Radio Fresh",
+       "active": 0,
        "url": "http://listen1.mixlr.com/288febe4cd50db5971f1de6d85f22b44"
       },
       {
        "name": "راديو فرش Radio Fresh – 90.0 FM – SY-ID",
+       "active": 0,
        "url": "https://listen.mixlr.com/e8a3d31d26e19962c8fa21af2089705b",
        "language_inferred": true
       },
       {
        "name": "راديو ملح",
+       "active": 0,
        "url": "https://stream.zeno.fm/3h5uwem1pnhvv",
        "language_inferred": true
       },
       {
        "name": "راديو نغم",
+       "active": 0,
        "url": "https://stream.zeno.fm/4ect9eyffg8uv"
       },
       {
        "name": "راديو نغم طرب",
+       "active": 0,
        "url": "https://stream.zeno.fm/4nnehdnvpg8uv"
       },
       {
        "name": "راديو نغم فيروز",
+       "active": 0,
        "url": "https://stream.zeno.fm/24ydgrmvpg8uv"
       },
       {
        "name": "فيوز اف ام",
+       "active": 0,
        "url": "http://192.95.23.89:4986/stream",
        "language_inferred": true
       },
       {
        "name": "مديرية الثقافة الحسكة",
+       "active": 0,
        "url": "https://stream.zeno.fm/vhpu16tgwf9uv",
        "language_inferred": true
       }
@@ -1161,6 +1350,7 @@
      "stations": [
       {
        "name": "Mix FM Syria",
+       "active": 0,
        "url": "https://stream.mixfmsyria.net/stream.mp3",
        "tags": [
         "electronic",
@@ -1177,10 +1367,12 @@
      "stations": [
       {
        "name": "Mix FM 105.7",
+       "active": 0,
        "url": "https://stream.mixfmsyria.net/stream/1/"
       },
       {
        "name": "Mix FM 105.7",
+       "active": 0,
        "url": "http://stream.mixfmsyria.net/"
       }
      ]
@@ -1190,14 +1382,17 @@
      "stations": [
       {
        "name": "AssyrianMp3 Radio",
+       "active": 0,
        "url": "http://135.181.78.169:8830/stream"
       },
       {
        "name": "Radio Strike",
+       "active": 0,
        "url": "https://stream.zeno.fm/8kc99sp72hhvv"
       },
       {
        "name": "Sawt Alshabab FM",
+       "active": 0,
        "url": "http://vod.ortas.sy:1935/oLive/rshabab05042022/playlist.m3u8?n=517cf0dd98b2aafa8fb0"
       }
      ]
@@ -1212,18 +1407,22 @@
      "stations": [
       {
        "name": "Arta fm",
+       "active": 0,
        "url": "http://edge.mixlr.com/channel/qtgru?fbclid=IwAR1l9qMBusEENGOwhj4ltKLd"
       },
       {
        "name": "denge cudi",
+       "active": 0,
        "url": "https://denge-cudi.stream.laut.fm/denge-cudi?pl=m3u?n=91038f41f60b6b4b1ea0"
       },
       {
        "name": "Radio ONE FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/wd6m3p6e8ueuv"
       },
       {
        "name": "Rebaz FM",
+       "active": 0,
        "url": "https://rasti.out.airtime.pro/rasti_a?n=2531c7890903de7c0dfb"
       }
      ]
@@ -1238,6 +1437,7 @@
      "stations": [
       {
        "name": "syria sat",
+       "active": 0,
        "url": "http://radioliveb.rtv.gov.sy:8002/Sat",
        "tags": [
         "news_talk",
@@ -1257,6 +1457,7 @@
      "stations": [
       {
        "name": "Asima-Online",
+       "active": 0,
        "url": "https://asima.out.airtime.pro/asima_a",
        "tags": [
         "news_talk",
@@ -1280,6 +1481,7 @@
      "stations": [
       {
        "name": "Syrian Foreign Radio",
+       "active": 0,
        "url": "http://vod.ortas.sy:1935/RCham/RChamLive/playlist.m3u8?n=e1a81c8d1f23abe263a2"
       }
      ]
@@ -1294,6 +1496,7 @@
      "stations": [
       {
        "name": "اوريسوند",
+       "active": 0,
        "url": "https://stream.zeno.fm/ykucrkxxdzzuv"
       }
      ]
@@ -1308,6 +1511,7 @@
      "stations": [
       {
        "name": "Tzgospel swahili",
+       "active": 0,
        "url": "https://stream.zeno.fm/cr6bxe4gffhvv"
       }
      ]

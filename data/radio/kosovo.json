@@ -10,6 +10,7 @@
      "stations": [
       {
        "name": "Radio Alba",
+       "active": 0,
        "url": "http://server.radioalba.eu:8000/",
        "tags": [
         "alternative_indie",
@@ -19,16 +20,19 @@
       },
       {
        "name": "Radio Alba Kline",
+       "active": 0,
        "url": "http://84.22.60.101:8008/stream",
        "language_inferred": true
       },
       {
        "name": "Radio GoraChat Listen live",
+       "active": 0,
        "url": "https://eu10.fastcast4u.com/goranskamuzika",
        "language_inferred": true
       },
       {
        "name": "Urban FM",
+       "active": 0,
        "url": "http://46.19.224.157:8000/&amplang=en&ampcodec=mp3&ampvolume=100&ampintrourl=&ampautoplay=true&amptraking=true&ampjsevents=false&ampbuffering=5&amptitle=Radio%20Urban%20FM%20103.5?1459432422368.mp3",
        "tags": [
         "alternative_indie",
@@ -39,6 +43,7 @@
       },
       {
        "name": "Urban FM 103.5 radio",
+       "active": 0,
        "url": "http://46.19.224.157:8000/\\u0026lang=en\\u0026codec=mp3\\u0026volume=100\\u0026introurl=\\u0026autoplay=true\\u0026traking=true\\u0026jsevents=false\\u0026buffering=5\\u0026title=Radio%20Urban%20FM%20103.5?1459432422368.mp3",
        "tags": [
         "alternative_indie",
@@ -54,6 +59,7 @@
      "stations": [
       {
        "name": "Ditajem Kidz",
+       "active": 0,
        "url": "http://87.117.201.167:8010",
        "language_inferred": true
       }
@@ -64,6 +70,7 @@
      "stations": [
       {
        "name": "RADIO MARIA KOSOVO",
+       "active": 0,
        "url": "http://dreamsiteradiocp2.com:8124/stream",
        "tags": [
         "christian_gospel",
@@ -79,11 +86,13 @@
      "stations": [
       {
        "name": "Radio Opus Classical radio",
+       "active": 0,
        "url": "http://rsra.net:8020/rohd.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio Opus HD",
+       "active": 0,
        "url": "https://retrosonic.pp.ua:8020/ro.mp3",
        "tags": [
         "classical",
@@ -98,6 +107,7 @@
      "stations": [
       {
        "name": "MyLove Radio",
+       "active": 0,
        "url": "http://174.123.174.52:8500",
        "language_inferred": true
       }
@@ -108,11 +118,13 @@
      "stations": [
       {
        "name": "Kronika Shqip",
+       "active": 0,
        "url": "http://feedproxy.google.com/~r/albanian/~5/OKGUMX3hrr8/albanian_120911_232249.mp3?type=.mp3",
        "language_inferred": true
       },
       {
        "name": "MyClubbing Radio",
+       "active": 0,
        "url": "http://65.60.19.42:8300",
        "tags": [
         "electronic",
@@ -123,6 +135,7 @@
       },
       {
        "name": "Radio Club FM Kosove Listen live",
+       "active": 0,
        "url": "https://cp1.sednastream.com/proxy/clubfmkosova?mp=/server",
        "tags": [
         "oldies",
@@ -132,6 +145,7 @@
       },
       {
        "name": "Radio Fontana",
+       "active": 0,
        "url": "http://46.4.104.253:8010/",
        "tags": [
         "various_eclectic",
@@ -143,6 +157,7 @@
       },
       {
        "name": "Radio Kosova e Lirë",
+       "active": 0,
        "url": "http://quasar.shoutca.st:8018/stream",
        "tags": [
         "pop_hits",
@@ -153,6 +168,7 @@
       },
       {
        "name": "Sa Vama K4",
+       "active": 0,
        "url": "http://80.80.160.232:8080/stream.mp3",
        "language_inferred": true
       }
@@ -163,6 +179,7 @@
      "stations": [
       {
        "name": "Kronika Shqip",
+       "active": 0,
        "url": "http://feedproxy.google.com/~r/albanian/~5/OKGUMX3hrr8/albanian_120911_232249.mp3/stream.mp3",
        "tags": [
         "folk",
@@ -172,16 +189,19 @@
       },
       {
        "name": "MyBallkans Radio",
+       "active": 0,
        "url": "http://65.60.32.246:8020",
        "language_inferred": true
       },
       {
        "name": "Radio Alba Folk",
+       "active": 0,
        "url": "http://server.radioalba.eu:8000/folk",
        "language_inferred": true
       },
       {
        "name": "Radio Dita Jem",
+       "active": 0,
        "url": "http://87.117.201.167:8120",
        "tags": [
         "folk",
@@ -191,6 +211,7 @@
       },
       {
        "name": "Radio Ilirida",
+       "active": 0,
        "url": "http://eu1.reliastream.com:7172/stream.mp3",
        "tags": [
         "various_eclectic",
@@ -200,15 +221,18 @@
       },
       {
        "name": "Radio Ilirida radio",
+       "active": 0,
        "url": "http://eu1.reliastream.com:7041/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio Kosova e Lirë",
+       "active": 0,
        "url": "http://188.165.192.5:8018/"
       },
       {
        "name": "Radio Muzika",
+       "active": 0,
        "url": "https://cast3.asurahosting.com/proxy/mrika/stream",
        "tags": [
         "folk",
@@ -219,6 +243,7 @@
       },
       {
        "name": "Radio Rinia 98.4 FM radio",
+       "active": 0,
        "url": "http://radio.1dhe1.com:9200/stream.nsv",
        "tags": [
         "folk",
@@ -227,16 +252,19 @@
       },
       {
        "name": "Radio Viciana",
+       "active": 0,
        "url": "https://www.liveradio.es/http://radioviciana.org:8030/?.mp3",
        "language_inferred": true
       },
       {
        "name": "Restelica Radio",
+       "active": 0,
        "url": "https://evcast01.mediacp.eu/nekagarabota?1637146841561",
        "language_inferred": true
       },
       {
        "name": "Элит",
+       "active": 0,
        "url": "https://freeuk1.listen2myradio.com/live.mp3?typeportmount=s1_4344_stream_989704435",
        "language_inferred": true
       }
@@ -247,6 +275,7 @@
      "stations": [
       {
        "name": "Radio Basi – Hits Only",
+       "active": 0,
        "url": "https://stream.zeno.fm/40u8n7a8ma0uv",
        "tags": [
         "hip_hop_rap",
@@ -258,6 +287,7 @@
       },
       {
        "name": "Radio Skenderaj",
+       "active": 0,
        "url": "https://a1.asurahosting.com:9110/stream",
        "tags": [
         "folk",
@@ -267,6 +297,7 @@
       },
       {
        "name": "RetroSonic Mix radio",
+       "active": 0,
        "url": "https://retrosonic.online:8000/mix.mp3",
        "tags": [
         "hip_hop_rap",
@@ -291,6 +322,7 @@
      "stations": [
       {
        "name": "Radio – KBI Prizren",
+       "active": 0,
        "url": "http://94.100.56.56:8000/",
        "language_inferred": true
       }
@@ -301,6 +333,7 @@
      "stations": [
       {
        "name": "Radio Maria Kosovo",
+       "active": 0,
        "url": "http://dreamsiteradiocp.com:8110/stream/",
        "language_inferred": true
       }
@@ -311,6 +344,7 @@
      "stations": [
       {
        "name": "92.1 Capital FM",
+       "active": 0,
        "url": "https://cfm.albaservers.com:8012/live.m4a",
        "tags": [
         "news_talk",
@@ -320,6 +354,7 @@
       },
       {
        "name": "92.1 Capital FM",
+       "active": 0,
        "url": "http://cfm.albaservers.com:8010/live",
        "tags": [
         "news_talk",
@@ -328,11 +363,13 @@
       },
       {
        "name": "Kosovos Independence",
+       "active": 0,
        "url": "https://richmedia.lse.ac.uk/publicLecturesAndEvents/20090218_1830_kosovosIndependenceOneYearOn.mp3?type=.mp3/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio 24 DARDANË",
+       "active": 0,
        "url": "http://46.4.104.253:9984/stream.mp3",
        "tags": [
         "news_talk",
@@ -341,6 +378,7 @@
       },
       {
        "name": "Radio Fontana",
+       "active": 0,
        "url": "https://live.radiostreaming.al:8010/stream.mp3",
        "tags": [
         "news_talk",
@@ -352,6 +390,7 @@
       },
       {
        "name": "Radio Fontana",
+       "active": 0,
        "url": "https://live.radiostreaming.al:8010/",
        "tags": [
         "various_eclectic",
@@ -362,6 +401,7 @@
       },
       {
        "name": "Radio Fontana 988 FM",
+       "active": 0,
        "url": "http://46.4.104.253:8010/stream.mp3",
        "tags": [
         "pop_hits",
@@ -370,6 +410,7 @@
       },
       {
        "name": "Radio Kfor",
+       "active": 0,
        "url": "http://fm.radiokfor.com:8080/stream.mp3",
        "tags": [
         "pop_hits",
@@ -379,6 +420,7 @@
       },
       {
        "name": "Radio Kontakt Plus",
+       "active": 0,
        "url": "http://s7.voscast.com:7118",
        "tags": [
         "news_talk",
@@ -388,6 +430,7 @@
       },
       {
        "name": "Radio Kontakt Plus radio",
+       "active": 0,
        "url": "https://radio.dukahosting.com:7005/*.mp3",
        "tags": [
         "news_talk",
@@ -400,11 +443,13 @@
       },
       {
        "name": "Radio Kosova",
+       "active": 0,
        "url": "https://www.liveradio.es/http://82.114.72.2:8088/stream/1",
        "language_inferred": true
       },
       {
        "name": "Radio Kosova e lirë",
+       "active": 0,
        "url": "https://radiokos.radioca.st/",
        "tags": [
         "news_talk",
@@ -414,6 +459,7 @@
       },
       {
        "name": "Radio Kosovo 1",
+       "active": 0,
        "url": "http://82.114.72.2:8088",
        "tags": [
         "news_talk",
@@ -427,6 +473,7 @@
       },
       {
        "name": "Radio Maria 107.4 FM radio",
+       "active": 0,
        "url": "https://dreamsiteradiocp2.com/proxy/rmkosovo2?mp=/stream?ver=858628",
        "tags": [
         "christian_gospel",
@@ -436,6 +483,7 @@
       },
       {
        "name": "Radio Peja radio",
+       "active": 0,
        "url": "http://ns5.albaservers.com:8020/?1516996701669.mp3",
        "tags": [
         "news_talk",
@@ -446,6 +494,7 @@
       },
       {
        "name": "Radio Sharri",
+       "active": 0,
        "url": "http://radio-sharri.info:8020/",
        "tags": [
         "news_talk",
@@ -454,6 +503,7 @@
       },
       {
        "name": "Radio Vicianum",
+       "active": 0,
        "url": "https://s3.free-shoutcast.com/stream/18218",
        "tags": [
         "news_talk",
@@ -463,6 +513,7 @@
       },
       {
        "name": "Radio Vizioni",
+       "active": 0,
        "url": "http://live.rcast.net:8570/stream.mp3",
        "tags": [
         "news_talk",
@@ -472,6 +523,7 @@
       },
       {
        "name": "Radio Zeri i Shtimes",
+       "active": 0,
        "url": "http://radio.1dhe1.com:8090/stream",
        "tags": [
         "news_talk",
@@ -482,11 +534,13 @@
       },
       {
        "name": "Radio Zeri i Shtimes",
+       "active": 0,
        "url": "http://173.249.39.193:8090/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio Zëri",
+       "active": 0,
        "url": "https://radiozeri.radioca.st/stream",
        "tags": [
         "news_talk",
@@ -495,6 +549,7 @@
       },
       {
        "name": "Radio Zëri radio",
+       "active": 0,
        "url": "https://mars.streamerr.co/8278/stream",
        "tags": [
         "news_talk",
@@ -503,6 +558,7 @@
       },
       {
        "name": "Radio10 (100.0 FM) radio",
+       "active": 0,
        "url": "http://s1.voscast.com:11708/stream",
        "tags": [
         "news_talk",
@@ -512,6 +568,7 @@
       },
       {
        "name": "RadioGora Dragaš radio",
+       "active": 0,
        "url": "http://uzivo.radiogora.org:8117/stream",
        "tags": [
         "news_talk",
@@ -522,6 +579,7 @@
       },
       {
        "name": "RTK Radio Blue Sky - Priština",
+       "active": 0,
        "url": "http://82.114.72.2:8098/stream/1",
        "tags": [
         "news_talk",
@@ -531,6 +589,7 @@
       },
       {
        "name": "Studio Rejan",
+       "active": 0,
        "url": "http://streaming.jusahost.com:9988/stream.mp3",
        "tags": [
         "news_talk",
@@ -542,6 +601,7 @@
       },
       {
        "name": "UBT Radio",
+       "active": 0,
        "url": "https://radiostream.ubt-uni.net/live",
        "tags": [
         "news_talk",
@@ -556,6 +616,7 @@
      "stations": [
       {
        "name": "Radio Basi – Urban Vibe",
+       "active": 0,
        "url": "http://stream.zenolive.com/cygx0fcb27zuv",
        "tags": [
         "oldies",
@@ -572,47 +633,56 @@
      "stations": [
       {
        "name": "Gjakova Music Hits",
+       "active": 0,
        "url": "http://37.26.69.30:8025/",
        "language_inferred": true
       },
       {
        "name": "GlamRADIO",
+       "active": 0,
        "url": "https://stream.glamradio.fm:8443/glamradio",
        "rb": "b7f2d67d-36b8-4fac-ae4e-5e0bf71b0e87",
        "logo": "https://glamradio.fm/images/Cafe_1637571735_1637577445.png"
       },
       {
        "name": "Kent FM 95",
+       "active": 0,
        "url": "http://130.185.109.35:8000/",
        "language_inferred": true
       },
       {
        "name": "Kiss Radio KM",
+       "active": 0,
        "url": "http://213.246.53.21:9515",
        "language_inferred": true
       },
       {
        "name": "Radio Aktiv 99.4",
+       "active": 0,
        "url": "http://de1.internet-radio.com:8353/live",
        "language_inferred": true
       },
       {
        "name": "Radio Aroni Live",
+       "active": 0,
        "url": "http://5.133.182.164:6539/",
        "language_inferred": true
       },
       {
        "name": "Radio Burimi radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/vzp9uf0u3ehvv",
        "language_inferred": true
       },
       {
        "name": "Radio K4 90,2 FM - Priština",
+       "active": 0,
        "url": "https://www.liveradio.es/http://fm.radiokfor.com:8080/stream/1",
        "language_inferred": true
       },
       {
        "name": "Radio K4 Shqip",
+       "active": 0,
        "url": "http://fm.radiokfor.com:8080",
        "tags": [
         "pop_hits",
@@ -622,31 +692,37 @@
       },
       {
        "name": "Radio Metro 88",
+       "active": 0,
        "url": "http://37.26.69.30:9050",
        "language_inferred": true
       },
       {
        "name": "Radio Omega 3 Prizren",
+       "active": 0,
        "url": "http://109.169.37.137:13248/stream.nsv",
        "language_inferred": true
       },
       {
        "name": "Radio Omega 3 Prizren",
+       "active": 0,
        "url": "http://109.73.65.69:5930/",
        "language_inferred": true
       },
       {
        "name": "Radio Omega 3 Prizren radio",
+       "active": 0,
        "url": "http://95.154.221.138:27352/stream.nsv",
        "language_inferred": true
       },
       {
        "name": "Radio Plus 102.2 FM",
+       "active": 0,
        "url": "http://82.114.72.178:8000/listen.pls?sid=1",
        "language_inferred": true
       },
       {
        "name": "Radio Vala Rinore",
+       "active": 0,
        "url": "http://ca3.rcast.net:8024/",
        "tags": [
         "pop_hits",
@@ -656,26 +732,31 @@
       },
       {
        "name": "Radio Zeri Mitrovices",
+       "active": 0,
        "url": "http://s6.voscast.com:8824/stream/1/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio Zeri Mitrovices radio",
+       "active": 0,
        "url": "http://199.195.194.140:8021/stream",
        "language_inferred": true
       },
       {
        "name": "Radio10",
+       "active": 0,
        "url": "https://s1.voscast.com:11709/stream",
        "language_inferred": true
       },
       {
        "name": "Shqipet Al Radio",
+       "active": 0,
        "url": "http://cs.shqipet.al:8000/mpd",
        "language_inferred": true
       },
       {
        "name": "Top Drenica Radio",
+       "active": 0,
        "url": "http://87.238.210.125:8080/",
        "language_inferred": true
       }
@@ -686,6 +767,7 @@
      "stations": [
       {
        "name": "Club FM Kosove",
+       "active": 0,
        "url": "https://cp1.sednastream.com/proxy/clubfmkosova?mp=/stream",
        "tags": [
         "pop_hits",
@@ -696,6 +778,7 @@
       },
       {
        "name": "Club FM Kosovë",
+       "active": 0,
        "url": "http://cp1.sednastream.com:8022/stream/",
        "tags": [
         "rock",
@@ -707,6 +790,7 @@
       },
       {
        "name": "MyDay Radio",
+       "active": 0,
        "url": "http://87.117.201.166:8000",
        "tags": [
         "pop_hits",
@@ -718,6 +802,7 @@
       },
       {
        "name": "Radio Dukagini",
+       "active": 0,
        "url": "http://s6.voscast.com:8824/stream.mp3",
        "tags": [
         "rock",
@@ -729,6 +814,7 @@
       },
       {
        "name": "Radio Ilirida",
+       "active": 0,
        "url": "http://89.163.227.241:8053/stream",
        "tags": [
         "rock",
@@ -738,6 +824,7 @@
       },
       {
        "name": "Radio Plus 102.2 FM",
+       "active": 0,
        "url": "http://82.114.72.178:8000/stream.nsv",
        "tags": [
         "rock",
@@ -750,6 +837,7 @@
       },
       {
        "name": "Radio Vicianum",
+       "active": 0,
        "url": "http://vicianumlive.cf:8055/",
        "tags": [
         "rock",
@@ -764,6 +852,7 @@
      "stations": [
       {
        "name": "Radio Basi",
+       "active": 0,
        "url": "http://stream.zenolive.com/2wpb7e2mp7zuv",
        "tags": [
         "soul_rnb_funk",
@@ -774,6 +863,7 @@
       },
       {
        "name": "Radio Maria Listen live",
+       "active": 0,
        "url": "https://dreamsiteradiocp2.com/proxy/rmkosovo2?mp=/server",
        "tags": [
         "soul_rnb_funk",
@@ -784,6 +874,7 @@
       },
       {
        "name": "Radio Vala Rinore - Priština",
+       "active": 0,
        "url": "https://www.liveradio.es/http://ca3.rcast.net:8024/stream",
        "tags": [
         "soul_rnb_funk",
@@ -798,6 +889,7 @@
      "stations": [
       {
        "name": "Ivy Radio",
+       "active": 0,
        "url": "https://s2.free-shoutcast.com/stream/18096",
        "tags": [
         "techno",
@@ -809,6 +901,7 @@
       },
       {
        "name": "Radio Ilirida",
+       "active": 0,
        "url": "http://eu1.reliastream.com:7172/stream",
        "language_inferred": true
       }
@@ -819,11 +912,13 @@
      "stations": [
       {
        "name": "Radio Knaqu",
+       "active": 0,
        "url": "http://78.129.163.75:30781/",
        "language_inferred": true
       },
       {
        "name": "Top Iliria Radio",
+       "active": 0,
        "url": "http://ourteam.nyc.:9304/stream.mp3",
        "language_inferred": true
       }
@@ -834,321 +929,385 @@
      "stations": [
       {
        "name": "Ditajem Amin",
+       "active": 0,
        "url": "http://87.117.201.167:8120/stream.nsv",
        "language_inferred": true
       },
       {
        "name": "Glam Radio – Coffee – Pristina – Kosovo",
+       "active": 0,
        "url": "https://stream.glamradio.fm:8443/glamcoffee",
        "language_inferred": true
       },
       {
        "name": "Glam Radio – One – Pristina – Kosovo",
+       "active": 0,
        "url": "http://glam.itprishtina.com:8000/rockglam.ogg.m3u",
        "language_inferred": true
       },
       {
        "name": "KLAN Kosova FM",
+       "active": 0,
        "url": "http://s4.radio.co/sd1d1904dc/listen.m3u",
        "language_inferred": true,
        "rb": "130200f8-56f8-487b-bcf1-bac2f72e7709"
       },
       {
        "name": "My90s Radio",
+       "active": 0,
        "url": "http://87.117.201.167:8200",
        "language_inferred": true
       },
       {
        "name": "Myday Radio",
+       "active": 0,
        "url": "http://87.117.201.166:8000/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Paper Radio 91.1 FM",
+       "active": 0,
        "url": "http://paper2020.radioca.st:8150/stream/",
        "language_inferred": true
       },
       {
        "name": "Paper Radio – 91.1 FM – Pristina – Kosovo",
+       "active": 0,
        "url": "https://paper2020.radioca.st/stream",
        "language_inferred": true
       },
       {
        "name": "Paris Story Caffe",
+       "active": 0,
        "url": "https://node-12.zeno.fm/gdgcshfbgwzuv.aac",
        "language_inferred": true
       },
       {
        "name": "Positive Radios EX YU",
+       "active": 0,
        "url": "http://exyu.positivegoldfm.net:4000/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio 1 (98.0 FM) radio",
+       "active": 0,
        "url": "https://ec3.yesstreaming.net:2285/stream",
        "language_inferred": true
       },
       {
        "name": "Radio 1 – 98.0 FM – Pristina – Kosovo",
+       "active": 0,
        "url": "https://www.njeshi.com/station/radio-1-live/?play=1",
        "language_inferred": true
       },
       {
        "name": "Radio 24 – 94 FM – Pristina – Kosovo",
+       "active": 0,
        "url": "http://streaming.jusahost.com:9984/",
        "language_inferred": true
       },
       {
        "name": "Radio AAB",
+       "active": 0,
        "url": "http://radio.aab-edu.net:8000/live.ogg",
        "language_inferred": true
       },
       {
        "name": "Radio Alba – Pristina – Kosovo",
+       "active": 0,
        "url": "http://www.live1.radioalba.eu/",
        "language_inferred": true
       },
       {
        "name": "Radio Besa",
+       "active": 0,
        "url": "http://streaming.jusahost.com:8800/",
        "language_inferred": true
       },
       {
        "name": "Radio BESA – Pristina – Kosovo",
+       "active": 0,
        "url": "http://streaming.jusahost.com:8800/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio Deshmia",
+       "active": 0,
        "url": "http://37.139.29.118:8000/stream",
        "language_inferred": true
       },
       {
        "name": "Radio Dukagjini",
+       "active": 0,
        "url": "http://s6.voscast.com:8824/listen.pls",
        "language_inferred": true
       },
       {
        "name": "Radio Fush Kosova",
+       "active": 0,
        "url": "http://109.236.85.141:7059/",
        "language_inferred": true
       },
       {
        "name": "Radio Helix 104.4",
+       "active": 0,
        "url": "https://radyo1.radyo-dinle.tc:8070/stream",
        "language_inferred": true
       },
       {
        "name": "Radio Impuls leposavic – 100.3 FM – Leposaviq – Mitrovica – Kosovo",
+       "active": 0,
        "url": "http://www.adriastream.net/cast/tunein.php/impulsradio/playlist.pls",
        "language_inferred": true
       },
       {
        "name": "Radio Kalabria",
+       "active": 0,
        "url": "http://46.4.104.238:9992/",
        "language_inferred": true
       },
       {
        "name": "Radio Kalabria",
+       "active": 0,
        "url": "https://46.4.104.238:9992/audio.mp3?hash=1589602149736",
        "language_inferred": true
       },
       {
        "name": "Radio Kfor – Pristina – Kosovo",
+       "active": 0,
        "url": "http://fm.radiokfor.com:8090/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio Kosova 7",
+       "active": 0,
        "url": "http://93.190.141.15:7032/live?type=.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio Kosova E Lire",
+       "active": 0,
        "url": "http://quasar.shoutca.st:8018/",
        "rb": "86d841af-e9d9-4917-9986-cae25a516087",
        "logo": "https://www.radiokosovaelire.com/wp-content/uploads/RKL_UCK-e1469806643318.jpg"
       },
       {
        "name": "Radio Kosova e Lirë 94,2 FM - Priština",
+       "active": 0,
        "url": "https://www.liveradio.es/http://radiokos.radioca.st:8018/stream",
        "language_inferred": true
       },
       {
        "name": "Radio Kosovarja",
+       "active": 0,
        "url": "http://184.168.106.59:8000/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio Maria Kosovo",
+       "active": 0,
        "url": "http://dreamsiteradiocp2.com:8124/",
        "language_inferred": true
       },
       {
        "name": "Radio Maria Kosovo – Prizren – Kosovo",
+       "active": 0,
        "url": "http://dreamsiteradiocp.com:8110/",
        "language_inferred": true
       },
       {
        "name": "Radio Pendimi Kanali 2 – Pristina – Kosovo",
+       "active": 0,
        "url": "http://rtvpendimi.com:8020/&type=mp3",
        "language_inferred": true
       },
       {
        "name": "Radio Perparimi",
+       "active": 0,
        "url": "http://78.129.163.75:30781/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio Rainca",
+       "active": 0,
        "url": "http://radiorainca.net:9000/stream",
        "language_inferred": true
       },
       {
        "name": "Radio Sapniqi",
+       "active": 0,
        "url": "http://muzikajuaj.de:3030",
        "language_inferred": true
       },
       {
        "name": "Radio Sapniqi",
+       "active": 0,
        "url": "http://muzikajuaj.de:3030/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio SHARRI radio",
+       "active": 0,
        "url": "http://live.radio-sharri.info:8020/stream.mp3"
       },
       {
        "name": "Radio Shqip Folklor",
+       "active": 0,
        "url": "http://radio-zemra.eu:8010/folklor",
        "language_inferred": true
       },
       {
        "name": "Radio Star 96.4 FM – 96.4 FM – Gjilan – Kosovo",
+       "active": 0,
        "url": "https://radio.1dhe1.com:2020/stream/radiostar",
        "language_inferred": true
       },
       {
        "name": "Radio Svirca",
+       "active": 0,
        "url": "http://stm2.ifantasy.com.br:7140/",
        "language_inferred": true
       },
       {
        "name": "Radio Televizioni Iliria",
+       "active": 0,
        "url": "http://62.141.37.7:7002",
        "language_inferred": true
       },
       {
        "name": "Radio UrbanFM – Pristina – Kosovo",
+       "active": 0,
        "url": "http://live.rcast.net:8696/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio Vicianum",
+       "active": 0,
        "url": "http://85.214.122.123:8055/",
        "language_inferred": true
       },
       {
        "name": "Radio Vicianum – 105.7 FM – Pristina – Kosovo",
+       "active": 0,
        "url": "http://69.4.225.73:8470/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio Vitez – 104.9 FM – Vitina – Gjilan – Kosovo",
+       "active": 0,
        "url": "http://vitezradio.listen2myradio.com/media/playradio1457551.asx",
        "language_inferred": true
       },
       {
        "name": "Radio Zeri I Illrides – Prizren – Kosovo",
+       "active": 0,
        "url": "http://89.163.227.241:8053/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio Zëri i Shtimes",
+       "active": 0,
        "url": "http://radio.1dhe1.com:8090/listen.pls",
        "language_inferred": true,
        "rb": "5ee3d745-db38-4f32-98a6-c08e41c2733f"
       },
       {
        "name": "RadioEuropa",
+       "active": 0,
        "url": "http://87.117.208.118:34104/",
        "language_inferred": true
       },
       {
        "name": "Rock Fans Kosova",
+       "active": 0,
        "url": "https://node-13.zeno.fm/1hx2cm5gzchvv",
        "language_inferred": true
       },
       {
        "name": "Rockerat e Gilanit & Frends",
+       "active": 0,
        "url": "https://node-33.zeno.fm/mp9p7amqhy8uv",
        "language_inferred": true
       },
       {
        "name": "RTK Radio Kosova 1",
+       "active": 0,
        "url": "http://82.114.72.2:8088/.mp3"
       },
       {
        "name": "RTK Radio Kosova 2",
+       "active": 0,
        "url": "http://82.114.72.2:8098/stream.mp3"
       },
       {
        "name": "RTK TV-1",
+       "active": 0,
        "url": "http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "RTK TV-2",
+       "active": 0,
        "url": "http://stream1.rtkit.com:1935/rtk2stream/rtk2.stream/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "RTK TV-3",
+       "active": 0,
        "url": "http://stream1.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "RTK TV-4",
+       "active": 0,
        "url": "http://stream1.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "RTK1 – Radio Kosova – Pristina – Kosovo",
+       "active": 0,
        "url": "http://82.114.72.2:8088/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Rtv Vranjevci",
+       "active": 0,
        "url": "https://node-14.zeno.fm/z5te4cmwp68uv",
        "language_inferred": true
       },
       {
        "name": "RTV21 – Pristina – Kosovo",
+       "active": 0,
        "url": "https://cdn.mediavisionuae.com:1935/live/radio21.stream/index.m3u8",
        "language_inferred": true
       },
       {
        "name": "Tillt Radio",
+       "active": 0,
        "url": "https://tillt-geckohost.radioca.st/stream?fbclid=IwAR3FH9Ze8tS_PrXkUH4TsrASgCKzvQLTOM2ViMcEv0zCfS0b0sbUCkP519U",
        "language_inferred": true
       },
       {
        "name": "TILLT RADIO",
+       "active": 0,
        "url": "https://tillt-geckohost.radioca.st/stream?fbclid=IwAR3FH9Ze8tS_PrXkUH4TsrASgCKzvQLTOM2ViMcEv0zCfS0b0",
        "language_inferred": true
       },
       {
        "name": "Top Drenica Radio",
+       "active": 0,
        "url": "https://onlineradiobox.com/json/xk/topdrenica/play?platform=web",
        "language_inferred": true
       },
       {
        "name": "Top Radio 103.3 FM",
+       "active": 0,
        "url": "http://1.topradiolive.com:8000/livetop",
        "language_inferred": true
       },
       {
        "name": "Turk Radyo",
+       "active": 0,
        "url": "http://listen.radyoturk.de:4444/radyoturk?type=.mp3",
        "language_inferred": true
       }
@@ -1164,10 +1323,12 @@
      "stations": [
       {
        "name": "Radio Maria Kosovë",
+       "active": 0,
        "url": "https://dreamsiteradiocp2.com/proxy/rmkosovo2?mp=/stream"
       },
       {
        "name": "Studio Rejan",
+       "active": 0,
        "url": "http://streaming.jusahost.com:9988/",
        "tags": [
         "christian_gospel",
@@ -1181,6 +1342,7 @@
      "stations": [
       {
        "name": "Radio Plus 102.2 FM radio",
+       "active": 0,
        "url": "https://cast2.my-control-panel.com/proxy/radiopl1/stream",
        "tags": [
         "pop_hits",
@@ -1201,6 +1363,7 @@
      "stations": [
       {
        "name": "R Kosova 2",
+       "active": 0,
        "url": "http://82.114.72.2:8098",
        "tags": [
         "pop_hits",
@@ -1212,6 +1375,7 @@
       },
       {
        "name": "Radio Alba",
+       "active": 0,
        "url": "http://server.radioalba.eu:8000/stream?type=http&ampautoplay=yes",
        "tags": [
         "news_talk",
@@ -1220,6 +1384,7 @@
       },
       {
        "name": "Radio Gora Dragaš",
+       "active": 0,
        "url": "http://uzivo.radiogora.org:8117/",
        "tags": [
         "news_talk",
@@ -1228,6 +1393,7 @@
       },
       {
        "name": "Radio K4 Srpski",
+       "active": 0,
        "url": "http://fm.radiokfor.com:8090/",
        "tags": [
         "news_talk",
@@ -1236,6 +1402,7 @@
       },
       {
        "name": "Radio Peja",
+       "active": 0,
        "url": "http://radio.1dhe1.com:8555/stream.mp3",
        "tags": [
         "news_talk",
@@ -1244,6 +1411,7 @@
       },
       {
        "name": "Radio Vizioni",
+       "active": 0,
        "url": "http://live.rcast.net:8864/stream.mp3",
        "tags": [
         "news_talk",
@@ -1258,6 +1426,7 @@
      "stations": [
       {
        "name": "Radio Alba Folk",
+       "active": 0,
        "url": "http://server.radioalba.eu:8000/folk?type=http&ampautoplay=yes"
       }
      ]
@@ -1272,6 +1441,7 @@
      "stations": [
       {
        "name": "Radio Alba (Gornja Klina)",
+       "active": 0,
        "url": "http://server.radioalba.eu:8000/stream",
        "tags": [
         "alternative_indie",
@@ -1285,6 +1455,7 @@
      "stations": [
       {
        "name": "Radio Prishtina",
+       "active": 0,
        "url": "https://stream.radio.co/sbe73908d2/listen",
        "tags": [
         "pop_hits",
@@ -1303,6 +1474,7 @@
      "stations": [
       {
        "name": "RetroSonic Hits Listen live",
+       "active": 0,
        "url": "https://retrosonic.pp.ua/radio/8000/mix.mp3",
        "tags": [
         "rock",
@@ -1317,6 +1489,7 @@
       },
       {
        "name": "Rock Fans Kosova",
+       "active": 0,
        "url": "https://stream.zeno.fm/ybwz7k5gzchvv",
        "tags": [
         "rock",
@@ -1331,10 +1504,12 @@
      "stations": [
       {
        "name": "Radio 7 Kosova",
+       "active": 0,
        "url": "http://cp1.sednastream.com:8028/live"
       },
       {
        "name": "Urban FM",
+       "active": 0,
        "url": "http://46.19.224.157:8000/"
       }
      ]
@@ -1349,6 +1524,7 @@
      "stations": [
       {
        "name": "Kent FM Kosovo",
+       "active": 0,
        "url": "https://kentfmkosova.radyotvonline.net/stream/1/"
       }
      ]

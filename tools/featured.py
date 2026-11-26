@@ -33,7 +33,7 @@ def _dump(obj, path):
         json.dump(obj, f, ensure_ascii=False, indent=1)
 
 
-def apply(out):
+def apply(out, active_counts=None):
     index_path = os.path.join(out, "index.json")
     with open(index_path, encoding="utf-8") as f:
         index = json.load(f)
@@ -72,7 +72,8 @@ def apply(out):
         for rank, (url, name, attrs) in enumerate(picks, 1):
             name = name or url
             genre = attrs.get("pine-genre") or old_genre.get(norm_url(url)) or "unclassified"
-            rec = {**old_records.get(norm_url(url), {}), "name": name, "url": url}
+            rec = {**old_records.get(norm_url(url), {}), "name": name,
+                   "active": (active_counts or {}).get(url, old_records.get(norm_url(url), {}).get("active", 0)), "url": url}
             if attrs.get("tvg-logo"):
                 rec["logo"] = attrs["tvg-logo"]
             rec["featured"] = rank

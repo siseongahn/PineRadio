@@ -10,20 +10,24 @@
      "stations": [
       {
        "name": "Joy Gospel Radio FM",
+       "active": 0,
        "url": "http://audio.sjamz.com:8262/"
       },
       {
        "name": "Joy Gospel Radio FM",
+       "active": 0,
        "url": "https://stream.zenolive.com/a631ca3mb",
        "language_inferred": true
       },
       {
        "name": "Joy Gospel Radio FM/ZJoy VI",
+       "active": 0,
        "url": "https://aud1.sjamz.com/8262/stream",
        "language_inferred": true
       },
       {
        "name": "Tola Radio Vi",
+       "active": 0,
        "url": "http://sc2.spacialnet.com:34792/",
        "tags": [
         "christian_gospel",
@@ -37,6 +41,7 @@
       },
       {
        "name": "ZKING Radio",
+       "active": 0,
        "url": "https://s5.voscast.com:8459/live"
       }
      ]
@@ -46,6 +51,7 @@
      "stations": [
       {
        "name": "Radio Papilove 919 FM",
+       "active": 0,
        "url": "http://server7.servistreaming.com:10020/stream?type=.mp3",
        "language_inferred": true
       }
@@ -56,6 +62,7 @@
      "stations": [
       {
        "name": "The Signal 284 Radio",
+       "active": 0,
        "url": "https://s1.voscast.com:11655/stream",
        "tags": [
         "electronic",
@@ -74,6 +81,7 @@
      "stations": [
       {
        "name": "CBN-Radio 92.3FM",
+       "active": 0,
        "url": "http://195.154.133.107:8189/xstream",
        "tags": [
         "news_talk",
@@ -82,6 +90,7 @@
       },
       {
        "name": "Soggy Dollar Radio",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM06AAC287_SC",
        "tags": [
         "pop_hits",
@@ -96,6 +105,7 @@
       },
       {
        "name": "ZBVI",
+       "active": 0,
        "url": "https://streams.radio.co/s39d621120/listen",
        "tags": [
         "news_talk",
@@ -113,6 +123,7 @@
      "stations": [
       {
        "name": "Ol' Skool Rockabilly Radio",
+       "active": 0,
        "url": "http://uk1freenew.listen2myradio.com:23622/",
        "tags": [
         "oldies",
@@ -127,6 +138,7 @@
      "stations": [
       {
        "name": "Dubstep.fm",
+       "active": 0,
        "url": "https://www.dubstep.fm/listen.pls",
        "language_inferred": true
       }
@@ -137,6 +149,7 @@
      "stations": [
       {
        "name": "ZVCR FM",
+       "active": 0,
        "url": "https://streamer.radio.co/sccca5f047/listen",
        "tags": [
         "world",
@@ -152,11 +165,13 @@
      "stations": [
       {
        "name": "Soggy Dollar Radio",
+       "active": 0,
        "url": "https://26383.live.streamtheworld.com/SAM06AAC287.mp3?n=20df1a4bc6fa0bb8e1a7",
        "language_inferred": true
       },
       {
        "name": "ZCCR – 94.1 FM – Road Town",
+       "active": 0,
        "url": "http://zccrfm.streamon.fm:8000/ZCCRFM-24k.aac?starttime=1562936046",
        "language_inferred": true
       }

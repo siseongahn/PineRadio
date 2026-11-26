@@ -10,6 +10,7 @@
      "stations": [
       {
        "name": "Radio Fréquence Caraïbes",
+       "active": 0,
        "url": "http://163.172.59.44/player/",
        "tags": [
         "latin",
@@ -22,6 +23,7 @@
       },
       {
        "name": "Tropixx 105.5 FM",
+       "active": 0,
        "url": "http://stream.sxmradio.com:8060/channel2.mp3",
        "tags": [
         "latin",
@@ -38,6 +40,7 @@
      "stations": [
       {
        "name": "PJD2 Voice of Sint Maarten radio",
+       "active": 0,
        "url": "https://pjd2radiofm.radioca.st/",
        "tags": [
         "news_talk",
@@ -52,6 +55,7 @@
      "stations": [
       {
        "name": "Oasis 96.3 FM",
+       "active": 0,
        "url": "http://stream.sxmradio.com:8060/channel5.mp3",
        "tags": [
         "oldies",
@@ -72,6 +76,7 @@
      "stations": [
       {
        "name": "Island 92 Listen live",
+       "active": 0,
        "url": "https://ais-sa1.streamon.fm/7338_48k.aac/playlist.m3u8",
        "tags": [
         "rock",
@@ -88,16 +93,19 @@
      "stations": [
       {
        "name": "Island 92 FM – 92 FM – Philipsburg",
+       "active": 0,
        "url": "https://pjil.streamon.fm/listen.m3u",
        "language_inferred": true
       },
       {
        "name": "PJD2 Radio",
+       "active": 0,
        "url": "http://pjd2radiofm.radioca.st:8181/stream",
        "language_inferred": true
       },
       {
        "name": "PJD2 Radio",
+       "active": 0,
        "url": "http://pjd2radioam.radioca.st:8193/stream",
        "language_inferred": true
       }
@@ -113,6 +121,7 @@
      "stations": [
       {
        "name": "Island 92 FM",
+       "active": 0,
        "url": "http://pjil.streamon.fm:8000/pjil-32k.aac",
        "tags": [
         "rock",
@@ -126,6 +135,7 @@
      "stations": [
       {
        "name": "FABRadio 90.3FM",
+       "active": 0,
        "url": "http://50.7.129.122:8377",
        "tags": [
         "world",

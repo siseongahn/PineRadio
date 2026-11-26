@@ -10,6 +10,7 @@
      "stations": [
       {
        "name": "Wave FM 97.4 Listen live",
+       "active": 0,
        "url": "https://mediacp.32bit.gr:8018/server",
        "tags": [
         "alternative_indie",
@@ -27,6 +28,7 @@
      "stations": [
       {
        "name": "Nghe VOV1 radio",
+       "active": 0,
        "url": "http://123.30.50.59:1935/live/vov2/stream.nsv",
        "tags": [
         "oldies",
@@ -41,6 +43,7 @@
      "stations": [
       {
        "name": "Hmong Kaaj Sab Christian Radio",
+       "active": 0,
        "url": "http://s4.viastreaming.net:8870/",
        "tags": [
         "christian_gospel",
@@ -50,6 +53,7 @@
       },
       {
        "name": "Quran in Vietnamese",
+       "active": 0,
        "url": "http://quraan.us:9948/",
        "tags": [
         "christian_gospel",
@@ -58,6 +62,7 @@
       },
       {
        "name": "Translation of the Quran in Vietnamese",
+       "active": 0,
        "url": "https://server3.quraan.us:8024/?n=cefa9cef95b0c666a34b"
       }
      ]
@@ -67,6 +72,7 @@
      "stations": [
       {
        "name": "VOV Giao Thong",
+       "active": 0,
        "url": "mms://a652.l2130856651.c21308.g.lm.akamaistream.net/D/652/21308/v0001/reflector:56651",
        "tags": [
         "pop_hits",
@@ -82,56 +88,67 @@
      "stations": [
       {
        "name": "CB06-2",
+       "active": 0,
        "url": "https://stream.zeno.fm/su7043r3q98uv",
        "language_inferred": true
       },
       {
        "name": "Listening server 1",
+       "active": 0,
        "url": "https://stream.zeno.fm/18qfvb6qv38uv",
        "language_inferred": true
       },
       {
        "name": "Listening server 2",
+       "active": 0,
        "url": "https://stream.zeno.fm/dkv9nx6qv38uv",
        "language_inferred": true
       },
       {
        "name": "Listening server 3",
+       "active": 0,
        "url": "https://stream.zeno.fm/xbph5q8w298uv",
        "language_inferred": true
       },
       {
        "name": "NNA MUSIC",
+       "active": 0,
        "url": "https://stream.zeno.fm/1980kg97938uv",
        "language_inferred": true
       },
       {
        "name": "PinkFrog",
+       "active": 0,
        "url": "https://stream.zeno.fm/k1iam7ewfnauv",
        "language_inferred": true
       },
       {
        "name": "REOL Albums",
+       "active": 0,
        "url": "https://stream.zeno.fm/xt9kx6f9t18uv",
        "language_inferred": true
       },
       {
        "name": "TeaLightNovels",
+       "active": 0,
        "url": "https://stream.zeno.fm/5e7rcbcjml9uv",
        "language_inferred": true
       },
       {
        "name": "Testing 1",
+       "active": 0,
        "url": "https://stream.zeno.fm/2nw7zs44u18uv",
        "language_inferred": true
       },
       {
        "name": "Testing 2",
+       "active": 0,
        "url": "https://stream.zeno.fm/evwcm889z38uv",
        "language_inferred": true
       },
       {
        "name": "Testing 3",
+       "active": 0,
        "url": "https://stream.zeno.fm/9f2cndx4038uv",
        "language_inferred": true
       }
@@ -142,11 +159,13 @@
      "stations": [
       {
        "name": "Torquie",
+       "active": 0,
        "url": "https://stream.zeno.fm/zbxqf2zzurhvv",
        "language_inferred": true
       },
       {
        "name": "Torquie",
+       "active": 0,
        "url": "https://stream.zeno.fm/kd5hd0zzurhvv",
        "language_inferred": true
       }
@@ -157,6 +176,7 @@
      "stations": [
       {
        "name": "Joyfm",
+       "active": 0,
        "url": "http://radio.joyfm.vn:1935/stream/1",
        "tags": [
         "news_talk",
@@ -173,6 +193,7 @@
      "stations": [
       {
        "name": "ABC 80s Listen live",
+       "active": 0,
        "url": "https://daniel.torontocast.com:3015/server",
        "tags": [
         "latin",
@@ -183,6 +204,7 @@
       },
       {
        "name": "Gartenwelt Frey Listen live",
+       "active": 0,
        "url": "https://stream.laut.fm/gartenweltfrey",
        "tags": [
         "electronic",
@@ -193,6 +215,7 @@
       },
       {
        "name": "Lainzine",
+       "active": 0,
        "url": "https://radio.lainzine.org:8443/music",
        "language_inferred": true
       }
@@ -203,6 +226,7 @@
      "stations": [
       {
        "name": "Radio Bambusowe Opowiesci",
+       "active": 0,
        "url": "https://studio26.radiolize.com/radio/8160/radio.mp3",
        "tags": [
         "ambient_relax",
@@ -219,6 +243,7 @@
      "stations": [
       {
        "name": "Scientific Sound Asia Radio",
+       "active": 0,
        "url": "https://carol.epichosts.co.uk:8270/live.mp3",
        "tags": [
         "house",
@@ -238,11 +263,13 @@
      "stations": [
       {
        "name": "Duy Anh",
+       "active": 0,
        "url": "https://stream.zeno.fm/0mh47znbn48uv",
        "language_inferred": true
       },
       {
        "name": "VietNam",
+       "active": 0,
        "url": "https://stream.zeno.fm/2141ytrbn48uv",
        "language_inferred": true
       }
@@ -253,20 +280,24 @@
      "stations": [
       {
        "name": "Current Time FM",
+       "active": 0,
        "url": "http://stream.zeno.fm/psymefk0hd0uv",
        "language_inferred": true
       },
       {
        "name": "Da Nang Radio",
+       "active": 0,
        "url": "http://drtdnglive.e49a7c38.cdnviet.com/liveradio/playlist.m3u8"
       },
       {
        "name": "DIEU PHAP AM RADIO",
+       "active": 0,
        "url": "http://streamingv2.shoutcast.com/dieuphapamradio",
        "language_inferred": true
       },
       {
        "name": "Hanoi Radio 90 FM",
+       "active": 0,
        "url": "https://1028513096.vnns.net/fm90/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -275,33 +306,40 @@
       },
       {
        "name": "HANOI90",
+       "active": 0,
        "url": "https://www.liveradio.es/http://14.162.146.90:8000/HANOI90",
        "language_inferred": true
       },
       {
        "name": "Hanoi90 radio",
+       "active": 0,
        "url": "http://14.162.146.90:8000/HANOI90",
        "rb": "c1f7bea7-9163-4493-a9c8-0dbac5d73231"
       },
       {
        "name": "HANOI96",
+       "active": 0,
        "url": "https://www.liveradio.es/http://222.252.21.96:8000/HANOI96",
        "language_inferred": true
       },
       {
        "name": "Khanh Hoa Radio",
+       "active": 0,
        "url": "http://210.245.20.94/hls/radio.m3u8"
       },
       {
        "name": "M Radio Giải Trí Việt Nam live",
+       "active": 0,
        "url": "https://stream-37.zeno.fm/4q7y9hvkp2zuv"
       },
       {
        "name": "Nationwide Viet Radio",
+       "active": 0,
        "url": "http://162.244.80.33:4480/stream.mp3:4480/"
       },
       {
        "name": "Quran in Vietnamese",
+       "active": 0,
        "url": "https://www.qurantranslations.net/sound/English/AbdulBaset_AbdulSamad/002.mp3",
        "tags": [
         "news_talk",
@@ -311,6 +349,7 @@
       },
       {
        "name": "Radio Saigon Houston live",
+       "active": 0,
        "url": "http://shout.audionow.com:8000/RadioSaigonHuston",
        "tags": [
         "news_talk",
@@ -319,12 +358,14 @@
       },
       {
        "name": "Radio Voice of Vietnam",
+       "active": 0,
        "url": "https://streaming1.vov.vn:8443/audio/vovvn1_vov5.stream_aac/chunklist_w169336044.m3u8",
        "country_inferred": true,
        "language_inferred": true
       },
       {
        "name": "RFI Vietnam Tiếng Việt live",
+       "active": 0,
        "url": "https://rfienvietnamien64k.ice.infomaniak.ch/rfienvietnamien-64.mp3",
        "tags": [
         "various_eclectic",
@@ -334,18 +375,22 @@
       },
       {
        "name": "Tien Giang Radio",
+       "active": 0,
        "url": "http://thtg.vn/live/radio/radiolive.m3u8"
       },
       {
        "name": "Tieng Nuoc Toi Radio Network",
+       "active": 0,
        "url": "http://162.244.80.118:3092/stream.mp3"
       },
       {
        "name": "VIEN THAO Radio live",
+       "active": 0,
        "url": "https://stream-29.zeno.fm/tmpea66b8e9uv"
       },
       {
        "name": "VOH 95.6",
+       "active": 0,
        "url": "https://strm.voh.com.vn/radio/channel1/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -354,6 +399,7 @@
       },
       {
        "name": "VOH 99.9",
+       "active": 0,
        "url": "https://strm.voh.com.vn/radio/channel3/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -365,6 +411,7 @@
       },
       {
        "name": "VOH 99.9 radio",
+       "active": 0,
        "url": "https://strm.voh.com.vn/radio/channel3/chunklist_w309271778.m3u8",
        "tags": [
         "news_talk",
@@ -375,6 +422,7 @@
       },
       {
        "name": "VOH AM 610",
+       "active": 0,
        "url": "https://strm.voh.com.vn/radio/channel2/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -385,38 +433,45 @@
       },
       {
        "name": "VOV 1",
+       "active": 0,
        "url": "http://118.70.205.22:1935/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "VOV 1 radio",
+       "active": 0,
        "url": "https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8",
        "language_inferred": true,
        "rb": "3a83ee6a-b61d-4649-9be0-b4357a00329f"
       },
       {
        "name": "VOV 2",
+       "active": 0,
        "url": "https://stream.vov.vn/c85fb6ff91648ff8d3e65c918c7ebcd71632652619/audio/vovvn1_vov2.stream_aac/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "VOV 2",
+       "active": 0,
        "url": "https://stream.vov.vn/aa9dcc9158b3df36e0d0151f4f62c1031652017807/audio/vovvn1_vov2.stream_aac/playlist.m3u8",
        "country_inferred": true,
        "language_inferred": true
       },
       {
        "name": "VOV 2 radio",
+       "active": 0,
        "url": "http://media.kythuatvov.vn:7003/stream.nsv",
        "language_inferred": true
       },
       {
        "name": "VOV 4 radio",
+       "active": 0,
        "url": "http://media.kythuatvov.vn:7035/stream.nsv",
        "language_inferred": true
       },
       {
        "name": "VOV 5 radio",
+       "active": 0,
        "url": "https://stream.vovmedia.vn/vov5",
        "tags": [
         "news_talk",
@@ -426,22 +481,27 @@
       },
       {
        "name": "VOV Geo Thông- 91.0 FM",
+       "active": 0,
        "url": "http://117.6.93.250:7025/"
       },
       {
        "name": "VOV Giao Thông Hà Nội",
+       "active": 0,
        "url": "http://media.kythuatvov.vn:7025/stream/"
       },
       {
        "name": "VOV Giao Thông Hà Nội live",
+       "active": 0,
        "url": "http://media.kythuatvov.vn:7025/"
       },
       {
        "name": "VOV1",
+       "active": 0,
        "url": "http://media.kythuatvov.vn:7001/stream/"
       },
       {
        "name": "VOV1",
+       "active": 0,
        "url": "https://stream.vov.vn/vov1-audio/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -450,14 +510,17 @@
       },
       {
        "name": "VOV2",
+       "active": 0,
        "url": "http://media.kythuatvov.vn:7003/stream/"
       },
       {
        "name": "VOV3",
+       "active": 0,
        "url": "http://media.kythuatvov.vn:7005/stream/"
       },
       {
        "name": "VOV3 Music live",
+       "active": 0,
        "url": "https://str.vov.gov.vn/vovlive/vov3.sdp_aac/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -466,6 +529,7 @@
       },
       {
        "name": "VOV5",
+       "active": 0,
        "url": "https://stream1.vov.vn/vov5-audio/playlist.m3u8",
        "tags": [
         "news_talk",
@@ -474,50 +538,62 @@
       },
       {
        "name": "VOV5 - Voice of Vietnam",
+       "active": 0,
        "url": "http://stream.mobiradio.vn/vov5"
       },
       {
        "name": "Đài phát thanh Cà Mau",
+       "active": 0,
        "url": "http://tv.ctvcamau.vn/live/tv/tv.m3u8"
       },
       {
        "name": "Đài Phát thanh và Truyền hình Hà Nội",
+       "active": 0,
        "url": "http://media.mediatech.vn:1935/hntvRadio/fm90live/playlist.m3u8"
       },
       {
        "name": "Đài PTTH Bạc Liêu live",
+       "active": 0,
        "url": "https://tv.thbl.vn/live/radio/radio.m3u8"
       },
       {
        "name": "Đài PTTH Bắc Kạn live",
+       "active": 0,
        "url": "http://14.224.167.97:8080/hls/radio.m3u8"
       },
       {
        "name": "Đài PTTH Bến Tre live",
+       "active": 0,
        "url": "https://1012163901.vnns.net/bentre-FM.adm.480p.tms/playlist.m3u8"
       },
       {
        "name": "Đài PTTH Gia Lai live",
+       "active": 0,
        "url": "http://113.161.25.3:8134/hls/radio/radio.m3u8"
       },
       {
        "name": "Đài PTTH Hà Giang live",
+       "active": 0,
        "url": "http://113.162.84.113:8081/"
       },
       {
        "name": "Đài PTTH Kon Tum live",
+       "active": 0,
        "url": "https://tv.kontumtv.vn/live/radio/radio.m3u8"
       },
       {
        "name": "Đài PTTH Nghệ An live",
+       "active": 0,
        "url": "https://natv.vncdn.vn/natvlive/tv1live.m3u8"
       },
       {
        "name": "Đài PTTH Tuyên Quang live",
+       "active": 0,
        "url": "https://live.tuyenquangtv.vn/hls/radio.m3u8"
       },
       {
        "name": "Đài PTTH Yên Bái live",
+       "active": 0,
        "url": "https://bk.yenbaitv.org.vn/hls/audio/livestream.m3u8"
       }
      ]
@@ -527,16 +603,19 @@
      "stations": [
       {
        "name": "INTER FM",
+       "active": 0,
        "url": "http://stream.zeno.fm/1hbb9qbwszzuv.m3u",
        "language_inferred": true
       },
       {
        "name": "TTD Studio Radio",
+       "active": 0,
        "url": "https://node-24.zeno.fm/9hx0p0wpcwzuv.aac?rj-ttl=5&amprj-tok=AAABcVPHdqMALhbCBjbLwZ31Aw",
        "language_inferred": true
       },
       {
        "name": "VOV3",
+       "active": 0,
        "url": "https://stream.vov.vn/vov3-audio/playlist.m3u8"
       }
      ]
@@ -546,6 +625,7 @@
      "stations": [
       {
        "name": "Scientific Sound Asia Radio",
+       "active": 0,
        "url": "https://onlineradiobox.com/json/vn/scientificsoundasia/play?platform=web",
        "tags": [
         "techno",
@@ -568,6 +648,7 @@
      "stations": [
       {
        "name": "Little Saigon Radio",
+       "active": 0,
        "url": "http://streaming.transnet1.com/",
        "tags": [
         "rock",
@@ -577,6 +658,7 @@
       },
       {
        "name": "Ruby Soho Saigon",
+       "active": 0,
        "url": "https://listen.radioking.com/radio/150649/stream/191038?",
        "tags": [
         "rock",
@@ -588,6 +670,7 @@
       },
       {
        "name": "Saigon Radio 890am Dallas",
+       "active": 0,
        "url": "http://67.212.189.122:8068/stream.nsv",
        "tags": [
         "rock",
@@ -597,6 +680,7 @@
       },
       {
        "name": "Saigon Radio Hai Ngoai 106.3",
+       "active": 0,
        "url": "http://ice3.securenetsystems.net/KALIM?playSessionID=B2EF8726-042D-601D-0DB377897A7EDF85",
        "tags": [
         "rock",
@@ -606,6 +690,7 @@
       },
       {
        "name": "Saigon Radio San Jose 1430AM",
+       "active": 0,
        "url": "http://ice5.securenetsystems.net/KVVN?playSessionID=B2E069BC-019E-D87D-979D1FD9DD0EB2E2",
        "tags": [
         "rock",
@@ -615,6 +700,7 @@
       },
       {
        "name": "VINA Vietnam Radio",
+       "active": 0,
        "url": "http://vpr.serverroom.us:7492/stream.nsv",
        "tags": [
         "rock",
@@ -630,6 +716,7 @@
      "stations": [
       {
        "name": "Thayagam FM",
+       "active": 0,
        "url": "http://174.36.206.197:8090",
        "tags": [
         "pop_hits",
@@ -644,11 +731,13 @@
      "stations": [
       {
        "name": "Radio_Trung",
+       "active": 0,
        "url": "https://stream.zeno.fm/d7a0zfde8e9uv",
        "language_inferred": true
       },
       {
        "name": "Sports Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/p6n27weeed0uv",
        "language_inferred": true
       }
@@ -659,6 +748,7 @@
      "stations": [
       {
        "name": "Scientific Sound Asia",
+       "active": 0,
        "url": "https://www.liveradio.es/http://carol.epichosts.co.uk:8270/live.mp3",
        "tags": [
         "techno",
@@ -674,6 +764,7 @@
      "stations": [
       {
        "name": "Radio Phú Yên",
+       "active": 0,
        "url": "http://113.161.4.48:8080/phuyen/tv/index.m3u8"
       }
      ]
@@ -683,31 +774,38 @@
      "stations": [
       {
        "name": "Radio Veritas Asia live",
+       "active": 0,
        "url": "http://stream.rveritas-asia.org:8000/Vietnamese.mp3"
       },
       {
        "name": "VOV 24/7 English",
+       "active": 0,
        "url": "https://5a6872aace0ce.streamlock.net/nghevov247/vov247.stream_aac/playlist.m3u8"
       },
       {
        "name": "VOV4",
+       "active": 0,
        "url": "https://5a6872aace0ce.streamlock.net/nghevovmientrung/vovmientrung.stream_aac/playlist.m3u8"
       },
       {
        "name": "VOV4 live",
+       "active": 0,
        "url": "https://str.vov.gov.vn/vovlive/vov4.DBCuuLong.sdp_aac/playlist.m3u8"
       },
       {
        "name": "VOV5 English Service",
+       "active": 0,
        "url": "https://5a6872aace0ce.streamlock.net/nghevov5/vov5.stream_aac/playlist.m3u8"
       },
       {
        "name": "VOV5 – Hanoi – Vietnam",
+       "active": 0,
        "url": "https://stream.vov.vn/0f53d9b7c7dc25b081c5dd31ca39d6801660314767/audio/vovvn1_vov5.stream_aac/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "Đài PTTH Thái Bình live",
+       "active": 0,
        "url": "http://118.70.118.191:1935/tbtvlive/radio/playlist.m3u8"
       }
      ]
@@ -717,984 +815,1192 @@
      "stations": [
       {
        "name": "307 Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/6tm3pr3xpfhvv",
        "language_inferred": true
       },
       {
        "name": "99.8 Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/jxniabwipmhtv",
        "rb": "0cef2e6d-7c37-4204-b583-dd0ba8ec7d1b"
       },
       {
        "name": "a1231232",
+       "active": 0,
        "url": "https://stream.zeno.fm/nwpe9xu0m0hvv",
        "language_inferred": true
       },
       {
        "name": "Avena-Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/vwd83ebg1c9uv",
        "language_inferred": true
       },
       {
        "name": "azur lane FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/0emqmwbezchvv",
        "language_inferred": true
       },
       {
        "name": "Ba Ria-Vung Tau Radio",
+       "active": 0,
        "url": "http://113.163.216.23:1935/live/radio1.sdp_audio/playlist.m3u8"
       },
       {
        "name": "Ba Ria-Vung Tau TV",
+       "active": 0,
        "url": "http://113.163.216.23:1935/live/tv2.stream_480p/playlist.m3u8"
       },
       {
        "name": "baoduyblog",
+       "active": 0,
        "url": "https://stream.zeno.fm/dyk1kgf3568uv",
        "language_inferred": true
       },
       {
        "name": "Bass Ori",
+       "active": 0,
        "url": "https://stream.zeno.fm/4eq7byrfuuhvv",
        "language_inferred": true
       },
       {
        "name": "BTV Đài PTTH Bình Dương FM",
+       "active": 0,
        "url": "http://btvlive.vncdn.vn/livetv/btv1.m3u8"
       },
       {
        "name": "BTV Đài PTTH Bình Dương FM – Thu Dau Mot – Bình Dương – Vietnam",
+       "active": 0,
        "url": "https://btvfm011220.cdn.vnns.io/cabc6e567719bfb7a57307fa36069b7c1660317400/btv-fm.tms/chunks.m3u8",
        "language_inferred": true
       },
       {
        "name": "BTV Đài PTTH Bình Dương – Thu Dau Mot – Bình Dương – Vietnam",
+       "active": 0,
        "url": "https://btvfm011220.cdn.vnns.io/0f17efc087522f4f6c5924cdd03c919a1660325640/btv-fm.tms/chunks.m3u8",
        "language_inferred": true
       },
       {
        "name": "Bully Maguire loop nonstop",
+       "active": 0,
        "url": "https://stream.zeno.fm/khcutbfr2ehvv",
        "language_inferred": true
       },
       {
        "name": "BXHRadio",
+       "active": 0,
        "url": "https://stream.zeno.fm/bnuzk0znhm8uv"
       },
       {
        "name": "Ca Lem TV  Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/gb76wshqnc9uv",
        "language_inferred": true
       },
       {
        "name": "Cai Luong Viet Nam",
+       "active": 0,
        "url": "https://stream.zeno.fm/0trm6wrnga0uv",
        "language_inferred": true
       },
       {
        "name": "CAVITEÑO Pride FM",
+       "active": 0,
        "url": "https://eu8.fastcast4u.com/proxy/cavitenopridefm?mp=/1&1660127924070",
        "language_inferred": true
       },
       {
        "name": "CB06-1",
+       "active": 0,
        "url": "https://stream.zeno.fm/6y91mtqrg98uv",
        "language_inferred": true
       },
       {
        "name": "CB06-3",
+       "active": 0,
        "url": "https://stream.zeno.fm/m8zuy6r3q98uv",
        "language_inferred": true
       },
       {
        "name": "CENACULO MONTE SIAO",
+       "active": 0,
        "url": "https://stream.zeno.fm/cfthwprnqv8uv",
        "language_inferred": true
       },
       {
        "name": "Ceruniverse",
+       "active": 0,
        "url": "https://stream.zeno.fm/ve1fka94vc9uv",
        "language_inferred": true
       },
       {
        "name": "CEUIT-01",
+       "active": 0,
        "url": "https://stream.zeno.fm/fk8ymdp6468uv",
        "language_inferred": true
       },
       {
        "name": "chatvanhoc",
+       "active": 0,
        "url": "https://stream.zeno.fm/pk6cfqsp168uv"
       },
       {
        "name": "chill space",
+       "active": 0,
        "url": "https://stream.zeno.fm/m3ayuv6nd0hvv",
        "language_inferred": true
       },
       {
        "name": "Chilling",
+       "active": 0,
        "url": "https://stream.zeno.fm/tlopsv1hvkfuv",
        "language_inferred": true
       },
       {
        "name": "ChillV1Thang8",
+       "active": 0,
        "url": "https://stream.zeno.fm/qgzb3b22v0hvv",
        "language_inferred": true
       },
       {
        "name": "China Music from A to Z",
+       "active": 0,
        "url": "https://stream.zeno.fm/awktbdcs6x8uv",
        "language_inferred": true
       },
       {
        "name": "CLOUDS FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/67z5341mwy8uv",
        "language_inferred": true
       },
       {
        "name": "CookieRun FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/shuxxt1ugkhvv",
        "language_inferred": true
       },
       {
        "name": "Corridos",
+       "active": 0,
        "url": "https://stream.zeno.fm/fvu5qy6nruhvv",
        "language_inferred": true
       },
       {
        "name": "Current Time FM 88.1",
+       "active": 0,
        "url": "https://stream.zeno.fm/wcssd4mde18uv"
       },
       {
        "name": "Cvwebsite",
+       "active": 0,
        "url": "https://stream.zeno.fm/0myqsf09dchvv",
        "language_inferred": true
       },
       {
        "name": "Da Nang TV-2",
+       "active": 0,
        "url": "http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8"
       },
       {
        "name": "Daiphatthanh",
+       "active": 0,
        "url": "https://us4.internet-radio.com/proxy/ezhitsf?mp=/stream",
        "language_inferred": true
       },
       {
        "name": "Dallas Viet Radio – Ho Chi Minh City – Vietnam",
+       "active": 0,
        "url": "http://199.195.194.92:2199/tunein/dvr.pls",
        "language_inferred": true
       },
       {
        "name": "ddddddddddddd",
+       "active": 0,
        "url": "https://stream.zeno.fm/vwe1zjmytknuv",
        "language_inferred": true
       },
       {
        "name": "DE1 Radio Chanel",
+       "active": 0,
        "url": "https://stream.zeno.fm/v62txpgnq18uv",
        "language_inferred": true
       },
       {
        "name": "Democracy and Pluralism",
+       "active": 0,
        "url": "https://stream.zeno.fm/b88tmv8by98uv",
        "language_inferred": true
       },
       {
        "name": "Dieu AM Radio",
+       "active": 0,
        "url": "https://listen.radionomy.com/thientong",
        "language_inferred": true
       },
       {
        "name": "DJ TIK TOK",
+       "active": 0,
        "url": "https://stream.zeno.fm/cpgtp69bt0hvv",
        "language_inferred": true
       },
       {
        "name": "djngocbao",
+       "active": 0,
        "url": "https://stream.zeno.fm/yb174dxkr0hvv",
        "language_inferred": true
       },
       {
        "name": "djtiktok",
+       "active": 0,
        "url": "https://stream.zeno.fm/hyr3288bt0hvv",
        "language_inferred": true
       },
       {
        "name": "Dragon FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/9fedahqpw98uv"
       },
       {
        "name": "Duma daad",
+       "active": 0,
        "url": "https://stream.zeno.fm/xqhpefakpchvv",
        "language_inferred": true
       },
       {
        "name": "Easy Radio FM88.3",
+       "active": 0,
        "url": "https://stream.zeno.fm/89wbgpkay4zuv"
       },
       {
        "name": "EDM Music",
+       "active": 0,
        "url": "https://stream.zeno.fm/hodws4vemawtv",
        "language_inferred": true
       },
       {
        "name": "Elissas Song Is Selfish You Are Selfish",
+       "active": 0,
        "url": "https://stream.zeno.fm/yon0wdhwhomtv",
        "language_inferred": true
       },
       {
        "name": "Entertainment",
+       "active": 0,
        "url": "https://stream.zeno.fm/qhqxr67g4zhvv",
        "language_inferred": true
       },
       {
        "name": "First rrrr",
+       "active": 0,
        "url": "https://stream.zeno.fm/a012ury09nhvv",
        "language_inferred": true
       },
       {
        "name": "FM HANOI 96 MHz",
+       "active": 0,
        "url": "http://222.252.21.96:8000/HANOI96",
        "rb": "39c8d674-06ef-4b74-86ae-43a645aa1ba8"
       },
       {
        "name": "FRANCISCO",
+       "active": 0,
        "url": "https://stream.zeno.fm/zqszqui0oeytv",
        "language_inferred": true
       },
       {
        "name": "GEM RADIO",
+       "active": 0,
        "url": "https://stream.zeno.fm/6nusacgpdfhvv",
        "language_inferred": true
       },
       {
        "name": "Gggfhhvđ",
+       "active": 0,
        "url": "https://stream.zeno.fm/drpxxhnblvhuv",
        "language_inferred": true
       },
       {
        "name": "Gia Lai news Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/esr97s2pcwzuv"
       },
       {
        "name": "haha get rickroll",
+       "active": 0,
        "url": "https://stream.zeno.fm/ksqh7fdsxchvv",
        "language_inferred": true
       },
       {
        "name": "Hiva Deep House Music",
+       "active": 0,
        "url": "https://stream.zeno.fm/750fkrotxu4tv",
        "language_inferred": true
       },
       {
        "name": "Hoa Binh TV",
+       "active": 0,
        "url": "http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8"
       },
       {
        "name": "Jojo radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/zx44zdgut98uv",
        "language_inferred": true
       },
       {
        "name": "jojo radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/k0e1ktbvt98uv",
        "language_inferred": true
       },
       {
        "name": "JPOP1111",
+       "active": 0,
        "url": "https://stream.zeno.fm/7xam76xe4zhvv",
        "language_inferred": true
       },
       {
        "name": "K-Pop Random Dance Season 3 - Passionate  - Feel the rhythm",
+       "active": 0,
        "url": "https://stream.zeno.fm/3npxzpwm7e9uv",
        "language_inferred": true
       },
       {
        "name": "karikk",
+       "active": 0,
        "url": "https://stream.zeno.fm/h39de78gmxhvv",
        "language_inferred": true
       },
       {
        "name": "karutofm",
+       "active": 0,
        "url": "https://stream.zeno.fm/cpy1yhgn1c9uv",
        "language_inferred": true
       },
       {
        "name": "KBS World - Bản tin hàng ngày (Cập nhật hàng ngày từ thứ 2 đến thứ 7)",
+       "active": 0,
        "url": "http://worldvod.play.kbs.co.kr/podcast/Podcast/News/v200817.mp3"
       },
       {
        "name": "Khanh Hoa TV",
+       "active": 0,
        "url": "http://210.245.20.94/hls/ktv1.m3u8"
       },
       {
        "name": "Kien Giang Radio",
+       "active": 0,
        "url": "http://tv.kgtv.vn/live/kgaudio/kgaudio.m3u8"
       },
       {
        "name": "Kien Giang TV",
+       "active": 0,
        "url": "http://tv.kgtv.vn/live/kgtv/kgtv.m3u8"
       },
       {
        "name": "Kien Giang TV-1",
+       "active": 0,
        "url": "http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8"
       },
       {
        "name": "KTMinerMC - Audio",
+       "active": 0,
        "url": "https://stream.zeno.fm/h8vbunazsxhvv",
        "language_inferred": true
       },
       {
        "name": "LA 34 Radio",
+       "active": 0,
        "url": "http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/radio.m3u8"
       },
       {
        "name": "Leonel messi",
+       "active": 0,
        "url": "https://stream.zeno.fm/sqcpwztbkuhvv",
        "language_inferred": true
       },
       {
        "name": "Little Saigon Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/yvzaxu2qe7duv"
       },
       {
        "name": "ll Nghe Nhac Theo Yeu Cau ll",
+       "active": 0,
        "url": "https://stream.zeno.fm/erxbpvwk5f0uv",
        "language_inferred": true
       },
       {
        "name": "ll Nghe Nhac Thu Gian ll",
+       "active": 0,
        "url": "https://stream.zeno.fm/drpeyn452d0uv"
       },
       {
        "name": "ll Nhạc Tập Trung Đọc Sách ll NgheNhacLaSo1",
+       "active": 0,
        "url": "https://stream.zeno.fm/bx21w3582d0uv",
        "language_inferred": true
       },
       {
        "name": "lofi chill",
+       "active": 0,
        "url": "https://stream.zeno.fm/tqv0nscivkbtv",
        "language_inferred": true
       },
       {
        "name": "Lofi Radio Vietnam",
+       "active": 0,
        "url": "https://stream.zeno.fm/hbf2d2dmh48uv",
        "language_inferred": true
       },
       {
        "name": "Lofiiii",
+       "active": 0,
        "url": "https://stream.zeno.fm/4rk932xyyuhvv",
        "language_inferred": true
       },
       {
        "name": "Lopkbggj",
+       "active": 0,
        "url": "https://stream.zeno.fm/4y7tqte51xhvv",
        "language_inferred": true
       },
       {
        "name": "M Radio Giải Trí Việt Nam – Ho Chi Minh City – Vietnam",
+       "active": 0,
        "url": "https://stream-37.zeno.fm/4q7y9hvkp2zuv?zs=nXdB3cFjR2O65YXQ-_HiTw&aw_0_req_lsid=8196d2c78a734f244852a3f8bbbecbcb",
        "language_inferred": true
       },
       {
        "name": "Mafia musx",
+       "active": 0,
        "url": "https://stream.zeno.fm/s54ug6xa0xhvv",
        "language_inferred": true
       },
       {
        "name": "Maylangthang",
+       "active": 0,
        "url": "https://stream.zeno.fm/x5nsm6qsrg0uv",
        "language_inferred": true
       },
       {
        "name": "Mi Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/rsdfy6ib2tcuv",
        "language_inferred": true
       },
       {
        "name": "Mie Right Here",
+       "active": 0,
        "url": "https://stream.zeno.fm/mfks85p4bf9uv",
        "language_inferred": true
       },
       {
        "name": "MK Studio",
+       "active": 0,
        "url": "https://stream.zeno.fm/ghgvkts4mfhvv"
       },
       {
        "name": "MKD Mashup Station",
+       "active": 0,
        "url": "https://stream.zeno.fm/vres7epty7zuv",
        "language_inferred": true
       },
       {
        "name": "mmltest",
+       "active": 0,
        "url": "https://stream.zeno.fm/9xzdsamjfxkvv",
        "language_inferred": true
       },
       {
        "name": "nekomiro",
+       "active": 0,
        "url": "https://stream.zeno.fm/h7hsw2tes18uv",
        "language_inferred": true
       },
       {
        "name": "NewsRadio 1500",
+       "active": 0,
        "url": "https://stream.zeno.fm/197pkxsrta0uv",
        "language_inferred": true
       },
       {
        "name": "NewsRadio 2 - FM 102.3",
+       "active": 0,
        "url": "https://stream.zeno.fm/9rgh9ek0hd0uv",
        "language_inferred": true
       },
       {
        "name": "NewsRadio 3 - AM 610",
+       "active": 0,
        "url": "https://stream.zeno.fm/e9wggvtqnd0uv",
        "language_inferred": true
       },
       {
        "name": "NewsRadio In4tainment",
+       "active": 0,
        "url": "https://stream.zeno.fm/1n701dyqnd0uv",
        "language_inferred": true
       },
       {
        "name": "Nger Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/mihxyj3hvx9tv",
        "language_inferred": true
       },
       {
        "name": "Nghe radio An Giang",
+       "active": 0,
        "url": "http://221.133.9.35:1935/live/1.stream_240p/playlist.m3u8"
       },
       {
        "name": "Nghe radio An Giang – Long Xuyen – An Giang – Vietnam",
+       "active": 0,
        "url": "http://221.133.9.35:1935/live/1.stream_360p/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "NgocBao",
+       "active": 0,
        "url": "https://stream.zeno.fm/sn4k1upsq0hvv",
        "language_inferred": true
       },
       {
        "name": "Ngocbaocute",
+       "active": 0,
        "url": "https://stream.zeno.fm/rhcfe8rsq0hvv",
        "language_inferred": true
       },
       {
        "name": "Nha Giu Tre",
+       "active": 0,
        "url": "https://stream.zeno.fm/zkyv509yts8uv",
        "language_inferred": true
       },
       {
        "name": "nhac remix",
+       "active": 0,
        "url": "https://stream.zeno.fm/38paz80m268uv",
        "language_inferred": true
       },
       {
        "name": "NHK - Radio News in Vietnamese",
+       "active": 0,
        "url": "https://www3.nhk.or.jp/nhkworld/upld/medias/vi/radio/news/20200817200000_vietnamese_1.mp3"
       },
       {
        "name": "NHUNG BAN ACOUSTIC COVER",
+       "active": 0,
        "url": "https://stream.zeno.fm/tk8atfbgtg8uv",
        "language_inferred": true
       },
       {
        "name": "Nhạc edm",
+       "active": 0,
        "url": "https://stream.zeno.fm/htgbra9avuhvv",
        "language_inferred": true
       },
       {
        "name": "Nhạc yêu thích",
+       "active": 0,
        "url": "https://stream.zeno.fm/gzqh9kvcvuhvv",
        "language_inferred": true
       },
       {
        "name": "Phap Am Thanh Tinh",
+       "active": 0,
        "url": "https://stream.zeno.fm/m1xg65xhgg0uv",
        "language_inferred": true
       },
       {
        "name": "Phat thanh LSTV",
+       "active": 0,
        "url": "https://stream.zeno.fm/xsct365wra0uv"
       },
       {
        "name": "Phát thanh Bảo Yên",
+       "active": 0,
        "url": "https://stream.zeno.fm/kxbgx4w1098uv"
       },
       {
        "name": "Popping LOL",
+       "active": 0,
        "url": "https://stream.zeno.fm/9835lfzuu0otv",
        "language_inferred": true
       },
       {
        "name": "practice listening english",
+       "active": 0,
        "url": "https://stream.zeno.fm/qt9ewn60q98uv",
        "language_inferred": true
       },
       {
        "name": "Quang-Teo-Di-Qua-Deo-Remix",
+       "active": 0,
        "url": "https://stream.zeno.fm/ju3p0pfidnouv",
        "language_inferred": true
       },
       {
        "name": "QuocHung",
+       "active": 0,
        "url": "https://stream.zeno.fm/uoywqdwq58rtv",
        "language_inferred": true
       },
       {
        "name": "Racheal",
+       "active": 0,
        "url": "https://stream.zeno.fm/1frdbqqfuuhvv",
        "language_inferred": true
       },
       {
        "name": "Radio 247",
+       "active": 0,
        "url": "https://stream.zeno.fm/yqz6vefaxg0uv",
        "language_inferred": true
       },
       {
        "name": "Radio Free Asia - Chương trình phát thanh 9 giờ tối hàng ngày",
+       "active": 0,
        "url": "https://streamer1.rfaweb.org/archive/VIE/VIE-2020-0817-1400.mp3"
       },
       {
        "name": "Radio Free Press",
+       "active": 0,
        "url": "https://stream.zeno.fm/0g4w54wqrfhvv",
        "language_inferred": true
       },
       {
        "name": "Radio Iggy Pop",
+       "active": 0,
        "url": "https://stream.zeno.fm/zy8gnebkb8zuv",
        "language_inferred": true
       },
       {
        "name": "Radio San Sebastian",
+       "active": 0,
        "url": "https://stream.zeno.fm/8so2thgopdytv",
        "language_inferred": true
       },
       {
        "name": "Radio Station",
+       "active": 0,
        "url": "https://stream.zeno.fm/k7n6rmznx38uv",
        "language_inferred": true
       },
       {
        "name": "Radio Station",
+       "active": 0,
        "url": "https://stream.zeno.fm/vgsusc7kw38uv",
        "language_inferred": true
       },
       {
        "name": "Radio Station",
+       "active": 0,
        "url": "https://stream.zeno.fm/pmagmhzfy38uv",
        "language_inferred": true
       },
       {
        "name": "Radio Station",
+       "active": 0,
        "url": "https://stream.zeno.fm/k527zgznx38uv",
        "language_inferred": true
       },
       {
        "name": "Radio Station",
+       "active": 0,
        "url": "https://stream.zeno.fm/kdvw4dznx38uv",
        "language_inferred": true
       },
       {
        "name": "Radio Station",
+       "active": 0,
        "url": "https://stream.zeno.fm/0q80p5zs6rhvv",
        "language_inferred": true
       },
       {
        "name": "Radio Station",
+       "active": 0,
        "url": "https://stream.zeno.fm/7xyn4ewnx38uv",
        "language_inferred": true
       },
       {
        "name": "Radio Station",
+       "active": 0,
        "url": "https://stream.zeno.fm/uvcc3zfpx38uv",
        "language_inferred": true
       },
       {
        "name": "Radio Viet Nam Hai Ngoai",
+       "active": 0,
        "url": "http://209.239.123.91:8239/"
       },
       {
        "name": "Radioapolo1320",
+       "active": 0,
        "url": "https://stream.zeno.fm/ceb24vdmdv8uv",
        "language_inferred": true
       },
       {
        "name": "Relax",
+       "active": 0,
        "url": "https://stream.zeno.fm/pymr9blg3owtv",
        "language_inferred": true
       },
       {
        "name": "REMIX RADIO 01",
+       "active": 0,
        "url": "https://stream.zeno.fm/ptkzhcn15k0uv",
        "language_inferred": true
       },
       {
        "name": "Ren435",
+       "active": 0,
        "url": "https://stream.zeno.fm/pfgd8v741xhvv",
        "language_inferred": true
       },
       {
        "name": "Ricardo DJ Station",
+       "active": 0,
        "url": "https://stream.zeno.fm/a4kbkh8s97zuv",
        "language_inferred": true
       },
       {
        "name": "Rickadio",
+       "active": 0,
        "url": "https://stream.zeno.fm/5w9d3ehnxxhvv",
        "language_inferred": true
       },
       {
        "name": "Rock and Roll play music",
+       "active": 0,
        "url": "https://stream.zeno.fm/zqy1wcssu6ouv",
        "language_inferred": true
       },
       {
        "name": "Rock for Active",
+       "active": 0,
        "url": "https://stream.zeno.fm/vzmg7oe0asgtv",
        "language_inferred": true
       },
       {
        "name": "RooMusic",
+       "active": 0,
        "url": "https://stream.zeno.fm/qbs99pr3k0hvv",
        "language_inferred": true
       },
       {
        "name": "Rozes radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/fqajvpuxxhztv",
        "language_inferred": true
       },
       {
        "name": "Rumany",
+       "active": 0,
        "url": "https://stream.zeno.fm/264br1g9u18uv",
        "language_inferred": true
       },
       {
        "name": "Saigoner",
+       "active": 0,
        "url": "https://stream.zeno.fm/5cyfrgpebkhvv",
        "language_inferred": true
       },
       {
        "name": "Sampmusic",
+       "active": 0,
        "url": "https://stream.zeno.fm/foalrwd7ohtvv",
        "language_inferred": true
       },
       {
        "name": "selection (EN)",
+       "active": 0,
        "url": "https://stream.zeno.fm/zkuycku09ehvv",
        "language_inferred": true
       },
       {
        "name": "selection of love (CN)",
+       "active": 0,
        "url": "https://stream.zeno.fm/at7fmbra7ehvv",
        "language_inferred": true
       },
       {
        "name": "selection(VPOP)",
+       "active": 0,
        "url": "https://stream.zeno.fm/6n3vxe7d1hhvv",
        "language_inferred": true
       },
       {
        "name": "Sleeping Time",
+       "active": 0,
        "url": "https://stream.zeno.fm/1wf6quxerrtuv",
        "language_inferred": true
       },
       {
        "name": "Soul Coach Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/7soep4n51e2uv",
        "language_inferred": true
       },
       {
        "name": "STV Truyền Hình Sóc Trăng",
+       "active": 0,
        "url": "http://113.163.189.104/liveeventf.m3u8"
       },
       {
        "name": "STV Truyền Hình Sóc Trăng – Sóc Trăng – Vietnam",
+       "active": 0,
        "url": "http://113.163.189.104:8135/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8",
        "language_inferred": true
       },
       {
        "name": "Sugar Daddy TM",
+       "active": 0,
        "url": "https://stream.zeno.fm/n7wv822f4zhvv",
        "language_inferred": true
       },
       {
        "name": "Sơn Tùng Mtp",
+       "active": 0,
        "url": "https://stream.zeno.fm/m4dpfysavuhvv",
        "language_inferred": true
       },
       {
        "name": "TaiNgheCo",
+       "active": 0,
        "url": "https://stream.zeno.fm/cxh7qdv6kg0uv",
        "language_inferred": true
       },
       {
        "name": "Tay Ninh - FM 103.1Mhz",
+       "active": 0,
        "url": "http://202.43.109.142:1935/radio11/tnradio/chunklist_w1758804544.m3u8?n=9ee970b9d444a07b6dfb"
       },
       {
        "name": "Ten hhh",
+       "active": 0,
        "url": "https://stream.zeno.fm/q9y89b4g4zhvv",
        "language_inferred": true
       },
       {
        "name": "Test 1234",
+       "active": 0,
        "url": "https://stream.zeno.fm/zzffqf7eb0huv"
       },
       {
        "name": "test again 2",
+       "active": 0,
        "url": "https://stream.zeno.fm/rb8mypevt98uv",
        "language_inferred": true
       },
       {
        "name": "Test Radio",
+       "active": 0,
        "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
        "language_inferred": true
       },
       {
        "name": "Thai Nguyen TV-1",
+       "active": 0,
        "url": "http://thainguyentv.vn/hls/livestream.m3u8"
       },
       {
        "name": "The Lotus Gang",
+       "active": 0,
        "url": "https://stream.zeno.fm/1h407a52ss8uv",
        "language_inferred": true
       },
       {
        "name": "Tien Giang TV",
+       "active": 0,
        "url": "http://thtg.vn:8001/stream_hi.m3u8"
       },
       {
        "name": "TNT Radio",
+       "active": 0,
        "url": "http://162.244.80.118:3092/stream/1/"
       },
       {
        "name": "Trọng Điểm",
+       "active": 0,
        "url": "https://stream.zeno.fm/8f7pzg23998uv",
        "language_inferred": true
       },
       {
        "name": "tungclub.tk",
+       "active": 0,
        "url": "https://stream.zeno.fm/h9tr4qwmb78uv",
        "language_inferred": true
       },
       {
        "name": "Tây Ninh",
+       "active": 0,
        "url": "http://202.43.109.142:1935/radio11/tnradio/chunklist_w697011492.m3u8"
       },
       {
        "name": "Ucan fm",
+       "active": 0,
        "url": "https://stream.zeno.fm/ch5t88bay98uv",
        "language_inferred": true
       },
       {
        "name": "UnknowGuy",
+       "active": 0,
        "url": "https://stream.zeno.fm/kx5dkx5t968uv",
        "language_inferred": true
       },
       {
        "name": "USUKmusic",
+       "active": 0,
        "url": "https://stream.zeno.fm/ahbl6m4fqdstv",
        "language_inferred": true
       },
       {
        "name": "Uuuuuuuuuu",
+       "active": 0,
        "url": "https://stream.zeno.fm/3fvas5rf4uhvv",
        "language_inferred": true
       },
       {
        "name": "Vchart",
+       "active": 0,
        "url": "https://stream.zeno.fm/ikv8zsphyqmuv"
       },
       {
        "name": "VIEN THAO Radio – Ho Chi Minh City – Vietnam",
+       "active": 0,
        "url": "http://node-26.zeno.fm/tmpea66b8e9uv",
        "language_inferred": true
       },
       {
        "name": "Vietnam ANTV",
+       "active": 0,
        "url": "http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8"
       },
       {
        "name": "Vietnam Vet Radio",
+       "active": 0,
        "url": "http://psn3.prostreaming.net:8440/stream/1/"
       },
       {
        "name": "Vietnam War Rock",
+       "active": 0,
        "url": "https://stream.zeno.fm/g91qxch7gv8uv",
        "language_inferred": true
       },
       {
        "name": "VOA - VOA 10 giờ khuya",
+       "active": 0,
        "url": "http://www.voatiengviet.com/podcast/?count=1&zoneId=1957"
       },
       {
        "name": "VOH AM 610",
+       "active": 0,
        "url": "https://strm.voh.com.vn/radio/channel2/chunklist_w884773542.m3u8?n=c1ac3afbb37acd0b593e"
       },
       {
        "name": "VOH FM 87.7",
+       "active": 0,
        "url": "https://strm.voh.com.vn/radio/channel5/chunklist_w2071193605.m3u8?n=82e20297c870166be64e"
       },
       {
        "name": "VOH FM 87.7 Mhz",
+       "active": 0,
        "url": "https://strm.voh.com.vn/live/channel5/playlist.m3u8"
       },
       {
        "name": "VOH FM 95.6",
+       "active": 0,
        "url": "https://strm.voh.com.vn/radio/channel1/chunklist_w829828563.m3u8?n=df54fdd66b1dfcff258b",
        "language_inferred": true
       },
       {
        "name": "VOH FM 99.9",
+       "active": 0,
        "url": "https://strm.voh.com.vn/radio/channel3/chunklist_w1005696319.m3u8?n=9f30de316e0e79631804"
       },
       {
        "name": "VOH FM Radio",
+       "active": 0,
        "url": "https://strm.voh.com.vn/radio/channel2/chunklist_w182917363.m3u8",
        "language_inferred": true
       },
       {
        "name": "VOH Radio",
+       "active": 0,
        "url": "https://strm.voh.com.vn/live/channel5/chunklist_w1088605557.m3u8",
        "language_inferred": true
       },
       {
        "name": "VOKP-1",
+       "active": 0,
        "url": "https://stream.zeno.fm/yursyv2r068uv",
        "language_inferred": true
       },
       {
        "name": "VOV 4",
+       "active": 0,
        "url": "http://streaming1.vov.vn:1935/audio/vovvn1_vovTTTB.stream_aac/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "VOV 5 World 24/7 English – Hanoi – Vietnam",
+       "active": 0,
        "url": "https://stream.vov.vn/5d91eb3cb0d3593198c458cd004fd1351660306902/audio/vovvn1_vov247.stream_aac/chunklist_w666216689.m3u8",
        "language_inferred": true
       },
       {
        "name": "VOV Giao Thông Hà Nội",
+       "active": 0,
        "url": "https://5a6872aace0ce.streamlock.net/nghevovgthn/vovgthn.stream_aac/playlist.m3u8"
       },
       {
        "name": "VOV Giao Thông Hà Nội – Hanoi – Vietnam",
+       "active": 0,
        "url": "https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist_w601606653.m3u8",
        "language_inferred": true
       },
       {
        "name": "VOV Mekong",
+       "active": 0,
        "url": "https://stream.vovmedia.vn/vovmekong?n=071a724dbc98ad4e80dc",
        "language_inferred": true
       },
       {
        "name": "VOV1 - Thời sự",
+       "active": 0,
        "url": "https://5a6872aace0ce.streamlock.net/nghevov1/vov1.stream_aac/playlist.m3u8"
       },
       {
        "name": "VOV2",
+       "active": 0,
        "url": "https://stream.vov.vn/vov2-audio/playlist.m3u8"
       },
       {
        "name": "VOV2 FM 96.5",
+       "active": 0,
        "url": "https://5a6872aace0ce.streamlock.net/nghevov2/vov2.stream_aac/playlist.m3u8"
       },
       {
        "name": "VOV2 FM 96.5 – 96.5 FM – Hanoi – Vietnam",
+       "active": 0,
        "url": "https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "VOV3 Music",
+       "active": 0,
        "url": "https://5a6872aace0ce.streamlock.net/nghevov3/vov3.stream_aac/playlist.m3u8"
       },
       {
        "name": "VOV3 Music – Hanoi – Vietnam",
+       "active": 0,
        "url": "http://media.kythuatvov.vn:10005/",
        "language_inferred": true
       },
       {
        "name": "VOVGT - TP Hồ Chí Minh",
+       "active": 0,
        "url": "https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1213978008.m3u8",
        "language_inferred": true
       },
       {
        "name": "VOVGT TP Hồ Chí Minh",
+       "active": 0,
        "url": "https://5a6872aace0ce.streamlock.net/nghevovgthcm/vovgthcm.stream_aac/playlist.m3u8"
       },
       {
        "name": "VOVMedia - VOV FM89",
+       "active": 0,
        "url": "http://media.kythuatvov.vn:7021/stream/"
       },
       {
        "name": "VOVMedia - VOV Giao thông Hồ Chí Minh",
+       "active": 0,
        "url": "http://media.kythuatvov.vn:7023/stream/"
       },
       {
        "name": "VOVMedia - VOV5 Phát thanh đối ngoại",
+       "active": 0,
        "url": "http://media.kythuatvov.vn:7007/stream/"
       },
       {
        "name": "vvmteam",
+       "active": 0,
        "url": "https://stream.zeno.fm/er15yn1tn18uv",
        "language_inferred": true
       },
       {
        "name": "weking up",
+       "active": 0,
        "url": "https://stream.zeno.fm/kxhz6sk2ry8uv",
        "language_inferred": true
       },
       {
        "name": "whoisthanh",
+       "active": 0,
        "url": "https://stream.zeno.fm/4zkzinsuplwtv"
       },
       {
        "name": "wwwwwwwww",
+       "active": 0,
        "url": "https://stream.zeno.fm/7h9bgc9k838uv"
       },
       {
        "name": "XEW AM Thời gian",
+       "active": 0,
        "url": "https://stream.zeno.fm/6kfaz1k14hhvv",
        "language_inferred": true
       },
       {
        "name": "Xonefm",
+       "active": 0,
        "url": "https://vnno-pt-1-tf-playlist-live-zmp3.zadn.vn/hpOx2UjqVEQ/zhls/live/standard-audio/855a669d5ad8b386eac9/standard-audio.m3u8"
       },
       {
        "name": "XoneFM",
+       "active": 0,
        "url": "https://stream.zeno.fm/v51ym0g96qruv"
       },
       {
        "name": "Yen Bai TV",
+       "active": 0,
        "url": "http://yenbaitv.org.vn/hls/livestream.m3u8"
       },
       {
        "name": "yes and go away",
+       "active": 0,
        "url": "https://stream.zeno.fm/wzrzhzanachvv",
        "language_inferred": true
       },
       {
        "name": "Yo man",
+       "active": 0,
        "url": "https://stream.zeno.fm/s7su8zl43mzuv",
        "language_inferred": true
       },
       {
        "name": "Zen Patriarch",
+       "active": 0,
        "url": "http://listen.shoutcast.com/dieuphapamradio"
       },
       {
        "name": "Zeno Radio",
+       "active": 0,
        "url": "https://stream.zeno.fm/yyfykc02bveuv",
        "language_inferred": true
       },
       {
        "name": "Đài PTTH Bình Phước",
+       "active": 0,
        "url": "http://118.69.197.145/hls/radio.m3u8"
       },
       {
        "name": "Đài PTTH Bình Phước – 89.4 FM – Dong Xoai – Bình Phước – Vietnam",
+       "active": 0,
        "url": "http://c13.radioboss.fm:8127/stream",
        "language_inferred": true,
        "rb": "a25ce744-fd5c-4fa5-af48-2b384cf1d3aa",
@@ -1702,122 +2008,148 @@
       },
       {
        "name": "Đài PTTH Bình Thuận",
+       "active": 0,
        "url": "http://202.43.109.142:1935/thbtradio/btradio/playlist.m3u8"
       },
       {
        "name": "Đài PTTH Bạc Liêu",
+       "active": 0,
        "url": "http://118.69.205.213/radio/radio.m3u8"
       },
       {
        "name": "Đài PTTH Bắc Giang – Bắc Giang – Vietnam",
+       "active": 0,
        "url": "https://live.bacgiangtv.vn/bgtvlive/radio.m3u8",
        "language_inferred": true
       },
       {
        "name": "Đài PTTH Bến Tre",
+       "active": 0,
        "url": "http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/audiostream.m3u8"
       },
       {
        "name": "Đài PTTH Cao Bằng – Thành Phố Cao Bằng – Cao Bằng – Vietnam",
+       "active": 0,
        "url": "http://118.107.85.4:1935/live/smil:CRTV.smil/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "Đài PTTH Cà Mau",
+       "active": 0,
        "url": "http://tv.ctvcamau.vn/live/radio/radio.m3u8"
       },
       {
        "name": "Đài PTTH Cần Thơ",
+       "active": 0,
        "url": "https://tv.canthotv.vn/live/radio/radio.m3u8"
       },
       {
        "name": "Đài PTTH Cần Thơ – Can Tho – Vietnam",
+       "active": 0,
        "url": "https://tv.tchgroup.vn/live/radio/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "Đài PTTH Hà Nội JoyFM",
+       "active": 0,
        "url": "http://radio.joyfm.vn:1935/live/RadioOnline/playlist.m3u8"
       },
       {
        "name": "Đài PTTH Hưng Yên – Hưng Yên – Vietnam",
+       "active": 0,
        "url": "https://live.hungyentv.vn/hytvlive/radio.m3u8",
        "language_inferred": true
       },
       {
        "name": "Đài PTTH Hải Dương – Thành Phố Hải Dương – Hải Dương – Vietnam",
+       "active": 0,
        "url": "http://113.160.131.11:8000/",
        "language_inferred": true
       },
       {
        "name": "Đài PTTH Hải Phòng – Haiphong – Vietnam",
+       "active": 0,
        "url": "https://live.thhp.vn/thp/index.m3u8",
        "language_inferred": true
       },
       {
        "name": "Đài PTTH Hậu Giang – Vị Thanh – Hậu Giang – Vietnam",
+       "active": 0,
        "url": "https://haugiangfm011220.cdn.vnns.io/c08408e46bb5570750fff930a4a37ed51660322878/haugiang-fm.tms/chunks.m3u8",
        "language_inferred": true
       },
       {
        "name": "Đài PTTH Lai Châu – Thị Xã Lai Châu – Lai Châu – Vietnam",
+       "active": 0,
        "url": "https://ll4mfr7mnaliv.vcdn.cloud/laichau/radio/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "Đài PTTH Lâm Đồng – Da Lat – Lâm Đồng – Vietnam",
+       "active": 0,
        "url": "http://118.107.85.4:1935/radio/lamdong_aac/chunklist_w1647434900.m3u8",
        "language_inferred": true
       },
       {
        "name": "Đài PTTH Lạng Sơn – Lang Son – Lạng Sơn – Vietnam",
+       "active": 0,
        "url": "http://live.langsontv.vn/lstvlive/tv1live.m3u8",
        "language_inferred": true
       },
       {
        "name": "Đài PTTH Nghệ An",
+       "active": 0,
        "url": "https://live.truyenhinhnghean.vn/live/na2_720/index.m3u8"
       },
       {
        "name": "Đài PTTH Ninh Thuận",
+       "active": 0,
        "url": "http://203.113.166.233:1935/live/NTV_AUDIO/playlist.m3u8"
       },
       {
        "name": "Đài PTTH Vĩnh Long – Vĩnh Long – Vietnam",
+       "active": 0,
        "url": "https://live3.thvli.vn/wuvX3Pqi9Gw6XEizds3TRA/1660257758/thvli/thvl1-abr/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "Đài PTTH Điện Biên – Điện Biên Phủ – Huyện Ðiện Biên – Vietnam",
+       "active": 0,
        "url": "https://truyenhinh.vnptvas.vn/live.m3u8",
        "language_inferred": true
       },
       {
        "name": "Đài PTTH Đắk Lắk – Buon Ma Thuot – Đắk Lắk – Vietnam",
+       "active": 0,
        "url": "https://livept.drt.vn/DRT",
        "language_inferred": true
       },
       {
        "name": "Đài PTTH Đồng Nai – Biên Hòa – Đồng Nai – Vietnam",
+       "active": 0,
        "url": "http://118.107.85.5:1935/radio/dongnai_aac/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "Đài PTTH Đồng Tháp – Cao Lanh – Đồng Tháp – Vietnam",
+       "active": 0,
        "url": "http://202.43.109.144:1935/thdtradio/thdtradio/playlist.m3u8",
        "language_inferred": true
       },
       {
        "name": "Đắc Nhân Tâm",
+       "active": 0,
        "url": "https://stream.zeno.fm/xnrztamxfkhvv",
        "language_inferred": true
       },
       {
        "name": "Đồng Tháp",
+       "active": 0,
        "url": "http://202.43.109.144:1935/thdtradio/thdtradio/chunklist_w200358279.m3u8"
       },
       {
        "name": "越南之声",
+       "active": 0,
        "url": "https://streaming1.vov.vn:8443/audio/vovvn1_vov5.stream_aac/playlist.m3u8",
        "language_inferred": true
       }
@@ -1833,6 +2165,7 @@
      "stations": [
       {
        "name": "Mind Space English Center",
+       "active": 0,
        "url": "https://stream.zeno.fm/dn51s7zz808uv"
       }
      ]
@@ -1842,6 +2175,7 @@
      "stations": [
       {
        "name": "VOV 5",
+       "active": 0,
        "url": "https://static.vovworld.vn/Uploaded/kimlan/2016_07_23/lan_het.mp3",
        "tags": [
         "news_talk",
@@ -1855,6 +2189,7 @@
      "stations": [
       {
        "name": "Saigon Radio Houston 900 AM",
+       "active": 0,
        "url": "http://epsilon.shoutca.st:8619/stream",
        "tags": [
         "rock",
@@ -1864,6 +2199,7 @@
       },
       {
        "name": "Vietnam Vet Radio",
+       "active": 0,
        "url": "https://cast2.asurahosting.com/proxy/vietnam1/stream",
        "tags": [
         "decade_70s",
@@ -1880,14 +2216,17 @@
      "stations": [
       {
        "name": "M Radio Việt Nam",
+       "active": 0,
        "url": "https://stream.zeno.fm/4q7y9hvkp2zuv"
       },
       {
        "name": "Tzgospel swahili",
+       "active": 0,
        "url": "https://stream.zeno.fm/ftqa57vvcfhvv"
       },
       {
        "name": "Vietnam Classical Radio Saigon",
+       "active": 0,
        "url": "https://stream.zeno.fm/6cmbm5pmkkhvv"
       }
      ]
@@ -1902,6 +2241,7 @@
      "stations": [
       {
        "name": "Dasliveradio2 Listen live",
+       "active": 0,
        "url": "https://stream.laut.fm/dasliveradio2?ref=radiode",
        "tags": [
         "country",
@@ -1920,6 +2260,7 @@
      "stations": [
       {
        "name": "EngDance",
+       "active": 0,
        "url": "https://stream.zeno.fm/qruutn4bashvv"
       }
      ]
@@ -1934,6 +2275,7 @@
      "stations": [
       {
        "name": "MEDOFOPA FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/ydgn7ahmdq8uv"
       }
      ]
@@ -1948,6 +2290,7 @@
      "stations": [
       {
        "name": "RADIO ADRECONCILIACAO",
+       "active": 0,
        "url": "https://stream.zeno.fm/12bt06chbm0uv"
       }
      ]

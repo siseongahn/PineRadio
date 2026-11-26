@@ -10,11 +10,13 @@
      "stations": [
       {
        "name": "Maxi plus",
+       "active": 0,
        "url": "https://radio9.pro-fhi.net:9196/stream",
        "language_inferred": true
       },
       {
        "name": "RCI KASSAV",
+       "active": 0,
        "url": "https://stream.rcs.revma.com/6mddg9utpwzuv",
        "tags": [
         "alternative_indie",
@@ -31,6 +33,7 @@
      "stations": [
       {
        "name": "Trace FM",
+       "active": 0,
        "url": "https://node-11.zeno.fm/agpv6t7bg7duv?rj-ttl=5&amprj-tok=AAABd7-Zw9wAckKmSS2yPRB-ww",
        "tags": [
         "blues",
@@ -45,22 +48,27 @@
      "stations": [
       {
        "name": "Radio Actif Martinique",
+       "active": 0,
        "url": "http://198.27.68.65:8170/"
       },
       {
        "name": "Radio Espoir Martinique",
+       "active": 0,
        "url": "http://heberg.radioludo.com:8020/stream"
       },
       {
        "name": "Radio Evangile Martinique",
+       "active": 0,
        "url": "https://eapps-cs.herokuapp.com/http://51.210.8.69:8000/?type=http&ampnocache=14"
       },
       {
        "name": "Radio Merci Seigneur",
+       "active": 0,
        "url": "http://www.radioking.com/play/radio-merci-seigneur-1"
       },
       {
        "name": "Radio Saint Louis",
+       "active": 0,
        "url": "http://91.121.29.104:8142",
        "tags": [
         "christian_gospel",
@@ -74,6 +82,7 @@
      "stations": [
       {
        "name": "Uber barato",
+       "active": 0,
        "url": "https://stream.zeno.fm/kfudurdfx38uv",
        "language_inferred": true
       }
@@ -84,6 +93,7 @@
      "stations": [
       {
        "name": "Martinique 1ere",
+       "active": 0,
        "url": "http://radios.la1ere.fr/martinique",
        "language_inferred": true
       }
@@ -94,11 +104,13 @@
      "stations": [
       {
        "name": "Gospel Sound System",
+       "active": 0,
        "url": "https://lionel.radioca.st/stream",
        "language_inferred": true
       },
       {
        "name": "Gospel Sound System radio",
+       "active": 0,
        "url": "https://mira.streamerr.co/listen/gssradio/radio.mp3",
        "tags": [
         "electronic",
@@ -112,11 +124,13 @@
       },
       {
        "name": "Jumble FM",
+       "active": 0,
        "url": "http://ca4.rcast.net:8048/stream.nsv",
        "language_inferred": true
       },
       {
        "name": "RCI DANCEHALL",
+       "active": 0,
        "url": "https://stream.rcs.revma.com/5stt0yrtpwzuv",
        "tags": [
         "electronic",
@@ -129,6 +143,7 @@
       },
       {
        "name": "SoUsLeGround",
+       "active": 0,
        "url": "https://www.radioking.com/play/sousleground",
        "tags": [
         "electronic",
@@ -145,6 +160,7 @@
      "stations": [
       {
        "name": "Handi FM Martinique",
+       "active": 0,
        "url": "https://hosting2.studioradiomedia.com:8053/stream.mp3",
        "tags": [
         "pop_hits",
@@ -153,6 +169,7 @@
       },
       {
        "name": "Nostalgie Martinique",
+       "active": 0,
        "url": "http://2stream.dyndns.org:8000/nostalgiemq",
        "tags": [
         "latin",
@@ -161,6 +178,7 @@
       },
       {
        "name": "Radio Actif radio",
+       "active": 0,
        "url": "http://198.27.68.65:8170/audio.mp3",
        "tags": [
         "folk",
@@ -170,6 +188,7 @@
       },
       {
        "name": "RCI Martinique - Tradition",
+       "active": 0,
        "url": "http://51.91.29.183:8000/rcitradition",
        "tags": [
         "world",
@@ -183,6 +202,7 @@
      "stations": [
       {
        "name": "raidfm",
+       "active": 0,
        "url": "https://stream.laut.fm/raidfm?ref=radiode",
        "language_inferred": true
       }
@@ -193,6 +213,7 @@
      "stations": [
       {
        "name": "RFC Music",
+       "active": 0,
        "url": "http://163.172.59.44:8002"
       }
      ]
@@ -202,6 +223,7 @@
      "stations": [
       {
        "name": "Bel'Radio Martinique",
+       "active": 0,
        "url": "https://stream.rcs.revma.com/9b1a2gyspwzuv",
        "tags": [
         "latin",
@@ -217,12 +239,14 @@
       },
       {
        "name": "FUSION",
+       "active": 0,
        "url": "https://stunnel2.cyber-streaming.com:9276/stream",
        "language_inferred": true,
        "rb": "6e372e6c-3b2e-4fa2-aa49-d87b96cbc91f"
       },
       {
        "name": "Neuf7Radio",
+       "active": 0,
        "url": "https://listen.radioking.com/radio/427060/stream/480628",
        "tags": [
         "latin",
@@ -234,6 +258,7 @@
       },
       {
        "name": "Neuf7Radio",
+       "active": 0,
        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3622947.mp3?dist=keepone.net",
        "tags": [
         "latin",
@@ -243,6 +268,7 @@
       },
       {
        "name": "NRJ Antilles",
+       "active": 0,
        "url": "https://f5-th2-2.nrjaudio.fm/fr_an/55248/mp3_128.mp3?cdn_path=adswizz_lbs11&ampadws_out_a2&ampaccess_token=45f0ee8ba4924a2abdeff995ab3bbf0f",
        "tags": [
         "latin",
@@ -255,14 +281,17 @@
       },
       {
        "name": "Radio Frequence Caraibes",
+       "active": 0,
        "url": "http://163.172.59.44:8000/"
       },
       {
        "name": "Radio Intertropicale",
+       "active": 0,
        "url": "http://198.27.68.65:8004"
       },
       {
        "name": "Radio Sud Est",
+       "active": 0,
        "url": "https://stream.vestaradio.com/RADIOSUDEST",
        "tags": [
         "latin",
@@ -274,10 +303,12 @@
       },
       {
        "name": "Radio ZOUKLA",
+       "active": 0,
        "url": "https://www.radioking.com/play/charlyzouk"
       },
       {
        "name": "RBR 103.4 FM",
+       "active": 0,
        "url": "https://stream.vestaradio.com/RBR",
        "tags": [
         "latin",
@@ -291,6 +322,7 @@
       },
       {
        "name": "RCI LATINO",
+       "active": 0,
        "url": "https://n08a-eu.rcs.revma.com/y77561rtpwzuv",
        "tags": [
         "latin",
@@ -300,6 +332,7 @@
       },
       {
        "name": "RCI Latino",
+       "active": 0,
        "url": "https://stream.rcs.revma.com/y77561rtpwzuv",
        "tags": [
         "latin",
@@ -308,6 +341,7 @@
       },
       {
        "name": "RCI LIVE",
+       "active": 0,
        "url": "https://stream.rcs.revma.com/gf7d96rtpwzuv",
        "tags": [
         "latin",
@@ -322,10 +356,12 @@
       },
       {
        "name": "RCI Martinique - Latino",
+       "active": 0,
        "url": "http://51.91.29.182:8000/rcilatino"
       },
       {
        "name": "RCI Zouk",
+       "active": 0,
        "url": "https://stream.rcs.revma.com/wkf0thzctwzuv",
        "tags": [
         "latin",
@@ -340,6 +376,7 @@
      "stations": [
       {
        "name": "Martinique la 1ère",
+       "active": 0,
        "url": "https://martinique.ice.infomaniak.ch/martinique-128.mp3",
        "tags": [
         "news_talk",
@@ -356,11 +393,13 @@
       },
       {
        "name": "Maxxi",
+       "active": 0,
        "url": "http://2stream.dyndns.org:8000/maxxi/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Nord FM Martinique",
+       "active": 0,
        "url": "https://nordfm.ice.infomaniak.ch/nordfm-128.mp3",
        "tags": [
         "news_talk",
@@ -373,6 +412,7 @@
       },
       {
        "name": "Radio APAL",
+       "active": 0,
        "url": "https://listen.radioking.com/radio/109798/stream/148843",
        "tags": [
         "news_talk",
@@ -381,6 +421,7 @@
       },
       {
        "name": "Radio Canal Antilles",
+       "active": 0,
        "url": "http://81.248.108.29:88/broadwavehigh.mp3?src=1",
        "tags": [
         "news_talk",
@@ -389,6 +430,7 @@
       },
       {
        "name": "Radio Imagine",
+       "active": 0,
        "url": "https://listen.radioking.com/radio/33815/stream/69986",
        "tags": [
         "news_talk",
@@ -397,6 +439,7 @@
       },
       {
        "name": "RCI Martinique",
+       "active": 0,
        "url": "https://stream.rcs.revma.com/t0abpqyspwzuv",
        "tags": [
         "pop_hits",
@@ -410,11 +453,13 @@
       },
       {
        "name": "RCI Martinique",
+       "active": 0,
        "url": "https://n04.rcs.revma.com/t0abpqyspwzuv",
        "language_inferred": true
       },
       {
        "name": "REM-Radio Evangile Martinique",
+       "active": 0,
        "url": "https://eapps-cs.herokuapp.com/http://51.210.8.69:8000/",
        "tags": [
         "news_talk",
@@ -424,6 +469,7 @@
       },
       {
        "name": "RFA Radio",
+       "active": 0,
        "url": "https://live2.vestaradio.com/rfaradio",
        "tags": [
         "news_talk",
@@ -432,6 +478,7 @@
       },
       {
        "name": "SEM Radio",
+       "active": 0,
        "url": "https://hosting.studioradiomedia.fr:1285/stream",
        "tags": [
         "news_talk",
@@ -441,6 +488,7 @@
       },
       {
        "name": "Super Radio",
+       "active": 0,
        "url": "http://str81.streamakaci.com:9160",
        "rb": "2c449451-d215-11e9-a861-52543be04c81",
        "logo": "http://super-radio.radio-site.com/upload/5b25e37f31f524.12118265.ico"
@@ -452,26 +500,31 @@
      "stations": [
       {
        "name": "Fun Radio Martinique",
+       "active": 0,
        "url": "http://163.172.96.134:8110/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Kompazouk Radio",
+       "active": 0,
        "url": "http://sv3.vestaradio.com:8360/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "Mouv FM",
+       "active": 0,
        "url": "http://91.121.29.104:8136/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "NRJ Antilles",
+       "active": 0,
        "url": "http://185.52.127.159/fr_an/55248/mp3_128.mp3",
        "language_inferred": true
       },
       {
        "name": "Radio Hibiscus",
+       "active": 0,
        "url": "https://live.streamantille.com/radio/8230/stream.mp3?1593558609",
        "tags": [
         "pop_hits",
@@ -481,6 +534,7 @@
       },
       {
        "name": "Radio Sud Est",
+       "active": 0,
        "url": "http://sv1.vestaradio.com:4290/",
        "language_inferred": true
       }
@@ -491,6 +545,7 @@
      "stations": [
       {
        "name": "gong fm Workout Listen live",
+       "active": 0,
        "url": "https://addrad.io/4459cq2",
        "tags": [
         "punk",
@@ -505,10 +560,12 @@
      "stations": [
       {
        "name": "Jumble FM",
+       "active": 0,
        "url": "http://ca4.rcast.net:8048/"
       },
       {
        "name": "Jumble FM - Urban Reggae",
+       "active": 0,
        "url": "http://ca4.rcast.net:8048/stream.mp3",
        "tags": [
         "reggae_ska",
@@ -518,6 +575,7 @@
       },
       {
        "name": "Jumble FM radio",
+       "active": 0,
        "url": "https://ca4ssl.rcast.net/stream/60850.mp3/type=mp3",
        "tags": [
         "reggae_ska",
@@ -528,6 +586,7 @@
       },
       {
        "name": "Neuf7 Radio Listen live",
+       "active": 0,
        "url": "https://19293.live.streamtheworld.com/SP_R3622947.mp3",
        "tags": [
         "reggae_ska",
@@ -538,6 +597,7 @@
       },
       {
        "name": "RBR FM",
+       "active": 0,
        "url": "https://sv1.vestaradio.com/rbr",
        "tags": [
         "latin",
@@ -546,6 +606,7 @@
       },
       {
        "name": "RCI - Compas",
+       "active": 0,
        "url": "https://stream.rcs.revma.com/5dvn9urtpwzuv",
        "tags": [
         "reggae_ska",
@@ -555,6 +616,7 @@
       },
       {
        "name": "RCI Martinique - Dancehall",
+       "active": 0,
        "url": "http://51.91.29.182:8000/rcidancehall",
        "tags": [
         "reggae_ska",
@@ -568,6 +630,7 @@
      "stations": [
       {
        "name": "Mouv'FM Listen live",
+       "active": 0,
        "url": "https://listen.radioking.com/radio/255529/stream/300106",
        "tags": [
         "soul_rnb_funk",
@@ -581,10 +644,12 @@
       },
       {
        "name": "RFC Urban",
+       "active": 0,
        "url": "http://stream.rcast.net/67102"
       },
       {
        "name": "Sousleground",
+       "active": 0,
        "url": "https://listen.radioking.com/radio/92836/stream/131293",
        "tags": [
         "soul_rnb_funk",
@@ -602,6 +667,7 @@
       },
       {
        "name": "Trace FM",
+       "active": 0,
        "url": "https://stream.trace.tv/trace_fm_martinique-midfi.aac",
        "tags": [
         "pop_hits",
@@ -614,6 +680,7 @@
       },
       {
        "name": "TRACE FM Martinique",
+       "active": 0,
        "url": "https://stream.rcs.revma.com/1u2tgf744k0uv",
        "tags": [
         "soul_rnb_funk",
@@ -630,6 +697,7 @@
      "stations": [
       {
        "name": "MAXXI RMC",
+       "active": 0,
        "url": "http://2stream.dyndns.org:8000/maxxi",
        "tags": [
         "sports",
@@ -643,6 +711,7 @@
      "stations": [
       {
        "name": "RCI Radio ID",
+       "active": 0,
        "url": "http://92.222.92.137:8000/rci-id.aac",
        "tags": [
         "pop_hits",
@@ -657,6 +726,7 @@
      "stations": [
       {
        "name": "Fun Radio Antilles",
+       "active": 0,
        "url": "http://163.172.96.134:8110",
        "tags": [
         "pop_hits",
@@ -666,6 +736,7 @@
       },
       {
        "name": "Gospel Sound System",
+       "active": 0,
        "url": "https://clare.shoutca.st/listen/gssradio/radio.mp3",
        "tags": [
         "world",
@@ -674,11 +745,13 @@
       },
       {
        "name": "Misik Soleil",
+       "active": 0,
        "url": "https://live.streamantille.com:8020/stream.mp3",
        "language_inferred": true
       },
       {
        "name": "MOUV'",
+       "active": 0,
        "url": "https://www.radioking.com/play/mouvfm/300106",
        "tags": [
         "world",
@@ -688,6 +761,7 @@
       },
       {
        "name": "Radio Actif Martinique",
+       "active": 0,
        "url": "http://198.27.68.65:8170/stream",
        "tags": [
         "world",
@@ -698,6 +772,7 @@
       },
       {
        "name": "Radio Canal Antilles",
+       "active": 0,
        "url": "http://81.248.108.29:88/broadwavehigh.mp3/stream.mp3",
        "tags": [
         "various_eclectic",
@@ -708,10 +783,12 @@
       },
       {
        "name": "Radio Fusion",
+       "active": 0,
        "url": "http://france16.coollabel-productions.com:8276/stream/"
       },
       {
        "name": "Radio Inter Tropicale",
+       "active": 0,
        "url": "http://centova12.instainternet.com:8004/stream",
        "tags": [
         "world",
@@ -720,27 +797,33 @@
       },
       {
        "name": "Radio RLDM",
+       "active": 0,
        "url": "http://srv2.streaming-ingenierie.fr:8176/",
        "language_inferred": true
       },
       {
        "name": "RCI Martinique - Compas",
+       "active": 0,
        "url": "http://51.91.29.183:8000/rcicompas"
       },
       {
        "name": "RCI Martinique - Kassav",
+       "active": 0,
        "url": "http://51.91.29.182:8000/rcikassav"
       },
       {
        "name": "RCI Martinique - Live",
+       "active": 0,
        "url": "http://51.91.29.182:8000/rcilive"
       },
       {
        "name": "RCI Martinique - Zouk",
+       "active": 0,
        "url": "http://51.91.29.183:8000/rcizouk"
       },
       {
        "name": "RCI Tradition",
+       "active": 0,
        "url": "https://stream.rcs.revma.com/mufppgzctwzuv",
        "tags": [
         "world",
@@ -750,6 +833,7 @@
       },
       {
        "name": "RCI – Radio Caraïbes International Martinique – Fort-de-France – MQ-MQ",
+       "active": 0,
        "url": "https://n08a-eu.rcs.revma.com/t0abpqyspwzuv",
        "language_inferred": true
       }
@@ -760,438 +844,528 @@
      "stations": [
       {
        "name": "Bel Radio Martinique – Fort-de-France – MQ-MQ",
+       "active": 0,
        "url": "https://n11a-eu.rcs.revma.com/9b1a2gyspwzuv",
        "language_inferred": true
       },
       {
        "name": "Cherie FM",
+       "active": 0,
        "url": "https://scdn.nrjaudio.fm/fr/30201/mp3_128.mp3?origine=mytuner&ampcdn_path=adswizz_lbs10&ampaccess_token=9a8fda5523b04a40b07c3427b1e7c61f",
        "language_inferred": true
       },
       {
        "name": "Fréquence Caraïbes Musique",
+       "active": 0,
        "url": "http://163.172.59.44:8002/stream",
        "language_inferred": true
       },
       {
        "name": "Identité Radio – Fort-de-France – MQ-MQ",
+       "active": 0,
        "url": "https://www.radioking.com/play/identiteradio/59584",
        "language_inferred": true
       },
       {
        "name": "Iphone de Elijah",
+       "active": 0,
        "url": "https://stream.zeno.fm/4qe95nf24c9uv",
        "language_inferred": true
       },
       {
        "name": "Jumble FM - Urban Reggae",
+       "active": 0,
        "url": "https://stream.zeno.fm/ux5sx75k698uv",
        "language_inferred": true
       },
       {
        "name": "Jumble FM - Urban Reggae",
+       "active": 0,
        "url": "https://stream.zeno.fm/crsp8x5k698uv",
        "language_inferred": true
       },
       {
        "name": "kl@moson",
+       "active": 0,
        "url": "http://91.121.29.104:8108/"
       },
       {
        "name": "Madinina FM 1",
+       "active": 0,
        "url": "https://sv3.vestaradio.com/MadininaFM1",
        "language_inferred": true
       },
       {
        "name": "Madinina FM 2",
+       "active": 0,
        "url": "https://sv3.vestaradio.com/MadininaFM2",
        "language_inferred": true
       },
       {
        "name": "MAKNETJAZZ",
+       "active": 0,
        "url": "http://91.121.29.104:8000/listen.qtl"
       },
       {
        "name": "Mariah",
+       "active": 0,
        "url": "https://stream.zeno.fm/5un7pva2aceuv"
       },
       {
        "name": "Maxi Plus",
+       "active": 0,
        "url": "https://stream.zeno.fm/s8xdbruneg8uv",
        "language_inferred": true
       },
       {
        "name": "MYSTARRE",
+       "active": 0,
        "url": "https://stream.zeno.fm/ztc076x71s8uv",
        "language_inferred": true
       },
       {
        "name": "Nema-international",
+       "active": 0,
        "url": "https://stream.zeno.fm/xpqw11xfzhhvv"
       },
       {
        "name": "NRJ Guadeloupe – Basse-Terre – GP-GP",
+       "active": 0,
        "url": "http://cdn.nrjaudio.fm/adwz1/fr_an/55248/mp3_128.mp3",
        "language_inferred": true
       },
       {
        "name": "Othentik Radio",
+       "active": 0,
        "url": "https://listen.radioking.com/radio/538844/stream/597449",
        "language_inferred": true
       },
       {
        "name": "Radio Actif",
+       "active": 0,
        "url": "http://198.27.68.65:8170/audio.mp3?hash=1602095019270",
        "language_inferred": true
       },
       {
        "name": "Radio Actif Martinique – Fort-de-France – MQ-MQ",
+       "active": 0,
        "url": "http://198.27.68.65:2199/tunein/actifradio.pls",
        "language_inferred": true
       },
       {
        "name": "Radio APAL",
+       "active": 0,
        "url": "https://n03a-eu.rcs.revma.com/9b1a2gyspwzuv",
        "language_inferred": true
       },
       {
        "name": "Radio Canal Antilles",
+       "active": 0,
        "url": "http://81.248.108.29:88/broadwave.m3u?src=1&rate=1"
       },
       {
        "name": "Radio Fusion",
+       "active": 0,
        "url": "http://france16.coollabel-productions.com:8276/listen.m3u"
       },
       {
        "name": "Radio Hibiscus radio",
+       "active": 0,
        "url": "https://listen.radioking.com/radio/291520/stream/337819",
        "language_inferred": true
       },
       {
        "name": "Radio Imagine – Saint-Esprit – MQ-MQ",
+       "active": 0,
        "url": "https://www.radioking.com/play/radioimagine",
        "language_inferred": true
       },
       {
        "name": "RADIO OCEANIC97",
+       "active": 0,
        "url": "https://stream.zeno.fm/c9xnvcsy5x8uv",
        "language_inferred": true
       },
       {
        "name": "RADIO OMDMHYD MARTINIQUE",
+       "active": 0,
        "url": "https://stream.zeno.fm/yuslgsqnrhbuv",
        "language_inferred": true
       },
       {
        "name": "Radio Tomazo FM – 94.7 FM – Fort-de-France – MQ-MQ",
+       "active": 0,
        "url": "https://node-21.zeno.fm/gz5wr6gknrhvv?zs=rZS3iSzCTNupRI7cRO4e1w&rj-tok=AAABgNJ22O8ApoI0kCmzBu2BUw&rj-ttl=5",
        "language_inferred": true
       },
       {
        "name": "Radio Tropical Inter",
+       "active": 0,
        "url": "http://sv1.vestaradio.com:5520/",
        "language_inferred": true
       },
       {
        "name": "RBR FM",
+       "active": 0,
        "url": "http://sv1.vestaradio.com:5840/",
        "language_inferred": true
       },
       {
        "name": "RCI Compas – Fort-de-France – MQ-MQ",
+       "active": 0,
        "url": "https://n04a-eu.rcs.revma.com/5dvn9urtpwzuv",
        "language_inferred": true
       },
       {
        "name": "RCI Dancehall – Fort-de-France – MQ-MQ",
+       "active": 0,
        "url": "https://n14a-eu.rcs.revma.com/5stt0yrtpwzuv",
        "language_inferred": true
       },
       {
        "name": "RCI Kassav – Les Abymes – GP-GP",
+       "active": 0,
        "url": "https://n14a-eu.rcs.revma.com/6mddg9utpwzuv",
        "language_inferred": true
       },
       {
        "name": "RCI Martinique",
+       "active": 0,
        "url": "https://n09.rcs.revma.com/t0abpqyspwzuv?rj-ttl=5\\u0026rj-tok=AAABf_qaLR8Aivn2_HqB5ATnug",
        "language_inferred": true
       },
       {
        "name": "RCI Martinique FM",
+       "active": 0,
        "url": "https://n08.rcs.revma.com/t0abpqyspwzuv?rj-ttl=5&amprj-tok=AAABdd-3X7IA-kRPaxDi9rTRNg",
        "language_inferred": true
       },
       {
        "name": "RCI Tradition – Fort-de-France – MQ-MQ",
+       "active": 0,
        "url": "https://n15a-eu.rcs.revma.com/mufppgzctwzuv",
        "language_inferred": true
       },
       {
        "name": "RCI Zouk – Fort-de-France – MQ-MQ",
+       "active": 0,
        "url": "https://n10a-eu.rcs.revma.com/wkf0thzctwzuv",
        "language_inferred": true
       },
       {
        "name": "RF C Urban",
+       "active": 0,
        "url": "http://163.172.59.44:8006/"
       },
       {
        "name": "RFA RADIO",
+       "active": 0,
        "url": "http://manager.radioking.fr:2199/tunein/rfa.pls"
       },
       {
        "name": "RFA RADIO MARTINIQUE",
+       "active": 0,
        "url": "https://stream.zeno.fm/gjxhsby8y15uv"
       },
       {
        "name": "RFC - Radio Fréquence Caraïbes",
+       "active": 0,
        "url": "http://163.172.59.44:8000/stream",
        "language_inferred": true
       },
       {
        "name": "RFC – Radio Fréquence Caraïbes – Le Morne-Rouge – MQ-MQ",
+       "active": 0,
        "url": "http://163.172.59.44/player/playlist.php?name=listen.pls",
        "language_inferred": true
       },
       {
        "name": "Rockerz Islandz",
+       "active": 0,
        "url": "http://sv6.vestaradio.com:4710",
        "language_inferred": true
       },
       {
        "name": "RV7 AJOUPA-BOUILLON",
+       "active": 0,
        "url": "https://stream.zeno.fm/hwgo4xd4hmnuv",
        "language_inferred": true
       },
       {
        "name": "RV7 BASSE-POINTE",
+       "active": 0,
        "url": "https://stream.zeno.fm/lnlk0uifijnuv",
        "language_inferred": true
       },
       {
        "name": "RV7 BELLE-FONTAINE",
+       "active": 0,
        "url": "https://stream.zeno.fm/umhglgnfmobvv",
        "language_inferred": true
       },
       {
        "name": "RV7 CASE-PILOTE",
+       "active": 0,
        "url": "https://stream.zeno.fm/qjaa8c6flhvuv",
        "language_inferred": true
       },
       {
        "name": "RV7 DUCOS",
+       "active": 0,
        "url": "https://stream.zeno.fm/exzxzisyszztv",
        "language_inferred": true
       },
       {
        "name": "RV7 FONDS-SAINT-DENIS",
+       "active": 0,
        "url": "https://stream.zeno.fm/u3tlqpcxez3tv",
        "language_inferred": true
       },
       {
        "name": "RV7 FOR-DE-FRANCE",
+       "active": 0,
        "url": "https://stream.zeno.fm/vxwryaxxrpxtv",
        "language_inferred": true
       },
       {
        "name": "RV7 GRAND-RIVIERE",
+       "active": 0,
        "url": "https://stream.zeno.fm/xd9kvyhzuyltv",
        "language_inferred": true
       },
       {
        "name": "RV7 GROS-MORNE",
+       "active": 0,
        "url": "https://stream.zeno.fm/sqcpageqtiuuv",
        "language_inferred": true
       },
       {
        "name": "RV7 LA-TRINITE",
+       "active": 0,
        "url": "https://stream.zeno.fm/gxu8dzooyv2tv",
        "language_inferred": true
       },
       {
        "name": "RV7 LE-CARBET",
+       "active": 0,
        "url": "https://stream.zeno.fm/0ecvytzhcnmuv",
        "language_inferred": true
       },
       {
        "name": "RV7 LE-DIAMANT",
+       "active": 0,
        "url": "https://stream.zeno.fm/fbauq9b1am1vv",
        "language_inferred": true
       },
       {
        "name": "RV7 LE-FRANCOIS",
+       "active": 0,
        "url": "https://stream.zeno.fm/m5nfuuoan4tvv",
        "language_inferred": true
       },
       {
        "name": "RV7 LE-LAMENTIN",
+       "active": 0,
        "url": "https://stream.zeno.fm/jswozx2vpp1uv",
        "language_inferred": true
       },
       {
        "name": "RV7 LE-LORRAIN",
+       "active": 0,
        "url": "https://stream.zeno.fm/7prh4uthvbrtv",
        "language_inferred": true
       },
       {
        "name": "RV7 LE-MARIGOT",
+       "active": 0,
        "url": "https://stream.zeno.fm/njmsq5chjyqtv",
        "language_inferred": true
       },
       {
        "name": "RV7 LE-MARIN",
+       "active": 0,
        "url": "https://stream.zeno.fm/0d2faw4dn96vv",
        "language_inferred": true
       },
       {
        "name": "RV7 LE-MORNE-ROUGE",
+       "active": 0,
        "url": "https://stream.zeno.fm/og5rsph6hw1vv",
        "language_inferred": true
       },
       {
        "name": "RV7 LE-MORNE-VERT",
+       "active": 0,
        "url": "https://stream.zeno.fm/3hiyxudfopdvv",
        "language_inferred": true
       },
       {
        "name": "RV7 LE-PRECHEUR",
+       "active": 0,
        "url": "https://stream.zeno.fm/jqutgbkvbsovv",
        "language_inferred": true
       },
       {
        "name": "RV7 LE-ROBERT",
+       "active": 0,
        "url": "https://stream.zeno.fm/ukdgnnxxlervv",
        "language_inferred": true
       },
       {
        "name": "RV7 LE-VAUCLIN",
+       "active": 0,
        "url": "https://stream.zeno.fm/qnwl6xmxiqcvv",
        "language_inferred": true
       },
       {
        "name": "RV7 LES-ANSES-DARLET",
+       "active": 0,
        "url": "https://stream.zeno.fm/j00rxmrlje2uv",
        "language_inferred": true
       },
       {
        "name": "RV7 LES-TROIS-ILETS",
+       "active": 0,
        "url": "https://stream.zeno.fm/miqt0uwfllnvv",
        "language_inferred": true
       },
       {
        "name": "RV7 Macouba",
+       "active": 0,
        "url": "https://node-23.zeno.fm/t13kr0b3czzuv",
        "language_inferred": true
       },
       {
        "name": "RV7 MACOUBA",
+       "active": 0,
        "url": "https://stream.zeno.fm/tqwyjlblaqevv",
        "language_inferred": true
       },
       {
        "name": "RV7 MACOUBA MARTINIQUE",
+       "active": 0,
        "url": "https://stream.zeno.fm/2taagpsb1feuv"
       },
       {
        "name": "RV7 MARTINIQUE",
+       "active": 0,
        "url": "https://stream.zeno.fm/mgtssvkzrzzuv"
       },
       {
        "name": "RV7 RIVIERE-PILOTE",
+       "active": 0,
        "url": "https://stream.zeno.fm/vae2fwdcvcjuv",
        "language_inferred": true
       },
       {
        "name": "RV7 RIVIERE-SALEE",
+       "active": 0,
        "url": "https://stream.zeno.fm/e3mxvqgkwn4uv",
        "language_inferred": true
       },
       {
        "name": "RV7 SAINT-ESPRIT",
+       "active": 0,
        "url": "https://stream.zeno.fm/ypaloezkcxhuv",
        "language_inferred": true
       },
       {
        "name": "RV7 SAINT-JOSEPH",
+       "active": 0,
        "url": "https://stream.zeno.fm/ctgpqi3df2itv",
        "language_inferred": true
       },
       {
        "name": "RV7 SAINT-PIERRE",
+       "active": 0,
        "url": "https://stream.zeno.fm/jp6jrimxq9xuv",
        "language_inferred": true
       },
       {
        "name": "RV7 SAINTE-ANNE",
+       "active": 0,
        "url": "https://stream.zeno.fm/fpyrjbhx2urtv",
        "language_inferred": true
       },
       {
        "name": "RV7 SAINTE-LUCE",
+       "active": 0,
        "url": "https://stream.zeno.fm/92c9jsec4dnvv",
        "language_inferred": true
       },
       {
        "name": "RV7 SAINTE-MARIE",
+       "active": 0,
        "url": "https://stream.zeno.fm/0hhisfbqrcyuv",
        "language_inferred": true
       },
       {
        "name": "RV7 SCHOELCHER",
+       "active": 0,
        "url": "https://stream.zeno.fm/otq1htpz9qyuv",
        "language_inferred": true
       },
       {
        "name": "RV7 SPORTS",
+       "active": 0,
        "url": "https://stream.zeno.fm/nqhhgdnrulmuv",
        "language_inferred": true
       },
       {
        "name": "RV7 TARTANE",
+       "active": 0,
        "url": "https://stream.zeno.fm/cn5xtfr33qfvv",
        "language_inferred": true
       },
       {
        "name": "Shatta Sound",
+       "active": 0,
        "url": "https://stream.zeno.fm/11czp0a6udxuv",
        "language_inferred": true
       },
       {
        "name": "SMJC.WEBFM",
+       "active": 0,
        "url": "https://stream.zeno.fm/sdte583zaphvv",
        "language_inferred": true
       },
       {
        "name": "Super Radio – 105.7 FM – Rivière-Pilote – MQ-MQ",
+       "active": 0,
        "url": "http://str81.streamakaci.com:9160/streamakaci",
        "language_inferred": true
       },
       {
        "name": "Tchaikovski",
+       "active": 0,
        "url": "https://stream.zeno.fm/kg0rx9yk6a0uv",
        "language_inferred": true
       },
       {
        "name": "TRACE FM",
+       "active": 0,
        "url": "https://stream.zeno.fm/qez7gvurpc9uv"
       },
       {
        "name": "TRICÉPHALE RADIO",
+       "active": 0,
        "url": "https://listen.radioking.com/radio/350059/stream/399202"
       },
       {
        "name": "Tzgospel swahili",
+       "active": 0,
        "url": "https://stream.zeno.fm/0gm0r5u6kfhvv",
        "language_inferred": true
       },
       {
        "name": "www.handifm972.net",
+       "active": 0,
        "url": "https://stream.zeno.fm/vuxtca5k698uv",
        "language_inferred": true
       },
       {
        "name": "Zoukla Rétro",
+       "active": 0,
        "url": "https://stream.zeno.fm/xzvf7bxfm98uv"
       }
      ]
@@ -1206,6 +1380,7 @@
      "stations": [
       {
        "name": "RADIO TOMAZO FM 94.7",
+       "active": 0,
        "url": "https://stream.zeno.fm/gz5wr6gknrhvv"
       }
      ]
@@ -1215,6 +1390,7 @@
      "stations": [
       {
        "name": "RLDM",
+       "active": 0,
        "url": "http://srv2.streaming-ingenierie.fr:8176/stream",
        "tags": [
         "latin",
@@ -1228,6 +1404,7 @@
      "stations": [
       {
        "name": "RV7 CARAIBES",
+       "active": 0,
        "url": "https://stream.zeno.fm/7kk9cy666p8uv"
       }
      ]
@@ -1242,6 +1419,7 @@
      "stations": [
       {
        "name": "Radio Evangile Martinique",
+       "active": 0,
        "url": "http://51.210.8.69:8000/",
        "tags": [
         "christian_gospel",
@@ -1260,6 +1438,7 @@
      "stations": [
       {
        "name": "Radio Sud Est Listen live",
+       "active": 0,
        "url": "https://sv1.vestaradio.com/RADIOSUDEST",
        "tags": [
         "reggae_ska",
@@ -1281,6 +1460,7 @@
      "stations": [
       {
        "name": "Maknet1000",
+       "active": 0,
        "url": "http://91.121.29.104:8000",
        "tags": [
         "jazz",
